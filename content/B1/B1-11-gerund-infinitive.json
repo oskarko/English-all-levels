@@ -1,0 +1,441 @@
+{
+  "id": "B1-11",
+  "level": "B1",
+  "title": "GERUNDIO <em>o</em> INFINITIVO",
+  "file_title": "Gerundio o infinitivo",
+  "subtitle": "Verb + -ing or verb + to · ¿doing o to do?",
+  "icon": "🎯",
+  "map": {
+    "center": "Cuando un verbo va detrás de otro, el segundo va en <b>-⁠ing</b> (enjoy <b>doing</b>) o con <b>to</b> (want <b>to do</b>).",
+    "nodes": [
+      {
+        "title": "Verbo + -ING", "icon": "🏃",
+        "items": ["<b>enjoy, finish, avoid, mind, suggest, keep, miss</b>…", "I enjoy <b>reading</b>. <i>(Disfruto leyendo.)</i>"]
+      },
+      {
+        "title": "Verbo + TO", "icon": "🎯",
+        "items": ["<b>want, decide, hope, need, plan, learn, promise</b>…", "I want <b>to travel</b>. <i>(Quiero viajar.)</i>"]
+      },
+      {
+        "title": "Preposición + -ING", "icon": "📌",
+        "items": ["Tras <b>in, at, of, for, without, before</b>… → -⁠ing", "I'm good <b>at cooking</b>. · Thanks <b>for coming</b>!"]
+      },
+      {
+        "title": "-ING como sujeto", "icon": "🥇", "art": "🏊",
+        "items": ["<b>Swimming</b> is good for you. <i>(Nadar es sano.)</i>", "Español: infinitivo → inglés: <b>-⁠ing</b>"]
+      },
+      {
+        "title": "LIKE, LOVE, HATE", "icon": "❤️",
+        "items": ["like / love / hate + <b>-⁠ing</b> (o to)", "I love <b>dancing</b>. = I love <b>to dance</b>.", "<b>would like</b> + <b>to</b>: I'd like <b>to go</b>."]
+      },
+      {
+        "title": "Truco", "icon": "💡",
+        "items": ["<b>to</b> → mira al futuro: want, hope, plan, decide", "<b>-⁠ing</b> → la actividad en sí: enjoy, finish, avoid"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["I enjoy to play football."],
+      "good": ["I enjoy playing football."],
+      "note": "enjoy + <b>-ing</b>, nunca to"
+    },
+    "mini": {
+      "es": "Completa con -ing o to + verbo.",
+      "en": "Complete with -ing or to + verb.",
+      "items": [
+        { "q": "I enjoy ____ films.", "a": "watching", "hint": "watch" },
+        { "q": "She wants ____ abroad.", "a": "to study", "hint": "study" },
+        { "q": "He's good at ____.", "a": "drawing", "hint": "draw" },
+        { "q": "____ is my favourite sport.", "a": "Swimming", "hint": "swim" },
+        { "q": "We decided ____ a taxi.", "a": "to take", "hint": "take" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Cuando en una frase hay <b>dos verbos seguidos</b>, el primero «manda» sobre la forma del segundo. Unos verbos piden <b>-ing</b> (<i>I enjoy <u>dancing</u></i>) y otros piden <b>to + infinitivo</b> (<i>I want <u>to dance</u></i>). En español casi siempre usamos el infinitivo («disfruto <i>bailando</i>», «quiero <i>bailar</i>»), así que en inglés hay que <mark>aprender qué pide cada verbo</mark>. Además, detrás de una <b>preposición</b> y como <b>sujeto</b> se usa siempre -ing.",
+      "en": "When two verbs go together, the first one decides the form of the second: <b>-ing</b> (enjoy dancing) or <b>to + infinitive</b> (want to dance).",
+      "formula": ["verbo + *verbo-ing*", "verbo + *to* + infinitivo"]
+    },
+    {
+      "t": "rule", "title": "1 · Verbos + -ING", "title_en": "Verbs + -ing", "icon": "🏃", "color": "green",
+      "es": "Estos verbos van seguidos de <b>-ing</b>: <b>enjoy</b> (disfrutar), <b>finish</b> (terminar), <b>avoid</b> (evitar), <b>mind</b> (importar), <b>suggest</b> (sugerir), <b>keep</b> (seguir, no parar de), <b>miss</b> (echar de menos), <b>practise</b> (practicar), <b>imagine</b>, <b>consider</b>, <b>can't stand</b> (no soportar). ¡Detrás de ellos nunca va <s>to</s>!",
+      "en": "These verbs are followed by <b>-ing</b>: enjoy, finish, avoid, mind, suggest, keep, miss, practise, imagine, consider, can't stand.",
+      "formula": ["enjoy / finish / avoid / mind… + *verbo-ing*"],
+      "examples": [
+        { "en": "I really <b>enjoy cooking</b> for my friends.", "es": "Disfruto mucho cocinando para mis amigos.", "icon": "🍳" },
+        { "en": "Have you <b>finished doing</b> your homework?", "es": "¿Has terminado de hacer los deberes?", "icon": "📝" },
+        { "en": "She <b>avoids eating</b> sugar during the week.", "es": "Evita comer azúcar entre semana.", "icon": "🍬" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · Verbos + TO", "title_en": "Verbs + to + infinitive", "icon": "🎯", "color": "blue",
+      "es": "Estos verbos van seguidos de <b>to + infinitivo</b>: <b>want</b> (querer), <b>decide</b> (decidir), <b>hope</b> (esperar, desear), <b>need</b> (necesitar), <b>plan</b> (planear), <b>learn</b> (aprender), <b>promise</b> (prometer), <b>agree</b> (acordar), <b>refuse</b> (negarse), <b>forget</b> (olvidarse de), <b>try</b> (intentar), <b>would like</b> (me gustaría). Muchos miran hacia el <b>futuro</b>: algo que todavía no ha pasado.",
+      "en": "These verbs take <b>to + infinitive</b>: want, decide, hope, need, plan, learn, promise, agree, refuse, forget, try, would like.",
+      "formula": ["want / decide / hope / need… + *to* + infinitivo"],
+      "examples": [
+        { "en": "We <b>decided to book</b> a cheaper hotel.", "es": "Decidimos reservar un hotel más barato.", "icon": "🏨" },
+        { "en": "I <b>hope to see</b> you again soon!", "es": "¡Espero volver a verte pronto!", "icon": "👋" },
+        { "en": "He's <b>learning to drive</b>.", "es": "Está aprendiendo a conducir.", "icon": "🚗" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco: ¿hacia delante o la acción?", "title_en": "Memory trick",
+      "es": "Muchos verbos con <b>to</b> miran <mark>hacia el futuro</mark>: <i>want, hope, plan, decide, promise, would like</i> (algo que aún no ha pasado). Muchos verbos con <b>-ing</b> hablan de <mark>la actividad en sí</mark>: <i>enjoy, finish, avoid, mind, keep</i>. No es una regla perfecta, ¡pero ayuda! Y detrás de preposición… siempre -ing.",
+      "en": "<b>to</b> often looks to the future (want, hope, plan). <b>-ing</b> often refers to the activity itself (enjoy, finish, avoid). After prepositions: always -ing."
+    },
+    {
+      "t": "table", "title": "Las dos listas", "title_en": "The two lists", "icon": "📋", "color": "orange", "wide": true,
+      "head": ["🏃 + -ING", "Significado", "🎯 + TO", "Significado"],
+      "rows": [
+        ["<b>enjoy</b> doing", "disfrutar", "<b>want</b> to do", "querer"],
+        ["<b>finish</b> doing", "terminar de", "<b>decide</b> to do", "decidir"],
+        ["<b>avoid</b> doing", "evitar", "<b>hope</b> to do", "esperar (desear)"],
+        ["<b>(don't) mind</b> doing", "(no) importar", "<b>need</b> to do", "necesitar"],
+        ["<b>suggest</b> doing", "sugerir, proponer", "<b>plan</b> to do", "planear"],
+        ["<b>keep</b> doing", "seguir, no parar de", "<b>learn</b> to do", "aprender a"],
+        ["<b>miss</b> doing", "echar de menos", "<b>promise</b> to do", "prometer"],
+        ["<b>practise</b> doing", "practicar", "<b>agree</b> to do", "acceder a, acordar"],
+        ["<b>can't stand</b> doing", "no soportar", "<b>refuse</b> to do", "negarse a"],
+        ["<b>imagine</b> doing", "imaginar(se)", "<b>would like</b> to do", "gustaría"]
+      ],
+      "note": "Aprende cada verbo <mark>con su pareja</mark>: <b>enjoy doing</b>, <b>want to do</b>. ¡Como si fuera una sola palabra!",
+      "note_en": "Learn each verb with its pattern: enjoy doing, want to do."
+    },
+    {
+      "t": "rule", "title": "3 · Preposición + -ING", "title_en": "Preposition + -ing", "icon": "📌", "color": "purple",
+      "es": "Detrás de <b>cualquier preposición</b> (<i>in, on, at, of, about, for, with, without, before, after, by, instead of</i>) el verbo va <mark>siempre en -ing</mark>. Aquí el español usa infinitivo («antes de <u>salir</u>», «gracias por <u>venir</u>»), y por eso el error típico es <s>before to leave</s>. Ojo con <b>look forward to</b>: ¡ese <i>to</i> es preposición!",
+      "en": "After <b>any preposition</b> use <b>-ing</b>: before leaving, thanks for coming, good at drawing. Careful: <i>look forward to</i> + -ing.",
+      "formula": ["preposición + *verbo-ing*"],
+      "examples": [
+        { "en": "Thanks <b>for coming</b> to my party!", "es": "¡Gracias por venir a mi fiesta!", "icon": "🎉" },
+        { "en": "I'm interested <b>in learning</b> Japanese.", "es": "Me interesa aprender japonés.", "icon": "🗾" },
+        { "en": "Wash your hands <b>before eating</b>.", "es": "Lávate las manos antes de comer.", "icon": "🧼" }
+      ]
+    },
+    {
+      "t": "rule", "title": "4 · -ING como sujeto", "title_en": "-ing as the subject", "icon": "🥇", "color": "orange",
+      "es": "Cuando una actividad es el <b>sujeto</b> de la frase, en inglés usamos <b>-ing</b> (y el verbo va en singular). En español usamos el infinitivo: «<i><u>Nadar</u> es sano</i>» → <b>Swimming is healthy</b>. ¡No digas <s>Swim is healthy</s>!",
+      "en": "When an activity is the <b>subject</b>, use <b>-ing</b>: Swimming is healthy. Reading helps you relax.",
+      "formula": ["*Verbo-ing* + is / makes / helps…"],
+      "examples": [
+        { "en": "<b>Swimming</b> is good for your back.", "es": "Nadar es bueno para la espalda.", "icon": "🏊" },
+        { "en": "<b>Learning</b> a language takes time.", "es": "Aprender un idioma lleva tiempo.", "icon": "🗣️" },
+        { "en": "<b>Getting up</b> early is really hard for me.", "es": "Madrugar me cuesta muchísimo.", "icon": "⏰" }
+      ]
+    },
+    {
+      "t": "rule", "title": "5 · LIKE, LOVE, HATE", "title_en": "like, love, hate, prefer", "icon": "❤️", "color": "pink",
+      "es": "<b>Like, love, hate</b> y <b>prefer</b> pueden ir con <b>-ing</b> o con <b>to</b> casi sin diferencia: <i>I love <u>dancing</u> = I love <u>to dance</u></i>. Para gustos generales, -ing es lo más natural. ¡Pero ojo con <b>would like / would love</b>! Esas van <mark>siempre con to</mark>: <i>I'd like <u>to go</u></i> (me gustaría ir).",
+      "en": "<b>like, love, hate, prefer</b> + -ing or to (same meaning). <b>would like / would love</b> + to only.",
+      "formula": ["like / love / hate + *-ing* (o *to*)", "*would like / would love* + *to* + infinitivo"],
+      "examples": [
+        { "en": "I <b>love going</b> to concerts with my friends.", "es": "Me encanta ir a conciertos con mis amigos.", "icon": "🎤" },
+        { "en": "She <b>hates getting</b> up early on Mondays.", "es": "Odia levantarse temprano los lunes.", "icon": "😩" },
+        { "en": "<b>Would</b> you <b>like to come</b> for dinner on Friday?", "es": "¿Te gustaría venir a cenar el viernes?", "icon": "🍝" }
+      ]
+    },
+    {
+      "t": "table", "title": "Preposición + -ING: expresiones útiles", "title_en": "Useful expressions", "icon": "📌", "color": "purple",
+      "head": ["Expresión", "Significado", "Ejemplo · Example"],
+      "rows": [
+        ["<b>good at</b>", "se me da bien", "I'm good at draw<em>ing</em>."],
+        ["<b>interested in</b>", "interesado en", "She's interested in act<em>ing</em>."],
+        ["<b>tired of</b>", "harto de", "I'm tired of wait<em>ing</em>."],
+        ["<b>afraid of</b>", "miedo a", "He's afraid of fly<em>ing</em>."],
+        ["<b>think of / about</b>", "pensar en", "I'm thinking of mov<em>ing</em>."],
+        ["<b>look forward to</b>", "tener ganas de", "I look forward to see<em>ing</em> you."],
+        ["<b>instead of</b>", "en vez de", "Walk instead of tak<em>ing</em> the bus."],
+        ["<b>without</b>", "sin", "He left without say<em>ing</em> goodbye."]
+      ],
+      "note": "«Pensar <b>en</b> mudarme» → thinking <b>of</b> mov<em>ing</em>. ¡Ojo, la preposición no siempre coincide con la del español!",
+      "note_en": "The preposition is not always the same as in Spanish."
+    },
+    {
+      "t": "compare", "title": "STOP y REMEMBER", "title_en": "Two verbs that change meaning", "color": "teal", "icon": "🔄",
+      "es": "Unos pocos verbos admiten las dos formas, pero <mark>cambian de significado</mark>. Los dos más útiles son <b>stop</b> y <b>remember</b>:",
+      "en": "A few verbs take both forms with a different meaning: <b>stop</b> and <b>remember</b>.",
+      "cols": [
+        { "head": "🏃 + -ING", "color": "green", "items": ["I <b>stopped smoking</b>. <i>(Dejé de fumar.)</i>", "I <b>remember meeting</b> her. <i>(Recuerdo haberla conocido.)</i>"] },
+        { "head": "🎯 + TO", "color": "blue", "items": ["I <b>stopped to smoke</b>. <i>(Paré para fumar.)</i>", "<b>Remember to call</b> her! <i>(Acuérdate de llamarla.)</i>"] }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "Do you <b>mind waiting</b> five minutes?", "es": "¿Te importa esperar cinco minutos?", "icon": "⏳" },
+        { "en": "I <b>can't stand listening</b> to people chewing gum.", "es": "No soporto oír a la gente mascar chicle.", "icon": "😖" },
+        { "en": "We're <b>planning to visit</b> Japan next year.", "es": "Estamos planeando visitar Japón el año que viene.", "icon": "🏯" },
+        { "en": "She <b>suggested going</b> to the cinema.", "es": "Propuso ir al cine.", "icon": "🎬" },
+        { "en": "He <b>promised to call</b> me, but he forgot.", "es": "Prometió llamarme, pero se le olvidó.", "icon": "📞" },
+        { "en": "<b>Running</b> helps me clear my head.", "es": "Correr me ayuda a despejarme.", "icon": "🏃" },
+        { "en": "I <b>miss living</b> by the sea.", "es": "Echo de menos vivir junto al mar.", "icon": "🌊" },
+        { "en": "They <b>refused to pay</b> the bill.", "es": "Se negaron a pagar la cuenta.", "icon": "🧾" },
+        { "en": "I'm <b>looking forward to seeing</b> you!", "es": "¡Tengo muchas ganas de verte!", "icon": "🤗" },
+        { "en": "<b>Keep going</b>! You're nearly there!", "es": "¡Sigue! ¡Ya casi estás!", "icon": "💪" },
+        { "en": "You can't get fit <b>without doing</b> exercise.", "es": "No puedes ponerte en forma sin hacer ejercicio.", "icon": "🏋️" },
+        { "en": "I'd <b>love to work</b> abroad one day.", "es": "Me encantaría trabajar en el extranjero algún día.", "icon": "🌍" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "trampas", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "I enjoy to play football.", "good": "I enjoy <b>playing</b> football.", "why": "enjoy + -ing.", "why_en": "enjoy + -ing." },
+        { "bad": "I want going home.", "good": "I want <b>to go</b> home.", "why": "want + to.", "why_en": "want + to." },
+        { "bad": "Before to leave, close the window.", "good": "Before <b>leaving</b>, close the window.", "why": "Calco de «antes de salir»: preposición + -ing.", "why_en": "Preposition + -ing." },
+        { "bad": "Swim is good for you.", "good": "<b>Swimming</b> is good for you.", "why": "Actividad como sujeto → -ing.", "why_en": "-ing as subject." },
+        { "bad": "I'm thinking in moving to Dublin.", "good": "I'm thinking <b>of moving</b> to Dublin.", "why": "«Pensar en» = think of / about + -ing.", "why_en": "think of / about + -ing." },
+        { "bad": "I'd like going to the concert.", "good": "I'd like <b>to go</b> to the concert.", "why": "would like siempre + to.", "why_en": "would like + to." },
+        { "bad": "I look forward to see you.", "good": "I look forward to <b>seeing</b> you.", "why": "Aquí to es preposición → -ing.", "why_en": "look forward to + -ing." },
+        { "bad": "She suggested to go to the beach.", "good": "She suggested <b>going</b> to the beach.", "why": "suggest + -ing.", "why_en": "suggest + -ing." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Cómo elijo la forma?", "title_en": "How do I choose?", "color": "orange",
+      "items": [
+        { "es": "Mira la palabra que va <b>justo delante</b> del segundo verbo.", "en": "Look at the word just before the second verb." },
+        { "es": "¿Es una <b>preposición</b> (in, at, of, before, without…)? → <b>-ing</b>.", "en": "Preposition → -ing." },
+        { "es": "¿Es un verbo de la lista -ing (enjoy, finish, avoid, mind…)? → <b>-ing</b>.", "en": "enjoy, finish, avoid… → -ing." },
+        { "es": "¿Es un verbo de la lista to (want, decide, hope, need…) o <b>would like</b>? → <b>to + infinitivo</b>.", "en": "want, decide, hope, would like… → to." },
+        { "es": "¿La actividad es el <b>sujeto</b> de la frase? → <b>-ing</b> (Reading is fun).", "en": "Activity as subject → -ing." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "Planes de verano", "title_en": "Summer plans",
+      "lines": [
+        { "who": "Hugo", "en": "Have you decided what to do this summer?", "es": "¿Has decidido qué hacer este verano?" },
+        { "who": "Carla", "en": "Yes! I want to do a language course in Dublin. I'm really looking forward to going.", "es": "¡Sí! Quiero hacer un curso de idiomas en Dublín. Tengo muchísimas ganas de ir." },
+        { "who": "Hugo", "en": "Cool! But do you enjoy studying in summer?", "es": "¡Qué bien! ¿Pero te gusta estudiar en verano?" },
+        { "who": "Carla", "en": "I don't mind studying if I can practise speaking with real people.", "es": "No me importa estudiar si puedo practicar la conversación con gente de verdad." },
+        { "who": "Hugo", "en": "I'm thinking of getting a summer job. I need to save some money.", "es": "Yo estoy pensando en buscar un trabajo de verano. Necesito ahorrar algo de dinero." },
+        { "who": "Carla", "en": "Good idea. Working in summer is a great experience.", "es": "Buena idea. Trabajar en verano es una gran experiencia." },
+        { "who": "Hugo", "en": "Yeah, but I hate getting up early!", "es": "Ya, ¡pero odio madrugar!" },
+        { "who": "Carla", "en": "Then avoid applying for jobs in bakeries!", "es": "¡Pues evita pedir trabajo en panaderías!" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose", "title": "Rodea la forma correcta", "title_en": "Circle the correct form", "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "I enjoy [reading|to read] before bed.", "a": "reading" },
+        { "q": "She wants [to study|studying] medicine.", "a": "to study" },
+        { "q": "We decided [to stay|staying] at home.", "a": "to stay" },
+        { "q": "Have you finished [cleaning|to clean] your room?", "a": "cleaning" },
+        { "q": "He's very good at [playing|play] chess.", "a": "playing" },
+        { "q": "[Smoking|Smoke] is bad for your health.", "a": "Smoking" },
+        { "q": "I'd like [to order|ordering] a pizza, please.", "a": "to order" },
+        { "q": "They avoid [driving|to drive] in the city centre.", "a": "driving" },
+        { "q": "I hope [to see|seeing] you soon.", "a": "to see" },
+        { "q": "Thanks for [helping|help] me!", "a": "helping" }
+      ]
+    },
+    {
+      "t": "match", "title": "Une las dos partes", "title_en": "Match the two halves", "icon": "🔗",
+      "es": "Une cada principio con su final. Fíjate: ¿pide -ing o to?",
+      "en": "Match the beginnings and the endings.",
+      "pairs": [
+        ["I'm really looking forward to", "seeing you next week."],
+        ["Would you like", "to come to the party?"],
+        ["She's afraid of", "flying, so she always takes the train."],
+        ["We need", "to buy some milk. We've run out."],
+        ["He keeps", "checking his phone during dinner."],
+        ["I promise", "not to be late again."],
+        ["They're interested in", "volunteering at the animal shelter."],
+        ["Do you mind", "opening the window?"]
+      ]
+    },
+    {
+      "t": "classify", "title": "¿-ING o TO?", "title_en": "-ing or to?", "icon": "🗂️",
+      "es": "Escribe cada verbo en su caja: ¿va seguido de -ing o de to + infinitivo?",
+      "en": "Sort the verbs: + -ing or + to?",
+      "cats": [
+        { "name": "🏃 + -ing", "words": ["enjoy", "finish", "avoid", "mind", "suggest", "keep"] },
+        { "name": "🎯 + to", "words": ["want", "decide", "hope", "need", "promise", "would like"] }
+      ]
+    },
+    {
+      "t": "fill", "title": "Completa con el verbo", "title_en": "Complete with the verb", "icon": "✏️",
+      "es": "Escribe el verbo entre paréntesis en -ing o con to + infinitivo.",
+      "en": "Write the verb in the -ing form or to + infinitive.",
+      "items": [
+        { "q": "I don't mind ____ (wait) for you.", "a": "waiting" },
+        { "q": "We're planning ____ (go) to Lisbon in May.", "a": "to go" },
+        { "q": "She suggested ____ (have) dinner at the new Thai place.", "a": "having" },
+        { "q": "He refused ____ (answer) my question.", "a": "to answer" },
+        { "q": "Have you ever considered ____ (live) abroad?", "a": "living" },
+        { "q": "I'm learning ____ (play) the ukulele.", "a": "to play" },
+        { "q": "My dad can't stand ____ (queue).", "a": ["queuing", "queueing"] },
+        { "q": "They agreed ____ (share) the cost of the trip.", "a": "to share" },
+        { "q": "Imagine ____ (win) the Champions League!", "a": "winning" },
+        { "q": "Don't forget ____ (lock) the door.", "a": "to lock" }
+      ]
+    },
+    {
+      "t": "choose", "title": "¿-ING, TO o las dos?", "title_en": "-ing, to or both?", "icon": "❤️",
+      "es": "Rodea la forma correcta. Si valen las dos, rodea both. Ojo con would like / would love.",
+      "en": "Circle the correct form. If both are possible, circle both.",
+      "items": [
+        { "q": "I love [walking|to walk|both] in the rain.", "a": "both" },
+        { "q": "I'd love [going|to go|both] to Iceland.", "a": "to go" },
+        { "q": "She hates [taking|to take|both] the bus.", "a": "both" },
+        { "q": "Would you like [having|to have|both] a drink?", "a": "to have" },
+        { "q": "He prefers [working|to work|both] alone.", "a": "both" },
+        { "q": "Do you like [watching|to watch|both] cartoons?", "a": "both" },
+        { "q": "We'd like [booking|to book|both] a table for four.", "a": "to book" },
+        { "q": "My sister enjoys [cooking|to cook|both] for us.", "a": "cooking" }
+      ]
+    },
+    {
+      "t": "fill", "title": "Preposición + -ING", "title_en": "Preposition + -ing", "icon": "📌",
+      "es": "Completa con el verbo en -ing. Subraya antes la preposición.",
+      "en": "Complete with the -ing form. Underline the preposition first.",
+      "items": [
+        { "q": "I'm tired of ____ (do) the same thing every day.", "a": "doing" },
+        { "q": "She left without ____ (say) goodbye.", "a": "saying" },
+        { "q": "Thanks for ____ (invite) me!", "a": "inviting" },
+        { "q": "He's really good at ____ (fix) bikes.", "a": "fixing" },
+        { "q": "Before ____ (go) to bed, I always read a bit.", "a": "going" },
+        { "q": "We're thinking of ____ (buy) a new car.", "a": "buying" },
+        { "q": "I'm looking forward to ____ (meet) your family.", "a": "meeting" },
+        { "q": "Why don't you walk instead of ____ (take) the bus?", "a": "taking" }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Correcta o incorrecta?", "title_en": "Right or wrong?", "icon": "✅",
+      "es": "Marca T si la frase es correcta y F si tiene un error. Si es F, corrígela en tu cuaderno.",
+      "en": "Tick T if the sentence is correct and F if it has a mistake.",
+      "items": [
+        { "q": "I enjoy dancing salsa.", "a": true },
+        { "q": "She wants going to the gym.", "a": false, "why": "She wants to go to the gym." },
+        { "q": "Reading before bed helps me sleep.", "a": true },
+        { "q": "He's interested in learn Chinese.", "a": false, "why": "He's interested in learning Chinese." },
+        { "q": "I'd like to visit New York one day.", "a": true },
+        { "q": "We finished to eat at ten.", "a": false, "why": "We finished eating at ten." },
+        { "q": "Do you mind closing the door?", "a": true },
+        { "q": "I'm looking forward to see you.", "a": false, "why": "I'm looking forward to seeing you." }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Del español al inglés", "title_en": "From Spanish to English", "icon": "📋", "wide": true,
+      "es": "Escribe el verbo en inglés y si va con + -ing o con + to.",
+      "en": "Write the English verb and its pattern (+ -ing / + to).",
+      "head": ["Español", "Verbo en inglés · English verb", "+ -ing / + to"],
+      "rows": [
+        ["disfrutar", "?enjoy", "?+ -ing"],
+        ["decidir", "?decide", "?+ to"],
+        ["evitar", "?avoid", "?+ -ing"],
+        ["esperar (desear)", "?hope", "?+ to"],
+        ["terminar de", "?finish", "?+ -ing"],
+        ["negarse a", "?refuse", "?+ to"],
+        ["echar de menos", "?miss", "?+ -ing"],
+        ["prometer", "?promise", "?+ to"]
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Reescribe la frase", "title_en": "Rewrite the sentence", "icon": "🔄",
+      "es": "Reescribe la frase con la palabra entre paréntesis. El significado no cambia.",
+      "en": "Rewrite the sentence using the word in brackets.",
+      "items": [
+        { "q": "Please don't stop. Continue talking. (keep)", "a": "Keep talking." },
+        { "q": "It's good for you to swim. (Swimming…)", "a": "Swimming is good for you." },
+        { "q": "My plan is to visit Rome. (planning)", "a": "I'm planning to visit Rome." },
+        { "q": "«Let's go to the cinema», said Ana. (suggested)", "a": "Ana suggested going to the cinema." },
+        { "q": "«I'll be there at eight, I promise.» (promise)", "a": "I promise to be there at eight." },
+        { "q": "It's hard to learn a new language. (Learning…)", "a": "Learning a new language is hard." },
+        { "q": "He didn't say goodbye. He just left. (without)", "a": "He left without saying goodbye." },
+        { "q": "I can draw very well. (good at)", "a": "I'm very good at drawing." }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase.",
+      "en": "Put the words in order.",
+      "items": [
+        { "q": "enjoy / I / books / reading", "a": "I enjoy reading books." },
+        { "q": "wants / she / to / a dog / get", "a": "She wants to get a dog." },
+        { "q": "is / swimming / great / exercise", "a": "Swimming is great exercise." },
+        { "q": "good / he's / at / cooking / very", "a": "He's very good at cooking." },
+        { "q": "you / would / to / like / come / ?", "a": "Would you like to come?" },
+        { "q": "forward / I'm / looking / to / you / seeing", "a": "I'm looking forward to seeing you." },
+        { "q": "finished / we / the kitchen / painting / have", "a": "We have finished painting the kitchen." },
+        { "q": "mind / do / waiting / you / ?", "a": "Do you mind waiting?" }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "I enjoy to go to concerts.", "a": "I enjoy going to concerts." },
+        { "q": "We decided going by train.", "a": "We decided to go by train." },
+        { "q": "Thanks for help me.", "a": "Thanks for helping me." },
+        { "q": "Run is my favourite hobby.", "a": "Running is my favourite hobby." },
+        { "q": "She's thinking in studying abroad.", "a": "She's thinking of / about studying abroad." },
+        { "q": "Would you like going for a coffee?", "a": "Would you like to go for a coffee?" },
+        { "q": "He avoided to answer the question.", "a": "He avoided answering the question." },
+        { "q": "I look forward to hear from you.", "a": "I look forward to hearing from you." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Piensa: ¿qué pide el primer verbo? ¿Hay preposición? ¿Es el sujeto?",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Me encanta bailar.", "a": ["I love dancing.", "I love to dance."] },
+        { "q": "Quiero aprender a conducir.", "a": "I want to learn to drive." },
+        { "q": "Nadar es bueno para la salud.", "a": "Swimming is good for your health." },
+        { "q": "¿Te importa cerrar la puerta?", "a": "Do you mind closing the door?" },
+        { "q": "Gracias por venir.", "a": "Thank you / Thanks for coming." },
+        { "q": "Decidimos quedarnos en casa.", "a": "We decided to stay at home." },
+        { "q": "Antes de salir, apaga las luces.", "a": "Before going out / leaving, turn off the lights." },
+        { "q": "Estoy pensando en cambiar de trabajo.", "a": "I'm thinking of / about changing jobs." },
+        { "q": "Me gustaría viajar a Japón.", "a": "I'd like to travel to Japan." },
+        { "q": "Evita usar el móvil en la cama.", "a": "Avoid using your phone in bed." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto. Marca T (verdadero) o F (falso) y contesta las preguntas con frases completas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "Why I started climbing",
+      "text": [
+        "I'm Lucía, and last year I decided to try something new. I was tired of spending every evening on the sofa, and I wanted to meet new people. A friend suggested going to a climbing wall near my flat, so I agreed to go with her one Friday.",
+        "At first I was terrible! I'm afraid of falling, and I couldn't stop looking down. But the instructors kept encouraging me, and I decided to go back every week. Climbing is hard, but I really enjoy solving each wall like a puzzle.",
+        "Now I can't imagine living without it. Climbing has helped me feel stronger and more confident. Next summer, I'm hoping to climb outdoors in the Picos de Europa. I'm really looking forward to trying it!"
+      ],
+      "items": [
+        { "q": "Lucía wanted to meet new people.", "tf": true, "a": true },
+        { "q": "Her friend suggested going to a climbing wall.", "tf": true, "a": true },
+        { "q": "At first she was very good at climbing.", "tf": true, "a": false, "why": "At first she was terrible." },
+        { "q": "She isn't afraid of falling.", "tf": true, "a": false, "why": "She's afraid of falling." },
+        { "q": "What was she tired of?", "a": "She was tired of spending every evening on the sofa." },
+        { "q": "What does she enjoy about climbing?", "a": "She enjoys solving each wall like a puzzle." },
+        { "q": "What is she hoping to do next summer?", "a": "She's hoping to climb outdoors in the Picos de Europa." },
+        { "q": "Find two verbs + -ing and two verbs + to in the text.", "a": "-ing: suggested going, kept encouraging, enjoy solving, imagine living. to: decided to try, wanted to meet, agreed to go, hoping to climb." }
+      ]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe sobre ti. Usa -ing y to.",
+      "en": "Write about yourself using -ing and to.",
+      "items": [
+        { "q": "Escribe 2 cosas que <b>disfrutas</b> y 1 que <b>no soportas</b>: <b>I enjoy… / I can't stand…</b>", "lines": 2, "a": "Ej.: I enjoy playing padel and watching series. I can't stand waiting in queues." },
+        { "q": "Escribe 2 planes con <b>want to / hope to / I'm planning to</b>.", "lines": 2, "a": "Ej.: I want to learn Italian. I'm planning to visit my cousins in August." },
+        { "q": "Termina: <b>I'm really good at… but I'm not very good at…</b>", "lines": 1, "a": "Ej.: I'm really good at swimming, but I'm not very good at singing." },
+        { "q": "Da un consejo para estudiar mejor con <b>-ing</b> como sujeto.", "lines": 1, "a": "Ej.: Sleeping well is very important before an exam." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé qué verbos van con <b>-ing</b>: enjoy, finish, avoid, mind…", "en": "I know the verbs that take -ing." },
+    { "es": "Sé qué verbos van con <b>to</b>: want, decide, hope, need…", "en": "I know the verbs that take to." },
+    { "es": "Detrás de una <b>preposición</b> uso -ing: before leaving.", "en": "I use -ing after prepositions." },
+    { "es": "Uso <b>-ing</b> como sujeto: Swimming is fun.", "en": "I use -ing as the subject." },
+    { "es": "Sé que <b>would like</b> va siempre con to.", "en": "I know would like + to." },
+    { "es": "Digo <b>look forward to seeing</b>, no <s>to see</s>.", "en": "I say look forward to + -ing." }
+  ]
+}

@@ -1,0 +1,1522 @@
+{
+  "id": "B1-01",
+  "level": "B1",
+  "title": "PRESENT PERFECT",
+  "file_title": "Present perfect (experiencias)",
+  "subtitle": "Present perfect · experiencias de la vida",
+  "icon": "🌍",
+  "map": {
+    "center": "Usamos el <b>PRESENT PERFECT</b> (<b>have/has + participio</b>) para contar <b>experiencias</b> de la vida, sin decir cuándo.",
+    "nodes": [
+      {
+        "title": "¿Cómo se forma?",
+        "icon": "🧩",
+        "rows": [
+          [
+            "have + participio",
+            "I, you, we, they"
+          ],
+          [
+            "has + participio",
+            "he, she, it"
+          ]
+        ],
+        "after": "Contracción: I<b>'ve</b> seen · she<b>'s</b> been"
+      },
+      {
+        "title": "Experiencias",
+        "icon": "✈️",
+        "art": "🌍",
+        "items": [
+          "Tu vida hasta hoy, <b>sin fecha</b>.",
+          "I<b>'ve been</b> to London. <i>(He estado en Londres.)</i>",
+          "She<b>'s tried</b> sushi. <i>(Ha probado el sushi.)</i>"
+        ]
+      },
+      {
+        "title": "Negativa y NEVER",
+        "icon": "⛔",
+        "items": [
+          "I <b>haven't seen</b> it. <i>(No la he visto.)</i>",
+          "I've <b>never</b> flown. <i>(Nunca he volado.)</i>",
+          "never ya es negativo: ¡sin not!"
+        ]
+      },
+      {
+        "title": "Preguntas con EVER",
+        "icon": "❓",
+        "art": "🎤",
+        "items": [
+          "<b>Have</b> you <b>ever</b> been to Paris?",
+          "<b>Has</b> she <b>ever</b> won a prize?",
+          "Yes, I <b>have</b>. / No, I <b>haven't</b>."
+        ]
+      },
+      {
+        "title": "BEEN o GONE",
+        "icon": "🧳",
+        "rows": [
+          [
+            "been to",
+            "= fue y ya volvió"
+          ],
+          [
+            "gone to",
+            "= se fue y sigue allí"
+          ]
+        ],
+        "after": "He's <b>gone</b> to Rome. <i>(Está en Roma.)</i>"
+      },
+      {
+        "title": "Participios clave",
+        "icon": "🔑",
+        "chips": [
+          "see → seen",
+          "eat → eaten",
+          "fly → flown",
+          "go → gone",
+          "win → won",
+          "meet → met"
+        ],
+        "after": "Regulares = pasado: visit<b>ed</b>, tri<b>ed</b>"
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "I have saw that film."
+      ],
+      "good": [
+        "I have seen that film."
+      ],
+      "note": "have + <b>participio</b> (3.ª columna)"
+    },
+    "mini": {
+      "es": "Completa con el present perfect.",
+      "en": "Complete with the present perfect.",
+      "items": [
+        {
+          "q": "I ____ (be) to Italy twice.",
+          "a": "have been"
+        },
+        {
+          "q": "She ____ (never / eat) sushi.",
+          "a": "has never eaten"
+        },
+        {
+          "q": "___ you ever met a famous person?",
+          "a": "Have"
+        },
+        {
+          "q": "We ____ (not / see) that film.",
+          "a": "haven't seen"
+        },
+        {
+          "q": "Has he ever ____ (fly) a drone?",
+          "a": "flown"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "El <b>present perfect</b> se forma con <b>have / has + participio</b> y es un puente entre el <mark>pasado y el presente</mark>. En este mapa lo usamos para las <b>experiencias</b>: lo que has hecho (o no) en tu vida <b>hasta ahora</b> —viajes, comidas, logros— cuando <b>no decimos cuándo</b> pasó. Equivale a «he estado», «has probado», «nunca ha volado».",
+      "en": "The <b>present perfect</b> is <b>have / has + past participle</b>. We use it for <b>life experiences</b> up to now, when we <b>don't say when</b> they happened.",
+      "formula": [
+        "Sujeto + *have / has* + *participio* + …"
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Afirmativa",
+      "title_en": "Affirmative",
+      "icon": "✅",
+      "color": "green",
+      "es": "Con <b>I, you, we, they</b> usamos <b>have</b>; con <b>he, she, it</b> (o un nombre en singular) usamos <b>has</b>. Detrás va siempre el <b>participio</b> (la 3.ª columna de los verbos irregulares, o -ed en los regulares). En la conversación casi siempre contraemos: <b>I've, you've, she's, we've</b>. Ojo: <b>she's tried</b> = she <u>has</u> tried (detrás va un participio), pero <b>she's tired</b> = she <u>is</u> tired.",
+      "en": "<b>have</b> with I / you / we / they, <b>has</b> with he / she / it, then the <b>past participle</b>. We usually contract: I've, she's. <b>'s</b> + participle = <b>has</b>.",
+      "formula": [
+        "I / you / we / they + *have ('ve)* + participio",
+        "he / she / it + *has ('s)* + participio"
+      ],
+      "examples": [
+        {
+          "en": "I<b>'ve been</b> to Scotland twice.",
+          "es": "He estado en Escocia dos veces.",
+          "icon": "🏰"
+        },
+        {
+          "en": "My sister <b>has run</b> three marathons.",
+          "es": "Mi hermana ha corrido tres maratones.",
+          "icon": "🏃"
+        },
+        {
+          "en": "We<b>'ve seen</b> all the seasons of that series.",
+          "es": "Hemos visto todas las temporadas de esa serie.",
+          "icon": "📺"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Negativa",
+      "title_en": "Negative",
+      "icon": "⛔",
+      "color": "red",
+      "es": "Para la negativa añadimos <b>not</b> a have / has: <b>haven't / hasn't + participio</b>. Para decir «nunca» usamos <b>never</b> entre have/has y el participio. ¡Ojo! <b>never</b> ya es negativo, así que el verbo va en <b>afirmativa</b>: <s>I haven't never…</s>",
+      "en": "Negative: <b>haven't / hasn't + participle</b>. Or use <b>never</b> with a positive verb: I've never… (no double negative).",
+      "formula": [
+        "Sujeto + *haven't / hasn't* + participio",
+        "Sujeto + *have / has* + *never* + participio"
+      ],
+      "examples": [
+        {
+          "en": "I <b>haven't read</b> the book, but I've seen the film.",
+          "es": "No he leído el libro, pero he visto la película.",
+          "icon": "📚"
+        },
+        {
+          "en": "My grandad <b>has never used</b> social media.",
+          "es": "Mi abuelo nunca ha usado las redes sociales.",
+          "icon": "👴"
+        },
+        {
+          "en": "They<b>'ve never travelled</b> abroad.",
+          "es": "Nunca han viajado al extranjero.",
+          "icon": "🧳"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Preguntas y respuestas cortas",
+      "title_en": "Questions and short answers",
+      "icon": "❓",
+      "color": "blue",
+      "es": "En la pregunta, <b>Have / Has</b> va <mark>delante del sujeto</mark>. Para preguntar por experiencias añadimos <b>ever</b> («alguna vez») justo antes del participio. En la respuesta corta repetimos solo el auxiliar, <b>sin participio</b>: <i>Yes, I have. / No, she hasn't.</i>",
+      "en": "Questions: <b>Have / Has + subject + (ever) + participle?</b> Short answers use only the auxiliary: Yes, I have. / No, I haven't.",
+      "formula": [
+        "*Have / Has* + sujeto + *ever* + participio + …?",
+        "Yes, + sujeto + *have / has*",
+        "No, + sujeto + *haven't / hasn't*"
+      ],
+      "examples": [
+        {
+          "en": "<b>Have</b> you <b>ever</b> <b>been</b> to a music festival? — Yes, I <b>have</b>.",
+          "es": "¿Has ido alguna vez a un festival de música? — Sí.",
+          "icon": "🎸"
+        },
+        {
+          "en": "<b>Has</b> Pablo <b>ever</b> <b>cooked</b> for you? — No, he <b>hasn't</b>.",
+          "es": "¿Pablo ha cocinado alguna vez para ti? — No.",
+          "icon": "🍳"
+        },
+        {
+          "en": "<b>Have</b> your parents <b>ever</b> <b>flown</b>? — No, they <b>haven't</b>.",
+          "es": "¿Tus padres han volado alguna vez? — No.",
+          "icon": "✈️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · EVER, NEVER y BEFORE",
+      "title_en": "ever, never and before",
+      "icon": "🔁",
+      "color": "purple",
+      "es": "<b>ever</b> = «alguna vez»: va en <b>preguntas</b>, entre el sujeto y el participio. <b>never</b> = «nunca»: va en frases afirmativas con sentido negativo. <b>before</b> = «antes»: va <b>al final</b> de la frase. En afirmativa <em>no</em> se usa ever: <s>I've ever eaten snails.</s>",
+      "en": "<b>ever</b> in questions, <b>never</b> in positive verbs with negative meaning, <b>before</b> at the end. Don't use ever in positive sentences.",
+      "formula": [
+        "Have you + *ever* + participio …?",
+        "I've + *never* + participio …",
+        "… participio + *before*"
+      ],
+      "examples": [
+        {
+          "en": "Have you <b>ever</b> slept in a tent?",
+          "es": "¿Has dormido alguna vez en una tienda de campaña?",
+          "icon": "⛺"
+        },
+        {
+          "en": "I've <b>never</b> broken a bone.",
+          "es": "Nunca me he roto un hueso.",
+          "icon": "🦴"
+        },
+        {
+          "en": "Have we met <b>before</b>? Your face looks familiar.",
+          "es": "¿Nos conocemos de antes? Tu cara me suena.",
+          "icon": "🤔"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Cuántas veces y «la primera vez»",
+      "title_en": "How many times? The first time",
+      "icon": "🔢",
+      "color": "teal",
+      "es": "Para contar experiencias: <b>once</b> (una vez), <b>twice</b> (dos veces), <b>three / four… times</b>. Dos estructuras muy útiles: <b>It's the first time I've…</b> (¡en español usamos presente: «es la primera vez que <u>veo</u>»!) y <b>the best / worst… I've ever…</b> (el mejor / peor… que he… nunca).",
+      "en": "<b>once, twice, three times</b>. Use the present perfect after <b>It's the first time…</b> and after superlatives: <b>the best film I've ever seen</b>.",
+      "formula": [
+        "It's the + *first time* + I've + participio",
+        "the + *best / worst* + nombre + I've + *ever* + participio"
+      ],
+      "examples": [
+        {
+          "en": "I've been to that restaurant <b>twice</b>.",
+          "es": "He ido a ese restaurante dos veces.",
+          "icon": "🍝"
+        },
+        {
+          "en": "<b>It's the first time I've seen</b> snow!",
+          "es": "¡Es la primera vez que veo nieve!",
+          "icon": "❄️"
+        },
+        {
+          "en": "This is <b>the best</b> concert <b>I've ever been</b> to.",
+          "es": "Es el mejor concierto al que he ido nunca.",
+          "icon": "🎤"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Todo junto",
+      "title_en": "All together",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Sujeto · Subject",
+        "✅ Afirmativa",
+        "⛔ Negativa",
+        "❓ Pregunta",
+        "💬 Respuesta corta"
+      ],
+      "rows": [
+        [
+          "I",
+          "I<b>'ve</b> tried sushi.",
+          "I <b>haven't</b> tried sushi.",
+          "<b>Have</b> I ever tried sushi?",
+          "Yes, I have. / No, I haven't."
+        ],
+        [
+          "you",
+          "You<b>'ve</b> been to Rome.",
+          "You <b>haven't</b> been to Rome.",
+          "<b>Have</b> you ever been to Rome?",
+          "Yes, I have. / No, I haven't."
+        ],
+        [
+          "he / she / it",
+          "She<b>'s</b> won a prize.",
+          "She <b>hasn't</b> won a prize.",
+          "<b>Has</b> she ever won a prize?",
+          "Yes, she has. / No, she hasn't."
+        ],
+        [
+          "we",
+          "We<b>'ve</b> seen a whale.",
+          "We <b>haven't</b> seen a whale.",
+          "<b>Have</b> we ever seen a whale?",
+          "Yes, we have. / No, we haven't."
+        ],
+        [
+          "they",
+          "They<b>'ve</b> flown.",
+          "They <b>haven't</b> flown.",
+          "<b>Have</b> they ever flown?",
+          "Yes, they have. / No, they haven't."
+        ]
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Participios irregulares frecuentes",
+      "title_en": "Common irregular participles",
+      "icon": "🔑",
+      "color": "purple",
+      "wide": true,
+      "head": [
+        "Patrón · Pattern",
+        "Infinitivo · Base",
+        "Pasado · Past",
+        "Participio · Participle",
+        "Español"
+      ],
+      "rows": [
+        [
+          "A-B-B (pasado = participio)",
+          "buy · meet · win",
+          "bought · met · won",
+          "<b>bought · met · won</b>",
+          "comprado · conocido · ganado"
+        ],
+        [
+          "A-B-B",
+          "have · make · lose",
+          "had · made · lost",
+          "<b>had · made · lost</b>",
+          "tenido · hecho · perdido"
+        ],
+        [
+          "A-B-B",
+          "find · sleep · teach",
+          "found · slept · taught",
+          "<b>found · slept · taught</b>",
+          "encontrado · dormido · enseñado"
+        ],
+        [
+          "A-B-C (-n / -en)",
+          "see · eat · take",
+          "saw · ate · took",
+          "<b>seen · eaten · taken</b>",
+          "visto · comido · tomado"
+        ],
+        [
+          "A-B-C (-n / -en)",
+          "write · ride · drive",
+          "wrote · rode · drove",
+          "<b>written · ridden · driven</b>",
+          "escrito · montado · conducido"
+        ],
+        [
+          "A-B-C (-n / -en)",
+          "speak · break · fly",
+          "spoke · broke · flew",
+          "<b>spoken · broken · flown</b>",
+          "hablado · roto · volado"
+        ],
+        [
+          "A-B-C (i-a-u)",
+          "drink · swim · sing",
+          "drank · swam · sang",
+          "<b>drunk · swum · sung</b>",
+          "bebido · nadado · cantado"
+        ],
+        [
+          "A-B-C (especiales)",
+          "be · go · do",
+          "was/were · went · did",
+          "<b>been · gone · done</b>",
+          "estado · ido · hecho"
+        ],
+        [
+          "A-B-A (participio = infinitivo)",
+          "come · become · run",
+          "came · became · ran",
+          "<b>come · become · run</b>",
+          "venido · llegado a ser · corrido"
+        ],
+        [
+          "A-A-A (no cambian)",
+          "put · cut · read",
+          "put · cut · read",
+          "<b>put · cut · read</b>",
+          "puesto · cortado · leído"
+        ]
+      ],
+      "note": "Los verbos <b>regulares</b> forman el participio igual que el pasado: visit → visit<b>ed</b>, try → tri<b>ed</b>, travel → travel<b>led</b>. Aprende los irregulares por <b>patrones</b>: es mucho más fácil que de uno en uno. <i>read</i> se escribe igual pero en pasado y participio se pronuncia /red/.",
+      "note_en": "Regular verbs: participle = past (-ed). Learn irregular verbs in <b>patterns</b>. <i>read</i> (past/participle) is pronounced /red/."
+    },
+    {
+      "t": "vocab",
+      "title": "Experiencias típicas",
+      "title_en": "Typical life experiences",
+      "icon": "🎒",
+      "color": "pink",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "been abroad",
+          "es": "estado en el extranjero",
+          "icon": "🗺️"
+        },
+        {
+          "en": "flown in a plane",
+          "es": "volado en avión",
+          "icon": "✈️"
+        },
+        {
+          "en": "ridden a horse",
+          "es": "montado a caballo",
+          "icon": "🐎"
+        },
+        {
+          "en": "climbed a mountain",
+          "es": "subido una montaña",
+          "icon": "⛰️"
+        },
+        {
+          "en": "won a prize",
+          "es": "ganado un premio",
+          "icon": "🏆"
+        },
+        {
+          "en": "met someone famous",
+          "es": "conocido a un famoso",
+          "icon": "🌟"
+        },
+        {
+          "en": "broken a bone",
+          "es": "roto un hueso",
+          "icon": "🦴"
+        },
+        {
+          "en": "tried sushi",
+          "es": "probado el sushi",
+          "icon": "🍣"
+        },
+        {
+          "en": "seen the Northern Lights",
+          "es": "visto la aurora boreal",
+          "icon": "🌌"
+        },
+        {
+          "en": "done a bungee jump",
+          "es": "hecho puenting",
+          "icon": "🪂"
+        },
+        {
+          "en": "swum with dolphins",
+          "es": "nadado con delfines",
+          "icon": "🐬"
+        },
+        {
+          "en": "gone viral",
+          "es": "hecho(se) viral",
+          "icon": "📱"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "BEEN o GONE",
+      "title_en": "been or gone?",
+      "color": "blue",
+      "icon": "🧳",
+      "es": "<b>go</b> tiene dos participios. <b>been (to)</b> = fue y <b>ya ha vuelto</b>: es el que usamos para experiencias y viajes. <b>gone (to)</b> = se ha ido y <b>todavía está allí</b> (o de camino). Por eso nunca decimos <s>I've gone to Paris twice</s>: ¡si siguieras allí no podrías contarlo!",
+      "en": "<b>been to</b> = went and came back (experiences). <b>gone to</b> = went and is still there.",
+      "cols": [
+        {
+          "head": "🪃 been to · ida y vuelta",
+          "color": "green",
+          "items": [
+            "She's <b>been</b> to Paris. <i>(Ya ha vuelto.)</i>",
+            "I've <b>been</b> to the gym. <i>(Ya estoy aquí.)</i>",
+            "Have you ever <b>been</b> to Rome?"
+          ]
+        },
+        {
+          "head": "➡️ gone to · sigue allí",
+          "color": "orange",
+          "items": [
+            "She's <b>gone</b> to Paris. <i>(Está allí.)</i>",
+            "Dad's <b>gone</b> to work. <i>(No está.)</i>",
+            "Where's Ana? She's <b>gone</b> out."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "I've visited six countries so far.",
+          "es": "He visitado seis países hasta ahora.",
+          "icon": "🗺️"
+        },
+        {
+          "en": "Have you ever gone viral on social media?",
+          "es": "¿Te has hecho viral alguna vez en redes?",
+          "icon": "📱"
+        },
+        {
+          "en": "My boss has never taken a day off.",
+          "es": "Mi jefe nunca se ha cogido un día libre.",
+          "icon": "💼"
+        },
+        {
+          "en": "We've played against that team twice.",
+          "es": "Hemos jugado contra ese equipo dos veces.",
+          "icon": "⚽"
+        },
+        {
+          "en": "Has your brother ever failed an exam? — Yes, he has.",
+          "es": "¿Tu hermano ha suspendido alguna vez un examen? — Sí.",
+          "icon": "📝"
+        },
+        {
+          "en": "I've never seen a horror film on my own.",
+          "es": "Nunca he visto una peli de miedo yo solo.",
+          "icon": "👻"
+        },
+        {
+          "en": "She's worked in three different hotels.",
+          "es": "Ha trabajado en tres hoteles diferentes.",
+          "icon": "🏨"
+        },
+        {
+          "en": "Have they ever been to a Champions League final?",
+          "es": "¿Han ido alguna vez a una final de la Champions?",
+          "icon": "🏟️"
+        },
+        {
+          "en": "It's the first time I've driven on the left!",
+          "es": "¡Es la primera vez que conduzco por la izquierda!",
+          "icon": "🚗"
+        },
+        {
+          "en": "That's the worst pizza I've ever eaten.",
+          "es": "Es la peor pizza que he comido nunca.",
+          "icon": "🍕"
+        },
+        {
+          "en": "Where's Leo? — He's gone to the airport.",
+          "es": "¿Dónde está Leo? — Se ha ido al aeropuerto.",
+          "icon": "🛫"
+        },
+        {
+          "en": "Have you ever lost your passport? — No, I haven't, luckily.",
+          "es": "¿Has perdido alguna vez el pasaporte? — No, por suerte.",
+          "icon": "🛂"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I have saw that series.",
+          "good": "I have <b>seen</b> that series.",
+          "why": "Tras have va el participio (3.ª columna), no el pasado.",
+          "why_en": "have + participle, not past simple."
+        },
+        {
+          "bad": "She have been to Japan.",
+          "good": "She <b>has</b> been to Japan.",
+          "why": "he / she / it → has.",
+          "why_en": "he / she / it → has."
+        },
+        {
+          "bad": "I haven't never been to Paris.",
+          "good": "I've <b>never</b> been to Paris.",
+          "why": "No hay doble negación: never ya niega.",
+          "why_en": "No double negatives."
+        },
+        {
+          "bad": "I've ever eaten snails.",
+          "good": "I've eaten snails <b>before</b>.",
+          "why": "ever solo en preguntas (y con superlativos).",
+          "why_en": "No ever in positive sentences."
+        },
+        {
+          "bad": "You have ever tried skiing?",
+          "good": "<b>Have you</b> ever tried skiing?",
+          "why": "En la pregunta, have va delante del sujeto.",
+          "why_en": "Question: have + subject."
+        },
+        {
+          "bad": "Have you been to Italy? — Yes, I have been.",
+          "good": "Yes, I <b>have</b>.",
+          "why": "La respuesta corta va sin participio.",
+          "why_en": "Short answers: auxiliary only."
+        },
+        {
+          "bad": "She's gone to London three times.",
+          "good": "She's <b>been</b> to London three times.",
+          "why": "Para contar viajes (ida y vuelta) → been.",
+          "why_en": "Count trips with been."
+        },
+        {
+          "bad": "It's the first time I see snow.",
+          "good": "It's the first time I<b>'ve seen</b> snow.",
+          "why": "Calco del español: aquí el inglés pide present perfect.",
+          "why_en": "It's the first time + present perfect."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "¿Hablo de una <b>experiencia</b> de la vida <b>sin decir cuándo</b>? → present perfect.",
+          "en": "Life experience, no time given → present perfect."
+        },
+        {
+          "es": "Mira el sujeto: <b>he / she / it</b> → <b>has</b>; los demás → <b>have</b>.",
+          "en": "he / she / it → has; the others → have."
+        },
+        {
+          "es": "Busca el <b>participio</b>: ¿regular (-ed) o irregular (3.ª columna)?",
+          "en": "Find the participle: -ed or 3rd column."
+        },
+        {
+          "es": "¿Pregunta? → <b>Have/Has</b> + sujeto + <b>ever</b> + participio…? ¿«Nunca»? → have/has + <b>never</b>.",
+          "en": "Question → Have/Has + subject + ever…? Never → have/has + never."
+        },
+        {
+          "es": "¿Viaje de ida y vuelta? → <b>been to</b>. ¿Sigue allí? → <b>gone to</b>.",
+          "en": "Back again → been to. Still there → gone to."
+        },
+        {
+          "es": "Si añades <b>cuándo</b> (yesterday, in 2019) → cambia a past simple: I <b>went</b> there in 2019.",
+          "en": "If you say when → past simple."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En una cena de intercambio",
+      "title_en": "At an exchange dinner",
+      "lines": [
+        {
+          "who": "Dan",
+          "en": "Have you ever been to the UK, Lucía?",
+          "es": "¿Has estado alguna vez en el Reino Unido, Lucía?"
+        },
+        {
+          "who": "Lucía",
+          "en": "Yes, I have. I've been to London twice. What about you? Have you been to Spain before?",
+          "es": "Sí. He estado en Londres dos veces. ¿Y tú? ¿Habías estado en España antes?"
+        },
+        {
+          "who": "Dan",
+          "en": "No, I haven't. It's the first time I've travelled abroad on my own.",
+          "es": "No. Es la primera vez que viajo solo al extranjero."
+        },
+        {
+          "who": "Lucía",
+          "en": "Wow! So, have you ever tried churros with chocolate?",
+          "es": "¡Hala! Entonces, ¿has probado alguna vez los churros con chocolate?"
+        },
+        {
+          "who": "Dan",
+          "en": "Yes, this morning! They're the best thing I've ever eaten.",
+          "es": "¡Sí, esta mañana! Es lo mejor que he comido nunca."
+        },
+        {
+          "who": "Lucía",
+          "en": "Ha! My brother loves them too, but he isn't here. He's gone to Valencia for the Fallas.",
+          "es": "¡Ja! A mi hermano también le encantan, pero no está. Se ha ido a Valencia a las Fallas."
+        },
+        {
+          "who": "Dan",
+          "en": "The Fallas? I've never heard of them. What are they?",
+          "es": "¿Las Fallas? Nunca he oído hablar de ellas. ¿Qué son?"
+        },
+        {
+          "who": "Lucía",
+          "en": "A huge festival with fireworks. You've never seen anything like it!",
+          "es": "Una fiesta enorme con fuegos artificiales. ¡No has visto nada igual!"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del bumerán",
+      "title_en": "Boomerang trick",
+      "es": "<b>BEEN</b> es como un <b>bumerán</b> 🪃: se va y vuelve. <b>GONE</b> = <i>gone away</i>, se ha ido. Y recuerda la regla de oro: <mark>sin fecha → present perfect</mark> (I've been to Rome); <mark>con fecha → past simple</mark> (I went to Rome <u>in 2022</u>).",
+      "en": "<b>BEEN</b> is a boomerang: it comes back. <b>GONE</b> = gone away. No time → present perfect; time given → past simple."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct option",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta. Fíjate en el sujeto y en el participio.",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "She [have|has] been to Mexico twice.",
+          "a": "has"
+        },
+        {
+          "q": "I've never [saw|seen] a whale.",
+          "a": "seen"
+        },
+        {
+          "q": "[Have|Has] your parents ever flown to New York?",
+          "a": "Have"
+        },
+        {
+          "q": "We [haven't|hasn't] tried Indian food.",
+          "a": "haven't"
+        },
+        {
+          "q": "Have you ever [ate|eaten] snails?",
+          "a": "eaten"
+        },
+        {
+          "q": "My brother [has|is] broken his arm twice.",
+          "a": "has"
+        },
+        {
+          "q": "They've [won|winned] three trophies.",
+          "a": "won"
+        },
+        {
+          "q": "Has she ever [met|meet] a famous footballer?",
+          "a": "met"
+        },
+        {
+          "q": "I [have never|haven't never] driven a car.",
+          "a": "have never"
+        },
+        {
+          "q": "Have you ever [rode|ridden] a camel?",
+          "a": "ridden"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une pregunta y respuesta",
+      "title_en": "Match questions and answers",
+      "icon": "🔗",
+      "es": "Une cada pregunta con su respuesta lógica.",
+      "en": "Match each question with its answer.",
+      "pairs": [
+        [
+          "Have you ever been to Ireland?",
+          "Yes, I have. I loved Dublin."
+        ],
+        [
+          "Has your sister ever won a prize?",
+          "Yes, she has. A dance competition."
+        ],
+        [
+          "Have your parents ever flown?",
+          "No, they haven't. They're scared of planes."
+        ],
+        [
+          "Has Tom ever cooked for you?",
+          "No, he hasn't. He can't even make toast!"
+        ],
+        [
+          "Where's Ana?",
+          "She's gone to the gym."
+        ],
+        [
+          "Have you ever met a famous person?",
+          "Yes, once. A chef from a TV show."
+        ],
+        [
+          "Has it ever snowed in your town?",
+          "Yes, it has, but only once."
+        ],
+        [
+          "Have you ever watched a whole series in one day?",
+          "Yes, I have. I didn't sleep at all!"
+        ]
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa los participios",
+      "title_en": "Complete the verb table",
+      "icon": "📋",
+      "wide": true,
+      "es": "Completa la tabla con el pasado, el participio o el infinitivo que falta.",
+      "en": "Fill in the missing forms.",
+      "head": [
+        "Infinitivo · Base",
+        "Pasado · Past",
+        "Participio · Participle",
+        "Español"
+      ],
+      "rows": [
+        [
+          "be",
+          "was / were",
+          "?been",
+          "estado / sido"
+        ],
+        [
+          "go",
+          "?went",
+          "?gone / been",
+          "ido"
+        ],
+        [
+          "see",
+          "?saw",
+          "?seen",
+          "visto"
+        ],
+        [
+          "eat",
+          "ate",
+          "?eaten",
+          "comido"
+        ],
+        [
+          "fly",
+          "?flew",
+          "?flown",
+          "volado"
+        ],
+        [
+          "write",
+          "?wrote",
+          "?written",
+          "escrito"
+        ],
+        [
+          "win",
+          "?won",
+          "?won",
+          "ganado"
+        ],
+        [
+          "do",
+          "?did",
+          "?done",
+          "hecho"
+        ],
+        [
+          "?meet",
+          "met",
+          "met",
+          "conocido"
+        ],
+        [
+          "ride",
+          "rode",
+          "?ridden",
+          "montado"
+        ],
+        [
+          "break",
+          "?broke",
+          "?broken",
+          "roto"
+        ],
+        [
+          "drink",
+          "?drank",
+          "?drunk",
+          "bebido"
+        ],
+        [
+          "try",
+          "?tried",
+          "?tried",
+          "probado"
+        ],
+        [
+          "speak",
+          "spoke",
+          "?spoken",
+          "hablado"
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica los participios",
+      "title_en": "Sort the participles",
+      "icon": "🗂️",
+      "es": "Escribe cada participio en su caja: ¿regular, irregular igual al pasado, o irregular distinto del pasado?",
+      "en": "Sort the participles into three groups.",
+      "cats": [
+        {
+          "name": "Regular (-ed)",
+          "words": [
+            "visited",
+            "tried",
+            "travelled",
+            "cooked",
+            "played",
+            "stopped"
+          ]
+        },
+        {
+          "name": "Irregular = pasado",
+          "words": [
+            "bought",
+            "met",
+            "won",
+            "made",
+            "lost",
+            "taught"
+          ]
+        },
+        {
+          "name": "Irregular ≠ pasado",
+          "words": [
+            "seen",
+            "eaten",
+            "flown",
+            "written",
+            "ridden",
+            "swum"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Completa el present perfect",
+      "title_en": "Complete with the present perfect",
+      "icon": "✏️",
+      "es": "Completa con el present perfect del verbo entre paréntesis. Puedes usar contracciones (I've, she's…).",
+      "en": "Complete with the present perfect of the verb in brackets.",
+      "items": [
+        {
+          "q": "I ____ (visit) Rome three times.",
+          "a": "have visited"
+        },
+        {
+          "q": "My sister ____ (never / fly) in a plane.",
+          "a": "has never flown"
+        },
+        {
+          "q": "____ you ever ____ (eat) octopus?",
+          "a": "Have … eaten"
+        },
+        {
+          "q": "We ____ (not / see) the new series.",
+          "a": "haven't seen"
+        },
+        {
+          "q": "Carlos ____ (run) two marathons.",
+          "a": "has run"
+        },
+        {
+          "q": "They ____ (not / be) to Asia.",
+          "a": "haven't been"
+        },
+        {
+          "q": "I ____ (lose) my wallet twice.",
+          "a": "have lost"
+        },
+        {
+          "q": "____ your dad ever ____ (drive) abroad?",
+          "a": "Has … driven"
+        },
+        {
+          "q": "She ____ (write) two books.",
+          "a": "has written"
+        },
+        {
+          "q": "I ____ (never / meet) anyone from Australia.",
+          "a": "have never met"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "¿Been o gone?",
+      "title_en": "been or gone?",
+      "icon": "🧳",
+      "es": "Completa con been o gone. Pregúntate: ¿ha vuelto o sigue allí?",
+      "en": "Complete with been or gone.",
+      "bank": [
+        "been",
+        "gone"
+      ],
+      "items": [
+        {
+          "q": "Where's Marta? — She's ___ to the supermarket. She'll be back soon.",
+          "a": "gone"
+        },
+        {
+          "q": "I've ___ to Scotland twice. It's beautiful.",
+          "a": "been"
+        },
+        {
+          "q": "Have you ever ___ to a rugby match?",
+          "a": "been"
+        },
+        {
+          "q": "Dad isn't here. He's ___ to work.",
+          "a": "gone"
+        },
+        {
+          "q": "We've never ___ to Australia.",
+          "a": "been"
+        },
+        {
+          "q": "They've ___ on holiday. They're coming back on Monday.",
+          "a": "gone"
+        },
+        {
+          "q": "Sorry I'm late, Mum. I've ___ to the library.",
+          "a": "been"
+        },
+        {
+          "q": "Has Leo ___ to Paris before? — No, this is his first time.",
+          "a": "been"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Negativa y pregunta",
+      "title_en": "Negative and question",
+      "icon": "🔄",
+      "es": "Escribe cada frase en negativa y en pregunta.",
+      "en": "Write each sentence in the negative and as a question.",
+      "labels": [
+        "⛔",
+        "❓"
+      ],
+      "items": [
+        {
+          "q": "She has climbed a mountain.",
+          "a": [
+            "She hasn't climbed a mountain.",
+            "Has she climbed a mountain?"
+          ]
+        },
+        {
+          "q": "You have ridden a camel.",
+          "a": [
+            "You haven't ridden a camel.",
+            "Have you ridden a camel?"
+          ]
+        },
+        {
+          "q": "They have been to Canada.",
+          "a": [
+            "They haven't been to Canada.",
+            "Have they been to Canada?"
+          ]
+        },
+        {
+          "q": "Your brother has broken a bone.",
+          "a": [
+            "Your brother hasn't broken a bone.",
+            "Has your brother broken a bone?"
+          ]
+        },
+        {
+          "q": "Ana and Luis have done a bungee jump.",
+          "a": [
+            "Ana and Luis haven't done a bungee jump.",
+            "Have Ana and Luis done a bungee jump?"
+          ]
+        },
+        {
+          "q": "He has won a medal.",
+          "a": [
+            "He hasn't won a medal.",
+            "Has he won a medal?"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Have you ever…?",
+      "title_en": "Ask and answer",
+      "icon": "❓",
+      "es": "Escribe la pregunta con ever y la respuesta corta según la pista (YES / NO).",
+      "en": "Write the question with ever and the short answer.",
+      "labels": [
+        "❓",
+        "💬"
+      ],
+      "items": [
+        {
+          "q": "you / swim / in the sea (YES)",
+          "a": [
+            "Have you ever swum in the sea?",
+            "Yes, I have."
+          ]
+        },
+        {
+          "q": "she / sing / on stage (NO)",
+          "a": [
+            "Has she ever sung on stage?",
+            "No, she hasn't."
+          ]
+        },
+        {
+          "q": "your friends / be / to a concert (YES)",
+          "a": [
+            "Have your friends ever been to a concert?",
+            "Yes, they have."
+          ]
+        },
+        {
+          "q": "Tom / cook / paella (NO)",
+          "a": [
+            "Has Tom ever cooked paella?",
+            "No, he hasn't."
+          ]
+        },
+        {
+          "q": "you / sleep / in a tent (NO)",
+          "a": [
+            "Have you ever slept in a tent?",
+            "No, I haven't."
+          ]
+        },
+        {
+          "q": "your cat / bite / anyone (YES)",
+          "a": [
+            "Has your cat ever bitten anyone?",
+            "Yes, it has."
+          ]
+        },
+        {
+          "q": "your parents / fly / in a helicopter (NO)",
+          "a": [
+            "Have your parents ever flown in a helicopter?",
+            "No, they haven't."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase.",
+      "en": "Put the words in order.",
+      "items": [
+        {
+          "q": "been / I've / to / never / Ireland",
+          "a": "I've never been to Ireland."
+        },
+        {
+          "q": "ever / you / have / eaten / sushi / ?",
+          "a": "Have you ever eaten sushi?"
+        },
+        {
+          "q": "has / twice / she / Rome / visited",
+          "a": "She has visited Rome twice."
+        },
+        {
+          "q": "seen / the / I've / film / three times",
+          "a": "I've seen the film three times."
+        },
+        {
+          "q": "brother / my / never / has / a horse / ridden",
+          "a": "My brother has never ridden a horse."
+        },
+        {
+          "q": "met / they / ever / have / a famous person / ?",
+          "a": "Have they ever met a famous person?"
+        },
+        {
+          "q": "the best / it's / I've / book / ever / read",
+          "a": "It's the best book I've ever read."
+        },
+        {
+          "q": "first / the / it's / time / I've / snow / seen",
+          "a": "It's the first time I've seen snow."
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "⚖️",
+      "es": "Lee cada afirmación sobre la gramática y marca T (verdadero) o F (falso).",
+      "en": "Read each statement about grammar. Tick T or F.",
+      "items": [
+        {
+          "q": "«Lucía has gone to London» means Lucía is in London now (or on her way).",
+          "a": true
+        },
+        {
+          "q": "«I've been to Japan» means I am in Japan now.",
+          "a": false,
+          "why": "been = fui y volví: ahora no estoy allí."
+        },
+        {
+          "q": "We use «ever» mainly in questions: Have you ever…?",
+          "a": true
+        },
+        {
+          "q": "«I haven't never seen it» is correct English.",
+          "a": false,
+          "why": "Doble negación: I've never seen it."
+        },
+        {
+          "q": "The participle of «fly» is «flied».",
+          "a": false,
+          "why": "fly – flew – flown."
+        },
+        {
+          "q": "With he / she / it we use «has» + participle.",
+          "a": true
+        },
+        {
+          "q": "«Have you been to Paris last year?» is correct.",
+          "a": false,
+          "why": "Con fecha → past simple: Did you go to Paris last year?"
+        },
+        {
+          "q": "«Twice» means «dos veces».",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "I have went to Paris.",
+          "a": "I have been to Paris."
+        },
+        {
+          "q": "She have never eaten tacos.",
+          "a": "She has never eaten tacos."
+        },
+        {
+          "q": "Have you ever saw a ghost?",
+          "a": "Have you ever seen a ghost?"
+        },
+        {
+          "q": "I haven't never been on a plane.",
+          "a": [
+            "I have never been on a plane.",
+            "I haven't ever been on a plane."
+          ]
+        },
+        {
+          "q": "You have ever tried skiing?",
+          "a": "Have you ever tried skiing?"
+        },
+        {
+          "q": "Have you ever been to Italy? — Yes, I have been.",
+          "a": "Yes, I have."
+        },
+        {
+          "q": "It's the first time I eat sushi.",
+          "a": "It's the first time I've eaten sushi."
+        },
+        {
+          "q": "My parents has visited Canada twice.",
+          "a": "My parents have visited Canada twice."
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Expresiones de experiencia",
+      "title_en": "Experience expressions",
+      "icon": "🔢",
+      "es": "Completa con una palabra o expresión del banco. Úsalas todas una vez.",
+      "en": "Complete with the words from the bank.",
+      "bank": [
+        "ever",
+        "never",
+        "before",
+        "once",
+        "twice",
+        "three times",
+        "first",
+        "best"
+      ],
+      "items": [
+        {
+          "q": "Have you ___ been to a football match?",
+          "a": "ever"
+        },
+        {
+          "q": "I've ___ been to Asia. I'd love to go!",
+          "a": "never"
+        },
+        {
+          "q": "I've been to Madrid ___ — in 2018 and in 2022.",
+          "a": "twice"
+        },
+        {
+          "q": "This is the ___ time I've played golf. It's hard!",
+          "a": "first"
+        },
+        {
+          "q": "She's the ___ teacher I've ever had.",
+          "a": "best"
+        },
+        {
+          "q": "Have you been here ___? — No, it's my first visit.",
+          "a": "before"
+        },
+        {
+          "q": "I've only flown ___, when I went to Paris.",
+          "a": "once"
+        },
+        {
+          "q": "He's run that marathon ____ — in 2021, 2022 and 2023.",
+          "a": "three times"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿experiencia sin fecha? ¿been o gone? ¿ever o never?",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "¿Has estado alguna vez en Escocia?",
+          "a": "Have you ever been to Scotland?"
+        },
+        {
+          "q": "Nunca he montado a caballo.",
+          "a": "I've never ridden a horse."
+        },
+        {
+          "q": "Mi hermana ha ido a Londres tres veces.",
+          "hint": "ida y vuelta",
+          "a": "My sister has been to London three times."
+        },
+        {
+          "q": "Mis padres nunca han probado el sushi.",
+          "a": "My parents have never tried sushi."
+        },
+        {
+          "q": "¿Dónde está Pablo? — Se ha ido al gimnasio.",
+          "a": "Where's Pablo? — He's gone to the gym."
+        },
+        {
+          "q": "Es la mejor serie que he visto nunca.",
+          "a": "It's the best series I've ever seen."
+        },
+        {
+          "q": "Es la primera vez que vuelo.",
+          "a": [
+            "It's the first time I've flown.",
+            "It's the first time I've been on a plane."
+          ]
+        },
+        {
+          "q": "¿Tu hermano ha conocido alguna vez a alguien famoso?",
+          "a": "Has your brother ever met anyone famous?"
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el post de Irene. Marca T (true) o F (false) y contesta las preguntas con frases completas.",
+      "en": "Read Irene's post. Tick T or F and answer the questions.",
+      "text_title": "My travel bucket list ✈️",
+      "text": [
+        "Hi, I'm Irene. I'm nineteen and I study Tourism in Valencia. People always ask me: “Have you travelled a lot?” Well, I've been to six countries so far. I've been to France and Portugal many times because they're close, and I've been to Morocco once, on a school trip.",
+        "I've never been to Asia, but it's at the top of my list. I've tried Japanese food, of course — I love ramen — but I've never used chopsticks properly! My best friend, Sara, has been to Japan twice. She says it's the most amazing place she's ever visited.",
+        "Right now Sara isn't in Spain: she's gone to Iceland with her family. She has sent me photos of the Northern Lights. I've never seen them, so I'm a bit jealous! Have you ever seen them?"
+      ],
+      "items": [
+        {
+          "q": "Irene has been to six countries.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "She has never been to Morocco.",
+          "tf": true,
+          "a": false,
+          "why": "She has been to Morocco once."
+        },
+        {
+          "q": "Irene has been to Japan.",
+          "tf": true,
+          "a": false,
+          "why": "She has never been to Asia."
+        },
+        {
+          "q": "How many times has Sara been to Japan?",
+          "a": "She has been there twice."
+        },
+        {
+          "q": "Where is Sara now?",
+          "a": "She's in Iceland. She has gone there with her family."
+        },
+        {
+          "q": "Has Irene ever used chopsticks properly?",
+          "a": "No, she hasn't."
+        },
+        {
+          "q": "Why is Irene a bit jealous?",
+          "a": "Because she has never seen the Northern Lights."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre tus experiencias. Usa el present perfect con ever, never, once, twice…",
+      "en": "Write about your experiences.",
+      "items": [
+        {
+          "q": "Escribe 3 cosas que <b>has hecho</b> en tu vida (viajes, comida, deporte…): I've…",
+          "lines": 3,
+          "a": "Ej.: I've been to Portugal. I've tried octopus. I've run a 10K race."
+        },
+        {
+          "q": "Escribe 2 cosas que <b>nunca has hecho</b> pero te gustaría hacer: I've never…",
+          "lines": 2,
+          "a": "Ej.: I've never seen the Northern Lights. I've never flown in a helicopter."
+        },
+        {
+          "q": "Escribe 3 preguntas <i>Have you ever…?</i> para un compañero o compañera.",
+          "lines": 3,
+          "a": "Ej.: Have you ever met someone famous? Have you ever broken a bone? Have you ever gone viral?"
+        },
+        {
+          "q": "Completa: <i>The best film / series I've ever seen is… because…</i>",
+          "lines": 2,
+          "a": "Ej.: The best series I've ever seen is Dark because the story is amazing."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé formar el present perfect: <b>have / has + participio</b>.",
+      "en": "I can form the present perfect."
+    },
+    {
+      "es": "Me sé los <b>participios irregulares</b> más frecuentes (seen, been, eaten, flown…).",
+      "en": "I know the most common irregular participles."
+    },
+    {
+      "es": "Pregunto por experiencias con <b>Have you ever…?</b> y respondo con respuestas cortas.",
+      "en": "I can ask Have you ever…? and give short answers."
+    },
+    {
+      "es": "Uso <b>never</b> sin doble negación y <b>ever</b> solo en preguntas.",
+      "en": "I use never without a double negative and ever in questions."
+    },
+    {
+      "es": "Distingo <b>been to</b> (ida y vuelta) de <b>gone to</b> (sigue allí).",
+      "en": "I know the difference between been and gone."
+    },
+    {
+      "es": "Digo <b>It's the first time I've…</b> y <b>the best… I've ever…</b>",
+      "en": "I can say It's the first time I've… and the best… I've ever…"
+    }
+  ]
+}

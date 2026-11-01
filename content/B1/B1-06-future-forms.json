@@ -1,0 +1,1350 @@
+{
+  "id": "B1-06",
+  "level": "B1",
+  "title": "WILL <em>o</em> GOING TO",
+  "file_title": "Will o going to",
+  "subtitle": "Will, going to and present continuous · el futuro",
+  "icon": "🔮",
+  "map": {
+    "center": "El inglés tiene <b>3 futuros</b>: <b>will</b> (decido ahora), <b>going to</b> (ya lo planeé) y <b>present continuous</b> (cita fija).",
+    "nodes": [
+      {
+        "title": "WILL: decido ahora",
+        "icon": "⚡",
+        "items": [
+          "Decisión <b>en el momento</b>:",
+          "It's cold. I<b>'ll close</b> the window.",
+          "Ofrecer: I<b>'ll help</b> you!"
+        ]
+      },
+      {
+        "title": "WILL: promesas y opiniones",
+        "icon": "🤞",
+        "art": "🔮",
+        "items": [
+          "Promesa: I<b>'ll call</b> you tonight.",
+          "Predicción (opinión): I think it<b>'ll rain</b>.",
+          "Petición: <b>Will</b> you help me?"
+        ]
+      },
+      {
+        "title": "GOING TO: planes",
+        "icon": "🗓️",
+        "items": [
+          "Plan <b>ya decidido</b>:",
+          "I<b>'m going to study</b> medicine.",
+          "<i>(Voy a estudiar Medicina.)</i>"
+        ]
+      },
+      {
+        "title": "GOING TO: lo veo venir",
+        "icon": "👀",
+        "art": "☁️",
+        "items": [
+          "Predicción con <b>pruebas</b>:",
+          "Look at those clouds! It<b>'s going to rain</b>."
+        ]
+      },
+      {
+        "title": "PRESENT CONTINUOUS: citas",
+        "icon": "📅",
+        "items": [
+          "Plan <b>fijo</b> con hora y lugar:",
+          "I<b>'m meeting</b> Ana at 6.",
+          "We<b>'re flying</b> to Rome on Friday."
+        ]
+      },
+      {
+        "title": "Negativa y preguntas",
+        "icon": "❓",
+        "rows": [
+          [
+            "will not",
+            "= won't"
+          ],
+          [
+            "Will you…?",
+            "Yes, I will."
+          ],
+          [
+            "Are you going to…?",
+            "No, I'm not."
+          ]
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "I will to call you later."
+      ],
+      "good": [
+        "I'll call you later."
+      ],
+      "note": "will + infinitivo <b>sin to</b>"
+    },
+    "mini": {
+      "es": "Completa con will, going to o el present continuous.",
+      "en": "Complete with will, going to or present continuous.",
+      "items": [
+        {
+          "q": "The phone's ringing. I ____ get it!",
+          "a": "will ('ll)",
+          "hint": "decido ahora"
+        },
+        {
+          "q": "I ____ study Law next year.",
+          "a": "am going to ('m going to)",
+          "hint": "plan"
+        },
+        {
+          "q": "Look out! You ____ fall!",
+          "a": "are going to ('re going to)",
+          "hint": "lo veo"
+        },
+        {
+          "q": "I ____ (meet) Leo at 8 tonight.",
+          "a": "am meeting ('m meeting)",
+          "hint": "cita"
+        },
+        {
+          "q": "I promise I ____ tell anyone.",
+          "a": "won't"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "En español casi siempre decimos «<i>voy a…</i>» o usamos el futuro (<i>iré, llamaré</i>). En inglés hay <b>tres formas</b> principales y la elección depende de <mark>cuándo tomaste la decisión</mark> y de <mark>cuánto de seguro</mark> es el plan: <b>will</b> para decisiones del momento, promesas, ofrecimientos y opiniones; <b>going to</b> para planes ya decididos y predicciones con pruebas; y el <b>present continuous</b> para citas y planes fijos con día y hora.",
+      "en": "English has three main future forms: <b>will</b> (instant decisions, promises, offers, opinions), <b>going to</b> (plans, predictions with evidence) and the <b>present continuous</b> (fixed arrangements).",
+      "formula": [
+        "Sujeto + *will ('ll)* + infinitivo",
+        "Sujeto + *am / is / are going to* + infinitivo",
+        "Sujeto + *am / is / are* + *verbo-ing* + día / hora"
+      ],
+      "wide": true
+    },
+    {
+      "t": "table",
+      "title": "Resumen: ¿qué futuro uso?",
+      "title_en": "Summary: which future?",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Forma · Form",
+        "Uso · Use",
+        "Pista · Clue",
+        "Ejemplo · Example",
+        "Español"
+      ],
+      "rows": [
+        [
+          "<b>will</b>",
+          "decisión en el momento",
+          "«vale, pues…»",
+          "I'll have a coffee.",
+          "Me tomo un café."
+        ],
+        [
+          "<b>will</b>",
+          "ofrecimiento",
+          "ayudar",
+          "I'll carry that for you.",
+          "Te lo llevo yo."
+        ],
+        [
+          "<b>will</b>",
+          "promesa / petición",
+          "I promise · Will you…?",
+          "I'll be careful.",
+          "Tendré cuidado."
+        ],
+        [
+          "<b>will</b>",
+          "predicción (opinión)",
+          "I think · I'm sure · probably",
+          "I think she'll pass.",
+          "Creo que aprobará."
+        ],
+        [
+          "<b>going to</b>",
+          "plan / intención",
+          "ya lo decidí",
+          "I'm going to learn Italian.",
+          "Voy a aprender italiano."
+        ],
+        [
+          "<b>going to</b>",
+          "predicción (pruebas)",
+          "Look! · lo veo",
+          "It's going to rain.",
+          "Va a llover."
+        ],
+        [
+          "<b>present continuous</b>",
+          "cita / plan fijo",
+          "día + hora + lugar",
+          "I'm seeing the doctor at 4.",
+          "Tengo médico a las 4."
+        ]
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · WILL: forma",
+      "title_en": "will: form",
+      "icon": "🧩",
+      "color": "blue",
+      "es": "<b>will</b> es igual para todas las personas (¡sin -s!) y va seguido del <b>infinitivo sin to</b>. En la conversación se contrae: <b>I'll, you'll, she'll</b>. La negativa es <b>won't</b> (= will not). En la pregunta, <b>Will</b> va delante del sujeto.",
+      "en": "<b>will</b> + infinitive without to, the same for all persons. Negative: <b>won't</b>. Question: <b>Will</b> + subject + verb?",
+      "formula": [
+        "Sujeto + *will ('ll)* + infinitivo",
+        "Sujeto + *won't* + infinitivo",
+        "*Will* + sujeto + infinitivo + …?"
+      ],
+      "examples": [
+        {
+          "en": "I<b>'ll send</b> you the photos later.",
+          "es": "Luego te mando las fotos.",
+          "icon": "📸"
+        },
+        {
+          "en": "Don't worry, she <b>won't be</b> late.",
+          "es": "Tranquilo, no llegará tarde.",
+          "icon": "⏰"
+        },
+        {
+          "en": "<b>Will</b> you <b>be</b> at home tonight? — Yes, I <b>will</b>.",
+          "es": "¿Estarás en casa esta noche? — Sí.",
+          "icon": "🏠"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Qué futuro uso?",
+      "title_en": "Which future do I use?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "¿Lo decides <b>ahora</b>, te ofreces, prometes o pides algo? → <b>will</b>.",
+          "en": "Now / offer / promise / request → will."
+        },
+        {
+          "es": "¿Es tu <b>opinión</b> (I think, I'm sure, probably)? → <b>will</b>.",
+          "en": "Opinion → will."
+        },
+        {
+          "es": "¿Es un <b>plan</b> que ya tenías decidido? → <b>going to</b>.",
+          "en": "Plan decided before → going to."
+        },
+        {
+          "es": "¿<b>Ves pruebas</b> de que va a pasar? → <b>going to</b>.",
+          "en": "Evidence now → going to."
+        },
+        {
+          "es": "¿Es una <b>cita</b> organizada con día y hora? → <b>present continuous</b>.",
+          "en": "Arrangement → present continuous."
+        },
+        {
+          "es": "Revisa la forma: will + infinitivo · am/is/are going to + infinitivo · am/is/are + -ing.",
+          "en": "Check the form."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · WILL: decisiones al momento y ofrecimientos",
+      "title_en": "will: instant decisions and offers",
+      "icon": "⚡",
+      "color": "orange",
+      "es": "Usamos <b>will</b> cuando <mark>decidimos algo en ese mismo momento</mark>, sin haberlo pensado antes, y para <b>ofrecernos</b> a hacer algo. Muy típico en restaurantes y tiendas: <i>I'll have the chicken</i> (= tomaré / me pido el pollo). Para ofrecerte en forma de pregunta usamos <b>Shall I…?</b>",
+      "en": "<b>will</b> for decisions made at the moment of speaking and offers. Offer questions: <b>Shall I…?</b>",
+      "formula": [
+        "Decisión ahora: *I'll* + infinitivo",
+        "Ofrecimiento: *I'll* + infinitivo / *Shall I* + infinitivo…?"
+      ],
+      "examples": [
+        {
+          "en": "What would you like? — I<b>'ll have</b> the fish, please.",
+          "es": "¿Qué va a tomar? — Pescado, por favor.",
+          "icon": "🐟"
+        },
+        {
+          "en": "Those bags look heavy. I<b>'ll carry</b> one for you.",
+          "es": "Esas bolsas parecen pesadas. Te llevo una.",
+          "icon": "🛍️"
+        },
+        {
+          "en": "It's dark in here. <b>Shall I turn</b> on the light?",
+          "es": "Está oscuro. ¿Enciendo la luz?",
+          "icon": "💡"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco de la agenda",
+      "title_en": "Diary trick",
+      "es": "Piensa en tu <b>agenda</b> 📒. ¿Está <mark>escrito con día y hora</mark>? → present continuous. ¿Está <mark>en tu cabeza</mark> (lo has decidido)? → going to. ¿Se te ocurre <mark>ahora mismo</mark>? → will. Y si «<i>voy a</i>» es una decisión del momento (<i>¡Voy yo!</i>), en inglés es <b>I'll go!</b>",
+      "en": "In the diary → present continuous. In your head → going to. Just decided → will."
+    },
+    {
+      "t": "rule",
+      "title": "3 · WILL: promesas, peticiones y predicciones sin pruebas",
+      "title_en": "will: promises, requests and opinions",
+      "icon": "🤞",
+      "color": "purple",
+      "es": "<b>will</b> también sirve para <b>prometer</b> (<i>I'll always love you</i>), <b>pedir</b> algo (<i>Will you help me?</i>) y hacer <b>predicciones basadas en nuestra opinión</b>, no en pruebas. Por eso suele ir con <b>I think, I hope, I'm sure, probably, maybe</b>. Ojo: <b>I don't think…will</b>, no <s>I think…won't</s>.",
+      "en": "<b>will</b> for promises, requests and predictions based on opinion: I think…, I'm sure…, probably.",
+      "formula": [
+        "*I think / I'm sure* + sujeto + *will* + infinitivo",
+        "*I don't think* + sujeto + *will* + infinitivo"
+      ],
+      "examples": [
+        {
+          "en": "I promise I <b>won't tell</b> anyone.",
+          "es": "Te prometo que no se lo diré a nadie.",
+          "icon": "🤐"
+        },
+        {
+          "en": "I think Spain <b>will win</b> the World Cup.",
+          "es": "Creo que España ganará el Mundial.",
+          "icon": "🏆"
+        },
+        {
+          "en": "I don't think it <b>will be</b> expensive.",
+          "es": "No creo que sea caro.",
+          "icon": "💶"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · GOING TO: planes e intenciones",
+      "title_en": "going to: plans and intentions",
+      "icon": "🗓️",
+      "color": "green",
+      "es": "<b>be going to + infinitivo</b> expresa un <mark>plan o intención decidido antes</mark> de hablar. Es el «<i>voy a…</i>» del español. El verbo <b>be</b> cambia según el sujeto (am / is / are). Con el verbo <b>go</b>, en vez de <i>I'm going to go to Paris</i> solemos decir <i>I'm going to Paris</i>.",
+      "en": "<b>be going to</b> + infinitive for plans and intentions decided before speaking.",
+      "formula": [
+        "Sujeto + *am / is / are going to* + infinitivo",
+        "Sujeto + *'m not / isn't / aren't going to* + infinitivo",
+        "*Am / Is / Are* + sujeto + *going to* + infinitivo…?"
+      ],
+      "examples": [
+        {
+          "en": "I<b>'m going to start</b> a Master's in September.",
+          "es": "Voy a empezar un máster en septiembre.",
+          "icon": "🎓"
+        },
+        {
+          "en": "We<b>'re not going to buy</b> a car this year.",
+          "es": "No vamos a comprar coche este año.",
+          "icon": "🚗"
+        },
+        {
+          "en": "<b>Are</b> you <b>going to watch</b> the final? — Of course I am!",
+          "es": "¿Vas a ver la final? — ¡Pues claro!",
+          "icon": "📺"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · GOING TO: predicciones con pruebas",
+      "title_en": "going to: predictions with evidence",
+      "icon": "👀",
+      "color": "teal",
+      "es": "Usamos <b>going to</b> para predecir algo cuando <mark>vemos pruebas ahora</mark> de que va a pasar: nubes negras, un vaso al borde de la mesa, un marcador 4-0 a falta de 2 minutos. Compara: <i>I think it'll rain tomorrow</i> (opinión) / <i>Look at those clouds! It's going to rain</i> (lo estoy viendo).",
+      "en": "<b>going to</b> for predictions based on what we can see now.",
+      "formula": [
+        "Prueba ahora → sujeto + *is / are going to* + infinitivo"
+      ],
+      "examples": [
+        {
+          "en": "Look at those black clouds! It<b>'s going to rain</b>.",
+          "es": "¡Mira esas nubes negras! Va a llover.",
+          "icon": "🌧️"
+        },
+        {
+          "en": "Careful! That glass <b>is going to fall</b>.",
+          "es": "¡Cuidado! Ese vaso se va a caer.",
+          "icon": "🥛"
+        },
+        {
+          "en": "They're 4-0 up. They<b>'re going to win</b>.",
+          "es": "Van 4-0. Van a ganar.",
+          "icon": "⚽"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · PRESENT CONTINUOUS: citas y planes fijos",
+      "title_en": "Present continuous: arrangements",
+      "icon": "📅",
+      "color": "pink",
+      "es": "Para planes <b>ya organizados</b> con otras personas, con <mark>día, hora o lugar</mark> (está en la agenda, has reservado, has quedado), usamos el <b>present continuous</b> con una expresión de futuro. En español también usamos el presente: «<i>Mañana ceno con Ana</i>» = <b>I'm having dinner with Ana tomorrow</b>.",
+      "en": "Present continuous + future time for fixed arrangements (in the diary, booked, agreed with others).",
+      "formula": [
+        "Sujeto + *am / is / are* + *verbo-ing* + tonight / on Friday / at 6"
+      ],
+      "examples": [
+        {
+          "en": "I<b>'m meeting</b> Laura for coffee at five.",
+          "es": "He quedado con Laura a las cinco para tomar café.",
+          "icon": "☕"
+        },
+        {
+          "en": "We<b>'re flying</b> to Dublin on Saturday morning.",
+          "es": "Volamos a Dublín el sábado por la mañana.",
+          "icon": "✈️"
+        },
+        {
+          "en": "What <b>are</b> you <b>doing</b> this weekend?",
+          "es": "¿Qué haces este fin de semana?",
+          "icon": "🗓️"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "WILL o GOING TO: ¿cuándo lo decidiste?",
+      "title_en": "will or going to: when did you decide?",
+      "color": "blue",
+      "icon": "⏱️",
+      "es": "La diferencia clave está en el <b>momento de la decisión</b>. Si lo decides <b>mientras hablas</b> → will. Si ya lo habías decidido <b>antes</b> → going to.",
+      "en": "Decided now → <b>will</b>. Decided before → <b>going to</b>.",
+      "cols": [
+        {
+          "head": "⚡ will · lo decido ahora",
+          "color": "orange",
+          "items": [
+            "We've got no milk! — Oh, I<b>'ll buy</b> some.",
+            "The phone's ringing. — I<b>'ll get</b> it!"
+          ]
+        },
+        {
+          "head": "🗓️ going to · ya lo decidí",
+          "color": "green",
+          "items": [
+            "I<b>'m going to buy</b> milk. Do you need anything?",
+            "I<b>'m going to call</b> Mum after dinner."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Predicciones: opinión o pruebas",
+      "title_en": "Predictions: opinion or evidence",
+      "color": "teal",
+      "icon": "🔮",
+      "es": "Las dos sirven para predecir, pero <b>will</b> se basa en lo que <b>pienso</b> y <b>going to</b> en lo que <b>veo</b>.",
+      "en": "<b>will</b> = what I think. <b>going to</b> = what I can see.",
+      "cols": [
+        {
+          "head": "💭 will · lo creo",
+          "color": "purple",
+          "items": [
+            "I think it<b>'ll be</b> sunny tomorrow.",
+            "You<b>'ll love</b> Lisbon, I'm sure."
+          ]
+        },
+        {
+          "head": "👀 going to · lo veo",
+          "color": "teal",
+          "items": [
+            "Look at the sky. It<b>'s going to be</b> sunny.",
+            "She's packing. She<b>'s going to leave</b>."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "GOING TO o PRESENT CONTINUOUS",
+      "title_en": "going to or present continuous?",
+      "color": "pink",
+      "icon": "📅",
+      "es": "A menudo las dos son posibles. <b>going to</b> = intención (lo quiero hacer). <b>present continuous</b> = algo ya <b>organizado</b> (reservado, acordado, con hora).",
+      "en": "<b>going to</b> = intention. <b>present continuous</b> = arranged (booked, agreed, with a time).",
+      "cols": [
+        {
+          "head": "🎯 going to · intención",
+          "color": "green",
+          "items": [
+            "I<b>'m going to visit</b> Japan one day.",
+            "I<b>'m going to look</b> for a new job."
+          ]
+        },
+        {
+          "head": "📌 present cont. · ya organizado",
+          "color": "pink",
+          "items": [
+            "I<b>'m flying</b> to Tokyo on 3rd May.",
+            "I<b>'m having</b> an interview on Monday."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "I'm tired. I think I'll go to bed early.",
+          "es": "Estoy cansado. Creo que me iré pronto a la cama.",
+          "icon": "🛏️"
+        },
+        {
+          "en": "My sister is going to have a baby in March.",
+          "es": "Mi hermana va a tener un bebé en marzo.",
+          "icon": "👶"
+        },
+        {
+          "en": "What time are you leaving tomorrow?",
+          "es": "¿A qué hora te vas mañana?",
+          "icon": "🧳"
+        },
+        {
+          "en": "Don't tell Dad. He'll be furious!",
+          "es": "No se lo digas a papá. ¡Se pondrá furioso!",
+          "icon": "😡"
+        },
+        {
+          "en": "We're playing against Betis on Sunday.",
+          "es": "Jugamos contra el Betis el domingo.",
+          "icon": "⚽"
+        },
+        {
+          "en": "I'm not going to post that photo. It's awful!",
+          "es": "No voy a subir esa foto. ¡Es horrible!",
+          "icon": "🤳"
+        },
+        {
+          "en": "Will you marry me? — Yes, I will!",
+          "es": "¿Quieres casarte conmigo? — ¡Sí!",
+          "icon": "💍"
+        },
+        {
+          "en": "Hurry up! We're going to miss the train!",
+          "es": "¡Date prisa! ¡Vamos a perder el tren!",
+          "icon": "🚆"
+        },
+        {
+          "en": "I can't come on Friday. I'm working late.",
+          "es": "El viernes no puedo. Trabajo hasta tarde.",
+          "icon": "💼"
+        },
+        {
+          "en": "Shall I book a table for four? — Yes, please.",
+          "es": "¿Reservo mesa para cuatro? — Sí, por favor.",
+          "icon": "🍽️"
+        },
+        {
+          "en": "Robots will probably do a lot of our jobs in the future.",
+          "es": "Probablemente los robots harán muchos de nuestros trabajos en el futuro.",
+          "icon": "🤖"
+        },
+        {
+          "en": "Are you going to apply for that job?",
+          "es": "¿Vas a solicitar ese trabajo?",
+          "icon": "📄"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "trampas",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I will to call you tomorrow.",
+          "good": "I'll <b>call</b> you tomorrow.",
+          "why": "will + infinitivo sin to.",
+          "why_en": "will + verb (no to)."
+        },
+        {
+          "bad": "She wills come later.",
+          "good": "She <b>will</b> come later.",
+          "why": "will no lleva -s.",
+          "why_en": "No -s on will."
+        },
+        {
+          "bad": "You are going to study tonight?",
+          "good": "<b>Are you</b> going to study tonight?",
+          "why": "Pregunta: am / is / are delante del sujeto.",
+          "why_en": "Question: be + subject + going to."
+        },
+        {
+          "bad": "The phone's ringing. — I'm going to answer it.",
+          "good": "I<b>'ll</b> answer it.",
+          "why": "Decisión en el momento → will.",
+          "why_en": "Instant decision → will."
+        },
+        {
+          "bad": "Look at the clouds! It will rain.",
+          "good": "It<b>'s going to</b> rain.",
+          "why": "Predicción con pruebas → going to.",
+          "why_en": "Evidence → going to."
+        },
+        {
+          "bad": "I think it won't rain.",
+          "good": "I <b>don't think</b> it'll rain.",
+          "why": "En inglés se niega el think.",
+          "why_en": "Negate think."
+        },
+        {
+          "bad": "I see the dentist tomorrow at 5.",
+          "good": "I<b>'m seeing</b> the dentist tomorrow at 5.",
+          "why": "Cita fija → present continuous.",
+          "why_en": "Arrangement → present continuous."
+        },
+        {
+          "bad": "Do you help me with this box?",
+          "good": "<b>Will</b> you help me with this box?",
+          "why": "Petición: Will you…? (o Can you…?).",
+          "why_en": "Request: Will / Can you…?"
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Planes para el fin de semana",
+      "title_en": "Weekend plans",
+      "lines": [
+        {
+          "who": "Iker",
+          "en": "Hey Nora! What are you doing this weekend?",
+          "es": "¡Hola, Nora! ¿Qué haces este fin de semana?"
+        },
+        {
+          "who": "Nora",
+          "en": "On Saturday I'm going to a concert with my cousins. We bought the tickets months ago!",
+          "es": "El sábado voy a un concierto con mis primos. ¡Compramos las entradas hace meses!"
+        },
+        {
+          "who": "Iker",
+          "en": "Cool! And on Sunday?",
+          "es": "¡Qué guay! ¿Y el domingo?"
+        },
+        {
+          "who": "Nora",
+          "en": "I'm going to study. I've got an exam on Monday.",
+          "es": "Voy a estudiar. Tengo un examen el lunes."
+        },
+        {
+          "who": "Iker",
+          "en": "Oh, I've got the same exam! Shall we study together?",
+          "es": "¡Anda, yo tengo el mismo examen! ¿Estudiamos juntos?"
+        },
+        {
+          "who": "Nora",
+          "en": "Great idea! I'll bring my notes.",
+          "es": "¡Buena idea! Yo llevo mis apuntes."
+        },
+        {
+          "who": "Iker",
+          "en": "And I'll make some coffee. Look at the sky, though — it's going to rain all weekend.",
+          "es": "Y yo hago café. Aunque mira el cielo: va a llover todo el fin de semana."
+        },
+        {
+          "who": "Nora",
+          "en": "Oh no! I hope it stops before the concert!",
+          "es": "¡Oh, no! ¡Espero que pare antes del concierto!"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "¿Por qué ese futuro?",
+      "title_en": "Match the sentence and the use",
+      "icon": "🔗",
+      "es": "Une cada frase con su uso.",
+      "en": "Match each sentence with its use.",
+      "pairs": [
+        [
+          "I'll carry your bag for you.",
+          "ofrecimiento · offer"
+        ],
+        [
+          "I promise I'll be on time.",
+          "promesa · promise"
+        ],
+        [
+          "I think Brazil will win.",
+          "predicción (opinión) · opinion"
+        ],
+        [
+          "Look out! You're going to fall!",
+          "predicción (pruebas) · evidence"
+        ],
+        [
+          "I'm going to learn to drive this year.",
+          "plan · intention"
+        ],
+        [
+          "I'm meeting Jo at 6 at the station.",
+          "cita fija · arrangement"
+        ],
+        [
+          "Oh, we've got no bread. I'll buy some.",
+          "decisión ahora · instant decision"
+        ],
+        [
+          "Will you open the window, please?",
+          "petición · request"
+        ]
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Will o going to",
+      "title_en": "will or going to?",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta. Pregúntate: ¿lo decide ahora o ya lo había decidido? ¿Opinión o pruebas?",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "I'm thirsty. — I [will|am going to] get you some water.",
+          "a": "will"
+        },
+        {
+          "q": "We've booked a hotel. We [will|are going to] stay in Rome for a week.",
+          "a": "are going to"
+        },
+        {
+          "q": "Look at that car! It [will|is going to] crash!",
+          "a": "is going to"
+        },
+        {
+          "q": "I think you [will|are going to] like this film.",
+          "a": "will"
+        },
+        {
+          "q": "Don't worry, I [won't|am not going to] tell anyone. I promise.",
+          "a": "won't"
+        },
+        {
+          "q": "She's saved a lot of money. She [will|is going to] buy a new laptop.",
+          "a": "is going to"
+        },
+        {
+          "q": "The phone's ringing. — OK, I [will|am going to] answer it.",
+          "a": "will"
+        },
+        {
+          "q": "Be careful! You [will|are going to] spill your coffee!",
+          "a": "are going to"
+        },
+        {
+          "q": "I'm sure Sara [will|is going to] pass the exam. She's very clever.",
+          "a": "will"
+        },
+        {
+          "q": "[Will|Are] you going to watch the match tonight?",
+          "a": "Are"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica las frases",
+      "title_en": "Sort the sentences",
+      "icon": "🗂️",
+      "es": "¿Qué futuro necesitas para decir cada idea en inglés? Escribe cada frase en su caja.",
+      "en": "Which future form do you need for each idea?",
+      "cats": [
+        {
+          "name": "will",
+          "words": [
+            "¡Ya lo cojo yo!",
+            "Creo que lloverá.",
+            "Te prometo que te llamo.",
+            "¿Me ayudas?"
+          ]
+        },
+        {
+          "name": "going to",
+          "words": [
+            "Voy a estudiar Medicina.",
+            "¡Cuidado, te vas a caer!",
+            "Este verano voy a aprender a nadar.",
+            "Va a nevar: mira el cielo."
+          ]
+        },
+        {
+          "name": "present continuous",
+          "words": [
+            "Ceno con Ana el viernes a las 9.",
+            "Tengo dentista mañana a las 5.",
+            "Volamos a Roma el lunes.",
+            "Juego un partido el sábado a las 10."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Completa con will / won't",
+      "title_en": "Complete with will or won't",
+      "icon": "✏️",
+      "es": "Completa con will ('ll) o won't + el verbo entre paréntesis.",
+      "en": "Complete with will or won't + verb.",
+      "items": [
+        {
+          "q": "I'm cold. — I ____ (close) the window.",
+          "a": "will close ('ll close)"
+        },
+        {
+          "q": "I promise I ____ (be) late again.",
+          "a": "won't be"
+        },
+        {
+          "q": "I think it ____ (be) sunny tomorrow.",
+          "a": "will be"
+        },
+        {
+          "q": "Don't touch that dog. It ____ (bite) you!",
+          "a": "will bite ('ll bite)"
+        },
+        {
+          "q": "I don't think they ____ (come) to the party.",
+          "a": "will come"
+        },
+        {
+          "q": "____ you ____ (help) me with my homework?",
+          "a": "Will … help"
+        },
+        {
+          "q": "That's too expensive. I ____ (not / buy) it.",
+          "a": "won't buy"
+        },
+        {
+          "q": "Wait a minute, I ____ (get) my coat.",
+          "a": "will get ('ll get)"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Completa con going to",
+      "title_en": "Complete with going to",
+      "icon": "🗓️",
+      "es": "Completa con la forma correcta de be going to + el verbo entre paréntesis.",
+      "en": "Complete with be going to + verb.",
+      "items": [
+        {
+          "q": "I ____ (start) a new job in January.",
+          "a": "am going to start ('m going to start)"
+        },
+        {
+          "q": "Look at that man! He ____ (jump) into the river!",
+          "a": "is going to jump ('s going to jump)"
+        },
+        {
+          "q": "We ____ (not / have) a party this year.",
+          "a": "aren't going to have"
+        },
+        {
+          "q": "____ you ____ (cook) tonight?",
+          "a": "Are … going to cook"
+        },
+        {
+          "q": "My parents ____ (sell) their flat.",
+          "a": "are going to sell"
+        },
+        {
+          "q": "It's 8:55 and the class starts at 9. You ____ (be) late!",
+          "a": "are going to be ('re going to be)"
+        },
+        {
+          "q": "She ____ (not / study) Law. She's changed her mind.",
+          "a": "isn't going to study"
+        },
+        {
+          "q": "What ____ you ____ (do) after university?",
+          "a": "are … going to do"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "La agenda de Marta",
+      "title_en": "Marta's diary",
+      "icon": "📋",
+      "es": "Mira la agenda de Marta y escribe frases en present continuous. La primera es un ejemplo.",
+      "en": "Write Marta's arrangements in the present continuous.",
+      "head": [
+        "Agenda · Diary",
+        "Frase · Sentence"
+      ],
+      "rows": [
+        [
+          "Mon 9:00 · 🦷 see the dentist",
+          "<i>On Monday at 9 she's seeing the dentist.</i>"
+        ],
+        [
+          "Tue 18:00 · 🎾 play tennis with Eva",
+          "?On Tuesday at 6 she's playing tennis with Eva."
+        ],
+        [
+          "Wed 13:30 · 🍝 have lunch with her boss",
+          "?On Wednesday at 1:30 she's having lunch with her boss."
+        ],
+        [
+          "Thu 10:00 · 💻 give a presentation",
+          "?On Thursday at 10 she's giving a presentation."
+        ],
+        [
+          "Fri 20:00 · 🎬 go to the cinema",
+          "?On Friday at 8 she's going to the cinema."
+        ],
+        [
+          "Sat 7:00 · ✈️ fly to Paris",
+          "?On Saturday at 7 she's flying to Paris."
+        ],
+        [
+          "Sun 19:00 · 🚆 come back by train",
+          "?On Sunday at 7 she's coming back by train."
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Los tres futuros",
+      "title_en": "The three futures",
+      "icon": "🔮",
+      "es": "Completa con will, going to o el present continuous del verbo entre paréntesis. Lee la pista.",
+      "en": "Complete with will, going to or present continuous.",
+      "items": [
+        {
+          "q": "I ____ (have) dinner with my grandparents tonight. It's all arranged.",
+          "a": "am having ('m having)"
+        },
+        {
+          "q": "There's no coffee left! — Really? I ____ (buy) some.",
+          "a": "will buy ('ll buy)"
+        },
+        {
+          "q": "My brother ____ (study) abroad next year. He's decided.",
+          "a": "is going to study"
+        },
+        {
+          "q": "I'm sure you ____ (enjoy) the trip.",
+          "a": "will enjoy ('ll enjoy)"
+        },
+        {
+          "q": "Watch out! That ladder ____ (fall)!",
+          "a": "is going to fall"
+        },
+        {
+          "q": "We ____ (fly) to Lisbon at 7 a.m. tomorrow. I've got the tickets.",
+          "a": "are flying ('re flying)"
+        },
+        {
+          "q": "This box is so heavy! — Wait, I ____ (help) you.",
+          "a": "will help ('ll help)"
+        },
+        {
+          "q": "What ____ you ____ (do) on Saturday evening? — I'm going out with Leo.",
+          "a": "are … doing"
+        },
+        {
+          "q": "I ____ (not / eat) junk food any more. I've decided.",
+          "a": "am not going to eat ('m not going to eat)"
+        },
+        {
+          "q": "I promise I ____ (forget) your birthday this year.",
+          "a": "won't forget"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Negativa y pregunta",
+      "title_en": "Negative and question",
+      "icon": "🔄",
+      "es": "Escribe cada frase en negativa y en pregunta.",
+      "en": "Write each sentence in the negative and as a question.",
+      "labels": [
+        "⛔",
+        "❓"
+      ],
+      "items": [
+        {
+          "q": "She will call you tonight.",
+          "a": [
+            "She won't call you tonight.",
+            "Will she call you tonight?"
+          ]
+        },
+        {
+          "q": "They're going to move house.",
+          "a": [
+            "They aren't going to move house.",
+            "Are they going to move house?"
+          ]
+        },
+        {
+          "q": "You're meeting Leo at 8.",
+          "a": [
+            "You aren't meeting Leo at 8.",
+            "Are you meeting Leo at 8?"
+          ]
+        },
+        {
+          "q": "It will be cold tomorrow.",
+          "a": [
+            "It won't be cold tomorrow.",
+            "Will it be cold tomorrow?"
+          ]
+        },
+        {
+          "q": "He's going to buy a motorbike.",
+          "a": [
+            "He isn't going to buy a motorbike.",
+            "Is he going to buy a motorbike?"
+          ]
+        },
+        {
+          "q": "We're playing tennis on Sunday.",
+          "a": [
+            "We aren't playing tennis on Sunday.",
+            "Are we playing tennis on Sunday?"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Responde con el futuro adecuado",
+      "title_en": "Respond with the right future",
+      "icon": "💬",
+      "es": "Lee la situación y escribe una frase con el futuro adecuado y las palabras entre paréntesis.",
+      "en": "Read the situation and write a sentence.",
+      "items": [
+        {
+          "q": "Your friend says: «I'm hungry!» You offer. <b>(make / a sandwich)</b>",
+          "a": "I'll make you a sandwich."
+        },
+        {
+          "q": "You decided last week to join a gym. <b>(join / a gym)</b>",
+          "a": "I'm going to join a gym."
+        },
+        {
+          "q": "You see a woman running towards a bus that is leaving. <b>(miss / the bus)</b>",
+          "a": "She's going to miss the bus."
+        },
+        {
+          "q": "You have a hairdresser's appointment tomorrow at 10. <b>(have / my hair cut)</b>",
+          "a": "I'm having my hair cut at 10 tomorrow."
+        },
+        {
+          "q": "You promise your mum to tidy your room. <b>(tidy / my room)</b>",
+          "a": "I'll tidy my room, I promise."
+        },
+        {
+          "q": "In your opinion, your team won't win the league. <b>(I don't think / win)</b>",
+          "a": "I don't think my team will win the league."
+        },
+        {
+          "q": "You ask a friend to lend you his charger. <b>(lend / your charger)</b>",
+          "a": "Will you lend me your charger? / Can you lend me your charger?"
+        },
+        {
+          "q": "The waiter asks what you want. You decide. <b>(have / the pasta)</b>",
+          "a": "I'll have the pasta, please."
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase.",
+      "en": "Put the words in order.",
+      "items": [
+        {
+          "q": "I'll / later / you / call",
+          "a": "I'll call you later."
+        },
+        {
+          "q": "going / are / you / to / what / do / ?",
+          "a": "What are you going to do?"
+        },
+        {
+          "q": "think / I / don't / will / rain / it",
+          "a": "I don't think it will rain."
+        },
+        {
+          "q": "meeting / I'm / at six / Pablo",
+          "a": "I'm meeting Pablo at six."
+        },
+        {
+          "q": "is / to / going / fall / that / glass",
+          "a": "That glass is going to fall."
+        },
+        {
+          "q": "you / will / help / me / ?",
+          "a": "Will you help me?"
+        },
+        {
+          "q": "won't / I / anyone / tell",
+          "a": "I won't tell anyone."
+        },
+        {
+          "q": "are / tonight / doing / what / you / ?",
+          "a": "What are you doing tonight?"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "⚖️",
+      "es": "Lee cada afirmación y marca T (verdadero) o F (falso).",
+      "en": "Read each statement. Tick T or F.",
+      "items": [
+        {
+          "q": "We use «will» for decisions we make at the moment of speaking.",
+          "a": true
+        },
+        {
+          "q": "«She wills come» is correct.",
+          "a": false,
+          "why": "will no lleva -s: She will come."
+        },
+        {
+          "q": "«Look at the clouds! It's going to rain» is a prediction with evidence.",
+          "a": true
+        },
+        {
+          "q": "We use the present continuous for fixed arrangements with a time.",
+          "a": true
+        },
+        {
+          "q": "«I will to go» is correct.",
+          "a": false,
+          "why": "will + infinitivo sin to: I will go."
+        },
+        {
+          "q": "«I think it won't rain» is the most natural way to say it.",
+          "a": false,
+          "why": "Más natural: I don't think it will rain."
+        },
+        {
+          "q": "«Shall I open the window?» is an offer.",
+          "a": true
+        },
+        {
+          "q": "«I'm going to study Medicine» is a decision made at the moment of speaking.",
+          "a": false,
+          "why": "Es un plan decidido antes."
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "I will to phone you tomorrow.",
+          "a": "I will phone you tomorrow."
+        },
+        {
+          "q": "He wills be here at five.",
+          "a": "He will be here at five."
+        },
+        {
+          "q": "The phone's ringing. — I'm going to answer it.",
+          "a": "The phone's ringing. — I'll answer it."
+        },
+        {
+          "q": "Look out! The ball will hit you!",
+          "a": "Look out! The ball is going to hit you!"
+        },
+        {
+          "q": "I think she won't come.",
+          "a": "I don't think she will come."
+        },
+        {
+          "q": "You are going to help me with this?",
+          "a": "Are you going to help me with this?"
+        },
+        {
+          "q": "We going to visit Granada in May.",
+          "a": "We are going to visit Granada in May."
+        },
+        {
+          "q": "I see Marta tonight at 8. We've booked a table.",
+          "a": "I'm seeing Marta tonight at 8."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿decisión ahora, plan, pruebas o cita?",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "¡Llaman a la puerta! — ¡Ya voy yo!",
+          "a": [
+            "Someone's at the door! — I'll go!",
+            "Someone's at the door! — I'll get it!"
+          ]
+        },
+        {
+          "q": "Voy a estudiar Ingeniería el año que viene.",
+          "a": "I'm going to study Engineering next year."
+        },
+        {
+          "q": "¡Cuidado! ¡Te vas a cortar!",
+          "a": "Careful! You're going to cut yourself!"
+        },
+        {
+          "q": "Mañana ceno con mis abuelos.",
+          "a": "I'm having dinner with my grandparents tomorrow."
+        },
+        {
+          "q": "Te prometo que no llegaré tarde.",
+          "a": "I promise I won't be late."
+        },
+        {
+          "q": "No creo que apruebe el examen.",
+          "a": "I don't think I'll pass the exam."
+        },
+        {
+          "q": "¿Qué haces este fin de semana?",
+          "a": "What are you doing this weekend?"
+        },
+        {
+          "q": "¿Abro la ventana?",
+          "a": "Shall I open the window?"
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee los mensajes de Hugo. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read Hugo's messages. Tick T or F and answer the questions.",
+      "text_title": "Hugo's messages 💬",
+      "text": [
+        "<b>To Mum:</b> Hi Mum! Just to let you know my plans for the summer. I'm going to work in a café in Bristol for two months to improve my English. I'm flying there on 1st July — I booked the ticket yesterday!",
+        "<b>To Lena:</b> Hey Lena! Are you free tonight? I'm meeting Jorge and Ana at the new burger place at 9. Come with us! And don't worry about your bike, I'll fix it tomorrow, I promise.",
+        "<b>To Jorge:</b> Mate, have you seen those black clouds? It's going to rain any minute! Shall I bring an umbrella for you? Also, I think Ana will be late, as usual 😂. I'll wait for you both at the entrance."
+      ],
+      "items": [
+        {
+          "q": "Hugo is going to work in a café in Bristol.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Hugo hasn't bought his plane ticket yet.",
+          "tf": true,
+          "a": false,
+          "why": "He booked it yesterday."
+        },
+        {
+          "q": "Hugo is meeting his friends at 9 tonight.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "When is Hugo flying to Bristol?",
+          "a": "On 1st July."
+        },
+        {
+          "q": "What does Hugo promise Lena?",
+          "a": "He promises he'll fix her bike tomorrow."
+        },
+        {
+          "q": "Why does Hugo think it's going to rain?",
+          "a": "Because he can see black clouds (there's evidence)."
+        },
+        {
+          "q": "What does Hugo offer Jorge?",
+          "a": "He offers to bring him an umbrella. (Shall I bring an umbrella for you?)"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre tu futuro. Usa will, going to y el present continuous.",
+      "en": "Write about your future.",
+      "items": [
+        {
+          "q": "Escribe 3 <b>planes</b> que ya tienes para este año (going to).",
+          "lines": 2,
+          "a": "Ej.: I'm going to learn to drive. I'm going to save money for a trip. I'm not going to eat so much sugar."
+        },
+        {
+          "q": "Escribe 2 <b>citas</b> de tu agenda para la semana que viene (present continuous).",
+          "lines": 2,
+          "a": "Ej.: I'm playing football on Tuesday at 7. I'm having lunch with my aunt on Sunday."
+        },
+        {
+          "q": "Escribe 3 <b>predicciones</b> sobre el mundo dentro de 20 años (will / won't).",
+          "lines": 2,
+          "a": "Ej.: I think people will work from home. Cars will drive themselves. We won't use cash."
+        },
+        {
+          "q": "Escribe una <b>promesa</b> y un <b>ofrecimiento</b> para alguien de tu familia.",
+          "lines": 2,
+          "a": "Ej.: I promise I'll call you every Sunday. I'll do the washing-up tonight."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Uso <b>will</b> para decisiones del momento, ofrecimientos, promesas y peticiones.",
+      "en": "I use will for instant decisions, offers, promises and requests."
+    },
+    {
+      "es": "Uso <b>will</b> con I think / I'm sure para predicciones basadas en mi opinión.",
+      "en": "I use will for predictions based on opinion."
+    },
+    {
+      "es": "Uso <b>going to</b> para planes ya decididos y predicciones con pruebas.",
+      "en": "I use going to for plans and predictions with evidence."
+    },
+    {
+      "es": "Uso el <b>present continuous</b> para citas con día y hora.",
+      "en": "I use the present continuous for arrangements."
+    },
+    {
+      "es": "Escribo will + infinitivo <b>sin to</b> y sin -s; la negativa es <b>won't</b>.",
+      "en": "I write will + verb (no to, no -s). Negative: won't."
+    },
+    {
+      "es": "Ofrezco ayuda con <b>Shall I…?</b> y digo <b>I don't think… will</b>.",
+      "en": "I can offer with Shall I…? and say I don't think… will."
+    }
+  ]
+}

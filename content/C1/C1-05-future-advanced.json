@@ -1,0 +1,906 @@
+{
+  "id": "C1-05",
+  "level": "C1",
+  "title": "FUTURO AVANZADO",
+  "file_title": "Futuro avanzado",
+  "subtitle": "Future continuous, future perfect & more · el futuro con matices",
+  "icon": "⏳",
+  "map": {
+    "center": "Más allá de <b>will</b>: acciones <b>en curso</b>, <b>ya terminadas</b> o <b>inminentes</b> en el futuro, y el futuro visto desde el pasado.",
+    "nodes": [
+      {
+        "title": "Future continuous",
+        "icon": "🎞️",
+        "color": "green",
+        "items": [
+          "<b>will be + -ing</b>: en curso en un momento futuro",
+          "This time tomorrow I<b>'ll be flying</b> to Oslo.",
+          "Pregunta cortés: <b>Will you be using</b> the car?"
+        ]
+      },
+      {
+        "title": "Future perfect",
+        "icon": "🏁",
+        "color": "blue",
+        "art": "📅",
+        "items": [
+          "<b>will have + participio</b>: terminado antes de un momento futuro",
+          "By 2030 we<b>'ll have halved</b> emissions.",
+          "Clave: <b>by</b>, <b>by then</b>, <b>by the time</b>"
+        ]
+      },
+      {
+        "title": "Future perfect continuous",
+        "icon": "⏱️",
+        "color": "purple",
+        "items": [
+          "<b>will have been + -ing</b>: duración hasta un momento futuro",
+          "In June I<b>'ll have been working</b> here for ten years.",
+          "Va con <b>for</b> + periodo"
+        ]
+      },
+      {
+        "title": "Inminente o previsto",
+        "icon": "🚀",
+        "color": "orange",
+        "rows": [["be about to", "= a punto de"], ["be on the point of", "+ -ing (más formal)"], ["be due to", "= previsto (+ hora)"]],
+        "after": "The train <b>is due to</b> leave at 6.40."
+      },
+      {
+        "title": "Futuro en el pasado",
+        "icon": "🔙",
+        "color": "pink",
+        "art": "🕰️",
+        "items": ["<b>was going to</b>: plan que no se cumplió", "I <b>was going to</b> call you, but I forgot.", "<b>would</b>: She knew she <b>would</b> win."]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "color": "yellow",
+        "items": [
+          "<b>about to</b> nunca lleva hora: <s>about to leave at 6</s>",
+          "Estado: will have <b>known</b> (<s>been knowing</s>)",
+          "<b>by</b> = como muy tarde · <b>until</b> = hasta"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["By the time you will arrive, we'll have left."],
+      "good": ["By the time you arrive, we'll have left."],
+      "note": "Tras <b>by the time / when / until</b> → presente, nunca will"
+    },
+    "mini": {
+      "es": "Completa con la forma de futuro adecuada.",
+      "en": "Complete with the right future form.",
+      "items": [
+        {"q": "At 9 tomorrow I ____ (fly) to Rome.", "a": "will be flying"},
+        {"q": "By May I ____ (finish) my thesis.", "a": "will have finished"},
+        {"q": "Hurry! The film is ____ start.", "a": "about to"},
+        {"q": "In May I ____ (live) here for a year.", "a": "will have been living"},
+        {"q": "I ____ call you, but I forgot.", "a": "was going to"}
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "En B1 viste <b>will</b> y <b>going to</b>. En C1 el futuro se vuelve más preciso: nos situamos <mark>en un punto concreto del futuro</mark> y miramos qué <b>estará pasando</b> (future continuous), qué <b>habrá terminado</b> (future perfect) o <b>cuánto tiempo llevará</b> ocurriendo algo (future perfect continuous). Además, el inglés tiene expresiones para lo <b>inminente</b> o <b>programado</b> (<i>be about to, be due to, be on the point of</i>) y formas para hablar del <b>futuro visto desde el pasado</b> (<i>was going to, would, was to</i>), imprescindibles en narración y en registro formal.",
+      "en": "At C1 the future becomes more precise: we stand at a point in the future and look at what will be in progress, what will have finished, or how long something will have been going on. We also express imminence and schedules, and the future seen from the past.",
+      "formula": ["*will be* + -ing → en curso", "*will have* + participio → terminado", "*will have been* + -ing → duración"]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Future continuous",
+      "title_en": "Actions in progress in the future",
+      "icon": "🎞️",
+      "color": "green",
+      "es": "Se forma con <b>will be + -ing</b>. Lo usamos para: <b>(a)</b> una acción <mark>en curso en un momento concreto del futuro</mark> (<i>this time tomorrow, at 9 tonight</i>); <b>(b)</b> algo que ocurrirá <b>en el curso normal de los acontecimientos</b>, sin intención especial (<i>I'll be seeing him at the conference anyway</i>); <b>(c)</b> preguntar <b>con cortesía</b> por los planes de alguien: <i>Will you be using the car tonight?</i> suena más educado que <i>Will you use…?</i>, que puede sonar a petición o a presión.",
+      "en": "will be + -ing: an action in progress at a future moment; something that will happen in the normal course of events; polite questions about someone's plans.",
+      "formula": ["Sujeto + *will be* + verbo-ing", "Sujeto + *won't be* + verbo-ing", "*Will* + sujeto + *be* + verbo-ing…?"],
+      "examples": [
+        {
+          "en": "This time next week I<b>'ll be lying</b> on a beach in Menorca.",
+          "es": "La semana que viene a estas horas estaré tumbado en una playa de Menorca.",
+          "icon": "🏖️"
+        },
+        {"en": "Don't ring at eight — we<b>'ll be having</b> dinner.", "es": "No llames a las ocho: estaremos cenando.", "icon": "🍽️"},
+        {
+          "en": "<b>Will</b> you <b>be using</b> the meeting room this afternoon?",
+          "es": "¿Vas a usar la sala de reuniones esta tarde? (pregunta cortés)",
+          "icon": "🚪"
+        },
+        {
+          "en": "I<b>'ll be passing</b> the chemist's anyway — shall I pick up your prescription?",
+          "es": "Voy a pasar por la farmacia de todos modos: ¿te recojo la receta?",
+          "icon": "💊"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Future perfect simple",
+      "title_en": "Completed before a future point",
+      "icon": "🏁",
+      "color": "blue",
+      "es": "Se forma con <b>will have + participio</b>. Expresa una acción que <mark>estará terminada antes de</mark> un momento del futuro. Casi siempre va con <b>by</b> (<i>para, como muy tarde</i>): <b>by Friday, by then, by the end of the year, by the time</b> + presente. Ojo: <b>by</b> marca un límite, mientras que <b>until</b> marca duración (<i>hasta</i>). También sirve para hacer <b>suposiciones sobre el presente</b>: <i>You'll have heard the news</i> (<i>ya te habrás enterado</i>).",
+      "en": "will have + past participle: completed before a point in the future, usually with by. It can also express an assumption about the present: You'll have heard the news.",
+      "formula": ["Sujeto + *will have* + participio", "Sujeto + *won't have* + participio", "*Will* + sujeto + *have* + participio…?"],
+      "examples": [
+        {
+          "en": "By the time you read this email, I<b>'ll have left</b> the company.",
+          "es": "Para cuando leas este correo, ya habré dejado la empresa.",
+          "icon": "📧"
+        },
+        {
+          "en": "The committee <b>won't have reached</b> a decision by Monday.",
+          "es": "El comité no habrá tomado una decisión para el lunes.",
+          "icon": "⚖️"
+        },
+        {
+          "en": "<b>Will</b> they <b>have finished</b> the renovation before the summer?",
+          "es": "¿Habrán terminado la reforma antes del verano?",
+          "icon": "🏗️"
+        },
+        {"en": "You<b>'ll have heard</b> that Marta has been promoted.", "es": "Ya te habrás enterado de que han ascendido a Marta.", "icon": "📣"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Future perfect continuous",
+      "title_en": "Duration up to a future point",
+      "icon": "⏱️",
+      "color": "purple",
+      "es": "Se forma con <b>will have been + -ing</b>. Pone el foco en la <mark>duración</mark> de una actividad hasta un momento del futuro, normalmente con <b>for</b> + periodo. En español solemos decir <i>llevaré… años</i> o <i>hará… que</i>. Recuerda: los <b>verbos de estado</b> (<i>know, own, believe, be</i>) no van en forma continua: <i>By June I'll <b>have known</b> her for twenty years.</i>",
+      "en": "will have been + -ing: focuses on duration up to a future point, typically with for. State verbs use the future perfect simple instead.",
+      "formula": ["Sujeto + *will have been* + verbo-ing + *for* + periodo"],
+      "examples": [
+        {"en": "Next month I<b>'ll have been working</b> here for a decade.", "es": "El mes que viene llevaré una década trabajando aquí.", "icon": "💼"},
+        {
+          "en": "By the time we land, we<b>'ll have been travelling</b> for almost twenty hours.",
+          "es": "Cuando aterricemos, llevaremos casi veinte horas viajando.",
+          "icon": "✈️"
+        },
+        {
+          "en": "In 2027 the observatory <b>will have been collecting</b> data for half a century.",
+          "es": "En 2027 el observatorio llevará medio siglo recopilando datos.",
+          "icon": "🔭"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Las formas de un vistazo",
+      "title_en": "The future forms at a glance",
+      "icon": "🧭",
+      "color": "orange",
+      "wide": true,
+      "head": ["Forma · Form", "Estructura", "Idea clave", "Marcadores", "Ejemplo"],
+      "rows": [
+        ["Future continuous", "will be + -ing", "en curso en un momento futuro", "this time tomorrow, at 8 tonight", "At 8 I'll <b>be driving</b> home."],
+        [
+          "Future perfect simple",
+          "will have + participio",
+          "terminado antes de un momento futuro",
+          "by Friday, by then, by the time…",
+          "By 8 I'll <b>have got</b> home."
+        ],
+        [
+          "Future perfect continuous",
+          "will have been + -ing",
+          "duración hasta un momento futuro",
+          "for + periodo (+ by…)",
+          "By 8 I'll <b>have been driving</b> for 3 hours."
+        ],
+        ["be about to", "be about to + infinitivo", "inminente: a punto de", "just (nunca una hora)", "Quick — the bus <b>is about to</b> leave!"],
+        ["be due to", "be due to + infinitivo", "programado, según horario", "at 6.40, next week, in May", "The plane <b>is due to</b> land at 6.40."],
+        [
+          "was going to / would",
+          "pasado + idea de futuro",
+          "futuro visto desde el pasado",
+          "but…, knew that, said that",
+          "I <b>was going to</b> call, but…"
+        ]
+      ],
+      "note": "Truco: <b>at</b> + hora → en curso (continuous). <b>by</b> + hora → terminado (perfect). <b>for</b> + periodo hasta un momento → duración (perfect continuous).",
+      "note_en": "at + time → in progress; by + time → completed; for + period → duration."
+    },
+    {
+      "t": "compare",
+      "title": "AT las 8, BY las 8 o FOR… hasta las 8",
+      "title_en": "at, by or for?",
+      "icon": "⚖️",
+      "color": "blue",
+      "wide": true,
+      "es": "Imagina una línea del tiempo: el mismo verbo cambia de forma según miremos el <b>momento</b>, el <b>límite</b> o la <b>duración</b>.",
+      "en": "Same verb, three perspectives: the moment, the deadline or the duration.",
+      "cols": [
+        {
+          "head": "🎞️ at 8 pm · en curso",
+          "color": "green",
+          "items": ["At 8 pm I'll <b>be writing</b> the report.", "<i>A las 8 estaré escribiendo el informe.</i>", "Estaré en plena acción."]
+        },
+        {
+          "head": "🏁 by 8 pm · terminado",
+          "color": "blue",
+          "items": ["By 8 pm I'll <b>have written</b> the report.", "<i>Para las 8 habré escrito el informe.</i>", "La acción ya habrá acabado."]
+        },
+        {
+          "head": "⏱️ for 3 hours · duración",
+          "color": "purple",
+          "items": ["By 8 pm I'll <b>have been writing</b> it for three hours.", "<i>A las 8 llevaré tres horas escribiéndolo.</i>", "Importa cuánto dura."]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Inminente o previsto",
+      "title_en": "Imminent or scheduled",
+      "icon": "🚀",
+      "color": "orange",
+      "es": "<b>be about to + infinitivo</b> = <i>estar a punto de</i>: algo inminente. <mark>No admite expresiones de tiempo</mark> (<s>about to leave in two hours</s>), pero sí <b>just</b>: <i>I was just about to ring you</i>. <b>be on the point of + -ing</b> significa lo mismo con un tono más formal o dramático. <b>be on the verge / brink of</b> + nombre o -ing = <i>al borde de</i> (crisis, éxito, extinción). <b>be due to + infinitivo</b> = <i>estar previsto</i> según un horario o calendario; sí admite hora o fecha. En prensa verás <b>be set to</b> (<i>se prevé que</i>) y <b>be to</b> (<i>está previsto que</i>, anuncios oficiales).",
+      "en": "be about to (imminent, no time expression), be on the point of + -ing (more formal), be on the verge of (on the edge of), be due to (scheduled, takes a time), be set to / be to (news and official announcements).",
+      "formula": ["*be about to* + infinitivo", "*be on the point of* + verbo-ing", "*be due to* + infinitivo + (hora / fecha)"],
+      "examples": [
+        {
+          "en": "Please switch off your phones — the performance <b>is about to</b> begin.",
+          "es": "Apaguen los móviles, por favor: la función está a punto de empezar.",
+          "icon": "🎭"
+        },
+        {
+          "en": "The two firms <b>are on the point of signing</b> a merger agreement.",
+          "es": "Las dos empresas están a punto de firmar un acuerdo de fusión.",
+          "icon": "🤝"
+        },
+        {"en": "The report <b>is due to</b> be published on 15 March.", "es": "Está previsto que el informe se publique el 15 de marzo.", "icon": "📑"},
+        {
+          "en": "The Prime Minister <b>is to</b> visit Madrid next week.",
+          "es": "Está previsto que el primer ministro visite Madrid la semana que viene.",
+          "icon": "🏛️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · El futuro visto desde el pasado",
+      "title_en": "Future in the past",
+      "icon": "🔙",
+      "color": "pink",
+      "es": "Cuando narramos o contamos lo que alguien pensaba, el futuro <b>retrocede</b>: <b>will → would</b>, <b>am going to → was going to</b>, <b>is about to → was about to</b>. <b>was/were going to</b> se usa mucho para <mark>planes que no se cumplieron</mark> (<i>iba a…, pero</i>). En narración formal, <b>was/were to + infinitivo</b> expresa el <b>destino</b>, lo que acabaría pasando (<i>llegaría a…</i>), y <b>was/were to have + participio</b>, un plan frustrado (<i>tenía que haber…</i>).",
+      "en": "In narratives the future shifts back: would, was going to, was about to. Was going to often signals an unfulfilled plan. Formal narrative: was to (destiny) and was to have + participle (a plan that did not happen).",
+      "formula": ["*was / were going to* + infinitivo (…but)", "*would* + infinitivo (narración)", "*was / were to* + infinitivo (destino)"],
+      "examples": [
+        {"en": "I <b>was going to</b> email you, but the server went down.", "es": "Iba a escribirte un correo, pero se cayó el servidor.", "icon": "💻"},
+        {"en": "She knew that the decision <b>would</b> change her life.", "es": "Sabía que la decisión le cambiaría la vida.", "icon": "🌅"},
+        {"en": "We <b>were about to</b> leave when the client called.", "es": "Estábamos a punto de irnos cuando llamó el cliente.", "icon": "📞"},
+        {
+          "en": "He <b>was to</b> become one of the finest architects of his generation.",
+          "es": "Llegaría a ser uno de los mejores arquitectos de su generación.",
+          "icon": "📐"
+        },
+        {
+          "en": "The bridge <b>was to have opened</b> in 2020, but funding ran out.",
+          "es": "El puente tenía que haberse inaugurado en 2020, pero se acabó la financiación.",
+          "icon": "🌉"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Expresiones de inminencia y previsión",
+      "title_en": "Imminence and schedules",
+      "icon": "⏰",
+      "color": "teal",
+      "wide": true,
+      "head": ["Expresión", "Significado", "Registro", "Ejemplo"],
+      "rows": [
+        ["be about to", "a punto de", "neutro", "The meeting <b>is about to</b> start."],
+        ["be just about to", "justo a punto de", "neutro, oral", "I <b>was just about to</b> call you!"],
+        ["be on the point of + -ing", "a punto de", "formal / dramático", "She <b>was on the point of resigning</b>."],
+        ["be on the verge of", "al borde de", "neutro / formal", "The species <b>is on the verge of</b> extinction."],
+        ["be on the brink of", "al borde de (crisis, hito)", "formal, periodístico", "The country <b>is on the brink of</b> recession."],
+        ["be due to", "previsto (horario)", "neutro / formal", "The flight <b>is due to</b> land at 10.15."],
+        ["be set to", "se prevé que", "periodístico", "Prices <b>are set to</b> rise again."],
+        ["be to + infinitivo", "está previsto / orden oficial", "muy formal", "The minister <b>is to</b> step down."]
+      ],
+      "note": "Cuidado: <b>due to + infinitivo</b> = previsto (<i>The train is due to arrive</i>), pero <b>due to + nombre</b> = debido a (<i>The delay was due to fog</i>).",
+      "note_en": "due to + infinitive = scheduled; due to + noun = because of."
+    },
+    {
+      "t": "compare",
+      "title": "¿Se cumplió o no?",
+      "title_en": "Did it actually happen?",
+      "icon": "🔎",
+      "color": "pink",
+      "es": "En el futuro en el pasado, la estructura elegida suele indicar si el plan <b>se cumplió</b> o <b>se quedó en nada</b>.",
+      "en": "The structure often tells us whether the plan came true.",
+      "cols": [
+        {
+          "head": "❌ No se cumplió",
+          "color": "red",
+          "items": [
+            "I <b>was going to</b> study medicine, but I changed my mind.",
+            "The talks <b>were to have taken</b> place in Geneva.",
+            "We <b>were about to</b> sign when the deal collapsed."
+          ]
+        },
+        {
+          "head": "✅ Sí se cumplió",
+          "color": "green",
+          "items": [
+            "Nobody imagined that she <b>would</b> one day lead the party.",
+            "This concert <b>was to</b> be his last.",
+            "Ten years later, the village <b>would</b> become a tourist hotspot."
+          ]
+        }
+      ],
+      "wide": true
+    },
+    {
+      "t": "table",
+      "title": "Oraciones temporales: sin will",
+      "title_en": "Time clauses: no will",
+      "icon": "🕰️",
+      "color": "purple",
+      "wide": true,
+      "head": ["Conector", "Tras el conector", "Oración principal", "Ejemplo"],
+      "rows": [
+        ["when", "presente simple", "will / future continuous", "When you <b>arrive</b>, we'll be waiting for you."],
+        ["by the time", "presente simple", "future perfect", "By the time she <b>retires</b>, she'll have taught for 40 years."],
+        ["as soon as / once", "present perfect (acción acabada)", "will", "Once we<b>'ve signed</b> the contract, we'll announce it."],
+        ["until / before", "presente simple", "will / won't", "We won't know until the results <b>come</b> out."],
+        ["after", "present perfect", "will", "After you<b>'ve read</b> it, you'll understand."]
+      ],
+      "note": "Error típico por calco del subjuntivo español (<i>cuando llegues, para cuando termine</i>): <s>When you will arrive</s> → When you <b>arrive</b>. Tampoco <s>when I will have finished</s> → when I<b>'ve finished</b>.",
+      "note_en": "Never use will (or will have) after time conjunctions: use the present or present perfect."
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos en contexto",
+      "title_en": "More examples in context",
+      "items": [
+        {
+          "en": "By the end of the quarter, sales <b>will have risen</b> by 12%.",
+          "es": "A finales del trimestre, las ventas habrán subido un 12 %.",
+          "icon": "📈"
+        },
+        {
+          "en": "I<b>'ll be working</b> from home on Thursday, so call my mobile.",
+          "es": "El jueves estaré trabajando desde casa, así que llámame al móvil.",
+          "icon": "🏠"
+        },
+        {
+          "en": "By the summer she <b>will have been studying</b> Japanese for five years.",
+          "es": "Para el verano llevará cinco años estudiando japonés.",
+          "icon": "📚"
+        },
+        {
+          "en": "The new regulations <b>are due to</b> come into force in January.",
+          "es": "Está previsto que la nueva normativa entre en vigor en enero.",
+          "icon": "📜"
+        },
+        {
+          "en": "We <b>were on the point of</b> cancelling the event when a sponsor came forward.",
+          "es": "Estábamos a punto de cancelar el evento cuando apareció un patrocinador.",
+          "icon": "🎪"
+        },
+        {"en": "<b>Will</b> you <b>be needing</b> anything else, sir?", "es": "¿Necesitará algo más, señor?", "icon": "🛎️"},
+        {"en": "Don't worry — they <b>won't have noticed</b> the typo.", "es": "Tranquilo: no se habrán dado cuenta de la errata.", "icon": "🔍"},
+        {"en": "The negotiations <b>are on the verge of</b> collapse.", "es": "Las negociaciones están al borde del colapso.", "icon": "📉"},
+        {
+          "en": "Interest rates <b>are set to</b> fall later this year.",
+          "es": "Se prevé que los tipos de interés bajen a finales de este año.",
+          "icon": "🏦"
+        },
+        {"en": "I knew the interview <b>would</b> be tough, but not this tough.", "es": "Sabía que la entrevista sería dura, pero no tanto.", "icon": "😅"},
+        {
+          "en": "This time on Monday the team <b>will be presenting</b> the prototype to investors.",
+          "es": "El lunes a estas horas el equipo estará presentando el prototipo a los inversores.",
+          "icon": "🧪"
+        },
+        {
+          "en": "By the time the paper is published, the data <b>will have become</b> outdated.",
+          "es": "Para cuando se publique el artículo, los datos se habrán quedado obsoletos.",
+          "icon": "🗞️"
+        },
+        {
+          "en": "She <b>was going to</b> accept the offer, but the salary was too low.",
+          "es": "Iba a aceptar la oferta, pero el sueldo era demasiado bajo.",
+          "icon": "💶"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "By the time you will arrive, we'll have left.",
+          "good": "By the time you <b>arrive</b>, we'll have left.",
+          "why": "Tras by the time / when / until → presente, no will.",
+          "why_en": "No will after time conjunctions."
+        },
+        {
+          "bad": "This time tomorrow I will fly to Berlin.",
+          "good": "This time tomorrow I<b>'ll be flying</b> to Berlin.",
+          "why": "Acción en curso en un momento futuro → will be + -ing.",
+          "why_en": "In progress at a future time → future continuous."
+        },
+        {
+          "bad": "Until Friday I'll have finished the report.",
+          "good": "<b>By</b> Friday I'll have finished the report.",
+          "why": "Límite = by (para). Until = hasta (duración).",
+          "why_en": "Deadline → by, not until."
+        },
+        {
+          "bad": "Next year I'll have been knowing her for 20 years.",
+          "good": "Next year I'll <b>have known</b> her for 20 years.",
+          "why": "Know es verbo de estado: sin forma continua.",
+          "why_en": "State verbs have no continuous form."
+        },
+        {
+          "bad": "The train is about to leave in ten minutes.",
+          "good": "The train is <b>due to</b> leave in ten minutes.",
+          "why": "About to = inminente: no admite expresión de tiempo.",
+          "why_en": "about to takes no time expression."
+        },
+        {
+          "bad": "We are on the point to sign the deal.",
+          "good": "We are on the point <b>of signing</b> the deal.",
+          "why": "on the point of + -ing (tras preposición, -ing).",
+          "why_en": "Preposition + -ing."
+        },
+        {
+          "bad": "I knew it will be difficult.",
+          "good": "I knew it <b>would</b> be difficult.",
+          "why": "Futuro visto desde el pasado → would.",
+          "why_en": "Future in the past → would."
+        },
+        {
+          "bad": "In June I'll be working here for five years.",
+          "good": "In June I'll <b>have been working</b> here for five years.",
+          "why": "Duración hasta un momento futuro → will have been + -ing.",
+          "why_en": "Duration up to a future point."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Qué futuro elijo?",
+      "title_en": "Which future form?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "¿Hablas de un momento <b>concreto</b> del futuro y la acción estará <b>a medias</b>? → <b>will be + -ing</b>.",
+          "en": "In progress at a future moment → will be + -ing."
+        },
+        {
+          "es": "¿Estará <b>terminada</b> antes de un límite (<b>by</b>…)? → <b>will have + participio</b>.",
+          "en": "Finished before a deadline → will have + participle."
+        },
+        {
+          "es": "¿Importa <b>cuánto tiempo</b> llevará (<b>for</b>…)? → <b>will have been + -ing</b> (o la forma simple si es un verbo de estado).",
+          "en": "Duration → will have been + -ing (simple with state verbs)."
+        },
+        {
+          "es": "¿Es <b>inminente</b>? → be about to (sin hora). ¿Está en un <b>horario</b>? → be due to (+ hora).",
+          "en": "Imminent → be about to; scheduled → be due to."
+        },
+        {
+          "es": "¿Narras en pasado? → retrocede: <b>would, was going to, was about to, was to</b>.",
+          "en": "Narrating in the past → would, was going to, was about to, was to."
+        },
+        {"es": "Revisa: tras <b>when, by the time, until, as soon as</b> no hay will.", "en": "Check: no will after time conjunctions."}
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Reunión de proyecto",
+      "title_en": "Project meeting",
+      "lines": [
+        {
+          "who": "Laura",
+          "en": "So, where will we be with the launch by the end of the month?",
+          "es": "Bueno, ¿en qué punto estaremos con el lanzamiento a final de mes?"
+        },
+        {
+          "who": "Tom",
+          "en": "By then we'll have finished the beta testing, and the design team will be working on the final tweaks.",
+          "es": "Para entonces habremos terminado las pruebas beta y el equipo de diseño estará con los últimos retoques."
+        },
+        {
+          "who": "Laura",
+          "en": "Good. The investors are due to visit on the 28th. Will you be presenting the demo?",
+          "es": "Bien. Está previsto que los inversores vengan el día 28. ¿Vas a presentar tú la demo?"
+        },
+        {
+          "who": "Tom",
+          "en": "I was going to ask Priya, but she'll be attending a conference in Lisbon that week.",
+          "es": "Iba a pedírselo a Priya, pero esa semana estará en un congreso en Lisboa."
+        },
+        {
+          "who": "Laura",
+          "en": "Then it'll have to be you. By the 28th you'll have been working on this for eight months — nobody knows it better.",
+          "es": "Entonces tendrás que ser tú. Para el 28 llevarás ocho meses trabajando en esto: nadie lo conoce mejor."
+        },
+        {
+          "who": "Tom",
+          "en": "Fair enough. Actually, I was just about to send you the updated schedule.",
+          "es": "Vale. De hecho, estaba a punto de enviarte el calendario actualizado."
+        },
+        {
+          "who": "Laura",
+          "en": "Perfect. As soon as I've read it, I'll forward it to the board.",
+          "es": "Perfecto. En cuanto lo haya leído, se lo reenviaré al consejo."
+        },
+        {"who": "Tom", "en": "Great. I'll be waiting for your feedback.", "es": "Genial. Quedo a la espera de tus comentarios."}
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco de la máquina del tiempo",
+      "title_en": "Time-machine trick",
+      "es": "Viaja mentalmente a ese momento del futuro y pregúntate: <b>¿Qué estoy haciendo?</b> → will be + -ing. <b>¿Qué ya he hecho?</b> → will have + participio. <b>¿Cuánto tiempo llevo?</b> → will have been + -ing. Es la misma lógica que el <i>present continuous</i>, el <i>present perfect</i> y el <i>present perfect continuous</i>… ¡pero trasladada al futuro con <b>will</b>!",
+      "en": "Travel mentally to that future moment and ask: What am I doing? What have I done? How long have I been doing it? Then add will."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Elige la forma correcta",
+      "title_en": "Choose the correct form",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta. Fíjate en las expresiones de tiempo.",
+      "en": "Circle the correct option. Look at the time expressions.",
+      "items": [
+        {"q": "Don't call me at nine — I [will be chairing|will have chaired] the weekly meeting.", "a": "will be chairing"},
+        {"q": "By the time you get this message, I [will have left|will be leaving] the country.", "a": "will have left"},
+        {"q": "In March she [will have been teaching|will be teaching] at this school for twenty years.", "a": "will have been teaching"},
+        {"q": "The ceremony is [about to|due to] start at 11 a.m. sharp.", "a": "due to"},
+        {"q": "She was on the point [to resign|of resigning] when they offered her a rise.", "a": "of resigning"},
+        {"q": "I [was going to|would] phone you last night, but I fell asleep.", "a": "was going to"},
+        {"q": "Everyone knew the reform [will|would] prove unpopular.", "a": "would"},
+        {"q": "We won't sign anything until we [will have read|have read] the small print.", "a": "have read"},
+        {"q": "By next spring I [will have known|will have been knowing] Julia for half my life.", "a": "will have known"},
+        {"q": "This time next week we [will be sunbathing|will have sunbathed] in Crete.", "a": "will be sunbathing"}
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une las dos mitades",
+      "title_en": "Match the halves",
+      "icon": "🔗",
+      "es": "Une el principio de cada frase con su final.",
+      "en": "Match the beginning of each sentence with its ending.",
+      "pairs": [
+        ["By the time the guests arrive,", "we'll have laid the table."],
+        ["This time tomorrow", "I'll be sitting my final exam."],
+        ["Next June they'll have been married", "for twenty-five years."],
+        ["The match is due to", "kick off at 8 p.m."],
+        ["I was just about to ring you", "when your message came in."],
+        ["We were going to eat out,", "but the restaurant was fully booked."],
+        ["The company is on the verge of", "bankruptcy."],
+        ["She never imagined that one day she", "would run the company."]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Qué forma pide?",
+      "title_en": "Which form does it go with?",
+      "icon": "🗂️",
+      "es": "Clasifica cada expresión según la forma de futuro que suele acompañarla.",
+      "en": "Sort the time expressions by the future form they usually go with.",
+      "cats": [
+        {"name": "will be + -ing", "words": ["this time tomorrow", "at 9 o'clock tonight", "all day on Sunday", "at this time next year"]},
+        {"name": "will have + participio", "words": ["by Friday", "by then", "by the end of 2030", "before you get back"]},
+        {
+          "name": "will have been + -ing",
+          "words": ["for 3 hours by then", "for a decade next year", "for 10 years in June", "for months by the deadline"]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Continuous, perfect o perfect continuous",
+      "title_en": "Put the verb in the right form",
+      "icon": "✏️",
+      "es": "Escribe el verbo entre paréntesis en future continuous, future perfect o future perfect continuous.",
+      "en": "Write the verb in the future continuous, future perfect or future perfect continuous.",
+      "items": [
+        {"q": "At midday tomorrow I ____ (drive) through the Alps.", "a": "will be driving"},
+        {"q": "By the end of this week, we ____ (interview) all the candidates.", "a": "will have interviewed"},
+        {"q": "By the time he retires, he ____ (work) for the bank for forty years.", "a": ["will have been working", "will have worked"]},
+        {"q": "Don't phone after ten: the children ____ (sleep).", "a": "will be sleeping"},
+        {"q": "I'm afraid they ____ (not / finish) the bridge by 2028.", "a": "won't have finished"},
+        {"q": "In August I ____ (live) in London for exactly ten years.", "a": ["will have been living", "will have lived"]},
+        {"q": "____ you ____ (use) the projector this afternoon? If not, I'll borrow it.", "a": "Will … be using"},
+        {"q": "By the time you read this, I ____ (leave) the country.", "a": "will have left"},
+        {"q": "Next year he ____ (know) her for half a century.", "a": "will have known"},
+        {"q": "This time on Friday the delegates ____ (arrive) at the summit.", "a": "will be arriving"}
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "wide": true,
+      "es": "Completa las casillas vacías con la forma correcta.",
+      "en": "Fill in the empty boxes.",
+      "head": ["Forma (verbo)", "✅ Afirmativa", "⛔ Negativa", "❓ Pregunta"],
+      "rows": [
+        ["Future continuous (work)", "She'll be working.", "?She won't be working.", "?Will she be working?"],
+        ["Future perfect (finish)", "?They'll have finished.", "They won't have finished.", "?Will they have finished?"],
+        ["Future perfect continuous (wait)", "?You'll have been waiting.", "?You won't have been waiting.", "Will you have been waiting?"],
+        ["be about to (leave)", "?We're about to leave.", "We aren't about to leave.", "?Are we about to leave?"],
+        ["be due to (arrive)", "The guests are due to arrive.", "?The guests aren't due to arrive.", "?Are the guests due to arrive?"],
+        ["was going to (call)", "?He was going to call.", "?He wasn't going to call.", "Was he going to call?"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Inminente o previsto",
+      "title_en": "Imminent or scheduled",
+      "icon": "🚀",
+      "es": "Completa con una expresión del recuadro. A veces hay dos opciones posibles.",
+      "en": "Complete with an expression from the box. Sometimes two are possible.",
+      "bank": ["about to", "just about to", "on the point of", "on the verge of", "due to", "set to"],
+      "items": [
+        {"q": "Fasten your seatbelts: we are ____ take off.", "a": "about to"},
+        {"q": "The 7.15 from Leeds is ____ arrive at platform 4.", "a": "due to"},
+        {"q": "After months of talks, the two sides are ____ reaching an agreement.", "a": ["on the point of", "on the verge of"]},
+        {"q": "Without urgent action, the species is ____ extinction.", "a": "on the verge of"},
+        {"q": "What a coincidence! I was ____ ring you.", "a": "just about to"},
+        {"q": "Analysts say house prices are ____ rise again next year.", "a": "set to"},
+        {"q": "The President is ____ address the nation at 9 p.m.", "a": ["due to", "set to"]},
+        {"q": "Quick, switch on the TV — the final is ____ start!", "a": ["about to", "just about to"]}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "El futuro desde el pasado",
+      "title_en": "Future in the past",
+      "icon": "🔙",
+      "es": "Completa con was/were going to, would, was/were about to, was/were to o was/were to have.",
+      "en": "Complete with was/were going to, would, was/were about to, was/were to or was/were to have.",
+      "items": [
+        {"q": "I ____ apply for the job, but the deadline had passed.", "a": "was going to"},
+        {"q": "She promised that she ____ keep it a secret.", "a": "would"},
+        {"q": "We ____ leave when the fire alarm went off.", "a": ["were about to", "were just about to"]},
+        {"q": "That meeting in 1998 ____ change the course of her career.", "a": ["was to", "would"]},
+        {"q": "The ceremony ____ taken place in May, but it was postponed.", "a": "was to have"},
+        {"q": "They ____ get married in June, but they called it off.", "a": ["were going to", "were to"]},
+        {"q": "I knew you ____ understand.", "a": "would"},
+        {"q": "He ____ say something, but then changed his mind.", "a": ["was going to", "was about to"]}
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las fichas y escribe la frase completa.",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {"q": "be / I'll / flying / to / this time / Tokyo / tomorrow", "a": "This time tomorrow I'll be flying to Tokyo."},
+        {"q": "have / by / finished / we'll / Friday / the audit", "a": "We'll have finished the audit by Friday."},
+        {"q": "been / they'll / for / married / have / fifty years / next month", "a": "Next month they'll have been married for fifty years."},
+        {"q": "you / be / will / the car / using / tonight / ?", "a": "Will you be using the car tonight?"},
+        {"q": "about / the / is / to / train / leave", "a": "The train is about to leave."},
+        {"q": "I / was / going / call / to / you, / but / I / forgot", "a": "I was going to call you, but I forgot."},
+        {"q": "due / the / is / to / report / be / published / in May", "a": "The report is due to be published in May."},
+        {"q": "verge / the / on / of / the / company / is / collapse", "a": "The company is on the verge of collapse."}
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Qué significa?",
+      "title_en": "What does it mean?",
+      "icon": "🤔",
+      "es": "Lee la frase y decide si la afirmación que la sigue es verdadera (T) o falsa (F).",
+      "en": "Read the sentence and decide if the statement is true or false.",
+      "items": [
+        {"q": "“By the time you arrive, I'll have cooked dinner.” → Dinner will be ready when you arrive.", "a": true},
+        {
+          "q": "“When you arrive, I'll be cooking dinner.” → Dinner will be ready when you arrive.",
+          "a": false,
+          "why": "Estaré cocinando: la cena aún no estará lista."
+        },
+        {
+          "q": "“In May she'll have been teaching for 30 years.” → She is still teaching now.",
+          "a": true,
+          "why": "La forma continua indica que la actividad sigue."
+        },
+        {"q": "“I was going to apply for the post.” → I applied for the post.", "a": false, "why": "Was going to = plan que no se cumplió."},
+        {"q": "“The train is due to leave at 10.” → The train has already left.", "a": false, "why": "Due to = está previsto (futuro)."},
+        {"q": "“He was to become prime minister.” → He did become prime minister.", "a": true, "why": "Was to + infinitivo = destino cumplido."},
+        {
+          "q": "“The ceremony was to have taken place in May.” → The ceremony took place in May.",
+          "a": false,
+          "why": "Was to have + participio = plan frustrado."
+        },
+        {
+          "q": "“They'll have landed by now.” → The speaker thinks they have probably landed.",
+          "a": true,
+          "why": "Future perfect = suposición sobre el presente."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Reformula con la estructura",
+      "title_en": "Rewrite with the structure given",
+      "icon": "🔁",
+      "es": "Reescribe la frase usando la estructura entre paréntesis, sin cambiar el significado.",
+      "en": "Rewrite the sentence using the structure in brackets.",
+      "items": [
+        {"q": "The bus will leave in a moment. <b>(about to)</b>", "a": "The bus is about to leave."},
+        {"q": "The conference is scheduled to start at 9. <b>(due to)</b>", "a": "The conference is due to start at 9."},
+        {"q": "I'm sure they have arrived by now. <b>(will have)</b>", "a": "They will have arrived by now."},
+        {"q": "I planned to go to the gym, but I was too tired. <b>(was going to)</b>", "a": "I was going to go to the gym, but I was too tired."},
+        {
+          "q": "The motorway will be completed before 2030. <b>(by 2030 / they)</b>",
+          "a": "They will have finished the motorway by 2030. / They will have completed the motorway by 2030."
+        },
+        {"q": "It is likely that petrol prices will rise this winter. <b>(set to)</b>", "a": "Petrol prices are set to rise this winter."}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones clave",
+      "title_en": "Key word transformations (C1 Advanced)",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave sin cambiarla y entre 3 y 6 palabras.",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word and 3-6 words.",
+      "items": [
+        {"q": "I expect you have heard about the merger already.<br>You ______ about the merger already.", "hint": "<b>HAVE</b>", "a": "will have heard"},
+        {"q": "The plane is scheduled to land at 7.30.<br>The plane ______ at 7.30.", "hint": "<b>DUE</b>", "a": "is due to land"},
+        {
+          "q": "Jane joined the firm nine years ago. Next year it will be a decade.<br>Next year Jane ______ for the firm for a decade.",
+          "hint": "<b>BEEN</b>",
+          "a": "will have been working"
+        },
+        {
+          "q": "I intended to call you, but I didn't have time.<br>I ______ you, but I didn't have time.",
+          "hint": "<b>GOING</b>",
+          "a": "was going to call"
+        },
+        {"q": "The company is very close to going bankrupt.<br>The company ______ bankruptcy.", "hint": "<b>VERGE</b>", "a": "is on the verge of"},
+        {
+          "q": "She was just going to resign when they offered her a promotion.<br>She ______ when they offered her a promotion.",
+          "hint": "<b>POINT</b>",
+          "a": "was on the point of resigning"
+        },
+        {"q": "Are you planning to use the van tomorrow? (polite)<br>______ the van tomorrow?", "hint": "<b>BE</b>", "a": "Will you be using"},
+        {"q": "I don't expect they have received the parcel yet.<br>They ______ the parcel yet.", "hint": "<b>WON'T</b>", "a": "won't have received"}
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela correctamente.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {"q": "When the guests will arrive, we'll serve the champagne.", "a": "When the guests arrive, we'll serve the champagne."},
+        {"q": "By next week I'll have been knowing about this for a month.", "a": "By next week I'll have known about this for a month."},
+        {"q": "This time tomorrow we'll sit our final exam.", "a": "This time tomorrow we'll be sitting our final exam."},
+        {"q": "Until Friday the decorators will have finished.", "a": "By Friday the decorators will have finished."},
+        {"q": "The concert is about to start in half an hour.", "a": "The concert is due to start in half an hour."},
+        {"q": "We were on the point to give up when we found the solution.", "a": "We were on the point of giving up when we found the solution."},
+        {"q": "I knew he will be late again.", "a": "I knew he would be late again."},
+        {"q": "In June I'll be working here for five years.", "a": "In June I'll have been working here for five years."}
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el artículo. Marca T (verdadero) o F (falso) y contesta las preguntas con frases completas.",
+      "en": "Read the article. Tick T or F and answer the questions.",
+      "text_title": "Countdown to the new Science Museum",
+      "text": [
+        "When the new Science Museum opens its doors in September, it will have been under construction for almost seven years. The project was originally due to open in 2024, but, as it turned out, the opening was to be postponed twice. At one stage the council was on the point of cancelling the scheme altogether.",
+        "Now the end is finally in sight. By the end of this month, the builders will have installed the last of the glass panels, and in July the curators will be moving more than 10,000 objects into the galleries. “We're about to enter the most exciting phase,” says the director, Helen Marsh. “By opening day, my team will have been working on the exhibitions for over three years.”",
+        "Not everyone is impressed. Critics point out that, by the time the museum opens, the budget will have doubled. Marsh, however, remains confident: “I always knew this project would be difficult. But in twenty years' time, nobody will be talking about the delays — they'll be talking about the museum.”"
+      ],
+      "items": [
+        {"q": "The museum was originally due to open in 2024.", "tf": true, "a": true},
+        {"q": "The council cancelled the project at one stage.", "tf": true, "a": false, "why": "It was on the point of cancelling it, but it didn't."},
+        {"q": "The last glass panels will be in place by the end of this month.", "tf": true, "a": true},
+        {"q": "What will the curators be doing in July?", "a": "They will be moving more than 10,000 objects into the galleries."},
+        {"q": "How long will Helen Marsh's team have been working on the exhibitions by opening day?", "a": "For over three years."},
+        {"q": "What will have happened to the budget by the time the museum opens?", "a": "It will have doubled."},
+        {
+          "q": "Find two examples of the future seen from the past.",
+          "a": "“the opening was to be postponed twice” and “I always knew this project would be difficult”."
+        },
+        {
+          "q": "Helen Marsh thinks people will remember the museum for its delays.",
+          "tf": true,
+          "a": false,
+          "why": "She thinks they'll be talking about the museum, not the delays."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿en curso, terminado, duración, inminente o futuro desde el pasado?",
+      "en": "Translate into English.",
+      "items": [
+        {"q": "Mañana a estas horas estaré entrevistando al ministro.", "a": "This time tomorrow I'll be interviewing the minister."},
+        {
+          "q": "Para cuando llegues, ya habremos cenado.",
+          "a": ["By the time you arrive, we'll have had dinner.", "By the time you get here, we'll have eaten."]
+        },
+        {"q": "En septiembre llevaré cinco años viviendo en Edimburgo.", "a": "In September I'll have been living in Edinburgh for five years."},
+        {"q": "Está previsto que el vuelo aterrice a las 22:15.", "a": "The flight is due to land at 22.15."},
+        {
+          "q": "(Él) estaba a punto de dimitir cuando le ofrecieron el puesto.",
+          "a": ["He was on the point of resigning when they offered him the post.", "He was about to resign when he was offered the post."]
+        },
+        {"q": "Iba a llamarte, pero se me olvidó.", "a": "I was going to call you, but I forgot."},
+        {"q": "¿Vas a usar el portátil esta tarde? (pregunta cortés)", "a": "Will you be using the laptop this afternoon?"},
+        {"q": "Ya te habrás enterado de la noticia.", "a": "You'll have heard the news."},
+        {"q": "Sabía que no sería fácil.", "a": "I knew it wouldn't be easy."}
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe frases sobre ti con las estructuras de este mapa.",
+      "en": "Write about yourself using the structures in this map.",
+      "items": [
+        {
+          "q": "¿Qué <b>estarás haciendo</b> mañana a estas horas y dentro de diez años? (will be + -ing)",
+          "lines": 2,
+          "a": "Ej.: This time tomorrow I'll be giving a presentation. In ten years' time I'll be running my own consultancy."
+        },
+        {
+          "q": "Escribe tres cosas que <b>habrás conseguido</b> para final de año. (By the end of the year…)",
+          "lines": 3,
+          "a": "Ej.: By the end of the year I'll have passed my C1 exam, paid off my car and run a half marathon."
+        },
+        {
+          "q": "¿Cuánto tiempo <b>llevarás</b> haciendo algo importante para ti el próximo verano? (will have been + -ing)",
+          "lines": 2,
+          "a": "Ej.: Next summer I'll have been playing the cello for fifteen years."
+        },
+        {
+          "q": "Cuenta un plan que <b>no se cumplió</b> y por qué. (was going to… but)",
+          "lines": 2,
+          "a": "Ej.: I was going to move to Dublin last year, but my company offered me a promotion."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Uso <b>will be + -ing</b> para acciones en curso en el futuro y para preguntas corteses.",
+      "en": "I can use the future continuous for actions in progress and polite questions."
+    },
+    {
+      "es": "Uso <b>will have + participio</b> con <b>by</b> para lo que estará terminado.",
+      "en": "I can use the future perfect with by for completed actions."
+    },
+    {
+      "es": "Uso <b>will have been + -ing</b> para la duración (y la forma simple con verbos de estado).",
+      "en": "I can use the future perfect continuous for duration."
+    },
+    {
+      "es": "Distingo <b>be about to</b>, <b>be on the point of</b>, <b>be due to</b> y <b>be set to</b>.",
+      "en": "I can distinguish about to, on the point of, due to and set to."
+    },
+    {"es": "Hablo del futuro desde el pasado con <b>would, was going to, was to</b>.", "en": "I can talk about the future in the past."},
+    {"es": "Nunca pongo <s>will</s> después de when, by the time, until o as soon as.", "en": "I never use will after time conjunctions."}
+  ]
+}

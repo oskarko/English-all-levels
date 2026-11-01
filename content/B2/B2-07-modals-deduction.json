@@ -1,0 +1,754 @@
+{
+  "id": "B2-07",
+  "level": "B2",
+  "title": "MODALES DE DEDUCCIÓN",
+  "file_title": "Modales de deducción",
+  "subtitle": "Modals of deduction · must, might, can't",
+  "icon": "🕵️",
+  "map": {
+    "center": "Usamos <b>MUST, MIGHT, COULD, CAN'T</b> para <b>deducir</b>: decir lo seguros que estamos de algo, ahora o en el pasado.",
+    "nodes": [
+      {
+        "title": "Termómetro de certeza",
+        "icon": "🌡️",
+        "rows": [["must", "seguro que sí (95%)"], ["may / might / could", "quizás (50%)"], ["can't", "seguro que no (95%)"]]
+      },
+      {
+        "title": "Presente",
+        "icon": "⏰",
+        "items": [
+          "modal + <b>infinitivo</b> (sin to)",
+          "She <b>must be</b> at home. <i>(Debe de estar en casa.)</i>",
+          "He <b>can't be</b> 40! <i>(¡No puede tener 40!)</i>"
+        ]
+      },
+      {
+        "title": "Pasado",
+        "icon": "⏪",
+        "art": "🔍",
+        "items": ["modal + <b>have + participio</b>", "They <b>must have left</b>. <i>(Se habrán ido.)</i>", "She <b>might have missed</b> the bus."]
+      },
+      {
+        "title": "En este momento",
+        "icon": "🎬",
+        "items": ["modal + <b>be + -ing</b>", "He <b>must be working</b>. <i>(Estará trabajando.)</i>", "They <b>might be sleeping</b>."]
+      },
+      {
+        "title": "Negativas",
+        "icon": "⛔",
+        "items": ["Imposible → <b>can't / couldn't</b>", "Quizás no → <b>might not / may not</b>", "<s>mustn't</s> NO sirve para deducir."]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "art": "🕵️",
+        "items": ["Pista → conclusión: The lights are off. → They <b>must be</b> out.", "<b>could</b> = <b>might</b>, pero <b>couldn't</b> = <b>can't</b>."]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["He mustn't be at home."],
+      "good": ["He can't be at home."],
+      "note": "Seguro que no → <b>can't</b>, nunca <s>mustn't</s>"
+    },
+    "mini": {
+      "es": "Completa con must, might o can't.",
+      "en": "Complete with must, might or can't.",
+      "items": [
+        {"q": "Her lights are on. She ___ be in.", "a": "must"},
+        {"q": "He's only 15. He ___ be a doctor!", "a": "can't"},
+        {"q": "Take an umbrella. It ___ rain.", "a": ["might", "may", "could"]},
+        {"q": "The road is wet. It ___ have rained.", "a": "must"},
+        {"q": "I ___ have left my keys at work. Not sure.", "a": ["might", "may", "could"]}
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Los <b>modales de deducción</b> sirven para <mark>sacar conclusiones</mark> a partir de pistas, como un detective. No hablan de obligación ni de habilidad, sino de <b>lo seguros que estamos</b>. En español usamos <i>deber de, seguro que, a lo mejor, puede que, no puede ser que</i> o el <b>futuro de probabilidad</b> (<i>Estará en casa · Serán las tres</i>). En inglés lo normal es usar un <b>modal</b>.",
+      "en": "<b>Modals of deduction</b> help us to <mark>draw conclusions</mark> from evidence. They show how sure we are that something is true, now or in the past.",
+      "formula": ["Presente: sujeto + *must / might / can't* + infinitivo", "Pasado: sujeto + *must / might / can't* + *have* + participio"]
+    },
+    {
+      "t": "table",
+      "title": "El termómetro de la certeza",
+      "title_en": "How sure are you?",
+      "icon": "🌡️",
+      "color": "purple",
+      "head": ["Modal", "Certeza · Certainty", "En español"],
+      "rows": [
+        ["<b>must</b>", "✅ 95 % sí", "debe de, seguro que, tiene que"],
+        ["<b>may</b>", "🤔 50 %", "puede que"],
+        ["<b>might / could</b>", "🤔 40-50 %", "a lo mejor, quizás, podría"],
+        ["<b>may not / might not</b>", "🤷 50 % no", "puede que no"],
+        ["<b>can't / couldn't</b>", "❌ 95 % no", "no puede ser que, es imposible"]
+      ],
+      "note": "Si estás <b>100 % seguro</b>, no uses modal: <i>She is at home</i> (lo sé). El modal es para <b>deducir</b>.",
+      "note_en": "If you are 100% sure, don't use a modal."
+    },
+    {
+      "t": "rule",
+      "title": "1 · MUST: seguro que sí",
+      "title_en": "MUST: I'm sure it's true",
+      "icon": "✅",
+      "color": "green",
+      "es": "Usamos <b>must</b> cuando tenemos una <b>pista fuerte</b> y estamos casi seguros de que algo <mark>es verdad</mark>. Equivale a <i>debe de / seguro que / tiene que</i> o al futuro de probabilidad (<i>estará</i>). ¡Ojo! Aquí <b>must</b> no es obligación.",
+      "en": "We use <b>must</b> when we have strong evidence and we're almost sure something <mark>is true</mark>. Here, must is not an obligation.",
+      "formula": ["sujeto + *must* + infinitivo (be, know, have…)"],
+      "examples": [
+        {
+          "en": "You've been travelling all day. You <b>must be</b> exhausted.",
+          "es": "Llevas todo el día viajando. Debes de estar agotado.",
+          "icon": "🥱"
+        },
+        {
+          "en": "There's a queue round the block. That restaurant <b>must be</b> good.",
+          "es": "Hay cola hasta la esquina. Ese restaurante tiene que ser bueno.",
+          "icon": "🍽️"
+        },
+        {"en": "Ana isn't answering. She <b>must be</b> in a meeting.", "es": "Ana no contesta. Estará en una reunión.", "icon": "📵"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · MAY, MIGHT, COULD: quizás",
+      "title_en": "MAY, MIGHT, COULD: perhaps",
+      "icon": "🤔",
+      "color": "orange",
+      "es": "Para algo <b>posible</b> pero no seguro. <b>may</b>, <b>might</b> y <b>could</b> significan casi lo mismo: <i>puede que, a lo mejor, quizás</i>. <b>might</b> es el más frecuente al hablar; <b>may</b> suena algo más formal. Detrás va el <b>infinitivo</b>: en español usamos subjuntivo (<i>puede que <u>esté</u></i>), en inglés no.",
+      "en": "For something <b>possible</b> but not certain. May, might and could mean almost the same. After them, use the infinitive.",
+      "formula": ["sujeto + *may / might / could* + infinitivo"],
+      "examples": [
+        {"en": "Don't wait for me. I <b>might be</b> late.", "es": "No me esperes. Puede que llegue tarde.", "icon": "⏰"},
+        {"en": "Take a jacket. It <b>could</b> get cold tonight.", "es": "Llévate una chaqueta. Podría hacer frío esta noche.", "icon": "🧥"},
+        {"en": "The flight <b>may be</b> delayed because of the storm.", "es": "Puede que el vuelo se retrase por la tormenta.", "icon": "✈️"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · CAN'T / COULDN'T: imposible",
+      "title_en": "CAN'T / COULDN'T: impossible",
+      "icon": "❌",
+      "color": "red",
+      "es": "Cuando estamos <b>seguros de que algo NO es verdad</b>, usamos <b>can't</b> (o <b>couldn't</b>). Es el contrario de must. <em>¡Nunca mustn't!</em> <b>mustn't</b> es prohibición (<i>no debes</i>), no deducción. En preguntas usamos <b>can</b> o <b>could</b>: <i>Where can she be? · Could it be true?</i>",
+      "en": "When we're sure something is <b>not</b> true, we use <b>can't</b> or <b>couldn't</b>, never mustn't. In questions: Where can she be? Could it be true?",
+      "formula": ["sujeto + *can't / couldn't* + infinitivo"],
+      "examples": [
+        {"en": "That <b>can't be</b> Javi. He's on holiday in Peru.", "es": "Ese no puede ser Javi. Está de vacaciones en Perú.", "icon": "🙅"},
+        {"en": "You <b>can't be</b> hungry! You've just had lunch.", "es": "¡No puedes tener hambre! Acabas de comer.", "icon": "🍔"},
+        {"en": "It <b>can't be</b> true. I don't believe it.", "es": "No puede ser verdad. No me lo creo.", "icon": "😲"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Los negativos: ¡cuidado!",
+      "title_en": "Negatives: be careful!",
+      "icon": "⛔",
+      "color": "red",
+      "head": ["Forma", "Significado", "Ejemplo"],
+      "rows": [
+        ["<b>can't</b>", "imposible", "He can't be ill. I saw him at the gym."],
+        ["<b>couldn't</b>", "imposible", "It couldn't be him. He's abroad."],
+        ["<b>might not / may not</b>", "puede que no", "He might not come tonight."],
+        ["<b>mustn't</b>", "¡prohibición! (no deducción)", "You mustn't park here."]
+      ],
+      "note": "<b>could</b> = posible · <b>couldn't</b> = imposible. <i>Could = possible; couldn't = impossible.</i>"
+    },
+    {
+      "t": "rule",
+      "title": "4 · Ahora mismo: modal + be + -ing",
+      "title_en": "Right now: modal + be + -ing",
+      "icon": "🎬",
+      "color": "teal",
+      "es": "Para deducir lo que alguien <mark>está haciendo en este momento</mark>: <b>must / might / can't + be + -ing</b>. En español: <i>estará + gerundio</i> o <i>puede que esté + gerundio</i>.",
+      "en": "To guess what someone <mark>is doing right now</mark>: must / might / can't + be + -ing.",
+      "formula": ["sujeto + *must / might / can't* + *be* + verbo-*ing*"],
+      "examples": [
+        {"en": "Leo isn't picking up. He <b>must be driving</b>.", "es": "Leo no lo coge. Estará conduciendo.", "icon": "🚗"},
+        {"en": "Shh! The baby <b>might be sleeping</b>.", "es": "¡Chis! Puede que el bebé esté durmiendo.", "icon": "👶"},
+        {"en": "They <b>can't be working</b>. It's Sunday!", "es": "No pueden estar trabajando. ¡Es domingo!", "icon": "📅"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Deducción en pasado: modal + have + participio",
+      "title_en": "Past deduction: modal + have + past participle",
+      "icon": "⏪",
+      "color": "blue",
+      "es": "Para sacar conclusiones sobre <b>algo que ya pasó</b>: <b>must have</b> (seguro que sí), <b>may / might / could have</b> (quizás), <b>can't / couldn't have</b> (imposible) + <b>participio</b>. <b>have</b> no cambia nunca (<s>has</s>) y se pronuncia débil: <i>must've</i> /ˈmʌstəv/.",
+      "en": "To make deductions about <b>the past</b>: must have / might have / can't have + past participle. <b>Have</b> never changes.",
+      "formula": ["sujeto + *must / might / can't* + *have* + participio"],
+      "examples": [
+        {
+          "en": "The streets are wet. It <b>must have rained</b> last night.",
+          "es": "Las calles están mojadas. Debe de haber llovido anoche.",
+          "icon": "🌧️"
+        },
+        {
+          "en": "I can't find my wallet. I <b>might have left</b> it in the taxi.",
+          "es": "No encuentro la cartera. Puede que me la haya dejado en el taxi.",
+          "icon": "👛"
+        },
+        {
+          "en": "She <b>can't have seen</b> my message. Her phone was off.",
+          "es": "No puede haber visto mi mensaje. Tenía el móvil apagado.",
+          "icon": "💬"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del detective",
+      "title_en": "The detective trick",
+      "es": "Piensa como Sherlock: <b>pista → conclusión</b>. Y si en español usarías el <b>futuro o el condicional de probabilidad</b> (<i>estará, habrá ido, serían las diez</i>), en inglés usa <b>must / might / can't</b>: <i>Estará en casa → She must be at home. Habrá perdido el tren → He must have missed the train.</i>",
+      "en": "Think like Sherlock: evidence → conclusion. Spanish 'estará / habrá ido' = must be / must have gone."
+    },
+    {
+      "t": "compare",
+      "title": "MUST: ¿obligación o deducción?",
+      "title_en": "MUST: obligation or deduction?",
+      "color": "blue",
+      "icon": "⚖️",
+      "es": "<b>must</b> tiene dos caras. Si hay una <b>pista</b> y sacas una conclusión, es deducción. Pero el contrario de la deducción es <b>can't</b>: <b>mustn't</b> solo significa prohibición.",
+      "en": "If there's evidence and you draw a conclusion, must is deduction. Its opposite is <b>can't</b>; mustn't only means prohibition.",
+      "cols": [
+        {
+          "head": "📏 Obligación (otro tema)",
+          "color": "orange",
+          "items": ["You <b>must</b> wear a seatbelt. <i>(tienes que)</i>", "You <b>mustn't</b> smoke here. <i>(prohibido)</i>"]
+        },
+        {
+          "head": "🕵️ Deducción (este tema)",
+          "color": "green",
+          "items": ["You <b>must</b> be Ana's sister! <i>(seguro que eres)</i>", "She <b>can't</b> be at work. <i>(es imposible)</i>"]
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Todo junto",
+      "title_en": "All together",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": ["Certeza · Certainty", "Presente", "Ahora mismo (-ing)", "Pasado", "En español"],
+      "rows": [
+        ["✅ Seguro que sí", "She <b>must be</b> tired.", "She <b>must be working</b>.", "She <b>must have worked</b> late.", "Debe de estar / Estará"],
+        [
+          "🤔 Posible",
+          "She <b>may / might / could be</b> tired.",
+          "She <b>might be working</b>.",
+          "She <b>might have worked</b> late.",
+          "Puede que esté"
+        ],
+        [
+          "🤷 Posible que no",
+          "She <b>may not / might not be</b> tired.",
+          "She <b>might not be working</b>.",
+          "She <b>might not have worked</b> late.",
+          "Puede que no esté"
+        ],
+        [
+          "❌ Seguro que no",
+          "She <b>can't / couldn't be</b> tired.",
+          "She <b>can't be working</b>.",
+          "She <b>can't / couldn't have worked</b> late.",
+          "No puede estar"
+        ]
+      ],
+      "note": "Después del modal: <b>infinitivo sin to</b>. En pasado: <b>have + participio</b> (gone, seen, been, left…).",
+      "note_en": "After the modal: infinitive without to. Past: have + past participle."
+    },
+    {
+      "t": "table",
+      "title": "Del español al inglés",
+      "title_en": "From Spanish to English",
+      "icon": "🔁",
+      "color": "teal",
+      "head": ["Español", "English"],
+      "rows": [
+        ["Estará en casa. / Debe de estar en casa.", "She <b>must be</b> at home."],
+        ["Habrá perdido el tren.", "He <b>must have missed</b> the train."],
+        ["Serán las tres.", "It <b>must be</b> about three o'clock."],
+        ["Serían las diez cuando llegó.", "It <b>must have been</b> about ten when she arrived."],
+        ["Puede que se le haya olvidado.", "She <b>might have forgotten</b>."],
+        ["Es imposible que lo haya visto.", "She <b>can't have seen</b> it."]
+      ],
+      "note": "El futuro y el condicional de probabilidad (<i>estará, habrá ido, serían</i>) se expresan en inglés sobre todo con <b>must / might / can't</b>.",
+      "note_en": "Spanish 'future of probability' → must / might / can't."
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo deduzco?",
+      "title_en": "How do I make a deduction?",
+      "color": "orange",
+      "items": [
+        {"es": "Mira la <b>pista</b> (evidencia): ¿qué sabes seguro?", "en": "Look at the evidence."},
+        {
+          "es": "Decide la <b>certeza</b>: casi seguro que sí → <b>must</b> · quizás → <b>may / might / could</b> · seguro que no → <b>can't / couldn't</b>.",
+          "en": "Decide how sure you are: must / might / can't."
+        },
+        {
+          "es": "¿Hablas de <b>ahora</b>? → modal + infinitivo. ¿De algo <b>en curso</b>? → modal + <b>be + -ing</b>.",
+          "en": "Present → modal + infinitive. In progress → modal + be + -ing."
+        },
+        {
+          "es": "¿Hablas del <b>pasado</b>? → modal + <b>have</b> + participio (must have gone). Repasa: sin <i>to</i>, sin <i>-s</i>, nunca <i>has</i>.",
+          "en": "Past → modal + have + past participle. No to, no -s, never has."
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {"en": "Someone's knocking. It <b>must be</b> the delivery driver.", "es": "Llaman a la puerta. Será el repartidor.", "icon": "📦"},
+        {
+          "en": "Carlos <b>might be</b> at the gym. He usually goes on Mondays.",
+          "es": "Puede que Carlos esté en el gimnasio. Suele ir los lunes.",
+          "icon": "🏋️"
+        },
+        {"en": "This <b>can't be</b> the right address. It's a car park!", "es": "Esta no puede ser la dirección. ¡Es un aparcamiento!", "icon": "📍"},
+        {
+          "en": "They <b>must have won</b> the match. Listen to the fans!",
+          "es": "Deben de haber ganado el partido. ¡Escucha a la afición!",
+          "icon": "⚽"
+        },
+        {
+          "en": "He <b>couldn't have stolen</b> the money. He was with me all night.",
+          "es": "No puede haber robado el dinero. Estuvo conmigo toda la noche.",
+          "icon": "💰"
+        },
+        {"en": "I <b>may have made</b> a mistake in the report.", "es": "Puede que haya cometido un error en el informe.", "icon": "📄"},
+        {"en": "You <b>must be joking</b>!", "es": "¡No lo dirás en serio!", "icon": "😂"},
+        {
+          "en": "She <b>might not have got</b> your email. Check the address.",
+          "es": "Puede que no le haya llegado tu correo. Revisa la dirección.",
+          "icon": "📧"
+        },
+        {
+          "en": "The meeting <b>must have finished</b>. Everyone's leaving.",
+          "es": "La reunión debe de haber terminado. Todos se están yendo.",
+          "icon": "👥"
+        },
+        {"en": "It <b>could be</b> a virus. You should see a doctor.", "es": "Podría ser un virus. Deberías ir al médico.", "icon": "🦠"},
+        {"en": "They <b>can't have gone</b> far. Their car is still here.", "es": "No pueden haber ido muy lejos. Su coche sigue aquí.", "icon": "🚙"},
+        {
+          "en": "The shop <b>might be</b> closed on Sundays. Let's check online.",
+          "es": "Puede que la tienda cierre los domingos. Mirémoslo en internet.",
+          "icon": "🏪"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "He mustn't be at home. The lights are off.",
+          "good": "He <b>can't</b> be at home. The lights are off.",
+          "why": "«Seguro que no» = can't. Mustn't es prohibición.",
+          "why_en": "Negative deduction = can't, not mustn't."
+        },
+        {
+          "bad": "She must to be tired.",
+          "good": "She must <b>be</b> tired.",
+          "why": "Después de un modal, infinitivo sin to.",
+          "why_en": "No to after a modal."
+        },
+        {
+          "bad": "It might has rained.",
+          "good": "It might <b>have</b> rained.",
+          "why": "En pasado siempre <b>have</b>, nunca has.",
+          "why_en": "Always have, never has."
+        },
+        {
+          "bad": "They must have went home.",
+          "good": "They must have <b>gone</b> home.",
+          "why": "have + <b>participio</b> (gone), no pasado (went).",
+          "why_en": "have + past participle, not past simple."
+        },
+        {
+          "bad": "He must be at home yesterday.",
+          "good": "He must <b>have been</b> at home yesterday.",
+          "why": "Para el pasado: must have + participio.",
+          "why_en": "Past deduction: must have + participle."
+        },
+        {
+          "bad": "She can't have be ill.",
+          "good": "She can't have <b>been</b> ill.",
+          "why": "have + <b>been</b> (participio de be).",
+          "why_en": "have + been."
+        },
+        {"bad": "It mights be true.", "good": "It <b>might</b> be true.", "why": "Los modales nunca llevan -s.", "why_en": "Modals never take -s."},
+        {
+          "bad": "I'm not sure, but I must have left it at home.",
+          "good": "I'm not sure, but I <b>might</b> have left it at home.",
+          "why": "Si no estás seguro → might / may / could, no must.",
+          "why_en": "Not sure → might, not must."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Misterio en la oficina",
+      "title_en": "A mystery at the office",
+      "lines": [
+        {"who": "Iván", "en": "Marta's not at her desk. Where can she be?", "es": "Marta no está en su mesa. ¿Dónde estará?"},
+        {
+          "who": "Sofía",
+          "en": "She might be in the meeting room. There's a client meeting at ten.",
+          "es": "Puede que esté en la sala de reuniones. Hay una reunión con un cliente a las diez."
+        },
+        {"who": "Iván", "en": "No, it can't be that. The meeting was cancelled.", "es": "No, no puede ser eso. Se canceló la reunión."},
+        {"who": "Sofía", "en": "Her coat isn't here, so she must have gone out.", "es": "Su abrigo no está, así que habrá salido."},
+        {
+          "who": "Iván",
+          "en": "Look, her coffee's still warm. She can't have gone far.",
+          "es": "Mira, su café sigue caliente. No puede haber ido muy lejos."
+        },
+        {
+          "who": "Sofía",
+          "en": "She could have gone to the bakery. She sometimes buys croissants for everyone.",
+          "es": "Puede que haya ido a la panadería. A veces compra cruasanes para todos."
+        },
+        {
+          "who": "Iván",
+          "en": "Here she comes… with a big box. You must be a mind reader!",
+          "es": "Aquí viene… con una caja grande. ¡Debes de leer la mente!"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "¿Seguro o imposible?",
+      "title_en": "Sure or impossible?",
+      "icon": "⭕",
+      "es": "Lee la pista y rodea el modal correcto.",
+      "en": "Read the clue and circle the correct modal.",
+      "items": [
+        {"q": "Her car's outside. She [must|can't] be at home.", "a": "must"},
+        {"q": "He [must|can't] be hungry. He's just eaten a huge pizza.", "a": "can't"},
+        {"q": "I'm not sure where Ana is. She [might|must] be at the library.", "a": "might"},
+        {"q": "You've been working for ten hours. You [must|might not] be exhausted.", "a": "must"},
+        {"q": "That [can't|mustn't] be the right answer. It doesn't make sense.", "a": "can't"},
+        {"q": "Take your phone. I [might|must] need to call you.", "a": "might"},
+        {"q": "They've lived in Paris for twenty years. They [must|can't] speak French.", "a": "must"},
+        {"q": "Everyone's talking about the film. It [could|can't] be good.", "a": "could"},
+        {"q": "That [can't|might] be Mario's dad. He's far too young!", "a": "can't"},
+        {"q": "It's 3 a.m. in Madrid, so in New York it [must|can't] be 9 p.m.", "a": "must"}
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Pista y conclusión",
+      "title_en": "Clue and conclusion",
+      "icon": "🔗",
+      "es": "Une cada pista con la deducción más lógica.",
+      "en": "Match each clue with the most logical deduction.",
+      "pairs": [
+        ["The lights are off and nobody's answering.", "They must be out."],
+        ["He's wearing a wedding ring.", "He must be married."],
+        ["She's only been learning Greek for a week.", "She can't be fluent yet."],
+        ["I'm not sure who's calling.", "It might be the bank."],
+        ["The ground is completely dry.", "It can't have rained."],
+        ["Pablo got 100% in the exam.", "He must have studied hard."],
+        ["My keys aren't in my bag.", "I might have left them at work."],
+        ["Laura's smiling from ear to ear.", "She must have had some good news."]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Cuánta certeza?",
+      "title_en": "How sure?",
+      "icon": "🌡️",
+      "es": "Clasifica cada expresión según la certeza.",
+      "en": "Sort the expressions by how sure the speaker is.",
+      "cats": [
+        {"name": "✅ Seguro que sí", "words": ["must be", "must have left", "must be working", "must have been"]},
+        {"name": "🤔 Posible", "words": ["might be", "may have gone", "could be", "might not be"]},
+        {"name": "❌ Imposible", "words": ["can't be", "couldn't have done", "can't have seen", "can't be working"]}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "must, might o can't",
+      "title_en": "must, might or can't",
+      "icon": "✏️",
+      "es": "Completa con must, might o can't. Piensa en lo seguro que estás.",
+      "en": "Complete with must, might or can't.",
+      "bank": ["must", "might", "can't"],
+      "items": [
+        {"q": "You've done so well! Your parents ___ be really proud of you.", "a": "must"},
+        {"q": "Where's Tom? — I'm not sure. He ___ be in the garden.", "a": "might"},
+        {"q": "That ___ be Laura's car. She sold it last year.", "a": "can't"},
+        {"q": "You ___ be serious! A coffee for 12 euros?", "a": "can't"},
+        {"q": "Don't call now. They ___ be having dinner.", "a": "might"},
+        {"q": "He's been running for an hour. He ___ be thirsty.", "a": "must"},
+        {"q": "This bag ___ be mine. Mine is black, not blue.", "a": "can't"},
+        {"q": "I ___ go to the party. It depends on how I feel.", "a": "might"},
+        {"q": "Everyone is wearing coats. It ___ be cold outside.", "a": "must"},
+        {"q": "Ask Elena. She ___ know the answer, but I'm not sure.", "a": "might"}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Deducción en pasado",
+      "title_en": "Past deduction",
+      "icon": "⏪",
+      "es": "Completa con modal + have + participio. Usa las palabras entre paréntesis.",
+      "en": "Complete with modal + have + past participle.",
+      "items": [
+        {"q": "The window is broken. Someone ____ (must / break) it.", "a": "must have broken"},
+        {"q": "She ____ (can't / see) us. She didn't say hello.", "a": "can't have seen"},
+        {"q": "I ____ (might / leave) my glasses in the car.", "a": "might have left"},
+        {"q": "They ____ (must / be) very happy when they heard the news.", "a": "must have been"},
+        {"q": "He ____ (can't / write) this essay alone. It's full of words he doesn't know.", "a": "can't have written"},
+        {"q": "Sara isn't here yet. She ____ (may / miss) the train.", "a": "may have missed"},
+        {"q": "You ____ (must / spend) a fortune on that jacket!", "a": "must have spent"},
+        {"q": "The thief ____ (could / get) in through the back door.", "a": "could have got"},
+        {"q": "Mark ____ (can't / forget) your birthday. He wrote it in his diary.", "a": "can't have forgotten"},
+        {"q": "We ____ (might / take) the wrong turning. Let's check the map.", "a": "might have taken"}
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Del presente al pasado",
+      "title_en": "From present to past",
+      "icon": "📋",
+      "wide": true,
+      "es": "Completa la tabla: pasa cada deducción de presente a pasado o al revés.",
+      "en": "Complete the table: change each deduction from present to past or vice versa.",
+      "head": ["Certeza", "Presente · Present", "Pasado · Past"],
+      "rows": [
+        ["✅", "He must be at work.", "?He must have been at work."],
+        ["🤔", "?She might be ill.", "She might have been ill."],
+        ["❌", "They can't be lost.", "?They can't have been lost."],
+        ["✅", "?You must know him.", "You must have known him."],
+        ["🤔", "It could be a mistake.", "?It could have been a mistake."],
+        ["❌", "?She can't be asleep.", "She can't have been asleep."],
+        ["🤷", "He may not be at home.", "?He may not have been at home."],
+        ["✅", "?They must be working.", "They must have been working."]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "De la pista al modal",
+      "title_en": "Rewrite with a modal",
+      "icon": "🔄",
+      "es": "Reescribe la frase con must, might / may / could o can't.",
+      "en": "Rewrite the sentence with a modal of deduction.",
+      "items": [
+        {"q": "I'm sure she's at home.", "a": "She must be at home."},
+        {"q": "Perhaps he's busy.", "a": "He might (may / could) be busy."},
+        {"q": "It's impossible that this is your bag.", "a": "This can't be your bag."},
+        {"q": "I'm sure they left early.", "a": "They must have left early."},
+        {"q": "Maybe she didn't get my message.", "a": "She might (may) not have got my message."},
+        {"q": "It's impossible that he saw the film. It isn't out yet.", "a": "He can't (couldn't) have seen the film. It isn't out yet."},
+        {"q": "Perhaps they're watching the match.", "a": "They might (may / could) be watching the match."},
+        {"q": "I'm sure you were tired after the trip.", "a": "You must have been tired after the trip."}
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Presente o pasado?",
+      "title_en": "Present or past?",
+      "icon": "⏳",
+      "es": "Rodea la forma correcta. Fíjate en cuándo pasa la acción.",
+      "en": "Circle the correct form.",
+      "items": [
+        {"q": "Look at his tan. He [must be|must have been] on holiday.", "a": "must have been"},
+        {"q": "She's not answering. She [might sleep|might be sleeping].", "a": "might be sleeping"},
+        {"q": "Nobody's in. They [must go|must have gone] out.", "a": "must have gone"},
+        {"q": "I [can't have met|can't meet] him before. He's never left Rome and I've never been there.", "a": "can't have met"},
+        {"q": "The museum [might be|might have been] closed tomorrow. It's a bank holiday.", "a": "might be"},
+        {"q": "He [can't be|can't have been] at the party last night. He was in hospital.", "a": "can't have been"},
+        {"q": "Listen! Someone [must be playing|must have played] the piano upstairs.", "a": "must be playing"},
+        {"q": "You [must be|must have been] Laura. Nice to meet you!", "a": "must be"},
+        {"q": "The exam [must be|must have been] really hard. Everyone failed.", "a": "must have been"},
+        {"q": "I don't know how they got here yesterday. They [could have taken|could take] a taxi.", "a": "could have taken"}
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase.",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {"q": "must / she / be / tired / very", "a": "She must be very tired."},
+        {"q": "can't / that / true / be", "a": "That can't be true."},
+        {"q": "have / they / must / gone / home", "a": "They must have gone home."},
+        {"q": "might / I / left / have / my phone / in the car", "a": "I might have left my phone in the car."},
+        {"q": "be / sleeping / he / might", "a": "He might be sleeping."},
+        {"q": "can't / have / she / seen / us", "a": "She can't have seen us."},
+        {"q": "may / the / be / delayed / train", "a": "The train may be delayed."},
+        {"q": "couldn't / he / have / it / done / alone", "a": "He couldn't have done it alone."}
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {"q": "He mustn't be Italian. He doesn't understand Italian at all.", "a": "He can't be Italian. He doesn't understand Italian at all."},
+        {"q": "She must to be at the gym.", "a": "She must be at the gym."},
+        {"q": "They might has missed the bus.", "a": "They might have missed the bus."},
+        {"q": "You must have saw the news.", "a": "You must have seen the news."},
+        {"q": "It mights rain later.", "a": "It might rain later."},
+        {"q": "He can't have be at work yesterday.", "a": "He can't have been at work yesterday."},
+        {
+          "q": "I'm not sure, but she must have forgotten.",
+          "a": ["I'm not sure, but she might have forgotten.", "I'm not sure, but she may have forgotten."]
+        },
+        {"q": "He must be at the cinema last night.", "a": "He must have been at the cinema last night."}
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Tiene sentido?",
+      "title_en": "Does it make sense?",
+      "icon": "🤨",
+      "es": "Marca T si la frase es correcta y lógica, y F si no lo es.",
+      "en": "Tick T if the sentence is correct and logical, F if not.",
+      "items": [
+        {"q": "He's yawning all the time. He must be tired.", "a": true},
+        {"q": "She's never been to Asia, so she must have visited Tokyo.", "a": false, "why": "She can't have visited Tokyo."},
+        {"q": "It might be sunny tomorrow, but I'm not sure.", "a": true},
+        {"q": "He mustn't be at home. His car isn't here.", "a": false, "why": "He can't be at home."},
+        {"q": "The road is wet. It must have rained.", "a": true},
+        {"q": "I might have left my keys at home. I'm 100% sure.", "a": false, "why": "100% seguro → I left my keys at home."},
+        {"q": "They can't have finished already. They started five minutes ago.", "a": true},
+        {"q": "You must be Javier's sister. You look exactly like him!", "a": true}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones B2 First",
+      "title_en": "Key word transformations",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra en azul SIN cambiarla y escribe entre 2 y 5 palabras.",
+      "en": "Complete the second sentence so that it means the same as the first. Use the word given. Write 2-5 words.",
+      "items": [
+        {"q": "I'm sure Paula is at work now.<br>Paula _____ now.", "hint": "<b>MUST</b>", "a": "must be at work"},
+        {"q": "Perhaps the shop is closed today.<br>The shop _____ today.", "hint": "<b>MIGHT</b>", "a": "might be closed"},
+        {"q": "It's impossible that this is Tom's phone.<br>This _____ phone.", "hint": "<b>CAN'T</b>", "a": "can't be Tom's"},
+        {"q": "I'm sure they forgot about the meeting.<br>They _____ about the meeting.", "hint": "<b>HAVE</b>", "a": "must have forgotten"},
+        {"q": "Maybe Elena didn't hear the doorbell.<br>Elena _____ the doorbell.", "hint": "<b>MIGHT</b>", "a": "might not have heard"},
+        {
+          "q": "It's impossible that you saw Jake yesterday. He's in Canada.<br>You _____ Jake yesterday.",
+          "hint": "<b>CAN'T</b>",
+          "a": "can't have seen"
+        },
+        {
+          "q": "Perhaps the burglars came in through the window.<br>The burglars _____ in through the window.",
+          "hint": "<b>COULD</b>",
+          "a": "could have come"
+        },
+        {
+          "q": "I'm sure the children are sleeping. It's so quiet.<br>The children _____. It's so quiet.",
+          "hint": "<b>BE</b>",
+          "a": "must be sleeping"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. ¡Ojo con el futuro de probabilidad del español!",
+      "en": "Translate into English.",
+      "items": [
+        {"q": "Debes de estar muy cansado.", "a": "You must be very tired."},
+        {"q": "Puede que llueva esta tarde.", "a": "It might (may / could) rain this afternoon."},
+        {"q": "Eso no puede ser verdad.", "a": "That can't be true."},
+        {"q": "Habrán perdido el tren.", "a": "They must have missed the train."},
+        {"q": "Puede que (ella) se haya olvidado.", "a": "She might (may / could) have forgotten."},
+        {"q": "No puede haberlo hecho él solo.", "a": "He can't (couldn't) have done it on his own."},
+        {"q": "(Él) estará trabajando ahora.", "a": "He must be working now."},
+        {"q": "Serían las diez cuando llegamos.", "a": "It must have been about ten when we arrived."}
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el caso del inspector Ruiz. Marca T o F y contesta.",
+      "en": "Read the story. Tick T or F and answer the questions.",
+      "text_title": "The mystery of the empty flat",
+      "text": [
+        "When Inspector Ruiz arrived at flat 4B, the door was open and nobody was inside. The TV was still on and there was a cup of tea on the table. It was still warm, so the owner, Mr Hall, couldn't have left more than ten minutes earlier.",
+        "His coat and umbrella were gone, and it was raining heavily, so he must have gone out. 'He might have gone to the shop on the corner,' said the neighbour. 'He often goes there in the evening.' But the inspector shook his head. 'He can't have gone shopping. His wallet is here on the sofa.'",
+        "Then Ruiz noticed a train ticket for Edinburgh on the floor. It was for the 8.15 train. 'It's eight o'clock now. He must be on his way to the station,' he said. 'He could still be in a taxi. Let's go!'"
+      ],
+      "items": [
+        {
+          "q": "The inspector thinks Mr Hall left a long time ago.",
+          "tf": true,
+          "a": false,
+          "why": "The tea was still warm, so he couldn't have left more than ten minutes earlier."
+        },
+        {"q": "The neighbour is sure Mr Hall went to the shop.", "tf": true, "a": false, "why": "She says he might have gone."},
+        {"q": "Mr Hall took his wallet with him.", "tf": true, "a": false, "why": "His wallet is on the sofa."},
+        {"q": "Why does the inspector think Mr Hall must have gone out?", "a": "Because his coat and umbrella were gone (and it was raining)."},
+        {"q": "Why can't he have gone shopping?", "a": "Because his wallet is on the sofa."},
+        {"q": "Where does the inspector think Mr Hall is now?", "a": "On his way to the station (maybe still in a taxi)."},
+        {
+          "q": "Copy a deduction about the present from the last paragraph.",
+          "a": ["He must be on his way to the station.", "He could still be in a taxi."]
+        },
+        {"q": "Rewrite with a modal: 'Perhaps he went to the shop.'", "a": "He might (may / could) have gone to the shop."}
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Haz de detective. Usa must, might, could y can't (+ have).",
+      "en": "Be a detective.",
+      "items": [
+        {
+          "q": "Tu amigo no contesta al móvil. Escribe 3 posibilidades (<b>might / could / may</b>).",
+          "lines": 2,
+          "a": "Ej.: He might be driving. He could be at the cinema. He may have lost his phone."
+        },
+        {
+          "q": "Mira algo de tu casa: escribe una deducción con <b>must</b>.",
+          "lines": 1,
+          "a": "Ej.: My brother's trainers are wet. He must have been running in the rain."
+        },
+        {
+          "q": "Escribe una frase con <b>can't have</b> sobre una noticia increíble.",
+          "lines": 1,
+          "a": "Ej.: That footballer can't have earned 100 million in one year!"
+        },
+        {
+          "q": "Llegas a casa y la puerta está abierta. ¿Qué ha pasado?",
+          "lines": 2,
+          "a": "Ej.: Someone must have opened it. My sister might have forgotten to close it. It can't have been the wind."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {"es": "Uso <b>must</b> cuando estoy casi seguro: She must be tired.", "en": "I use must when I'm almost sure."},
+    {"es": "Uso <b>may / might / could</b> para posibilidades.", "en": "I use may / might / could for possibilities."},
+    {"es": "Uso <b>can't / couldn't</b> para lo imposible (¡no <s>mustn't</s>!).", "en": "I use can't for impossible things, never mustn't."},
+    {"es": "Deduzco en pasado con <b>modal + have + participio</b>.", "en": "I can make past deductions with modal + have + participle."},
+    {"es": "Deduzco lo que pasa ahora con <b>must be + -ing</b>.", "en": "I can guess what's happening now: must be + -ing."},
+    {"es": "Traduzco el futuro de probabilidad (<i>estará, habrá ido</i>) con must / might.", "en": "I can translate Spanish 'estará / habrá ido'."}
+  ]
+}

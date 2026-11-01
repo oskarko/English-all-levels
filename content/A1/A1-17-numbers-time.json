@@ -1,0 +1,585 @@
+{
+  "id": "A1-17",
+  "level": "A1",
+  "title": "NÚMEROS <em>y</em> LA HORA",
+  "file_title": "Números y la hora",
+  "subtitle": "Numbers, dates and time · números, fechas y la hora",
+  "icon": "⏰",
+  "map": {
+    "center": "Aprende a <b>contar</b> hasta 100, decir la <b>fecha</b> y decir la <b>hora</b>: <i>It's half past seven.</i>",
+    "nodes": [
+      {"title":"Números 1-100","icon":"🔢","items":["13-19 → <b>-teen</b>: thirteen","20-90 → <b>-ty</b>: twenty, fifty","21 = twenty<b>-</b>one (con guion)"]},
+      {"title":"¡Ojo al escribir!","icon":"✏️","items":["fourteen pero <b>forty</b> (¡sin u!)","nine → nine<b>teen</b> → nine<b>ty</b>","100 = <b>a hundred</b>"]},
+      {"title":"Ordinales","icon":"🥇","art":"🏆","rows":[["1st","first"],["2nd","second"],["3rd","third"],["4th…","fourth, fifth (+ -th)"]]},
+      {"title":"La fecha","icon":"📅","items":["Días y meses con <b>M</b>ayúscula","the <b>3rd</b> of May <i>(el 3 de mayo)</i>","What's the date today?"]},
+      {"title":"¿Qué hora es?","icon":"⏰","art":"🕖","items":["What time is it? — <b>It's</b>…","7:00 → seven <b>o'clock</b>","7:30 → <b>half past</b> seven"]},
+      {"title":"Y cuarto, menos cuarto","icon":"🕒","items":["7:15 → <b>quarter past</b> seven","7:45 → <b>quarter to</b> eight","past = y · to = menos"]}
+    ],
+    "error": {"title":"Error común","bad":["Are five o'clock."],"good":["It's five o'clock."],"note":"La hora siempre con <b>It's</b>"},
+    "mini": {
+      "es": "Escribe en inglés.",
+      "en": "Write in English.",
+      "items": [
+        {"q":"7:00 → It's seven ____.","a":"o'clock"},
+        {"q":"8:30 → It's ____ eight.","a":"half past"},
+        {"q":"40 → ____","a":"forty"},
+        {"q":"3rd → the ____ of May","a":"third"},
+        {"q":"9:45 → It's quarter ___ ten.","a":"to"}
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "En este mapa aprendemos tres cosas muy útiles: <b>contar</b> hasta 100, decir la <b>fecha</b> (con los números ordinales: first, second, third…) y decir <b>la hora</b>. ¡Las usarás todos los días: en el cole, en los cumpleaños y para no llegar tarde!",
+      "en": "In this map: <b>numbers</b> to 100, <b>ordinals</b> and dates, and telling the <b>time</b>."
+    },
+    {
+      "t": "table",
+      "title": "1 · Del 1 al 20",
+      "title_en": "1 to 20",
+      "icon": "🔢",
+      "color": "green",
+      "head": ["Nº","English","Nº","English"],
+      "rows": [
+        ["1","one","11","<b>eleven</b>"],
+        ["2","two","12","<b>twelve</b>"],
+        ["3","three","13","thir<b>teen</b>"],
+        ["4","four","14","four<b>teen</b>"],
+        ["5","five","15","fif<b>teen</b>"],
+        ["6","six","16","six<b>teen</b>"],
+        ["7","seven","17","seven<b>teen</b>"],
+        ["8","eight","18","eigh<b>teen</b>"],
+        ["9","nine","19","nine<b>teen</b>"],
+        ["10","ten","20","<b>twenty</b>"]
+      ],
+      "note": "13-19 → <b>-teen</b>. ¡<b>eleven</b> y <b>twelve</b> son especiales! Y 0 = <b>zero</b>.",
+      "note_en": "11 and 12 are special. 0 = zero."
+    },
+    {
+      "t": "rule",
+      "title": "2 · Las decenas (20-100)",
+      "title_en": "Tens",
+      "icon": "💯",
+      "color": "blue",
+      "es": "Las decenas acaban en <b>-ty</b>: twen<b>ty</b>, thir<b>ty</b>, for<b>ty</b>… Para 21, 35… unimos con un <mark>guion</mark>: twenty<b>-</b>one, thirty<b>-</b>five. Y 100 = <b>a hundred</b>.",
+      "en": "Tens end in <b>-ty</b>. Use a <mark>hyphen</mark>: twenty-one. 100 = a hundred.",
+      "examples": [
+        {"en":"There are <b>twenty-six</b> children in my class.","es":"Hay veintiséis niños en mi clase.","icon":"🏫"},
+        {"en":"My grandad is <b>seventy-two</b>.","es":"Mi abuelo tiene setenta y dos años.","icon":"👴"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "3 · ¿-teen o -ty? ¡Y sus trampas!",
+      "title_en": "-teen or -ty?",
+      "icon": "👂",
+      "color": "purple",
+      "head": ["Nº","-teen","Nº","-ty"],
+      "rows": [
+        ["13","thir<b>teen</b>","30","thir<b>ty</b>"],
+        ["14","four<b>teen</b>","40","for<b>ty</b>"],
+        ["15","fif<b>teen</b>","50","fif<b>ty</b>"],
+        ["16","six<b>teen</b>","60","six<b>ty</b>"],
+        ["17","seven<b>teen</b>","70","seven<b>ty</b>"],
+        ["18","eigh<b>teen</b>","80","eigh<b>ty</b>"],
+        ["19","nine<b>teen</b>","90","nine<b>ty</b>"]
+      ],
+      "note": "¡Trampas! <b>forty</b> (sin u) · <b>fif</b>teen, <b>fif</b>ty · <b>thir</b>teen, <b>thir</b>ty · eigh<b>teen</b> (una t) · nin<b>e</b>ty (con e). Al hablar: thir<b>TEEN</b> pero <b>THIR</b>ty.",
+      "note_en": "Watch: forty, fifty, thirty, eighteen, ninety. Stress: thirTEEN, THIRty."
+    },
+    {
+      "t": "rule",
+      "title": "4 · Números ordinales",
+      "title_en": "Ordinal numbers",
+      "icon": "🥇",
+      "color": "orange",
+      "es": "Los ordinales dicen el <b>orden</b> (primero, segundo…) y sirven para las <b>fechas</b>. Casi todos se forman con <b>-th</b>: four<b>th</b>, six<b>th</b>. Los especiales son <mark>first, second, third</mark> (1st, 2nd, 3rd), y también los que acaban en 1, 2 y 3: twenty-<b>first</b>, twenty-<b>second</b>, twenty-<b>third</b>, thirty-<b>first</b>.",
+      "en": "Ordinals: 1st first, 2nd second, 3rd third, then <b>-th</b> (4th fourth). Also 21st, 22nd, 23rd, 31st.",
+      "examples": [
+        {"en":"My birthday is on the <b>fifth</b> of June.","es":"Mi cumple es el cinco de junio.","icon":"🎂"},
+        {"en":"Lucía is <b>second</b> in the race.","es":"Lucía va segunda en la carrera.","icon":"🏅"},
+        {"en":"We live on the <b>fourth</b> floor.","es":"Vivimos en el cuarto piso.","icon":"🏢"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Los ordinales del 1 al 31",
+      "title_en": "Ordinals 1st-31st",
+      "icon": "🏆",
+      "color": "orange",
+      "head": ["1-10","11-20","21-31"],
+      "rows": [
+        ["1st · <b>first</b>","11th · eleventh","21st · twenty-<b>first</b>"],
+        ["2nd · <b>second</b>","12th · <b>twelfth</b>","22nd · twenty-<b>second</b>"],
+        ["3rd · <b>third</b>","13th · thirteenth","23rd · twenty-<b>third</b>"],
+        ["4th · fourth","14th · fourteenth","24th · twenty-fourth"],
+        ["5th · <b>fifth</b>","15th · fifteenth","25th · twenty-<b>fifth</b>"],
+        ["6th · sixth","16th · sixteenth","26th · twenty-sixth"],
+        ["7th · seventh","17th · seventeenth","27th · twenty-seventh"],
+        ["8th · <b>eighth</b>","18th · eighteenth","28th · twenty-<b>eighth</b>"],
+        ["9th · <b>ninth</b>","19th · nineteenth","29th · twenty-<b>ninth</b>"],
+        ["10th · tenth","20th · <b>twentieth</b>","30th · <b>thirtieth</b>"],
+        ["","","31st · thirty-<b>first</b>"]
+      ],
+      "note": "Ojo con: fi<b>f</b>th, eigh<b>th</b>, ni<b>n</b>th (sin e), twel<b>f</b>th, twent<b>ie</b>th. La abreviatura lleva las dos últimas letras: 1<b>st</b>, 2<b>nd</b>, 3<b>rd</b>, 4<b>th</b>.",
+      "note_en": "Tricky: fifth, eighth, ninth, twelfth, twentieth."
+    },
+    {
+      "t": "rule",
+      "title": "5 · Días, meses y fechas",
+      "title_en": "Days, months and dates",
+      "icon": "📅",
+      "color": "teal",
+      "es": "Los <b>días de la semana</b> y los <b>meses</b> se escriben siempre con <mark>mayúscula</mark>: <b>M</b>onday, <b>J</b>uly. Para la fecha usamos el <b>ordinal</b>: escribimos <b>5th May</b> y decimos «<i>the fifth of May</i>». Para preguntar: <b>What's the date today?</b> o <b>When's your birthday?</b>",
+      "en": "Days and months always have a <mark>capital letter</mark>. Dates use ordinals: the fifth of May.",
+      "examples": [
+        {"en":"What's the date today? — It's the <b>2nd</b> of March.","es":"¿Qué fecha es hoy? — Es el dos de marzo.","icon":"📅"},
+        {"en":"My birthday is on the <b>21st</b> of <b>July</b>.","es":"Mi cumpleaños es el 21 de julio.","icon":"🎈"},
+        {"en":"Christmas Day is the <b>25th</b> of <b>December</b>.","es":"El día de Navidad es el 25 de diciembre.","icon":"🎄"}
+      ]
+    },
+    {
+      "t": "vocab",
+      "title": "Días y meses",
+      "title_en": "Days and months",
+      "icon": "🗓️",
+      "color": "pink",
+      "items": [
+        {"en":"Monday","es":"lunes","icon":"🏫"},
+        {"en":"Tuesday","es":"martes","icon":"🎨"},
+        {"en":"Wednesday","es":"miércoles","icon":"🏊"},
+        {"en":"Thursday","es":"jueves","icon":"⚽"},
+        {"en":"Friday","es":"viernes","icon":"🍕"},
+        {"en":"Saturday","es":"sábado","icon":"🚲"},
+        {"en":"Sunday","es":"domingo","icon":"🛋️"},
+        {"en":"the weekend","es":"el fin de semana","icon":"🎉"},
+        {"en":"January","es":"enero","icon":"❄️"},
+        {"en":"February","es":"febrero","icon":"💝"},
+        {"en":"March","es":"marzo","icon":"🌱"},
+        {"en":"April","es":"abril","icon":"🌧️"},
+        {"en":"May","es":"mayo","icon":"🌸"},
+        {"en":"June","es":"junio","icon":"☀️"},
+        {"en":"July","es":"julio","icon":"🏖️"},
+        {"en":"August","es":"agosto","icon":"🍉"},
+        {"en":"September","es":"septiembre","icon":"🎒"},
+        {"en":"October","es":"octubre","icon":"🎃"},
+        {"en":"November","es":"noviembre","icon":"🍂"},
+        {"en":"December","es":"diciembre","icon":"🎄"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · ¿Qué hora es?",
+      "title_en": "Telling the time",
+      "icon": "⏰",
+      "color": "green",
+      "es": "Preguntamos <b>What time is it?</b> y contestamos siempre con <b>It's</b>… (¡nunca <s>They are</s>, aunque en español digamos «<i>son</i> las cinco»!). En punto: <b>o'clock</b>. Para los minutos: <b>past</b> = y (los minutos que ya han <b>pasado</b>) y <b>to</b> = menos (los minutos que <b>faltan</b>). <b>quarter</b> = cuarto, <b>half</b> = media. ¡Primero los minutos y luego la hora!",
+      "en": "Ask <b>What time is it?</b> Answer with <b>It's…</b>: o'clock, past (after the hour), to (before the next hour). Minutes first, then the hour.",
+      "formula": ["*It's* + seven + *o'clock*","*It's* + minutos + *past* + hora","*It's* + minutos + *to* + hora siguiente"],
+      "examples": [
+        {"en":"It's <b>seven o'clock</b>. Time to get up!","es":"Son las siete en punto. ¡A levantarse!","icon":"⏰"},
+        {"en":"It's <b>half past</b> eight.","es":"Son las ocho y media.","icon":"🕣"},
+        {"en":"It's <b>quarter past</b> four.","es":"Son las cuatro y cuarto.","icon":"🕓"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "El reloj",
+      "title_en": "The clock",
+      "icon": "🕰️",
+      "color": "orange",
+      "head": ["🕐 Hora","💬 Así se dice","🇪🇸 Español"],
+      "rows": [
+        ["7:00","It's seven <b>o'clock</b>.","Son las siete en punto."],
+        ["7:05","It's five <b>past</b> seven.","Son las siete y cinco."],
+        ["7:15","It's <b>quarter past</b> seven.","Son las siete y cuarto."],
+        ["7:20","It's twenty <b>past</b> seven.","Son las siete y veinte."],
+        ["7:30","It's <b>half past</b> seven.","Son las siete y media."],
+        ["7:45","It's <b>quarter to</b> eight.","Son las ocho menos cuarto."],
+        ["7:50","It's ten <b>to</b> eight.","Son las ocho menos diez."]
+      ],
+      "note": "También se dice «<b>a</b> quarter past seven». Y en digital, hora + minutos: 7:15 = <i>seven fifteen</i>.",
+      "note_en": "Digital: hour + minutes (seven fifteen)."
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo digo la hora?",
+      "title_en": "How do I tell the time?",
+      "color": "orange",
+      "items": [
+        {"es":"Mira los <b>minutos</b>. ¿Es :00? → <b>o'clock</b>: It's seven o'clock.","en":":00 → o'clock."},
+        {"es":"¿Entre :05 y :30? → minutos + <b>past</b> + la hora: ten past seven.","en":":05-:30 → minutes + past + hour."},
+        {
+          "es": "¿Entre :35 y :55? → los minutos que <b>faltan</b> + <b>to</b> + la hora <b>siguiente</b>: twenty to eight.",
+          "en": ":35-:55 → minutes left + to + next hour."
+        },
+        {"es":"Recuerda: 15 = <b>quarter</b> y 30 = <b>half</b>.","en":"15 = quarter, 30 = half."},
+        {"es":"¡Empieza siempre con <b>It's</b>!","en":"Always start with It's."}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Todo junto",
+      "title_en": "All together",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": ["🔢 Números","🥇 Ordinales","📅 Fechas","⏰ La hora"],
+      "rows": [
+        ["13 thir<b>teen</b> · 30 thir<b>ty</b>","1st <b>first</b>","<b>M</b>onday, <b>M</b>ay (¡mayúscula!)","7:00 seven <b>o'clock</b>"],
+        ["14 fourteen · 40 <b>forty</b>","2nd <b>second</b>","the <b>3rd</b> of May","7:15 <b>quarter past</b> seven"],
+        ["21 twenty<b>-</b>one","3rd <b>third</b>","What's the date today?","7:30 <b>half past</b> seven"],
+        ["100 <b>a hundred</b>","4th fourth (+ <b>-th</b>)","When's your birthday?","7:45 <b>quarter to</b> eight"]
+      ],
+      "note": "La hora siempre empieza con <b>It's</b>: It's half past seven.",
+      "note_en": "Time always starts with It's."
+    },
+    {
+      "t": "tip",
+      "title": "Truco del reloj partido",
+      "title_en": "The split clock trick",
+      "es": "Imagina el reloj partido por la mitad ✂️. En la mitad <b>derecha</b> (de las 12 a las 6), los minutos ya han <b>pasado</b> → <b>past</b>. En la mitad <b>izquierda</b> (de las 6 a las 12), los minutos <b>faltan</b> para la hora siguiente → <b>to</b>.",
+      "en": "Right half of the clock → <b>past</b>. Left half → <b>to</b> (the next hour).",
+      "wide": true
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {"en":"I get up at <b>quarter past seven</b>.","es":"Me levanto a las siete y cuarto.","icon":"⏰"},
+        {"en":"School starts at <b>nine o'clock</b>.","es":"El cole empieza a las nueve en punto.","icon":"🏫"},
+        {"en":"Lucía is <b>twelve</b> and Mario is <b>eight</b>.","es":"Lucía tiene doce años y Mario ocho.","icon":"👧"},
+        {"en":"Leo lives at number <b>forty-four</b>.","es":"Leo vive en el número cuarenta y cuatro.","icon":"🏠"},
+        {"en":"Our match is on <b>Sunday</b> at <b>half past ten</b>.","es":"Nuestro partido es el domingo a las diez y media.","icon":"⚽"},
+        {"en":"What's the date today? — It's the <b>first</b> of <b>October</b>.","es":"¿Qué fecha es hoy? — Es el uno de octubre.","icon":"🍂"},
+        {"en":"Mum's birthday is on the <b>twenty-second</b> of <b>February</b>.","es":"El cumple de mamá es el veintidós de febrero.","icon":"🎂"},
+        {"en":"Is it <b>quarter to eight</b>? Hurry up!","es":"¿Son las ocho menos cuarto? ¡Date prisa!","icon":"🏃"},
+        {"en":"There are <b>sixty</b> minutes in an hour.","es":"Una hora tiene sesenta minutos.","icon":"⏳"}
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "trampas",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {"bad":"Are five o'clock.","good":"<b>It's</b> five o'clock.","why":"«Son las…» = It's…","why_en":"Time: It's…"},
+        {"bad":"It's five and a quarter.","good":"It's <b>quarter past</b> five.","why":"y cuarto = quarter past.","why_en":"Use quarter past."},
+        {"bad":"It's seven and half.","good":"It's <b>half past</b> seven.","why":"y media = half past + hora.","why_en":"Use half past."},
+        {
+          "bad": "It's quarter to seven. <small>(7:45)</small>",
+          "good": "It's quarter to <b>eight</b>.",
+          "why": "Con to, la hora siguiente.",
+          "why_en": "With to, use the next hour."
+        },
+        {"bad":"fourty","good":"<b>forty</b>","why":"four lleva u; forty, no.","why_en":"No u in forty."},
+        {"bad":"ninty","good":"nin<b>e</b>ty","why":"ninety conserva la e.","why_en":"Keep the e in ninety."},
+        {"bad":"My party is on saturday.","good":"My party is on <b>S</b>aturday.","why":"Días y meses con mayúscula.","why_en":"Days need a capital letter."},
+        {"bad":"My birthday is the 3 of May.","good":"My birthday is the <b>3rd</b> of May.","why":"Fechas con ordinal: third.","why_en":"Dates use ordinals."}
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "¿Cuándo es tu fiesta?",
+      "title_en": "When's your party?",
+      "lines": [
+        {"who":"Leo","en":"When's your birthday party, Mario?","es":"¿Cuándo es tu fiesta de cumpleaños, Mario?"},
+        {"who":"Mario","en":"It's on Saturday, the 14th of May.","es":"Es el sábado 14 de mayo."},
+        {"who":"Leo","en":"What time does it start?","es":"¿A qué hora empieza?"},
+        {"who":"Mario","en":"At half past four.","es":"A las cuatro y media."},
+        {"who":"Leo","en":"Great! Where is it?","es":"¡Genial! ¿Dónde es?"},
+        {"who":"Mario","en":"At my house: 45 Green Street.","es":"En mi casa: calle Green, 45."},
+        {"who":"Leo","en":"Forty-five? OK! What time is it now?","es":"¿Cuarenta y cinco? ¡Vale! ¿Qué hora es ahora?"},
+        {"who":"Mario","en":"It's quarter to nine. Hurry up! School starts at nine!","es":"Son las nueve menos cuarto. ¡Corre! ¡El cole empieza a las nueve!"}
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "¿-teen o -ty?",
+      "title_en": "Match the numbers",
+      "icon": "🔗",
+      "es": "Une cada número con su nombre. ¡Cuidado con -teen y -ty!",
+      "en": "Match each number with its word.",
+      "pairs": [["13","thirteen"],["30","thirty"],["15","fifteen"],["50","fifty"],["40","forty"],["14","fourteen"],["90","ninety"],["19","nineteen"]]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct option",
+      "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        {"q":"40 = [fourty|forty]","a":"forty"},
+        {"q":"12 = [twelve|twelf]","a":"twelve"},
+        {"q":"3rd = [thrid|third]","a":"third"},
+        {"q":"5th = [fiveth|fifth]","a":"fifth"},
+        {"q":"90 = [ninety|ninty]","a":"ninety"},
+        {"q":"7:30 = It's [half past seven|seven and half].","a":"half past seven"},
+        {"q":"[It's|They're] six o'clock.","a":"It's"},
+        {"q":"8:45 = It's quarter to [eight|nine].","a":"nine"},
+        {"q":"9:15 = It's quarter [past|to] nine.","a":"past"},
+        {"q":"Today is [monday|Monday].","a":"Monday"}
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Día o mes?",
+      "title_en": "Day or month?",
+      "icon": "🗂️",
+      "es": "Escribe cada palabra en su caja. ¡Con mayúscula!",
+      "en": "Write each word in the right box, with a capital letter.",
+      "cats": [
+        {"name":"📆 Days","words":["Monday","Friday","Sunday","Tuesday","Saturday","Wednesday"]},
+        {"name":"🗓️ Months","words":["July","March","October","June","December","April"]}
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea el número",
+      "title_en": "Spell the number",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe el número. (¡Ojo con las trampas de ortografía!)",
+      "en": "Unscramble the letters and write the number.",
+      "items": [
+        {"q":"15 · quince","a":"fifteen"},
+        {"q":"40 · cuarenta","a":"forty"},
+        {"q":"12 · doce","a":"twelve"},
+        {"q":"90 · noventa","a":"ninety"},
+        {"q":"8th · octavo","a":"eighth"},
+        {"q":"20 · veinte","a":"twenty"}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe el número",
+      "title_en": "Write the number",
+      "icon": "🔢",
+      "es": "Escribe el número en letras. Recuerda el guion: twenty-one.",
+      "en": "Write the number in words.",
+      "items": [
+        {"q":"11 = ________","a":"eleven"},
+        {"q":"18 = ________","a":"eighteen"},
+        {"q":"23 = ________","a":"twenty-three"},
+        {"q":"37 = ________","a":"thirty-seven"},
+        {"q":"40 = ________","a":"forty"},
+        {"q":"52 = ________","a":"fifty-two"},
+        {"q":"66 = ________","a":"sixty-six"},
+        {"q":"79 = ________","a":"seventy-nine"},
+        {"q":"88 = ________","a":"eighty-eight"},
+        {"q":"100 = ________","a":"a hundred"}
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Los ordinales",
+      "title_en": "Ordinal numbers",
+      "icon": "🥇",
+      "es": "Completa la tabla con la abreviatura (1st, 2nd…) y el ordinal en letras.",
+      "en": "Complete the table.",
+      "head": ["Nº","Abreviatura","En letras · Word"],
+      "rows": [
+        ["1","1st","?first"],
+        ["2","?2nd","?second"],
+        ["3","?3rd","?third"],
+        ["5","5th","?fifth"],
+        ["8","?8th","?eighth"],
+        ["9","9th","?ninth"],
+        ["12","?12th","?twelfth"],
+        ["20","20th","?twentieth"],
+        ["21","?21st","?twenty-first"],
+        ["31","31st","?thirty-first"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "La fecha",
+      "title_en": "The date",
+      "icon": "📅",
+      "es": "Escribe el ordinal en letras. La fecha va como en España: día / mes.",
+      "en": "Write the ordinal number in words.",
+      "items": [
+        {"q":"1/1 → the ________ of January","a":"first"},
+        {"q":"14/2 → the ________ of February","a":"fourteenth"},
+        {"q":"3/3 → the ________ of March","a":"third"},
+        {"q":"23/4 → the ________ of April","a":"twenty-third"},
+        {"q":"5/6 → the ________ of June","a":"fifth"},
+        {"q":"12/10 → the ________ of October","a":"twelfth"},
+        {"q":"31/10 → the ________ of October","a":"thirty-first"},
+        {"q":"25/12 → the ________ of December","a":"twenty-fifth"}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "¿Qué hora es?",
+      "title_en": "What time is it?",
+      "icon": "⏰",
+      "es": "Escribe la hora en inglés: o'clock, past, to, quarter, half.",
+      "en": "Write the time in words.",
+      "items": [
+        {"q":"7:00 → It's ________.","a":"seven o'clock"},
+        {"q":"8:30 → It's ________.","a":"half past eight"},
+        {"q":"4:15 → It's ________.","a":"quarter past four"},
+        {"q":"6:45 → It's ________.","a":"quarter to seven"},
+        {"q":"10:00 → It's ________.","a":"ten o'clock"},
+        {"q":"2:10 → It's ________.","a":"ten past two"},
+        {"q":"9:20 → It's ________.","a":"twenty past nine"},
+        {"q":"11:40 → It's ________.","a":"twenty to twelve"},
+        {"q":"1:05 → It's ________.","a":"five past one"},
+        {"q":"3:55 → It's ________.","a":"five to four"}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe la hora en números",
+      "title_en": "Write the time in numbers",
+      "icon": "🕐",
+      "es": "Escribe la hora como en un reloj digital. Ejemplo: It's half past two. → 2:30",
+      "en": "Write the time in numbers.",
+      "items": [
+        {"q":"It's quarter to three.","a":"2:45"},
+        {"q":"It's half past six.","a":"6:30"},
+        {"q":"It's ten past eight.","a":"8:10"},
+        {"q":"It's quarter past eleven.","a":"11:15"},
+        {"q":"It's twenty to five.","a":"4:40"},
+        {"q":"It's five o'clock.","a":"5:00"},
+        {"q":"It's twenty-five past one.","a":"1:25"},
+        {"q":"It's ten to ten.","a":"9:50"}
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "✔️",
+      "es": "¿Es verdadero (T) o falso (F)? Si es falso, piensa cuál es la respuesta buena.",
+      "en": "True or false?",
+      "items": [
+        {"q":"13 = thirty","a":false,"why":"13 = thirteen · 30 = thirty"},
+        {"q":"7:45 = quarter to eight","a":true},
+        {"q":"Los meses se escriben con mayúscula: May.","a":true},
+        {"q":"9:30 = half past nine","a":true},
+        {"q":"40 = fourty","a":false,"why":"forty (sin u)"},
+        {"q":"2nd = second","a":true},
+        {"q":"6:15 = quarter to six","a":false,"why":"quarter past six"},
+        {"q":"A year has got twelve months.","a":true}
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Mayúscula al principio!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {"q":"past / It's / seven / half","a":"It's half past seven."},
+        {"q":"time / is / what / it / ?","a":"What time is it?"},
+        {"q":"o'clock / it's / three","a":"It's three o'clock."},
+        {"q":"quarter / to / it's / nine","a":"It's quarter to nine."},
+        {"q":"the date / what's / today / ?","a":"What's the date today?"},
+        {"q":"birthday / is / my / in / July","a":"My birthday is in July."},
+        {"q":"the / is / it / first / of / May","a":"It is the first of May."},
+        {"q":"twelve / a year / months / has got","a":"A year has got twelve months."}
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {"q":"Are five o'clock.","a":"It's five o'clock."},
+        {"q":"It's six and a quarter.","a":"It's quarter past six."},
+        {"q":"It's eight and half.","a":"It's half past eight."},
+        {"q":"My birthday is in june.","a":"My birthday is in June."},
+        {"q":"There are fourty children.","a":"There are forty children."},
+        {"q":"Today is the 2 of May.","a":"Today is the 2nd of May."},
+        {"q":"It's quarter to three. (3:15)","a":"It's quarter past three."},
+        {"q":"I've got twenty one stickers.","a":"I've got twenty-one stickers."}
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Recuerda: la hora con It's y las fechas con ordinal.",
+      "en": "Translate into English.",
+      "items": [
+        {"q":"Son las ocho y media.","a":"It's half past eight."},
+        {"q":"Mi cumpleaños es el 3 de marzo.","a":"My birthday is (on) the third of March."},
+        {"q":"Hoy es lunes.","a":"Today is Monday."},
+        {"q":"Tengo cuarenta y cinco cromos.","a":"I've got forty-five stickers."},
+        {"q":"Son las once menos cuarto.","a":"It's quarter to eleven."},
+        {"q":"¿Qué hora es?","a":"What time is it?"},
+        {"q":"Es la una y diez.","a":"It's ten past one."},
+        {"q":"Diciembre es el duodécimo mes.","a":"December is the twelfth month."}
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "Mario's week",
+      "text": [
+        "Hi! I'm Mario. I'm eight and my birthday is on the 9th of April. Every day I get up at quarter past seven. School starts at nine o'clock and finishes at half past four.",
+        "On Wednesdays I've got football at six o'clock. On Saturdays I go to my grandparents' house. My sister Lucía is twelve. Her birthday is on the 30th of November."
+      ],
+      "items": [
+        {"q":"Mario's birthday is in April.","tf":true,"a":true},
+        {"q":"School starts at half past nine.","tf":true,"a":false,"why":"It starts at nine o'clock."},
+        {"q":"Mario has got football on Wednesdays.","tf":true,"a":true},
+        {"q":"How old is Lucía?","a":"She's twelve."},
+        {"q":"When is Lucía's birthday?","a":"On the 30th of November."},
+        {"q":"What time does school finish?","a":"At half past four."},
+        {"q":"What time does Mario get up?","a":"At quarter past seven."}
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca las 8 palabras. Después escribe la hora a la que te levantas usando dos de ellas.",
+      "en": "Find the 8 words. Then write what time you get up.",
+      "words": ["twelve","twenty","forty","ninety","hundred","quarter","half","first"],
+      "clues": ["twelve · doce","twenty · veinte","forty · cuarenta","ninety · noventa","hundred · cien","quarter · cuarto","half · media","first · primero"]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre ti y tu familia con números, fechas y horas.",
+      "en": "Write about you and your family with numbers, dates and times.",
+      "items": [
+        {"q":"Escribe tu fecha de cumpleaños: My birthday is on the…","lines":1,"a":"Ej.: My birthday is on the ninth of April."},
+        {
+          "q": "¿A qué hora te levantas, vas al cole y cenas? I get up at…",
+          "lines": 2,
+          "a": "Ej.: I get up at quarter past seven. I go to school at half past eight. I have dinner at nine o'clock."
+        },
+        {"q":"Escribe en letras la edad de 3 personas de tu familia.","lines":2,"a":"Ej.: My mum is forty-two. My dad is forty-five. My grandad is seventy-one."},
+        {"q":"¿Qué día de la semana te gusta más? ¿Por qué?","lines":1,"a":"Ej.: I like Saturday because I play football."}
+      ]
+    }
+  ],
+  "checklist": [
+    {"es":"Sé contar y escribir los números hasta <b>100</b>.","en":"I can count and write numbers to 100."},
+    {"es":"No confundo <b>-teen</b> y <b>-ty</b>: thirteen / thirty.","en":"I know -teen and -ty."},
+    {"es":"Escribo bien <b>forty, ninety, twelve</b> y <b>eighteen</b>.","en":"I can spell forty, ninety, twelve and eighteen."},
+    {"es":"Sé los ordinales (<b>first, second, third…</b>) y digo la fecha: the 5th of May.","en":"I can use ordinals and say the date."},
+    {"es":"Escribo los días y los meses con <b>mayúscula</b>.","en":"I write days and months with a capital letter."},
+    {"es":"Sé decir la hora: o'clock, half past, quarter past, quarter to.","en":"I can tell the time."}
+  ]
+}

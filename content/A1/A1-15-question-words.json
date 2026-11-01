@@ -1,0 +1,551 @@
+{
+  "id": "A1-15",
+  "level": "A1",
+  "title": "WHAT, WHERE, WHO…",
+  "file_title": "What, where, who",
+  "subtitle": "Question words · palabras para preguntar",
+  "icon": "🕵️",
+  "map": {
+    "center": "Las <b>question words</b> van al <b>principio</b> de la pregunta: What? Where? Who? When?…",
+    "nodes": [
+      {"title":"Qué, quién, cuál","icon":"🤔","rows":[["What?","= ¿Qué? ¿Cuál?"],["Who?","= ¿Quién?"],["Which?","= ¿Cuál? (entre pocos)"]]},
+      {"title":"Dónde y cuándo","icon":"📍","rows":[["Where?","= ¿Dónde?"],["When?","= ¿Cuándo?"],["What time?","= ¿A qué hora?"]]},
+      {"title":"Por qué y cómo","icon":"💭","rows":[["Why?","= ¿Por qué?"],["Because…","= Porque…"],["How?","= ¿Cómo?"]]},
+      {"title":"How + …","icon":"🔢","art":"🎂","rows":[["How old?","= ¿Cuántos años?"],["How many?","= ¿Cuántos? (contar)"],["How much?","= ¿Cuánto? (precio)"]]},
+      {"title":"El orden","icon":"🧱","items":["<b>Wh-</b> + verbo + sujeto…?","Where <b>are</b> you?","What <b>can</b> you see?","What <b>do</b> you like?"]},
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "art": "🕵️",
+        "items": ["Why? → <b>Because</b>…","Solo <b>?</b> al final (sin ¿).","<b>Who</b> suena «ju» · <b>How</b> suena «jau»"]
+      }
+    ],
+    "error": {"title":"Error común","bad":["Where you are?"],"good":["Where are you?"],"note":"Wh- + <b>verbo</b> + sujeto"},
+    "mini": {
+      "es": "Completa con What, How old, Where, Who o When.",
+      "en": "Complete with What, How old, Where, Who or When.",
+      "items": [
+        {"q":"___ is your name? — Mario.","a":"What"},
+        {"q":"_____ are you? — I'm eight.","a":"How old"},
+        {"q":"___ is my bag? — On the chair.","a":"Where"},
+        {"q":"___ is your teacher? — Miss Brown.","a":"Who"},
+        {"q":"___ is your birthday? — In May.","a":"When"}
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Las <b>question words</b> (palabras para preguntar) sirven para pedir <mark>información</mark>: quién, qué, dónde, cuándo… Casi todas empiezan por <b>Wh-</b> (por eso se llaman <i>Wh- questions</i>) y siempre van al <b>principio</b> de la pregunta. ¡Y en inglés solo hay un signo de interrogación, al final!",
+      "en": "<b>Question words</b> ask for <mark>information</mark>: who, what, where, when… They always go at the beginning of the question.",
+      "formula": ["*Wh-* + verbo + sujeto + …?"]
+    },
+    {
+      "t": "rule",
+      "title": "1 · What, Who, Which",
+      "title_en": "What, who, which",
+      "icon": "🤔",
+      "color": "green",
+      "es": "<b>What</b> = qué / cuál (cosas, acciones, nombres). <b>Who</b> = quién (personas). <b>Which</b> = cuál, cuando eliges entre <b>pocas</b> opciones que ves. ¡Ojo! «¿Cuál es tu nombre?» o «¿Cuál es tu color favorito?» se dicen con <b>What</b>.",
+      "en": "<b>What</b> = things and actions. <b>Who</b> = people. <b>Which</b> = choosing between a few options.",
+      "examples": [
+        {"en":"<b>What</b> is your favourite food? — Pizza!","es":"¿Cuál es tu comida favorita? — ¡La pizza!","icon":"🍕"},
+        {"en":"<b>Who</b> is that girl? — She's Anna.","es":"¿Quién es esa chica? — Es Anna.","icon":"👧"},
+        {"en":"<b>Which</b> colour do you want, red or blue?","es":"¿Qué color quieres, rojo o azul?","icon":"🎨"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Where, When, What time",
+      "title_en": "Where, when, what time",
+      "icon": "📍",
+      "color": "blue",
+      "es": "<b>Where</b> pregunta por un <b>lugar</b> (¿dónde?). <b>When</b> pregunta por un <b>momento</b>: un día, un mes, una estación (¿cuándo?). <b>What time</b> pregunta por la <b>hora exacta</b> (¿a qué hora?).",
+      "en": "<b>Where</b> = place. <b>When</b> = time (day, month, season). <b>What time</b> = the exact hour.",
+      "examples": [
+        {"en":"<b>Where</b> do you live? — In Madrid.","es":"¿Dónde vives? — En Madrid.","icon":"🏠"},
+        {"en":"<b>When</b> is your birthday? — In June.","es":"¿Cuándo es tu cumple? — En junio.","icon":"🎂"},
+        {"en":"<b>What time</b> is it? — It's five o'clock.","es":"¿Qué hora es? — Son las cinco.","icon":"⏰"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Why y Because",
+      "title_en": "Why and because",
+      "icon": "💭",
+      "color": "purple",
+      "es": "<b>Why</b> pregunta «¿por qué?». Para contestar usamos <b>because</b> (porque). En español se parecen mucho (por qué / porque), pero en inglés son <mark>dos palabras distintas</mark>: ¡no contestes con <s>Why…</s>!",
+      "en": "<b>Why</b> asks for a reason. Answer with <b>Because…</b>",
+      "examples": [
+        {"en":"<b>Why</b> are you sad? — <b>Because</b> Rocky is ill.","es":"¿Por qué estás triste? — Porque Rocky está malito.","icon":"😢"},
+        {"en":"<b>Why</b> do you like cats? — <b>Because</b> they're soft.","es":"¿Por qué te gustan los gatos? — Porque son suaves.","icon":"🐱"},
+        {"en":"<b>Why</b> is Leo running? — <b>Because</b> he's late!","es":"¿Por qué corre Leo? — ¡Porque llega tarde!","icon":"🏃"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · How y sus amigos",
+      "title_en": "How and friends",
+      "icon": "🔢",
+      "color": "orange",
+      "es": "<b>How</b> = cómo. Con otra palabra detrás forma preguntas nuevas: <b>How old</b> (la edad), <b>How many</b> (cuántos: cosas que se cuentan, en plural) y <b>How much</b> (cuánto: el precio o cosas que no se cuentan, como el agua o el dinero).",
+      "en": "<b>How</b> = in what way. <b>How old</b> = age. <b>How many</b> + plural = number. <b>How much</b> = price or amount.",
+      "examples": [
+        {"en":"<b>How</b> are you? — I'm fine, thanks.","es":"¿Cómo estás? — Bien, gracias.","icon":"🙂"},
+        {"en":"<b>How old</b> is your sister? — She's twelve.","es":"¿Cuántos años tiene tu hermana? — Doce.","icon":"👧"},
+        {"en":"<b>How many</b> pets have you got? — Two.","es":"¿Cuántas mascotas tienes? — Dos.","icon":"🐾"},
+        {"en":"<b>How much</b> is this ice cream? — Two euros.","es":"¿Cuánto cuesta este helado? — Dos euros.","icon":"🍦"}
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "HOW MANY o HOW MUCH",
+      "title_en": "how many or how much?",
+      "color": "teal",
+      "icon": "⚖️",
+      "es": "Si lo puedes <b>contar</b> (1, 2, 3…) → <b>How many</b> + plural. Si preguntas el <b>precio</b> o algo que no se cuenta (agua, dinero) → <b>How much</b>.",
+      "en": "Things you can count → <b>How many</b> + plural. Price, or things you can't count → <b>How much</b>.",
+      "cols": [
+        {
+          "head": "🔢 How many + plural",
+          "color": "green",
+          "items": ["How many <b>books</b> have you got?","How many <b>children</b> are there?","How many <b>sweets</b> do you want?"]
+        },
+        {"head":"💶 How much","color":"orange","items":["How much <b>is</b> it? (precio)","How much <b>water</b> do you drink?","How much <b>money</b> have you got?"]}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · El orden de la pregunta",
+      "title_en": "Word order",
+      "icon": "🧱",
+      "color": "red",
+      "es": "La regla de oro: <b>Wh-</b> + <b>verbo ayudante</b> (is, are, can, do, does…) + <b>sujeto</b> + resto. ¡El verbo va <mark>antes</mark> que el sujeto, igual que en las preguntas de sí o no! Si la frase no tiene is / are / can, usamos <b>do / does</b>.",
+      "en": "Golden rule: <b>Wh-</b> + helper verb + <b>subject</b> + the rest. The verb goes <mark>before</mark> the subject.",
+      "formula": ["*Wh-* + is / are + sujeto…?","*Wh-* + can + sujeto + verbo…?","*Wh-* + do / does + sujeto + verbo…?"],
+      "examples": [
+        {"en":"Where <b>is</b> my pencil?","es":"¿Dónde está mi lápiz?","icon":"✏️"},
+        {"en":"What <b>can</b> you see?","es":"¿Qué ves?","icon":"👀"},
+        {"en":"What <b>does</b> Lucía like?","es":"¿Qué le gusta a Lucía?","icon":"💜"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Todas las question words",
+      "title_en": "All the question words",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": ["Palabra · Word","Español","Pregunta por…","Ejemplo · Example","Respuesta · Answer"],
+      "rows": [
+        ["<b>What</b>","¿Qué? ¿Cuál?","cosas, acciones","What's your name?","Mario."],
+        ["<b>Who</b>","¿Quién?","personas","Who is your teacher?","Miss Brown."],
+        ["<b>Where</b>","¿Dónde?","lugares","Where is Rocky?","In the garden."],
+        ["<b>When</b>","¿Cuándo?","momentos, días, meses","When is your birthday?","In May."],
+        ["<b>What time</b>","¿A qué hora?","la hora","What time is it?","It's four o'clock."],
+        ["<b>Why</b>","¿Por qué?","razones","Why are you happy?","Because it's Friday!"],
+        ["<b>How</b>","¿Cómo?","manera, cómo estás","How are you?","Fine, thanks."],
+        ["<b>How old</b>","¿Cuántos años?","la edad","How old are you?","I'm eight."],
+        ["<b>How many</b>","¿Cuántos/as?","cosas que se cuentan","How many pets have you got?","Two."],
+        ["<b>How much</b>","¿Cuánto?","precio, cosas sin plural","How much is the ice cream?","Two euros."],
+        ["<b>Which</b>","¿Cuál?","elegir entre pocos","Which bag is Lucía's?","The red one."],
+        ["<b>What colour</b>","¿De qué color?","colores","What colour is your bike?","It's blue."]
+      ],
+      "note": "Todas van al <b>principio</b> de la pregunta y se escriben con mayúscula: <b>W</b>hat, <b>W</b>here, <b>H</b>ow…",
+      "note_en": "They all go at the start of the question, with a capital letter."
+    },
+    {
+      "t": "table",
+      "title": "Truco: de sí / no a Wh-",
+      "title_en": "From yes/no to Wh-",
+      "icon": "🪄",
+      "color": "yellow",
+      "head": ["❓ Pregunta sí / no","🔎 Pregunta Wh-"],
+      "rows": [
+        ["<b>Are</b> you happy?","<b>Why are</b> you happy?"],
+        ["<b>Is</b> she at school?","<b>Where is</b> she?"],
+        ["<b>Can</b> you swim?","<b>Where can</b> you swim?"],
+        ["<b>Do</b> you like pizza?","<b>What do</b> you like?"],
+        ["<b>Does</b> he play tennis?","<b>When does</b> he play tennis?"]
+      ],
+      "note": "¡Truco! Coge la pregunta de sí o no y pon la palabra Wh- <b>delante</b>. El resto se queda en su sitio.",
+      "note_en": "Take a yes/no question and put the Wh- word in front."
+    },
+    {
+      "t": "examples",
+      "title": "Preguntas del examen (Movers)",
+      "title_en": "Exam questions",
+      "items": [
+        {"en":"What's your name? — My name's Mario.","es":"¿Cómo te llamas? — Me llamo Mario.","icon":"🙋"},
+        {"en":"How old are you? — I'm eight.","es":"¿Cuántos años tienes? — Ocho.","icon":"🎂"},
+        {"en":"Where do you live? — I live in Madrid.","es":"¿Dónde vives? — Vivo en Madrid.","icon":"🏙️"},
+        {"en":"Who is your best friend? — Leo.","es":"¿Quién es tu mejor amigo? — Leo.","icon":"🤝"},
+        {"en":"What's your favourite colour? — Green.","es":"¿Cuál es tu color favorito? — El verde.","icon":"💚"},
+        {"en":"What time do you get up? — At half past seven.","es":"¿A qué hora te levantas? — A las siete y media.","icon":"⏰"},
+        {"en":"How many brothers and sisters have you got? — One sister.","es":"¿Cuántos hermanos tienes? — Una hermana.","icon":"👧"},
+        {"en":"What do you do after school? — I play football.","es":"¿Qué haces después del cole? — Juego al fútbol.","icon":"⚽"},
+        {"en":"Which is your bag? — The blue one.","es":"¿Cuál es tu mochila? — La azul.","icon":"🎒"},
+        {"en":"Why do you like English? — Because it's fun!","es":"¿Por qué te gusta el inglés? — ¡Porque es divertido!","icon":"😄"},
+        {"en":"When do you have English? — On Mondays and Fridays.","es":"¿Cuándo tienes inglés? — Los lunes y los viernes.","icon":"📅"},
+        {"en":"How do you go to school? — By bus.","es":"¿Cómo vas al cole? — En autobús.","icon":"🚌"}
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "saltarin",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {"bad":"Where you are?","good":"Where <b>are you</b>?","why":"El verbo va antes del sujeto.","why_en":"Verb before subject."},
+        {"bad":"What you like?","good":"What <b>do</b> you like?","why":"¡Falta do!","why_en":"Don't forget do."},
+        {"bad":"How do you call?","good":"<b>What's your name?</b>","why":"«¿Cómo te llamas?» = What's your name?","why_en":"Ask: What's your name?"},
+        {"bad":"How many years have you?","good":"How <b>old are</b> you?","why":"La edad: How old + be.","why_en":"Age: How old + be."},
+        {"bad":"Why are you sad? — Why Rocky is ill.","good":"<b>Because</b> Rocky is ill.","why":"Se contesta con because.","why_en":"Answer with because."},
+        {"bad":"How much brothers have you got?","good":"How <b>many</b> brothers have you got?","why":"Se pueden contar → many.","why_en":"Countable → many."},
+        {"bad":"Where does she lives?","good":"Where does she <b>live</b>?","why":"Después de does, verbo sin -s.","why_en":"No -s after does."},
+        {"bad":"What time is?","good":"What time <b>is it</b>?","why":"¡Falta el sujeto it!","why_en":"Don't forget it."}
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo hago una pregunta Wh-?",
+      "title_en": "How do I make a Wh- question?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Piensa qué quieres saber: ¿una persona (<b>Who</b>)? ¿un sitio (<b>Where</b>)? ¿un momento (<b>When</b>)? ¿un motivo (<b>Why</b>)?",
+          "en": "What do you want to know? A person, a place, a time, a reason?"
+        },
+        {"es":"Escribe la palabra <b>Wh-</b> al principio, con mayúscula.","en":"Write the Wh- word first, with a capital letter."},
+        {"es":"Pon el <b>verbo ayudante</b>: is / are, can o do / does.","en":"Add the helper verb: is / are, can or do / does."},
+        {"es":"Pon el <b>sujeto</b> y el resto de la frase.","en":"Add the subject and the rest."},
+        {"es":"Termina con <b>?</b> (y sin ¿ al principio).","en":"Finish with ? (no ¿ at the start)."}
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Una amiga nueva",
+      "title_en": "A new friend",
+      "lines": [
+        {"who":"Mario","en":"Hi! What's your name?","es":"¡Hola! ¿Cómo te llamas?"},
+        {"who":"Anna","en":"My name's Anna. I'm new here.","es":"Me llamo Anna. Soy nueva."},
+        {"who":"Mario","en":"How old are you, Anna?","es":"¿Cuántos años tienes, Anna?"},
+        {"who":"Anna","en":"I'm eight. Where do you live?","es":"Tengo ocho. ¿Dónde vives?"},
+        {"who":"Mario","en":"Near the park. Who is your teacher?","es":"Cerca del parque. ¿Quién es tu profe?"},
+        {"who":"Anna","en":"Miss Brown. Why are you smiling?","es":"La señorita Brown. ¿Por qué sonríes?"},
+        {"who":"Mario","en":"Because she's my teacher too! We're in the same class!","es":"¡Porque también es mi profe! ¡Estamos en la misma clase!"}
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Las 5 W del periodista",
+      "title_en": "The journalist's 5 Ws",
+      "es": "Con cinco preguntas puedes contar cualquier historia, ¡como un periodista! 📰 <b>Who?</b> (¿quién?) · <b>What?</b> (¿qué?) · <b>Where?</b> (¿dónde?) · <b>When?</b> (¿cuándo?) · <b>Why?</b> (¿por qué?). Y de regalo: <b>How?</b> (¿cómo?).",
+      "en": "Journalists ask the 5 Ws: Who? What? Where? When? Why? (and How?)"
+    },
+    {
+      "t": "tip",
+      "title": "¿Who o How?",
+      "title_en": "Who or how?",
+      "color": "teal",
+      "es": "¡No las confundas al escuchar! <b>Who</b> se dice /huː/ (como «ju»): la w no suena. <b>How</b> se dice /haʊ/ (como «jau»). Y <b>What</b> se dice /wɒt/ (como «uot»).",
+      "en": "<b>Who</b> /huː/ · <b>How</b> /haʊ/ · <b>What</b> /wɒt/"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "Une inglés y español",
+      "title_en": "Match English and Spanish",
+      "icon": "🔗",
+      "es": "Une cada palabra con su traducción.",
+      "en": "Match each word with its translation.",
+      "pairs": [
+        ["What?","¿Qué?"],
+        ["Where?","¿Dónde?"],
+        ["Who?","¿Quién?"],
+        ["When?","¿Cuándo?"],
+        ["Why?","¿Por qué?"],
+        ["How?","¿Cómo?"],
+        ["How many?","¿Cuántos?"],
+        ["Which?","¿Cuál? (entre pocos)"]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿A qué pregunta contesta?",
+      "title_en": "Sort the answers",
+      "icon": "🗂️",
+      "es": "Cada respuesta contesta a una pregunta. Escríbela en su caja.",
+      "en": "Which question does each answer go with?",
+      "cats": [
+        {"name":"👤 Who?","words":["Leo","my mum","Miss Brown"]},
+        {"name":"📍 Where?","words":["in the park","at home","under the bed"]},
+        {"name":"📅 When?","words":["on Monday","in summer","tomorrow"]},
+        {"name":"🔢 How many?","words":["three","ten","twenty-five"]}
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct option",
+      "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta. Mira la respuesta para ayudarte.",
+      "en": "Circle the correct option.",
+      "items": [
+        {"q":"[What|Where] is your name?","a":"What"},
+        {"q":"[Who|Where] is the cat? — Under the table.","a":"Where"},
+        {"q":"[When|Who] is your birthday? — In March.","a":"When"},
+        {"q":"[Who|What] is your teacher? — Miss Brown.","a":"Who"},
+        {"q":"[How old|How many] are you? — I'm nine.","a":"How old"},
+        {"q":"[How many|How much] is this book? — Five euros.","a":"How much"},
+        {"q":"[How many|How much] pencils have you got?","a":"How many"},
+        {"q":"Where [you are|are you]?","a":"are you"},
+        {"q":"What [do you|you] like?","a":"do you"},
+        {"q":"Why are you happy? — [Because|Why] it's my birthday!","a":"Because"}
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une pregunta y respuesta",
+      "title_en": "Match questions and answers",
+      "icon": "🔗",
+      "es": "Une cada pregunta con su respuesta.",
+      "en": "Match each question with its answer.",
+      "pairs": [
+        ["What's your name?","Mario."],
+        ["How old are you?","I'm eight."],
+        ["Where do you live?","In Madrid."],
+        ["Who is your best friend?","Leo."],
+        ["When is your birthday?","In March."],
+        ["What time is it?","It's nine o'clock."],
+        ["Why are you happy?","Because it's Saturday!"],
+        ["How many pets have you got?","Two."]
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Tiene sentido?",
+      "title_en": "Does it make sense?",
+      "icon": "✔️",
+      "es": "¿La respuesta va bien con la pregunta? Marca T (sí) o F (no).",
+      "en": "Does the answer match the question? True or false?",
+      "items": [
+        {"q":"Where is Rocky? — He's five.","a":false,"why":"Where → un lugar: He's in the garden."},
+        {"q":"How old is Lucía? — She's twelve.","a":true},
+        {"q":"Who is your best friend? — In the park.","a":false,"why":"Who → una persona: Leo."},
+        {"q":"What time is it? — It's three o'clock.","a":true},
+        {"q":"When is your birthday? — In July.","a":true},
+        {"q":"Why are you tired? — At seven o'clock.","a":false,"why":"Why → Because…: Because it's late."},
+        {"q":"How many cats have you got? — Two.","a":true},
+        {"q":"What colour is your bike? — It's big.","a":false,"why":"What colour → un color: It's red."}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Elige la palabra",
+      "title_en": "Choose the question word",
+      "icon": "🕵️",
+      "es": "Completa con la palabra del recuadro. Lee la respuesta antes de elegir.",
+      "en": "Complete with a word from the box.",
+      "bank": ["What","Where","Who","When","Why","How","How old","How many","What time","Which"],
+      "items": [
+        {"q":"____ is your favourite animal? — The dog.","a":"What"},
+        {"q":"____ do you live? — In Valencia.","a":"Where"},
+        {"q":"____ is that boy? — He's my cousin.","a":"Who"},
+        {"q":"____ is your birthday? — In October.","a":"When"},
+        {"q":"____ are you laughing? — Because the film is funny.","a":"Why"},
+        {"q":"____ are you? — I'm fine, thanks.","a":"How"},
+        {"q":"____ is your grandad? — He's seventy.","a":"How old"},
+        {"q":"____ legs has a spider got? — Eight.","a":"How many"},
+        {"q":"____ is it? — It's six o'clock.","a":"What time"},
+        {"q":"____ T-shirt do you want, the red one or the blue one?","a":"Which"}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "is, are, do o does",
+      "title_en": "is, are, do or does",
+      "icon": "🧱",
+      "es": "Completa con is, are, do o does. Piensa: ¿la frase tiene is / are o necesita do / does?",
+      "en": "Complete with is, are, do or does.",
+      "bank": ["is","are","do","does"],
+      "items": [
+        {"q":"Where ___ you live?","a":"do"},
+        {"q":"What ___ your name?","a":"is"},
+        {"q":"Where ___ my shoes?","a":"are"},
+        {"q":"What ___ Lucía like?","a":"does"},
+        {"q":"Who ___ that boy?","a":"is"},
+        {"q":"When ___ you play football?","a":"do"},
+        {"q":"How old ___ your grandparents?","a":"are"},
+        {"q":"What time ___ Leo get up?","a":"does"}
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Entrevista a Leo",
+      "title_en": "Interview Leo",
+      "icon": "🎤",
+      "es": "Lee la ficha de Leo y completa la entrevista. 🗂️ <b>Leo</b> · 9 años · vive en Valencia · cumpleaños: julio · mejor amiga: Sara · 2 hermanas · deporte favorito: baloncesto",
+      "en": "Read Leo's card and complete the interview.",
+      "head": ["❓ Pregunta · Question","💬 Leo"],
+      "rows": [
+        ["What's your name?","?My name's Leo."],
+        ["?How old are you?","I'm nine."],
+        ["Where do you live?","?I live in Valencia."],
+        ["?When is your birthday?","It's in July."],
+        ["Who is your best friend?","?My best friend is Sara."],
+        ["?How many sisters have you got?","I've got two sisters."],
+        ["What's your favourite sport?","?My favourite sport is basketball."],
+        ["?Why do you like basketball?","Because it's fun!"]
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la pregunta",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la pregunta. ¡Mayúscula al principio y ? al final!",
+      "en": "Put the words in order and write the question.",
+      "items": [
+        {"q":"is / what / name / your / ?","a":"What is your name?"},
+        {"q":"you / where / live / do / ?","a":"Where do you live?"},
+        {"q":"old / how / you / are / ?","a":"How old are you?"},
+        {"q":"your / is / when / birthday / ?","a":"When is your birthday?"},
+        {"q":"is / who / teacher / your / ?","a":"Who is your teacher?"},
+        {"q":"pets / how many / you / have / got / ?","a":"How many pets have you got?"},
+        {"q":"are / why / sad / you / ?","a":"Why are you sad?"},
+        {"q":"time / what / is / it / ?","a":"What time is it?"}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pregunta por lo subrayado",
+      "title_en": "Ask about the underlined words",
+      "icon": "🔎",
+      "es": "Escribe la pregunta para la parte <u>subrayada</u>. Ejemplo: My name is <u>Mario</u>. → What is your name?",
+      "en": "Write a question about the underlined words.",
+      "items": [
+        {"q":"I live <u>in Madrid</u>.","a":"Where do you live?"},
+        {"q":"Lucía is <u>twelve</u>.","a":"How old is Lucía?"},
+        {"q":"My birthday is <u>in May</u>.","a":"When is your birthday?"},
+        {"q":"<u>Sara</u> is my best friend.","a":"Who is your best friend?"},
+        {"q":"I've got <u>three</u> cousins.","a":"How many cousins have you got?"},
+        {"q":"Rocky is <u>under the table</u>.","a":"Where is Rocky?"},
+        {"q":"It's <u>ten o'clock</u>.","a":"What time is it?"},
+        {"q":"I'm happy <u>because it's Friday</u>.","a":"Why are you happy?"},
+        {"q":"The ice cream is <u>two euros</u>.","a":"How much is the ice cream?"},
+        {"q":"My favourite colour is <u>green</u>.","a":"What is your favourite colour?"}
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada pregunta tiene UN error. Escríbela bien.",
+      "en": "Each question has ONE mistake. Write it correctly.",
+      "items": [
+        {"q":"Where you are?","a":"Where are you?"},
+        {"q":"What you want?","a":"What do you want?"},
+        {"q":"How many years have you?","a":"How old are you?"},
+        {"q":"Where does she lives?","a":"Where does she live?"},
+        {"q":"How much brothers have you got?","a":"How many brothers have you got?"},
+        {"q":"What time is?","a":"What time is it?"},
+        {"q":"Who is your name?","a":"What is your name?"},
+        {"q":"Why are you sad? — Why I'm tired.","a":"Because I'm tired."}
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿qué palabra Wh-? ¿qué verbo va antes del sujeto?",
+      "en": "Translate into English.",
+      "items": [
+        {"q":"¿Cómo te llamas?","a":"What's your name?"},
+        {"q":"¿Cuántos años tienes?","a":"How old are you?"},
+        {"q":"¿Dónde está mi mochila?","a":"Where is my schoolbag?"},
+        {"q":"¿Quién es tu profe?","a":"Who is your teacher?"},
+        {"q":"¿Cuándo es tu cumpleaños?","a":"When is your birthday?"},
+        {"q":"¿Por qué estás contento?","a":"Why are you happy?"},
+        {"q":"¿Cuántos lápices tienes?","a":"How many pencils have you got?"},
+        {"q":"¿Qué hora es?","a":"What time is it?"}
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto y contesta las preguntas con frases cortas.",
+      "en": "Read the text and answer the questions.",
+      "text_title": "Sara's new pet",
+      "text": [
+        "Hi! I'm Sara and I've got a new pet. It's a rabbit! Her name is Snowy because she's white like snow. She's very small and she's got long ears.",
+        "Snowy lives in a big box in the garden. She eats carrots and apples. My brother Pablo loves her too. Every day after school, we play with Snowy in the garden. Snowy's birthday is in April. She's one year old!"
+      ],
+      "items": [
+        {"q":"What is Sara's new pet?","a":"It's a rabbit."},
+        {"q":"Why is her name Snowy?","a":"Because she's white like snow."},
+        {"q":"Where does Snowy live?","a":"In a big box in the garden."},
+        {"q":"Who loves Snowy too?","a":"Sara's brother, Pablo."},
+        {"q":"When is Snowy's birthday?","a":"In April."},
+        {"q":"How old is Snowy?","a":"She's one year old."}
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea la palabra",
+      "title_en": "Spell the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra. (¡Ojo con el Monstruo Ae: la h y la w no siempre suenan!)",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        {"q":"📍 ¿Dónde?","a":"where"},
+        {"q":"👤 ¿Quién?","a":"who"},
+        {"q":"🤔 ¿Por qué?","a":"why"},
+        {"q":"💬 porque","a":"because"},
+        {"q":"👉 ¿Cuál?","a":"which"},
+        {"q":"📅 ¿Cuándo?","a":"when"}
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca las 8 palabras. Después escribe tres preguntas para tu profe usando tres de ellas.",
+      "en": "Find the 8 words. Then write three questions for your teacher.",
+      "words": ["what","where","who","when","why","how","which","because"],
+      "clues": ["what · qué","where · dónde","who · quién","when · cuándo","why · por qué","how · cómo","which · cuál","because · porque"]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Prepara una entrevista para un compañero nuevo.",
+      "en": "Prepare an interview for a new classmate.",
+      "items": [
+        {
+          "q": "Escribe 5 preguntas para un amigo nuevo (What, Where, Who, When, How old…).",
+          "lines": 3,
+          "a": "Ej.: What's your name? How old are you? Where do you live? Who is your best friend? When is your birthday?"
+        },
+        {"q":"Ahora contesta tú a esas preguntas.","lines":3,"a":"Ej.: My name's Mario. I'm eight. I live in Madrid. My best friend is Leo. My birthday is in May."},
+        {"q":"Escribe una pregunta con <b>Why</b> y contéstala con <b>Because</b>.","lines":2,"a":"Ej.: Why do you like dogs? Because they're friendly."},
+        {"q":"Escribe una pregunta con <b>How many</b> y otra con <b>How much</b>.","lines":2,"a":"Ej.: How many pets have you got? How much is this pen?"}
+      ]
+    }
+  ],
+  "checklist": [
+    {"es":"Sé qué significan <b>What, Who, Where, When, Why, How</b> y <b>Which</b>.","en":"I know the main question words."},
+    {"es":"Sé usar <b>How old, How many, How much</b> y <b>What time</b>.","en":"I can use How old, How many, How much and What time."},
+    {"es":"Pongo la palabra Wh- al <b>principio</b> y el verbo <b>antes</b> del sujeto.","en":"I put the Wh- word first and the verb before the subject."},
+    {"es":"Contesto a <b>Why?</b> con <b>Because…</b>","en":"I answer Why? with Because…"},
+    {"es":"Sé preguntar por la parte subrayada de una frase.","en":"I can ask about the underlined words."},
+    {"es":"Nunca escribo <s>Where you are?</s> ni <s>How do you call?</s>","en":"I never write Where you are? or How do you call?"}
+  ]
+}

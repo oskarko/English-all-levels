@@ -1,0 +1,1372 @@
+{
+  "id": "B1-03",
+  "level": "B1",
+  "title": "FOR <em>y</em> SINCE",
+  "file_title": "For y since",
+  "subtitle": "For and since · How long…? · desde / desde hace",
+  "icon": "⏱️",
+  "map": {
+    "center": "Con el <b>present perfect</b> + <b>for / since</b> hablamos de algo que <b>empezó en el pasado y sigue ahora</b>.",
+    "nodes": [
+      {
+        "title": "FOR = desde hace",
+        "icon": "⏳",
+        "items": [
+          "+ un <b>periodo</b> de tiempo",
+          "<b>for</b> two years · <b>for</b> a week · <b>for</b> ages",
+          "I've lived here <b>for</b> 3 years. <i>(desde hace 3 años)</i>"
+        ]
+      },
+      {
+        "title": "SINCE = desde",
+        "icon": "📅",
+        "art": "📍",
+        "items": [
+          "+ el <b>punto de inicio</b>",
+          "<b>since</b> 2020 · <b>since</b> Monday · <b>since</b> I was ten",
+          "I've known her <b>since</b> May."
+        ]
+      },
+      {
+        "title": "HOW LONG…?",
+        "icon": "❓",
+        "items": [
+          "= ¿Cuánto tiempo hace que…?",
+          "<b>How long have</b> you <b>lived</b> here?",
+          "— <b>For</b> six months. / <b>Since</b> May."
+        ]
+      },
+      {
+        "title": "¡No uses el presente!",
+        "icon": "⏰",
+        "items": [
+          "Español: «<i>Vivo aquí desde 2020</i>».",
+          "Inglés: I<b>'ve lived</b> here since 2020.",
+          "Situación que <b>sigue</b> → present perfect."
+        ]
+      },
+      {
+        "title": "Verbos típicos",
+        "icon": "🔑",
+        "chips": [
+          "live",
+          "know",
+          "work",
+          "be",
+          "have",
+          "want"
+        ],
+        "after": "Negativa: I <b>haven't seen</b> him <b>for</b> months. <i>(Hace meses que no lo veo.)</i>"
+      },
+      {
+        "title": "Español → inglés",
+        "icon": "🔁",
+        "art": "💬",
+        "rows": [
+          [
+            "desde hace + periodo",
+            "for"
+          ],
+          [
+            "desde + momento",
+            "since"
+          ],
+          [
+            "hace + periodo (pasado)",
+            "ago"
+          ]
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "I live here since 2020."
+      ],
+      "good": [
+        "I've lived here since 2020."
+      ],
+      "note": "situación que sigue → <b>present perfect</b>"
+    },
+    "mini": {
+      "es": "Completa con for, since o How.",
+      "en": "Complete with for, since or How.",
+      "items": [
+        {
+          "q": "I've had this phone ___ two years.",
+          "a": "for"
+        },
+        {
+          "q": "She's worked here ___ March.",
+          "a": "since"
+        },
+        {
+          "q": "We've known each other ___ ages.",
+          "a": "for"
+        },
+        {
+          "q": "He's been ill ___ Monday.",
+          "a": "since"
+        },
+        {
+          "q": "___ long have you lived here?",
+          "a": "How"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Para hablar de una situación que <b>empezó en el pasado y continúa ahora</b>, el inglés usa el <b>present perfect + for / since</b>. Aquí está la gran trampa: el español usa el <mark>presente</mark> («<i>Vivo aquí desde hace tres años</i>»), pero el inglés necesita el <mark>present perfect</mark>: <b>I've lived here for three years</b>. Piensa en una línea que sale del pasado y llega hasta hoy.",
+      "en": "For a situation that started in the past and <b>continues now</b>, English uses the <b>present perfect + for / since</b>, not the present simple.",
+      "formula": [
+        "Sujeto + *have / has* + participio + … + *for* + periodo",
+        "Sujeto + *have / has* + participio + … + *since* + inicio"
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · FOR + periodo",
+      "title_en": "for + a period of time",
+      "icon": "⏳",
+      "color": "green",
+      "es": "<b>For</b> va con un <b>periodo</b>: una cantidad de tiempo que puedes <b>contar</b> (diez minutos, dos días, tres años) o expresiones como <i>for ages</i> (desde hace siglos), <i>for a long time</i>, <i>for a while</i>. En español equivale a «<b>desde hace</b>», «<b>llevar</b> + tiempo» o «<b>hace</b> … que».",
+      "en": "<b>for</b> + a period of time you can count: for ten minutes, for three years, for ages.",
+      "formula": [
+        "have / has + participio + *for* + two hours / a week / ages"
+      ],
+      "examples": [
+        {
+          "en": "I've lived in Seville <b>for</b> three years.",
+          "es": "Vivo en Sevilla desde hace tres años.",
+          "icon": "🏙️"
+        },
+        {
+          "en": "We've been friends <b>for</b> ages.",
+          "es": "Somos amigos desde hace siglos.",
+          "icon": "🤝"
+        },
+        {
+          "en": "She's worked from home <b>for</b> six months.",
+          "es": "Lleva seis meses teletrabajando.",
+          "icon": "💻"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · SINCE + punto de inicio",
+      "title_en": "since + a starting point",
+      "icon": "📅",
+      "color": "blue",
+      "es": "<b>Since</b> va con el <b>momento en que empezó</b> la situación: una hora (<i>since 9 a.m.</i>), un día (<i>since Monday</i>), una fecha (<i>since 2020</i>), un evento (<i>since Christmas</i>) o una frase en <b>past simple</b> (<i>since I was a child</i>, <i>since we met</i>). En español: «<b>desde</b>» o «<b>desde que</b>».",
+      "en": "<b>since</b> + the moment the situation started: since Monday, since 2020, since I was a child.",
+      "formula": [
+        "have / has + participio + *since* + Monday / 2020 / I was ten"
+      ],
+      "examples": [
+        {
+          "en": "I've had this phone <b>since</b> Christmas.",
+          "es": "Tengo este móvil desde Navidad.",
+          "icon": "📱"
+        },
+        {
+          "en": "He's been a vegetarian <b>since</b> 2021.",
+          "es": "Es vegetariano desde 2021.",
+          "icon": "🥦"
+        },
+        {
+          "en": "They've known each other <b>since</b> they were kids.",
+          "es": "Se conocen desde que eran niños.",
+          "icon": "👫"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Preguntas: HOW LONG…?",
+      "title_en": "Questions: How long…?",
+      "icon": "❓",
+      "color": "orange",
+      "es": "Para preguntar por la duración usamos <b>How long + have / has + sujeto + participio…?</b> = «¿Cuánto tiempo hace que…?», «¿Desde cuándo…?». Se responde con <b>for</b> o <b>since</b> (o <i>all my life</i>, «toda la vida»). ¡No traduzcas «¿Desde cuándo…?» como <s>Since when are you…?</s>!",
+      "en": "<b>How long + have / has + subject + participle?</b> Answer with <b>for</b> or <b>since</b>.",
+      "formula": [
+        "*How long* + have / has + sujeto + participio + …?"
+      ],
+      "examples": [
+        {
+          "en": "<b>How long have</b> you <b>had</b> your car? — <b>For</b> two years.",
+          "es": "¿Cuánto tiempo hace que tienes el coche? — Dos años.",
+          "icon": "🚗"
+        },
+        {
+          "en": "<b>How long has</b> she <b>been</b> your boss? — <b>Since</b> May.",
+          "es": "¿Desde cuándo es tu jefa? — Desde mayo.",
+          "icon": "👩‍💼"
+        },
+        {
+          "en": "<b>How long have</b> they <b>been</b> married? — <b>For</b> thirty years.",
+          "es": "¿Cuánto tiempo llevan casados? — Treinta años.",
+          "icon": "💍"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · ¿Por qué no el presente?",
+      "title_en": "Why not the present simple?",
+      "icon": "⏰",
+      "color": "red",
+      "es": "<b>I live here</b> solo dice dónde vives <b>ahora</b>. Si añades una duración (for / since) unes pasado y presente: eso es trabajo del <b>present perfect</b>. También en negativa: «<i>Hace meses que no lo veo</i>» = <b>I haven't seen him for months</b>.",
+      "en": "Duration up to now → <b>present perfect</b>, never the present simple. Negative: I haven't seen him for months.",
+      "formula": [
+        "Sujeto + *have / has (not)* + participio + *for / since*"
+      ],
+      "examples": [
+        {
+          "en": "I<b>'ve known</b> him for years. <i>(not: I know him for years)</i>",
+          "es": "Lo conozco desde hace años.",
+          "icon": "🙋"
+        },
+        {
+          "en": "I <b>haven't seen</b> Laura since the summer.",
+          "es": "No veo a Laura desde el verano.",
+          "icon": "☀️"
+        },
+        {
+          "en": "We <b>haven't had</b> a holiday for two years.",
+          "es": "Hace dos años que no tenemos vacaciones.",
+          "icon": "🏖️"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "FOR, SINCE o AGO",
+      "title_en": "for, since or ago?",
+      "color": "blue",
+      "icon": "⚖️",
+      "es": "Las tres hablan de tiempo, pero no son intercambiables. <b>for</b> mide la <b>duración</b>, <b>since</b> marca el <b>inicio</b> y <b>ago</b> dice <b>cuánto tiempo hace</b> que pasó algo terminado: va con <b>past simple</b> y detrás del periodo.",
+      "en": "<b>for</b> = duration, <b>since</b> = starting point, <b>ago</b> = how long before now (past simple).",
+      "cols": [
+        {
+          "head": "⏳ for · desde hace",
+          "color": "green",
+          "items": [
+            "I've lived here <b>for</b> 2 years.",
+            "+ present perfect",
+            "<i>duración</i>"
+          ]
+        },
+        {
+          "head": "📍 since · desde",
+          "color": "purple",
+          "items": [
+            "I've lived here <b>since</b> 2024.",
+            "+ present perfect",
+            "<i>inicio</i>"
+          ]
+        },
+        {
+          "head": "⏪ ago · hace",
+          "color": "orange",
+          "items": [
+            "I moved here 2 years <b>ago</b>.",
+            "+ past simple",
+            "<i>momento pasado</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿Sigue o terminó?",
+      "title_en": "Still true or finished?",
+      "color": "teal",
+      "icon": "🔚",
+      "es": "<b>for</b> también puede ir con el <b>past simple</b>, pero el significado cambia. Present perfect = la situación <b>continúa</b>. Past simple = la situación <b>ya terminó</b>.",
+      "en": "Present perfect + for = it continues. Past simple + for = it's finished.",
+      "cols": [
+        {
+          "head": "▶️ Sigue · present perfect",
+          "color": "green",
+          "items": [
+            "I<b>'ve worked</b> here for 5 years. <i>(Sigo aquí.)</i>",
+            "She<b>'s lived</b> in Rome for a year. <i>(Vive allí.)</i>"
+          ]
+        },
+        {
+          "head": "⏹️ Terminó · past simple",
+          "color": "red",
+          "items": [
+            "I <b>worked</b> there for 5 years. <i>(Ya no.)</i>",
+            "She <b>lived</b> in Rome for a year. <i>(Ya no vive allí.)</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Cuatro formas en español, una en inglés",
+      "title_en": "Four Spanish forms, one English form",
+      "icon": "🔁",
+      "color": "teal",
+      "head": [
+        "Español",
+        "Inglés"
+      ],
+      "rows": [
+        [
+          "Vivo aquí <b>desde hace</b> 3 años.",
+          "I've lived here <b>for</b> 3 years."
+        ],
+        [
+          "<b>Hace</b> 3 años <b>que</b> vivo aquí.",
+          "I've lived here <b>for</b> 3 years."
+        ],
+        [
+          "<b>Llevo</b> 3 años viviendo aquí.",
+          "I've lived here <b>for</b> 3 years."
+        ],
+        [
+          "Vivo aquí <b>desde</b> 2022.",
+          "I've lived here <b>since</b> 2022."
+        ],
+        [
+          "¿<b>Desde cuándo</b> vives aquí?",
+          "<b>How long</b> have you lived here?"
+        ],
+        [
+          "<b>Hace</b> meses <b>que no</b> la veo.",
+          "I <b>haven't seen</b> her <b>for</b> months."
+        ],
+        [
+          "¡Ojo! Me mudé aquí <b>hace</b> 3 años.",
+          "I moved here 3 years <b>ago</b>. <i>(past simple)</i>"
+        ]
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "My sister has been in Australia since September.",
+          "es": "Mi hermana está en Australia desde septiembre.",
+          "icon": "🦘"
+        },
+        {
+          "en": "I've followed this YouTuber for five years.",
+          "es": "Sigo a este youtuber desde hace cinco años.",
+          "icon": "📹"
+        },
+        {
+          "en": "How long have you had your braces? — Since March.",
+          "es": "¿Desde cuándo llevas aparato? — Desde marzo.",
+          "icon": "😁"
+        },
+        {
+          "en": "Our team hasn't won a match for two months.",
+          "es": "Nuestro equipo no gana un partido desde hace dos meses.",
+          "icon": "⚽"
+        },
+        {
+          "en": "He's been my flatmate since we started university.",
+          "es": "Es mi compañero de piso desde que empezamos la uni.",
+          "icon": "🏢"
+        },
+        {
+          "en": "I haven't used Facebook for ages.",
+          "es": "Hace siglos que no uso Facebook.",
+          "icon": "📱"
+        },
+        {
+          "en": "They've owned the restaurant since 2010.",
+          "es": "Tienen el restaurante desde 2010.",
+          "icon": "🍽️"
+        },
+        {
+          "en": "She's wanted to be a pilot since she was six.",
+          "es": "Quiere ser piloto desde los seis años.",
+          "icon": "✈️"
+        },
+        {
+          "en": "How long has your dad been retired?",
+          "es": "¿Cuánto tiempo lleva jubilado tu padre?",
+          "icon": "👴"
+        },
+        {
+          "en": "I've been awake since 5 a.m. — I'm exhausted!",
+          "es": "Estoy despierto desde las 5. ¡Estoy agotado!",
+          "icon": "😴"
+        },
+        {
+          "en": "We've lived in this neighbourhood for a long time.",
+          "es": "Vivimos en este barrio desde hace mucho.",
+          "icon": "🏘️"
+        },
+        {
+          "en": "I lived in Paris for a year, but now I live in Madrid.",
+          "es": "Viví un año en París, pero ahora vivo en Madrid.",
+          "icon": "🗼"
+        },
+        {
+          "en": "I started this job three months ago, so I've worked here for three months.",
+          "es": "Empecé en este trabajo hace tres meses, así que llevo tres meses aquí.",
+          "icon": "💼"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "FOR o SINCE: la lista",
+      "title_en": "for or since: the list",
+      "icon": "📋",
+      "color": "purple",
+      "wide": true,
+      "head": [
+        "⏳ FOR + periodo · period",
+        "Español",
+        "📍 SINCE + inicio · starting point",
+        "Español"
+      ],
+      "rows": [
+        [
+          "for ten minutes",
+          "desde hace diez minutos",
+          "since ten o'clock",
+          "desde las diez"
+        ],
+        [
+          "for two days",
+          "desde hace dos días",
+          "since Monday",
+          "desde el lunes"
+        ],
+        [
+          "for a week",
+          "desde hace una semana",
+          "since last week",
+          "desde la semana pasada"
+        ],
+        [
+          "for three months",
+          "desde hace tres meses",
+          "since January",
+          "desde enero"
+        ],
+        [
+          "for a year",
+          "desde hace un año",
+          "since 2025",
+          "desde 2025"
+        ],
+        [
+          "for ages",
+          "desde hace siglos",
+          "since I was a child",
+          "desde que era niño"
+        ]
+      ],
+      "note": "<b>for</b> = cuánto dura (lo puedes <b>contar</b>). <b>since</b> = cuándo empezó (lo puedes <b>señalar</b> en el calendario).",
+      "note_en": "<b>for</b> = how long (you can count it). <b>since</b> = when it started (you can point to it)."
+    },
+    {
+      "t": "vocab",
+      "title": "Expresiones de tiempo",
+      "title_en": "Time expressions",
+      "icon": "🕰️",
+      "color": "pink",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "for ages",
+          "es": "desde hace siglos",
+          "icon": "⏳"
+        },
+        {
+          "en": "for a while",
+          "es": "desde hace un tiempo",
+          "icon": "⌛"
+        },
+        {
+          "en": "for a long time",
+          "es": "desde hace mucho",
+          "icon": "🕰️"
+        },
+        {
+          "en": "for the last two weeks",
+          "es": "las últimas dos semanas",
+          "icon": "📆"
+        },
+        {
+          "en": "all my life",
+          "es": "toda mi vida",
+          "icon": "🎂"
+        },
+        {
+          "en": "since then",
+          "es": "desde entonces",
+          "icon": "➡️"
+        },
+        {
+          "en": "since last summer",
+          "es": "desde el verano pasado",
+          "icon": "☀️"
+        },
+        {
+          "en": "since I was a kid",
+          "es": "desde que era pequeño",
+          "icon": "🧒"
+        },
+        {
+          "en": "since we met",
+          "es": "desde que nos conocimos",
+          "icon": "🤝"
+        },
+        {
+          "en": "since 9 a.m.",
+          "es": "desde las 9 de la mañana",
+          "icon": "🕘"
+        },
+        {
+          "en": "since the beginning",
+          "es": "desde el principio",
+          "icon": "🏁"
+        },
+        {
+          "en": "since Christmas",
+          "es": "desde Navidad",
+          "icon": "🎄"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "trampas",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I live here since 2020.",
+          "good": "I<b>'ve lived</b> here since 2020.",
+          "why": "Situación que sigue + since → present perfect.",
+          "why_en": "Duration up to now → present perfect."
+        },
+        {
+          "bad": "We've been friends since ten years.",
+          "good": "We've been friends <b>for</b> ten years.",
+          "why": "Periodo (diez años) → for.",
+          "why_en": "Period → for."
+        },
+        {
+          "bad": "She's had this job for June.",
+          "good": "She's had this job <b>since</b> June.",
+          "why": "Punto de inicio (junio) → since.",
+          "why_en": "Starting point → since."
+        },
+        {
+          "bad": "How long do you know Marta?",
+          "good": "How long <b>have</b> you <b>known</b> Marta?",
+          "why": "How long + present perfect.",
+          "why_en": "How long + present perfect."
+        },
+        {
+          "bad": "I have lived here three years ago.",
+          "good": "I moved here three years <b>ago</b>. / I've lived here <b>for</b> three years.",
+          "why": "ago va con past simple; for con present perfect.",
+          "why_en": "ago + past simple; for + present perfect."
+        },
+        {
+          "bad": "I'm working here for six months.",
+          "good": "I<b>'ve worked</b> here for six months.",
+          "why": "«Llevo seis meses…» no es presente continuo.",
+          "why_en": "Not the present continuous."
+        },
+        {
+          "bad": "Since when are you a vegetarian?",
+          "good": "<b>How long have</b> you <b>been</b> a vegetarian?",
+          "why": "«¿Desde cuándo…?» = How long…?",
+          "why_en": "Use How long…?"
+        },
+        {
+          "bad": "I don't see him since June.",
+          "good": "I <b>haven't seen</b> him since June.",
+          "why": "«Hace … que no» → haven't + participio.",
+          "why_en": "Negative duration → haven't + participle."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "¿La situación <b>sigue</b> ahora? → present perfect (have / has + participio).",
+          "en": "Still true now → present perfect."
+        },
+        {
+          "es": "¿Dices <b>cuánto tiempo</b> (dos años, una semana, siglos)? → <b>for</b>.",
+          "en": "How much time → for."
+        },
+        {
+          "es": "¿Dices <b>desde cuándo</b> (2020, el lunes, que era niño)? → <b>since</b>.",
+          "en": "Starting point → since."
+        },
+        {
+          "es": "¿Preguntas? → <b>How long have / has</b> + sujeto + participio…?",
+          "en": "Question → How long have / has…?"
+        },
+        {
+          "es": "¿Ya terminó, o dices cuándo pasó? → past simple: I lived there <b>for</b> two years. I moved two years <b>ago</b>.",
+          "en": "Finished → past simple (+ for / ago)."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Una entrevista de trabajo",
+      "title_en": "A job interview",
+      "lines": [
+        {
+          "who": "Ms Cole",
+          "en": "So, Daniel, how long have you lived in Dublin?",
+          "es": "Bueno, Daniel, ¿cuánto tiempo llevas viviendo en Dublín?"
+        },
+        {
+          "who": "Daniel",
+          "en": "For two years. I moved here two years ago, after university.",
+          "es": "Dos años. Me mudé aquí hace dos años, después de la universidad."
+        },
+        {
+          "who": "Ms Cole",
+          "en": "And how long have you worked at the café?",
+          "es": "¿Y cuánto tiempo llevas trabajando en la cafetería?"
+        },
+        {
+          "who": "Daniel",
+          "en": "Since March. Before that, I worked in a hotel for a year.",
+          "es": "Desde marzo. Antes trabajé un año en un hotel."
+        },
+        {
+          "who": "Ms Cole",
+          "en": "Your English is excellent. How long have you studied it?",
+          "es": "Tu inglés es excelente. ¿Desde cuándo lo estudias?"
+        },
+        {
+          "who": "Daniel",
+          "en": "Thanks! I've studied English since I was eight, so for about fifteen years.",
+          "es": "¡Gracias! Estudio inglés desde los ocho años, o sea, desde hace unos quince años."
+        },
+        {
+          "who": "Ms Cole",
+          "en": "And how long have you been interested in marketing?",
+          "es": "¿Y desde cuándo te interesa el marketing?"
+        },
+        {
+          "who": "Daniel",
+          "en": "Oh, for ages! Since I opened my first social media account, really.",
+          "es": "¡Uf, desde hace siglos! Desde que abrí mi primera cuenta en redes, la verdad."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del calendario",
+      "title_en": "Calendar trick",
+      "es": "Imagina un calendario 📅. <b>SINCE</b>: puedes <mark>señalar con el dedo</mark> el día en que empezó (2020, el lunes, Navidad). <b>FOR</b>: tienes que <mark>contar</mark> los días, meses o años que han pasado. ¿Lo cuentas? → <b>for</b>. ¿Lo señalas? → <b>since</b>.",
+      "en": "Can you point to it on a calendar? → <b>since</b>. Do you have to count it? → <b>for</b>."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify",
+      "title": "¿FOR o SINCE?",
+      "title_en": "for or since?",
+      "icon": "🗂️",
+      "es": "Escribe cada expresión en su caja: ¿es un periodo (for) o un punto de inicio (since)?",
+      "en": "Sort the time expressions: for or since?",
+      "cats": [
+        {
+          "name": "FOR",
+          "words": [
+            "two hours",
+            "ages",
+            "a week",
+            "ten minutes",
+            "three years",
+            "a long time",
+            "six months",
+            "a while"
+          ]
+        },
+        {
+          "name": "SINCE",
+          "words": [
+            "Monday",
+            "2019",
+            "last summer",
+            "9 o'clock",
+            "I was a child",
+            "my birthday",
+            "Christmas",
+            "yesterday"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle for or since",
+      "icon": "⭕",
+      "es": "Rodea for o since.",
+      "en": "Circle for or since.",
+      "items": [
+        {
+          "q": "I've lived here [for|since] 2018.",
+          "a": "since"
+        },
+        {
+          "q": "She's been my best friend [for|since] ten years.",
+          "a": "for"
+        },
+        {
+          "q": "We've had this sofa [for|since] ages.",
+          "a": "for"
+        },
+        {
+          "q": "He hasn't eaten anything [for|since] breakfast.",
+          "a": "since"
+        },
+        {
+          "q": "They've worked together [for|since] six months.",
+          "a": "for"
+        },
+        {
+          "q": "I've known him [for|since] I was a kid.",
+          "a": "since"
+        },
+        {
+          "q": "It hasn't rained [for|since] weeks.",
+          "a": "for"
+        },
+        {
+          "q": "Have you been here [for|since] long?",
+          "a": "for"
+        },
+        {
+          "q": "I've wanted a motorbike [for|since] my eighteenth birthday.",
+          "a": "since"
+        },
+        {
+          "q": "We've been in this queue [for|since] half an hour!",
+          "a": "for"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Completa con for o since",
+      "title_en": "Complete with for or since",
+      "icon": "✏️",
+      "es": "Completa con for o since.",
+      "en": "Complete with for or since.",
+      "bank": [
+        "for",
+        "since"
+      ],
+      "items": [
+        {
+          "q": "I've had a headache ___ this morning.",
+          "a": "since"
+        },
+        {
+          "q": "My parents have been married ___ 25 years.",
+          "a": "for"
+        },
+        {
+          "q": "Liam has lived in Spain ___ 2021.",
+          "a": "since"
+        },
+        {
+          "q": "I haven't seen my cousins ___ Christmas.",
+          "a": "since"
+        },
+        {
+          "q": "We've been friends ___ a long time.",
+          "a": "for"
+        },
+        {
+          "q": "She's studied German ___ three years.",
+          "a": "for"
+        },
+        {
+          "q": "They haven't spoken to each other ___ the argument.",
+          "a": "since"
+        },
+        {
+          "q": "I've been awake ___ 5 a.m.!",
+          "a": "since"
+        },
+        {
+          "q": "He's played for the club ___ two seasons.",
+          "a": "for"
+        },
+        {
+          "q": "The lift has been out of order ___ a week.",
+          "a": "for"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une pregunta y respuesta",
+      "title_en": "Match questions and answers",
+      "icon": "🔗",
+      "es": "Une cada pregunta con su respuesta. Fíjate en los pronombres.",
+      "en": "Match each question with its answer.",
+      "pairs": [
+        [
+          "How long have you lived in this flat?",
+          "We've lived here since we got married."
+        ],
+        [
+          "How long has Ana had her dog?",
+          "She's had it for six months. It's still a puppy."
+        ],
+        [
+          "How long have Tom and Eva known each other?",
+          "They've known each other since primary school."
+        ],
+        [
+          "How long has your dad worked at the bank?",
+          "He's worked there for over twenty years."
+        ],
+        [
+          "How long has the shop been closed?",
+          "It's been closed since the owner retired."
+        ],
+        [
+          "How long have you had that cough?",
+          "I've had it for about a week."
+        ],
+        [
+          "How long have you played the guitar?",
+          "I've played it since I was twelve."
+        ],
+        [
+          "How long have you been in Spain?",
+          "I've been here since Tuesday."
+        ]
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "¿Cuánto tiempo? ¿Desde cuándo?",
+      "title_en": "How long? Since when?",
+      "icon": "📋",
+      "wide": true,
+      "es": "Imagina que hoy es <b>lunes, 10 de marzo de 2025</b>, y son las <b>12:00</b>. Completa cada fila con for y con since. La primera es un ejemplo.",
+      "en": "Imagine today is Monday 10th March 2025, 12:00. Complete with for and since.",
+      "head": [
+        "Situación · Situation",
+        "FOR …",
+        "SINCE …"
+      ],
+      "rows": [
+        [
+          "I moved to Bilbao in 2020.",
+          "<i>for five years</i>",
+          "<i>since 2020</i>"
+        ],
+        [
+          "I started work at 9 a.m. today.",
+          "?for three hours",
+          "?since 9 a.m."
+        ],
+        [
+          "I got my phone in March 2023.",
+          "?for two years",
+          "?since March 2023"
+        ],
+        [
+          "I met Laura in 2015.",
+          "?for ten years",
+          "?since 2015"
+        ],
+        [
+          "I arrived in London on Friday.",
+          "?for three days",
+          "?since Friday"
+        ],
+        [
+          "I joined the gym on 10th January.",
+          "?for two months",
+          "?since 10th January"
+        ],
+        [
+          "I started learning Italian in March 2024.",
+          "?for a year",
+          "?since March 2024"
+        ],
+        [
+          "I caught a cold on Wednesday.",
+          "?for five days",
+          "?since Wednesday"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Present perfect + for / since",
+      "title_en": "Verb + for or since",
+      "icon": "🧩",
+      "es": "Completa con el present perfect del verbo entre paréntesis y con for o since.",
+      "en": "Complete with the present perfect and for or since.",
+      "items": [
+        {
+          "q": "I ____ (know) Pablo ___ we were at school.",
+          "a": "have known … since"
+        },
+        {
+          "q": "She ____ (have) her driving licence ___ two months.",
+          "a": "has had … for"
+        },
+        {
+          "q": "We ____ (not / see) each other ___ the summer.",
+          "a": "haven't seen … since"
+        },
+        {
+          "q": "They ____ (be) together ___ five years.",
+          "a": "have been … for"
+        },
+        {
+          "q": "My grandad ____ (live) in the same house ___ 1970.",
+          "a": "has lived … since"
+        },
+        {
+          "q": "I ____ (not / eat) meat ___ a year.",
+          "a": "haven't eaten … for"
+        },
+        {
+          "q": "How long ___ you ____ (work) here? — ___ March.",
+          "a": "have … worked … Since"
+        },
+        {
+          "q": "Carla ____ (be) a nurse ___ she finished university.",
+          "a": "has been … since"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pregunta con HOW LONG",
+      "title_en": "Ask with How long…?",
+      "icon": "❓",
+      "es": "Escribe la pregunta con How long + present perfect.",
+      "en": "Write the question with How long + present perfect.",
+      "items": [
+        {
+          "q": "you / live / in Seville",
+          "a": "How long have you lived in Seville?"
+        },
+        {
+          "q": "your sister / work / at the hospital",
+          "a": "How long has your sister worked at the hospital?"
+        },
+        {
+          "q": "they / know / each other",
+          "a": "How long have they known each other?"
+        },
+        {
+          "q": "you / have / your car",
+          "a": "How long have you had your car?"
+        },
+        {
+          "q": "Marcos / be / a teacher",
+          "a": "How long has Marcos been a teacher?"
+        },
+        {
+          "q": "your parents / be / married",
+          "a": "How long have your parents been married?"
+        },
+        {
+          "q": "you / play / in the band",
+          "a": "How long have you played in the band?"
+        },
+        {
+          "q": "she / want / a tattoo",
+          "a": "How long has she wanted a tattoo?"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Une las dos frases",
+      "title_en": "Join the two sentences",
+      "icon": "🔄",
+      "es": "Escribe UNA frase con el present perfect y for o since.",
+      "en": "Write ONE sentence with the present perfect and for or since.",
+      "items": [
+        {
+          "q": "I moved to Madrid in 2019. I still live there.",
+          "a": "I've lived in Madrid since 2019."
+        },
+        {
+          "q": "I met Sara ten years ago. We're still friends.",
+          "a": "I've known Sara for ten years."
+        },
+        {
+          "q": "She bought her bike in May. She still has it.",
+          "a": "She's had her bike since May."
+        },
+        {
+          "q": "The shop closed in January. It's still closed.",
+          "a": "The shop has been closed since January."
+        },
+        {
+          "q": "He became a doctor in 2018. He's still a doctor.",
+          "a": "He's been a doctor since 2018."
+        },
+        {
+          "q": "I last saw Leo three months ago.",
+          "a": "I haven't seen Leo for three months."
+        },
+        {
+          "q": "We got married twelve years ago.",
+          "a": "We've been married for twelve years."
+        },
+        {
+          "q": "They last went on holiday in 2022.",
+          "a": "They haven't been on holiday since 2022."
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase.",
+      "en": "Put the words in order.",
+      "items": [
+        {
+          "q": "lived / I've / here / for / two years",
+          "a": "I've lived here for two years."
+        },
+        {
+          "q": "known / we've / each other / since / 2015",
+          "a": "We've known each other since 2015."
+        },
+        {
+          "q": "long / how / you / have / had / your dog / ?",
+          "a": "How long have you had your dog?"
+        },
+        {
+          "q": "hasn't / she / since / called / Monday",
+          "a": "She hasn't called since Monday."
+        },
+        {
+          "q": "been / they've / married / for / ages",
+          "a": "They've been married for ages."
+        },
+        {
+          "q": "has / long / how / he / a teacher / been / ?",
+          "a": "How long has he been a teacher?"
+        },
+        {
+          "q": "worked / my mum / has / at the hospital / since / 2010",
+          "a": "My mum has worked at the hospital since 2010."
+        },
+        {
+          "q": "seen / for / haven't / I / months / him",
+          "a": "I haven't seen him for months."
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "⚖️",
+      "es": "Lee cada afirmación y marca T (verdadero) o F (falso).",
+      "en": "Read each statement. Tick T or F.",
+      "items": [
+        {
+          "q": "We use «for» with a period of time (two days, a year).",
+          "a": true
+        },
+        {
+          "q": "We use «since» with a period of time.",
+          "a": false,
+          "why": "since + punto de inicio (2020, Monday)."
+        },
+        {
+          "q": "«I live here since 2020» is correct English.",
+          "a": false,
+          "why": "I've lived here since 2020."
+        },
+        {
+          "q": "«How long have you known her?» = ¿Desde cuándo la conoces?",
+          "a": true
+        },
+        {
+          "q": "«Ago» goes with the past simple: I met her two years ago.",
+          "a": true
+        },
+        {
+          "q": "«I've worked here for five years» means I don't work here now.",
+          "a": false,
+          "why": "Present perfect: todavía trabajo aquí."
+        },
+        {
+          "q": "«I worked there for five years» means I don't work there now.",
+          "a": true
+        },
+        {
+          "q": "After «since» we can use a clause: since I was a child.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "I live in Madrid since 2018.",
+          "a": "I've lived in Madrid since 2018."
+        },
+        {
+          "q": "We've been friends since ten years.",
+          "a": "We've been friends for ten years."
+        },
+        {
+          "q": "She's had this job for June.",
+          "a": "She's had this job since June."
+        },
+        {
+          "q": "How long do you know Marta?",
+          "a": "How long have you known Marta?"
+        },
+        {
+          "q": "I haven't seen him since three weeks.",
+          "a": "I haven't seen him for three weeks."
+        },
+        {
+          "q": "He has arrived two hours ago.",
+          "a": "He arrived two hours ago."
+        },
+        {
+          "q": "Since when are you a vegetarian?",
+          "a": "How long have you been a vegetarian?"
+        },
+        {
+          "q": "I'm in this team for two seasons.",
+          "a": "I've been in this team for two seasons."
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿FOR, SINCE o AGO?",
+      "title_en": "for, since or ago?",
+      "icon": "⏪",
+      "es": "Rodea for, since o ago. Fíjate en el tiempo verbal.",
+      "en": "Circle for, since or ago.",
+      "items": [
+        {
+          "q": "I moved to Valencia three years [for|since|ago].",
+          "a": "ago"
+        },
+        {
+          "q": "I've lived in Valencia [for|since|ago] three years.",
+          "a": "for"
+        },
+        {
+          "q": "I've lived in Valencia [for|since|ago] 2022.",
+          "a": "since"
+        },
+        {
+          "q": "We met a long time [for|since|ago].",
+          "a": "ago"
+        },
+        {
+          "q": "She's worked from home [for|since|ago] the pandemic.",
+          "a": "since"
+        },
+        {
+          "q": "The film started ten minutes [for|since|ago].",
+          "a": "ago"
+        },
+        {
+          "q": "I haven't checked my email [for|since|ago] two days.",
+          "a": "for"
+        },
+        {
+          "q": "He's been in hospital [for|since|ago] the accident.",
+          "a": "since"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Recuerda: ¡el presente español se convierte en present perfect!",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Vivo en Barcelona desde hace cuatro años.",
+          "a": "I've lived in Barcelona for four years."
+        },
+        {
+          "q": "Conozco a Lucía desde 2016.",
+          "a": "I've known Lucía since 2016."
+        },
+        {
+          "q": "¿Cuánto tiempo hace que tienes tu móvil?",
+          "a": "How long have you had your phone?"
+        },
+        {
+          "q": "Hace meses que no veo a mis primos.",
+          "a": "I haven't seen my cousins for months."
+        },
+        {
+          "q": "Llevamos dos horas aquí.",
+          "a": "We've been here for two hours."
+        },
+        {
+          "q": "Está enfadada conmigo desde el sábado.",
+          "a": "She's been angry with me since Saturday."
+        },
+        {
+          "q": "Me mudé aquí hace dos años.",
+          "a": "I moved here two years ago."
+        },
+        {
+          "q": "¿Desde cuándo eres vegetariano?",
+          "a": [
+            "How long have you been a vegetarian?",
+            "How long have you been vegetarian?"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el artículo. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read the article. Tick T or F and answer the questions.",
+      "text_title": "Meet Rosa, the heart of Café Luna ☕",
+      "text": [
+        "Rosa Martín has run Café Luna in Salamanca since 2006. That means she has worked there for twenty years! Before that, she lived in London for three years, where she learnt English and fell in love with good coffee.",
+        "Rosa has known most of her customers for years. Some of them have come to the café every morning since it opened. Her favourite customer is Mr Gómez, a retired teacher. He has had the same breakfast — toast and a café con leche — since 2010!",
+        "Rosa hasn't had a proper holiday since 2019, but she isn't worried. “I've loved this job since the first day,” she says. “Why would I want a holiday?” Her daughter, Elena, has helped her in the café since last summer, so maybe Rosa will go back to London one day."
+      ],
+      "items": [
+        {
+          "q": "Rosa has run Café Luna for twenty years.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Rosa still lives in London.",
+          "tf": true,
+          "a": false,
+          "why": "She lived in London for three years, before she opened the café."
+        },
+        {
+          "q": "Mr Gómez has had the same breakfast since 2010.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "How long has Rosa run Café Luna?",
+          "a": "For twenty years. / Since 2006."
+        },
+        {
+          "q": "How long did Rosa live in London?",
+          "a": "She lived there for three years."
+        },
+        {
+          "q": "When was Rosa's last proper holiday?",
+          "a": "In 2019. She hasn't had a proper holiday since 2019."
+        },
+        {
+          "q": "How long has Elena helped in the café?",
+          "a": "Since last summer."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre tu vida. Usa el present perfect con for y since.",
+      "en": "Write about your life with for and since.",
+      "items": [
+        {
+          "q": "Escribe 3 frases sobre ti con <b>for</b>: I've lived… / I've known… / I've had…",
+          "lines": 3,
+          "a": "Ej.: I've lived in Murcia for ten years. I've known my best friend for eight years. I've had my bike for two years."
+        },
+        {
+          "q": "Escribe 3 frases sobre ti con <b>since</b>.",
+          "lines": 3,
+          "a": "Ej.: I've studied English since I was six. I've been a Betis fan since 2015. I've had this phone since Christmas."
+        },
+        {
+          "q": "Escribe 2 preguntas con <i>How long…?</i> para un compañero o compañera.",
+          "lines": 2,
+          "a": "Ej.: How long have you lived in your flat? How long have you known your best friend?"
+        },
+        {
+          "q": "Escribe algo que <b>hace mucho que no haces</b>: I haven't… for / since…",
+          "lines": 1,
+          "a": "Ej.: I haven't been to the cinema since the summer."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Uso <b>for</b> + periodo (two years, ages) y <b>since</b> + punto de inicio (2020, Monday).",
+      "en": "I use for + a period and since + a starting point."
+    },
+    {
+      "es": "Uso el <b>present perfect</b> (no el presente) para situaciones que continúan.",
+      "en": "I use the present perfect, not the present, for situations that continue."
+    },
+    {
+      "es": "Pregunto con <b>How long have / has…?</b> y contesto con for o since.",
+      "en": "I can ask How long…? and answer with for or since."
+    },
+    {
+      "es": "Traduzco «desde hace», «llevo…» y «hace … que no…» correctamente.",
+      "en": "I can translate desde hace, llevo… and hace … que no…"
+    },
+    {
+      "es": "Distingo <b>for</b>, <b>since</b> y <b>ago</b>.",
+      "en": "I know the difference between for, since and ago."
+    },
+    {
+      "es": "Sé que <b>I worked there for 5 years</b> significa que ya terminó.",
+      "en": "I know past simple + for means it's finished."
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "id": "A2-06",
+  "level": "A2",
+  "title": "SUPERLATIVOS",
+  "file_title": "Superlativos",
+  "subtitle": "Superlatives · el más…, el mejor, el peor",
+  "icon": "🏆",
+  "map": {
+    "center": "Usamos el <b>SUPERLATIVO</b> para decir que algo es <b>el más…</b> de un grupo: <b>the tallest</b>, <b>the most beautiful</b>, <b>the best</b>.",
+    "nodes": [
+      {
+        "title": "Palabras cortas", "icon": "📏", "art": "🦒",
+        "rows": [["tall", "→ the tall<em>est</em>"], ["fast", "→ the fast<em>est</em>"], ["old", "→ the old<em>est</em>"]],
+        "after": "1 sílaba → <b>the</b> + adjetivo + <em>-est</em>"
+      },
+      {
+        "title": "Ortografía", "icon": "✏️",
+        "items": ["nice → the nic<em>est</em> <i>(acaba en -e: solo -st)</i>", "big → the big<em>gest</em> <i>(doble letra)</i>", "happy → the happ<em>iest</em> <i>(y → iest)</i>"]
+      },
+      {
+        "title": "Palabras largas", "icon": "📚",
+        "rows": [["beautiful", "→ <b>the most</b> beautiful"], ["expensive", "→ <b>the most</b> expensive"]],
+        "after": "2 sílabas o más → <b>the most</b> <i>(¡sin -est!)</i>"
+      },
+      {
+        "title": "Irregulares", "icon": "⭐", "art": "🥇",
+        "rows": [["good", "→ the <b>best</b>"], ["bad", "→ the <b>worst</b>"], ["far", "→ the <b>furthest</b>"]],
+        "after": "¡Nunca digas <s>the goodest</s>!"
+      },
+      {
+        "title": "¿In u of?", "icon": "📍",
+        "items": ["<b>in</b> + lugar o grupo: in my class, in the world", "<b>of</b> + número o todos: of the three, of all", "<b>of</b> + tiempo: the best day <b>of</b> my life"]
+      },
+      {
+        "title": "¿2 o más?", "icon": "⚖️",
+        "items": ["2 cosas → comparativo: taller <b>than</b>", "3 o más → superlativo: <b>the</b> tallest", "Leo is taller than Tom. Sara is <b>the tallest</b>!"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["Leo is the more tall of the class."],
+      "good": ["Leo is the tallest in the class."],
+      "note": "corto → <b>-est</b> · grupo o lugar → <b>in</b>"
+    },
+    "mini": {
+      "es": "Escribe el superlativo de la palabra entre paréntesis.",
+      "en": "Write the superlative of the word in brackets.",
+      "items": [
+        { "q": "Rocky is the ____ dog in the park.", "a": "fastest", "hint": "fast" },
+        { "q": "It's the ____ day of my life!", "a": "happiest", "hint": "happy" },
+        { "q": "Tom is the ____ player in the team.", "a": "best", "hint": "good" },
+        { "q": "The elephant is the ____ animal here.", "a": "biggest", "hint": "big" },
+        { "q": "It's the ____ book in the library.", "a": "most interesting", "hint": "interesting" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "El <b>superlativo</b> sirve para decir que algo o alguien es <mark>el más…</mark> (o <mark>el mejor / el peor</mark>) de un grupo de <b>tres o más</b>. En español decimos «el más alto» o «la más divertida». En inglés casi siempre ponemos <b>the</b> delante y cambiamos el adjetivo: <b>the tallest</b>, <b>the funniest</b>, <b>the most beautiful</b>.",
+      "en": "We use the <b>superlative</b> to say that something is <mark>the most…</mark> in a group of <b>three or more</b>: <b>the tallest</b>, <b>the funniest</b>, <b>the most beautiful</b>.",
+      "formula": ["*the* + adjetivo corto + *-est*", "*the most* + adjetivo largo"]
+    },
+    {
+      "t": "rule", "title": "1 · Palabras cortas: -est", "title_en": "Short adjectives", "icon": "📏", "color": "green",
+      "es": "Si el adjetivo es <b>corto</b> (una sola sílaba, como <i>tall, fast, old, small</i>), le añadimos <em>-est</em> al final y ponemos <b>the</b> delante. ¡Es como ponerle una corona al adjetivo! 👑",
+      "en": "With <b>short</b> adjectives (one syllable), add <em>-est</em> and put <b>the</b> before it.",
+      "formula": ["*the* + tall + *-est*", "*the* + small + *-est*"],
+      "examples": [
+        { "en": "Sara is <b>the tallest</b> girl in my class.", "es": "Sara es la niña más alta de mi clase.", "icon": "👧" },
+        { "en": "Rocky is <b>the fastest</b> dog in the park.", "es": "Rocky es el perro más rápido del parque.", "icon": "🐕" },
+        { "en": "My grandad is <b>the oldest</b> person in my family.", "es": "Mi abuelo es la persona más mayor de mi familia.", "icon": "👴" }
+      ]
+    },
+    {
+      "t": "table", "title": "2 · ¿Cómo se escribe?", "title_en": "Spelling rules", "icon": "✏️", "color": "purple",
+      "head": ["Si el adjetivo… · Rule", "Ejemplos · Examples"],
+      "rows": [
+        ["acaba en <b>-e</b><br>→ añado solo <em>-st</em>", "nice → the nic<em>est</em><br>large → the larg<em>est</em>"],
+        ["acaba en <b>consonante + vocal + consonante</b><br>→ doblo la última letra + <em>-est</em>", "big → the big<em>gest</em><br>hot → the hot<em>test</em><br>thin → the thin<em>nest</em>"],
+        ["acaba en <b>consonante + y</b><br>→ quito la y y añado <em>-iest</em>", "happy → the happ<em>iest</em><br>funny → the funn<em>iest</em><br>easy → the eas<em>iest</em>"],
+        ["todos los demás<br>→ añado <em>-est</em>", "tall → the tall<em>est</em><br>long → the long<em>est</em>"]
+      ],
+      "note": "Truco de la doble letra: si la palabra acaba en <b>consonante-vocal-consonante</b> (b-i-g, h-o-t), doblamos. Pero si hay <b>dos vocales</b> (cool → the coolest) o acaba en <b>w</b> (slow → the slowest), no doblamos.",
+      "note_en": "Double the last letter after consonant + vowel + consonant (big → biggest), but not after two vowels (cool → coolest) or after w (slow → slowest)."
+    },
+    {
+      "t": "rule", "title": "3 · Palabras largas: the most", "title_en": "Long adjectives", "icon": "📚", "color": "blue",
+      "es": "Si el adjetivo es <b>largo</b> (dos sílabas o más, como <i>beautiful, famous, expensive, interesting</i>), no le añadimos nada: ponemos <b>the most</b> delante. ¡Las palabras largas están demasiado cansadas para cargar con -est! 😴 <small>Ojo: las de dos sílabas que acaban en -y van con -iest: the happiest, the funniest.</small>",
+      "en": "With <b>long</b> adjectives (two syllables or more), use <b>the most</b> + adjective. Two-syllable adjectives ending in -y take <em>-iest</em>.",
+      "formula": ["*the most* + beautiful", "*the most* + interesting"],
+      "examples": [
+        { "en": "This is <b>the most beautiful</b> beach in Spain.", "es": "Esta es la playa más bonita de España.", "icon": "🏖️" },
+        { "en": "Who is <b>the most famous</b> footballer in the world?", "es": "¿Quién es el futbolista más famoso del mundo?", "icon": "⚽" },
+        { "en": "For me, Science is <b>the most interesting</b> subject.", "es": "Para mí, Ciencias es la asignatura más interesante.", "icon": "🔬" }
+      ]
+    },
+    {
+      "t": "rule", "title": "4 · Los rebeldes: irregulares", "title_en": "Irregular adjectives", "icon": "⭐", "color": "orange",
+      "es": "Hay tres adjetivos <b>rebeldes</b> que no siguen las reglas. Hay que aprenderlos de memoria: <b>good → the best</b> (el mejor), <b>bad → the worst</b> (el peor) y <b>far → the furthest</b> (el más lejano). ¡Nunca digas <s>the goodest</s> ni <s>the baddest</s>!",
+      "en": "Three adjectives are irregular: <b>good → the best</b>, <b>bad → the worst</b>, <b>far → the furthest</b>.",
+      "examples": [
+        { "en": "Pizza is <b>the best</b> food in the world!", "es": "¡La pizza es la mejor comida del mundo!", "icon": "🍕" },
+        { "en": "Monday is <b>the worst</b> day of the week.", "es": "El lunes es el peor día de la semana.", "icon": "😩" },
+        { "en": "Which planet is <b>the furthest</b> from the Sun?", "es": "¿Qué planeta es el más lejano del Sol?", "icon": "🪐" }
+      ]
+    },
+    {
+      "t": "rule", "title": "5 · ¿In u of?", "title_en": "In or of?", "icon": "📍", "color": "teal",
+      "es": "En español siempre decimos «de»: <i>el más alto <u>de</u> la clase</i>. En inglés hay que elegir: <b>in</b> + un <b>lugar o grupo</b> (in my class, in the team, in Spain, in the world) y <b>of</b> + un <b>número o un grupo de cosas</b> (of the three, of all, of my friends) o un <b>periodo de tiempo</b> (of the year, of my life).",
+      "en": "Use <b>in</b> with places and groups (in my class, in the world). Use <b>of</b> with numbers, plurals and time (of the three, of all, of the year).",
+      "formula": ["the tallest + *in* + my class / the world", "the tallest + *of* + the three / all / the year"],
+      "examples": [
+        { "en": "Madrid is <b>the biggest</b> city <b>in</b> Spain.", "es": "Madrid es la ciudad más grande de España.", "icon": "🏙️" },
+        { "en": "Anna is <b>the youngest of</b> the three sisters.", "es": "Anna es la más pequeña de las tres hermanas.", "icon": "👧" },
+        { "en": "It was <b>the best</b> day <b>of</b> my life!", "es": "¡Fue el mejor día de mi vida!", "icon": "🎉" }
+      ]
+    },
+    {
+      "t": "compare", "title": "¿Comparativo o superlativo?", "title_en": "Comparative or superlative?", "icon": "⚖️", "color": "blue",
+      "es": "Si comparas <b>dos</b> cosas, usa el <b>comparativo</b> (+ <b>than</b>). Si eliges <b>una</b> entre <b>tres o más</b>, usa el <b>superlativo</b> (con <b>the</b>). ¡Nunca juntes <s>the fastest than</s>!",
+      "en": "<b>Two</b> things → comparative + <b>than</b>. <b>Three or more</b> → <b>the</b> + superlative.",
+      "cols": [
+        { "head": "⚖️ 2 cosas · comparativo", "color": "green", "items": ["Rocky is <b>faster than</b> my cat.", "Art is <b>easier than</b> Maths.", "My bike is <b>better than</b> yours."] },
+        { "head": "🏆 3 o más · superlativo", "color": "orange", "items": ["Rocky is <b>the fastest</b> dog in the park.", "Art is <b>the easiest</b> subject.", "This is <b>the best</b> bike in the shop."] }
+      ]
+    },
+    {
+      "t": "table", "title": "Todo junto", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["Regla · Rule", "Adjetivo", "Comparativo (2)", "Superlativo (3+)", "Ejemplo · Example"],
+      "rows": [
+        ["corto → <em>-est</em>", "tall", "taller than", "<b>the tallest</b>", "Leo is the tallest in the team."],
+        ["acaba en -e → <em>-st</em>", "nice", "nicer than", "<b>the nicest</b>", "She's the nicest teacher in the school."],
+        ["c-v-c → doble letra", "big", "bigger than", "<b>the biggest</b>", "It's the biggest pizza in the shop."],
+        ["consonante + y → <em>-iest</em>", "funny", "funnier than", "<b>the funniest</b>", "Tom is the funniest boy in my class."],
+        ["largo → <em>the most</em>", "beautiful", "more beautiful than", "<b>the most beautiful</b>", "It's the most beautiful beach in Spain."],
+        ["irregular", "good", "better than", "<b>the best</b>", "Rocky is the best dog in the world!"],
+        ["irregular", "bad", "worse than", "<b>the worst</b>", "It's the worst film of the year."],
+        ["irregular", "far", "further than", "<b>the furthest</b>", "Whose house is the furthest from school?"]
+      ]
+    },
+    {
+      "t": "vocab", "title": "Adjetivos con corona", "title_en": "Superlatives to learn", "icon": "👑", "color": "pink", "wide": true, "cols": 4,
+      "items": [
+        { "en": "tall → the tallest", "es": "alto → el más alto", "icon": "🦒" },
+        { "en": "small → the smallest", "es": "pequeño → el más pequeño", "icon": "🐭" },
+        { "en": "fast → the fastest", "es": "rápido → el más rápido", "icon": "🐆" },
+        { "en": "slow → the slowest", "es": "lento → el más lento", "icon": "🐢" },
+        { "en": "big → the biggest", "es": "grande → el más grande", "icon": "🐘" },
+        { "en": "hot → the hottest", "es": "caluroso → el más caluroso", "icon": "🔥" },
+        { "en": "cold → the coldest", "es": "frío → el más frío", "icon": "🥶" },
+        { "en": "long → the longest", "es": "largo → el más largo", "icon": "🐍" },
+        { "en": "old → the oldest", "es": "mayor → el más mayor", "icon": "👴" },
+        { "en": "young → the youngest", "es": "joven → el más joven", "icon": "👶" },
+        { "en": "happy → the happiest", "es": "feliz → el más feliz", "icon": "😄" },
+        { "en": "funny → the funniest", "es": "gracioso → el más gracioso", "icon": "🤡" },
+        { "en": "beautiful → the most beautiful", "es": "bonito → el más bonito", "icon": "🌸" },
+        { "en": "dangerous → the most dangerous", "es": "peligroso → el más peligroso", "icon": "🦈" },
+        { "en": "expensive → the most expensive", "es": "caro → el más caro", "icon": "💎" },
+        { "en": "good → the best", "es": "bueno → el mejor", "icon": "🥇" }
+      ]
+    },
+    {
+      "t": "examples", "title": "Récords del mundo", "title_en": "World records", "icon": "🌍", "color": "green",
+      "items": [
+        { "en": "The Teide is <b>the highest</b> mountain in Spain.", "es": "El Teide es la montaña más alta de España.", "icon": "🌋" },
+        { "en": "Venus is <b>the hottest</b> planet in our solar system.", "es": "Venus es el planeta más caliente del sistema solar.", "icon": "🔥" },
+        { "en": "Mercury is <b>the smallest</b> planet.", "es": "Mercurio es el planeta más pequeño.", "icon": "🪐" },
+        { "en": "Russia is <b>the biggest</b> country in the world.", "es": "Rusia es el país más grande del mundo.", "icon": "🗺️" },
+        { "en": "Vatican City is <b>the smallest</b> country in the world.", "es": "El Vaticano es el país más pequeño del mundo.", "icon": "⛪" },
+        { "en": "The ostrich is <b>the biggest</b> bird in the world.", "es": "El avestruz es el pájaro más grande del mundo.", "icon": "🪶" },
+        { "en": "The bee hummingbird is <b>the smallest</b> bird.", "es": "El colibrí zunzuncito es el pájaro más pequeño.", "icon": "🐦" },
+        { "en": "The Sahara is <b>the biggest</b> hot desert in the world.", "es": "El Sáhara es el desierto cálido más grande del mundo.", "icon": "🏜️" }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "Lucía is <b>the oldest</b> child in our family.", "es": "Lucía es la hija mayor de nuestra familia.", "icon": "👧" },
+        { "en": "Who is <b>the best</b> footballer in your class?", "es": "¿Quién es el mejor futbolista de tu clase?", "icon": "⚽" },
+        { "en": "This is <b>the most exciting</b> cartoon on TV!", "es": "¡Es el dibujo animado más emocionante de la tele!", "icon": "📺" },
+        { "en": "Rocky is <b>the noisiest</b> dog in our street.", "es": "Rocky es el perro más ruidoso de nuestra calle.", "icon": "🐕" },
+        { "en": "Friday is <b>the best</b> day of the week.", "es": "El viernes es el mejor día de la semana.", "icon": "🎉" },
+        { "en": "My grandma makes <b>the nicest</b> cakes in the world.", "es": "Mi abuela hace las tartas más ricas del mundo.", "icon": "🎂" },
+        { "en": "That's <b>the worst</b> joke ever!", "es": "¡Es el peor chiste de la historia!", "icon": "😂" },
+        { "en": "Leo's house is <b>the furthest</b> from school.", "es": "La casa de Leo es la más lejana del cole.", "icon": "🏠" },
+        { "en": "Which is <b>the biggest</b> classroom in your school?", "es": "¿Cuál es la clase más grande de tu cole?", "icon": "🏫" },
+        { "en": "Summer is <b>the hottest</b> season.", "es": "El verano es la estación más calurosa.", "icon": "☀️" },
+        { "en": "It's <b>the most difficult</b> puzzle in the box.", "es": "Es el puzle más difícil de la caja.", "icon": "🧩" },
+        { "en": "Anna is <b>the happiest</b> girl in the world today!", "es": "¡Hoy Anna es la niña más feliz del mundo!", "icon": "😄" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "trampas", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "Leo is the more tall in the team.", "good": "Leo is <b>the tallest</b> in the team.", "why": "«El más alto» no se traduce palabra por palabra: corto → -est.", "why_en": "Short adjective → -est." },
+        { "bad": "Madrid is the biggest city of Spain.", "good": "Madrid is the biggest city <b>in</b> Spain.", "why": "Lugar o grupo → in (aunque en español digamos «de»).", "why_en": "Places and groups → in." },
+        { "bad": "She is the most good student.", "good": "She is <b>the best</b> student.", "why": "good es rebelde → the best.", "why_en": "good → the best." },
+        { "bad": "This is the bigest cake!", "good": "This is the <b>biggest</b> cake!", "why": "b-i-g (c-v-c) → doblamos la g.", "why_en": "Double the g." },
+        { "bad": "Tom is the funnyest.", "good": "Tom is the <b>funniest</b>.", "why": "consonante + y → -iest.", "why_en": "y → iest." },
+        { "bad": "It's the most biggest dog.", "good": "It's <b>the biggest</b> dog.", "why": "O -est o the most, ¡nunca los dos!", "why_en": "Never most + -est." },
+        { "bad": "Sara is tallest girl in my class.", "good": "Sara is <b>the</b> tallest girl in my class.", "why": "El superlativo lleva siempre the.", "why_en": "Superlatives need the." },
+        { "bad": "Rocky is the fastest than Max.", "good": "Rocky is <b>faster than</b> Max.", "why": "2 cosas + than → comparativo.", "why_en": "Two things + than → comparative." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Cómo construyo el superlativo?", "title_en": "How do I build it?", "color": "orange",
+      "items": [
+        { "es": "¿Elijo <b>uno entre 3 o más</b> («el más… de todos»)? → superlativo. Si comparo <b>2</b> → comparativo + than.", "en": "One out of three or more → superlative. Two → comparative." },
+        { "es": "Cuenta las <b>sílabas</b> del adjetivo dando palmadas: tall 👏 · hap-py 👏👏 · beau-ti-ful 👏👏👏.", "en": "Clap the syllables of the adjective." },
+        { "es": "1 sílaba → <b>the</b> + <em>-est</em>. Mira la ortografía: nice → nicest, big → biggest.", "en": "One syllable → the + -est (check the spelling)." },
+        { "es": "2 sílabas acabadas en -y → <b>the</b> + <em>-iest</em>. Las demás largas → <b>the most</b> + adjetivo.", "en": "Ending in -y → -iest. Other long ones → the most." },
+        { "es": "¿Es good, bad o far? → <b>the best, the worst, the furthest</b>.", "en": "good, bad, far → the best, the worst, the furthest." },
+        { "es": "Termina con <b>in</b> + lugar o grupo, o con <b>of</b> + número o tiempo.", "en": "Finish with in + place/group or of + number/time." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "Récords en el recreo", "title_en": "Records at break time",
+      "lines": [
+        { "who": "Mario", "en": "Who is the fastest runner in our class?", "es": "¿Quién es el que corre más rápido de nuestra clase?" },
+        { "who": "Sara", "en": "Leo is the fastest. He always wins!", "es": "Leo es el más rápido. ¡Siempre gana!" },
+        { "who": "Mario", "en": "And who is the tallest?", "es": "¿Y quién es el más alto?" },
+        { "who": "Sara", "en": "Tom! He's taller than our teacher!", "es": "¡Tom! ¡Es más alto que nuestra profe!" },
+        { "who": "Mario", "en": "Ha ha! And who is the funniest?", "es": "¡Ja, ja! ¿Y quién es el más gracioso?" },
+        { "who": "Sara", "en": "You, Mario! Your jokes are the best… and the worst!", "es": "¡Tú, Mario! Tus chistes son los mejores… ¡y los peores!" },
+        { "who": "Mario", "en": "Thanks! And Rocky is the best dog in the world!", "es": "¡Gracias! ¡Y Rocky es el mejor perro del mundo!" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco de las palmadas", "title_en": "Clapping trick",
+      "es": "Da palmadas con las sílabas del adjetivo. <b>1 palmada</b> 👏 → <em>-est</em> (the tall-est). <b>2 palmadas y acaba en -y</b> 👏👏 → <em>-iest</em> (the hap-pi-est). <b>2 o más palmadas</b> → <b>the most</b> (the most beau-ti-ful). Y los tres rebeldes, de memoria: <b>best, worst, furthest</b>.",
+      "en": "Clap the syllables: one clap → -est; two claps ending in -y → -iest; more claps → the most. Learn best, worst and furthest by heart."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify", "title": "¿Cómo se forma?", "title_en": "Sort the adjectives", "icon": "🗂️", "wide": true,
+      "es": "Escribe cada adjetivo en su caja según cómo forma el superlativo.",
+      "en": "Write each adjective in the right box.",
+      "cats": [
+        { "name": "+ est / + st", "words": ["tall", "nice", "fast", "young"] },
+        { "name": "doble letra + est", "words": ["big", "hot", "thin", "sad"] },
+        { "name": "y → iest", "words": ["happy", "funny", "easy", "heavy"] },
+        { "name": "the most …", "words": ["beautiful", "famous", "expensive", "dangerous"] }
+      ]
+    },
+    {
+      "t": "choose", "title": "Rodea la correcta", "title_en": "Circle the correct word", "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "Rocky is the [fastest|most fast] dog in the park.", "a": "fastest" },
+        { "q": "This is the [most beautiful|beautifulest] beach in Spain.", "a": "most beautiful" },
+        { "q": "Tom is the [better|best] player in our team.", "a": "best" },
+        { "q": "Lucía is the [tallest|taller] girl in her class.", "a": "tallest" },
+        { "q": "It's the [hotest|hottest] day of the year.", "a": "hottest" },
+        { "q": "Who is the [funniest|funnyest] boy in your class?", "a": "funniest" },
+        { "q": "That was the [worst|baddest] film ever!", "a": "worst" },
+        { "q": "Anna is the youngest [in|of] my cousins.", "a": "of" },
+        { "q": "Madrid is the biggest city [in|of] Spain.", "a": "in" },
+        { "q": "Leo is [taller|the tallest] than Tom.", "a": "taller" }
+      ]
+    },
+    {
+      "t": "match", "title": "Récords del mundo", "title_en": "World records", "icon": "🌍",
+      "es": "Une cada récord con su respuesta. ¿Cuántos sabes?",
+      "en": "Match each record with the answer.",
+      "pairs": [
+        ["The tallest animal in the world is…", "the giraffe. 🦒"],
+        ["The fastest land animal is…", "the cheetah."],
+        ["The biggest animal in the world is…", "the blue whale. 🐋"],
+        ["The highest mountain in the world is…", "Everest. 🏔️"],
+        ["The biggest planet in our solar system is…", "Jupiter. 🪐"],
+        ["The coldest place on Earth is…", "Antarctica. 🧊"],
+        ["The biggest ocean in the world is…", "the Pacific. 🌊"]
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Completa la tabla", "title_en": "Complete the table", "icon": "📋",
+      "es": "Escribe el comparativo y el superlativo que faltan.",
+      "en": "Write the missing comparatives and superlatives.",
+      "head": ["Adjetivo · Adjective", "Comparativo (2)", "Superlativo (3+)"],
+      "rows": [
+        ["small", "?smaller", "?the smallest"],
+        ["big", "?bigger", "?the biggest"],
+        ["nice", "nicer", "?the nicest"],
+        ["happy", "?happier", "?the happiest"],
+        ["thin", "thinner", "?the thinnest"],
+        ["good", "?better", "?the best"],
+        ["bad", "?worse", "?the worst"],
+        ["far", "further", "?the furthest"],
+        ["famous", "?more famous", "?the most famous"],
+        ["exciting", "more exciting", "?the most exciting"]
+      ]
+    },
+    {
+      "t": "fill", "title": "Escribe el superlativo", "title_en": "Write the superlative", "icon": "👑",
+      "es": "Completa con el superlativo de la palabra entre paréntesis. Cuenta las sílabas y mira la ortografía.",
+      "en": "Complete with the superlative of the word in brackets.",
+      "items": [
+        { "q": "Sara is the ____ girl in our class.", "a": "tallest", "hint": "tall" },
+        { "q": "Rocky is the ____ dog in the street.", "a": "noisiest", "hint": "noisy" },
+        { "q": "July is the ____ month of the year.", "a": "hottest", "hint": "hot" },
+        { "q": "This is the ____ cake in the shop.", "a": "most expensive", "hint": "expensive" },
+        { "q": "My dad tells the ____ jokes!", "a": "worst", "hint": "bad" },
+        { "q": "That's the ____ question in the test.", "a": "easiest", "hint": "easy" },
+        { "q": "Mario is the ____ person in his family.", "a": "youngest", "hint": "young" },
+        { "q": "Who is the ____ singer in the world?", "a": "most famous", "hint": "famous" },
+        { "q": "Neptune is the ____ planet from the Sun.", "a": "furthest", "hint": "far" },
+        { "q": "It was the ____ day of the holidays!", "a": "best", "hint": "good" }
+      ]
+    },
+    {
+      "t": "fill", "title": "¿In u of?", "title_en": "In or of?", "icon": "📍",
+      "es": "Completa con in o of. Pregúntate: ¿es un lugar o grupo (in) o un número, todos o tiempo (of)?",
+      "en": "Complete with in or of.",
+      "bank": ["in", "of"],
+      "items": [
+        { "q": "Madrid is the biggest city ___ Spain.", "a": "in" },
+        { "q": "Anna is the oldest ___ the three sisters.", "a": "of" },
+        { "q": "He's the best player ___ the team.", "a": "in" },
+        { "q": "Today is the happiest day ___ my life!", "a": "of" },
+        { "q": "It's the tallest building ___ the world.", "a": "in" },
+        { "q": "Rocky is the best dog ___ all!", "a": "of" },
+        { "q": "She's the fastest runner ___ our school.", "a": "in" },
+        { "q": "January is the coldest month ___ the year.", "a": "of" }
+      ]
+    },
+    {
+      "t": "spell", "title": "Deletrea el superlativo", "title_en": "Spell the superlative", "icon": "🔤",
+      "es": "Ordena las letras y escribe el superlativo en las cajas. ¡Cuidado con la doble letra y con la y!",
+      "en": "Unscramble the letters and write the superlative.",
+      "items": [
+        { "q": "🐘 big → the …", "a": "biggest" },
+        { "q": "😄 happy → the …", "a": "happiest" },
+        { "q": "🔥 hot → the …", "a": "hottest" },
+        { "q": "🙂 nice → the …", "a": "nicest" },
+        { "q": "🤡 funny → the …", "a": "funniest" },
+        { "q": "📏 thin → the …", "a": "thinnest" },
+        { "q": "✅ easy → the …", "a": "easiest" },
+        { "q": "🥇 good → the …", "a": "best" }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Construye la frase", "title_en": "Build the sentence", "icon": "🧩",
+      "es": "Escribe la frase completa con el superlativo. Añade <b>is</b> y <b>the</b>.",
+      "en": "Write the full sentence with the superlative.",
+      "items": [
+        { "q": "Rocky / fast / dog / in the park", "a": "Rocky is the fastest dog in the park." },
+        { "q": "Lucía / tall / girl / in her class", "a": "Lucía is the tallest girl in her class." },
+        { "q": "this / good / pizza / in town", "a": "This is the best pizza in town." },
+        { "q": "Maths / difficult / subject / for me", "a": "Maths is the most difficult subject for me." },
+        { "q": "that / big / house / in the street", "a": "That is the biggest house in the street." },
+        { "q": "Tom / funny / boy / in our class", "a": "Tom is the funniest boy in our class." },
+        { "q": "it / bad / day / of the week", "a": "It is the worst day of the week." },
+        { "q": "the giraffe / tall / animal / in the world", "a": "The giraffe is the tallest animal in the world." }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        { "q": "is / the / tallest / Leo / in / class / the", "a": "Leo is the tallest in the class." },
+        { "q": "the / dog / Rocky / best / is / in / the / world", "a": "Rocky is the best dog in the world." },
+        { "q": "most / this / beautiful / is / the / park", "a": "This is the most beautiful park." },
+        { "q": "the / oldest / who / in / is / your family / ?", "a": "Who is the oldest in your family?" },
+        { "q": "happiest / of / it's / my life / day / the", "a": "It's the happiest day of my life." },
+        { "q": "is / the / which / animal / biggest / ?", "a": "Which is the biggest animal?" },
+        { "q": "the / funniest / films / are / these / of / all", "a": "These are the funniest films of all." },
+        { "q": "worst / was / it / the / match / of / the year", "a": "It was the worst match of the year." }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "La familia de Mario", "title_en": "Mario's family", "icon": "👨‍👩‍👧‍👦",
+      "es": "Mira los datos y marca T (verdadero) o F (falso). 👴 Grandad Pepe: 70 años, 1,70 m · 👨 Dad: 42 años, 1,85 m · 👩 Mum: 40 años, 1,65 m · 👧 Lucía: 12 años, 1,50 m · 👦 Mario: 10 años, 1,40 m · 🐶 Rocky: 4 años.",
+      "en": "Look at the information. Tick T (true) or F (false).",
+      "items": [
+        { "q": "Grandad Pepe is the oldest person in the family.", "a": true },
+        { "q": "Mum is the tallest person in the family.", "a": false, "why": "Dad is the tallest." },
+        { "q": "Mario is the youngest person in the family.", "a": true },
+        { "q": "Rocky is the youngest of all.", "a": true },
+        { "q": "Lucía is older than Mario.", "a": true },
+        { "q": "Lucía is the shortest person in the family.", "a": false, "why": "Mario is the shortest." },
+        { "q": "Dad is the youngest adult in the family.", "a": false, "why": "Mum is the youngest adult." },
+        { "q": "Grandad Pepe is the tallest.", "a": false, "why": "Dad is the tallest." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "She is the more tall in the class.", "a": "She is the tallest in the class." },
+        { "q": "This is the bigest pizza!", "a": "This is the biggest pizza!" },
+        { "q": "He is the goodest player.", "a": "He is the best player." },
+        { "q": "It's the most hot day of the year.", "a": "It's the hottest day of the year." },
+        { "q": "Madrid is the biggest city of Spain.", "a": "Madrid is the biggest city in Spain." },
+        { "q": "Tom is the funnyest boy in my class.", "a": "Tom is the funniest boy in my class." },
+        { "q": "That is the most biggest dog!", "a": "That is the biggest dog!" },
+        { "q": "Leo is the tallest than Tom.", "a": "Leo is taller than Tom." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Piensa: ¿palabra corta o larga? ¿in u of?",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Rocky es el perro más rápido del parque.", "a": "Rocky is the fastest dog in the park." },
+        { "q": "Lucía es la más alta de la clase.", "a": "Lucía is the tallest in the class." },
+        { "q": "Es el mejor día de mi vida.", "a": "It's the best day of my life." },
+        { "q": "¿Quién es el más gracioso de tu familia?", "a": "Who is the funniest in your family?" },
+        { "q": "Este es el libro más interesante.", "a": "This is the most interesting book." },
+        { "q": "Es el peor partido del año.", "a": "It's the worst match of the year." },
+        { "q": "Mi abuelo es el más mayor de mi familia.", "a": "My grandad is the oldest in my family." },
+        { "q": "Las Mates son la asignatura más difícil. (¡ojo!)", "a": "Maths is the most difficult subject." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "The Pet Show 🐾",
+      "text": [
+        "Last Saturday there was a pet show at Mario's school. Mario took Rocky, his dog. There were a lot of pets: dogs, cats, rabbits and even a parrot!",
+        "Leo's rabbit, Snowy, was the smallest pet in the show. Sara's cat, Tiger, was the oldest: he is fifteen! Tom's parrot was the noisiest. It talked all the time!",
+        "Rocky wasn't the biggest dog, but he was the fastest. He won the race! Anna's dog, Max, was the biggest, and he was the funniest too. He jumped into the water bowl! It was the best day of the year."
+      ],
+      "items": [
+        { "q": "Snowy was the biggest pet in the show.", "tf": true, "a": false, "why": "Snowy was the smallest pet." },
+        { "q": "Tiger was the oldest pet.", "tf": true, "a": true },
+        { "q": "Rocky was the biggest dog.", "tf": true, "a": false, "why": "Max was the biggest dog." },
+        { "q": "Which pet was the noisiest?", "a": "Tom's parrot was the noisiest." },
+        { "q": "Who won the race? Why?", "a": "Rocky won the race because he was the fastest." },
+        { "q": "Why was Max the funniest?", "a": "Because he jumped into the water bowl." },
+        { "q": "How old is Tiger?", "a": "He is fifteen (years old)." }
+      ]
+    },
+    {
+      "t": "wordsearch", "title": "Sopa de letras", "title_en": "Word search", "icon": "🔎",
+      "es": "Busca los 8 superlativos. Después escribe dos frases con dos de ellos.",
+      "en": "Find the 8 superlatives. Then write two sentences with two of them.",
+      "words": ["tallest", "biggest", "best", "worst", "fastest", "oldest", "happiest", "coldest"],
+      "clues": ["tallest · el más alto", "biggest · el más grande", "best · el mejor", "worst · el peor", "fastest · el más rápido", "oldest · el más mayor", "happiest · el más feliz", "coldest · el más frío"]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe frases sobre ti, tu familia y tu clase con superlativos.",
+      "en": "Write about you, your family and your class.",
+      "items": [
+        { "q": "¿Quién es <b>the oldest</b> de tu familia? ¿Y <b>the youngest</b>?", "lines": 2, "a": "Ej.: My grandma is the oldest in my family. My cousin Pablo is the youngest." },
+        { "q": "¿Cuál es el mejor día de la semana para ti? ¿Y el peor?", "lines": 2, "a": "Ej.: Saturday is the best day of the week. Monday is the worst!" },
+        { "q": "Escribe 2 récords de tu clase (the fastest, the funniest, the tallest…).", "lines": 2, "a": "Ej.: Leo is the fastest in my class. Sara is the funniest." },
+        { "q": "Escribe sobre tu animal favorito con un superlativo.", "lines": 2, "a": "Ej.: My favourite animal is the cheetah. It is the fastest land animal." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé formar el superlativo de palabras cortas: <b>the tallest</b>.", "en": "I can make short superlatives: the tallest." },
+    { "es": "Escribo bien <b>the biggest, the nicest, the happiest</b>.", "en": "I can spell biggest, nicest and happiest." },
+    { "es": "Uso <b>the most</b> con palabras largas.", "en": "I use the most with long adjectives." },
+    { "es": "Me sé los rebeldes: <b>the best, the worst, the furthest</b>.", "en": "I know the best, the worst and the furthest." },
+    { "es": "Sé elegir entre <b>in</b> (lugar, grupo) y <b>of</b> (número, tiempo).", "en": "I can choose in or of." },
+    { "es": "Sé cuándo usar comparativo (2) y superlativo (3 o más).", "en": "I know when to use comparatives and superlatives." }
+  ]
+}

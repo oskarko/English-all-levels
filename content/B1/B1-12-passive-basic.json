@@ -1,0 +1,468 @@
+{
+  "id": "B1-12",
+  "level": "B1",
+  "title": "VOZ PASIVA (BÁSICA)",
+  "file_title": "Voz pasiva (básica)",
+  "subtitle": "The passive · present and past simple",
+  "icon": "🏗️",
+  "map": {
+    "center": "Usamos la <b>VOZ PASIVA</b> cuando lo importante es <b>la acción o lo que le pasa a algo</b>, no quién lo hace.",
+    "nodes": [
+      {
+        "title": "¿Qué es?", "icon": "🔎",
+        "items": ["Activa: Leo <b>paints</b> the wall.", "Pasiva: The wall <b>is painted</b> (by Leo).", "<i>El objeto pasa a ser el sujeto.</i>"]
+      },
+      {
+        "title": "Estructura", "icon": "🧩",
+        "rows": [["Presente", "am / is / are + participio"], ["Pasado", "was / were + participio"]],
+        "after": "Football <b>is played</b> everywhere."
+      },
+      {
+        "title": "Present simple", "icon": "📅", "art": "🏭",
+        "items": ["English <b>is spoken</b> here.", "These phones <b>are made</b> in China.", "<i>(Aquí se habla inglés.)</i>"]
+      },
+      {
+        "title": "Past simple", "icon": "🕰️",
+        "items": ["The bridge <b>was built</b> in 1890.", "The thieves <b>were caught</b> yesterday.", "<i>(Los ladrones fueron detenidos ayer.)</i>"]
+      },
+      {
+        "title": "BY + agente", "icon": "👤", "art": "🎨",
+        "items": ["<b>by</b> = quién lo hace (solo si importa)", "Guernica <b>was painted by</b> Picasso.", "<s>by someone</s>, <s>by people</s> → ¡fuera!"]
+      },
+      {
+        "title": "Negativas y preguntas", "icon": "❓",
+        "items": ["It <b>isn't made</b> here. · They <b>weren't invited</b>.", "<b>Is</b> it <b>made</b> here? · <b>Were</b> you <b>invited</b>?", "¡Sin do / does / did!"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["Don Quixote was wrote by Cervantes."],
+      "good": ["Don Quixote was written by Cervantes."],
+      "note": "be + <b>participio</b> (3.ª columna)"
+    },
+    "mini": {
+      "es": "Completa con la pasiva: is / are / was / were + participio.",
+      "en": "Complete with the passive.",
+      "items": [
+        { "q": "Spanish ____ in Mexico.", "a": "is spoken", "hint": "speak" },
+        { "q": "This bridge ____ in 1900.", "a": "was built", "hint": "build" },
+        { "q": "These shoes ____ in Italy.", "a": "are made", "hint": "make" },
+        { "q": "The thieves ____ yesterday.", "a": "were caught", "hint": "catch" },
+        { "q": "Hamlet was written ____ Shakespeare.", "a": "by" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "En la <b>voz activa</b> el sujeto <b>hace</b> la acción: <i>Leo paints the wall</i>. En la <b>voz pasiva</b> el sujeto <b>recibe</b> la acción: <i>The wall is painted</i>. La usamos cuando <mark>lo importante es la acción o el objeto</mark>, no quién lo hace (porque no lo sabemos, no importa o es obvio). En español solemos decirlo con <b>«se»</b> (<i>se habla inglés, se construyó en 1890</i>), con <b>ser + participio</b> (<i>fue construido</i>) o con un «ellos» impersonal (<i>me robaron la bici</i>).",
+      "en": "In the <b>passive</b>, the subject receives the action. We use it when the action or the object is more important than who does it.",
+      "formula": ["Sujeto + *be* + participio + (by + agente)"]
+    },
+    {
+      "t": "rule", "title": "1 · De activa a pasiva", "title_en": "From active to passive", "icon": "🔄", "color": "green",
+      "es": "Para pasar una frase a pasiva: 1) el <b>objeto</b> de la activa pasa a ser el <b>sujeto</b>; 2) ponemos <b>be</b> en el mismo tiempo que el verbo activo; 3) añadimos el <b>participio</b> del verbo principal; 4) si queremos decir quién lo hizo, usamos <b>by</b>.",
+      "en": "Active object → passive subject. Then <b>be</b> (same tense) + <b>past participle</b> (+ by + agent).",
+      "formula": ["Activa + Someone + *cleans* + the room", "Pasiva + The room + *is cleaned*"],
+      "examples": [
+        { "en": "Millions of people <b>watch</b> the final. → The final <b>is watched</b> by millions of people.", "es": "Millones de personas ven la final. → La final la ven millones de personas.", "icon": "📺" },
+        { "en": "Someone <b>stole</b> my bike. → My bike <b>was stolen</b>.", "es": "Alguien me robó la bici. → Me robaron la bici.", "icon": "🚲" },
+        { "en": "They <b>sell</b> tickets online. → Tickets <b>are sold</b> online.", "es": "Venden las entradas por internet. → Las entradas se venden por internet.", "icon": "🎟️" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · Present simple passive", "title_en": "am / is / are + participle", "icon": "📅", "color": "blue",
+      "es": "<b>am / is / are + participio</b>. Sirve para hechos generales, procesos y cosas que pasan normalmente. Concordancia: <b>is</b> con singular o incontable, <b>are</b> con plural. Muy típico con <i>made, spoken, sold, used, grown, played</i>.",
+      "en": "<b>am / is / are + past participle</b> for facts, processes and routines.",
+      "formula": ["singular + *is* + participio", "plural + *are* + participio"],
+      "examples": [
+        { "en": "Portuguese <b>is spoken</b> in Brazil.", "es": "En Brasil se habla portugués.", "icon": "🌎" },
+        { "en": "Most smartphones <b>are made</b> in Asia.", "es": "La mayoría de los móviles se fabrican en Asia.", "icon": "📱" },
+        { "en": "Coffee <b>is grown</b> in Colombia.", "es": "En Colombia se cultiva café.", "icon": "☕" }
+      ]
+    },
+    {
+      "t": "rule", "title": "3 · Past simple passive", "title_en": "was / were + participle", "icon": "🕰️", "color": "purple",
+      "es": "<b>was / were + participio</b>. Sirve para hechos del pasado: historia, noticias, inventos, construcciones, descubrimientos, delitos… <b>was</b> con singular, <b>were</b> con plural.",
+      "en": "<b>was / were + past participle</b> for past events, history and news.",
+      "formula": ["singular + *was* + participio", "plural + *were* + participio"],
+      "examples": [
+        { "en": "The Alhambra <b>was built</b> in the 13th and 14th centuries.", "es": "La Alhambra se construyó en los siglos XIII y XIV.", "icon": "🏰" },
+        { "en": "Penicillin <b>was discovered</b> by Alexander Fleming in 1928.", "es": "La penicilina fue descubierta por Alexander Fleming en 1928.", "icon": "🧪" },
+        { "en": "Two players <b>were injured</b> during the match.", "es": "Dos jugadores resultaron heridos durante el partido.", "icon": "🤕" }
+      ]
+    },
+    {
+      "t": "table", "title": "Todo junto", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["Tiempo · Tense", "✅ Afirmativa", "⛔ Negativa", "❓ Pregunta", "Traducción · Spanish"],
+      "rows": [
+        ["Present · singular", "It <b>is made</b> in Spain.", "It <b>isn't made</b> in Spain.", "<b>Is</b> it <b>made</b> in Spain?", "Se fabrica en España."],
+        ["Present · plural", "They <b>are made</b> in Spain.", "They <b>aren't made</b> in Spain.", "<b>Are</b> they <b>made</b> in Spain?", "Se fabrican en España."],
+        ["Past · singular", "It <b>was built</b> in 1990.", "It <b>wasn't built</b> in 1990.", "<b>Was</b> it <b>built</b> in 1990?", "Se construyó en 1990."],
+        ["Past · plural", "They <b>were built</b> in 1990.", "They <b>weren't built</b> in 1990.", "<b>Were</b> they <b>built</b> in 1990?", "Se construyeron en 1990."]
+      ],
+      "note": "Solo cambia <b>be</b> (is / are / was / were). El <mark>participio no cambia nunca</mark>: made, built, written…",
+      "note_en": "Only be changes. The past participle never changes."
+    },
+    {
+      "t": "rule", "title": "4 · Negativas y preguntas", "title_en": "Negatives and questions", "icon": "❓", "color": "red",
+      "es": "Como en cualquier frase con <b>be</b>: negativa con <b>not</b> (isn't, aren't, wasn't, weren't) y pregunta poniendo <b>be delante del sujeto</b>. ¡Sin do / does / did! <s>Did the window broken?</s> → <b>Was the window broken?</b>",
+      "en": "Negative: be + not. Question: be before the subject. No do / does / did.",
+      "formula": ["Sujeto + *isn't / wasn't* + participio", "*Is / Was* + sujeto + participio?", "*Wh-* + *is / was* + sujeto + participio?"],
+      "examples": [
+        { "en": "Breakfast <b>isn't included</b> in the price.", "es": "El desayuno no está incluido en el precio.", "icon": "🥐" },
+        { "en": "<b>Were</b> you <b>invited</b> to Lucía's wedding?", "es": "¿Te invitaron a la boda de Lucía?", "icon": "💒" },
+        { "en": "<b>When was</b> the Eiffel Tower <b>built</b>? — In 1889.", "es": "¿Cuándo se construyó la Torre Eiffel? — En 1889.", "icon": "🗼" }
+      ]
+    },
+    {
+      "t": "rule", "title": "5 · BY + agente", "title_en": "by + agent", "icon": "👤", "color": "teal",
+      "es": "Si queremos decir <b>quién</b> hace la acción, usamos <b>by</b> (= por): <i>written <u>by</u> Shakespeare</i>. Pero solo lo ponemos cuando <mark>es información importante o nueva</mark>. No ponemos <s>by someone</s>, <s>by people</s>, <s>by them</s> ni agentes obvios: <i>The thief was arrested</i> (¡ya sabemos que fue la policía!).",
+      "en": "Use <b>by</b> + agent only when it's important or new information. Don't say by someone / by people.",
+      "formula": ["participio + *by* + agente importante"],
+      "examples": [
+        { "en": "<i>Guernica</i> <b>was painted by</b> Picasso.", "es": "El Guernica fue pintado por Picasso.", "icon": "🎨" },
+        { "en": "This song <b>was written by</b> a 15-year-old girl!", "es": "¡Esta canción la escribió una chica de 15 años!", "icon": "🎵" },
+        { "en": "My wallet <b>was stolen</b> on the metro. <i>(no sabemos quién)</i>", "es": "Me robaron la cartera en el metro.", "icon": "👛" }
+      ]
+    },
+    {
+      "t": "compare", "title": "¿ACTIVA o PASIVA?", "title_en": "Active or passive?", "color": "blue", "icon": "⚖️",
+      "es": "Elige la <b>pasiva</b> cuando el protagonista es <mark>la cosa o la acción</mark>. Elige la <b>activa</b> cuando lo importante es <b>la persona</b> que lo hace.",
+      "en": "Passive: the thing or the action matters. Active: the person who does it matters.",
+      "cols": [
+        { "head": "🙋 Activa · importa quién", "color": "green", "items": ["<b>My mum made</b> this cake.", "<b>Spain won</b> the match.", "<b>Ana broke</b> the window."] },
+        { "head": "📦 Pasiva · importa qué", "color": "purple", "items": ["This cake <b>was made</b> with apples.", "The match <b>was played</b> in Seville.", "The window <b>was broken</b> last night."] }
+      ]
+    },
+    {
+      "t": "table", "title": "Participios que vas a necesitar", "title_en": "Useful past participles", "icon": "📚", "color": "purple",
+      "head": ["Verbo · Verb", "Participio", "Ejemplo · Example"],
+      "rows": [
+        ["make", "<b>made</b>", "It's made in Japan."],
+        ["build", "<b>built</b>", "It was built in 1920."],
+        ["write", "<b>written</b>", "It was written by Lorca."],
+        ["speak", "<b>spoken</b>", "French is spoken here."],
+        ["steal", "<b>stolen</b>", "My car was stolen."],
+        ["sell", "<b>sold</b>", "Tickets are sold online."],
+        ["find", "<b>found</b>", "It was found in a cave."],
+        ["eat", "<b>eaten</b>", "Paella is eaten all over Spain."],
+        ["take", "<b>taken</b>", "The photo was taken in Rome."],
+        ["break", "<b>broken</b>", "The window was broken."],
+        ["grow", "<b>grown</b>", "Rice is grown in Valencia."]
+      ],
+      "note": "Regulares: <b>-ed</b> (used, invented, cleaned). Ojo: el participio es la <b>3.ª columna</b> de los irregulares, no la 2.ª: <s>was wrote</s> → was <b>written</b>.",
+      "note_en": "Use the 3rd column (past participle), not the past simple."
+    },
+    {
+      "t": "table", "title": "Del español al inglés", "title_en": "Spanish «se» → English passive", "icon": "🔁", "color": "yellow",
+      "head": ["Español", "Inglés · English"],
+      "rows": [
+        ["Aquí <b>se habla</b> inglés.", "English <b>is spoken</b> here."],
+        ["<b>Se fabrican</b> en Alemania.", "They <b>are made</b> in Germany."],
+        ["<b>Me robaron</b> el móvil.", "My phone <b>was stolen</b>."],
+        ["La casa <b>se construyó</b> en 1950.", "The house <b>was built</b> in 1950."],
+        ["<b>Nos invitaron</b> a la fiesta.", "We <b>were invited</b> to the party."],
+        ["¿Dónde <b>se rodó</b> la película?", "Where <b>was</b> the film <b>shot</b>?"]
+      ],
+      "note": "Truco: cuando en español dices «<b>se</b> + verbo» o «<b>me / nos</b> + verbo en plural» sin decir quién (<i>me robaron, nos invitaron</i>), en inglés suele ir <mark>pasiva</mark>. ¡Nunca traduzcas ese «se» por <s>itself</s>!",
+      "note_en": "Spanish «se» or an impersonal «they» → English passive."
+    },
+    {
+      "t": "table", "title": "Pasivas de todos los días", "title_en": "Everyday passives", "icon": "⭐", "color": "pink",
+      "head": ["Expresión", "Significado", "Ejemplo · Example"],
+      "rows": [
+        ["<b>be born</b>", "nacer", "I <b>was born</b> in 2008."],
+        ["<b>be called</b>", "llamarse", "The film <b>is called</b> <i>Coco</i>."],
+        ["<b>be made of</b>", "estar hecho de", "This table <b>is made of</b> wood."],
+        ["<b>be located</b>", "estar situado", "The hotel <b>is located</b> near the beach."],
+        ["<b>be founded</b>", "fundarse", "Our club <b>was founded</b> in 1902."],
+        ["<b>be held</b>", "celebrarse", "The festival <b>is held</b> every July."]
+      ],
+      "note": "¡Ojo! <b>Nacer</b> en inglés va en pasiva: <b>I was born</b> in Madrid. Nunca <s>I born</s> ni <s>I am born</s> para hablar de tu nacimiento.",
+      "note_en": "«Nacer» is passive in English: I was born (never «I born»)."
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "The Olympic Games <b>are held</b> every four years.", "es": "Los Juegos Olímpicos se celebran cada cuatro años.", "icon": "🏅" },
+        { "en": "This app <b>is used</b> by millions of students.", "es": "Millones de estudiantes usan esta app.", "icon": "📲" },
+        { "en": "The first iPhone <b>was launched</b> in 2007.", "es": "El primer iPhone salió a la venta en 2007.", "icon": "🚀" },
+        { "en": "Our flight <b>was cancelled</b> because of the storm.", "es": "Nos cancelaron el vuelo por la tormenta.", "icon": "✈️" },
+        { "en": "The rooms <b>are cleaned</b> every morning.", "es": "Las habitaciones se limpian cada mañana.", "icon": "🧹" },
+        { "en": "The winners <b>were announced</b> on social media.", "es": "Los ganadores se anunciaron en redes sociales.", "icon": "🏆" },
+        { "en": "<b>Is</b> breakfast <b>included</b>? — Yes, it <b>is</b>.", "es": "¿Está incluido el desayuno? — Sí.", "icon": "🍳" },
+        { "en": "<i>Don Quixote</i> <b>was written</b> by Miguel de Cervantes.", "es": "El Quijote fue escrito por Miguel de Cervantes.", "icon": "📖" },
+        { "en": "My laptop <b>was repaired</b> in two days.", "es": "Me arreglaron el portátil en dos días.", "icon": "💻" },
+        { "en": "Thousands of selfies <b>are posted</b> every second.", "es": "Cada segundo se publican miles de selfis.", "icon": "🤳" },
+        { "en": "The thief <b>wasn't caught</b>.", "es": "No atraparon al ladrón.", "icon": "🦹" },
+        { "en": "Where <b>were</b> these photos <b>taken</b>?", "es": "¿Dónde se hicieron estas fotos?", "icon": "📸" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "trampas", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "The book was wrote by Cervantes.", "good": "The book was <b>written</b> by Cervantes.", "why": "Pasiva = be + participio (3.ª columna), no pasado.", "why_en": "Use the past participle." },
+        { "bad": "English speaks here.", "good": "English <b>is spoken</b> here.", "why": "Calco de «se habla»: necesitas be + participio.", "why_en": "The passive needs be + participle." },
+        { "bad": "The bridge built in 1900.", "good": "The bridge <b>was built</b> in 1900.", "why": "¡Falta el verbo be!", "why_en": "Don't forget be." },
+        { "bad": "These cars is made in Japan.", "good": "These cars <b>are</b> made in Japan.", "why": "Plural → are / were.", "why_en": "Plural → are / were." },
+        { "bad": "Did the window broken?", "good": "<b>Was</b> the window broken?", "why": "La pasiva pregunta con be, no con did.", "why_en": "Questions with be, not did." },
+        { "bad": "It was painted from Picasso.", "good": "It was painted <b>by</b> Picasso.", "why": "El agente va con by (no from, no for).", "why_en": "Agent → by." },
+        { "bad": "My bike was stolen by someone.", "good": "My bike was stolen.", "why": "«By someone» no aporta nada: quítalo.", "why_en": "Leave out «by someone»." },
+        { "bad": "It was happened yesterday.", "good": "It <b>happened</b> yesterday.", "why": "happen, arrive, die… no tienen pasiva (no llevan objeto).", "why_en": "Verbs with no object have no passive." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Cómo construyo la pasiva?", "title_en": "How do I build it?", "color": "orange",
+      "items": [
+        { "es": "Busca el <b>objeto</b> de la frase activa: será el nuevo <b>sujeto</b>.", "en": "The active object becomes the subject." },
+        { "es": "Mira el tiempo: presente → <b>am / is / are</b>; pasado → <b>was / were</b>.", "en": "Present → am / is / are. Past → was / were." },
+        { "es": "Haz concordar <b>be</b> con el nuevo sujeto (singular / plural).", "en": "Make be agree with the subject." },
+        { "es": "Añade el <b>participio</b> (3.ª columna: made, built, written…).", "en": "Add the past participle." },
+        { "es": "¿Es importante quién lo hizo? Añade <b>by</b> + agente. Si no, ¡no lo pongas!", "en": "Add by + agent only if it matters." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "En el museo", "title_en": "At the museum",
+      "lines": [
+        { "who": "Guide", "en": "This castle was built in the 12th century.", "es": "Este castillo se construyó en el siglo XII." },
+        { "who": "Tourist", "en": "Wow! Who was it built by?", "es": "¡Hala! ¿Quién lo construyó?" },
+        { "who": "Guide", "en": "By a local king. Later, it was used as a prison for many years.", "es": "Un rey de la zona. Más tarde se usó como cárcel durante muchos años." },
+        { "who": "Tourist", "en": "And are these paintings original?", "es": "¿Y estos cuadros son originales?" },
+        { "who": "Guide", "en": "Some are. That one was painted by Goya, but the others are copies.", "es": "Algunos sí. Ese lo pintó Goya, pero los demás son copias." },
+        { "who": "Tourist", "en": "Are photos allowed?", "es": "¿Se pueden hacer fotos?" },
+        { "who": "Guide", "en": "Yes, but flash isn't allowed. The paintings are easily damaged.", "es": "Sí, pero no se permite el flash. Los cuadros se dañan fácilmente." },
+        { "who": "Tourist", "en": "No problem. Thanks for the tour!", "es": "Sin problema. ¡Gracias por la visita!" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco: ¿hace o recibe?", "title_en": "Quick test",
+      "es": "Pregúntate: ¿el sujeto <b>hace</b> la acción o la <b>recibe</b>? <i>The pizza <u>makes</u>…</i> ¿La pizza hace algo? ¡No! La pizza <b>is made</b>. Si el sujeto recibe la acción → <mark>be + participio</mark>.",
+      "en": "Does the subject do the action or receive it? If it receives it → be + past participle."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose", "title": "Rodea la forma correcta", "title_en": "Circle the correct form", "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "English [is spoken|speaks] all over the world.", "a": "is spoken" },
+        { "q": "The Sagrada Familia [was designed|designed] by Gaudí.", "a": "was designed" },
+        { "q": "These T-shirts [are made|is made] in Portugal.", "a": "are made" },
+        { "q": "My phone [was stolen|was stole] last night.", "a": "was stolen" },
+        { "q": "The windows [were cleaned|was cleaned] yesterday.", "a": "were cleaned" },
+        { "q": "Hamlet was written [by|from] Shakespeare.", "a": "by" },
+        { "q": "[Was|Did] the match cancelled?", "a": "Was" },
+        { "q": "Paella [is eaten|eats] all over Spain.", "a": "is eaten" },
+        { "q": "The letters [weren't|didn't] sent.", "a": "weren't" },
+        { "q": "The accident [happened|was happened] at 10 p.m.", "a": "happened" }
+      ]
+    },
+    {
+      "t": "match", "title": "¿Quién hizo qué?", "title_en": "Who did what?", "icon": "🔗",
+      "es": "Une cada sujeto con su final. ¡Pon a prueba tu cultura general!",
+      "en": "Match the beginnings and the endings.",
+      "pairs": [
+        ["The Mona Lisa", "was painted by Leonardo da Vinci."],
+        ["The telephone", "was invented by Alexander Graham Bell."],
+        ["Don Quixote", "was written by Cervantes."],
+        ["Penicillin", "was discovered by Alexander Fleming."],
+        ["The Guggenheim Museum in Bilbao", "was designed by Frank Gehry."],
+        ["The Eiffel Tower", "was built for the 1889 World's Fair."],
+        ["Coffee", "is grown in Colombia and Brazil."],
+        ["Spanish", "is spoken by about 500 million people."]
+      ]
+    },
+    {
+      "t": "classify", "title": "¿Activa o pasiva?", "title_en": "Active or passive?", "icon": "🗂️",
+      "es": "Lee cada frase y escríbela en su caja: ¿el sujeto hace la acción (activa) o la recibe (pasiva)?",
+      "en": "Is the sentence active or passive?",
+      "cats": [
+        { "name": "🙋 Activa", "words": ["Leo cleans the kitchen.", "They built a school.", "She writes songs.", "Everyone loves pizza.", "The dog ate my homework.", "We visited Rome."] },
+        { "name": "📦 Pasiva", "words": ["The car was repaired.", "Cheese is made from milk.", "The thief was caught.", "Football is played everywhere.", "The emails were sent.", "The room isn't used."] }
+      ]
+    },
+    {
+      "t": "fill", "title": "Present simple passive", "title_en": "am / is / are + participle", "icon": "📅",
+      "es": "Completa con is / are (o isn't / aren't) + el participio del verbo.",
+      "en": "Complete with is / are + past participle.",
+      "items": [
+        { "q": "Spanish ____ (speak) in more than 20 countries.", "a": "is spoken" },
+        { "q": "Cars ____ (make) in this factory.", "a": "are made" },
+        { "q": "The museum ____ (visit) by thousands of tourists every year.", "a": "is visited" },
+        { "q": "Breakfast ____ (serve) from 7 to 10.", "a": "is served" },
+        { "q": "These bags ____ (not / sell) in shops, only online.", "a": "aren't sold" },
+        { "q": "Plastic bottles ____ (recycle) in the yellow bin.", "a": "are recycled" },
+        { "q": "____ service ____ (include) in the bill?", "a": "Is · included" },
+        { "q": "The rooms ____ (clean) every day.", "a": "are cleaned" },
+        { "q": "This word ____ (not / use) very often.", "a": "isn't used" },
+        { "q": "Olive oil ____ (produce) in Jaén.", "a": "is produced" }
+      ]
+    },
+    {
+      "t": "fill", "title": "Past simple passive", "title_en": "was / were + participle", "icon": "🕰️",
+      "es": "Completa con was / were (o wasn't / weren't) + el participio del verbo.",
+      "en": "Complete with was / were + past participle.",
+      "items": [
+        { "q": "The Alhambra ____ (build) in the Middle Ages.", "a": "was built" },
+        { "q": "The first emails ____ (send) in the 1970s.", "a": "were sent" },
+        { "q": "My bike ____ (steal) last week.", "a": "was stolen" },
+        { "q": "The match ____ (cancel) because of the rain.", "a": "was cancelled" },
+        { "q": "We ____ (invite) to their wedding.", "a": "were invited" },
+        { "q": "Guernica ____ (paint) by Picasso in 1937.", "a": "was painted" },
+        { "q": "The thieves ____ (not / catch).", "a": "weren't caught" },
+        { "q": "When ____ the tower ____ (build)?", "a": "was · built" },
+        { "q": "These photos ____ (take) in Iceland.", "a": "were taken" },
+        { "q": "The new stadium ____ (open) by the mayor.", "a": "was opened" }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Está bien la pasiva?", "title_en": "Is the passive correct?", "icon": "✅",
+      "es": "Marca T si la frase es correcta y F si tiene un error. Si es F, corrígela en tu cuaderno.",
+      "en": "Tick T if the sentence is correct and F if it has a mistake.",
+      "items": [
+        { "q": "The car was repaired yesterday.", "a": true },
+        { "q": "English is speak in Australia.", "a": false, "why": "English is spoken in Australia." },
+        { "q": "The pyramids were built thousands of years ago.", "a": true },
+        { "q": "The letter was wrote by my grandfather.", "a": false, "why": "The letter was written by my grandfather." },
+        { "q": "These shoes are made in Spain.", "a": true },
+        { "q": "The thief arrested last night.", "a": false, "why": "The thief was arrested last night." },
+        { "q": "Was your phone stolen?", "a": true },
+        { "q": "The accident was happened on the motorway.", "a": false, "why": "The accident happened on the motorway." }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Activa ↔ pasiva", "title_en": "Active ↔ passive", "icon": "📋", "wide": true,
+      "es": "Completa la columna que falta. Usa by solo si el agente es importante.",
+      "en": "Complete the missing column.",
+      "head": ["Activa · Active", "Pasiva · Passive"],
+      "rows": [
+        ["They make cheese in this village.", "?Cheese is made in this village."],
+        ["Someone cleaned the classroom.", "?The classroom was cleaned."],
+        ["?People speak French in Quebec.", "French is spoken in Quebec."],
+        ["Picasso painted this picture.", "?This picture was painted by Picasso."],
+        ["They sell tickets at the door.", "?Tickets are sold at the door."],
+        ["The police caught the thieves.", "?The thieves were caught (by the police)."],
+        ["?Lorca wrote this poem.", "This poem was written by Lorca."],
+        ["They don't use this room.", "?This room isn't used."]
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Pasa a pasiva", "title_en": "Make it passive", "icon": "🔄",
+      "es": "Reescribe la frase en pasiva. Decide si hace falta by.",
+      "en": "Rewrite the sentence in the passive.",
+      "items": [
+        { "q": "They grow oranges in Valencia.", "a": "Oranges are grown in Valencia." },
+        { "q": "Someone broke the window last night.", "a": "The window was broken last night." },
+        { "q": "Millions of people watch the Champions League final.", "a": "The Champions League final is watched by millions of people." },
+        { "q": "Alexander Fleming discovered penicillin.", "a": "Penicillin was discovered by Alexander Fleming." },
+        { "q": "They didn't invite us to the party.", "a": "We weren't invited to the party." },
+        { "q": "They clean the streets every night.", "a": "The streets are cleaned every night." },
+        { "q": "J.K. Rowling wrote the Harry Potter books.", "a": "The Harry Potter books were written by J.K. Rowling." },
+        { "q": "Did they cancel the concert?", "a": "Was the concert cancelled?" }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Pregunta y responde", "title_en": "Ask and answer", "icon": "❓",
+      "es": "Escribe la pregunta en pasiva y contesta con la pista. Presente para hechos generales; pasado para la historia.",
+      "en": "Write the passive question and answer it.",
+      "labels": ["❓", "💬"],
+      "items": [
+        { "q": "where / these trainers / make? (in Vietnam)", "a": ["Where are these trainers made?", "They're made in Vietnam."] },
+        { "q": "when / the Eiffel Tower / build? (in 1889)", "a": ["When was the Eiffel Tower built?", "It was built in 1889."] },
+        { "q": "your car / repair / yesterday? (YES)", "a": ["Was your car repaired yesterday?", "Yes, it was."] },
+        { "q": "English / speak / in Malta? (YES)", "a": ["Is English spoken in Malta?", "Yes, it is."] },
+        { "q": "who / the Sagrada Familia / design / by? (Gaudí)", "a": ["Who was the Sagrada Familia designed by?", "It was designed by Gaudí."] },
+        { "q": "the winners / announce / last night? (NO)", "a": ["Were the winners announced last night?", "No, they weren't."] }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las fichas y escribe la frase. La ficha con mayúscula va al principio.",
+      "en": "Put the words in order. The tile with a capital letter goes first.",
+      "items": [
+        { "q": "is / English / here / spoken", "a": "English is spoken here." },
+        { "q": "was / The bridge / in 1890 / built", "a": "The bridge was built in 1890." },
+        { "q": "made / are / in Italy / These shoes", "a": "These shoes are made in Italy." },
+        { "q": "by / was / painted / Picasso / Guernica", "a": "Guernica was painted by Picasso." },
+        { "q": "stolen / My bike / last night / was", "a": "My bike was stolen last night." },
+        { "q": "invited / Were / to the party / you / ?", "a": "Were you invited to the party?" },
+        { "q": "isn't / Breakfast / in the price / included", "a": "Breakfast isn't included in the price." },
+        { "q": "were / When / built / the pyramids / ?", "a": "When were the pyramids built?" }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "The film was direct by Almodóvar.", "a": "The film was directed by Almodóvar." },
+        { "q": "Spanish speaks in Argentina.", "a": "Spanish is spoken in Argentina." },
+        { "q": "The windows was cleaned yesterday.", "a": "The windows were cleaned yesterday." },
+        { "q": "The car stolen last night.", "a": "The car was stolen last night." },
+        { "q": "Did the letter sent?", "a": "Was the letter sent?" },
+        { "q": "The book was written from Lorca.", "a": "The book was written by Lorca." },
+        { "q": "My grandmother was died in 2015.", "a": "My grandmother died in 2015." },
+        { "q": "This song was sang by Rosalía.", "a": "This song was sung by Rosalía." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce con la pasiva. Recuerda: «se habla», «me robaron»… → be + participio.",
+      "en": "Translate into English using the passive.",
+      "items": [
+        { "q": "Aquí se habla inglés.", "a": "English is spoken here." },
+        { "q": "Me robaron la cartera.", "a": "My wallet was stolen." },
+        { "q": "Este puente se construyó en 1920.", "a": "This bridge was built in 1920." },
+        { "q": "Estas camisetas se fabrican en Portugal.", "a": "These T-shirts are made in Portugal." },
+        { "q": "Nos invitaron a la boda.", "a": "We were invited to the wedding." },
+        { "q": "El Guernica fue pintado por Picasso.", "a": "Guernica was painted by Picasso." },
+        { "q": "¿Dónde se rodó la película?", "a": "Where was the film shot / filmed?" },
+        { "q": "El desayuno no está incluido.", "a": "Breakfast isn't included." },
+        { "q": "Las habitaciones se limpian todos los días.", "a": "The rooms are cleaned every day." },
+        { "q": "¿Cuándo se inventó el teléfono?", "a": "When was the telephone invented?" }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto. Marca T (verdadero) o F (falso) y contesta las preguntas con frases completas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "From bean to bar: the story of chocolate",
+      "text": [
+        "Chocolate is made from cacao beans. These beans are grown in hot countries near the equator, like Ivory Coast, Ghana and Ecuador. Most of the world's cacao is produced in West Africa.",
+        "Long ago, cacao was used by the Olmecs, the Maya and the Aztecs in Mexico and Central America. It wasn't eaten as a sweet: it was drunk as a bitter drink, often with chilli. In the 16th century, cacao was taken to Spain by Spanish explorers, and sugar was added to make it sweeter.",
+        "Today, the beans are picked by hand, dried in the sun and sent to factories. There, they are roasted and ground into a paste. Then milk and sugar are added, and the chocolate is poured into moulds. Millions of tonnes of chocolate are eaten every year!"
+      ],
+      "items": [
+        { "q": "Cacao beans are grown in cold countries.", "tf": true, "a": false, "why": "They're grown in hot countries near the equator." },
+        { "q": "Most cacao is produced in West Africa.", "tf": true, "a": true },
+        { "q": "At first, cacao was eaten as a sweet.", "tf": true, "a": false, "why": "It was drunk as a bitter drink." },
+        { "q": "The beans are picked by machines.", "tf": true, "a": false, "why": "They're picked by hand." },
+        { "q": "Who was cacao used by long ago?", "a": "It was used by the Olmecs, the Maya and the Aztecs." },
+        { "q": "When was cacao taken to Spain?", "a": "It was taken to Spain in the 16th century." },
+        { "q": "What is done to the beans in the factories?", "a": "They are roasted and ground into a paste." },
+        { "q": "Find four passive verbs in the text.", "a": "Any four: is made, are grown, is produced, was used, was drunk, was taken, was added, are picked, are roasted, is poured, are eaten…" }
+      ]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe frases en pasiva sobre tu mundo.",
+      "en": "Write passive sentences about your world.",
+      "items": [
+        { "q": "Escribe 2 frases sobre tu región o país: <b>… is made / is grown / is spoken…</b>", "lines": 2, "a": "Ej.: Olive oil is produced in my region. Spanish and Catalan are spoken in my city." },
+        { "q": "Escribe 2 frases sobre un monumento o un invento: <b>… was built / was invented…</b>", "lines": 2, "a": "Ej.: The Roman bridge in my town was built 2,000 years ago. The bicycle was invented in the 19th century." },
+        { "q": "Escribe una «noticia» de 2 frases con <b>was / were</b> + participio.", "lines": 2, "a": "Ej.: A famous painting was stolen from a museum last night. The thieves were seen by a security guard." },
+        { "q": "Escribe 2 preguntas para un concurso: <b>When was… invented? Who was… written by?</b>", "lines": 2, "a": "Ej.: When was the telephone invented? Who was Don Quixote written by?" }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé formar la pasiva: <b>be + participio</b>.", "en": "I can form the passive: be + past participle." },
+    { "es": "Uso <b>is / are</b> (presente) y <b>was / were</b> (pasado) según el sujeto.", "en": "I use is / are and was / were correctly." },
+    { "es": "Uso el <b>participio</b> (3.ª columna): written, built, stolen…", "en": "I use the past participle, not the past simple." },
+    { "es": "Uso <b>by</b> solo cuando importa quién lo hace.", "en": "I use by only when the agent is important." },
+    { "es": "Hago preguntas y negativas con be: <b>Was it built…? It isn't made…</b>", "en": "I make questions and negatives with be." },
+    { "es": "Traduzco «se habla», «me robaron»… con la pasiva.", "en": "I can translate Spanish «se» sentences into the passive." }
+  ]
+}

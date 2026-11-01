@@ -1,0 +1,1608 @@
+{
+  "id": "A1-01",
+  "level": "A1",
+  "title": "EL ALFABETO",
+  "file_title": "El alfabeto",
+  "subtitle": "The alphabet · las letras en inglés",
+  "icon": "🔤",
+  "map": {
+    "center": "El <b>alfabeto</b> inglés tiene <b>26 letras</b>. ¡Cada letra tiene su propio <b>nombre</b> en inglés!",
+    "nodes": [
+      {
+        "title": "26 letras",
+        "icon": "🔤",
+        "rows": [
+          [
+            "5 vocales",
+            "A · E · I · O · U"
+          ],
+          [
+            "21 consonantes",
+            "B, C, D, F, G…"
+          ]
+        ],
+        "after": "¡No hay <em>ñ</em>! Pero hay mucha <b>K</b> y <b>W</b>."
+      },
+      {
+        "title": "Letras traviesas",
+        "icon": "🙈",
+        "art": "🤪",
+        "items": [
+          "<b>E</b> se dice «i» · <b>I</b> se dice «ai»",
+          "<b>G</b> = «yi» · <b>J</b> = «yei»",
+          "<b>A</b> = «ei» · <b>Y</b> = «uai»",
+          "<b>W</b> = «dábel-iu» (double U)"
+        ]
+      },
+      {
+        "title": "Deletrear",
+        "icon": "🗣️",
+        "items": [
+          "<b>How do you spell</b> your name?",
+          "— M-A-R-I-O. <i>(em-ei-aa-ai-ou)</i>",
+          "book = B, <b>double O</b>, K"
+        ],
+        "art": "🙋"
+      },
+      {
+        "title": "Mayúsculas",
+        "icon": "🔠",
+        "chips": [
+          "I",
+          "Mario",
+          "Monday",
+          "May",
+          "Spain",
+          "English"
+        ],
+        "after": "<b>I</b> (yo), días, meses, países e idiomas: ¡siempre con mayúscula!"
+      },
+      {
+        "title": "Letras mudas",
+        "icon": "🤫",
+        "items": [
+          "Se escriben, pero <em>no suenan</em>:",
+          "<em>k</em>nee · <em>w</em>rite · lam<em>b</em>",
+          "<em>h</em>our · ni<em>gh</em>t · We<em>d</em>nesday"
+        ]
+      },
+      {
+        "title": "Letras que riman",
+        "icon": "🎵",
+        "rows": [
+          [
+            "«ei»",
+            "A · H · J · K"
+          ],
+          [
+            "«i»",
+            "B · C · D · E · G · P · T · V"
+          ],
+          [
+            "«e»",
+            "F · L · M · N · S · X · Z"
+          ]
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "i live in spain."
+      ],
+      "good": [
+        "I live in Spain."
+      ],
+      "note": "<b>I</b> y los países → <b>mayúscula</b>"
+    },
+    "mini": {
+      "es": "Lee las letras y escribe la palabra.",
+      "en": "Read the letters and write the word.",
+      "items": [
+        {
+          "q": "«di · ou · yi» → ____",
+          "a": "dog",
+          "hint": "🐶"
+        },
+        {
+          "q": "«si · ei · ti» → ____",
+          "a": "cat",
+          "hint": "🐱"
+        },
+        {
+          "q": "«bi · ai · kei · i» → ____",
+          "a": "bike",
+          "hint": "🚲"
+        },
+        {
+          "q": "«yei · iu · ai · si · i» → ____",
+          "a": "juice",
+          "hint": "🧃"
+        },
+        {
+          "q": "«uai · i · es» → ____",
+          "a": "yes",
+          "hint": "👍"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "title": "El alfabeto",
+      "title_en": "The alphabet",
+      "icon": "🔤",
+      "es": "El <b>alfabeto inglés</b> (<i>the alphabet</i> o <i>the ABC</i>) tiene <mark>26 letras</mark>: <b>5 vocales</b> (A, E, I, O, U) y <b>21 consonantes</b>. ¡<em>No hay ñ</em>! Son casi las mismas letras que en español, pero <b>cada letra tiene su nombre en inglés</b>: la A se dice «ei», la E se dice «i»… Con los nombres podemos <b>deletrear</b> (decir cómo se escribe una palabra). En la tabla, <b>Suena</b> es una ayuda en español y <b>IPA</b> es el sonido del diccionario.",
+      "en": "The English alphabet has <mark>26 letters</mark>: 5 vowels and 21 consonants. Each letter has an English name. We use the names to <b>spell</b> words.",
+      "formula": [
+        "*A · E · I · O · U* + 21 consonantes"
+      ],
+      "wide": true
+    },
+    {
+      "t": "table",
+      "title": "Las 26 letras",
+      "title_en": "The 26 letters",
+      "icon": "🔤",
+      "color": "green",
+      "wide": true,
+      "head": [
+        "Letra",
+        "Suena · IPA",
+        "Ejemplo",
+        "Letra",
+        "Suena · IPA",
+        "Ejemplo",
+        "Letra",
+        "Suena · IPA",
+        "Ejemplo"
+      ],
+      "rows": [
+        [
+          "<b>A a</b>",
+          "«ei» <i>/eɪ/</i>",
+          "🍎 apple",
+          "<b>J j</b>",
+          "«yei» <i>/dʒeɪ/</i>",
+          "🧃 juice",
+          "<b>S s</b>",
+          "«es» <i>/es/</i>",
+          "☀️ sun"
+        ],
+        [
+          "<b>B b</b>",
+          "«bi» <i>/biː/</i>",
+          "⚽ ball",
+          "<b>K k</b>",
+          "«kei» <i>/keɪ/</i>",
+          "🪁 kite",
+          "<b>T t</b>",
+          "«ti» <i>/tiː/</i>",
+          "🐯 tiger"
+        ],
+        [
+          "<b>C c</b>",
+          "«si» <i>/siː/</i>",
+          "🐱 cat",
+          "<b>L l</b>",
+          "«el» <i>/el/</i>",
+          "🦁 lion",
+          "<b>U u</b>",
+          "«iu» <i>/juː/</i>",
+          "☂️ umbrella"
+        ],
+        [
+          "<b>D d</b>",
+          "«di» <i>/diː/</i>",
+          "🐶 dog",
+          "<b>M m</b>",
+          "«em» <i>/em/</i>",
+          "🐒 monkey",
+          "<b>V v</b>",
+          "«vi» <i>/viː/</i>",
+          "🎻 violin"
+        ],
+        [
+          "<b>E e</b>",
+          "«i» <i>/iː/</i>",
+          "🥚 egg",
+          "<b>N n</b>",
+          "«en» <i>/en/</i>",
+          "👃 nose",
+          "<b>W w</b>",
+          "«dábel-iu» <i>/ˈdʌbl juː/</i>",
+          "⌚ watch"
+        ],
+        [
+          "<b>F f</b>",
+          "«ef» <i>/ef/</i>",
+          "🐟 fish",
+          "<b>O o</b>",
+          "«ou» <i>/əʊ/</i>",
+          "🍊 orange",
+          "<b>X x</b>",
+          "«eks» <i>/eks/</i>",
+          "🦊 fox"
+        ],
+        [
+          "<b>G g</b>",
+          "«yi» <i>/dʒiː/</i>",
+          "🦒 giraffe",
+          "<b>P p</b>",
+          "«pi» <i>/piː/</i>",
+          "🍕 pizza",
+          "<b>Y y</b>",
+          "«uai» <i>/waɪ/</i>",
+          "💛 yellow"
+        ],
+        [
+          "<b>H h</b>",
+          "«eich» <i>/eɪtʃ/</i>",
+          "🏠 house",
+          "<b>Q q</b>",
+          "«kiu» <i>/kjuː/</i>",
+          "👑 queen",
+          "<b>Z z</b>",
+          "«zed» <i>/zed/</i>",
+          "🦓 zebra"
+        ],
+        [
+          "<b>I i</b>",
+          "«ai» <i>/aɪ/</i>",
+          "🍦 ice cream",
+          "<b>R r</b>",
+          "«aa» <i>/ɑː/</i>",
+          "🐰 rabbit",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "t": "table",
+      "title": "1 · Letras traviesas",
+      "title_en": "Tricky letters",
+      "icon": "🙈",
+      "color": "red",
+      "wide": true,
+      "head": [
+        "Letra",
+        "🇪🇸 En español",
+        "🇬🇧 En inglés",
+        "Truco · Trick"
+      ],
+      "rows": [
+        [
+          "<b>A</b>",
+          "a",
+          "«ei»",
+          "Suena como en n<b>a</b>me y c<b>a</b>ke."
+        ],
+        [
+          "<b>E</b>",
+          "e",
+          "«i»",
+          "<b>e</b>-mail se dice «<b>i</b>-meil»."
+        ],
+        [
+          "<b>I</b>",
+          "i",
+          "«ai»",
+          "<b>I</b> (yo) se dice «ai»: <b>I</b>'m Mario."
+        ],
+        [
+          "<b>G</b>",
+          "ge",
+          "«yi»",
+          "¡Al revés que en español! G = «yi»…"
+        ],
+        [
+          "<b>J</b>",
+          "jota",
+          "«yei»",
+          "… y J = «yei». DJ se dice «di-<b>yei</b>»."
+        ],
+        [
+          "<b>H</b>",
+          "hache",
+          "«eich»",
+          "En inglés casi siempre suena, como una j suave: <b>h</b>ello, <b>h</b>ouse."
+        ],
+        [
+          "<b>R</b>",
+          "erre",
+          "«aa»",
+          "Abre la boca como en el médico: ¡aaa!"
+        ],
+        [
+          "<b>W</b>",
+          "uve doble",
+          "«dábel-iu»",
+          "Es «double U»: ¡dos U pegadas!"
+        ],
+        [
+          "<b>Y</b>",
+          "i griega",
+          "«uai»",
+          "Suena igual que <b>why</b> (¿por qué?)."
+        ]
+      ]
+    },
+    {
+      "t": "table",
+      "title": "2 · Letras que riman: ¡apréndelas por familias!",
+      "title_en": "Letters that rhyme",
+      "icon": "🎵",
+      "color": "purple",
+      "head": [
+        "Suena · Sound",
+        "Letras · Letters",
+        "Rima con · Rhymes with"
+      ],
+      "rows": [
+        [
+          "«ei» /eɪ/",
+          "<b>A H J K</b>",
+          "s<b>ay</b>, pl<b>ay</b>"
+        ],
+        [
+          "«i» /iː/",
+          "<b>B C D E G P T V</b>",
+          "s<b>ee</b>, thr<b>ee</b>"
+        ],
+        [
+          "«e» /e/",
+          "<b>F L M N S X Z</b>",
+          "t<b>e</b>n, r<b>e</b>d"
+        ],
+        [
+          "«ai» /aɪ/",
+          "<b>I Y</b>",
+          "m<b>y</b>, f<b>i</b>ve"
+        ],
+        [
+          "«ou» /əʊ/",
+          "<b>O</b>",
+          "n<b>o</b>, g<b>o</b>"
+        ],
+        [
+          "«iu» /juː/",
+          "<b>Q U W</b>",
+          "y<b>ou</b>, n<b>ew</b>"
+        ],
+        [
+          "«aa» /ɑː/",
+          "<b>R</b>",
+          "c<b>ar</b>, st<b>ar</b>"
+        ]
+      ],
+      "wide": true
+    },
+    {
+      "t": "vocab",
+      "title": "¡Ya conoces letras en inglés!",
+      "title_en": "You already know English letters",
+      "icon": "😎",
+      "color": "teal",
+      "items": [
+        {
+          "en": "TV",
+          "es": "«ti-vi» · la tele",
+          "icon": "📺"
+        },
+        {
+          "en": "DJ",
+          "es": "«di-yei» · pinchadiscos",
+          "icon": "🎧"
+        },
+        {
+          "en": "OK",
+          "es": "«ou-kei» · vale",
+          "icon": "👌"
+        },
+        {
+          "en": "e-mail",
+          "es": "«i-meil» · correo",
+          "icon": "📧"
+        },
+        {
+          "en": "T-shirt",
+          "es": "«ti-shert» · camiseta",
+          "icon": "👕"
+        },
+        {
+          "en": "PE",
+          "es": "«pi-i» · Educación Física",
+          "icon": "🤸"
+        },
+        {
+          "en": "UK",
+          "es": "«iu-kei» · Reino Unido",
+          "icon": "🇬🇧"
+        },
+        {
+          "en": "USA",
+          "es": "«iu-es-ei» · EE. UU.",
+          "icon": "🇺🇸"
+        },
+        {
+          "en": "PC",
+          "es": "«pi-si» · ordenador",
+          "icon": "💻"
+        },
+        {
+          "en": "DVD",
+          "es": "«di-vi-di»",
+          "icon": "📀"
+        },
+        {
+          "en": "ID card",
+          "es": "«ai-di» · carné",
+          "icon": "🪪"
+        },
+        {
+          "en": "ABC",
+          "es": "«ei-bi-si» · abecedario",
+          "icon": "🔤"
+        }
+      ],
+      "wide": true,
+      "cols": 4
+    },
+    {
+      "t": "rule",
+      "title": "3 · ¿Cómo se deletrea?",
+      "title_en": "How do you spell it?",
+      "icon": "🗣️",
+      "color": "orange",
+      "es": "<b>Deletrear</b> (<i>to spell</i>) es decir una palabra <b>letra a letra</b> con los nombres ingleses. Para preguntarlo decimos <mark>How do you spell…?</mark> Cuando hay <b>dos letras iguales juntas</b>, decimos <b>double</b>: <i>book = B, double O, K</i>. En el examen Cambridge te piden deletrear nombres: ¡practica el tuyo!",
+      "en": "To <b>spell</b> is to say a word letter by letter. Ask <mark>How do you spell…?</mark> For two equal letters together, say <b>double</b>.",
+      "formula": [
+        "*How do you spell* + your name + ?",
+        "B + *double O* + K = book"
+      ],
+      "examples": [
+        {
+          "en": "How do you spell your name? — M-A-R-I-O.",
+          "es": "¿Cómo se escribe tu nombre? — M-A-R-I-O.",
+          "icon": "🙋"
+        },
+        {
+          "en": "How do you spell 'dog'? — D-O-G.",
+          "es": "¿Cómo se escribe «dog»? — D-O-G.",
+          "icon": "🐶"
+        },
+        {
+          "en": "Book: B, double O, K.",
+          "es": "Book: B, dos oes, K.",
+          "icon": "📘"
+        },
+        {
+          "en": "Can you spell that, please?",
+          "es": "¿Puedes deletrearlo, por favor?",
+          "icon": "🙏"
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En clase de inglés",
+      "title_en": "In the English class",
+      "lines": [
+        {
+          "who": "Teacher",
+          "en": "Hello! What's your name?",
+          "es": "¡Hola! ¿Cómo te llamas?"
+        },
+        {
+          "who": "Mario",
+          "en": "My name's Mario.",
+          "es": "Me llamo Mario."
+        },
+        {
+          "who": "Teacher",
+          "en": "How do you spell Mario?",
+          "es": "¿Cómo se escribe Mario?"
+        },
+        {
+          "who": "Mario",
+          "en": "M-A-R-I-O.",
+          "es": "M-A-R-I-O. <i>(em-ei-aa-ai-ou)</i>"
+        },
+        {
+          "who": "Teacher",
+          "en": "Great! Have you got a pet?",
+          "es": "¡Genial! ¿Tienes mascota?"
+        },
+        {
+          "who": "Mario",
+          "en": "Yes, a dog. His name's Rocky: R-O-C-K-Y.",
+          "es": "Sí, un perro. Se llama Rocky: R-O-C-K-Y."
+        },
+        {
+          "who": "Teacher",
+          "en": "With C and K. Thank you, Mario!",
+          "es": "Con C y K. ¡Gracias, Mario!"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Mayúsculas",
+      "title_en": "Capital letters",
+      "icon": "🔠",
+      "color": "blue",
+      "es": "En inglés usamos <b>mayúscula</b> (<i>capital letter</i>) en más palabras que en español: <mark>I</mark> (yo), los <b>nombres</b> de personas y mascotas, los <b>días</b> de la semana, los <b>meses</b>, los <b>países</b> y ciudades, y los <b>idiomas y nacionalidades</b>. ¡Y siempre al empezar una frase!",
+      "en": "Use a <b>capital letter</b> for: I, names, days, months, countries, cities, languages and nationalities, and at the start of a sentence.",
+      "examples": [
+        {
+          "en": "<b>M</b>y name is <b>M</b>ario and <b>I</b> live in <b>S</b>pain.",
+          "es": "Me llamo Mario y vivo en España.",
+          "icon": "🏠"
+        },
+        {
+          "en": "We have got <b>E</b>nglish on <b>M</b>onday.",
+          "es": "Tenemos inglés el lunes.",
+          "icon": "📅"
+        },
+        {
+          "en": "My birthday is in <b>A</b>pril.",
+          "es": "Mi cumpleaños es en abril.",
+          "icon": "🎂"
+        },
+        {
+          "en": "Leo is <b>S</b>panish and Tom is <b>E</b>nglish.",
+          "es": "Leo es español y Tom es inglés.",
+          "icon": "⚽"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿Mayúscula o minúscula?",
+      "title_en": "Capital or small letter?",
+      "icon": "⚖️",
+      "color": "purple",
+      "es": "Fíjate: en español escribimos en <b>minúscula</b> los días, los meses y los idiomas. En inglés, ¡van con <b>MAYÚSCULA</b>!",
+      "en": "In Spanish, days, months and languages are small letters. In English they take a capital letter.",
+      "cols": [
+        {
+          "head": "🇪🇸 En español",
+          "color": "orange",
+          "items": [
+            "yo",
+            "lunes, martes",
+            "enero, mayo",
+            "inglés, español",
+            "Madrid, España"
+          ]
+        },
+        {
+          "head": "🇬🇧 In English",
+          "color": "blue",
+          "items": [
+            "<b>I</b>",
+            "<b>M</b>onday, <b>T</b>uesday",
+            "<b>J</b>anuary, <b>M</b>ay",
+            "<b>E</b>nglish, <b>S</b>panish",
+            "<b>M</b>adrid, <b>S</b>pain"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Trucos para no olvidar",
+      "title_en": "Memory tricks",
+      "es": "<b>E</b> se dice «i», como en <b>e-mail</b> («i-meil»). <b>I</b> se dice «ai», como en <b>I</b>'m Mario. <b>R</b> se dice «aa», como cuando el médico te pide: «¡Abre la boca: aaa!». La <b>W</b> es «double U»: ¡dos U pegadas! Y la <b>Z</b> británica es «zed» (en Estados Unidos, «zi»). Aprende las letras <mark>por familias que riman</mark>: es más fácil recordar 7 grupos que 26 letras sueltas.",
+      "en": "E sounds like the e in e-mail. I sounds like 'I'm'. R is 'aa', like at the doctor's. W is 'double U'. Z is 'zed' in British English. Learn the letters in rhyming families."
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo deletreo una palabra?",
+      "title_en": "How do I spell a word?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Mira la palabra despacio y sepárala en <b>letras</b>.",
+          "en": "Look at the word and split it into letters."
+        },
+        {
+          "es": "Di cada letra con su <b>nombre inglés</b>: D = «di», O = «ou», G = «yi».",
+          "en": "Say each letter with its English name."
+        },
+        {
+          "es": "¿Hay <b>dos letras iguales</b> juntas? Di <b>double</b>: B, double O, K.",
+          "en": "Two equal letters together? Say double."
+        },
+        {
+          "es": "¿Es un nombre, día, mes, país o idioma? → empieza con <b>mayúscula</b>.",
+          "en": "Names, days, months, countries, languages → capital letter."
+        },
+        {
+          "es": "Busca las <b>letras mudas</b>: ¿hay una k, w, b, h o gh que no suena?",
+          "en": "Check for silent letters: k, w, b, h, gh."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Letras mudas",
+      "title_en": "Silent letters",
+      "icon": "🤫",
+      "color": "green",
+      "es": "Algunas palabras tienen <b>letras mudas</b> (<i>silent letters</i>): <mark>se escriben, pero no se pronuncian</mark>. El <b>Monstruo Ae</b> quiere que escribas como suena (<s>nait</s>, <s>nee</s>)… ¡no le hagas caso! Las más típicas: <b>k</b> antes de n (<em>k</em>nee), <b>w</b> antes de r (<em>w</em>rite), <b>b</b> después de m (lam<em>b</em>), <b>gh</b> (ni<em>gh</em>t) y a veces la <b>h</b> (<em>h</em>our).",
+      "en": "Some words have <b>silent letters</b>: we write them, but we don't say them: <em>k</em>nee, <em>w</em>rite, lam<em>b</em>, ni<em>gh</em>t, <em>h</em>our.",
+      "examples": [
+        {
+          "en": "I <b>know</b> the <b>answer</b>!",
+          "es": "¡Me sé la respuesta! <i>(k y w mudas)</i>",
+          "icon": "🙋"
+        },
+        {
+          "en": "I <b>write</b> with my right hand.",
+          "es": "Escribo con la mano derecha.",
+          "icon": "✍️"
+        },
+        {
+          "en": "We play football for an <b>hour</b>.",
+          "es": "Jugamos al fútbol una hora.",
+          "icon": "⏰"
+        },
+        {
+          "en": "<b>Listen</b> to the teacher, please.",
+          "es": "Escucha a la profe, por favor.",
+          "icon": "👂"
+        }
+      ],
+      "wide": true
+    },
+    {
+      "t": "vocab",
+      "title": "Palabras con letra muda",
+      "title_en": "Words with silent letters",
+      "icon": "👻",
+      "color": "pink",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "<em>k</em>nee",
+          "es": "rodilla",
+          "icon": "🦵"
+        },
+        {
+          "en": "<em>k</em>nife",
+          "es": "cuchillo",
+          "icon": "🔪"
+        },
+        {
+          "en": "<em>k</em>now",
+          "es": "saber, conocer",
+          "icon": "🧠"
+        },
+        {
+          "en": "<em>w</em>rite",
+          "es": "escribir",
+          "icon": "✍️"
+        },
+        {
+          "en": "t<em>w</em>o",
+          "es": "dos",
+          "icon": "✌️"
+        },
+        {
+          "en": "lam<em>b</em>",
+          "es": "cordero",
+          "icon": "🐑"
+        },
+        {
+          "en": "<em>h</em>our",
+          "es": "hora",
+          "icon": "⏰"
+        },
+        {
+          "en": "sc<em>h</em>ool",
+          "es": "colegio",
+          "icon": "🏫"
+        },
+        {
+          "en": "ni<em>gh</em>t",
+          "es": "noche",
+          "icon": "🌙"
+        },
+        {
+          "en": "lis<em>t</em>en",
+          "es": "escuchar",
+          "icon": "👂"
+        },
+        {
+          "en": "wa<em>l</em>k",
+          "es": "caminar",
+          "icon": "🚶"
+        },
+        {
+          "en": "We<em>d</em>nesday",
+          "es": "miércoles",
+          "icon": "📅"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "A, E, I, O and U are vowels.",
+          "es": "A, E, I, O y U son vocales.",
+          "icon": "🔤"
+        },
+        {
+          "en": "'Banana' has got three vowels.",
+          "es": "«Banana» tiene tres vocales.",
+          "icon": "🍌"
+        },
+        {
+          "en": "What's your name? — Sara. S-A-R-A.",
+          "es": "¿Cómo te llamas? — Sara. S-A-R-A.",
+          "icon": "👧"
+        },
+        {
+          "en": "How do you spell 'Rocky'? — R-O-C-K-Y.",
+          "es": "¿Cómo se escribe «Rocky»? — R-O-C-K-Y.",
+          "icon": "🐕"
+        },
+        {
+          "en": "'Apple': A, double P, L, E.",
+          "es": "«Apple»: A, dos pes, L, E.",
+          "icon": "🍎"
+        },
+        {
+          "en": "Is it with a G or a J? — With a J.",
+          "es": "¿Es con G o con J? — Con J.",
+          "icon": "🤔"
+        },
+        {
+          "en": "My best friend is Leo.",
+          "es": "Mi mejor amigo es Leo.",
+          "icon": "🧒"
+        },
+        {
+          "en": "Today is Wednesday.",
+          "es": "Hoy es miércoles.",
+          "icon": "🗓️"
+        },
+        {
+          "en": "Lucía's birthday is in October.",
+          "es": "El cumpleaños de Lucía es en octubre.",
+          "icon": "🎂"
+        },
+        {
+          "en": "We live in Madrid, in Spain.",
+          "es": "Vivimos en Madrid, en España.",
+          "icon": "🇪🇸"
+        },
+        {
+          "en": "My knee hurts.",
+          "es": "Me duele la rodilla.",
+          "icon": "🦵"
+        },
+        {
+          "en": "Good night, Mum!",
+          "es": "¡Buenas noches, mamá!",
+          "icon": "🌙"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "ae",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "i like pizza.",
+          "good": "<b>I</b> like pizza.",
+          "why": "I (yo) siempre va en mayúscula.",
+          "why_en": "I is always a capital letter."
+        },
+        {
+          "bad": "I live in spain.",
+          "good": "I live in <b>S</b>pain.",
+          "why": "Los países van con mayúscula.",
+          "why_en": "Countries take a capital letter."
+        },
+        {
+          "bad": "I live in Espain.",
+          "good": "I live in <b>Spain</b>.",
+          "why": "¡No pongas «e» delante de la s! Spain, school, student.",
+          "why_en": "No e before s: Spain, school."
+        },
+        {
+          "bad": "on monday, in may",
+          "good": "on <b>M</b>onday, in <b>M</b>ay",
+          "why": "Días y meses con mayúscula (en español, no).",
+          "why_en": "Days and months: capital letter."
+        },
+        {
+          "bad": "I speak english.",
+          "good": "I speak <b>E</b>nglish.",
+          "why": "Los idiomas también van con mayúscula.",
+          "why_en": "Languages take a capital letter."
+        },
+        {
+          "bad": "Good nait!",
+          "good": "Good <b>night</b>!",
+          "why": "Se escribe -igh-, aunque suene «ai».",
+          "why_en": "We write -igh- but say «ai»."
+        },
+        {
+          "bad": "wensday",
+          "good": "<b>Wednesday</b>",
+          "why": "La d no suena, ¡pero se escribe!",
+          "why_en": "The d is silent, but we write it."
+        },
+        {
+          "bad": "Mario: «eme, a, erre, i, o»",
+          "good": "Mario: «<b>em, ei, aa, ai, ou</b>»",
+          "why": "Deletrea con los nombres ingleses de las letras.",
+          "why_en": "Spell with the English letter names."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "Une la letra con su nombre",
+      "title_en": "Match the letter and its name",
+      "icon": "🔗",
+      "es": "Une cada letra con cómo se dice en inglés.",
+      "en": "Match each letter with its English name.",
+      "pairs": [
+        [
+          "<b>A</b>",
+          "«ei»"
+        ],
+        [
+          "<b>E</b>",
+          "«i»"
+        ],
+        [
+          "<b>I</b>",
+          "«ai»"
+        ],
+        [
+          "<b>G</b>",
+          "«yi»"
+        ],
+        [
+          "<b>J</b>",
+          "«yei»"
+        ],
+        [
+          "<b>H</b>",
+          "«eich»"
+        ],
+        [
+          "<b>Y</b>",
+          "«uai»"
+        ],
+        [
+          "<b>W</b>",
+          "«dábel-iu»"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "¿Qué letra falta?",
+      "title_en": "What's the missing letter?",
+      "icon": "🧩",
+      "es": "Escribe la letra que falta. Dila en voz alta en inglés.",
+      "en": "Write the missing letter. Say it aloud in English.",
+      "items": [
+        {
+          "q": "A · B · ___ · D",
+          "a": "C"
+        },
+        {
+          "q": "D · ___ · F",
+          "a": "E"
+        },
+        {
+          "q": "F · ___ · H",
+          "a": "G"
+        },
+        {
+          "q": "H · ___ · J",
+          "a": "I"
+        },
+        {
+          "q": "J · K · ___",
+          "a": "L"
+        },
+        {
+          "q": "___ · N · O",
+          "a": "M"
+        },
+        {
+          "q": "P · Q · ___",
+          "a": "R"
+        },
+        {
+          "q": "S · ___ · U",
+          "a": "T"
+        },
+        {
+          "q": "V · ___ · X",
+          "a": "W"
+        },
+        {
+          "q": "X · Y · ___",
+          "a": "Z"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Familias de letras",
+      "title_en": "Letter families",
+      "icon": "🗂️",
+      "es": "Di cada letra en voz alta y escríbela en su familia de sonido.",
+      "en": "Say each letter and write it in its sound family.",
+      "cats": [
+        {
+          "name": "«ei» como <i>say</i>",
+          "words": [
+            "A",
+            "H",
+            "J",
+            "K"
+          ]
+        },
+        {
+          "name": "«i» como <i>see</i>",
+          "words": [
+            "B",
+            "C",
+            "D",
+            "E",
+            "G",
+            "P",
+            "T",
+            "V"
+          ]
+        },
+        {
+          "name": "«e» como <i>ten</i>",
+          "words": [
+            "F",
+            "L",
+            "M",
+            "N",
+            "S",
+            "X",
+            "Z"
+          ]
+        },
+        {
+          "name": "«ai» como <i>my</i>",
+          "words": [
+            "I",
+            "Y"
+          ]
+        }
+      ],
+      "wide": true
+    },
+    {
+      "t": "choose",
+      "title": "¿Qué letra es?",
+      "title_en": "Which letter is it?",
+      "icon": "⭕",
+      "es": "Rodea la letra que suena así.",
+      "en": "Circle the letter that sounds like this.",
+      "items": [
+        {
+          "q": "«ai» → [E|I]",
+          "a": "I"
+        },
+        {
+          "q": "«i» → [E|I]",
+          "a": "E"
+        },
+        {
+          "q": "«yi» → [G|J]",
+          "a": "G"
+        },
+        {
+          "q": "«yei» → [G|J]",
+          "a": "J"
+        },
+        {
+          "q": "«ei» → [A|E]",
+          "a": "A"
+        },
+        {
+          "q": "«uai» → [I|Y]",
+          "a": "Y"
+        },
+        {
+          "q": "«aa» → [A|R]",
+          "a": "R"
+        },
+        {
+          "q": "«iu» → [U|W]",
+          "a": "U"
+        },
+        {
+          "q": "«kiu» → [K|Q]",
+          "a": "Q"
+        },
+        {
+          "q": "«eich» → [A|H]",
+          "a": "H"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "✅",
+      "es": "Lee y rodea T (true, verdadero) o F (false, falso).",
+      "en": "Read and circle T or F.",
+      "items": [
+        {
+          "q": "The English alphabet has got 26 letters.",
+          "a": true
+        },
+        {
+          "q": "There is a ñ in the English alphabet.",
+          "a": false,
+          "why": "No hay ñ en inglés."
+        },
+        {
+          "q": "A, E, I, O and U are vowels.",
+          "a": true
+        },
+        {
+          "q": "The letter E sounds like «i».",
+          "a": true
+        },
+        {
+          "q": "The letter I sounds like «i».",
+          "a": false,
+          "why": "Se dice «ai»."
+        },
+        {
+          "q": "W is called «double U».",
+          "a": true
+        },
+        {
+          "q": "We write the days of the week with a capital letter.",
+          "a": true
+        },
+        {
+          "q": "We write «i like pizza» with a small i.",
+          "a": false,
+          "why": "I siempre en mayúscula: I like pizza."
+        },
+        {
+          "q": "The k in «knee» is silent.",
+          "a": true
+        },
+        {
+          "q": "In British English, Z is «zed».",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Analiza la palabra",
+      "title_en": "Look at the word",
+      "icon": "📋",
+      "wide": true,
+      "es": "Cuenta las letras y las vocales. Después escribe la primera letra y cómo se dice en inglés.",
+      "en": "Count the letters and the vowels. Then write the first letter and its English name.",
+      "head": [
+        "Palabra · Word",
+        "Nº de letras",
+        "Nº de vocales",
+        "1ª letra: ¿cómo se dice?"
+      ],
+      "rows": [
+        [
+          "🐶 dog",
+          "?3",
+          "?1",
+          "?D «di»"
+        ],
+        [
+          "🍎 apple",
+          "?5",
+          "?2",
+          "?A «ei»"
+        ],
+        [
+          "🏫 school",
+          "?6",
+          "?2",
+          "?S «es»"
+        ],
+        [
+          "🦒 giraffe",
+          "?7",
+          "?3",
+          "?G «yi»"
+        ],
+        [
+          "🧃 juice",
+          "?5",
+          "?3",
+          "?J «yei»"
+        ],
+        [
+          "🏠 house",
+          "?5",
+          "?3",
+          "?H «eich»"
+        ],
+        [
+          "💛 yellow",
+          "?6",
+          "?2",
+          "?Y «uai»"
+        ],
+        [
+          "🐰 rabbit",
+          "?6",
+          "?2",
+          "?R «aa»"
+        ]
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Orden alfabético",
+      "title_en": "Alphabetical order",
+      "icon": "🔤",
+      "es": "Escribe las palabras en orden alfabético (como en el diccionario). Si empiezan igual, mira la segunda letra.",
+      "en": "Write the words in alphabetical order.",
+      "items": [
+        {
+          "q": "dog / cat / apple / bike",
+          "a": "apple, bike, cat, dog"
+        },
+        {
+          "q": "Sara / Anna / Tom / Leo",
+          "a": "Anna, Leo, Sara, Tom"
+        },
+        {
+          "q": "lion / horse / zebra / monkey",
+          "a": "horse, lion, monkey, zebra"
+        },
+        {
+          "q": "red / blue / green / yellow",
+          "a": "blue, green, red, yellow"
+        },
+        {
+          "q": "pizza / juice / milk / egg",
+          "a": "egg, juice, milk, pizza"
+        },
+        {
+          "q": "school / pencil / book / rubber",
+          "a": "book, pencil, rubber, school"
+        },
+        {
+          "q": "bike / ball / bus / bed",
+          "a": "ball, bed, bike, bus"
+        },
+        {
+          "q": "cat / car / cow / cake",
+          "a": "cake, car, cat, cow"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "La letra muda",
+      "title_en": "The silent letter",
+      "icon": "🤫",
+      "es": "Escribe la letra muda que falta. ¡No suena, pero se escribe!",
+      "en": "Write the missing silent letter.",
+      "items": [
+        {
+          "q": "___nee",
+          "hint": "rodilla 🦵",
+          "a": "k"
+        },
+        {
+          "q": "___rite",
+          "hint": "escribir ✍️",
+          "a": "w"
+        },
+        {
+          "q": "lam___",
+          "hint": "cordero 🐑",
+          "a": "b"
+        },
+        {
+          "q": "___our",
+          "hint": "hora ⏰",
+          "a": "h"
+        },
+        {
+          "q": "lis___en",
+          "hint": "escuchar 👂",
+          "a": "t"
+        },
+        {
+          "q": "ni___t",
+          "hint": "noche 🌙",
+          "a": "gh"
+        },
+        {
+          "q": "We___nesday",
+          "hint": "miércoles 📅",
+          "a": "d"
+        },
+        {
+          "q": "sc___ool",
+          "hint": "colegio 🏫",
+          "a": "h"
+        },
+        {
+          "q": "wa___k",
+          "hint": "caminar 🚶",
+          "a": "l"
+        },
+        {
+          "q": "___nife",
+          "hint": "cuchillo 🔪",
+          "a": "k"
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea la palabra",
+      "title_en": "Spell the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en las cajas. ¡Ojo con el Monstruo Ae y las letras mudas!",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        {
+          "q": "🦵 rodilla",
+          "a": "knee"
+        },
+        {
+          "q": "✍️ escribir",
+          "a": "write"
+        },
+        {
+          "q": "🐑 cordero",
+          "a": "lamb"
+        },
+        {
+          "q": "⏰ hora",
+          "a": "hour"
+        },
+        {
+          "q": "🌙 noche",
+          "a": "night"
+        },
+        {
+          "q": "👂 escuchar",
+          "a": "listen"
+        },
+        {
+          "q": "🏫 colegio",
+          "a": "school"
+        },
+        {
+          "q": "🧒 amigo",
+          "a": "friend"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pon las mayúsculas",
+      "title_en": "Add the capital letters",
+      "icon": "🔠",
+      "es": "Copia la frase y pon mayúscula donde haga falta. Puede haber más de una.",
+      "en": "Copy the sentence with capital letters.",
+      "items": [
+        {
+          "q": "my name is lucía.",
+          "a": "My name is Lucía."
+        },
+        {
+          "q": "i live in madrid.",
+          "a": "I live in Madrid."
+        },
+        {
+          "q": "my birthday is in july.",
+          "a": "My birthday is in July."
+        },
+        {
+          "q": "tom is from england.",
+          "a": "Tom is from England."
+        },
+        {
+          "q": "we have got english on monday.",
+          "a": "We have got English on Monday."
+        },
+        {
+          "q": "leo and i play football on saturday.",
+          "a": "Leo and I play football on Saturday."
+        },
+        {
+          "q": "my dog rocky is from spain.",
+          "a": "My dog Rocky is from Spain."
+        },
+        {
+          "q": "anna speaks french and spanish.",
+          "a": "Anna speaks French and Spanish."
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UNA palabra mal escrita. Escríbela bien.",
+      "en": "Each sentence has ONE spelling mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "My nee hurts.",
+          "a": "My knee hurts."
+        },
+        {
+          "q": "I go to scool by bike.",
+          "a": "I go to school by bike."
+        },
+        {
+          "q": "Leo is my best frend.",
+          "a": "Leo is my best friend."
+        },
+        {
+          "q": "Good nait, Mum!",
+          "a": "Good night, Mum!"
+        },
+        {
+          "q": "I rite with a pencil.",
+          "a": "I write with a pencil."
+        },
+        {
+          "q": "I am from Espain.",
+          "a": "I am from Spain."
+        },
+        {
+          "q": "Lisen to the teacher.",
+          "a": "Listen to the teacher."
+        },
+        {
+          "q": "We have got PE on Wensday.",
+          "a": "We have got PE on Wednesday."
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {
+          "q": "spell / you / do / how / your name / ?",
+          "a": "How do you spell your name?"
+        },
+        {
+          "q": "is / name / my / Mario",
+          "a": "My name is Mario."
+        },
+        {
+          "q": "you / spell / can / that / please / ?",
+          "a": "Can you spell that, please?"
+        },
+        {
+          "q": "do / spell / how / you / Rocky / ?",
+          "a": "How do you spell Rocky?"
+        },
+        {
+          "q": "a / letter / it's / capital",
+          "a": "It's a capital letter."
+        },
+        {
+          "q": "the / is / silent / k",
+          "a": "The k is silent."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. ¡Cuidado con las mayúsculas y las letras mudas!",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "¿Cómo se escribe tu nombre?",
+          "a": "How do you spell your name?"
+        },
+        {
+          "q": "Me llamo Sara. S-A-R-A.",
+          "a": "My name is Sara. S-A-R-A."
+        },
+        {
+          "q": "Vivo en España.",
+          "a": "I live in Spain."
+        },
+        {
+          "q": "Hoy es lunes.",
+          "a": "Today is Monday."
+        },
+        {
+          "q": "Mi cumpleaños es en marzo.",
+          "a": "My birthday is in March."
+        },
+        {
+          "q": "Hablo español e inglés.",
+          "a": "I speak Spanish and English."
+        },
+        {
+          "q": "¿Puedes deletrearlo, por favor?",
+          "a": "Can you spell it, please?"
+        },
+        {
+          "q": "¡Buenas noches, papá!",
+          "a": "Good night, Dad!"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca las 10 palabras con letra muda. Después, rodea en cada una la letra que no suena.",
+      "en": "Find the 10 words. Then circle the silent letter in each one.",
+      "words": [
+        "knife",
+        "knee",
+        "lamb",
+        "write",
+        "hour",
+        "night",
+        "listen",
+        "school",
+        "Wednesday",
+        "climb"
+      ],
+      "clues": [
+        "knife · cuchillo",
+        "knee · rodilla",
+        "lamb · cordero",
+        "write · escribir",
+        "hour · hora",
+        "night · noche",
+        "listen · escuchar",
+        "school · colegio",
+        "Wednesday · miércoles",
+        "climb · trepar"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "The spelling game",
+      "text": [
+        "Hi! I'm Mario. Today is Friday and we have got a spelling game in our English class. Our teacher, Miss Brown, says a word and we spell it.",
+        "First, Anna spells 'giraffe': G-I-R-A-double F-E. Well done, Anna! Then Leo spells 'knife'. He says N-I-F-E. Oh no! He forgets the silent K.",
+        "Then it's my turn. My word is 'Wednesday'. I spell it: W-E-D-N-E-S-D-A-Y. Miss Brown says, 'Perfect, Mario!' I'm the winner!"
+      ],
+      "items": [
+        {
+          "q": "The spelling game is on Monday.",
+          "tf": true,
+          "a": false,
+          "why": "It's on Friday."
+        },
+        {
+          "q": "Anna spells 'giraffe' with a double F.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Leo spells 'knife' correctly.",
+          "tf": true,
+          "a": false,
+          "why": "He forgets the silent K."
+        },
+        {
+          "q": "What is the teacher's name?",
+          "a": "Miss Brown."
+        },
+        {
+          "q": "What is Mario's word?",
+          "a": "Wednesday."
+        },
+        {
+          "q": "Who is the winner?",
+          "a": "Mario is the winner."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe y deletrea. Usa los nombres ingleses de las letras y no olvides las mayúsculas.",
+      "en": "Write and spell. Remember the capital letters.",
+      "items": [
+        {
+          "q": "Escribe tu nombre y deletréalo: My name is… It's…",
+          "lines": 2,
+          "a": "Ej.: My name is Mario. It's M-A-R-I-O."
+        },
+        {
+          "q": "Escribe el nombre de tu mejor amigo/a y deletréalo.",
+          "lines": 1,
+          "a": "Ej.: My best friend is Leo: L-E-O."
+        },
+        {
+          "q": "Escribe 3 palabras con letra muda y rodea la letra muda.",
+          "lines": 1,
+          "a": "Ej.: knee, write, night."
+        },
+        {
+          "q": "Escribe una frase con un día y un mes (¡con mayúscula!).",
+          "lines": 2,
+          "a": "Ej.: My birthday is in June. Today is Friday."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé decir las <b>26 letras</b> con su nombre en inglés.",
+      "en": "I can say the 26 letters in English."
+    },
+    {
+      "es": "Distingo las <b>vocales</b> (A, E, I, O, U) de las consonantes.",
+      "en": "I know the vowels and the consonants."
+    },
+    {
+      "es": "No confundo <b>E / I</b>, <b>G / J</b> ni <b>A / R / Y</b>.",
+      "en": "I don't mix up E / I, G / J or A / R / Y."
+    },
+    {
+      "es": "Sé deletrear mi nombre: <b>How do you spell…?</b>",
+      "en": "I can spell my name."
+    },
+    {
+      "es": "Uso <b>mayúscula</b> en I, nombres, días, meses, países e idiomas.",
+      "en": "I use capital letters correctly."
+    },
+    {
+      "es": "Conozco palabras con <b>letras mudas</b>: knee, write, night.",
+      "en": "I know words with silent letters."
+    }
+  ]
+}

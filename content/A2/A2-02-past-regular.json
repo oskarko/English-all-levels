@@ -1,0 +1,1557 @@
+{
+  "id": "A2-02",
+  "level": "A2",
+  "title": "PASADO REGULAR (-ED)",
+  "file_title": "Pasado regular (-ed)",
+  "subtitle": "Regular past simple · verbos con -ed",
+  "icon": "⏪",
+  "map": {
+    "center": "Para contar lo que <b>pasó</b> (ayer, la semana pasada…), los verbos regulares añaden <mark>-ED</mark>: play → <b>played</b>.",
+    "nodes": [
+      {
+        "title": "¿Qué es?",
+        "icon": "🔎",
+        "items": [
+          "Acciones <b>terminadas</b> en el pasado.",
+          "Verbo + <em>-ed</em>: walk → walk<em>ed</em>",
+          "¡Igual para todos!: I / she / they <b>played</b>."
+        ]
+      },
+      {
+        "title": "¿-ed, -d o -ied?",
+        "icon": "✏️",
+        "art": "📝",
+        "rows": [
+          [
+            "+ ed",
+            "walk → walk<em>ed</em>"
+          ],
+          [
+            "+ d",
+            "dance → dance<em>d</em>"
+          ],
+          [
+            "y → ied",
+            "cry → cr<em>ied</em>"
+          ],
+          [
+            "vocal + y",
+            "play → play<em>ed</em>"
+          ]
+        ]
+      },
+      {
+        "title": "Doble consonante",
+        "icon": "✌️",
+        "items": [
+          "Corto + consonante-vocal-consonante → ¡doble!",
+          "stop → sto<em>pp</em>ed · plan → pla<em>nn</em>ed",
+          "Nunca dobles w, x, y: snow<em>ed</em>, fix<em>ed</em>"
+        ]
+      },
+      {
+        "title": "Cómo suena",
+        "icon": "👂",
+        "rows": [
+          [
+            "/t/",
+            "walked, jumped, watched"
+          ],
+          [
+            "/d/",
+            "played, cleaned, lived"
+          ],
+          [
+            "/ɪd/",
+            "wanted, needed → ¡sílaba extra!"
+          ]
+        ]
+      },
+      {
+        "title": "Palabras clave",
+        "icon": "⏰",
+        "chips": [
+          "yesterday",
+          "last night",
+          "last week",
+          "two days ago",
+          "in 2020"
+        ],
+        "after": "<b>last</b> va sin «the» · <b>ago</b> va detrás"
+      },
+      {
+        "title": "Ejemplos",
+        "icon": "💬",
+        "art": "⚽",
+        "items": [
+          "I <b>played</b> football yesterday.",
+          "Lucía <b>studied</b> for the test.",
+          "The bus <b>stopped</b> two minutes ago."
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "Yesterday I play football."
+      ],
+      "good": [
+        "Yesterday I played football."
+      ],
+      "note": "En pasado, ¡no olvides la <b>-ed</b>!"
+    },
+    "mini": {
+      "es": "Escribe el verbo en pasado.",
+      "en": "Write the verb in the past.",
+      "items": [
+        {
+          "q": "I ___ my room yesterday.",
+          "a": "tidied",
+          "hint": "tidy"
+        },
+        {
+          "q": "We ___ a film last night.",
+          "a": "watched",
+          "hint": "watch"
+        },
+        {
+          "q": "The bus ___ at the school.",
+          "a": "stopped",
+          "hint": "stop"
+        },
+        {
+          "q": "Lucía ___ at the party.",
+          "a": "danced",
+          "hint": "dance"
+        },
+        {
+          "q": "We ___ tennis last Monday.",
+          "a": "played",
+          "hint": "play"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "El <b>past simple</b> sirve para contar cosas que <mark>empezaron y terminaron en el pasado</mark>: ayer, la semana pasada, hace dos días… Con los <b>verbos regulares</b> es muy fácil: solo añadimos <em>-ed</em> al final. Y lo mejor: ¡es <b>igual para todas las personas</b>! Nada de -s para he / she / it.",
+      "en": "We use the <b>past simple</b> for finished actions in the past. Regular verbs just add <em>-ed</em>, and the form is the same for every person.",
+      "formula": [
+        "Sujeto + *verbo-ed* + resto",
+        "I / she / they + *played* + football"
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · La regla general: + ed",
+      "title_en": "The main rule: + ed",
+      "icon": "✅",
+      "color": "green",
+      "es": "La mayoría de los verbos solo añaden <b>-ed</b>: walk → walk<em>ed</em>, play → play<em>ed</em>, watch → watch<em>ed</em>. La forma es la misma con <b>I, you, he, she, it, we, they</b>: ¡nada de -s!",
+      "en": "Most verbs just add <b>-ed</b>. It's the same form for every subject.",
+      "formula": [
+        "walk + *ed*"
+      ],
+      "examples": [
+        {
+          "en": "I <b>watched</b> cartoons yesterday.",
+          "es": "Ayer vi dibujos.",
+          "icon": "📺"
+        },
+        {
+          "en": "My dad <b>cooked</b> paella on Sunday.",
+          "es": "Mi padre cocinó paella el domingo.",
+          "icon": "🥘"
+        },
+        {
+          "en": "We <b>played</b> football after school.",
+          "es": "Jugamos al fútbol después del cole.",
+          "icon": "⚽"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Acaba en -e: solo + d",
+      "title_en": "Ending in -e: just + d",
+      "icon": "🍰",
+      "color": "orange",
+      "es": "Si el verbo ya acaba en <b>-e</b>, solo añadimos <b>-d</b>. ¡No escribas dos e!: like → like<em>d</em>, dance → dance<em>d</em>, live → live<em>d</em>.",
+      "en": "If the verb ends in <b>-e</b>, just add <b>-d</b>.",
+      "formula": [
+        "like + *d*"
+      ],
+      "examples": [
+        {
+          "en": "Anna <b>liked</b> the film.",
+          "es": "A Anna le gustó la peli.",
+          "icon": "🎬"
+        },
+        {
+          "en": "We <b>danced</b> at the party.",
+          "es": "Bailamos en la fiesta.",
+          "icon": "💃"
+        },
+        {
+          "en": "My grandparents <b>lived</b> in a village.",
+          "es": "Mis abuelos vivían en un pueblo.",
+          "icon": "🏡"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · La Y: ¿-ied o -yed?",
+      "title_en": "Verbs ending in y",
+      "icon": "🔄",
+      "color": "purple",
+      "es": "Mira la letra de <b>antes de la y</b>. Si es <b>consonante</b>, la y se convierte en <b>i</b> y añadimos <b>-ed</b>: study → stud<em>ied</em>, cry → cr<em>ied</em>. Si es <b>vocal</b> (a, e, i, o, u), la y se queda: play → play<em>ed</em>, enjoy → enjoy<em>ed</em>.",
+      "en": "Consonant + y → <b>-ied</b> (study → studied). Vowel + y → <b>-ed</b> (play → played).",
+      "formula": [
+        "study → stud + *ied*",
+        "play → play + *ed*"
+      ],
+      "examples": [
+        {
+          "en": "Lucía <b>studied</b> for her maths test.",
+          "es": "Lucía estudió para su examen de mates.",
+          "icon": "📚"
+        },
+        {
+          "en": "The baby <b>cried</b> all night.",
+          "es": "El bebé lloró toda la noche.",
+          "icon": "👶"
+        },
+        {
+          "en": "We <b>stayed</b> at a hotel by the sea.",
+          "es": "Nos quedamos en un hotel junto al mar.",
+          "icon": "🏨"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Doble consonante",
+      "title_en": "Double the consonant",
+      "icon": "✌️",
+      "color": "pink",
+      "es": "Si el verbo es <b>corto</b> (una sílaba) y acaba en <b>consonante + vocal + consonante</b>, doblamos la última letra: s-t-<b>o</b>-p → sto<em>pp</em>ed, p-l-<b>a</b>-n → pla<em>nn</em>ed. Así la vocal sigue sonando corta. ¡Pero nunca doblamos <b>w, x, y</b>!: snow<em>ed</em>, fix<em>ed</em>, play<em>ed</em>. En inglés británico también: travel → trave<em>ll</em>ed.",
+      "en": "Short verb ending in consonant + vowel + consonant → double the last letter: stop → stopped. Never double w, x or y.",
+      "formula": [
+        "s-t-o-p + *p* + ed"
+      ],
+      "examples": [
+        {
+          "en": "The bus <b>stopped</b> near my school.",
+          "es": "El autobús paró cerca de mi cole.",
+          "icon": "🚌"
+        },
+        {
+          "en": "We <b>planned</b> a surprise for Mum.",
+          "es": "Planeamos una sorpresa para mamá.",
+          "icon": "🎁"
+        },
+        {
+          "en": "My cousins <b>travelled</b> to London.",
+          "es": "Mis primos viajaron a Londres.",
+          "icon": "✈️"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo escribo el pasado?",
+      "title_en": "How do I write the past?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "¿Acaba en <b>-e</b>? → añade solo <b>-d</b> (like → liked).",
+          "en": "Ends in -e → add -d."
+        },
+        {
+          "es": "¿Acaba en <b>consonante + y</b>? → quita la y y pon <b>-ied</b> (cry → cried).",
+          "en": "Consonant + y → -ied."
+        },
+        {
+          "es": "¿Acaba en <b>vocal + y</b>? → <b>-ed</b> y la y se queda (play → played).",
+          "en": "Vowel + y → -ed."
+        },
+        {
+          "es": "¿Es corto y acaba en <b>consonante + vocal + consonante</b>? → dobla la última (stop → stopped).",
+          "en": "CVC → double the last letter."
+        },
+        {
+          "es": "¿Ninguna de las anteriores? → <b>-ed</b> y listo (walk → walked).",
+          "en": "Everything else → -ed."
+        },
+        {
+          "es": "Repasa: ¡la misma forma para I, he, she, they… y sin -s!",
+          "en": "Check: same form for everyone, no -s."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "¡Cuidado con los rebeldes!",
+      "title_en": "Watch out for irregular verbs",
+      "es": "Los verbos <b>regulares</b> forman el pasado con <em>-ed</em>. Pero algunos verbos muy usados son <b>irregulares</b> y tienen su propio pasado: go → <b>went</b>, eat → <b>ate</b>, see → <b>saw</b>. <s>goed</s>, <s>eated</s> y <s>seed</s> no existen. Los aprenderás en la ficha de VERBOS IRREGULARES.",
+      "en": "Regular verbs add <em>-ed</em>. Some very common verbs are irregular: go → went, eat → ate, see → saw. Never <s>goed</s>!"
+    },
+    {
+      "t": "rule",
+      "title": "5 · ¿Cómo suena la -ed?",
+      "title_en": "How do we say -ed?",
+      "icon": "👂",
+      "color": "teal",
+      "es": "La -ed se escribe siempre igual, pero <mark>se pronuncia de 3 maneras</mark>. Casi nunca es una sílaba nueva: <b>walked</b> suena «uokt» y <b>played</b> suena «pleid». Solo cuando el verbo acaba en sonido <b>t</b> o <b>d</b> añadimos una sílaba: want-<b>ed</b> («uón-tid»), need-<b>ed</b> («ní-did»).",
+      "en": "-ed has 3 sounds: /t/ (walked), /d/ (played) and /ɪd/ (wanted). Only after t or d is it an extra syllable.",
+      "examples": [
+        {
+          "en": "I <b>walked</b> to school. <i>/t/ «uokt»</i>",
+          "es": "Fui andando al cole.",
+          "icon": "🚶"
+        },
+        {
+          "en": "We <b>played</b> in the snow. <i>/d/ «pleid»</i>",
+          "es": "Jugamos en la nieve.",
+          "icon": "⛄"
+        },
+        {
+          "en": "Mario <b>painted</b> a dragon. <i>/ɪd/ «péin-tid»</i>",
+          "es": "Mario pintó un dragón.",
+          "icon": "🐉"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Los 3 sonidos de -ED",
+      "title_en": "The 3 sounds of -ed",
+      "icon": "🔊",
+      "color": "teal",
+      "es": "Lo que cuenta es el <b>último sonido</b> del verbo, no la última letra (<i>danced</i> acaba en e, pero suena /s/ → /t/). <b>Truco de la garganta:</b> pon la mano en el cuello y di el último sonido. ¿Vibra? → <b>/d/</b>. ¿No vibra? → <b>/t/</b>. ¿Es t o d? → <b>/ɪd/</b>.",
+      "en": "Look at the last <b>sound</b>. Hand on your throat: it vibrates → /d/; no vibration → /t/; t or d → /ɪd/.",
+      "cols": [
+        {
+          "head": "/t/ 🤫",
+          "color": "blue",
+          "items": [
+            "walked",
+            "jumped",
+            "watched",
+            "kissed",
+            "washed",
+            "laughed",
+            "cooked",
+            "danced"
+          ]
+        },
+        {
+          "head": "/d/ 📳",
+          "color": "green",
+          "items": [
+            "played",
+            "cleaned",
+            "lived",
+            "called",
+            "opened",
+            "cried",
+            "listened",
+            "tidied"
+          ]
+        },
+        {
+          "head": "/ɪd/ ➕",
+          "color": "orange",
+          "items": [
+            "wanted",
+            "needed",
+            "started",
+            "painted",
+            "visited",
+            "waited",
+            "decided",
+            "shouted"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · ¿Cuándo pasó?",
+      "title_en": "When did it happen?",
+      "icon": "⏰",
+      "color": "blue",
+      "es": "El pasado suele ir con palabras que dicen <b>cuándo</b> pasó: <b>yesterday</b> (ayer), <b>last</b> + night / week / summer (el / la … pasado), y <b>… ago</b> (hace…). ¡Ojo con dos trampas!: <b>last</b> va <em>sin the</em> (<s>the last week</s> → last week) y <b>ago</b> va <em>detrás</em> (<s>ago two days</s> → two days ago). «Anoche» es <b>last night</b>, no <s>yesterday night</s>.",
+      "en": "Time words: <b>yesterday</b>, <b>last</b> week (no <i>the</i>), two days <b>ago</b> (ago goes after). «Anoche» = <b>last night</b>.",
+      "formula": [
+        "*yesterday* + morning / afternoon / evening",
+        "*last* + night / week / month / year / Monday",
+        "two days / a week / an hour + *ago*"
+      ],
+      "examples": [
+        {
+          "en": "I <b>visited</b> my grandma <b>last Sunday</b>.",
+          "es": "Visité a mi abuela el domingo pasado.",
+          "icon": "👵"
+        },
+        {
+          "en": "It <b>rained</b> a lot <b>last night</b>.",
+          "es": "Anoche llovió mucho.",
+          "icon": "🌧️"
+        },
+        {
+          "en": "We <b>moved</b> to this house <b>two years ago</b>.",
+          "es": "Nos mudamos a esta casa hace dos años.",
+          "icon": "🏠"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Palabras de tiempo",
+      "title_en": "Time words",
+      "icon": "📅",
+      "color": "purple",
+      "head": [
+        "Inglés · English",
+        "Español"
+      ],
+      "rows": [
+        [
+          "yesterday",
+          "ayer"
+        ],
+        [
+          "yesterday morning / afternoon",
+          "ayer por la mañana / por la tarde"
+        ],
+        [
+          "last night",
+          "anoche"
+        ],
+        [
+          "last week / last month",
+          "la semana pasada / el mes pasado"
+        ],
+        [
+          "last year / last summer",
+          "el año pasado / el verano pasado"
+        ],
+        [
+          "last Monday / last weekend",
+          "el lunes pasado / el finde pasado"
+        ],
+        [
+          "ten minutes ago",
+          "hace diez minutos"
+        ],
+        [
+          "three days ago",
+          "hace tres días"
+        ],
+        [
+          "a long time ago",
+          "hace mucho tiempo"
+        ],
+        [
+          "in 2020",
+          "en 2020"
+        ],
+        [
+          "when I was five",
+          "cuando tenía cinco años"
+        ]
+      ],
+      "note": "<b>last</b> = pasado (¡sin the!) · <b>ago</b> = hace (¡siempre detrás!).",
+      "note_en": "last → no «the» · ago goes at the end."
+    },
+    {
+      "t": "table",
+      "title": "Resumen: reglas de ortografía",
+      "title_en": "Summary: spelling rules",
+      "icon": "📏",
+      "color": "blue",
+      "wide": true,
+      "head": [
+        "Nº",
+        "Si el verbo acaba en…",
+        "Qué hago",
+        "Ejemplos"
+      ],
+      "rows": [
+        [
+          "1",
+          "-e",
+          "añado solo <b>-d</b>",
+          "like → liked · dance → danced · smile → smiled · close → closed"
+        ],
+        [
+          "2",
+          "consonante + y",
+          "quito la y y añado <b>-ied</b>",
+          "study → studied · cry → cried · try → tried · carry → carried"
+        ],
+        [
+          "3",
+          "vocal + y",
+          "la y se queda: <b>-ed</b>",
+          "play → played · stay → stayed · enjoy → enjoyed"
+        ],
+        [
+          "4",
+          "consonante + vocal + consonante (verbo corto)",
+          "doblo la última letra y añado <b>-ed</b>",
+          "stop → stopped · plan → planned · hug → hugged · clap → clapped"
+        ],
+        [
+          "5",
+          "todos los demás",
+          "añado <b>-ed</b>",
+          "walk → walked · watch → watched · help → helped · rain → rained"
+        ]
+      ],
+      "note": "¡Ojo! Nunca doblamos <b>w, x, y</b>: snow → snowed, fix → fixed. En inglés británico <b>travel → travelled</b> (con doble l).",
+      "note_en": "Never double w, x or y. British English: travel → travelled."
+    },
+    {
+      "t": "vocab",
+      "title": "Verbos regulares útiles",
+      "title_en": "Useful regular verbs",
+      "icon": "🧩",
+      "color": "green",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "play → played",
+          "es": "jugar",
+          "icon": "⚽"
+        },
+        {
+          "en": "watch → watched",
+          "es": "ver (la tele)",
+          "icon": "📺"
+        },
+        {
+          "en": "walk → walked",
+          "es": "caminar",
+          "icon": "🚶"
+        },
+        {
+          "en": "jump → jumped",
+          "es": "saltar",
+          "icon": "🦘"
+        },
+        {
+          "en": "cook → cooked",
+          "es": "cocinar",
+          "icon": "🍳"
+        },
+        {
+          "en": "help → helped",
+          "es": "ayudar",
+          "icon": "🤝"
+        },
+        {
+          "en": "clean → cleaned",
+          "es": "limpiar",
+          "icon": "🧽"
+        },
+        {
+          "en": "listen → listened",
+          "es": "escuchar",
+          "icon": "🎧"
+        },
+        {
+          "en": "paint → painted",
+          "es": "pintar",
+          "icon": "🎨"
+        },
+        {
+          "en": "want → wanted",
+          "es": "querer",
+          "icon": "🙏"
+        },
+        {
+          "en": "laugh → laughed",
+          "es": "reírse",
+          "icon": "😂"
+        },
+        {
+          "en": "climb → climbed",
+          "es": "trepar, escalar",
+          "icon": "🧗"
+        },
+        {
+          "en": "dance → danced",
+          "es": "bailar",
+          "icon": "💃"
+        },
+        {
+          "en": "live → lived",
+          "es": "vivir",
+          "icon": "🏡"
+        },
+        {
+          "en": "smile → smiled",
+          "es": "sonreír",
+          "icon": "😊"
+        },
+        {
+          "en": "study → studied",
+          "es": "estudiar",
+          "icon": "📚"
+        },
+        {
+          "en": "cry → cried",
+          "es": "llorar",
+          "icon": "😢"
+        },
+        {
+          "en": "tidy → tidied",
+          "es": "ordenar",
+          "icon": "🧹"
+        },
+        {
+          "en": "stop → stopped",
+          "es": "parar",
+          "icon": "🛑"
+        },
+        {
+          "en": "travel → travelled",
+          "es": "viajar",
+          "icon": "✈️"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "I <b>helped</b> my mum in the kitchen.",
+          "es": "Ayudé a mi madre en la cocina.",
+          "icon": "🍳"
+        },
+        {
+          "en": "Leo <b>kicked</b> the ball very hard.",
+          "es": "Leo chutó el balón muy fuerte.",
+          "icon": "⚽"
+        },
+        {
+          "en": "We <b>laughed</b> a lot at the circus.",
+          "es": "Nos reímos mucho en el circo.",
+          "icon": "🎪"
+        },
+        {
+          "en": "Lucía <b>tried</b> sushi for the first time.",
+          "es": "Lucía probó el sushi por primera vez.",
+          "icon": "🍣"
+        },
+        {
+          "en": "The film <b>started</b> at six o'clock.",
+          "es": "La peli empezó a las seis.",
+          "icon": "🎬"
+        },
+        {
+          "en": "Rocky <b>dropped</b> the ball at my feet.",
+          "es": "Rocky dejó caer la pelota a mis pies.",
+          "icon": "🐕"
+        },
+        {
+          "en": "It <b>snowed</b> in the mountains last winter.",
+          "es": "El invierno pasado nevó en la montaña.",
+          "icon": "🏔️"
+        },
+        {
+          "en": "My friends <b>waited</b> for me at the gate.",
+          "es": "Mis amigos me esperaron en la puerta.",
+          "icon": "🚪"
+        },
+        {
+          "en": "Tom <b>fixed</b> his bike yesterday afternoon.",
+          "es": "Tom arregló su bici ayer por la tarde.",
+          "icon": "🔧"
+        },
+        {
+          "en": "We <b>clapped</b> at the end of the show.",
+          "es": "Aplaudimos al final del espectáculo.",
+          "icon": "👏"
+        },
+        {
+          "en": "Anna <b>carried</b> the heavy box.",
+          "es": "Anna llevó la caja pesada.",
+          "icon": "📦"
+        },
+        {
+          "en": "Grandpa <b>lived</b> in London a long time ago.",
+          "es": "El abuelo vivió en Londres hace mucho tiempo.",
+          "icon": "🏙️"
+        },
+        {
+          "en": "I <b>finished</b> my homework ten minutes ago.",
+          "es": "Terminé los deberes hace diez minutos.",
+          "icon": "✅"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "ae",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "Yesterday I play tennis.",
+          "good": "Yesterday I <b>played</b> tennis.",
+          "why": "En pasado, ¡añade -ed!",
+          "why_en": "Past → add -ed."
+        },
+        {
+          "bad": "She studyed English.",
+          "good": "She <b>studied</b> English.",
+          "why": "consonante + y → -ied.",
+          "why_en": "consonant + y → -ied."
+        },
+        {
+          "bad": "We plaied in the park.",
+          "good": "We <b>played</b> in the park.",
+          "why": "vocal + y → la y se queda.",
+          "why_en": "vowel + y → keep the y."
+        },
+        {
+          "bad": "The car stoped.",
+          "good": "The car <b>stopped</b>.",
+          "why": "stop: consonante-vocal-consonante → doble p.",
+          "why_en": "Double the p."
+        },
+        {
+          "bad": "I likeed the cake.",
+          "good": "I <b>liked</b> the cake.",
+          "why": "Acaba en -e → solo -d.",
+          "why_en": "Ends in -e → just -d."
+        },
+        {
+          "bad": "I walkt to school.",
+          "good": "I <b>walked</b> to school.",
+          "why": "Suena /t/, pero se escribe -ed. ¡No escribas como suena!",
+          "why_en": "It sounds /t/ but it's written -ed."
+        },
+        {
+          "bad": "I visited my aunt the last week.",
+          "good": "I visited my aunt <b>last week</b>.",
+          "why": "last va sin the.",
+          "why_en": "No «the» before last."
+        },
+        {
+          "bad": "We arrived ago two hours.",
+          "good": "We arrived <b>two hours ago</b>.",
+          "why": "ago va detrás.",
+          "why_en": "ago goes at the end."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "El lunes en clase",
+      "title_en": "On Monday at school",
+      "lines": [
+        {
+          "who": "Tom",
+          "en": "Hi, Mario! Tell me about your weekend!",
+          "es": "¡Hola, Mario! ¡Cuéntame tu finde!"
+        },
+        {
+          "who": "Mario",
+          "en": "On Saturday I played football with Leo. We scored three goals!",
+          "es": "El sábado jugué al fútbol con Leo. ¡Marcamos tres goles!"
+        },
+        {
+          "who": "Tom",
+          "en": "Cool! I stayed at home. It rained all day.",
+          "es": "¡Guay! Yo me quedé en casa. Llovió todo el día."
+        },
+        {
+          "who": "Mario",
+          "en": "Yes, it rained a lot! In the afternoon I tidied my room and helped my dad.",
+          "es": "¡Sí, llovió mucho! Por la tarde ordené mi cuarto y ayudé a mi padre."
+        },
+        {
+          "who": "Tom",
+          "en": "I watched a film with my sister. She cried at the end!",
+          "es": "Yo vi una peli con mi hermana. ¡Lloró al final!"
+        },
+        {
+          "who": "Mario",
+          "en": "Ha, ha! On Sunday we visited my grandparents. Grandma baked a chocolate cake.",
+          "es": "¡Ja, ja! El domingo visitamos a mis abuelos. La abuela hizo una tarta de chocolate."
+        },
+        {
+          "who": "Tom",
+          "en": "Yum! I love chocolate cake!",
+          "es": "¡Ñam! ¡Me encanta la tarta de chocolate!"
+        },
+        {
+          "who": "Mario",
+          "en": "Me too! And Rocky jumped up and tried to eat it!",
+          "es": "¡Y a mí! ¡Y Rocky dio un salto e intentó comérsela!"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify",
+      "title": "¿Qué regla toca?",
+      "title_en": "Which rule?",
+      "icon": "🗂️",
+      "es": "Escribe cada verbo en su caja según cómo se forma su pasado. ¡Ojo con play!",
+      "en": "Write each verb in the right box.",
+      "cats": [
+        {
+          "name": "+ ed",
+          "words": [
+            "walk",
+            "help",
+            "play",
+            "watch"
+          ]
+        },
+        {
+          "name": "+ d",
+          "words": [
+            "like",
+            "dance",
+            "live",
+            "close"
+          ]
+        },
+        {
+          "name": "y → ied",
+          "words": [
+            "study",
+            "cry",
+            "tidy",
+            "carry"
+          ]
+        },
+        {
+          "name": "doble + ed",
+          "words": [
+            "stop",
+            "plan",
+            "hug",
+            "clap"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la forma correcta",
+      "title_en": "Circle the correct form",
+      "icon": "⭕",
+      "es": "Rodea con un círculo el pasado bien escrito.",
+      "en": "Circle the correct past form.",
+      "items": [
+        {
+          "q": "I [played|plaied] with Rocky.",
+          "a": "played"
+        },
+        {
+          "q": "Sara [studyed|studied] for the test.",
+          "a": "studied"
+        },
+        {
+          "q": "The bus [stoped|stopped] at the corner.",
+          "a": "stopped"
+        },
+        {
+          "q": "We [danced|danceed] all night.",
+          "a": "danced"
+        },
+        {
+          "q": "Lucía [cried|cryed] at the film.",
+          "a": "cried"
+        },
+        {
+          "q": "Tom [enjoied|enjoyed] the trip.",
+          "a": "enjoyed"
+        },
+        {
+          "q": "It [snowed|snowwed] last winter.",
+          "a": "snowed"
+        },
+        {
+          "q": "My dad [fixed|fixxed] my bike.",
+          "a": "fixed"
+        },
+        {
+          "q": "They [planed|planned] a party.",
+          "a": "planned"
+        },
+        {
+          "q": "I [hugged|huged] my grandma.",
+          "a": "hugged"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla de verbos",
+      "title_en": "Complete the verb table",
+      "icon": "📋",
+      "es": "Escribe el pasado y la regla que has usado.",
+      "en": "Write the past form and the rule.",
+      "bank": [
+        "+ ed",
+        "+ d",
+        "y → ied",
+        "doble + ed"
+      ],
+      "head": [
+        "Verbo · Verb",
+        "Pasado · Past",
+        "Regla · Rule"
+      ],
+      "rows": [
+        [
+          "walk",
+          "?walked",
+          "?+ ed"
+        ],
+        [
+          "love",
+          "?loved",
+          "?+ d"
+        ],
+        [
+          "try",
+          "?tried",
+          "?y → ied"
+        ],
+        [
+          "drop",
+          "?dropped",
+          "?doble + ed"
+        ],
+        [
+          "stay",
+          "?stayed",
+          "?+ ed"
+        ],
+        [
+          "smile",
+          "?smiled",
+          "?+ d"
+        ],
+        [
+          "carry",
+          "?carried",
+          "?y → ied"
+        ],
+        [
+          "clap",
+          "?clapped",
+          "?doble + ed"
+        ],
+        [
+          "hurry",
+          "?hurried",
+          "?y → ied"
+        ],
+        [
+          "arrive",
+          "?arrived",
+          "?+ d"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe el pasado",
+      "title_en": "Write the past",
+      "icon": "✏️",
+      "es": "Escribe el verbo entre paréntesis en pasado. Piensa en la regla antes de escribir.",
+      "en": "Write the verb in brackets in the past.",
+      "items": [
+        {
+          "q": "Mum ___ a cake for my birthday.",
+          "a": "baked",
+          "hint": "bake"
+        },
+        {
+          "q": "We ___ volleyball on the beach.",
+          "a": "played",
+          "hint": "play"
+        },
+        {
+          "q": "Leo ___ the window.",
+          "a": "opened",
+          "hint": "open"
+        },
+        {
+          "q": "The baby ___ at me.",
+          "a": "smiled",
+          "hint": "smile"
+        },
+        {
+          "q": "I ___ my homework an hour ago.",
+          "a": "finished",
+          "hint": "finish"
+        },
+        {
+          "q": "Anna ___ her friends to her party.",
+          "a": "invited",
+          "hint": "invite"
+        },
+        {
+          "q": "The frog ___ into the pond.",
+          "a": "jumped",
+          "hint": "jump"
+        },
+        {
+          "q": "My sister ___ very hard for the exam.",
+          "a": "studied",
+          "hint": "study"
+        },
+        {
+          "q": "The train ___ at the station.",
+          "a": "stopped",
+          "hint": "stop"
+        },
+        {
+          "q": "It ___ all day yesterday.",
+          "a": "rained",
+          "hint": "rain"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Cómo suena la -ed?",
+      "title_en": "How does -ed sound?",
+      "icon": "👂",
+      "es": "Di cada verbo en voz alta y escríbelo en su caja. ¡Usa el truco de la garganta!",
+      "en": "Say each verb aloud and write it in the right box.",
+      "cats": [
+        {
+          "name": "/t/",
+          "words": [
+            "walked",
+            "jumped",
+            "watched",
+            "kissed",
+            "laughed"
+          ]
+        },
+        {
+          "name": "/d/",
+          "words": [
+            "played",
+            "cleaned",
+            "lived",
+            "opened",
+            "cried"
+          ]
+        },
+        {
+          "name": "/ɪd/",
+          "words": [
+            "wanted",
+            "needed",
+            "painted",
+            "visited",
+            "waited"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une cada expresión",
+      "title_en": "Match the time words",
+      "icon": "🔗",
+      "es": "Une cada expresión en inglés con su significado en español.",
+      "en": "Match each time expression with its meaning.",
+      "pairs": [
+        [
+          "yesterday",
+          "ayer"
+        ],
+        [
+          "last night",
+          "anoche"
+        ],
+        [
+          "two days ago",
+          "hace dos días"
+        ],
+        [
+          "last summer",
+          "el verano pasado"
+        ],
+        [
+          "a week ago",
+          "hace una semana"
+        ],
+        [
+          "yesterday morning",
+          "ayer por la mañana"
+        ],
+        [
+          "last Friday",
+          "el viernes pasado"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "yesterday, last o ago",
+      "title_en": "yesterday, last or ago",
+      "icon": "⏰",
+      "es": "Completa con yesterday, last o ago.",
+      "en": "Complete with yesterday, last or ago.",
+      "bank": [
+        "yesterday",
+        "last",
+        "ago"
+      ],
+      "items": [
+        {
+          "q": "I cleaned my bike ___ morning.",
+          "a": "yesterday"
+        },
+        {
+          "q": "We travelled to Italy ___ summer.",
+          "a": "last"
+        },
+        {
+          "q": "The film started ten minutes ___.",
+          "a": "ago"
+        },
+        {
+          "q": "My cousins visited us ___ week.",
+          "a": "last"
+        },
+        {
+          "q": "Rocky barked a lot ___ night.",
+          "a": "last"
+        },
+        {
+          "q": "I phoned Grandma two days ___.",
+          "a": "ago"
+        },
+        {
+          "q": "It rained ___ afternoon.",
+          "a": "yesterday"
+        },
+        {
+          "q": "Mum painted the kitchen a month ___.",
+          "a": "ago"
+        },
+        {
+          "q": "We played a match ___ Saturday.",
+          "a": "last"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pasa al pasado",
+      "title_en": "Change to the past",
+      "icon": "⏪",
+      "es": "Escribe la frase en pasado y añade la expresión de tiempo al final.",
+      "en": "Write the sentence in the past. Add the time words at the end.",
+      "items": [
+        {
+          "q": "I play tennis. (yesterday)",
+          "a": "I played tennis yesterday."
+        },
+        {
+          "q": "She watches cartoons. (last night)",
+          "a": "She watched cartoons last night."
+        },
+        {
+          "q": "We visit our cousins. (last weekend)",
+          "a": "We visited our cousins last weekend."
+        },
+        {
+          "q": "Tom studies English. (yesterday afternoon)",
+          "a": "Tom studied English yesterday afternoon."
+        },
+        {
+          "q": "The dog jumps over the fence. (an hour ago)",
+          "a": "The dog jumped over the fence an hour ago."
+        },
+        {
+          "q": "My parents dance in the kitchen. (last Saturday)",
+          "a": "My parents danced in the kitchen last Saturday."
+        },
+        {
+          "q": "Lucía carries her schoolbag. (this morning)",
+          "a": "Lucía carried her schoolbag this morning."
+        },
+        {
+          "q": "I stop at the traffic lights. (two minutes ago)",
+          "a": "I stopped at the traffic lights two minutes ago."
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. Pon la expresión de tiempo al final.",
+      "en": "Put the words in order. Put the time words at the end.",
+      "items": [
+        {
+          "q": "played / I / yesterday / football",
+          "a": "I played football yesterday."
+        },
+        {
+          "q": "studied / Lucía / for / the test / hard",
+          "a": "Lucía studied hard for the test."
+        },
+        {
+          "q": "ago / we / two / moved / years",
+          "a": "We moved two years ago."
+        },
+        {
+          "q": "the / stopped / bus / at / my school",
+          "a": "The bus stopped at my school."
+        },
+        {
+          "q": "last / tidied / my room / I / Sunday",
+          "a": "I tidied my room last Sunday."
+        },
+        {
+          "q": "Rocky / the ball / dropped / into / the pool",
+          "a": "Rocky dropped the ball into the pool."
+        },
+        {
+          "q": "night / it / a lot / last / rained",
+          "a": "It rained a lot last night."
+        },
+        {
+          "q": "Grandma / baked / a cake / for / my / birthday",
+          "a": "Grandma baked a cake for my birthday."
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "Yesterday I walk to school.",
+          "a": "Yesterday I walked to school."
+        },
+        {
+          "q": "She tidyed her desk.",
+          "a": "She tidied her desk."
+        },
+        {
+          "q": "We stoped at the shop.",
+          "a": "We stopped at the shop."
+        },
+        {
+          "q": "The dog plaied with a ball.",
+          "a": "The dog played with a ball."
+        },
+        {
+          "q": "I danceed with my sister.",
+          "a": "I danced with my sister."
+        },
+        {
+          "q": "We visited Rome the last year.",
+          "a": "We visited Rome last year."
+        },
+        {
+          "q": "Tom arrived ago ten minutes.",
+          "a": "Tom arrived ten minutes ago."
+        },
+        {
+          "q": "It snowed yesterday night.",
+          "a": "It snowed last night."
+        },
+        {
+          "q": "My grandparents live in Cádiz in 1990.",
+          "a": "My grandparents lived in Cádiz in 1990."
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "⚖️",
+      "es": "Lee cada regla. ¿Es verdadera (T) o falsa (F)? Si es falsa, corrígela en tu cabeza.",
+      "en": "Read each rule. Is it true or false?",
+      "items": [
+        {
+          "q": "En pasado, he / she / it lleva -s: <i>she playeds</i>.",
+          "a": false,
+          "why": "Es igual para todos: she played."
+        },
+        {
+          "q": "study → studied, porque antes de la y hay una consonante.",
+          "a": true
+        },
+        {
+          "q": "play → plaied.",
+          "a": false,
+          "why": "Vocal + y: la y se queda → played."
+        },
+        {
+          "q": "stop → stopped: doblamos la p.",
+          "a": true
+        },
+        {
+          "q": "snow → snowwed.",
+          "a": false,
+          "why": "Nunca doblamos la w: snowed."
+        },
+        {
+          "q": "En <i>wanted</i> la -ed suena como una sílaba extra.",
+          "a": true
+        },
+        {
+          "q": "En <i>walked</i> la -ed es una sílaba extra: «walk-ed».",
+          "a": false,
+          "why": "Suena /t/: «uokt»."
+        },
+        {
+          "q": "«Anoche» se dice <i>last night</i>.",
+          "a": true
+        },
+        {
+          "q": "«Hace dos días» se dice <i>ago two days</i>.",
+          "a": false,
+          "why": "two days ago: ago va detrás."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Todos los verbos son regulares: ¡cuidado con la ortografía!",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Ayer jugué al fútbol.",
+          "a": "I played football yesterday."
+        },
+        {
+          "q": "Mi hermana estudió mucho.",
+          "a": "My sister studied a lot."
+        },
+        {
+          "q": "Anoche vimos una peli.",
+          "a": "We watched a film last night."
+        },
+        {
+          "q": "El autobús paró hace cinco minutos.",
+          "a": "The bus stopped five minutes ago."
+        },
+        {
+          "q": "Ordené mi cuarto el sábado pasado.",
+          "a": "I tidied my room last Saturday."
+        },
+        {
+          "q": "Nos encantó la fiesta.",
+          "a": "We loved the party."
+        },
+        {
+          "q": "Leo me ayudó con los deberes.",
+          "a": "Leo helped me with my homework."
+        },
+        {
+          "q": "Mis abuelos vivieron en Londres hace mucho tiempo.",
+          "a": "My grandparents lived in London a long time ago."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el diario de Mario. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read Mario's diary. Tick T or F and answer the questions.",
+      "text_title": "Mario's diary",
+      "text": [
+        "Saturday, 12th October. What a great day! In the morning I walked to the park with Rocky. We played with a ball and Rocky jumped into the lake! I laughed a lot, but Mum wasn't happy. Rocky was very dirty, so Mum and I washed him in the garden.",
+        "In the afternoon it rained, so I stayed at home. I tidied my room and I helped my dad. He cooked spaghetti for dinner. The rain stopped at six o'clock. In the evening Lucía and I watched a film. I was very tired!"
+      ],
+      "items": [
+        {
+          "q": "Mario walked to the park with Lucía.",
+          "tf": true,
+          "a": false,
+          "why": "He walked to the park with Rocky."
+        },
+        {
+          "q": "Rocky jumped into the lake.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "It rained in the morning.",
+          "tf": true,
+          "a": false,
+          "why": "It rained in the afternoon."
+        },
+        {
+          "q": "Lucía watched a film with Mario.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Who washed Rocky?",
+          "a": "Mario and his mum (washed him)."
+        },
+        {
+          "q": "Who cooked dinner?",
+          "a": "Mario's dad (cooked spaghetti)."
+        },
+        {
+          "q": "Find two verbs in the text: one with -ied and one with a double consonant.",
+          "a": "tidied · stopped"
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea el pasado",
+      "title_en": "Spell the past form",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe el pasado del verbo en las cajas.",
+      "en": "Unscramble the letters and write the past form.",
+      "items": [
+        {
+          "q": "🧹 tidy →",
+          "a": "tidied"
+        },
+        {
+          "q": "🛑 stop →",
+          "a": "stopped"
+        },
+        {
+          "q": "😢 cry →",
+          "a": "cried"
+        },
+        {
+          "q": "💃 dance →",
+          "a": "danced"
+        },
+        {
+          "q": "📅 plan →",
+          "a": "planned"
+        },
+        {
+          "q": "📦 carry →",
+          "a": "carried"
+        },
+        {
+          "q": "🥳 enjoy →",
+          "a": "enjoyed"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca el pasado de estos 8 verbos. ¡Cuidado con la ortografía!",
+      "en": "Find the past form of these 8 verbs.",
+      "words": [
+        "played",
+        "watched",
+        "stopped",
+        "studied",
+        "danced",
+        "jumped",
+        "cried",
+        "visited"
+      ],
+      "clues": [
+        "play → ?",
+        "watch → ?",
+        "stop → ?",
+        "study → ?",
+        "dance → ?",
+        "jump → ?",
+        "cry → ?",
+        "visit → ?"
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe frases sobre ti con verbos regulares en pasado.",
+      "en": "Write about you with regular past verbs.",
+      "items": [
+        {
+          "q": "Escribe 3 cosas que hiciste ayer: <b>Yesterday I…</b>",
+          "lines": 2,
+          "a": "Ej.: Yesterday I played with Rocky, I watched cartoons and I helped my mum."
+        },
+        {
+          "q": "¿Qué hiciste el fin de semana pasado? <b>Last weekend I…</b>",
+          "lines": 2,
+          "a": "Ej.: Last weekend I visited my grandparents and we cooked pizza."
+        },
+        {
+          "q": "Escribe algo que pasó hace mucho tiempo: <b>… ago</b>",
+          "lines": 1,
+          "a": "Ej.: I started school six years ago."
+        },
+        {
+          "q": "Escribe una frase con un verbo en <b>-ied</b> y otra con <b>doble consonante</b>.",
+          "lines": 2,
+          "a": "Ej.: I tidied my desk. The car stopped at the corner."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Uso el pasado para acciones terminadas: I <b>played</b>.",
+      "en": "I use the past simple for finished actions."
+    },
+    {
+      "es": "Sé que el pasado es igual para todos (¡sin -s!).",
+      "en": "I know the past is the same for every person."
+    },
+    {
+      "es": "Escribo bien <b>-d</b>, <b>-ied</b> y la <b>doble consonante</b>: liked, studied, stopped.",
+      "en": "I can spell -d, -ied and double consonants."
+    },
+    {
+      "es": "Sé que play → <b>played</b> (vocal + y).",
+      "en": "I know play → played."
+    },
+    {
+      "es": "Pronuncio bien la -ed: /t/, /d/ y /ɪd/.",
+      "en": "I can say -ed three ways."
+    },
+    {
+      "es": "Uso <b>yesterday</b>, <b>last</b> (sin the) y <b>ago</b> (detrás).",
+      "en": "I can use yesterday, last and ago."
+    }
+  ]
+}

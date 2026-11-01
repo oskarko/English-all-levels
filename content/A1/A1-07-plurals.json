@@ -1,0 +1,487 @@
+{
+  "id": "A1-07",
+  "level": "A1",
+  "title": "LOS PLURALES",
+  "file_title": "Los plurales",
+  "subtitle": "Plurals · uno, dos, muchos",
+  "icon": "🐑",
+  "map": {
+    "center": "El <b>plural</b> = <b>más de uno</b>. Casi siempre añadimos <em>-s</em>: one dog → two dog<em>s</em>. ¡Pero hay trampas!",
+    "nodes": [
+      {
+        "title": "Regla básica: + s", "icon": "✅", "art": "🐶",
+        "items": ["one dog → two dog<em>s</em>", "book → book<em>s</em> · toy → toy<em>s</em>", "Casi todas las palabras: ¡solo <b>-s</b>!"]
+      },
+      {
+        "title": "+ es", "icon": "🚌",
+        "items": ["<b>-s, -sh, -ch, -x</b> y algunas <b>-o</b> → <b>-es</b>", "bus → bus<em>es</em> · box → box<em>es</em>", "watch → watch<em>es</em> · tomato → tomato<em>es</em>"]
+      },
+      {
+        "title": "y → ies", "icon": "🍓",
+        "items": ["consonante + y → <b>-ies</b>: baby → bab<em>ies</em>", "vocal + y → solo <b>-s</b>: boy → boy<em>s</em>", "Mira la letra de antes de la y."]
+      },
+      {
+        "title": "f / fe → ves", "icon": "🍂",
+        "items": ["leaf → lea<em>ves</em> · wolf → wol<em>ves</em>", "knife → kni<em>ves</em> · shelf → shel<em>ves</em>", "Ojo: roof → roof<em>s</em>"]
+      },
+      {
+        "title": "Irregulares", "icon": "🧒", "art": "🐭",
+        "items": ["child → <b>children</b> · person → <b>people</b>", "man → <b>men</b> · woman → <b>women</b>", "foot → <b>feet</b> · tooth → <b>teeth</b>", "mouse → <b>mice</b> · sheep → <b>sheep</b>"]
+      },
+      {
+        "title": "Plural + are", "icon": "💡",
+        "items": ["There <b>are</b> three cats.", "People <b>are</b> nice. <i>(people = plural)</i>", "My feet <b>are</b> cold!"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["People is nice."],
+      "good": ["People are nice."],
+      "note": "people ya es plural → <b>are</b>"
+    },
+    "mini": {
+      "es": "Escribe el plural.",
+      "en": "Write the plural.",
+      "items": [
+        { "q": "one bus → two ____", "a": "buses" },
+        { "q": "one baby → two ____", "a": "babies" },
+        { "q": "one child → two ____", "a": "children" },
+        { "q": "one leaf → two ____", "a": "leaves" },
+        { "q": "one mouse → two ____", "a": "mice" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Un <b>sustantivo</b> es el nombre de una persona, un animal o una cosa (dog, girl, pencil). El <b>plural</b> es cuando hay <mark>más de uno</mark>. ¡Buena noticia! Igual que en español, casi siempre añadimos <em>-s</em>: <i>one cat → two cats</i>. Pero el inglés tiene trampas: palabras que añaden <b>-es</b>, <b>-ies</b> o <b>-ves</b>, y otras que cambian por completo.",
+      "en": "A <b>plural</b> means <mark>more than one</mark>. Most nouns just add <em>-s</em>, but some add -es, -ies or -ves, and some change completely.",
+      "formula": ["one / a + *dog*", "two / three / many + *dogs*"]
+    },
+    {
+      "t": "rule", "title": "1 · La mayoría: + s", "title_en": "Most nouns: + s", "icon": "✅", "color": "green",
+      "es": "La mayoría de las palabras solo añaden <em>-s</em>, igual que en español (<i>gato → gatos</i>). Después de un <b>número</b> o de <b>a lot of</b>, ¡siempre plural!",
+      "en": "Most nouns just add <em>-s</em>. After a <b>number</b> or <b>a lot of</b>, use the plural.",
+      "formula": ["dog / cat / apple + *s*"],
+      "examples": [
+        { "en": "I've got two <b>cats</b>.", "es": "Tengo dos gatos.", "icon": "🐈" },
+        { "en": "Leo has got three <b>bikes</b>.", "es": "Leo tiene tres bicis.", "icon": "🚲" },
+        { "en": "There are a lot of <b>books</b> in my bag.", "es": "Hay muchos libros en mi mochila.", "icon": "🎒" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · + es", "title_en": "Add -es", "icon": "🚌", "color": "blue",
+      "es": "Si la palabra acaba en <b>-s, -ss, -sh, -ch</b> o <b>-x</b>, añadimos <em>-es</em>. ¿Por qué? Porque <i>buss</i> o <i>boxs</i> no se pueden decir: necesitamos una <mark>sílaba más</mark> (bus-es, box-es). Algunas palabras en <b>-o</b> también llevan -es: <b>tomatoes, potatoes, heroes</b>. Pero otras no: <b>photos, pianos, zoos</b>.",
+      "en": "Words ending in <b>-s, -ss, -sh, -ch, -x</b> add <em>-es</em>: we need an extra syllable. Some words in <b>-o</b> too: tomatoes, potatoes.",
+      "formula": ["bus / glass / dish + *es*", "watch / box / tomato + *es*"],
+      "examples": [
+        { "en": "There are two <b>buses</b> at the bus stop.", "es": "Hay dos autobuses en la parada.", "icon": "🚌" },
+        { "en": "We've got five <b>boxes</b> of toys.", "es": "Tenemos cinco cajas de juguetes.", "icon": "📦" },
+        { "en": "I like <b>tomatoes</b> and <b>potatoes</b>.", "es": "Me gustan los tomates y las patatas.", "icon": "🍅" }
+      ]
+    },
+    {
+      "t": "rule", "title": "3 · Palabras en -y", "title_en": "Words ending in -y", "icon": "🍓", "color": "purple",
+      "es": "Mira la letra de <b>antes de la y</b>. Si es una <b>consonante</b> (b, d, t, r…), la y se va y ponemos <em>-ies</em>: <i>baby → babies</i>. Si es una <b>vocal</b> (a, e, i, o, u), la y se queda y solo añadimos <em>-s</em>: <i>boy → boys, toy → toys</i>.",
+      "en": "Consonant + y → <em>-ies</em> (baby → babies). Vowel + y → just <em>-s</em> (boy → boys).",
+      "formula": ["bab<s>y</s> + *ies*", "toy + *s*"],
+      "examples": [
+        { "en": "My aunt has got two <b>babies</b>.", "es": "Mi tía tiene dos bebés.", "icon": "👶" },
+        { "en": "I love <b>strawberries</b>!", "es": "¡Me encantan las fresas!", "icon": "🍓" },
+        { "en": "Mario has got a lot of <b>toys</b>.", "es": "Mario tiene muchos juguetes.", "icon": "🧸" }
+      ]
+    },
+    {
+      "t": "rule", "title": "4 · -f / -fe → -ves", "title_en": "-f / -fe → -ves", "icon": "🍂", "color": "orange",
+      "es": "Muchas palabras que acaban en <b>-f</b> o <b>-fe</b> cambian la f por <b>v</b> y añaden <em>-es</em>: <i>leaf → leaves, knife → knives, wolf → wolves</i>. Truco: dilo en voz alta y nota cómo la /f/ se vuelve /v/, ¡más suave! Ojo: algunas no cambian: <b>roofs, giraffes, chefs</b>.",
+      "en": "Many words ending in <b>-f / -fe</b> change to <em>-ves</em>: leaf → leaves. Some don't: roofs, giraffes.",
+      "formula": ["lea<s>f</s> + *ves*", "kni<s>fe</s> + *ves*"],
+      "examples": [
+        { "en": "The <b>leaves</b> are orange in autumn.", "es": "Las hojas son naranjas en otoño.", "icon": "🍂" },
+        { "en": "Three <b>wolves</b> live in the forest.", "es": "Tres lobos viven en el bosque.", "icon": "🐺" },
+        { "en": "Put the <b>knives</b> on the table, please.", "es": "Pon los cuchillos en la mesa, por favor.", "icon": "🍴" }
+      ]
+    },
+    {
+      "t": "table", "title": "5 · Los irregulares", "title_en": "Irregular plurals", "icon": "🧒", "color": "teal",
+      "head": ["Uno · One", "Muchos · Many", "Español"],
+      "rows": [
+        ["a man", "two <b>men</b>", "hombres"],
+        ["a woman", "two <b>women</b>", "mujeres"],
+        ["a child", "two <b>children</b>", "niños"],
+        ["a person", "two <b>people</b>", "personas, gente"],
+        ["a foot", "two <b>feet</b>", "pies"],
+        ["a tooth", "two <b>teeth</b>", "dientes"],
+        ["a mouse", "two <b>mice</b>", "ratones"],
+        ["a goose", "two <b>geese</b>", "ocas"]
+      ],
+      "note": "Estas palabras <b>no</b> llevan -s: ¡cambian por dentro! <s>childs</s>, <s>mans</s>, <s>foots</s> y <s>mouses</s> no existen. Truco: <b>woman</b> suena /ˈwʊmən/ y <b>women</b> suena /ˈwɪmɪn/: lo que cambia es la primera sílaba.",
+      "note_en": "These nouns change inside. Never add -s: <s>childs</s>, <s>foots</s>."
+    },
+    {
+      "t": "rule", "title": "6 · Iguales en plural", "title_en": "Same in the plural", "icon": "🐑", "color": "pink",
+      "es": "Algunos animales tienen el <b>mismo</b> singular y plural: <b>sheep</b> (oveja / ovejas), <b>fish</b> (pez / peces), <b>deer</b> (ciervo / ciervos). ¡Nunca digas <s>sheeps</s>! Para saber si hay uno o muchos, mira el <b>número</b> o el verbo (<b>is</b> / <b>are</b>).",
+      "en": "Some animals don't change: one <b>sheep</b> → two <b>sheep</b>, one <b>fish</b> → three <b>fish</b>. Look at the number or the verb.",
+      "examples": [
+        { "en": "My grandad has got twenty <b>sheep</b>.", "es": "Mi abuelo tiene veinte ovejas.", "icon": "🐑" },
+        { "en": "One sheep <b>is</b> black and nine sheep <b>are</b> white.", "es": "Una oveja es negra y nueve ovejas son blancas.", "icon": "🐏" },
+        { "en": "There are five <b>fish</b> in our fish tank.", "es": "Hay cinco peces en nuestra pecera.", "icon": "🐠" }
+      ]
+    },
+    {
+      "t": "rule", "title": "7 · Plural + ARE", "title_en": "Plural + are", "icon": "👥", "color": "teal",
+      "es": "Cuando el sujeto es plural, el verbo <b>to be</b> va en <b>are</b>: <i>The dogs are hungry.</i> Para decir <i>hay</i> + plural usamos <b>There are</b>. ¡Ojo con <b>people</b> y <b>children</b>! Ya son plural, así que van con <b>are</b>, aunque en español digamos <i>«la gente <u>es</u>»</i>.",
+      "en": "Plural subjects take <b>are</b>. <b>People</b> and <b>children</b> are plural too: People <b>are</b>…, The children <b>are</b>…",
+      "formula": ["plural + *are*", "*There are* + two cats"],
+      "examples": [
+        { "en": "<b>People are</b> very friendly in my town.", "es": "La gente es muy simpática en mi pueblo.", "icon": "😊" },
+        { "en": "<b>There are</b> twenty-five children in my class.", "es": "Hay veinticinco niños en mi clase.", "icon": "🏫" },
+        { "en": "My feet <b>are</b> cold!", "es": "¡Tengo los pies fríos!", "icon": "🧦" }
+      ]
+    },
+    {
+      "t": "table", "title": "Todo junto", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["Si acaba en… · Ending", "¿Qué hago? · Rule", "Ejemplos · Examples", "¡Ojo! · Watch out"],
+      "rows": [
+        ["casi todas", "+ <b>s</b>", "dog → dogs · apple → apples · car → cars", "¡Como en español!"],
+        ["-s, -ss, -sh, -ch, -x", "+ <b>es</b>", "bus → buses · glass → glasses · dish → dishes · box → boxes", "Una sílaba más: bus-es"],
+        ["-o", "+ <b>es</b> (algunas)", "tomato → tomatoes · potato → potatoes · hero → heroes", "photo → photos · piano → pianos · zoo → zoos"],
+        ["consonante + y", "y → <b>ies</b>", "baby → babies · party → parties · city → cities", "<s>babys</s>"],
+        ["vocal + y", "+ <b>s</b>", "boy → boys · day → days · key → keys", "<s>boies</s>"],
+        ["-f / -fe", "→ <b>ves</b>", "leaf → leaves · knife → knives · wolf → wolves", "roof → roofs · giraffe → giraffes"],
+        ["irregulares", "¡de memoria!", "child → children · man → men · foot → feet · mouse → mice", "sheep → sheep · fish → fish"]
+      ]
+    },
+    {
+      "t": "compare", "title": "¿Cómo suena el plural?", "title_en": "How does it sound?", "icon": "👂", "color": "blue",
+      "es": "Casi siempre la <b>-s</b> del plural suena /s/ o /z/ y <b>no</b> añade sílaba. Pero si la palabra acaba en un sonido que «sisea» (/s/, /z/, /ʃ/, /tʃ/, /dʒ/), el plural suena <mark>/ɪz/</mark> y tiene una sílaba más. Por eso escribimos bus<em>es</em>, box<em>es</em>. Ojo: <b>orange</b> y <b>house</b> ya acaban en -e, solo añaden -s, pero también suenan /ɪz/.",
+      "en": "After hissing sounds the plural says /ɪz/ and has one more syllable: bus-es, box-es, orang-es.",
+      "cols": [
+        { "head": "🐍 /s/ o /z/ · igual de largo", "color": "green", "items": ["cat → cats", "book → books", "dog → dogs", "toy → toys"] },
+        { "head": "🔊 /ɪz/ · ¡una sílaba más!", "color": "orange", "items": ["bus → bus-es", "box → box-es", "watch → watch-es", "orange → orang-es"] }
+      ]
+    },
+    {
+      "t": "vocab", "title": "Siempre en plural (+ are)", "title_en": "Always plural", "icon": "👖", "color": "pink",
+      "items": [
+        { "en": "trousers", "es": "pantalones", "icon": "👖" },
+        { "en": "shorts", "es": "pantalón corto", "icon": "🩳" },
+        { "en": "pyjamas", "es": "pijama", "icon": "🌙" },
+        { "en": "clothes", "es": "ropa", "icon": "👚" },
+        { "en": "glasses", "es": "gafas", "icon": "👓" },
+        { "en": "sunglasses", "es": "gafas de sol", "icon": "🕶️" },
+        { "en": "scissors", "es": "tijeras", "icon": "✂️" },
+        { "en": "headphones", "es": "cascos", "icon": "🎧" }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "Sara has got two <b>sisters</b>.", "es": "Sara tiene dos hermanas.", "icon": "👭" },
+        { "en": "There are three <b>mice</b> in the cartoon.", "es": "Hay tres ratones en los dibujos.", "icon": "🐭" },
+        { "en": "Rocky has got big <b>teeth</b>!", "es": "¡Rocky tiene los dientes grandes!", "icon": "🐕" },
+        { "en": "The <b>children</b> are in the playground.", "es": "Los niños están en el patio.", "icon": "⚽" },
+        { "en": "We've got two English <b>classes</b> today.", "es": "Hoy tenemos dos clases de inglés.", "icon": "📚" },
+        { "en": "Anna loves <b>cherries</b>.", "es": "A Anna le encantan las cerezas.", "icon": "🍒" },
+        { "en": "Leo and Tom are my best <b>friends</b>.", "es": "Leo y Tom son mis mejores amigos.", "icon": "🤝" },
+        { "en": "My new <b>trousers</b> are blue.", "es": "Mis pantalones nuevos son azules.", "icon": "👖" },
+        { "en": "There are two <b>women</b> and three <b>men</b> in the shop.", "es": "Hay dos mujeres y tres hombres en la tienda.", "icon": "🛒" },
+        { "en": "Lucía has got a lot of <b>dresses</b>.", "es": "Lucía tiene muchos vestidos.", "icon": "👗" },
+        { "en": "How many <b>sheep</b> can you see?", "es": "¿Cuántas ovejas ves?", "icon": "🐑" },
+        { "en": "Cats and dogs are my favourite <b>animals</b>.", "es": "Los gatos y los perros son mis animales favoritos.", "icon": "🐾" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "serpiente", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "My aunt has got three childs.", "good": "My aunt has got three <b>children</b>.", "why": "child es irregular: children.", "why_en": "child → children." },
+        { "bad": "People is happy.", "good": "People <b>are</b> happy.", "why": "people ya es plural → are.", "why_en": "people is plural." },
+        { "bad": "I've got two foots.", "good": "I've got two <b>feet</b>.", "why": "foot → feet (cambia por dentro).", "why_en": "foot → feet." },
+        { "bad": "There are ten sheeps.", "good": "There are ten <b>sheep</b>.", "why": "sheep no cambia en plural.", "why_en": "sheep doesn't change." },
+        { "bad": "The babys are tired.", "good": "The <b>babies</b> are tired.", "why": "consonante + y → -ies.", "why_en": "consonant + y → -ies." },
+        { "bad": "I like tomatos.", "good": "I like <b>tomatoes</b>.", "why": "tomato y potato llevan -es.", "why_en": "tomato → tomatoes." },
+        { "bad": "We need three knifes.", "good": "We need three <b>knives</b>.", "why": "-fe → -ves.", "why_en": "-fe → -ves." },
+        { "bad": "I've got two dog.", "good": "I've got two <b>dogs</b>.", "why": "Después de un número, plural.", "why_en": "After a number: plural." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Cómo hago el plural?", "title_en": "How do I make the plural?", "color": "orange",
+      "items": [
+        { "es": "¿Es <b>irregular</b>? (child, man, woman, person, foot, tooth, mouse, sheep, fish) → ¡de memoria!", "en": "Is it irregular? Learn it by heart." },
+        { "es": "¿Acaba en <b>-s, -ss, -sh, -ch, -x</b>? → añade <b>-es</b>.", "en": "Ends in -s, -sh, -ch, -x? Add -es." },
+        { "es": "¿Acaba en <b>-y</b>? Mira la letra de antes: consonante → <b>-ies</b>; vocal → <b>-s</b>.", "en": "Ends in -y? Consonant + y → -ies; vowel + y → -s." },
+        { "es": "¿Acaba en <b>-f / -fe</b>? → normalmente <b>-ves</b>.", "en": "Ends in -f / -fe? Usually -ves." },
+        { "es": "¿Ninguna de las anteriores? → solo <b>-s</b>. Y si el sujeto es plural, usa <b>are</b>.", "en": "None of these? Just add -s. Plural subject → are." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "En la granja del abuelo", "title_en": "At Grandad's farm",
+      "lines": [
+        { "who": "Grandad", "en": "Welcome to the farm, children!", "es": "¡Bienvenidos a la granja, niños!" },
+        { "who": "Mario", "en": "Wow! How many sheep have you got, Grandad?", "es": "¡Hala! ¿Cuántas ovejas tienes, abuelo?" },
+        { "who": "Grandad", "en": "I've got thirty sheep and two horses.", "es": "Tengo treinta ovejas y dos caballos." },
+        { "who": "Lucía", "en": "Are there any mice in the barn?", "es": "¿Hay ratones en el granero?" },
+        { "who": "Grandad", "en": "Yes, there are! But the cats are very good hunters.", "es": "¡Sí! Pero los gatos son muy buenos cazadores." },
+        { "who": "Mario", "en": "Look! Rocky has got leaves on his feet!", "es": "¡Mira! ¡Rocky tiene hojas en las patas!" },
+        { "who": "Grandad", "en": "Ha ha! Come on, children. Let's have tomatoes and potatoes for lunch!", "es": "¡Ja, ja! Venga, niños. ¡Vamos a comer tomates y patatas!" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco de la serpiente", "title_en": "The snake trick",
+      "es": "Antes de escribir un plural, mira <b>cómo acaba la palabra</b>. Si sisea como una serpiente (<b>s, sh, ch, x</b>) → <b>-es</b>. Y recuerda la «familia de los raros»: <i>men, women, children, people, feet, teeth, mice, sheep, fish</i>. ¡Esos nunca llevan -s!",
+      "en": "Hissing ending (s, sh, ch, x) → <b>-es</b>. The odd family (men, women, children, people, feet, teeth, mice, sheep, fish) never takes -s."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify", "title": "¿Cómo hace el plural?", "title_en": "Sort the words", "icon": "🗂️",
+      "es": "Escribe cada palabra en su caja según cómo hace el plural. Luego escribe el plural al lado.",
+      "en": "Write each word in the right box. Then write its plural.",
+      "cats": [
+        { "name": "+ s", "words": ["cat", "toy", "book", "day", "apple"] },
+        { "name": "+ es", "words": ["bus", "box", "watch", "dish", "tomato"] },
+        { "name": "y → ies", "words": ["baby", "party", "city", "family", "lorry"] },
+        { "name": "f / fe → ves", "words": ["leaf", "knife", "wolf", "shelf", "half"] }
+      ]
+    },
+    {
+      "t": "match", "title": "Uno y muchos", "title_en": "One and many", "icon": "🔗",
+      "es": "Une cada palabra con su plural. ¡Son todos irregulares!",
+      "en": "Match each word with its plural.",
+      "pairs": [
+        ["man", "men"],
+        ["woman", "women"],
+        ["child", "children"],
+        ["person", "people"],
+        ["foot", "feet"],
+        ["tooth", "teeth"],
+        ["mouse", "mice"],
+        ["goose", "geese"]
+      ]
+    },
+    {
+      "t": "choose", "title": "Rodea el plural correcto", "title_en": "Circle the correct plural", "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "I've got two [boxs|boxes] of crayons.", "a": "boxes" },
+        { "q": "There are three [babys|babies] in the park.", "a": "babies" },
+        { "q": "My grandad has got ten [sheep|sheeps].", "a": "sheep" },
+        { "q": "The [childs|children] are in the classroom.", "a": "children" },
+        { "q": "Leo has got a lot of [toys|toies].", "a": "toys" },
+        { "q": "Brush your [tooths|teeth], Lucía!", "a": "teeth" },
+        { "q": "The [leafs|leaves] are yellow in autumn.", "a": "leaves" },
+        { "q": "I like [tomatos|tomatoes] in my salad.", "a": "tomatoes" },
+        { "q": "People [is|are] happy at the beach.", "a": "are" },
+        { "q": "Look at my holiday [photos|photoes]!", "a": "photos" }
+      ]
+    },
+    {
+      "t": "spell", "title": "Deletrea el plural", "title_en": "Spell the plural", "icon": "🔤",
+      "es": "Ordena las letras y escribe el plural en las cajas. (¡Cuidado con la Serpiente de la S!)",
+      "en": "Unscramble the letters and write the plural.",
+      "items": [
+        { "q": "🦷 dientes", "a": "teeth" },
+        { "q": "🐭 ratones", "a": "mice" },
+        { "q": "👶 bebés", "a": "babies" },
+        { "q": "🍂 hojas", "a": "leaves" },
+        { "q": "🦶 pies", "a": "feet" },
+        { "q": "🧒 niños", "a": "children" },
+        { "q": "🍅 tomates", "a": "tomatoes" },
+        { "q": "🚌 autobuses", "a": "buses" }
+      ]
+    },
+    {
+      "t": "fill", "title": "Escribe el plural", "title_en": "Write the plural", "icon": "✏️",
+      "es": "Escribe el plural de la palabra entre paréntesis.",
+      "en": "Write the plural of the word in brackets.",
+      "items": [
+        { "q": "Mario has got two ____.", "hint": "bike", "a": "bikes" },
+        { "q": "There are five ____ on the table.", "hint": "glass", "a": "glasses" },
+        { "q": "My aunt has got two ____.", "hint": "baby", "a": "babies" },
+        { "q": "We need four ____ for the party.", "hint": "knife", "a": "knives" },
+        { "q": "I love ____!", "hint": "strawberry", "a": "strawberries" },
+        { "q": "The ____ are on the bus.", "hint": "child", "a": "children" },
+        { "q": "Rocky has got four ____.", "hint": "foot", "a": "feet" },
+        { "q": "There are two ____ in the kitchen.", "hint": "mouse", "a": "mice" },
+        { "q": "Our town has got two ____.", "hint": "church", "a": "churches" },
+        { "q": "Mum has got a lot of ____.", "hint": "key", "a": "keys" },
+        { "q": "Two ____ live next door.", "hint": "woman", "a": "women" },
+        { "q": "My grandad has got twenty ____.", "hint": "sheep", "a": "sheep" }
+      ]
+    },
+    {
+      "t": "fill", "title": "¿Is o are?", "title_en": "is or are?", "icon": "⚖️",
+      "es": "Completa con is (uno) o are (muchos). Pregúntate: ¿el sujeto es singular o plural?",
+      "en": "Complete with is or are.",
+      "bank": ["is", "are"],
+      "items": [
+        { "q": "The children ___ in the garden.", "a": "are" },
+        { "q": "My foot ___ very cold.", "a": "is" },
+        { "q": "People ___ nice here.", "a": "are" },
+        { "q": "The mice ___ under the bed.", "a": "are" },
+        { "q": "One sheep ___ black.", "a": "is" },
+        { "q": "Ten sheep ___ white.", "a": "are" },
+        { "q": "My teeth ___ clean.", "a": "are" },
+        { "q": "The man ___ tall.", "a": "is" },
+        { "q": "There ___ four people in my family.", "a": "are" }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Verdadero o falso?", "title_en": "True or false?", "icon": "✔️",
+      "es": "Lee cada frase sobre los plurales. Marca T (verdadero) o F (falso).",
+      "en": "Read each sentence about plurals. Tick T or F.",
+      "items": [
+        { "q": "The plural of <b>box</b> is <b>boxes</b>.", "a": true },
+        { "q": "The plural of <b>boy</b> is <b>boies</b>.", "a": false, "why": "vowel + y → boys" },
+        { "q": "The plural of <b>person</b> is <b>people</b>.", "a": true },
+        { "q": "<b>Fish</b> is the same in the singular and the plural.", "a": true },
+        { "q": "The plural of <b>mouse</b> is <b>mouses</b>.", "a": false, "why": "mice" },
+        { "q": "We say: <i>People are nice.</i>", "a": true },
+        { "q": "The plural of <b>roof</b> is <b>rooves</b>.", "a": false, "why": "roofs" },
+        { "q": "The plural of <b>potato</b> is <b>potatoes</b>.", "a": true },
+        { "q": "The plural of <b>woman</b> is <b>womans</b>.", "a": false, "why": "women" }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Completa la tabla", "title_en": "Complete the table", "icon": "📋", "wide": true,
+      "es": "Completa las casillas vacías: el singular, el plural o la regla.",
+      "en": "Fill in the empty boxes: singular, plural or rule.",
+      "head": ["Singular", "Plural", "Regla · Rule"],
+      "rows": [
+        ["bus", "?buses", "?+ es"],
+        ["?baby", "babies", "consonante + y → ies"],
+        ["toy", "?toys", "?vocal + y → s"],
+        ["leaf", "?leaves", "?f → ves"],
+        ["?child", "children", "irregular"],
+        ["fox", "?foxes", "?+ es"],
+        ["?tooth", "teeth", "?irregular"],
+        ["fish", "?fish", "?no cambia"],
+        ["lorry", "?lorries", "?consonante + y → ies"]
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Pasa a plural", "title_en": "Make it plural", "icon": "👥",
+      "es": "Escribe la frase en plural. ¡Cambia también is → are!",
+      "en": "Write the sentence in the plural. Change is → are too!",
+      "items": [
+        { "q": "The child is happy.", "a": "The children are happy." },
+        { "q": "The baby is tired.", "a": "The babies are tired." },
+        { "q": "The man is tall.", "a": "The men are tall." },
+        { "q": "My foot is cold.", "a": "My feet are cold." },
+        { "q": "The mouse is grey.", "a": "The mice are grey." },
+        { "q": "The leaf is red.", "a": "The leaves are red." },
+        { "q": "The bus is late.", "a": "The buses are late." },
+        { "q": "The woman is a teacher.", "a": "The women are teachers." },
+        { "q": "The sheep is hungry.", "a": "The sheep are hungry." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Pasa a singular", "title_en": "Make it singular", "icon": "☝️",
+      "es": "Ahora al revés: escribe la frase en singular. ¡Cambia también are → is!",
+      "en": "Now the other way round: write the sentence in the singular.",
+      "items": [
+        { "q": "The mice are small.", "a": "The mouse is small." },
+        { "q": "The boxes are heavy.", "a": "The box is heavy." },
+        { "q": "The women are doctors.", "a": "The woman is a doctor." },
+        { "q": "My teeth are white.", "a": "My tooth is white." },
+        { "q": "The parties are fun.", "a": "The party is fun." },
+        { "q": "The knives are sharp.", "a": "The knife is sharp." },
+        { "q": "The people are nice.", "a": "The person is nice." },
+        { "q": "The fish are orange.", "a": "The fish is orange." }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        { "q": "are / the / children / happy", "a": "The children are happy." },
+        { "q": "got / I've / two / teeth / new", "a": "I've got two new teeth." },
+        { "q": "three / there / mice / are / in the box", "a": "There are three mice in the box." },
+        { "q": "people / are / friendly / very", "a": "People are very friendly." },
+        { "q": "has got / my grandad / sheep / twenty", "a": "My grandad has got twenty sheep." },
+        { "q": "are / my / cold / feet", "a": "My feet are cold." },
+        { "q": "boxes / we / five / need", "a": "We need five boxes." },
+        { "q": "the / are / orange / leaves", "a": "The leaves are orange." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "I've got two dog.", "a": "I've got two dogs." },
+        { "q": "The childs are at school.", "a": "The children are at school." },
+        { "q": "People is very kind.", "a": "People are very kind." },
+        { "q": "My aunt has got two babys.", "a": "My aunt has got two babies." },
+        { "q": "There are four sheeps on the farm.", "a": "There are four sheep on the farm." },
+        { "q": "I brush my tooths every day.", "a": "I brush my teeth every day." },
+        { "q": "We need some tomatos.", "a": "We need some tomatoes." },
+        { "q": "The wolfs live in the forest.", "a": "The wolves live in the forest." },
+        { "q": "My feet is dirty.", "a": "My feet are dirty." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Piensa: ¿qué plural lleva? ¿is o are?",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Tengo dos hermanas.", "a": "I've got two sisters." },
+        { "q": "Los niños de mi clase son simpáticos.", "a": "The children in my class are nice." },
+        { "q": "Hay tres ratones en mi casa.", "a": "There are three mice in my house." },
+        { "q": "La gente es amable.", "a": "People are kind." },
+        { "q": "Tengo los pies fríos. (¡cuidado!)", "a": "My feet are cold." },
+        { "q": "Mi abuelo tiene diez ovejas.", "a": "My grandad has got ten sheep." },
+        { "q": "Necesitamos cinco cajas.", "a": "We need five boxes." },
+        { "q": "Me encantan las fresas.", "a": "I love strawberries." },
+        { "q": "Los bebés están cansados.", "a": "The babies are tired." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto y subraya todos los plurales. Después marca T o F y contesta las preguntas.",
+      "en": "Read the text and underline the plurals. Then tick T or F and answer the questions.",
+      "text_title": "A day at the zoo",
+      "text": [
+        "Today Mario's class is at the zoo. There are twenty-four children and two teachers on the bus. The children are very happy!",
+        "First, they see the monkeys. There are six monkeys and two babies. Then they see the wolves. The wolves have got big teeth! Anna's favourite animals are the penguins. There are a lot of penguins and fish in their pool.",
+        "At lunchtime, the children eat sandwiches, tomatoes and strawberries. Leo has got three sandwiches! In the afternoon they visit the zoo farm and see the mice and the sheep. \"People are so friendly here!\" says Mario."
+      ],
+      "items": [
+        { "q": "There are twenty-four children on the bus.", "tf": true, "a": true },
+        { "q": "There are three teachers.", "tf": true, "a": false, "why": "There are two teachers." },
+        { "q": "The wolves have got big teeth.", "tf": true, "a": true },
+        { "q": "How many monkeys are there?", "a": "There are six monkeys (and two babies)." },
+        { "q": "What do the children eat at lunchtime?", "a": "They eat sandwiches, tomatoes and strawberries." },
+        { "q": "How many sandwiches has Leo got?", "a": "He has got three sandwiches." }
+      ]
+    },
+    {
+      "t": "wordsearch", "title": "Sopa de plurales", "title_en": "Plural word search", "icon": "🔎",
+      "es": "Busca el PLURAL de cada palabra en la sopa de letras y escríbelo al lado.",
+      "en": "Find the PLURAL of each word and write it.",
+      "words": ["children", "people", "feet", "teeth", "mice", "sheep", "women", "leaves", "babies", "boxes"],
+      "clues": ["child → ?", "person → ?", "foot → ?", "tooth → ?", "mouse → ?", "sheep → ?", "woman → ?", "leaf → ?", "baby → ?", "box → ?"]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe frases sobre ti, tu familia y tu clase. Usa plurales y are.",
+      "en": "Write about you, your family and your class.",
+      "items": [
+        { "q": "Escribe 2 cosas que tienes (en plural): I've got two…", "lines": 2, "a": "Ej.: I've got two cousins. I've got a lot of toys." },
+        { "q": "¿Cuántas personas hay en tu familia? There are … people in my family.", "lines": 1, "a": "Ej.: There are four people in my family." },
+        { "q": "Describe tu clase: There are … children / boys / girls…", "lines": 2, "a": "Ej.: There are twenty-five children in my class. There are twelve boys and thirteen girls." },
+        { "q": "Escribe 2 frases con plurales irregulares (feet, teeth, children, people…).", "lines": 2, "a": "Ej.: My feet are big. The people in my town are friendly." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé hacer el plural con <b>-s</b> y con <b>-es</b> (buses, boxes, watches).", "en": "I can add -s and -es." },
+    { "es": "Sé cuándo la y cambia a <b>-ies</b> (babies) y cuándo no (boys).", "en": "I know when y changes to -ies." },
+    { "es": "Sé los plurales en <b>-ves</b>: leaves, knives, wolves.", "en": "I know plurals in -ves." },
+    { "es": "Me sé los irregulares: <b>children, people, men, women, feet, teeth, mice</b>.", "en": "I know the irregular plurals." },
+    { "es": "Sé que <b>sheep</b> y <b>fish</b> no cambian.", "en": "I know sheep and fish don't change." },
+    { "es": "Uso <b>are</b> con el plural: People are…, There are…", "en": "I use are with plurals." }
+  ]
+}

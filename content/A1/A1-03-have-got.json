@@ -1,0 +1,441 @@
+{
+  "id": "A1-03",
+  "level": "A1",
+  "title": "HAVE GOT <em>y</em> HAS GOT",
+  "file_title": "Have got y has got",
+  "subtitle": "Have got and has got · tener",
+  "icon": "🎒",
+  "map": {
+    "center": "Usamos <b>HAVE GOT</b> para decir lo que <b>tenemos</b>: cosas, familia, mascotas y cómo somos.",
+    "nodes": [
+      {
+        "title": "¿Qué significa?", "icon": "🔎",
+        "rows": [["have got", "= tener (I, you, we, they)"], ["has got", "= tener (he, she, it)"]],
+        "after": "La palabra <em>got</em> nunca cambia."
+      },
+      {
+        "title": "Afirmativa", "icon": "✅", "art": "🐶",
+        "items": ["I / you / we / they + <b>have got</b>", "he / she / it + <b>has got</b>", "I <b>have got</b> a bike. <i>(Tengo una bici.)</i>", "She <b>has got</b> a dog. <i>(Ella tiene un perro.)</i>"]
+      },
+      {
+        "title": "Negativa", "icon": "⛔",
+        "items": ["I <b>haven't got</b> a cat. <i>(No tengo gato.)</i>", "He <b>hasn't got</b> a cat. <i>(Él no tiene gato.)</i>", "haven't = have not · hasn't = has not"]
+      },
+      {
+        "title": "Preguntas", "icon": "❓", "art": "✏️",
+        "items": ["<b>Have</b> + I / you / we / they + <b>got</b>…?", "<b>Has</b> + he / she / it + <b>got</b>…?", "<b>Have</b> you <b>got</b> a pen?", "<b>Has</b> Mario <b>got</b> a pen?"]
+      },
+      {
+        "title": "Respuestas cortas", "icon": "💬",
+        "items": ["Yes, I <b>have</b>. / No, I <b>haven't</b>.", "Yes, she <b>has</b>. / No, she <b>hasn't</b>.", "¡En la respuesta corta <em>no</em> va got!"]
+      },
+      {
+        "title": "Consejo rápido", "icon": "💡",
+        "items": ["Contracciones: I've got · she's got", "La edad NO va con have: I <b>am</b> nine.", "Have got = cosas que tienes, no acciones."]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["He have got a dog."],
+      "good": ["He has got a dog."],
+      "note": "he / she / it → <b>has</b> got"
+    },
+    "mini": {
+      "es": "Completa con have got o has got.",
+      "en": "Complete with have got or has got.",
+      "items": [
+        { "q": "I ____ a red bike.", "a": "have got" },
+        { "q": "My sister ____ long hair.", "a": "has got" },
+        { "q": "We ____ a new teacher.", "a": "have got" },
+        { "q": "The cat ____ green eyes.", "a": "has got" },
+        { "q": "___ you got a pen?", "a": "Have" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "<b>Have got</b> significa <mark>tener</mark>. Lo usamos para hablar de las <b>cosas que tenemos</b> (una bici, un lápiz), de la <b>familia</b> (un hermano), de las <b>mascotas</b> (un perro) y de <b>cómo somos</b> (ojos azules, pelo largo).",
+      "en": "<b>Have got</b> means <mark>to have</mark>. We use it for things we own, family, pets and what we look like.",
+      "formula": ["Sujeto + *have got / has got* + cosa"]
+    },
+    {
+      "t": "rule", "title": "1 · Afirmativa", "title_en": "Affirmative", "icon": "✅", "color": "green",
+      "es": "Con <b>I, you, we, they</b> usamos <b>have got</b>. Con <b>he, she, it</b> (una sola persona, animal o cosa) usamos <b>has got</b>. La palabra <em>got</em> se queda siempre igual.",
+      "en": "With <b>I, you, we, they</b> we use <b>have got</b>. With <b>he, she, it</b> we use <b>has got</b>. The word <em>got</em> never changes.",
+      "formula": ["I / you / we / they + *have got* + a bike", "he / she / it + *has got* + a bike"],
+      "examples": [
+        { "en": "I <b>have got</b> a green bike.", "es": "Tengo una bici verde.", "icon": "🚲" },
+        { "en": "My brother <b>has got</b> a big dog.", "es": "Mi hermano tiene un perro grande.", "icon": "🐕" },
+        { "en": "We <b>have got</b> two cats.", "es": "Tenemos dos gatos.", "icon": "🐈" }
+      ]
+    },
+    {
+      "t": "table", "title": "Las contracciones", "title_en": "Short forms", "icon": "✂️", "color": "purple",
+      "head": ["Forma larga · Long", "Forma corta · Short"],
+      "rows": [
+        ["I have got", "I<b>'ve</b> got"],
+        ["you have got", "you<b>'ve</b> got"],
+        ["he has got", "he<b>'s</b> got"],
+        ["she has got", "she<b>'s</b> got"],
+        ["it has got", "it<b>'s</b> got"],
+        ["we have got", "we<b>'ve</b> got"],
+        ["they have got", "they<b>'ve</b> got"]
+      ],
+      "note": "Ojo: <b>she's got</b> = she <u>has</u> got. Pero <b>she's nine</b> = she <u>is</u> nine. El apóstrofo puede ser <i>has</i> o <i>is</i>: mira si después viene <b>got</b>.",
+      "note_en": "Careful: <b>'s</b> can mean <i>has</i> or <i>is</i>. If <b>got</b> comes next, it means <i>has</i>."
+    },
+    {
+      "t": "rule", "title": "2 · Negativa", "title_en": "Negative", "icon": "⛔", "color": "red",
+      "es": "Para decir que <b>no tenemos</b> algo, ponemos <b>not</b> después de have / has: <b>haven't got</b> y <b>hasn't got</b>. ¡No usamos <em>don't</em> ni <em>doesn't</em> con have got, y tampoco decimos <em>no</em>!",
+      "en": "To say we <b>don't have</b> something, put <b>not</b> after have / has: <b>haven't got</b> and <b>hasn't got</b>. Don't use <em>don't</em> or <em>no</em>.",
+      "formula": ["I / you / we / they + *haven't got* + a cat", "he / she / it + *hasn't got* + a cat"],
+      "examples": [
+        { "en": "I <b>haven't got</b> a phone.", "es": "No tengo móvil.", "icon": "📵" },
+        { "en": "She <b>hasn't got</b> brothers.", "es": "Ella no tiene hermanos.", "icon": "👧" },
+        { "en": "They <b>haven't got</b> a garden.", "es": "Ellos no tienen jardín.", "icon": "🏡" }
+      ]
+    },
+    {
+      "t": "rule", "title": "3 · Preguntas", "title_en": "Questions", "icon": "❓", "color": "blue",
+      "es": "Para preguntar, ponemos <b>Have</b> o <b>Has</b> <mark>delante del sujeto</mark> y <b>got</b> detrás. ¡Es como un salto: el verbo salta al principio! (Así se vence al <i>Verbo Saltarín</i>.)",
+      "en": "To ask a question, put <b>Have</b> or <b>Has</b> <mark>before the subject</mark> and <b>got</b> after it.",
+      "formula": ["*Have* + I / you / we / they + *got* + a pen?", "*Has* + he / she / it + *got* + a pen?"],
+      "examples": [
+        { "en": "<b>Have</b> you <b>got</b> a pencil?", "es": "¿Tienes un lápiz?", "icon": "✏️" },
+        { "en": "<b>Has</b> your mum <b>got</b> a car?", "es": "¿Tu madre tiene coche?", "icon": "🚗" },
+        { "en": "<b>Have</b> they <b>got</b> a pet?", "es": "¿Tienen ellos una mascota?", "icon": "🐹" }
+      ]
+    },
+    {
+      "t": "table", "title": "4 · Respuestas cortas", "title_en": "Short answers", "icon": "💬", "color": "teal",
+      "head": ["Pregunta · Question", "Sí · Yes", "No"],
+      "rows": [
+        ["Have you got a dog?", "Yes, I <b>have</b>.", "No, I <b>haven't</b>."],
+        ["Has he got a dog?", "Yes, he <b>has</b>.", "No, he <b>hasn't</b>."],
+        ["Has she got a dog?", "Yes, she <b>has</b>.", "No, she <b>hasn't</b>."],
+        ["Has it got a tail?", "Yes, it <b>has</b>.", "No, it <b>hasn't</b>."],
+        ["Have we got a test?", "Yes, we <b>have</b>.", "No, we <b>haven't</b>."],
+        ["Have they got a dog?", "Yes, they <b>have</b>.", "No, they <b>haven't</b>."]
+      ],
+      "note": "En la respuesta corta <b>nunca</b> ponemos <em>got</em>: <s>Yes, I have got.</s> → Yes, I have.",
+      "note_en": "Short answers never have <em>got</em>."
+    },
+    {
+      "t": "table", "title": "Todo junto", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["Sujeto · Subject", "✅ Afirmativa", "⛔ Negativa", "❓ Pregunta", "💬 Respuesta corta"],
+      "rows": [
+        ["I", "I have got a bike.", "I haven't got a bike.", "Have I got a bike?", "Yes, I have. / No, I haven't."],
+        ["you", "You have got a bike.", "You haven't got a bike.", "Have you got a bike?", "Yes, you have. / No, you haven't."],
+        ["he", "He <b>has</b> got a bike.", "He <b>hasn't</b> got a bike.", "<b>Has</b> he got a bike?", "Yes, he has. / No, he hasn't."],
+        ["she", "She <b>has</b> got a bike.", "She <b>hasn't</b> got a bike.", "<b>Has</b> she got a bike?", "Yes, she has. / No, she hasn't."],
+        ["it", "It <b>has</b> got a bell.", "It <b>hasn't</b> got a bell.", "<b>Has</b> it got a bell?", "Yes, it has. / No, it hasn't."],
+        ["we", "We have got a bike.", "We haven't got a bike.", "Have we got a bike?", "Yes, we have. / No, we haven't."],
+        ["they", "They have got a bike.", "They haven't got a bike.", "Have they got a bike?", "Yes, they have. / No, they haven't."]
+      ]
+    },
+    {
+      "t": "vocab", "title": "¿Qué podemos tener?", "title_en": "Things we can have got", "icon": "🎁", "color": "pink", "wide": true, "cols": 4,
+      "items": [
+        { "en": "a bike", "es": "una bici", "icon": "🚲" },
+        { "en": "a pet", "es": "una mascota", "icon": "🐾" },
+        { "en": "a brother", "es": "un hermano", "icon": "👦" },
+        { "en": "a sister", "es": "una hermana", "icon": "👧" },
+        { "en": "blue eyes", "es": "ojos azules", "icon": "👀" },
+        { "en": "long hair", "es": "pelo largo", "icon": "💇" },
+        { "en": "short hair", "es": "pelo corto", "icon": "💈" },
+        { "en": "glasses", "es": "gafas", "icon": "👓" },
+        { "en": "a cold", "es": "un resfriado", "icon": "🤧" },
+        { "en": "a headache", "es": "dolor de cabeza", "icon": "🤕" },
+        { "en": "a pencil case", "es": "un estuche", "icon": "✏️" },
+        { "en": "a garden", "es": "un jardín", "icon": "🌳" },
+        { "en": "a ball", "es": "una pelota", "icon": "⚽" },
+        { "en": "a computer", "es": "un ordenador", "icon": "💻" },
+        { "en": "a tail", "es": "una cola (animal)", "icon": "🐒" },
+        { "en": "big ears", "es": "orejas grandes", "icon": "🐘" }
+      ]
+    },
+    {
+      "t": "compare", "title": "HAVE GOT o HAVE", "title_en": "have got or have?", "color": "blue", "icon": "⚖️",
+      "es": "<b>Have got</b> es para <b>tener</b> cosas. Pero <b>have</b> solo (sin got) también sirve para <b>acciones</b>: desayunar, ducharse, pasarlo bien. En las acciones <em>nunca</em> va got.",
+      "en": "<b>Have got</b> = possession. <b>Have</b> (without got) is also used for <b>actions</b>. Actions never take <em>got</em>.",
+      "cols": [
+        { "head": "🎒 Tener · have got", "color": "green", "items": ["I've got a bike.", "She's got a cold.", "We've got a dog."] },
+        { "head": "🏃 Acción · have", "color": "orange", "items": ["I <b>have</b> breakfast at 8.", "She <b>has</b> a shower.", "We <b>have</b> fun!"] }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "I've got a sister. Her name is Lucía.", "es": "Tengo una hermana. Se llama Lucía.", "icon": "👧" },
+        { "en": "Mario has got brown eyes.", "es": "Mario tiene los ojos marrones.", "icon": "👁️" },
+        { "en": "Our school has got a big playground.", "es": "Nuestro cole tiene un patio grande.", "icon": "🏫" },
+        { "en": "The elephant has got big ears.", "es": "El elefante tiene orejas grandes.", "icon": "🐘" },
+        { "en": "My grandparents have got a farm.", "es": "Mis abuelos tienen una granja.", "icon": "🚜" },
+        { "en": "I haven't got my homework!", "es": "¡No tengo los deberes!", "icon": "😱" },
+        { "en": "Has your dog got a name?", "es": "¿Tu perro tiene nombre?", "icon": "🐕" },
+        { "en": "We haven't got English today.", "es": "Hoy no tenemos inglés.", "icon": "📅" },
+        { "en": "Have you got a cold? — Yes, I have.", "es": "¿Estás resfriado? — Sí.", "icon": "🤧" },
+        { "en": "My cat hasn't got a tail.", "es": "Mi gato no tiene cola.", "icon": "🐈" },
+        { "en": "Have your parents got a big car? — No, they haven't.", "es": "¿Tus padres tienen un coche grande? — No.", "icon": "🚙" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "got", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "He have got a dog.", "good": "He <b>has</b> got a dog.", "why": "he / she / it → has.", "why_en": "he / she / it → has." },
+        { "bad": "I have a dog. <small>(en el examen del cole)</small>", "good": "I have <b>got</b> a dog.", "why": "¡No te comas el got!", "why_en": "Don't drop got." },
+        { "bad": "She has gots a ball.", "good": "She has <b>got</b> a ball.", "why": "Got nunca cambia.", "why_en": "Got never changes." },
+        { "bad": "Do you have got a pen?", "good": "<b>Have</b> you got a pen?", "why": "Con have got no se usa do.", "why_en": "No do with have got." },
+        { "bad": "I no have got a cat.", "good": "I <b>haven't</b> got a cat.", "why": "En inglés no se niega con «no».", "why_en": "Use haven't, not no." },
+        { "bad": "Yes, I have got.", "good": "Yes, I <b>have</b>.", "why": "La respuesta corta va sin got.", "why_en": "Short answers: no got." },
+        { "bad": "I have got nine years.", "good": "I <b>am</b> nine.", "why": "La edad va con TO BE.", "why_en": "Age uses be." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Cómo construyo la frase?", "title_en": "How do I build it?", "color": "orange",
+      "items": [
+        { "es": "Busca el <b>sujeto</b>: ¿quién tiene algo?", "en": "Find the subject: who has something?" },
+        { "es": "¿Es <b>he, she, it</b> (o un nombre como Mario, my mum, the cat)? → <b>has</b>. Si no → <b>have</b>.", "en": "he / she / it (or one name) → has. Others → have." },
+        { "es": "¿Afirmativa? → have/has <b>got</b>. ¿Negativa? → haven't/hasn't <b>got</b>.", "en": "Positive → have/has got. Negative → haven't/hasn't got." },
+        { "es": "¿Pregunta? → <b>Have/Has</b> + sujeto + <b>got</b> …?", "en": "Question → Have/Has + subject + got…?" },
+        { "es": "Repasa: ¿he puesto <b>got</b>? ¿Solo una vez y sin s?", "en": "Check: is got there, once, without s?" }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "En el recreo", "title_en": "At break time",
+      "lines": [
+        { "who": "Mario", "en": "Have you got a pet, Leo?", "es": "¿Tienes mascota, Leo?" },
+        { "who": "Leo", "en": "Yes, I have. I've got a rabbit.", "es": "Sí. Tengo un conejo." },
+        { "who": "Mario", "en": "Cool! Has it got long ears?", "es": "¡Qué guay! ¿Tiene orejas largas?" },
+        { "who": "Leo", "en": "Yes, it has. And it's got a white tail.", "es": "Sí. Y tiene una cola blanca." },
+        { "who": "Mario", "en": "I haven't got a rabbit, but I've got a dog.", "es": "Yo no tengo conejo, pero tengo un perro." },
+        { "who": "Leo", "en": "Has your dog got a name?", "es": "¿Tu perro tiene nombre?" },
+        { "who": "Mario", "en": "Yes, it has. Its name is Rocky!", "es": "Sí. ¡Se llama Rocky!" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco del sujeto", "title_en": "Subject trick",
+      "es": "Si puedes cambiar el sujeto por <b>he, she o it</b>, usa <b>has</b>. <i>My mum → she → has got.</i> <i>The dogs → they → have got.</i>",
+      "en": "If you can change the subject for <b>he, she or it</b>, use <b>has</b>."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "fill", "title": "have got o has got", "title_en": "have got or has got", "icon": "🎒",
+      "es": "Completa con have got o has got. Antes, subraya el sujeto.",
+      "en": "Complete with have got or has got. Underline the subject first.",
+      "bank": ["have got", "has got"],
+      "items": [
+        { "q": "I ____ a blue pencil case.", "a": "have got" },
+        { "q": "My dad ____ a red car.", "a": "has got" },
+        { "q": "They ____ a big garden.", "a": "have got" },
+        { "q": "Lucía ____ long hair.", "a": "has got" },
+        { "q": "We ____ a new classroom.", "a": "have got" },
+        { "q": "The rabbit ____ long ears.", "a": "has got" },
+        { "q": "You ____ a nice smile.", "a": "have got" },
+        { "q": "My grandparents ____ a farm.", "a": "have got" },
+        { "q": "It ____ four legs.", "a": "has got" },
+        { "q": "Mario ____ a green bike.", "a": "has got" }
+      ]
+    },
+    {
+      "t": "choose", "title": "Rodea la correcta", "title_en": "Circle the correct word", "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "She [have|has] got a cat.", "a": "has" },
+        { "q": "We [have|has] got two brothers.", "a": "have" },
+        { "q": "[Have|Has] you got a pen?", "a": "Have" },
+        { "q": "My teacher [haven't|hasn't] got glasses.", "a": "hasn't" },
+        { "q": "The dogs [have|has] got a ball.", "a": "have" },
+        { "q": "[Have|Has] Tom got a computer?", "a": "Has" },
+        { "q": "I [haven't|hasn't] got a phone.", "a": "haven't" },
+        { "q": "My sister has [got|gots] blue eyes.", "a": "got" },
+        { "q": "Yes, I [have|have got].", "a": "have" },
+        { "q": "The bird [have|has] got yellow wings.", "a": "has" }
+      ]
+    },
+    {
+      "t": "classify", "title": "¿Have o has?", "title_en": "Sort the subjects", "icon": "🗂️",
+      "es": "Escribe cada sujeto en su caja: ¿va con have got o con has got?",
+      "en": "Write each subject in the right box.",
+      "cats": [
+        { "name": "have got", "words": ["I", "We", "Tom and Anna", "My friends", "You", "The dogs"] },
+        { "name": "has got", "words": ["My mum", "The cat", "Mario", "It", "She", "The teacher"] }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Pasa a negativa", "title_en": "Make it negative", "icon": "⛔",
+      "es": "Escribe la frase en negativa con haven't got o hasn't got.",
+      "en": "Write the sentence in the negative.",
+      "items": [
+        { "q": "I have got a hamster.", "a": "I haven't got a hamster." },
+        { "q": "She has got a brother.", "a": "She hasn't got a brother." },
+        { "q": "We have got a swimming pool.", "a": "We haven't got a swimming pool." },
+        { "q": "My dog has got a long tail.", "a": "My dog hasn't got a long tail." },
+        { "q": "They have got a red car.", "a": "They haven't got a red car." },
+        { "q": "Mario has got a cold.", "a": "Mario hasn't got a cold." },
+        { "q": "You have got my book.", "a": "You haven't got my book." },
+        { "q": "It has got four wheels.", "a": "It hasn't got four wheels." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Pregunta y responde", "title_en": "Ask and answer", "icon": "❓",
+      "es": "Escribe la pregunta y luego la respuesta corta. Fíjate en la pista (YES / NO).",
+      "en": "Write the question and the short answer.",
+      "labels": ["❓", "💬"],
+      "items": [
+        { "q": "you / a bike (YES)", "a": ["Have you got a bike?", "Yes, I have."] },
+        { "q": "she / a sister (NO)", "a": ["Has she got a sister?", "No, she hasn't."] },
+        { "q": "they / a dog (YES)", "a": ["Have they got a dog?", "Yes, they have."] },
+        { "q": "your dad / a beard (NO)", "a": ["Has your dad got a beard?", "No, he hasn't."] },
+        { "q": "the cat / green eyes (YES)", "a": ["Has the cat got green eyes?", "Yes, it has."] },
+        { "q": "we / a test today (NO)", "a": ["Have we got a test today?", "No, we haven't."] }
+      ]
+    },
+    {
+      "t": "fill", "title": "Respuestas cortas", "title_en": "Short answers", "icon": "💬",
+      "es": "Completa la respuesta corta. Recuerda: ¡sin got!",
+      "en": "Complete the short answer. Remember: no got!",
+      "items": [
+        { "q": "Have you got a pencil? — Yes, I ____.", "a": "have" },
+        { "q": "Has Anna got a cat? — No, she ____.", "a": "hasn't" },
+        { "q": "Have they got a car? — Yes, they ____.", "a": "have" },
+        { "q": "Has the house got a garden? — No, it ____.", "a": "hasn't" },
+        { "q": "Have we got English today? — Yes, we ____.", "a": "have" },
+        { "q": "Has your brother got a phone? — No, he ____.", "a": "hasn't" },
+        { "q": "Have you got a cold? — No, I ____.", "a": "haven't" },
+        { "q": "Has Mario got a dog? — Yes, he ____.", "a": "has" }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        { "q": "got / a / I / have / dog", "a": "I have got a dog." },
+        { "q": "has / she / blue / got / eyes", "a": "She has got blue eyes." },
+        { "q": "you / got / have / a pen / ?", "a": "Have you got a pen?" },
+        { "q": "hasn't / my / got / cat / a tail", "a": "My cat hasn't got a tail." },
+        { "q": "got / we / a / haven't / garden", "a": "We haven't got a garden." },
+        { "q": "Mario / got / has / a bike / ?", "a": "Has Mario got a bike?" },
+        { "q": "they / got / two / have / brothers", "a": "They have got two brothers." },
+        { "q": "has / long / the / got / giraffe / neck / a", "a": "The giraffe has got a long neck." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "She have got a horse.", "a": "She has got a horse." },
+        { "q": "I has got a sister.", "a": "I have got a sister." },
+        { "q": "He has gots a ball.", "a": "He has got a ball." },
+        { "q": "Do you have got a rubber?", "a": "Have you got a rubber?" },
+        { "q": "We no have got a car.", "a": "We haven't got a car." },
+        { "q": "Has they got a dog?", "a": "Have they got a dog?" },
+        { "q": "Yes, she has got.", "a": "Yes, she has." },
+        { "q": "I have got eight years.", "a": "I am eight (years old)." }
+      ]
+    },
+    {
+      "t": "match", "title": "Une pregunta y respuesta", "title_en": "Match questions and answers", "icon": "🔗",
+      "es": "Une cada pregunta con su respuesta.",
+      "en": "Match each question with its answer.",
+      "pairs": [
+        ["Have you got a pet?", "Yes, I have. A hamster."],
+        ["Has your sister got a bike?", "No, she hasn't."],
+        ["Have your parents got a car?", "Yes, they have. It's blue."],
+        ["Has the dog got a ball?", "Yes, it has."],
+        ["Has Leo got a brother?", "No, he hasn't. He's got a sister."],
+        ["Have we got homework?", "No, we haven't. Hooray!"]
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Completa la tabla", "title_en": "Complete the table", "icon": "📋", "wide": true,
+      "es": "Completa las casillas vacías.",
+      "en": "Fill in the empty boxes.",
+      "head": ["Sujeto", "✅ Afirmativa", "⛔ Negativa", "❓ Pregunta"],
+      "rows": [
+        ["I", "I have got a pen.", "?I haven't got a pen.", "?Have I got a pen?"],
+        ["she", "?She has got a pen.", "She hasn't got a pen.", "?Has she got a pen?"],
+        ["we", "?We have got a pen.", "?We haven't got a pen.", "Have we got a pen?"],
+        ["the dog", "The dog has got a ball.", "?The dog hasn't got a ball.", "?Has the dog got a ball?"],
+        ["they", "?They have got a ball.", "They haven't got a ball.", "?Have they got a ball?"]
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Piensa: ¿quién es el sujeto? ¿have o has? ¿lleva got?",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Tengo un hermano.", "a": "I have got a brother." },
+        { "q": "Ella tiene el pelo rizado.", "a": "She has got curly hair." },
+        { "q": "No tenemos perro.", "a": "We haven't got a dog." },
+        { "q": "¿Tienes una goma?", "a": "Have you got a rubber?" },
+        { "q": "Mi abuelo tiene gafas.", "a": "My grandad has got glasses." },
+        { "q": "¿Tu gato tiene nombre?", "a": "Has your cat got a name?" },
+        { "q": "Ellos no tienen deberes.", "a": "They haven't got (any) homework." },
+        { "q": "Tengo nueve años. (¡cuidado!)", "a": "I am nine (years old)." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "Mario's family",
+      "text": [
+        "Hi! I'm Mario. I'm eight years old. I've got a big family! I've got a sister, Lucía. She's twelve. She has got long brown hair and she has got glasses.",
+        "I haven't got a brother. We've got a dog. His name is Rocky. He has got a short tail and big ears. My grandparents have got a farm with two horses. My mum has got a blue car, but my dad hasn't got a car. He has got a bike!"
+      ],
+      "items": [
+        { "q": "Mario has got a brother.", "tf": true, "a": false, "why": "He hasn't got a brother." },
+        { "q": "Lucía has got glasses.", "tf": true, "a": true },
+        { "q": "Rocky has got a long tail.", "tf": true, "a": false, "why": "He has got a short tail." },
+        { "q": "What has Mario's mum got?", "a": "She has got a blue car." },
+        { "q": "Have Mario's grandparents got a farm?", "a": "Yes, they have." },
+        { "q": "Has Mario's dad got a car?", "a": "No, he hasn't. He has got a bike." }
+      ]
+    },
+    {
+      "t": "spell", "title": "Deletrea la palabra", "title_en": "Spell the word", "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en las cajas. (¡Ojo con el Monstruo Ae!)",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        { "q": "🐶 perro", "a": "dog" },
+        { "q": "👧 hermana", "a": "sister" },
+        { "q": "👓 gafas", "a": "glasses" },
+        { "q": "🐰 conejo", "a": "rabbit" },
+        { "q": "✏️ lápiz", "a": "pencil" },
+        { "q": "👦 hermano", "a": "brother" }
+      ]
+    },
+    {
+      "t": "wordsearch", "title": "Sopa de letras", "title_en": "Word search", "icon": "🔎",
+      "es": "Busca las 8 palabras. Después escribe una frase con have got y otra con has got usando dos de ellas.",
+      "en": "Find the 8 words. Then write two sentences with have got / has got.",
+      "words": ["bike", "sister", "glasses", "rabbit", "garden", "tail", "eyes", "hair"],
+      "clues": ["bike · bici", "sister · hermana", "glasses · gafas", "rabbit · conejo", "garden · jardín", "tail · cola", "eyes · ojos", "hair · pelo"]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe frases sobre ti y tu familia. Usa have got, has got, haven't got y hasn't got.",
+      "en": "Write about you and your family.",
+      "items": [
+        { "q": "Escribe 2 cosas que <b>tienes</b>: I've got…", "lines": 2, "a": "Ej.: I've got a green bike. I've got a dog." },
+        { "q": "Escribe 1 cosa que <b>no tienes</b>: I haven't got…", "lines": 1, "a": "Ej.: I haven't got a cat." },
+        { "q": "Describe a alguien de tu familia: He/She has got…", "lines": 2, "a": "Ej.: My sister has got long hair. She has got brown eyes." },
+        { "q": "Escribe 2 preguntas para un amigo: Have you got…?", "lines": 2, "a": "Ej.: Have you got a pet? Have you got a brother?" }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé cuándo usar <b>have got</b> y cuándo <b>has got</b>.", "en": "I know when to use have got and has got." },
+    { "es": "Sé decir lo que <b>no tengo</b> con haven't / hasn't got.", "en": "I can say what I haven't got." },
+    { "es": "Sé hacer <b>preguntas</b>: Have you got…? Has she got…?", "en": "I can ask questions with have got." },
+    { "es": "Contesto con <b>respuestas cortas</b> sin got.", "en": "I can give short answers without got." },
+    { "es": "Nunca escribo <s>has gots</s> ni <s>Do you have got</s>.", "en": "I never write has gots or Do you have got." },
+    { "es": "Digo mi edad con <b>TO BE</b>: I am nine.", "en": "I say my age with be." }
+  ]
+}

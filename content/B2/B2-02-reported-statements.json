@@ -1,0 +1,1496 @@
+{
+  "id": "B2-02",
+  "level": "B2",
+  "title": "ESTILO INDIRECTO",
+  "file_title": "Estilo indirecto",
+  "subtitle": "Reported statements · contar lo que alguien dijo",
+  "icon": "🗣️",
+  "map": {
+    "center": "Usamos el <b>ESTILO INDIRECTO</b> para <b>contar lo que otra persona dijo</b>, sin comillas y con cambios.",
+    "nodes": [
+      {
+        "title": "¿Qué cambia?",
+        "icon": "🔄",
+        "items": [
+          "El <b>tiempo verbal</b>: un paso atrás",
+          "Los <b>pronombres</b>: I → he / she",
+          "<b>Tiempo y lugar</b>: now → then"
+        ]
+      },
+      {
+        "title": "Un paso atrás",
+        "icon": "⏮️",
+        "rows": [
+          [
+            "is / are",
+            "→ was / were"
+          ],
+          [
+            "work(s)",
+            "→ worked"
+          ],
+          [
+            "worked / have worked",
+            "→ had worked"
+          ],
+          [
+            "will / can",
+            "→ would / could"
+          ]
+        ]
+      },
+      {
+        "title": "SAY vs TELL",
+        "icon": "💬",
+        "art": "👂",
+        "items": [
+          "<b>say</b> (that)… · say sth <b>to</b> sb",
+          "<b>tell</b> + persona + (that)…",
+          "She <b>told me</b> she was tired."
+        ]
+      },
+      {
+        "title": "Tiempo y lugar",
+        "icon": "🗓️",
+        "rows": [
+          [
+            "now",
+            "→ then"
+          ],
+          [
+            "today",
+            "→ that day"
+          ],
+          [
+            "tomorrow",
+            "→ the next day"
+          ],
+          [
+            "yesterday",
+            "→ the day before"
+          ],
+          [
+            "here",
+            "→ there"
+          ]
+        ]
+      },
+      {
+        "title": "Pronombres",
+        "icon": "👥",
+        "art": "👩",
+        "items": [
+          "“I love <b>my</b> job,” Ana said.",
+          "→ Ana said <b>she</b> loved <b>her</b> job.",
+          "<b>that</b> es opcional."
+        ]
+      },
+      {
+        "title": "¿Siempre cambia?",
+        "icon": "🤔",
+        "items": [
+          "Si <b>sigue siendo verdad</b>, no hace falta: He said he <b>lives</b> in Rome.",
+          "Con <b>says</b> (presente), no cambia: She <b>says</b> she's tired."
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "She said me that she was tired."
+      ],
+      "good": [
+        "She told me that she was tired."
+      ],
+      "note": "<b>tell</b> + persona · <b>say</b> sin persona"
+    },
+    "mini": {
+      "es": "Pasa a estilo indirecto (un paso atrás).",
+      "en": "Report what they said.",
+      "items": [
+        {
+          "q": "“I'm tired.” → She said she ___ tired.",
+          "a": "was"
+        },
+        {
+          "q": "“I'll call you.” → He said he ___ call me.",
+          "a": "would"
+        },
+        {
+          "q": "“We can't come.” → They said they ___ come.",
+          "a": "couldn't"
+        },
+        {
+          "q": "She ___ me she was leaving. (say / tell)",
+          "a": "told"
+        },
+        {
+          "q": "“I saw it.” → He said he ___ it.",
+          "a": "had seen"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "El <b>estilo indirecto</b> (<i>reported speech</i>) sirve para <mark>contar lo que otra persona dijo</mark> sin repetir sus palabras exactas ni usar comillas. Como lo contamos <b>después</b>, desde otro momento y a veces desde otro lugar, casi siempre hay que ajustar tres cosas: el <b>tiempo verbal</b>, los <b>pronombres</b> y las <b>expresiones de tiempo y lugar</b>. En español pasa lo mismo: <i>«Estoy cansada» → Dijo que <b>estaba</b> cansada.</i> (Las preguntas y las órdenes indirectas tienen su propio mapa.)",
+      "en": "<b>Reported speech</b> tells what someone said without quoting their exact words. We usually change the <b>tense</b>, the <b>pronouns</b> and the <b>time and place</b> words.",
+      "formula": [
+        "Sujeto + *said* + (that) + oración",
+        "Sujeto + *told* + persona + (that) + oración"
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · SAY y TELL",
+      "title_en": "Say and tell",
+      "icon": "💬",
+      "color": "green",
+      "es": "Los dos verbos significan <i>decir</i>, pero se construyen distinto. <b>Tell</b> necesita <mark>a quién se lo dices</mark> justo detrás y sin <i>to</i>: <b>tell me, tell her, tell the class</b>. <b>Say</b> no lleva persona; si la quieres añadir, usa <b>to</b>: <i>say something <b>to</b> someone</i>. La palabra <b>that</b> es opcional y en la conversación se suele omitir.",
+      "en": "<b>tell</b> + person (no <i>to</i>): <i>She told me…</i> <b>say</b> + no person, or <b>say to</b> + person. <i>That</i> is optional.",
+      "formula": [
+        "*say* + (that) + …",
+        "*tell* + persona + (that) + …"
+      ],
+      "examples": [
+        {
+          "en": "She <b>said</b> (that) she was tired.",
+          "es": "Dijo que estaba cansada.",
+          "icon": "😴"
+        },
+        {
+          "en": "She <b>told me</b> (that) she was tired.",
+          "es": "Me dijo que estaba cansada.",
+          "icon": "👩"
+        },
+        {
+          "en": "He <b>said</b> nothing <b>to</b> his parents about the accident.",
+          "es": "No les dijo nada a sus padres sobre el accidente.",
+          "icon": "🤐"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco: la máquina del tiempo",
+      "title_en": "Tip: the time machine",
+      "es": "Imagina que <i>said</i> es una máquina del tiempo que <mark>empuja todo un paso hacia el pasado</mark>: <i>is → was, will → would, did → had done</i>. Y para <b>say / tell</b>: <b>T</b>ell lleva <b>T</b>u persona (tell <b>me</b>, tell <b>him</b>); <b>say</b> va <b>solo</b>.",
+      "en": "<i>said</i> pushes everything one step into the past. <b>T</b>ell takes a person; <b>say</b> stands alone."
+    },
+    {
+      "t": "rule",
+      "title": "2 · Un paso atrás",
+      "title_en": "One step back (backshift)",
+      "icon": "⏮️",
+      "color": "purple",
+      "es": "Cuando el verbo que introduce (<i>said, told</i>) está en <b>pasado</b>, el verbo de lo que se dijo <mark>retrocede un tiempo</mark>: el presente pasa a pasado; el pasado y el present perfect pasan a past perfect; <i>will</i> pasa a <i>would</i>. Es lógico: lo que era «ahora» para quien habló ya es «antes» para quien lo cuenta. Es la misma <b>concordancia de tiempos</b> del español (<i>dijo que <b>trabajaba</b></i>).",
+      "en": "After a past reporting verb, the tense usually <mark>moves one step back</mark>: present → past, past / present perfect → past perfect, will → would.",
+      "examples": [
+        {
+          "en": "“I <b>work</b> in a bank.” → He said he <b>worked</b> in a bank.",
+          "es": "«Trabajo en un banco». → Dijo que trabajaba en un banco.",
+          "icon": "🏦"
+        },
+        {
+          "en": "“We<b>'re moving</b> to Leeds.” → They said they <b>were moving</b> to Leeds.",
+          "es": "«Nos mudamos a Leeds». → Dijeron que se mudaban a Leeds.",
+          "icon": "📦"
+        },
+        {
+          "en": "“I <b>lost</b> my keys.” → She said she <b>had lost</b> her keys.",
+          "es": "«Perdí las llaves». → Dijo que había perdido las llaves.",
+          "icon": "🔑"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Los modales",
+      "title_en": "Modal verbs",
+      "icon": "🔧",
+      "color": "blue",
+      "es": "<b>will → would</b>, <b>can → could</b>, <b>may → might</b>. <b>Must</b> de obligación suele pasar a <b>had to</b> (también puede quedarse como <i>must</i>). <b>Would, could, should, might</b> y <b>ought to</b> <mark>se quedan igual</mark>.",
+      "en": "will → would, can → could, may → might, must → had to (or must). would, could, should, might and ought to don't change.",
+      "examples": [
+        {
+          "en": "“I<b>'ll send</b> it tomorrow.” → She said she <b>would send</b> it the next day.",
+          "es": "«Lo enviaré mañana». → Dijo que lo enviaría al día siguiente.",
+          "icon": "📧"
+        },
+        {
+          "en": "“You <b>must</b> wear a helmet.” → The instructor said we <b>had to</b> wear a helmet.",
+          "es": "«Tenéis que llevar casco». → El monitor dijo que teníamos que llevar casco.",
+          "icon": "⛑️"
+        },
+        {
+          "en": "“You <b>should</b> see a doctor.” → My mum said I <b>should</b> see a doctor.",
+          "es": "«Deberías ir al médico». → Mi madre dijo que debería ir al médico.",
+          "icon": "🩺"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "La tabla del paso atrás",
+      "title_en": "Tense changes",
+      "icon": "🔄",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Directo · Direct",
+        "Indirecto · Reported",
+        "Ejemplo directo",
+        "Ejemplo indirecto"
+      ],
+      "rows": [
+        [
+          "present simple",
+          "past simple",
+          "“I <b>live</b> in Bath.”",
+          "He said he <b>lived</b> in Bath."
+        ],
+        [
+          "present continuous",
+          "past continuous",
+          "“I<b>'m working</b>.”",
+          "She said she <b>was working</b>."
+        ],
+        [
+          "past simple",
+          "past perfect",
+          "“We <b>met</b> in 2019.”",
+          "They said they <b>had met</b> in 2019."
+        ],
+        [
+          "present perfect",
+          "past perfect",
+          "“I<b>'ve seen</b> it.”",
+          "He said he <b>had seen</b> it."
+        ],
+        [
+          "past continuous",
+          "past perfect continuous",
+          "“I <b>was sleeping</b>.”",
+          "She said she <b>had been sleeping</b>."
+        ],
+        [
+          "past perfect",
+          "past perfect (no cambia)",
+          "“I <b>had left</b>.”",
+          "He said he <b>had left</b>."
+        ],
+        [
+          "will",
+          "would",
+          "“I<b>'ll help</b>.”",
+          "She said she <b>would help</b>."
+        ],
+        [
+          "am / is / are going to",
+          "was / were going to",
+          "“I<b>'m going to</b> quit.”",
+          "He said he <b>was going to</b> quit."
+        ],
+        [
+          "can",
+          "could",
+          "“I <b>can</b> drive.”",
+          "She said she <b>could</b> drive."
+        ],
+        [
+          "may",
+          "might",
+          "“It <b>may</b> rain.”",
+          "He said it <b>might</b> rain."
+        ],
+        [
+          "must (obligación)",
+          "had to / must",
+          "“I <b>must</b> go.”",
+          "She said she <b>had to</b> go."
+        ]
+      ],
+      "note": "<b>would, could, should, might, ought to</b> y el <b>past perfect</b> <mark>no cambian</mark>: ya no pueden ir más atrás. El cambio past simple → past perfect es <b>opcional</b> si el orden de los hechos está claro: <i>He said he met her in 2019</i> también es correcto.",
+      "note_en": "would, could, should, might, ought to and the past perfect never change."
+    },
+    {
+      "t": "rule",
+      "title": "4 · Pronombres y posesivos",
+      "title_en": "Pronouns and possessives",
+      "icon": "👥",
+      "color": "pink",
+      "es": "Los pronombres cambian según <mark>quién lo cuenta y a quién</mark>, exactamente como en español: si Ana dice <i>«Me encanta mi trabajo»</i>, tú cuentas <i>«Dijo que le encantaba <b>su</b> trabajo»</i>. Revisa siempre <b>I, me, my, we, our, you, your</b>: suelen pasar a <b>he / she, him / her, his / her, they, their</b>… o a <b>I, me, my</b> si te lo dijeron a ti.",
+      "en": "Pronouns and possessives change according to who is reporting: <i>I → he / she, my → his / her, you → I / me</i>.",
+      "examples": [
+        {
+          "en": "“<b>I</b> love <b>my</b> job.” → Ana said <b>she</b> loved <b>her</b> job.",
+          "es": "«Me encanta mi trabajo». → Ana dijo que le encantaba su trabajo.",
+          "icon": "💼"
+        },
+        {
+          "en": "“<b>We</b>'ve sold <b>our</b> flat.” → They told me <b>they</b> had sold <b>their</b> flat.",
+          "es": "«Hemos vendido nuestro piso». → Me dijeron que habían vendido su piso.",
+          "icon": "🏠"
+        },
+        {
+          "en": "“<b>You</b> can borrow <b>my</b> car.” → Tom told me <b>I</b> could borrow <b>his</b> car.",
+          "es": "«Puedes coger mi coche». → Tom me dijo que podía coger su coche.",
+          "icon": "🚗"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "5 · Tiempo y lugar",
+      "title_en": "Time and place words",
+      "icon": "🗓️",
+      "color": "teal",
+      "head": [
+        "Directo · Direct",
+        "Indirecto · Reported"
+      ],
+      "rows": [
+        [
+          "now",
+          "then / at that moment"
+        ],
+        [
+          "today",
+          "that day"
+        ],
+        [
+          "tonight",
+          "that night"
+        ],
+        [
+          "tomorrow",
+          "the next day / the following day"
+        ],
+        [
+          "yesterday",
+          "the day before / the previous day"
+        ],
+        [
+          "next week",
+          "the following week / the week after"
+        ],
+        [
+          "last month",
+          "the month before / the previous month"
+        ],
+        [
+          "two days ago",
+          "two days before / earlier"
+        ],
+        [
+          "here",
+          "there"
+        ],
+        [
+          "this / these",
+          "that / those"
+        ]
+      ],
+      "note": "Solo cambian si <mark>el momento o el lugar ya no son los mismos</mark>. Si lo cuentas el mismo día y en el mismo sitio, puedes dejar <i>today</i> o <i>here</i>.",
+      "note_en": "Change them only if the time or place is different when you report."
+    },
+    {
+      "t": "compare",
+      "title": "SAY o TELL",
+      "title_en": "say or tell?",
+      "color": "blue",
+      "icon": "⚖️",
+      "es": "Además de para el estilo indirecto, <b>say</b> y <b>tell</b> forman <b>expresiones fijas</b> que conviene aprender de memoria: <i>tell</i> va con historias, mentiras, verdades e instrucciones; <i>say</i> va con palabras y fórmulas sociales.",
+      "en": "Learn the fixed expressions with say and tell.",
+      "cols": [
+        {
+          "head": "💬 SAY",
+          "color": "green",
+          "items": [
+            "She <b>said</b> (that) she was busy.",
+            "She <b>said to me</b> that… <i>(menos común)</i>",
+            "say hello / goodbye / sorry",
+            "say yes / no / a word"
+          ]
+        },
+        {
+          "head": "🗨️ TELL",
+          "color": "purple",
+          "items": [
+            "She <b>told me</b> (that) she was busy.",
+            "<s>She told that…</s> · <s>She said me…</s>",
+            "tell the truth / a lie / a story / a joke",
+            "tell the time / the difference"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · ¿Cuándo NO hay que cambiar?",
+      "title_en": "When there is no backshift",
+      "icon": "✋",
+      "color": "yellow",
+      "es": "No hace falta dar el paso atrás cuando:<br>• el verbo introductor está en <b>presente</b> (<i>says, has said</i>), por ejemplo al leer un mensaje o una noticia;<br>• lo dicho <b>sigue siendo verdad</b> ahora (es opcional);<br>• el verbo ya es <b>past perfect</b> o un modal como <i>would, could, should, might</i>.",
+      "en": "No backshift when the reporting verb is in the present (<i>says</i>), when the statement is still true (optional), or with past perfect, would, could, should, might.",
+      "examples": [
+        {
+          "en": "“I'm on the train.” → Ana <b>says</b> she<b>'s</b> on the train.",
+          "es": "«Estoy en el tren». → Ana dice que está en el tren.",
+          "icon": "🚆"
+        },
+        {
+          "en": "“The Earth goes round the Sun.” → The teacher said the Earth <b>goes</b> round the Sun.",
+          "es": "El profesor dijo que la Tierra gira alrededor del Sol.",
+          "icon": "🌍"
+        },
+        {
+          "en": "“I live in Rome.” → He told me he <b>lives</b> / <b>lived</b> in Rome.",
+          "es": "Me dijo que vive / vivía en Roma. <i>(sigue viviendo allí)</i>",
+          "icon": "🏛️"
+        }
+      ]
+    },
+    {
+      "t": "vocab",
+      "title": "Expresiones con say y tell",
+      "title_en": "Collocations with say and tell",
+      "icon": "🧩",
+      "color": "green",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "say hello",
+          "es": "saludar",
+          "icon": "👋"
+        },
+        {
+          "en": "say goodbye",
+          "es": "despedirse",
+          "icon": "🚶"
+        },
+        {
+          "en": "say sorry",
+          "es": "pedir perdón",
+          "icon": "🙏"
+        },
+        {
+          "en": "say yes / no",
+          "es": "decir que sí / no",
+          "icon": "✅"
+        },
+        {
+          "en": "not say a word",
+          "es": "no decir ni una palabra",
+          "icon": "🤐"
+        },
+        {
+          "en": "say something",
+          "es": "decir algo",
+          "icon": "💭"
+        },
+        {
+          "en": "say thank you",
+          "es": "dar las gracias",
+          "icon": "💐"
+        },
+        {
+          "en": "say cheese",
+          "es": "decir «patata» (foto)",
+          "icon": "📸"
+        },
+        {
+          "en": "tell the truth",
+          "es": "decir la verdad",
+          "icon": "😇"
+        },
+        {
+          "en": "tell a lie",
+          "es": "mentir",
+          "icon": "🤥"
+        },
+        {
+          "en": "tell a story",
+          "es": "contar una historia",
+          "icon": "📖"
+        },
+        {
+          "en": "tell a joke",
+          "es": "contar un chiste",
+          "icon": "😂"
+        },
+        {
+          "en": "tell the time",
+          "es": "saber decir la hora",
+          "icon": "🕒"
+        },
+        {
+          "en": "tell the difference",
+          "es": "notar la diferencia",
+          "icon": "🔍"
+        },
+        {
+          "en": "tell sb a secret",
+          "es": "contarle un secreto a alguien",
+          "icon": "🤫"
+        },
+        {
+          "en": "tell sb the way",
+          "es": "indicarle el camino a alguien",
+          "icon": "🗺️"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "“I'm really nervous about the interview.” → Laura said she was really nervous about the interview.",
+          "es": "Laura dijo que estaba muy nerviosa por la entrevista.",
+          "icon": "😬"
+        },
+        {
+          "en": "“We've never been to Scotland.” → They told us they had never been to Scotland.",
+          "es": "Nos dijeron que nunca habían estado en Escocia.",
+          "icon": "🏞️"
+        },
+        {
+          "en": "“The 9.15 train will be delayed.” → A woman said the 9.15 train would be delayed.",
+          "es": "Una mujer dijo que el tren de las 9.15 llegaría con retraso.",
+          "icon": "🚉"
+        },
+        {
+          "en": "“I can't find my passport.” → My dad said he couldn't find his passport.",
+          "es": "Mi padre dijo que no encontraba su pasaporte.",
+          "icon": "🛂"
+        },
+        {
+          "en": "“I bought this jacket yesterday.” → She said she had bought that jacket the day before.",
+          "es": "Dijo que se había comprado esa chaqueta el día anterior.",
+          "icon": "🧥"
+        },
+        {
+          "en": "“I'm going to apply for the job.” → Mark told me he was going to apply for the job.",
+          "es": "Mark me dijo que iba a presentarse al puesto.",
+          "icon": "📝"
+        },
+        {
+          "en": "“We may be late tonight.” → They said they might be late that night.",
+          "es": "Dijeron que quizá llegarían tarde esa noche.",
+          "icon": "🌙"
+        },
+        {
+          "en": "“You're doing a great job.” → My manager told me I was doing a great job.",
+          "es": "Mi jefa me dijo que estaba haciendo un gran trabajo.",
+          "icon": "🌟"
+        },
+        {
+          "en": "“I was watching the match when it happened.” → He said he had been watching the match when it happened.",
+          "es": "Dijo que estaba viendo el partido cuando pasó.",
+          "icon": "⚽"
+        },
+        {
+          "en": "“I don't like spicy food.” → My cousin said she didn't like spicy food.",
+          "es": "Mi prima dijo que no le gustaba la comida picante.",
+          "icon": "🌶️"
+        },
+        {
+          "en": "“We'll have the meeting here tomorrow.” → He said they would have the meeting there the following day.",
+          "es": "Dijo que tendrían la reunión allí al día siguiente.",
+          "icon": "📅"
+        },
+        {
+          "en": "“It's the best film I've ever seen.” → She told everyone it was the best film she had ever seen.",
+          "es": "Les dijo a todos que era la mejor película que había visto nunca.",
+          "icon": "🎬"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "She said me that she was tired.",
+          "good": "She <b>told</b> me (that) she was tired.",
+          "why": "<b>say</b> no lleva persona detrás; <b>tell</b> sí. (Calco de «me dijo».)",
+          "why_en": "say + no person; tell + person."
+        },
+        {
+          "bad": "He told that he was hungry.",
+          "good": "He <b>told me</b> / He <b>said</b> (that) he was hungry.",
+          "why": "<b>tell</b> siempre necesita a quién: tell me, tell us…",
+          "why_en": "tell needs a person."
+        },
+        {
+          "bad": "My sister told to me that she was pregnant.",
+          "good": "My sister <b>told me</b> (that) she was pregnant.",
+          "why": "<b>tell</b> + persona sin <i>to</i>.",
+          "why_en": "No to after tell."
+        },
+        {
+          "bad": "Last month Ana said she will call me, but she never did.",
+          "good": "Last month Ana said she <b>would</b> call me, but she never did.",
+          "why": "Verbo introductor en pasado → <b>will</b> pasa a <b>would</b>.",
+          "why_en": "will → would after a past reporting verb."
+        },
+        {
+          "bad": "They said they have finished the project.",
+          "good": "They said they <b>had finished</b> the project.",
+          "why": "present perfect → <b>past perfect</b>.",
+          "why_en": "present perfect → past perfect."
+        },
+        {
+          "bad": "He said he had seen her yesterday. <small>(contado una semana después)</small>",
+          "good": "He said he had seen her <b>the day before</b>.",
+          "why": "Si lo cuentas otro día, <i>yesterday</i> → <b>the day before</b>.",
+          "why_en": "yesterday → the day before."
+        },
+        {
+          "bad": "He said me the truth.",
+          "good": "He <b>told</b> me the truth.",
+          "why": "Expresión fija: <b>tell the truth / a lie / a story / a joke</b>.",
+          "why_en": "We tell the truth."
+        },
+        {
+          "bad": "He said: “that he was hungry.”",
+          "good": "He said (that) he was hungry.",
+          "why": "En estilo indirecto no hay comillas ni dos puntos.",
+          "why_en": "No quotation marks in reported speech."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Mira el verbo introductor: ¿<b>said / told</b> (pasado)? Da el paso atrás. ¿<b>says</b> (presente)? No cambies el tiempo.",
+          "en": "Past reporting verb → backshift; present → no change."
+        },
+        {
+          "es": "Elige <b>say</b> o <b>tell</b>: ¿dices a quién? → <b>told me / told him</b>. ¿No? → <b>said</b>.",
+          "en": "Person? → tell. No person? → say."
+        },
+        {
+          "es": "Cambia el <b>tiempo verbal</b> un paso atrás: am → was, will → would, did → had done.",
+          "en": "Move the tense one step back."
+        },
+        {
+          "es": "Cambia <b>pronombres y posesivos</b> según quién habla: I → she, my → her.",
+          "en": "Change pronouns and possessives."
+        },
+        {
+          "es": "Cambia <b>tiempo y lugar</b> si hace falta: tomorrow → the next day, here → there.",
+          "en": "Change time and place words if needed."
+        },
+        {
+          "es": "Quita las comillas y, si quieres, añade <b>that</b>.",
+          "en": "Remove the quotation marks; that is optional."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Cotilleo en la oficina",
+      "title_en": "Office gossip",
+      "lines": [
+        {
+          "who": "Sara",
+          "en": "Guess what! I've just spoken to Mike from Marketing.",
+          "es": "¡Adivina! Acabo de hablar con Mike, de Marketing."
+        },
+        {
+          "who": "Pablo",
+          "en": "Oh yes? What did he say?",
+          "es": "¿Ah, sí? ¿Qué te ha dicho?"
+        },
+        {
+          "who": "Sara",
+          "en": "He told me he was leaving the company.",
+          "es": "Me ha dicho que se va de la empresa."
+        },
+        {
+          "who": "Pablo",
+          "en": "Really? Last month he said he loved his job!",
+          "es": "¿En serio? ¡El mes pasado dijo que le encantaba su trabajo!"
+        },
+        {
+          "who": "Sara",
+          "en": "I know. But he said he had received a better offer from a company in Dublin.",
+          "es": "Ya. Pero me ha dicho que ha recibido una oferta mejor de una empresa de Dublín."
+        },
+        {
+          "who": "Pablo",
+          "en": "Wow. When is he going to tell the boss?",
+          "es": "Vaya. ¿Y cuándo se lo va a decir al jefe?"
+        },
+        {
+          "who": "Sara",
+          "en": "He said he was going to tell her tomorrow. Oh no… he said it was a secret!",
+          "es": "Ha dicho que se lo iba a decir mañana. Ay, no… ¡dijo que era un secreto!"
+        },
+        {
+          "who": "Pablo",
+          "en": "Don't worry. I didn't hear a thing!",
+          "es": "Tranquila. ¡Yo no he oído nada!"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Los 3 cambios, paso a paso",
+      "title_en": "The 3 changes, step by step",
+      "icon": "🧮",
+      "color": "purple",
+      "wide": true,
+      "head": [
+        "Lo que dijo · Direct",
+        "1 · Tiempo · Tense",
+        "2 · Pronombres",
+        "3 · Tiempo y lugar",
+        "Resultado · Reported"
+      ],
+      "rows": [
+        [
+          "“I'll call you tomorrow.”",
+          "will → <b>would</b>",
+          "I → <b>she</b> · you → <b>me</b>",
+          "tomorrow → <b>the next day</b>",
+          "She said she would call me the next day."
+        ],
+        [
+          "“We're staying here tonight.”",
+          "are staying → <b>were staying</b>",
+          "we → <b>they</b>",
+          "here → <b>there</b> · tonight → <b>that night</b>",
+          "They said they were staying there that night."
+        ],
+        [
+          "“I bought my car last year.”",
+          "bought → <b>had bought</b>",
+          "I → <b>he</b> · my → <b>his</b>",
+          "last year → <b>the year before</b>",
+          "He said he had bought his car the year before."
+        ],
+        [
+          "“You can use my laptop today.”",
+          "can → <b>could</b>",
+          "you → <b>I</b> · my → <b>her</b>",
+          "today → <b>that day</b>",
+          "She told me I could use her laptop that day."
+        ]
+      ],
+      "note": "Hazlo siempre en este orden y revisa al final: ¿<b>say</b> o <b>tell</b>? ¿He quitado las comillas?",
+      "note_en": "Always check: tense, pronouns, time and place — then say or tell."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "say o tell",
+      "title_en": "say or tell",
+      "icon": "⭕",
+      "es": "Rodea la forma correcta. Pista: ¿hay una persona justo detrás? ¿Es una expresión fija?",
+      "en": "Circle the correct verb.",
+      "items": [
+        {
+          "q": "She [said|told] me she was tired.",
+          "a": "told"
+        },
+        {
+          "q": "He [said|told] that he would be late.",
+          "a": "said"
+        },
+        {
+          "q": "Can you [say|tell] me the time, please?",
+          "a": "tell"
+        },
+        {
+          "q": "They [said|told] us they had sold the house.",
+          "a": "told"
+        },
+        {
+          "q": "Did she [say|tell] anything about the party?",
+          "a": "say"
+        },
+        {
+          "q": "My grandad loves [saying|telling] stories about his childhood.",
+          "a": "telling"
+        },
+        {
+          "q": "Don't [say|tell] lies!",
+          "a": "tell"
+        },
+        {
+          "q": "I [said|told] goodbye to everyone and left.",
+          "a": "said"
+        },
+        {
+          "q": "The doctor [said|told] to my mum that it wasn't serious.",
+          "a": "said"
+        },
+        {
+          "q": "Can you [say|tell] the difference between these two wines?",
+          "a": "tell"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une directo e indirecto",
+      "title_en": "Match direct and reported speech",
+      "icon": "🔗",
+      "es": "Une lo que dijo Eva (directo) con la versión en estilo indirecto.",
+      "en": "Match what Eva said with the reported version.",
+      "pairs": [
+        [
+          "“I'm hungry.”",
+          "She said she was hungry."
+        ],
+        [
+          "“I was hungry.”",
+          "She said she had been hungry."
+        ],
+        [
+          "“I'll be hungry.”",
+          "She said she would be hungry."
+        ],
+        [
+          "“I've eaten.”",
+          "She said she had eaten."
+        ],
+        [
+          "“I'm eating.”",
+          "She said she was eating."
+        ],
+        [
+          "“I can cook.”",
+          "She said she could cook."
+        ],
+        [
+          "“I'm going to cook.”",
+          "She said she was going to cook."
+        ],
+        [
+          "“I must cook.”",
+          "She said she had to cook."
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿say o tell?",
+      "title_en": "Collocations: say or tell?",
+      "icon": "🗂️",
+      "es": "¿Va con say o con tell? Escribe cada expresión en su caja.",
+      "en": "Sort the words: say or tell?",
+      "cats": [
+        {
+          "name": "say…",
+          "words": [
+            "hello",
+            "sorry",
+            "goodbye",
+            "yes",
+            "thank you",
+            "a word"
+          ]
+        },
+        {
+          "name": "tell…",
+          "words": [
+            "the truth",
+            "a lie",
+            "a joke",
+            "a story",
+            "the time",
+            "the difference"
+          ]
+        }
+      ],
+      "wide": true
+    },
+    {
+      "t": "tablefill",
+      "title": "La tabla del paso atrás",
+      "title_en": "Complete the tense table",
+      "icon": "📋",
+      "wide": true,
+      "es": "Completa las casillas vacías: el nombre del tiempo o la frase en estilo indirecto.",
+      "en": "Fill in the tense names and the reported sentences.",
+      "head": [
+        "Directo · Direct",
+        "Tiempo directo",
+        "Indirecto · Reported",
+        "Tiempo indirecto"
+      ],
+      "rows": [
+        [
+          "“I play tennis.”",
+          "present simple",
+          "?He said he played tennis.",
+          "?past simple"
+        ],
+        [
+          "“I'm playing tennis.”",
+          "?present continuous",
+          "He said he was playing tennis.",
+          "?past continuous"
+        ],
+        [
+          "“I played tennis.”",
+          "past simple",
+          "?He said he had played tennis.",
+          "?past perfect"
+        ],
+        [
+          "“I've played tennis.”",
+          "?present perfect",
+          "?He said he had played tennis.",
+          "past perfect"
+        ],
+        [
+          "“I'll play tennis.”",
+          "will",
+          "?He said he would play tennis.",
+          "?would"
+        ],
+        [
+          "“I can play tennis.”",
+          "?can",
+          "He said he could play tennis.",
+          "?could"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Un paso atrás",
+      "title_en": "One step back",
+      "icon": "⏮️",
+      "es": "Completa la frase en estilo indirecto con el verbo en el tiempo correcto.",
+      "en": "Complete the reported sentence.",
+      "items": [
+        {
+          "q": "“I'm tired.” → Ana said she ___ tired.",
+          "a": "was"
+        },
+        {
+          "q": "“We live in Seville.” → They said they ____ in Seville.",
+          "a": "lived"
+        },
+        {
+          "q": "“I'm watching a series.” → Leo said he ____ a series.",
+          "a": "was watching"
+        },
+        {
+          "q": "“I've lost my wallet.” → He told me he ____ his wallet.",
+          "a": "had lost"
+        },
+        {
+          "q": "“I'll phone you later.” → She said she ____ me later.",
+          "a": "would phone"
+        },
+        {
+          "q": "“We can't afford it.” → They said they ____ afford it.",
+          "a": "couldn't"
+        },
+        {
+          "q": "“I didn't see the email.” → My boss said she ____ the email.",
+          "a": "hadn't seen"
+        },
+        {
+          "q": "“It may snow.” → The forecast said it ____ snow.",
+          "a": "might"
+        },
+        {
+          "q": "“I'm going to resign.” → Paul said he ____ resign.",
+          "a": "was going to"
+        },
+        {
+          "q": "“You must sign here.” → The receptionist said I ____ sign there.",
+          "a": [
+            "had to",
+            "must"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Tiempo y lugar",
+      "title_en": "Time and place words",
+      "icon": "🗓️",
+      "es": "Lo cuentas una semana después y en otro lugar. Completa con la expresión de tiempo o lugar adecuada.",
+      "en": "You report it a week later, somewhere else. Complete.",
+      "items": [
+        {
+          "q": "“I'll do it tomorrow.” → She said she would do it ____.",
+          "a": [
+            "the next day",
+            "the following day"
+          ]
+        },
+        {
+          "q": "“I saw Tom yesterday.” → She said she had seen Tom ____.",
+          "a": [
+            "the day before",
+            "the previous day"
+          ]
+        },
+        {
+          "q": "“I'm busy now.” → He said he was busy ____.",
+          "a": [
+            "then",
+            "at that moment"
+          ]
+        },
+        {
+          "q": "“The party is tonight.” → They said the party was ____.",
+          "a": "that night"
+        },
+        {
+          "q": "“I like this flat.” → She said she liked ____ flat.",
+          "a": "that"
+        },
+        {
+          "q": "“We'll meet here.” → He said they would meet ____.",
+          "a": "there"
+        },
+        {
+          "q": "“I arrived two days ago.” → She said she had arrived two days ____.",
+          "a": [
+            "before",
+            "earlier"
+          ]
+        },
+        {
+          "q": "“I'm starting a new job next week.” → He said he was starting a new job ____.",
+          "a": [
+            "the following week",
+            "the week after"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Es correcto?",
+      "title_en": "Is it correct?",
+      "icon": "🧐",
+      "es": "¿El estilo indirecto es correcto (T) o incorrecto (F)? Fíjate en say / tell, en los tiempos y en las expresiones de tiempo.",
+      "en": "Is the reported version correct (T) or not (F)?",
+      "items": [
+        {
+          "q": "“I'm tired.” → She said me she was tired.",
+          "a": false,
+          "why": "say + no person → She told me / She said (that)…"
+        },
+        {
+          "q": "“Water boils at 100°C.” → The teacher said water boils at 100°C.",
+          "a": true,
+          "why": "It's still true, so no change is needed."
+        },
+        {
+          "q": "“I'll help you tomorrow.” <small>(contado un mes después)</small> → He said he would help me the next day.",
+          "a": true
+        },
+        {
+          "q": "“I'm on the bus.” → Ana says she's on the bus.",
+          "a": true,
+          "why": "Present reporting verb → no change."
+        },
+        {
+          "q": "“I had already eaten.” → He said he had already eaten.",
+          "a": true,
+          "why": "The past perfect doesn't change."
+        },
+        {
+          "q": "“We're leaving now.” <small>(contado al día siguiente)</small> → They said they were leaving now.",
+          "a": false,
+          "why": "now → then / at that moment."
+        },
+        {
+          "q": "“I can't swim.” → She told that she couldn't swim.",
+          "a": false,
+          "why": "tell needs a person: She told me… / She said…"
+        },
+        {
+          "q": "“I bought it here.” <small>(contado en otra ciudad)</small> → He said he had bought it there.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras para formar frases en estilo indirecto.",
+      "en": "Put the words in order.",
+      "items": [
+        {
+          "q": "told / she / me / was / she / tired",
+          "a": "She told me she was tired."
+        },
+        {
+          "q": "he / that / said / would / he / be / late",
+          "a": "He said that he would be late."
+        },
+        {
+          "q": "they / us / told / had / they / moved / house",
+          "a": "They told us they had moved house."
+        },
+        {
+          "q": "said / she / couldn't / she / the / find / keys",
+          "a": "She said she couldn't find the keys."
+        },
+        {
+          "q": "my / boss / that / said / was / the / meeting / cancelled",
+          "a": "My boss said that the meeting was cancelled."
+        },
+        {
+          "q": "told / she / day / me / the / had / before / she / arrived",
+          "a": "She told me she had arrived the day before."
+        },
+        {
+          "q": "said / going / they / were / to / they / buy / a / flat",
+          "a": "They said they were going to buy a flat."
+        },
+        {
+          "q": "a / joke / told / us / the / funny / teacher",
+          "a": "The teacher told us a funny joke."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pásalo a estilo indirecto",
+      "title_en": "Report the sentences",
+      "icon": "🔁",
+      "es": "Lo cuentas varios días después. Empieza con las palabras dadas y cambia tiempos, pronombres y expresiones de tiempo.",
+      "en": "Report the sentences a few days later.",
+      "items": [
+        {
+          "q": "“I'm studying for my exams,” said Lucía. → Lucía said…",
+          "a": "Lucía said (that) she was studying for her exams."
+        },
+        {
+          "q": "“We've bought a new car,” my neighbours told me. → My neighbours told me…",
+          "a": "My neighbours told me (that) they had bought a new car."
+        },
+        {
+          "q": "“I'll send you the report tomorrow,” said my colleague Ian. → Ian said…",
+          "a": "Ian said (that) he would send me the report the next (following) day."
+        },
+        {
+          "q": "“I can't come to the meeting,” said Peter. → Peter said…",
+          "a": "Peter said (that) he couldn't come to the meeting."
+        },
+        {
+          "q": "“I didn't take your phone,” my brother told me. → My brother told me…",
+          "a": "My brother told me (that) he hadn't taken my phone."
+        },
+        {
+          "q": "“We're going to get married next year,” they told us. → They told us…",
+          "a": "They told us (that) they were going to get married the following (next) year."
+        },
+        {
+          "q": "“I don't eat meat,” said Emma. → Emma said…",
+          "a": "Emma said (that) she didn't eat meat. (También: doesn't eat, si sigue siendo verdad.)"
+        },
+        {
+          "q": "“You must be at the airport two hours early,” the agent told us. → The agent told us…",
+          "a": "The agent told us (that) we had to (must) be at the airport two hours early."
+        },
+        {
+          "q": "“I was sleeping when you called,” said Dad. → Dad said…",
+          "a": "Dad said (that) he had been sleeping when I called (had called)."
+        },
+        {
+          "q": "“This is the best pizza I've ever had,” said Nico. → Nico said…",
+          "a": "Nico said (that) it was the best pizza he had ever had."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Del indirecto al directo",
+      "title_en": "Back to direct speech",
+      "icon": "↩️",
+      "es": "Escribe las palabras exactas que dijo la persona, con comillas.",
+      "en": "Write the speaker's exact words.",
+      "items": [
+        {
+          "q": "Mia said she was feeling ill.",
+          "a": "“I'm feeling ill.”"
+        },
+        {
+          "q": "Tom told me he had lost his keys.",
+          "a": "“I've lost my keys.” / “I lost my keys.”"
+        },
+        {
+          "q": "They said they would call us the next day.",
+          "a": "“We'll call you tomorrow.”"
+        },
+        {
+          "q": "She said she couldn't swim.",
+          "a": "“I can't swim.”"
+        },
+        {
+          "q": "My boss told me I had to finish the report that day.",
+          "a": "“You must (have to) finish the report today.”"
+        },
+        {
+          "q": "He said he had been working there for ten years.",
+          "a": "“I've been working here for ten years.”"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "She said me that she was busy.",
+          "a": "She told me (that) she was busy. / She said (that) she was busy."
+        },
+        {
+          "q": "He told that he had finished.",
+          "a": "He said (that) he had finished. / He told me (that) he had finished."
+        },
+        {
+          "q": "Last month Ana said she will call me, but she never did.",
+          "a": "Last month Ana said she would call me, but she never did."
+        },
+        {
+          "q": "He said he would came early.",
+          "a": "He said he would come early."
+        },
+        {
+          "q": "He said: “that he was hungry.”",
+          "a": "He said (that) he was hungry."
+        },
+        {
+          "q": "My sister told to me that she was pregnant.",
+          "a": "My sister told me (that) she was pregnant."
+        },
+        {
+          "q": "They said that they had arrived two days ago.",
+          "a": "They said that they had arrived two days before (earlier)."
+        },
+        {
+          "q": "Did he say you the news?",
+          "a": "Did he tell you the news?"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones con palabra clave",
+      "title_en": "Key word transformations (B2 First)",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave 🔑 sin cambiarla y escribe entre 2 y 5 palabras (incluida la palabra clave).",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word unchanged and 2–5 words.",
+      "items": [
+        {
+          "q": "“I'm leaving the company,” Mike said to me. 🔑 <b>TOLD</b><br>Mike _____ leaving the company.",
+          "a": "told me (that) he was"
+        },
+        {
+          "q": "“I can't come to your party,” said Julia. 🔑 <b>COULD</b><br>Julia said that _____ to my party.",
+          "a": "she could not (couldn't) come"
+        },
+        {
+          "q": "“We'll finish the work tomorrow,” the builders said. 🔑 <b>WOULD</b><br>The builders said they _____ the next day.",
+          "a": "would finish the work"
+        },
+        {
+          "q": "“I've never been to Japan,” Carla said. 🔑 <b>HAD</b><br>Carla said that she _____ to Japan.",
+          "a": "had never been"
+        },
+        {
+          "q": "“I saw the film last week,” Dan told us. 🔑 <b>BEFORE</b><br>Dan told us he had seen the film _____.",
+          "a": "the week before"
+        },
+        {
+          "q": "Sam said to me, “You're my best friend.” 🔑 <b>WAS</b><br>Sam told me that _____ best friend.",
+          "a": "I was his"
+        },
+        {
+          "q": "“I'm going to sell my car,” said Rosa. 🔑 <b>GOING</b><br>Rosa said she _____ her car.",
+          "a": "was going to sell"
+        },
+        {
+          "q": "“You must wear a uniform,” the manager told the staff. 🔑 <b>HAD</b><br>The manager told the staff that _____ a uniform.",
+          "a": "they had to wear"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Antes de escribir: ¿say o tell? ¿Qué tiempo toca?",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Me dijo que estaba cansada.",
+          "a": "She told me (that) she was tired."
+        },
+        {
+          "q": "Dijeron que habían perdido el tren.",
+          "a": "They said (that) they had missed the train."
+        },
+        {
+          "q": "Mi jefe dijo que la reunión sería al día siguiente.",
+          "a": "My boss said (that) the meeting would be the next (following) day."
+        },
+        {
+          "q": "Ana dijo que no podía venir.",
+          "a": "Ana said (that) she couldn't come."
+        },
+        {
+          "q": "¿Qué te dijo Pablo?",
+          "a": [
+            "What did Pablo tell you?",
+            "What did Pablo say (to you)?"
+          ]
+        },
+        {
+          "q": "Marta nos dijo que iba a dejar su trabajo.",
+          "a": "Marta told us (that) she was going to leave (quit) her job."
+        },
+        {
+          "q": "Mi hermano nunca dice la verdad.",
+          "a": "My brother never tells the truth."
+        },
+        {
+          "q": "Dijo que había estado trabajando toda la noche.",
+          "a": "He said (that) he had been working all night."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el artículo. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read the article. Tick T or F and answer the questions.",
+      "text_title": "Meet the chef: Daniel Ruiz",
+      "text": [
+        "Last week our reporter met Daniel Ruiz, the 24-year-old chef who has just opened his first restaurant in Brighton. Daniel told us that he had always wanted to be a chef. He said he had learnt to cook with his grandmother in Málaga when he was eight.",
+        "He said that the first months had been really hard: he was working fourteen hours a day and he hadn't had a day off since March. However, he said he loved every minute of it.",
+        "As for the future, he said he was going to open a second restaurant in London the following year. He also said he would never forget his grandmother's advice: “Cook with love, and people will come back.”"
+      ],
+      "items": [
+        {
+          "q": "Daniel's restaurant is in London.",
+          "tf": true,
+          "a": false,
+          "why": "It's in Brighton; the London one will be his second restaurant."
+        },
+        {
+          "q": "He learnt to cook when he was a child.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "He has had several days off since March.",
+          "tf": true,
+          "a": false,
+          "why": "He said he hadn't had a day off since March."
+        },
+        {
+          "q": "He doesn't enjoy his work.",
+          "tf": true,
+          "a": false,
+          "why": "He said he loved every minute of it."
+        },
+        {
+          "q": "What did Daniel say about his grandmother?",
+          "a": "He said he had learnt to cook with her in Málaga when he was eight."
+        },
+        {
+          "q": "Write Daniel's plans in direct speech: “I…”",
+          "a": "“I'm going to open a second restaurant in London next year.”"
+        },
+        {
+          "q": "Find in the text the reported form of <i>next year</i>.",
+          "a": "the following year"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Cuenta lo que te dijeron otras personas. Usa said y told y da el paso atrás.",
+      "en": "Report what other people told you.",
+      "items": [
+        {
+          "q": "Algo que te dijo un amigo la semana pasada: <i>My friend … told me…</i>",
+          "lines": 2,
+          "a": "Ej.: My friend Leo told me he was going to move to Valencia. He said he had found a job there."
+        },
+        {
+          "q": "Dos cosas que te dijo un profesor o tu jefe/a hace tiempo.",
+          "lines": 2,
+          "a": "Ej.: My English teacher said we had to read every day. She told us practice was the key."
+        },
+        {
+          "q": "Una noticia que hayas leído: <i>The minister said that…</i>",
+          "lines": 2,
+          "a": "Ej.: The minister said that the new train line would open the following year."
+        },
+        {
+          "q": "Un mensaje a un amigo contando lo que dijo otra persona (cambia tiempo, pronombre y expresión de tiempo).",
+          "lines": 2,
+          "a": "Ej.: Hi Sam! Ana called last week. She said she had lost her phone and that she would buy a new one the next day."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Distingo <b>say</b> y <b>tell</b>: <i>tell me</i>, nunca <s>said me</s>.",
+      "en": "I can use say and tell correctly."
+    },
+    {
+      "es": "Doy el <b>paso atrás</b> en los tiempos: is → was, will → would…",
+      "en": "I can move tenses one step back."
+    },
+    {
+      "es": "Cambio <b>pronombres y posesivos</b> con lógica.",
+      "en": "I can change pronouns and possessives."
+    },
+    {
+      "es": "Adapto <b>tiempo y lugar</b>: tomorrow → the next day, here → there.",
+      "en": "I can change time and place words."
+    },
+    {
+      "es": "Sé cuándo <b>no</b> hace falta cambiar el tiempo.",
+      "en": "I know when there is no backshift."
+    },
+    {
+      "es": "Uso expresiones fijas: <i>tell the truth, say sorry…</i>",
+      "en": "I know collocations with say and tell."
+    }
+  ]
+}

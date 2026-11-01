@@ -1,0 +1,1563 @@
+{
+  "id": "C2-02",
+  "level": "C2",
+  "title": "ELIPSIS <em>y</em> SUSTITUCIÓN",
+  "file_title": "Elipsis y sustitución",
+  "subtitle": "Ellipsis and substitution · decir más con menos",
+  "icon": "✂️",
+  "map": {
+    "center": "Para no repetir, el inglés <b>sustituye</b> (so, not, one, do so) u <b>omite</b> palabras, pero <em>conserva el auxiliar</em>.",
+    "nodes": [
+      {
+        "title": "SO y NOT",
+        "icon": "💭",
+        "items": [
+          "I think <b>so</b>. · I hope <b>not</b>. <i>(Creo que sí · Espero que no)</i>",
+          "<s>I think yes</s> · <s>I hope it</s> · <s>I don't hope so</s>",
+          "Nunca con know / be sure: <s>I know so</s>"
+        ]
+      },
+      {
+        "title": "DO SO",
+        "icon": "🔁",
+        "items": [
+          "Sustituye verbo + complementos (formal)",
+          "He was asked to resign and <b>did so</b>.",
+          "Coloquial: <b>do it / do that</b> · BrE: I may <b>do</b>."
+        ]
+      },
+      {
+        "title": "ONE y ONES",
+        "icon": "👟",
+        "art": "👠",
+        "items": [
+          "Nombre contable: the red <b>one</b> · the <b>ones</b> I like",
+          "<s>a new</s> → a new <b>one</b> · <s>my one</s> → <b>mine</b>",
+          "Incontable, sin one: red wine or white"
+        ]
+      },
+      {
+        "title": "Tras auxiliar",
+        "icon": "⚙️",
+        "items": [
+          "Se omite el verbo, <em>el auxiliar se queda</em>",
+          "He said he'd come, but he <b>didn't</b>.",
+          "— Like it? — Yes, I <b>do</b>. <i>(<s>Yes, I like.</s>)</i>"
+        ]
+      },
+      {
+        "title": "Tras TO",
+        "icon": "➡️",
+        "items": [
+          "I'd love <b>to</b>. · I didn't mean <b>to</b>.",
+          "El <b>to</b> se queda: <s>I'd love.</s>",
+          "Be se mantiene: he'd like <b>to be</b>."
+        ]
+      },
+      {
+        "title": "SO / NEITHER",
+        "icon": "🤝",
+        "art": "👯",
+        "items": [
+          "So <b>do</b> I. · Neither <b>can</b> she. · Nor <b>have</b> we.",
+          "so / neither + <b>auxiliar</b> + sujeto",
+          "= I do <b>too</b> · I can't <b>either</b>"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "I think yes. · I hope it."
+      ],
+      "good": [
+        "I think <b>so</b>. · I hope <b>so</b>."
+      ],
+      "note": "«que sí» / «lo» → <b>so</b> · «que no» → <b>not</b>"
+    },
+    "mini": {
+      "es": "Completa con una sola palabra.",
+      "en": "Complete with one word.",
+      "items": [
+        {
+          "q": "— Can I pay by card? — I'm afraid ___.",
+          "a": "not"
+        },
+        {
+          "q": "She can't drive and neither ___ I.",
+          "a": "can"
+        },
+        {
+          "q": "I'd like to go, but I can't afford ___.",
+          "a": "to"
+        },
+        {
+          "q": "Not these boots — the black ____.",
+          "a": "ones"
+        },
+        {
+          "q": "He said he'd help, and he ___ so.",
+          "a": "did"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "En el inglés culto, <mark>repetir lo que ya se ha dicho suena torpe</mark>. Para evitarlo hay dos recursos: la <b>sustitución</b> (cambiar un fragmento por una palabra comodín: <b>so</b>, <b>not</b>, <b>do so</b>, <b>one / ones</b>, <b>that / those</b>, <b>the same</b>) y la <b>elipsis</b> (omitir el fragmento y dejar solo el <b>auxiliar</b> o el <b>to</b>). El español también lo hace, pero con otras piezas («Creo que sí», «Yo también», «Lo intenté»): por eso los calcos delatan incluso a hablantes muy avanzados.",
+      "en": "Educated English avoids repetition in two ways: <b>substitution</b> (replacing a chunk with a pro-form: so, not, do so, one/ones, that/those, the same) and <b>ellipsis</b> (leaving the chunk out and keeping only the <b>auxiliary</b> or <b>to</b>).",
+      "formula": [
+        "Sustitución + *so / not / do so / one(s)*",
+        "Elipsis: sujeto + *auxiliar / to* + ∅"
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · SO y NOT en lugar de una oración",
+      "title_en": "So and not replacing a clause",
+      "icon": "💭",
+      "color": "green",
+      "es": "Tras verbos de opinión y expectativa (<b>think, believe, expect, suppose, imagine, hope, guess, be afraid</b>) y tras <b>seem / appear</b>, una oración completa con <i>that</i> se sustituye por <b>so</b> (afirmativa) o <b>not</b> (negativa): es el equivalente de «que sí», «que no» o «lo». Con <b>think, believe, expect, imagine</b> la negativa natural traslada el <i>no</i> al verbo principal (<b>I don't think so</b>); <b>I think not</b> existe, pero es formal o tajante. Con <b>hope</b> y <b>be afraid</b> solo vale <b>not</b>: <b>I hope not</b>, <b>I'm afraid not</b> (<s>I don't hope so</s>).",
+      "en": "After verbs of opinion and expectation, a whole that-clause is replaced by <b>so</b> or <b>not</b>. With think/believe/expect/imagine the usual negative is <b>I don't think so</b>; <b>I think not</b> is formal or emphatic. With hope and be afraid only <b>not</b> works.",
+      "formula": [
+        "think / believe / expect + *so*",
+        "don't think / believe / expect + *so*",
+        "hope / be afraid + *not*"
+      ],
+      "examples": [
+        {
+          "en": "— Will the motion be carried? — I <b>expect so</b>, given the turnout.",
+          "es": "— ¿Se aprobará la moción? — Supongo que sí, vista la participación.",
+          "icon": "🗳️"
+        },
+        {
+          "en": "— Is there any chance of a refund? — I'm <b>afraid not</b>.",
+          "es": "— ¿Hay alguna posibilidad de reembolso? — Me temo que no.",
+          "icon": "💸"
+        },
+        {
+          "en": "— Has the board reached a decision? — It <b>appears not</b>.",
+          "es": "— ¿Ha tomado ya una decisión la junta? — Parece que no.",
+          "icon": "🏛️"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "¿SO, NOT o nada? Verbo a verbo",
+      "title_en": "Verb by verb",
+      "icon": "📋",
+      "color": "teal",
+      "head": [
+        "Verbo",
+        "✅ «Que sí»",
+        "⛔ «Que no»"
+      ],
+      "rows": [
+        [
+          "think",
+          "I think <b>so</b>.",
+          "I don't think <b>so</b>. <i>(formal: I think not)</i>"
+        ],
+        [
+          "believe",
+          "I believe <b>so</b>.",
+          "I don't believe <b>so</b>. · I believe <b>not</b>."
+        ],
+        [
+          "expect",
+          "I expect <b>so</b>.",
+          "I don't expect <b>so</b>. · I expect <b>not</b>."
+        ],
+        [
+          "suppose",
+          "I suppose <b>so</b>.",
+          "I don't suppose <b>so</b>. · I suppose <b>not</b>."
+        ],
+        [
+          "imagine",
+          "I imagine <b>so</b>.",
+          "I don't imagine <b>so</b>. · I imagine <b>not</b>."
+        ],
+        [
+          "guess <small>(AmE)</small>",
+          "I guess <b>so</b>.",
+          "I guess <b>not</b>."
+        ],
+        [
+          "hope",
+          "I hope <b>so</b>.",
+          "I hope <b>not</b>. <i>(<s>I don't hope so</s>)</i>"
+        ],
+        [
+          "be afraid",
+          "I'm afraid <b>so</b>.",
+          "I'm afraid <b>not</b>."
+        ],
+        [
+          "seem / appear",
+          "It seems <b>so</b>.",
+          "It doesn't seem <b>so</b>. · It appears <b>not</b>."
+        ],
+        [
+          "know · be sure",
+          "I know. · I'm sure.",
+          "I don't know. · I'm not sure. <i>(<s>I know so</s>)</i>"
+        ],
+        [
+          "doubt",
+          "—",
+          "I doubt <b>it</b>. <i>(<s>I doubt so</s>)</i>"
+        ]
+      ],
+      "note": "La negativa con <b>not</b> detrás (<i>I believe not</i>) es más formal o tajante; la habitual es <b>I don't think / believe so</b>. Con <b>say</b> y <b>tell</b>: <i>If you say so</i>, <i>I told you so</i>; con <b>so</b> delante: <i>So I hear · So it seems</i> (eso he oído / eso parece).",
+      "note_en": "Verb + not is formal; don't + verb + so is the norm. Also: If you say so · I told you so · So I hear."
+    },
+    {
+      "t": "tip",
+      "title": "Truco: la prueba de la reconstrucción",
+      "title_en": "Tip: the rebuild test",
+      "es": "Reconstruye mentalmente la frase entera: <i>I'd love to [come]</i> ✓, <i>Yes, I do [like it]</i> ✓. Si al reconstruir sale algo agramatical (<i>I think yes</i> → <s>I think yes the shop is open</s>), el sustituto está mal. Y en cuanto al <b>registro</b>: <b>do so</b>, <b>that of</b>, <b>if so</b>, <b>as did</b> e <b>I believe not</b> son de escritura formal; <i>Me neither</i>, <i>Same here</i> o <i>Might do</i>, de la conversación.",
+      "en": "Rebuild the full sentence in your head: if it's grammatical, your ellipsis is fine. Do so, that of, if so and as did are formal; me neither, same here and might do are conversational."
+    },
+    {
+      "t": "rule",
+      "title": "2 · DO SO, DO IT, DO THAT y DO",
+      "title_en": "Replacing a verb phrase",
+      "icon": "🔁",
+      "color": "blue",
+      "es": "<b>Do so</b> sustituye a un verbo <b>de acción</b> con todos sus complementos y es típico del registro formal y escrito (avisos, contratos, ensayos). En la conversación se prefiere <b>do it / do that</b> (acción concreta y deliberada) o, sencillamente, la elipsis con el auxiliar (<i>she did</i>). No funciona con verbos de estado: <s>She knew the answer and I did so too</s> → <b>and so did I</b>. En inglés británico, tras un modal o un auxiliar perfectivo aparece además <b>do</b> solo: <i>— Will you be there? — I may <b>do</b>.</i> · <i>He should have <b>done</b>.</i>",
+      "en": "<b>Do so</b> replaces an action verb plus its complements; it is formal. Conversation prefers <b>do it / do that</b> or plain ellipsis. Not with stative verbs. British English also uses bare <b>do</b> after modals and perfect auxiliaries: <i>I may do</i>, <i>He should have done</i>.",
+      "formula": [
+        "verbo de acción + complementos → *do so*",
+        "modal / have (BrE) + *do / done*"
+      ],
+      "examples": [
+        {
+          "en": "Applicants who wish to withdraw may <b>do so</b> in writing at any time.",
+          "es": "Los candidatos que deseen retirarse podrán hacerlo por escrito en cualquier momento.",
+          "icon": "📝"
+        },
+        {
+          "en": "The minister was urged to apologise, but declined to <b>do so</b>.",
+          "es": "Se instó al ministro a disculparse, pero se negó a hacerlo.",
+          "icon": "🎙️"
+        },
+        {
+          "en": "— Have you emailed the landlord? — Not yet, but I might <b>do</b> later.",
+          "es": "— ¿Le has escrito al casero? — Todavía no, pero puede que lo haga luego.",
+          "icon": "📧"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · ONE y ONES",
+      "title_en": "Replacing a countable noun",
+      "icon": "👟",
+      "color": "purple",
+      "es": "<b>One</b> (singular) y <b>ones</b> (plural) sustituyen a un <b>sustantivo contable</b> ya mencionado, casi siempre con un modificador delante o detrás: <i>the red one</i>, <i>a cheaper one</i>, <i>the ones on the top shelf</i>, <i>which one?</i>. Restricciones clave: (1) <em>no</em> con incontables (<i>red wine or white</i>, no <s>white one</s>); (2) tras posesivo, mejor el pronombre (<b>mine</b>, <b>Anna's</b>) que <s>my one</s>, muy coloquial; (3) un adjetivo no puede quedarse solo como en español («uno nuevo»): <s>a new</s> → <b>a new one</b>; (4) sin adjetivo, <s>a one</s> → <b>one</b>, y en plural indefinido <b>some / any</b>, no <s>ones</s>.",
+      "en": "<b>One / ones</b> replace a countable noun, usually with a modifier (the red one, the ones on the left). Not with uncountables, not after possessives in careful style (mine, not my one); an adjective cannot stand alone (a new one); plural indefinite uses some/any.",
+      "formula": [
+        "the / a + adjetivo + *one / ones*",
+        "the + *one(s)* + who / that / with / on…"
+      ],
+      "examples": [
+        {
+          "en": "Of all the proposals, the <b>one</b> submitted by the Lisbon team was the most persuasive.",
+          "es": "De todas las propuestas, la que presentó el equipo de Lisboa fue la más convincente.",
+          "icon": "📑"
+        },
+        {
+          "en": "These figures are more reliable than the <b>ones</b> we published in March.",
+          "es": "Estas cifras son más fiables que las que publicamos en marzo.",
+          "icon": "📊"
+        },
+        {
+          "en": "— I need a charger. — There's <b>one</b> in the top drawer.",
+          "es": "— Necesito un cargador. — Hay uno en el cajón de arriba.",
+          "icon": "🔌"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Elipsis tras auxiliar, modal y TO",
+      "title_en": "Ellipsis after auxiliaries, modals and to",
+      "icon": "⚙️",
+      "color": "orange",
+      "es": "Cuando el verbo ya se ha dicho, se omite todo lo que va detrás del <b>primer auxiliar</b> o del <b>modal</b>, pero ese auxiliar <mark>nunca desaparece</mark>: <i>He said he'd help, and he <b>has</b>.</i> Si la frase original no tenía auxiliar, aparece <b>do / does / did</b>. Con el infinitivo ocurre lo mismo: se omite el verbo, pero <b>to</b> se queda (<i>I'd love <b>to</b></i>), y si el verbo es <b>be</b> o el <b>have</b> perfectivo, se conserva (<i>I hope <b>to be</b></i>). Tras <i>want</i> o <i>like</i> en subordinadas con <i>if / when / as</i> puede caer incluso el <i>to</i>: <i>Come whenever you like.</i>",
+      "en": "After an auxiliary or modal, everything that follows can be left out, but the auxiliary stays; if there was none, use do/does/did. After to, the verb disappears but <b>to</b> remains, and be is kept (I hope to be). After like/want in if/when clauses, even to may go.",
+      "formula": [
+        "sujeto + *auxiliar / modal* + ∅",
+        "verbo + *to* + ∅ · *to be*"
+      ],
+      "examples": [
+        {
+          "en": "Few expected the coalition to survive the vote, but it <b>did</b>.",
+          "es": "Pocos esperaban que la coalición sobreviviera a la votación, pero lo hizo.",
+          "icon": "🏛️"
+        },
+        {
+          "en": "I haven't read the report yet, but I <b>will have</b> by Monday.",
+          "es": "Aún no he leído el informe, pero lo habré hecho para el lunes.",
+          "icon": "📄"
+        },
+        {
+          "en": "— Would you like to join us for dinner? — I'd love <b>to</b>.",
+          "es": "— ¿Te apetece cenar con nosotros? — Me encantaría.",
+          "icon": "🍽️"
+        },
+        {
+          "en": "She isn't fluent in Japanese yet, but she intends <b>to be</b> by next year.",
+          "es": "Aún no domina el japonés, pero piensa dominarlo el año que viene.",
+          "icon": "📚"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · SO, NEITHER y NOR + auxiliar",
+      "title_en": "Agreeing: so do I, neither can she",
+      "icon": "🤝",
+      "color": "pink",
+      "es": "Para decir «yo también / yo tampoco» con un sujeto nuevo: <b>So</b> (afirmativa) o <b>Neither / Nor</b> (negativa) + <b>auxiliar</b> + sujeto, con inversión. El auxiliar copia el tiempo de la frase anterior. Equivalen a <i>…too</i> y <i>…not either</i>, sin inversión. Ojo al matiz: <b>so + sujeto + auxiliar</b> (sin inversión) no añade a nadie, sino que <b>confirma</b> algo con sorpresa: <i>— You promised to call me! — <b>So I did</b>! (¡Es verdad!)</i>. En registro elevado aparece también <b>as + auxiliar + sujeto</b>: <i>She opposed the plan, <b>as did</b> most of the board.</i>",
+      "en": "So / neither / nor + auxiliary + subject (inverted) add a new subject: So do I, Neither can she. Without inversion, so + subject + auxiliary confirms a fact: So I did! Formal: as did most of the board.",
+      "formula": [
+        "*So* + auxiliar + sujeto (+)",
+        "*Neither / Nor* + auxiliar + sujeto (−)"
+      ],
+      "examples": [
+        {
+          "en": "The Treasury underestimated the deficit, and <b>so did</b> most independent analysts.",
+          "es": "Hacienda subestimó el déficit, y también la mayoría de los analistas independientes.",
+          "icon": "📉"
+        },
+        {
+          "en": "I had never heard of the author, and <b>neither had</b> my editor.",
+          "es": "Yo nunca había oído hablar del autor, y mi editor tampoco.",
+          "icon": "📚"
+        },
+        {
+          "en": "— You've left the lights on again. — <b>So I have</b>. Sorry.",
+          "es": "— Te has vuelto a dejar las luces encendidas. — Es verdad. Perdona.",
+          "icon": "💡"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · Coordinación, comparación y respuestas",
+      "title_en": "Ellipsis in coordination, comparison and replies",
+      "icon": "💬",
+      "color": "teal",
+      "es": "En oraciones coordinadas se puede omitir el <b>sujeto</b> o el <b>verbo</b> repetido (<i>gapping</i>), algo muy propio del estilo escrito: <i>Some delegates voted in favour; others, against.</i> En las comparaciones, tras <i>than / as</i> se deja solo el auxiliar: <i>She earns more than I <b>do</b>.</i> En las respuestas basta con la información nueva: <i>— Who wrote it? — Tom <b>did</b>.</i> (no <s>Tom wrote</s>). Y en la conversación se omiten sujeto y auxiliar al comienzo (<i>Sounds good. · Seen Tom?</i>): elipsis situacional, solo para el registro coloquial.",
+      "en": "Coordination allows the repeated subject or verb to be dropped (gapping: others, against). After than/as, keep the auxiliary: more than I do. Replies give only the new information: Tom did. Casual speech drops an initial subject and auxiliary (Sounds good).",
+      "formula": [
+        "X + *verbo* + A; Y + ∅ + B (gapping)",
+        "más… + *than / as* + sujeto + *auxiliar*"
+      ],
+      "examples": [
+        {
+          "en": "The first edition sold well; the second, rather <b>less so</b>.",
+          "es": "La primera edición se vendió bien; la segunda, bastante menos.",
+          "icon": "📕"
+        },
+        {
+          "en": "The new model consumes far less fuel than the old one <b>did</b>.",
+          "es": "El nuevo modelo consume mucho menos combustible que el antiguo.",
+          "icon": "🚗"
+        },
+        {
+          "en": "— Who authorised the payment? — The finance director <b>did</b>.",
+          "es": "— ¿Quién autorizó el pago? — El director financiero.",
+          "icon": "💳"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "7 · THAT OF, THOSE OF, THE SAME, IF SO",
+      "title_en": "Formal substitutes",
+      "icon": "🎓",
+      "color": "yellow",
+      "es": "En el estilo académico y periodístico, para no repetir un sustantivo seguido de complemento se usa <b>that (of / in)</b> en singular y <b>those (of / in / who / which)</b> en plural: <i>The population of Madrid is larger than <b>that</b> of Barcelona.</i> (<i>the one of Barcelona</i> suena coloquial; <s>than Barcelona</s> compara cosas distintas). Otros comodines formales: <b>the same</b> (<i>I would do <b>the same</b></i>), <b>likewise</b>, <b>if so / if not</b> (= si es así / si no), <b>more so / less so</b>, <b>so</b> antepuesto en <i>if you <b>so</b> wish</i>.",
+      "en": "Formal style uses <b>that of</b> / <b>those of</b> to avoid repeating a noun with a complement, plus the same, likewise, if so / if not, more so / less so and if you so wish.",
+      "formula": [
+        "the + nombre + of X … *that / those* + of Y",
+        "*if so* · *if not* · *more so* · *the same*"
+      ],
+      "examples": [
+        {
+          "en": "The salaries of junior doctors are lower than <b>those</b> of most civil servants.",
+          "es": "Los sueldos de los médicos residentes son inferiores a los de la mayoría de los funcionarios.",
+          "icon": "🩺"
+        },
+        {
+          "en": "Are the data reliable? <b>If so</b>, the policy must change; <b>if not</b>, we need a new survey.",
+          "es": "¿Son fiables los datos? Si es así, hay que cambiar la política; si no, necesitamos una nueva encuesta.",
+          "icon": "📈"
+        },
+        {
+          "en": "Her second novel is ambitious, and her third even <b>more so</b>.",
+          "es": "Su segunda novela es ambiciosa, y la tercera, todavía más.",
+          "icon": "📖"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Coloquial frente a formal",
+      "title_en": "Informal vs formal",
+      "icon": "⚖️",
+      "color": "blue",
+      "es": "La elipsis abunda en la conversación; la sustitución con <b>do so</b>, <b>that of</b> o <b>if so</b> es marca del registro escrito y formal. Elige según el contexto: un informe con <i>Me neither</i> chirría tanto como una charla de bar con <i>Should you wish to do so</i>.",
+      "en": "Ellipsis dominates conversation; substitutes such as do so, that of and if so mark formal writing.",
+      "cols": [
+        {
+          "head": "🗣️ Coloquial · Informal",
+          "color": "orange",
+          "items": [
+            "<b>Me too.</b> · <b>Me neither.</b>",
+            "Yeah, I reckon <b>so</b>.",
+            "Go on, <b>do it</b>!",
+            "the <b>one</b> Laura's got",
+            "Same here.",
+            "— Coming? — Might <b>do</b>."
+          ]
+        },
+        {
+          "head": "🎩 Formal · Académico",
+          "color": "green",
+          "items": [
+            "<b>So do I.</b> · <b>Nor do I.</b>",
+            "I believe <b>so</b>. · I believe <b>not</b>.",
+            "Those wishing to <b>do so</b> may…",
+            "<b>that of</b> the previous government",
+            "…, <b>as do</b> most economists.",
+            "<b>If so</b>, … · <b>if not</b>, …"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Resumen: ¿qué sustituye qué?",
+      "title_en": "Summary: what replaces what",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Recurso · Device",
+        "Sustituye a…",
+        "Ejemplo · Example",
+        "Español",
+        "Registro / trampa"
+      ],
+      "rows": [
+        [
+          "<b>so / not</b>",
+          "una oración (that-clause)",
+          "I hope <b>so</b>. · I'm afraid <b>not</b>.",
+          "Espero que sí. · Me temo que no.",
+          "<s>I think yes</s> · <s>I hope it</s>"
+        ],
+        [
+          "<b>do so</b>",
+          "verbo de acción + complementos",
+          "He was told to leave and <b>did so</b>.",
+          "Le dijeron que se fuera y lo hizo.",
+          "formal; no con verbos de estado"
+        ],
+        [
+          "<b>do</b> (BrE)",
+          "verbo tras modal / have",
+          "— Will you go? — I might <b>do</b>.",
+          "— ¿Irás? — Puede que sí.",
+          "británico, conversación"
+        ],
+        [
+          "<b>one / ones</b>",
+          "nombre contable",
+          "the blue <b>one</b> · the <b>ones</b> I ordered",
+          "el azul · los que pedí",
+          "no con incontables"
+        ],
+        [
+          "<b>that / those (of)</b>",
+          "nombre + complemento",
+          "<b>that</b> of Spain · <b>those</b> of 2020",
+          "el de España · los de 2020",
+          "formal, académico"
+        ],
+        [
+          "<b>the same</b>",
+          "una acción o idea",
+          "I'd do <b>the same</b>.",
+          "Yo haría lo mismo.",
+          "<s>I'd make the same</s>"
+        ],
+        [
+          "<b>auxiliar</b> + ∅",
+          "el verbo y sus complementos",
+          "She can't, but I <b>can</b>.",
+          "Ella no puede, pero yo sí.",
+          "<s>but I yes</s>"
+        ],
+        [
+          "<b>to</b> + ∅",
+          "un infinitivo",
+          "I'd love <b>to</b>.",
+          "Me encantaría.",
+          "<s>I'd love.</s>"
+        ],
+        [
+          "<b>so / neither</b> + aux",
+          "«yo también / tampoco»",
+          "<b>So do</b> I. · <b>Neither have</b> we.",
+          "Yo también. · Nosotros tampoco.",
+          "inversión obligatoria"
+        ]
+      ],
+      "note": "Regla de oro: puedes omitir el verbo, <mark>pero nunca el auxiliar ni el to</mark>.",
+      "note_en": "Golden rule: drop the verb, never the auxiliary or to."
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "— Is the museum open on Mondays? — I don't believe <b>so</b>.",
+          "es": "— ¿Abre el museo los lunes? — Creo que no.",
+          "icon": "🏛️"
+        },
+        {
+          "en": "The committee may reject the proposal; <b>if so</b>, we shall appeal.",
+          "es": "Puede que el comité rechace la propuesta; si es así, recurriremos.",
+          "icon": "⚖️"
+        },
+        {
+          "en": "Delegates wishing to speak should <b>do so</b> before the vote is called.",
+          "es": "Los delegados que deseen intervenir deberán hacerlo antes de la votación.",
+          "icon": "🎤"
+        },
+        {
+          "en": "— Didn't you say you'd finished? — I thought I <b>had</b>.",
+          "es": "— ¿No dijiste que habías terminado? — Creía que sí.",
+          "icon": "🤔"
+        },
+        {
+          "en": "My grandfather spoke four languages fluently, and <b>so did</b> his sisters.",
+          "es": "Mi abuelo hablaba cuatro idiomas con fluidez, y sus hermanas también.",
+          "icon": "👴"
+        },
+        {
+          "en": "I've tried to give up coffee, but I just can't seem <b>to</b>.",
+          "es": "He intentado dejar el café, pero no hay manera.",
+          "icon": "☕"
+        },
+        {
+          "en": "The old bridge was demolished and a new <b>one</b> built in its place.",
+          "es": "Derribaron el puente viejo y construyeron uno nuevo en su lugar.",
+          "icon": "🌉"
+        },
+        {
+          "en": "Unemployment in the south remains higher than <b>that</b> in the north.",
+          "es": "El paro en el sur sigue siendo más alto que en el norte.",
+          "icon": "📊"
+        },
+        {
+          "en": "— Will we make the deadline? — I very much doubt <b>it</b>.",
+          "es": "— ¿Llegaremos a tiempo? — Lo dudo mucho.",
+          "icon": "⏰"
+        },
+        {
+          "en": "— You'll be home by ten, won't you? — I'll try <b>to be</b>.",
+          "es": "— Estarás en casa a las diez, ¿verdad? — Intentaré estarlo.",
+          "icon": "🏠"
+        },
+        {
+          "en": "She wasn't impressed by the speech, and nor <b>were</b> most of the audience.",
+          "es": "A ella no le impresionó el discurso, y a la mayoría del público tampoco.",
+          "icon": "🎭"
+        },
+        {
+          "en": "If you haven't already done <b>so</b>, please update your password.",
+          "es": "Si aún no lo ha hecho, actualice su contraseña.",
+          "icon": "🔐"
+        },
+        {
+          "en": "— Shall I book a table? — Yes, <b>do</b>.",
+          "es": "— ¿Reservo mesa? — Sí, hazlo.",
+          "icon": "📞"
+        },
+        {
+          "en": "— Is it going to be a problem? — Hopefully <b>not</b>.",
+          "es": "— ¿Va a ser un problema? — Esperemos que no.",
+          "icon": "🤞"
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Texto modelo: reunión de departamento",
+      "title_en": "Model text: a departmental meeting",
+      "lines": [
+        {
+          "who": "Chair",
+          "en": "Has everyone had a chance to look at the revised budget?",
+          "es": "¿Han tenido todos ocasión de revisar el presupuesto corregido?"
+        },
+        {
+          "who": "Helen",
+          "en": "I <b>have</b>, and I'd like to raise a couple of points, if I <b>may</b>.",
+          "es": "Yo sí, y me gustaría plantear un par de cuestiones, si me lo permite."
+        },
+        {
+          "who": "Chair",
+          "en": "Please <b>do</b>. Mark, have you read it <b>too</b>?",
+          "es": "Adelante. Mark, ¿usted también lo ha leído?"
+        },
+        {
+          "who": "Mark",
+          "en": "Not all of it, I'm afraid, but I <b>will have</b> by Friday.",
+          "es": "No entero, me temo, pero lo habré hecho para el viernes."
+        },
+        {
+          "who": "Helen",
+          "en": "The travel allowance is lower than <b>that</b> of last year. Was that intentional?",
+          "es": "La partida de viajes es inferior a la del año pasado. ¿Es intencionado?"
+        },
+        {
+          "who": "Chair",
+          "en": "I believe <b>so</b>. Finance asked every department to cut costs, and we have <b>done so</b>.",
+          "es": "Creo que sí. Finanzas pidió a todos los departamentos que recortaran gastos, y así lo hemos hecho."
+        },
+        {
+          "who": "Mark",
+          "en": "Will the research grants be affected as well?",
+          "es": "¿Se verán afectadas también las becas de investigación?"
+        },
+        {
+          "who": "Chair",
+          "en": "I hope <b>not</b>. If they <b>are</b>, we'll appeal, and <b>so will</b> the other faculties.",
+          "es": "Espero que no. Si lo son, recurriremos, y las demás facultades también."
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "— Is the shop open? — I think yes.",
+          "good": "I think <b>so</b>.",
+          "why": "«Creo que sí» = I think so. <i>Yes</i> no puede sustituir a una oración.",
+          "why_en": "Yes cannot replace a clause: I think so."
+        },
+        {
+          "bad": "— Will it rain? — I don't hope so.",
+          "good": "I hope <b>not</b>.",
+          "why": "Hope y be afraid niegan con <b>not</b> detrás, nunca con don't.",
+          "why_en": "Hope / be afraid: negative with not."
+        },
+        {
+          "bad": "— Is she coming? — I hope it.",
+          "good": "I hope <b>so</b>.",
+          "why": "Calco de «eso espero»: una oración se sustituye con <b>so</b>, no con it.",
+          "why_en": "Use so, not it, after hope / think."
+        },
+        {
+          "bad": "— Are you certain? — Yes, I'm sure so.",
+          "good": "Yes, I'm <b>sure</b>. / Yes, I <b>know</b>.",
+          "why": "Know, be sure y be certain no admiten so.",
+          "why_en": "Know and be sure never take so."
+        },
+        {
+          "bad": "She doesn't like jazz, but I yes.",
+          "good": "…, but I <b>do</b>.",
+          "why": "«Yo sí / yo no» exige auxiliar: I do, I can, I have…",
+          "why_en": "'I yes' doesn't exist: use the auxiliary."
+        },
+        {
+          "bad": "— Do you want to come? — Yes, I want.",
+          "good": "Yes, I want <b>to</b>. / Yes, I <b>do</b>.",
+          "why": "Want, like, love, need… no se quedan solos: mantén <b>to</b> o usa el auxiliar.",
+          "why_en": "Keep to, or use the auxiliary."
+        },
+        {
+          "bad": "I've lost my umbrella; I'll have to buy a new.",
+          "good": "…buy a new <b>one</b>.",
+          "why": "Calco de «uno nuevo»: el adjetivo no puede ir solo, necesita <b>one</b>.",
+          "why_en": "An adjective can't stand alone: a new one."
+        },
+        {
+          "bad": "The climate of Galicia is wetter than Madrid.",
+          "good": "…wetter than <b>that of</b> Madrid.",
+          "why": "Se compara clima con clima: en registro formal, <b>that of / those of</b>.",
+          "why_en": "Compare like with like: that of / those of."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo elijo el sustituto?",
+      "title_en": "How do I choose the substitute?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "¿Qué quieres evitar repetir? ¿Una <b>oración</b> entera, un <b>verbo</b> con sus complementos o un <b>sustantivo</b>?",
+          "en": "What are you avoiding repeating: a clause, a verb phrase or a noun?"
+        },
+        {
+          "es": "Oración tras think / hope / expect / be afraid… → <b>so</b> / <b>not</b>. Con know / be sure → nada; con doubt → <b>it</b>.",
+          "en": "Clause after think / hope… → so / not; know, be sure → nothing; doubt → it."
+        },
+        {
+          "es": "Verbo → deja el <b>auxiliar</b> (o do / does / did) o el <b>to</b>; en registro formal, <b>do so</b>.",
+          "en": "Verb phrase → keep the auxiliary or to; formal: do so."
+        },
+        {
+          "es": "Sustantivo contable → <b>one / ones</b>; con complemento y en registro formal → <b>that / those of</b>; incontable → simple omisión (<i>red wine or white</i>).",
+          "en": "Noun → one / ones; formal with complement → that / those of; uncountable → just omit it."
+        },
+        {
+          "es": "¿Un sujeto nuevo coincide contigo? → <b>so / neither + auxiliar + sujeto</b>.",
+          "en": "New subject agreeing → so / neither + auxiliary + subject."
+        },
+        {
+          "es": "Revisa: ¿el auxiliar está en el mismo tiempo? ¿El registro encaja con el texto?",
+          "en": "Check tense agreement and register."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Elige el sustituto",
+      "title_en": "Choose the substitute",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "— Will the trains be running tomorrow? — I'm afraid [not|no|don't].",
+          "a": "not"
+        },
+        {
+          "q": "— Is the report ready? — I [think so|think yes|think it].",
+          "a": "think so"
+        },
+        {
+          "q": "— Will it rain during the ceremony? — I [hope not|don't hope so|hope no].",
+          "a": "hope not"
+        },
+        {
+          "q": "— Is Jane coming to the launch? — I [believe so|believe it|believe yes].",
+          "a": "believe so"
+        },
+        {
+          "q": "My phone is broken, so I need a new [one|ones|it].",
+          "a": "one"
+        },
+        {
+          "q": "These photos are lovely, but I prefer the [ones|one|others] you took in Rome.",
+          "a": "ones"
+        },
+        {
+          "q": "— Did you lock the door? — Yes, I [did|locked|did it].",
+          "a": "did"
+        },
+        {
+          "q": "I don't speak Greek, and [neither|either|so] does my sister.",
+          "a": "neither"
+        },
+        {
+          "q": "— Would you like to come with us? — I'd love [to|it|so].",
+          "a": "to"
+        },
+        {
+          "q": "Is the claim true? If [so|it|yes], we must act at once.",
+          "a": "so"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une pregunta y respuesta",
+      "title_en": "Match questions and replies",
+      "icon": "🔗",
+      "es": "Une cada pregunta o comentario con la respuesta elíptica más natural.",
+      "en": "Match each question or remark with the most natural elliptical reply.",
+      "pairs": [
+        [
+          "Is the museum open on Sundays?",
+          "I believe so, but check online."
+        ],
+        [
+          "Can you lend me fifty euros?",
+          "I'm afraid not — I'm broke."
+        ],
+        [
+          "Have you ever been to Japan?",
+          "No, but my sister has."
+        ],
+        [
+          "Who chaired the meeting?",
+          "The CEO did."
+        ],
+        [
+          "Are you going to apply for the post?",
+          "I might, but I haven't decided."
+        ],
+        [
+          "I've never liked opera.",
+          "Neither have I."
+        ],
+        [
+          "Which jacket do you prefer?",
+          "The leather one, definitely."
+        ],
+        [
+          "Do you think the launch will be a success?",
+          "I hope so — we've worked hard."
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Admite SO?",
+      "title_en": "Does it take so?",
+      "icon": "🗂️",
+      "es": "Clasifica: ¿se puede decir «I ___ so» / «It ___ so» con este verbo, o nunca?",
+      "en": "Sort the verbs: can they be followed by so / not, or never?",
+      "cats": [
+        {
+          "name": "✅ + so / not",
+          "words": [
+            "think",
+            "hope",
+            "expect",
+            "suppose",
+            "believe",
+            "imagine",
+            "be afraid",
+            "seem"
+          ]
+        },
+        {
+          "name": "❌ nunca + so",
+          "words": [
+            "know",
+            "be sure",
+            "be certain",
+            "doubt",
+            "remember"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Una palabra basta",
+      "title_en": "One word is enough",
+      "icon": "✏️",
+      "es": "Completa con una palabra del recuadro. Úsalas todas una vez.",
+      "en": "Complete with one word from the box. Use each word once.",
+      "bank": [
+        "so",
+        "not",
+        "one",
+        "ones",
+        "to",
+        "do",
+        "did",
+        "that",
+        "those",
+        "neither"
+      ],
+      "items": [
+        {
+          "q": "— Is the exhibition still on? — I'm afraid ___. It closed last week.",
+          "a": "not"
+        },
+        {
+          "q": "These boots are too narrow. Have you got any wider ____?",
+          "a": "ones"
+        },
+        {
+          "q": "I didn't intend to offend anyone, but I'm sorry if I ___.",
+          "a": "did"
+        },
+        {
+          "q": "The climate of Valencia is milder than ____ of Burgos.",
+          "a": "that"
+        },
+        {
+          "q": "This year's results are better than _____ of last year.",
+          "a": "those"
+        },
+        {
+          "q": "Passengers wishing to change seats may ___ so at the desk.",
+          "a": "do"
+        },
+        {
+          "q": "— Will you be there on time? — I hope ___.",
+          "a": "so"
+        },
+        {
+          "q": "I'd go with you, but I'm not allowed ___.",
+          "a": "to"
+        },
+        {
+          "q": "She hasn't been to Peru, and _____ has her husband.",
+          "a": [
+            "neither",
+            "nor"
+          ]
+        },
+        {
+          "q": "If you need a pen, there's ___ on my desk.",
+          "a": "one"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "El auxiliar se queda",
+      "title_en": "Keep the auxiliary",
+      "icon": "⚙️",
+      "es": "Completa con el auxiliar o el modal adecuado (afirmativo o negativo). Fíjate en el tiempo verbal de la primera parte.",
+      "en": "Complete with the right auxiliary or modal (positive or negative). Check the tense of the first clause.",
+      "items": [
+        {
+          "q": "She doesn't eat meat, but her brother ____.",
+          "a": "does"
+        },
+        {
+          "q": "I haven't finished the novel yet, but Tom ____.",
+          "a": "has"
+        },
+        {
+          "q": "They weren't invited to the gala, but we ____.",
+          "a": "were"
+        },
+        {
+          "q": "He promised he would call, but he ____.",
+          "a": [
+            "didn't",
+            "hasn't"
+          ]
+        },
+        {
+          "q": "I can't play the cello, but my daughter ____.",
+          "a": "can"
+        },
+        {
+          "q": "— Have you ever met the Prime Minister? — No, but my father ____.",
+          "a": "has"
+        },
+        {
+          "q": "Few people expected her to win the election, but she ____.",
+          "a": "did"
+        },
+        {
+          "q": "I'd help you if I ____, but I'm leaving tonight.",
+          "a": "could"
+        },
+        {
+          "q": "Nobody thought the company would survive, but it ____.",
+          "a": [
+            "did",
+            "has"
+          ]
+        },
+        {
+          "q": "I haven't seen the film, and I don't think Laura ____ either.",
+          "a": "has"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Yo también, yo tampoco… o no",
+      "title_en": "Agree or disagree",
+      "icon": "🤝",
+      "wide": true,
+      "es": "Reacciona a cada afirmación: primero coincidiendo (So / Neither + auxiliar + I) y luego discrepando (yo sí / yo no). <i>Neither</i> y <i>nor</i> son intercambiables.",
+      "en": "React to each statement: first agreeing (So / Neither + auxiliary + I), then disagreeing.",
+      "head": [
+        "Afirmación · Statement",
+        "Coincido · Same here",
+        "Discrepo · Not me"
+      ],
+      "rows": [
+        [
+          "I love Russian literature.",
+          "?So do I.",
+          "?I don't."
+        ],
+        [
+          "I can't stand reality TV.",
+          "?Neither can I.",
+          "?I can."
+        ],
+        [
+          "I've been to Iceland twice.",
+          "?So have I.",
+          "?I haven't."
+        ],
+        [
+          "I wasn't paying attention.",
+          "?Neither was I.",
+          "?I was."
+        ],
+        [
+          "I'd rather stay in tonight.",
+          "?So would I.",
+          "?I wouldn't."
+        ],
+        [
+          "I didn't vote in the last election.",
+          "?Neither did I.",
+          "?I did."
+        ],
+        [
+          "I'm thinking of resigning.",
+          "?So am I.",
+          "?I'm not."
+        ]
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Correcta o incorrecta?",
+      "title_en": "Right or wrong?",
+      "icon": "⚖️",
+      "es": "Marca T si la frase es correcta y F si no lo es. En las falsas, piensa cómo se corrige.",
+      "en": "Tick T if the sentence is correct and F if it isn't.",
+      "items": [
+        {
+          "q": "— Will he resign? — I expect not.",
+          "a": true,
+          "why": "Expect admite not (más formal) y don't expect so."
+        },
+        {
+          "q": "— Is it serious? — I'm afraid so.",
+          "a": true,
+          "why": "Malas noticias en afirmativa: I'm afraid so."
+        },
+        {
+          "q": "— Are you sure? — Yes, I'm sure so.",
+          "a": false,
+          "why": "Be sure no admite so: Yes, I'm sure."
+        },
+        {
+          "q": "She can speak Arabic and so I can.",
+          "a": false,
+          "why": "Hace falta inversión: and so can I."
+        },
+        {
+          "q": "Delegates who wish to speak should do so now.",
+          "a": true,
+          "why": "Do so = speak (registro formal)."
+        },
+        {
+          "q": "I asked him to apologise, but he refused it.",
+          "a": false,
+          "why": "He refused (to); «refused it» no recupera el verbo."
+        },
+        {
+          "q": "The salaries of nurses are lower than those of doctors.",
+          "a": true,
+          "why": "Those = the salaries."
+        },
+        {
+          "q": "— Do you like jazz? — Yes, I like.",
+          "a": false,
+          "why": "Like no se queda solo: Yes, I do."
+        },
+        {
+          "q": "— Shall we go? — Yes, let's.",
+          "a": true,
+          "why": "Let's admite elipsis: Yes, let's (go)."
+        },
+        {
+          "q": "I've lost my scarf; I need to buy a new.",
+          "a": false,
+          "why": "Falta one: a new one."
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras para formar una frase con elipsis o sustitución. Añade la puntuación.",
+      "en": "Put the words in order. Add punctuation.",
+      "items": [
+        {
+          "q": "afraid / I'm / not",
+          "a": "I'm afraid not."
+        },
+        {
+          "q": "so / I / should / think",
+          "a": "I should think so."
+        },
+        {
+          "q": "would / to / love / I / but / can't / I",
+          "a": "I would love to, but I can't."
+        },
+        {
+          "q": "one / the / I'll / take / blue",
+          "a": "I'll take the blue one."
+        },
+        {
+          "q": "neither / my / did / and / colleagues / I / didn't / object",
+          "a": "I didn't object, and neither did my colleagues."
+        },
+        {
+          "q": "may / you / so / do / now / if / wish / you",
+          "a": "You may do so now if you wish."
+        },
+        {
+          "q": "this year's / are / than / those / of / last year / higher / figures",
+          "a": "This year's figures are higher than those of last year."
+        },
+        {
+          "q": "if / so / please / let / us / know",
+          "a": "If so, please let us know."
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Elige el registro formal",
+      "title_en": "Choose the formal option",
+      "icon": "🎩",
+      "es": "Estas frases pertenecen a textos formales o académicos. Rodea la opción adecuada.",
+      "en": "These sentences come from formal or academic texts. Circle the right option.",
+      "items": [
+        {
+          "q": "The results of the 2024 survey are more reliable than [those|the ones] of 2020.",
+          "a": "those"
+        },
+        {
+          "q": "Applicants who have not yet [done so|done it] should register by 30 June.",
+          "a": "done so"
+        },
+        {
+          "q": "The minister opposed the reform, [as did|like did] the opposition.",
+          "a": "as did"
+        },
+        {
+          "q": "Is the hypothesis correct? [If so|If yes], further research is needed.",
+          "a": "If so"
+        },
+        {
+          "q": "— Will the board approve the merger? — I [believe not|reckon not].",
+          "a": "believe not"
+        },
+        {
+          "q": "Her first study was controversial and her second even [more so|more].",
+          "a": "more so"
+        },
+        {
+          "q": "Delegates may leave the session early if they [wish so|so wish].",
+          "a": "so wish"
+        },
+        {
+          "q": "We were asked to submit the report by Monday and duly [did so|made it|did it so].",
+          "a": "did so"
+        },
+        {
+          "q": "The climate of Galicia differs from [that|this|the one] of Andalusia.",
+          "a": "that"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Recupera lo omitido",
+      "title_en": "Rebuild what is missing",
+      "icon": "🔎",
+      "es": "Escribe completa la parte subrayada, recuperando lo que se ha omitido o sustituido.",
+      "en": "Write the underlined part in full, restoring what has been left out or replaced.",
+      "items": [
+        {
+          "q": "— Are you coming to the party? — I <u>might</u>.",
+          "a": "I might come to the party."
+        },
+        {
+          "q": "— Is the bank open today? — <u>I don't think so</u>.",
+          "a": "I don't think (that) the bank is open today."
+        },
+        {
+          "q": "She said she'd finish it by Friday, and <u>she did</u>.",
+          "a": "She finished it by Friday."
+        },
+        {
+          "q": "I've never been to Peru, but <u>my wife has</u>.",
+          "a": "My wife has been to Peru."
+        },
+        {
+          "q": "— Would you like a coffee? — <u>I'd love one</u>.",
+          "a": "I'd love a coffee."
+        },
+        {
+          "q": "They asked us to leave the room, and <u>we did so</u>.",
+          "a": "We left the room."
+        },
+        {
+          "q": "The rent in London is higher <u>than that in Leeds</u>.",
+          "a": "than the rent in Leeds"
+        },
+        {
+          "q": "— Has the parcel arrived? — <u>Not yet</u>.",
+          "a": "The parcel hasn't arrived yet."
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error de elipsis o sustitución. Escríbela bien.",
+      "en": "Each sentence has ONE ellipsis or substitution mistake. Correct it.",
+      "items": [
+        {
+          "q": "— Is the café open? — I think yes.",
+          "a": "— Is the café open? — I think so."
+        },
+        {
+          "q": "— Will it snow tomorrow? — I don't hope so.",
+          "a": "— Will it snow tomorrow? — I hope not."
+        },
+        {
+          "q": "My father can't drive, and neither my mother can.",
+          "a": "My father can't drive, and neither can my mother."
+        },
+        {
+          "q": "— Do you enjoy your job? — Yes, I enjoy.",
+          "a": "— Do you enjoy your job? — Yes, I do."
+        },
+        {
+          "q": "We were invited to the gala, but we decided not.",
+          "a": "We were invited to the gala, but we decided not to."
+        },
+        {
+          "q": "My laptop is very slow, so I'm going to buy a new.",
+          "a": "My laptop is very slow, so I'm going to buy a new one."
+        },
+        {
+          "q": "The climate of Seville is hotter than Bilbao.",
+          "a": "The climate of Seville is hotter than that of Bilbao."
+        },
+        {
+          "q": "— You've forgotten your keys again! — So I've done!",
+          "a": "— You've forgotten your keys again! — So I have!"
+        },
+        {
+          "q": "— Has the parcel arrived? — I'm afraid no.",
+          "a": "— Has the parcel arrived? — I'm afraid not."
+        },
+        {
+          "q": "If you want to resign, you must do it so in writing.",
+          "a": "If you want to resign, you must do so in writing."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "De coloquial a formal",
+      "title_en": "From informal to formal",
+      "icon": "🎓",
+      "es": "Reescribe cada frase en registro formal usando el recurso indicado entre paréntesis.",
+      "en": "Rewrite each sentence in a formal register using the device in brackets.",
+      "items": [
+        {
+          "q": "If you want to cancel your booking, you can cancel it online.",
+          "hint": "do so",
+          "a": "If you wish to cancel your booking, you may <b>do so</b> online."
+        },
+        {
+          "q": "The CEO backed the merger. Most of the board backed it too.",
+          "hint": "as + auxiliar",
+          "a": "The CEO backed the merger, <b>as did</b> most of the board."
+        },
+        {
+          "q": "Our results are better than the results of our competitors.",
+          "hint": "those of",
+          "a": "Our results are better than <b>those of</b> our competitors."
+        },
+        {
+          "q": "Is the information correct? If it is, sign below. If it isn't, contact us.",
+          "hint": "if so / if not",
+          "a": "Is the information correct? <b>If so</b>, please sign below; <b>if not</b>, contact us."
+        },
+        {
+          "q": "Portugal's economy grew faster than Spain's economy did.",
+          "hint": "that of",
+          "a": "The economy of Portugal grew faster than <b>that of</b> Spain."
+        },
+        {
+          "q": "— Will the minister resign? — Nah, I don't reckon he will.",
+          "hint": "believe",
+          "a": "I believe <b>not</b>. / I do not believe <b>so</b>."
+        },
+        {
+          "q": "I didn't like the first proposal, and I didn't like the second one either.",
+          "hint": "nor",
+          "a": "I did not like the first proposal, <b>nor did I</b> like the second."
+        },
+        {
+          "q": "She's a really talented painter, and her daughter's even more talented.",
+          "hint": "more so",
+          "a": "She is a highly talented painter, and her daughter even <b>more so</b>."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones con palabra clave",
+      "title_en": "Key word transformations",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave sin cambiarla y entre 2 y 8 palabras (estilo Cambridge C2 Proficiency).",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word without changing it, in 2–8 words.",
+      "items": [
+        {
+          "q": "Everyone in the department voted against the proposal, and I did too.<br>→ I voted against the proposal, ________ in the department.",
+          "hint": "DID",
+          "a": "I voted against the proposal, <b>as did everyone else</b> / <b>and so did everyone else</b> in the department."
+        },
+        {
+          "q": "Participants are free to leave the study at any time if they wish.<br>→ Participants who wish to leave the study ________ at any time.",
+          "hint": "DO",
+          "a": "Participants who wish to leave the study <b>may do so</b> / <b>are free to do so</b> at any time."
+        },
+        {
+          "q": "The population of Madrid is far larger than the population of Valencia.<br>→ Madrid has a population ________ of Valencia.",
+          "hint": "THAT",
+          "a": "Madrid has a population <b>far larger than that</b> / <b>much larger than that</b> of Valencia."
+        },
+        {
+          "q": "If you haven't paid the invoice yet, please pay it immediately.<br>→ Please pay the invoice immediately if you have ________.",
+          "hint": "DONE",
+          "a": "Please pay the invoice immediately if you have <b>not already done so</b> / <b>not yet done so</b>."
+        },
+        {
+          "q": "If the weather is fine, the ceremony will be held outdoors; otherwise, it will take place in the hall.<br>→ The ceremony will be held outdoors if the weather is fine; ________ take place in the hall.",
+          "hint": "NOT",
+          "a": "The ceremony will be held outdoors if the weather is fine; <b>if not, it will</b> take place in the hall."
+        },
+        {
+          "q": "She said she would finish her thesis by June, and indeed she finished it by then.<br>→ She said she would finish her thesis by June, and ________.",
+          "hint": "SO",
+          "a": "She said she would finish her thesis by June, and <b>so she did</b> / <b>she did so</b>."
+        },
+        {
+          "q": "Salaries in the private sector are higher than salaries in the public sector.<br>→ Salaries in the public sector are ________ in the private sector.",
+          "hint": "THOSE",
+          "a": "Salaries in the public sector are <b>lower than those</b> / <b>not as high as those</b> in the private sector."
+        },
+        {
+          "q": "Neither the minister nor his advisers foresaw the crisis.<br>→ The minister did not foresee the crisis, ________ his advisers.",
+          "hint": "NOR",
+          "a": "The minister did not foresee the crisis, <b>nor did</b> / <b>and nor did</b> his advisers."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el artículo. Marca T o F y contesta: ¿a qué se refiere cada sustituto y qué se ha omitido?",
+      "en": "Read the article. Tick T or F and answer: what does each substitute refer to, and what has been left out?",
+      "text_title": "Should we all work from home?",
+      "text": [
+        "When the pandemic forced millions of employees to work from home, many managers predicted that productivity would collapse. It did not. In fact, several studies suggest that it rose, and those that found a decline attributed it to childcare rather than to remote work itself. Will the trend continue? Most economists believe so, though some are less certain.",
+        "Not everyone welcomed the change, however. Younger staff, in particular, missed the office, and so did many of those who lived alone. One recent survey found that their sense of isolation was far greater than that of colleagues with families. Asked whether they would return full time if they could, a third said they would; the rest said they would rather not.",
+        "Companies now face a choice. Some have ordered staff back to the office five days a week; others, only two. Those that have done so without consulting their employees have often regretted it. As one manager put it: 'If people are trusted, they deliver. If not, they leave.'"
+      ],
+      "items": [
+        {
+          "q": "Productivity fell sharply when people started working from home.",
+          "tf": true,
+          "a": false,
+          "why": "«It did not» = productivity did not collapse; some studies say it rose."
+        },
+        {
+          "q": "Every study found that productivity increased.",
+          "tf": true,
+          "a": false,
+          "why": "Some studies («those») found a decline."
+        },
+        {
+          "q": "Most economists think the trend towards remote work will continue.",
+          "tf": true,
+          "a": true,
+          "why": "«Most economists believe so» = believe it will continue."
+        },
+        {
+          "q": "Many people who lived alone missed the office.",
+          "tf": true,
+          "a": true,
+          "why": "«…and so did many of those who lived alone»."
+        },
+        {
+          "q": "What does «those» refer to in paragraph 1?",
+          "a": "The studies that found a decline in productivity."
+        },
+        {
+          "q": "In «It did not» (paragraph 1), what has been left out?",
+          "a": "collapse: «Productivity did not collapse.»"
+        },
+        {
+          "q": "What does «that» replace in «than that of colleagues with families»?",
+          "a": "the sense of isolation (of colleagues with families)"
+        },
+        {
+          "q": "Write in full: «the rest said they would rather not».",
+          "a": "The rest said they would rather not return (to the office) full time."
+        },
+        {
+          "q": "What does «done so» refer to in paragraph 3?",
+          "a": "ordered staff back to the office (on fixed days)"
+        },
+        {
+          "q": "Write in full: «others, only two».",
+          "a": "Others have ordered staff back to the office for only two days a week."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce sin repetir lo que ya está dicho: usa so / not, one(s), auxiliares, to, do so o that / those.",
+      "en": "Translate without repetition: use so / not, one(s), auxiliaries, to, do so or that / those.",
+      "items": [
+        {
+          "q": "— ¿Vendrá Marta a la cena? — Creo que no.",
+          "a": "— Is Marta coming to the dinner? — I don't think so."
+        },
+        {
+          "q": "— ¿Hay algún problema? — Me temo que sí.",
+          "a": "— Is there a problem? — I'm afraid so."
+        },
+        {
+          "q": "Nunca he estado en Escocia, y mi mujer tampoco.",
+          "a": "I've never been to Scotland, and neither / nor has my wife."
+        },
+        {
+          "q": "No me gustan estos zapatos; prefiero los negros.",
+          "a": "I don't like these shoes; I prefer the black ones."
+        },
+        {
+          "q": "— ¿Te apetece venir? — Me encantaría, pero no puedo.",
+          "a": "— Would you like to come? — I'd love to, but I can't."
+        },
+        {
+          "q": "La tasa de paro de Andalucía es más alta que la de Aragón.",
+          "a": "The unemployment rate in Andalusia is higher than that in / of Aragon."
+        },
+        {
+          "q": "Los socios que deseen votar podrán hacerlo por correo.",
+          "a": "Members who wish to vote may do so by post."
+        },
+        {
+          "q": "Si es así, avísenos; si no, no hace falta que haga nada.",
+          "a": "If so, (please) let us know; if not, there is no need to do anything / you needn't do anything."
+        },
+        {
+          "q": "Dijo que lo terminaría a tiempo, y así lo hizo.",
+          "a": "She said she would finish it on time, and (so) she did."
+        },
+        {
+          "q": "— ¿Has terminado? — Todavía no, pero lo habré hecho para las cinco.",
+          "a": "— Have you finished? — Not yet, but I will have by five."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe respuestas y textos breves usando elipsis y sustitución. Evita repetir palabras.",
+      "en": "Write replies and short texts using ellipsis and substitution. Avoid repetition.",
+      "items": [
+        {
+          "q": "Responde sin repetir: «Do you think artificial intelligence will replace translators?»",
+          "lines": 1,
+          "a": "Ej.: I don't think so, or at least I hope not."
+        },
+        {
+          "q": "Escribe un aviso formal (2 frases) para clientes que quieran darse de baja. Usa <b>do so</b> e <b>if so</b>.",
+          "lines": 2,
+          "a": "Ej.: Those wishing to cancel may do so online. Already paid? If so, you will be refunded."
+        },
+        {
+          "q": "Compara dos ciudades o países usando <b>that of</b> y <b>those of</b>.",
+          "lines": 2,
+          "a": "Ej.: Lisbon's climate is milder than that of Oslo; its rents are lower than those of Paris."
+        },
+        {
+          "q": "Reacciona a «I've never read Proust» y a «I'd love to live abroad», primero coincidiendo y luego discrepando.",
+          "lines": 2,
+          "a": "Ej.: Neither have I. / I have. · So would I. / I wouldn't."
+        },
+        {
+          "q": "Escribe un diálogo de 4 líneas con <b>I'm afraid not</b>, <b>I'd love to</b>, <b>one / ones</b> y una respuesta corta con auxiliar.",
+          "lines": 3,
+          "a": "Ej.: — Have you booked? — No, we haven't. Any tables free? — I'm afraid not. Would you like to wait at the bar? — I'd love to. Are those stools free? — The ones on the left are."
+        },
+        {
+          "q": "Reescribe sin repeticiones: «The government promised to cut taxes, and the government did cut taxes, but the government cut taxes by less than it had promised to cut taxes.»",
+          "lines": 2,
+          "a": "Ej.: The government promised to cut taxes, and it did so, but by less than it had promised (to)."
+        },
+        {
+          "q": "Contesta con una frase elíptica natural: «Have you ever been tempted to give up English?» · «Would you mind reviewing my essay?»",
+          "lines": 2,
+          "a": "Ej.: I have, more than once! · Not at all — I'd be happy to."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Digo «creo que sí / espero que no» con <b>so / not</b>, nunca <s>I think yes</s> ni <s>I don't hope so</s>.",
+      "en": "I use so / not after think, hope, expect, be afraid…"
+    },
+    {
+      "es": "Uso <b>do so</b> en textos formales y <b>do it / that</b> o el auxiliar en la conversación.",
+      "en": "I use do so formally and do it / the auxiliary informally."
+    },
+    {
+      "es": "Sustituyo nombres contables con <b>one / ones</b> y, en registro formal, con <b>that of / those of</b>.",
+      "en": "I replace nouns with one / ones and that of / those of."
+    },
+    {
+      "es": "Al omitir el verbo mantengo el <b>auxiliar</b> o el <b>to</b>: <i>she didn't, I'd love to</i>.",
+      "en": "I keep the auxiliary or to when I drop the verb."
+    },
+    {
+      "es": "Reacciono con <b>So do I / Neither have I</b> respetando tiempo e inversión, y distingo <i>So I did!</i>",
+      "en": "I use so / neither + auxiliary + subject correctly."
+    },
+    {
+      "es": "Al leer textos complejos, reconstruyo qué recupera cada elipsis o sustituto.",
+      "en": "I can track what each ellipsis or substitute refers to."
+    }
+  ]
+}

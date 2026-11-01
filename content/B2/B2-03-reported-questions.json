@@ -1,0 +1,1455 @@
+{
+  "id": "B2-03",
+  "level": "B2",
+  "title": "PREGUNTAS <em>y</em> ÓRDENES",
+  "file_title": "Preguntas y órdenes indirectas",
+  "subtitle": "Reported questions & commands · estilo indirecto",
+  "icon": "📣",
+  "map": {
+    "center": "En estilo indirecto, las <b>preguntas</b> pierden la inversión y las <b>órdenes</b> van con <b>to + infinitivo</b>.",
+    "nodes": [
+      {
+        "title": "Preguntas Wh-",
+        "icon": "❓",
+        "items": [
+          "“Where <b>do you live</b>?”",
+          "→ She asked me where <b>I lived</b>.",
+          "Orden de afirmativa: sin do / did ni <b>?</b>"
+        ]
+      },
+      {
+        "title": "Preguntas sí / no",
+        "icon": "🤷",
+        "items": [
+          "“<b>Are</b> you ready?”",
+          "→ He asked <b>if / whether</b> I <b>was</b> ready.",
+          "if = whether = <i>si</i>"
+        ]
+      },
+      {
+        "title": "Órdenes",
+        "icon": "📢",
+        "art": "👮",
+        "items": [
+          "“Sit down.” → She <b>told me to</b> sit down.",
+          "“Don't shout.” → He told us <b>not to</b> shout.",
+          "Igual: <b>order, warn, remind</b> sb to"
+        ]
+      },
+      {
+        "title": "Peticiones",
+        "icon": "🙏",
+        "items": [
+          "“Can you help me?”",
+          "→ She <b>asked me to</b> help her.",
+          "ask + persona + <b>(not) to</b> + infinitivo"
+        ]
+      },
+      {
+        "title": "Reporting verbs",
+        "icon": "🗂️",
+        "rows": [
+          [
+            "offer / refuse / promise",
+            "+ to + inf."
+          ],
+          [
+            "advise / warn / remind",
+            "+ sb + to"
+          ],
+          [
+            "suggest / deny / admit",
+            "+ -ing"
+          ],
+          [
+            "apologise for",
+            "+ -ing"
+          ]
+        ]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "items": [
+          "Pregunta indirecta = <b>sin</b> signo <b>?</b>",
+          "<s>suggested me to</s> → suggested (that) I…",
+          "Sigue el <b>paso atrás</b> de tiempos."
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "She asked me where did I live."
+      ],
+      "good": [
+        "She asked me where I lived."
+      ],
+      "note": "Sin inversión y sin <b>did</b>."
+    },
+    "mini": {
+      "es": "Completa en estilo indirecto.",
+      "en": "Complete the reported sentences.",
+      "items": [
+        {
+          "q": "“Are you OK?” → He asked if I ___ OK.",
+          "a": "was"
+        },
+        {
+          "q": "“Where is it?” → She asked where it ___.",
+          "a": "was"
+        },
+        {
+          "q": "“Wait!” → He told me ___ wait.",
+          "a": "to"
+        },
+        {
+          "q": "“Don't be late.” → She told us ___ be late.",
+          "a": "not to"
+        },
+        {
+          "q": "He suggested ___ (take) a taxi.",
+          "a": "taking"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "En el mapa de ESTILO INDIRECTO aprendiste a contar <b>afirmaciones</b>. Aquí vamos a contar <mark>preguntas, órdenes, peticiones y consejos</mark>. El <b>paso atrás</b> de tiempos, pronombres y expresiones de tiempo sigue igual, pero hay tres novedades:<br>• las preguntas indirectas llevan <b>orden de frase afirmativa</b> (sin inversión, sin <i>do / does / did</i> y sin <i>?</i>);<br>• las órdenes y peticiones van con <b>to + infinitivo</b>;<br>• en lugar de <i>say</i> o <i>tell</i>, usamos <b>reporting verbs</b> más precisos (<i>advise, refuse, suggest…</i>).",
+      "en": "Reported questions use <b>statement word order</b>; commands and requests use <b>(not) to + infinitive</b>; <b>reporting verbs</b> summarise what people meant.",
+      "formula": [
+        "asked + (persona) + *wh- / if* + sujeto + verbo",
+        "told / asked + persona + *(not) to* + infinitivo"
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco: la pregunta desinflada",
+      "title_en": "Tip: the flat question",
+      "es": "Piensa que la pregunta indirecta es una <mark>pregunta desinflada</mark>: pierde el aire (<i>do, does, did</i>), pierde la forma (la inversión) y pierde el gorrito (<i>?</i>). Y para órdenes y peticiones, recuerda: <b>TO</b> = <b>TO</b>do lo que alguien te pide u ordena (told me <b>to</b>, asked me <b>to</b>).",
+      "en": "A reported question loses do / does / did, the inversion and the question mark. Commands and requests → <b>to</b>."
+    },
+    {
+      "t": "rule",
+      "title": "1 · Preguntas con Wh-",
+      "title_en": "Wh- questions",
+      "icon": "❓",
+      "color": "blue",
+      "es": "Repetimos la palabra interrogativa (<b>what, where, when, why, how, who…</b>) y después ponemos <mark>sujeto + verbo</mark>, como en una frase normal. Desaparecen <b>do / does / did</b> y el signo de interrogación, y el verbo da el paso atrás. Para introducirlas usamos <b>ask</b> (+ persona), <b>want to know</b> o <b>wonder</b>.",
+      "en": "Keep the question word, then <mark>subject + verb</mark>. No <i>do / does / did</i>, no question mark, and backshift the tense.",
+      "formula": [
+        "asked + (me) + *where* + sujeto + verbo"
+      ],
+      "examples": [
+        {
+          "en": "“Where <b>do you work</b>?” → She asked me where <b>I worked</b>.",
+          "es": "«¿Dónde trabajas?» → Me preguntó dónde trabajaba.",
+          "icon": "💼"
+        },
+        {
+          "en": "“What time <b>does the film start</b>?” → He asked what time <b>the film started</b>.",
+          "es": "«¿A qué hora empieza la peli?» → Preguntó a qué hora empezaba la peli.",
+          "icon": "🎬"
+        },
+        {
+          "en": "“Why <b>are you</b> crying?” → My dad asked me why <b>I was</b> crying.",
+          "es": "«¿Por qué lloras?» → Mi padre me preguntó por qué lloraba.",
+          "icon": "😢"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Preguntas de sí / no: if o whether",
+      "title_en": "Yes / no questions",
+      "icon": "🤷",
+      "color": "green",
+      "es": "Si la pregunta no tiene palabra interrogativa (se contesta con <i>yes / no</i>), añadimos <b>if</b> o <b>whether</b> (= <i>si</i>) y después <b>sujeto + verbo</b>. <b>Whether</b> es un poco más formal y es el preferido con <i>or not</i>: <i>She asked whether or not I was coming.</i> ¡Ojo! Este <i>if</i> no es el del condicional: aquí significa <i>si</i> en el sentido de <i>whether</i>.",
+      "en": "For yes / no questions, add <b>if</b> or <b>whether</b> + subject + verb. <b>Whether</b> is slightly more formal.",
+      "formula": [
+        "asked + (me) + *if / whether* + sujeto + verbo"
+      ],
+      "examples": [
+        {
+          "en": "“<b>Are you</b> hungry?” → She asked me <b>if I was</b> hungry.",
+          "es": "«¿Tienes hambre?» → Me preguntó si tenía hambre.",
+          "icon": "🍕"
+        },
+        {
+          "en": "“<b>Did you</b> lock the door?” → He wanted to know <b>whether I had locked</b> the door.",
+          "es": "«¿Cerraste con llave?» → Quería saber si había cerrado con llave.",
+          "icon": "🔐"
+        },
+        {
+          "en": "“<b>Can</b> I pay by card?” → The customer asked <b>if she could</b> pay by card.",
+          "es": "«¿Puedo pagar con tarjeta?» → La clienta preguntó si podía pagar con tarjeta.",
+          "icon": "💳"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Pregunta directa o indirecta",
+      "title_en": "Direct or reported question?",
+      "color": "blue",
+      "icon": "⚖️",
+      "es": "La gran diferencia es el <b>orden de las palabras</b>. En español apenas cambia (<i>¿Dónde vive? → Preguntó dónde vivía</i>), por eso los hispanohablantes arrastramos la inversión. En inglés, la pregunta indirecta <mark>ya no es una pregunta</mark>: es una afirmación y termina en punto.",
+      "en": "A reported question is not a question any more: statement word order and a full stop.",
+      "cols": [
+        {
+          "head": "❓ Directa · Direct",
+          "color": "orange",
+          "items": [
+            "“Where <b>does she live</b>?”",
+            "“What <b>are you</b> doing?”",
+            "“<b>Did you</b> enjoy it?”",
+            "“How much <b>is it</b>?”"
+          ]
+        },
+        {
+          "head": "📝 Indirecta · Reported",
+          "color": "green",
+          "items": [
+            "He asked where <b>she lived</b>.",
+            "She asked what <b>I was</b> doing.",
+            "They asked if <b>I had enjoyed</b> it.",
+            "I asked how much <b>it was</b>."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Preguntas de sujeto",
+      "title_en": "Subject questions",
+      "icon": "🕵️",
+      "color": "teal",
+      "es": "Cuando <b>who</b> o <b>what</b> es el <b>sujeto</b> de la pregunta, la pregunta directa ya no tiene inversión (<i>Who called?</i>), así que en indirecto <mark>el orden es el mismo</mark>: solo hay que dar el paso atrás. ¡No metas un sujeto extra!",
+      "en": "If <b>who / what</b> is the subject, the word order stays the same: just backshift the verb.",
+      "examples": [
+        {
+          "en": "“Who <b>called</b>?” → She asked who <b>had called</b>.",
+          "es": "«¿Quién ha llamado?» → Preguntó quién había llamado.",
+          "icon": "📞"
+        },
+        {
+          "en": "“What <b>happened</b>?” → The police officer asked what <b>had happened</b>.",
+          "es": "«¿Qué ha pasado?» → El policía preguntó qué había pasado.",
+          "icon": "🚓"
+        },
+        {
+          "en": "“Who <b>wants</b> more cake?” → Grandma asked who <b>wanted</b> more cake.",
+          "es": "«¿Quién quiere más tarta?» → La abuela preguntó quién quería más tarta.",
+          "icon": "🍰"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Órdenes: tell + persona + (not) to",
+      "title_en": "Commands",
+      "icon": "📢",
+      "color": "red",
+      "es": "Para contar una <b>orden</b> o una <b>instrucción</b> usamos <b>tell</b> + persona + <b>to</b> + infinitivo. Si la orden es negativa, <mark><b>not</b> va delante de <b>to</b></mark>. En español usamos el subjuntivo (<i>me dijo que me sentara</i>), pero en inglés <b>nunca</b> se dice <s>told me that I sit</s>. Mismo patrón: <b>order, instruct, remind, warn</b>.",
+      "en": "Commands: <b>tell + person + (not) to + infinitive</b>. <i>Not</i> goes before <i>to</i>.",
+      "formula": [
+        "*told* + persona + *(not) to* + infinitivo"
+      ],
+      "examples": [
+        {
+          "en": "“Sit down, please.” → The teacher <b>told us to sit</b> down.",
+          "es": "«Sentaos, por favor». → El profesor nos dijo que nos sentáramos.",
+          "icon": "🪑"
+        },
+        {
+          "en": "“Don't use your phone.” → My boss <b>told me not to use</b> my phone.",
+          "es": "«No uses el móvil». → Mi jefe me dijo que no usara el móvil.",
+          "icon": "📵"
+        },
+        {
+          "en": "“Remember to buy milk.” → Mum <b>reminded me to buy</b> milk.",
+          "es": "«Acuérdate de comprar leche». → Mamá me recordó que comprara leche.",
+          "icon": "🥛"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Peticiones: ask + persona + (not) to",
+      "title_en": "Requests",
+      "icon": "🙏",
+      "color": "orange",
+      "es": "Las <b>peticiones</b> (<i>Can you…? Could you…? Would you mind…? …, please</i>) se cuentan con <b>ask</b> + persona + <b>(not) to</b> + infinitivo. Aunque la frase directa tenga forma de pregunta, en indirecto <mark>ya no es una pregunta</mark>: es un favor que alguien pidió. Compara: <i>She asked me <b>if I could</b> swim</i> (pregunta sobre capacidad) / <i>She asked me <b>to</b> swim</i> (petición).",
+      "en": "Requests: <b>ask + person + (not) to + infinitive</b>, even if the original was a question.",
+      "formula": [
+        "*asked* + persona + *(not) to* + infinitivo"
+      ],
+      "examples": [
+        {
+          "en": "“Can you send me the file?” → My colleague <b>asked me to send</b> him the file.",
+          "es": "«¿Me mandas el archivo?» → Mi compañero me pidió que le mandara el archivo.",
+          "icon": "📁"
+        },
+        {
+          "en": "“Could you not make so much noise?” → Our neighbour <b>asked us not to make</b> so much noise.",
+          "es": "«¿Podríais no hacer tanto ruido?» → El vecino nos pidió que no hiciéramos tanto ruido.",
+          "icon": "🔊"
+        },
+        {
+          "en": "“Please call me back.” → She <b>asked me to call</b> her back.",
+          "es": "«Llámame, por favor». → Me pidió que la llamara.",
+          "icon": "☎️"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Resumen: preguntas, órdenes y peticiones",
+      "title_en": "Summary",
+      "icon": "🧩",
+      "color": "purple",
+      "wide": true,
+      "head": [
+        "Tipo · Type",
+        "Directo · Direct",
+        "Indirecto · Reported",
+        "Clave · Key"
+      ],
+      "rows": [
+        [
+          "Wh- con <i>be</i>",
+          "“Where <b>is</b> the station?”",
+          "He asked where the station <b>was</b>.",
+          "sujeto + was"
+        ],
+        [
+          "Wh- con <i>do / does</i>",
+          "“What <b>do</b> you <b>want</b>?”",
+          "She asked me what I <b>wanted</b>.",
+          "sin do"
+        ],
+        [
+          "Wh- con <i>did</i>",
+          "“When <b>did</b> you <b>arrive</b>?”",
+          "They asked when I <b>had arrived</b>.",
+          "sin did → past perfect"
+        ],
+        [
+          "Wh- de sujeto",
+          "“Who <b>broke</b> the window?”",
+          "The teacher asked who <b>had broken</b> the window.",
+          "who = sujeto → mismo orden"
+        ],
+        [
+          "Sí / no",
+          "“<b>Have</b> you <b>finished</b>?”",
+          "He asked <b>if</b> I <b>had finished</b>.",
+          "if / whether"
+        ],
+        [
+          "Sí / no con modal",
+          "“<b>Will</b> you <b>help</b> me?”",
+          "She asked <b>whether</b> I <b>would help</b> her.",
+          "will → would"
+        ],
+        [
+          "Orden",
+          "“<b>Close</b> the door.”",
+          "He <b>told me to close</b> the door.",
+          "tell + sb + to"
+        ],
+        [
+          "Orden negativa",
+          "“<b>Don't touch</b> it.”",
+          "She <b>told us not to touch</b> it.",
+          "not to"
+        ],
+        [
+          "Petición",
+          "“<b>Could you</b> open the window?”",
+          "He <b>asked me to open</b> the window.",
+          "ask + sb + to"
+        ]
+      ],
+      "note": "En órdenes y peticiones <mark>no hay paso atrás</mark>: el infinitivo con <b>to</b> no tiene tiempo. Lo que sí cambian son los pronombres y las expresiones de tiempo.",
+      "note_en": "No backshift with to + infinitive; pronouns and time words still change."
+    },
+    {
+      "t": "table",
+      "title": "Reporting verbs: los patrones",
+      "title_en": "Reporting verb patterns",
+      "icon": "🗂️",
+      "color": "pink",
+      "wide": true,
+      "head": [
+        "Patrón · Pattern",
+        "Verbos · Verbs",
+        "Directo · Direct",
+        "Indirecto · Reported"
+      ],
+      "rows": [
+        [
+          "verbo + <b>to</b> + infinitivo",
+          "agree, offer, promise, refuse, threaten",
+          "“I'll carry your bag.”",
+          "He <b>offered to carry</b> my bag."
+        ],
+        [
+          "verbo + persona + <b>to</b> + inf.",
+          "advise, ask, encourage, invite, order, persuade, remind, tell, warn",
+          "“You should rest.”",
+          "The doctor <b>advised me to rest</b>."
+        ],
+        [
+          "verbo + <b>-ing</b>",
+          "admit, deny, recommend, suggest",
+          "“Let's go by train.”",
+          "She <b>suggested going</b> by train."
+        ],
+        [
+          "verbo + preposición + <b>-ing</b>",
+          "apologise for, insist on, complain about",
+          "“I'm sorry I'm late.”",
+          "He <b>apologised for being</b> late."
+        ],
+        [
+          "verbo + persona + prep. + <b>-ing</b>",
+          "accuse sb of, blame sb for, congratulate sb on, thank sb for",
+          "“You stole my idea!”",
+          "She <b>accused him of stealing</b> her idea."
+        ],
+        [
+          "verbo + <b>that</b> + oración",
+          "admit, agree, complain, explain, promise, suggest",
+          "“The printer's broken.”",
+          "He <b>explained that</b> the printer was broken."
+        ]
+      ],
+      "note": "Los reporting verbs <mark>resumen la intención</mark> del hablante, así que no hace falta copiar todas sus palabras: <i>“OK, OK, I'll do it.”</i> → <i>He <b>agreed to do</b> it.</i>",
+      "note_en": "Reporting verbs summarise the speaker's intention."
+    },
+    {
+      "t": "vocab",
+      "title": "Reporting verbs útiles",
+      "title_en": "Useful reporting verbs",
+      "icon": "📚",
+      "color": "green",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "advise sb to",
+          "es": "aconsejar",
+          "icon": "💡"
+        },
+        {
+          "en": "warn sb (not) to",
+          "es": "advertir",
+          "icon": "⚠️"
+        },
+        {
+          "en": "remind sb to",
+          "es": "recordar (a alguien)",
+          "icon": "📌"
+        },
+        {
+          "en": "invite sb to",
+          "es": "invitar",
+          "icon": "💌"
+        },
+        {
+          "en": "offer to",
+          "es": "ofrecerse a",
+          "icon": "🤝"
+        },
+        {
+          "en": "refuse to",
+          "es": "negarse a",
+          "icon": "🙅"
+        },
+        {
+          "en": "promise to",
+          "es": "prometer",
+          "icon": "🤞"
+        },
+        {
+          "en": "agree to",
+          "es": "aceptar, acceder a",
+          "icon": "👍"
+        },
+        {
+          "en": "threaten to",
+          "es": "amenazar con",
+          "icon": "😠"
+        },
+        {
+          "en": "suggest + -ing",
+          "es": "proponer, sugerir",
+          "icon": "💭"
+        },
+        {
+          "en": "admit + -ing",
+          "es": "admitir",
+          "icon": "😳"
+        },
+        {
+          "en": "deny + -ing",
+          "es": "negar",
+          "icon": "🙄"
+        },
+        {
+          "en": "apologise for",
+          "es": "pedir perdón por",
+          "icon": "🙇"
+        },
+        {
+          "en": "insist on",
+          "es": "insistir en",
+          "icon": "☝️"
+        },
+        {
+          "en": "accuse sb of",
+          "es": "acusar de",
+          "icon": "👉"
+        },
+        {
+          "en": "encourage sb to",
+          "es": "animar a",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · SUGGEST, el verbo trampa",
+      "title_en": "Suggest: the tricky verb",
+      "icon": "⚠️",
+      "color": "yellow",
+      "es": "<b>Suggest</b> es el reporting verb que más falla a los hispanohablantes, porque en español decimos <i>me sugirió que fuera</i>. En inglés <mark>nunca va con persona + to</mark>: <s>He suggested me to go</s>. Hay dos opciones: <b>suggest + -ing</b> (sobre todo cuando incluye al que habla) o <b>suggest (that) + sujeto + (should) + infinitivo</b>. Con <b>recommend</b> pasa algo parecido: <i>recommend + -ing</i> o <i>recommend (that)…</i>",
+      "en": "<b>suggest</b> + -ing / suggest (that) + subject + (should) + infinitive. Never <s>suggest sb to</s>.",
+      "formula": [
+        "*suggested* + -ing",
+        "*suggested (that)* + sujeto + (should) + infinitivo"
+      ],
+      "examples": [
+        {
+          "en": "“Let's eat out tonight.” → Ana <b>suggested eating</b> out that night.",
+          "es": "«Cenemos fuera esta noche». → Ana propuso cenar fuera esa noche.",
+          "icon": "🍽️"
+        },
+        {
+          "en": "“Why don't you take a break?” → He <b>suggested (that) I (should) take</b> a break.",
+          "es": "«¿Por qué no te tomas un descanso?» → Me sugirió que me tomara un descanso.",
+          "icon": "☕"
+        },
+        {
+          "en": "“You should book early.” → The guide <b>recommended booking</b> early.",
+          "es": "«Deberíais reservar pronto». → El guía recomendó reservar pronto.",
+          "icon": "🗓️"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "“Have you ever been to Japan?” → She asked me if I had ever been to Japan.",
+          "es": "Me preguntó si había estado alguna vez en Japón.",
+          "icon": "🗾"
+        },
+        {
+          "en": "“How long have you lived here?” → The new neighbour asked how long we had lived there.",
+          "es": "La nueva vecina preguntó cuánto tiempo llevábamos viviendo allí.",
+          "icon": "🏡"
+        },
+        {
+          "en": "“Where can I park?” → The driver wanted to know where he could park.",
+          "es": "El conductor quería saber dónde podía aparcar.",
+          "icon": "🅿️"
+        },
+        {
+          "en": "“Is breakfast included?” → I asked whether breakfast was included.",
+          "es": "Pregunté si el desayuno estaba incluido.",
+          "icon": "🥐"
+        },
+        {
+          "en": "“What are you going to do after university?” → My grandad asked me what I was going to do after university.",
+          "es": "Mi abuelo me preguntó qué iba a hacer después de la universidad.",
+          "icon": "🎓"
+        },
+        {
+          "en": "“Fasten your seatbelts.” → The pilot told the passengers to fasten their seatbelts.",
+          "es": "El piloto les dijo a los pasajeros que se abrocharan el cinturón.",
+          "icon": "✈️"
+        },
+        {
+          "en": "“Please don't tell anyone.” → Lucía asked me not to tell anyone.",
+          "es": "Lucía me pidió que no se lo contara a nadie.",
+          "icon": "🤫"
+        },
+        {
+          "en": "“I'll help you with your CV.” → My sister offered to help me with my CV.",
+          "es": "Mi hermana se ofreció a ayudarme con el currículum.",
+          "icon": "📄"
+        },
+        {
+          "en": "“No, I won't apologise!” → He refused to apologise.",
+          "es": "Se negó a pedir perdón.",
+          "icon": "🙅"
+        },
+        {
+          "en": "“Don't touch the cables!” → The electrician warned us not to touch the cables.",
+          "es": "El electricista nos advirtió que no tocáramos los cables.",
+          "icon": "⚡"
+        },
+        {
+          "en": "“I didn't take the money.” → She denied taking the money.",
+          "es": "Negó haber cogido el dinero.",
+          "icon": "💰"
+        },
+        {
+          "en": "“Congratulations on passing your exam!” → They congratulated me on passing my exam.",
+          "es": "Me felicitaron por aprobar el examen.",
+          "icon": "🎉"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "She asked me where did I live.",
+          "good": "She asked me where <b>I lived</b>.",
+          "why": "Pregunta indirecta = orden de afirmativa: sin <i>did</i> y sin inversión.",
+          "why_en": "No did, no inversion."
+        },
+        {
+          "bad": "He asked me what was my name.",
+          "good": "He asked me what <b>my name was</b>.",
+          "why": "Sujeto (<i>my name</i>) + verbo (<i>was</i>), como en una afirmación.",
+          "why_en": "Subject before verb."
+        },
+        {
+          "bad": "She asked me if I was hungry?",
+          "good": "She asked me if I was hungry<b>.</b>",
+          "why": "Ya no es una pregunta: termina en punto.",
+          "why_en": "Full stop, not a question mark."
+        },
+        {
+          "bad": "He asked me do I want a coffee.",
+          "good": "He asked me <b>if I wanted</b> a coffee.",
+          "why": "Sí / no → <b>if / whether</b> + sujeto + verbo (con paso atrás).",
+          "why_en": "Yes / no → if / whether + subject + verb."
+        },
+        {
+          "bad": "She told me that I sit down.",
+          "good": "She told me <b>to sit</b> down.",
+          "why": "Órdenes → <b>tell + persona + to</b> + infinitivo, no el subjuntivo del español.",
+          "why_en": "Commands → tell sb to."
+        },
+        {
+          "bad": "He told us to not shout.",
+          "good": "He told us <b>not to</b> shout.",
+          "why": "<b>not</b> va delante de <b>to</b>.",
+          "why_en": "not before to."
+        },
+        {
+          "bad": "My friend suggested me to take the train.",
+          "good": "My friend suggested <b>taking</b> the train. / …suggested <b>(that) I take</b> the train.",
+          "why": "<b>suggest</b> nunca lleva persona + to.",
+          "why_en": "Never suggest sb to."
+        },
+        {
+          "bad": "She said me to wait.",
+          "good": "She <b>told</b> me to wait.",
+          "why": "Órdenes: <b>tell / ask</b> + persona + to. <i>Say</i> no lleva persona.",
+          "why_en": "tell / ask sb to, not say sb to."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "¿Qué es: <b>pregunta</b>, <b>orden</b>, <b>petición</b>, <b>consejo</b>, <b>oferta</b>…?",
+          "en": "What is it: a question, a command, a request, advice…?"
+        },
+        {
+          "es": "Wh- → <b>asked (me) + wh-</b> + sujeto + verbo. Sí / no → <b>asked (me) + if / whether</b> + sujeto + verbo.",
+          "en": "Wh- → asked + wh- + subject + verb; yes / no → if / whether."
+        },
+        {
+          "es": "En preguntas: quita <b>do / does / did</b>, da el <b>paso atrás</b> y termina con punto.",
+          "en": "Remove do / does / did, backshift, full stop."
+        },
+        {
+          "es": "Orden → <b>told + persona + (not) to</b>. Petición → <b>asked + persona + (not) to</b>.",
+          "en": "Command → told sb (not) to; request → asked sb (not) to."
+        },
+        {
+          "es": "¿Hay un verbo más preciso? → <b>offered, refused, advised, suggested…</b> con su patrón (to, sb + to, -ing).",
+          "en": "Choose a precise reporting verb and its pattern."
+        },
+        {
+          "es": "Revisa pronombres y expresiones de tiempo (<i>tomorrow → the next day</i>).",
+          "en": "Check pronouns and time words."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "La entrevista de trabajo",
+      "title_en": "The job interview",
+      "lines": [
+        {
+          "who": "Lucas",
+          "en": "How was the interview? What did they ask you?",
+          "es": "¿Qué tal la entrevista? ¿Qué te preguntaron?"
+        },
+        {
+          "who": "Irene",
+          "en": "First they asked me why I wanted to work for them.",
+          "es": "Primero me preguntaron por qué quería trabajar con ellos."
+        },
+        {
+          "who": "Lucas",
+          "en": "Classic! Did they ask if you spoke other languages?",
+          "es": "¡Clásico! ¿Te preguntaron si hablabas otros idiomas?"
+        },
+        {
+          "who": "Irene",
+          "en": "Yes, and they wanted to know whether I had ever lived abroad.",
+          "es": "Sí, y querían saber si había vivido alguna vez en el extranjero."
+        },
+        {
+          "who": "Lucas",
+          "en": "What else?",
+          "es": "¿Y qué más?"
+        },
+        {
+          "who": "Irene",
+          "en": "The manager asked me to describe a difficult situation at work. Then she told me to wait outside for a few minutes.",
+          "es": "La jefa me pidió que describiera una situación difícil en el trabajo. Luego me dijo que esperara fuera unos minutos."
+        },
+        {
+          "who": "Lucas",
+          "en": "That sounds promising!",
+          "es": "¡Eso suena prometedor!"
+        },
+        {
+          "who": "Irene",
+          "en": "It was! When I came back in, she offered to show me the office and invited me to come back on Monday.",
+          "es": "¡Lo fue! Cuando volví a entrar, se ofreció a enseñarme la oficina y me invitó a volver el lunes."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Rodea la opción correcta",
+      "title_en": "Circle the correct option",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta. Piensa: ¿pregunta, orden o reporting verb?",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "She asked me where [I lived|did I live].",
+          "a": "I lived"
+        },
+        {
+          "q": "He asked [if|that] I was ready.",
+          "a": "if"
+        },
+        {
+          "q": "They wanted to know what time [the train left|did the train leave].",
+          "a": "the train left"
+        },
+        {
+          "q": "The teacher told us [to be|be] quiet.",
+          "a": "to be"
+        },
+        {
+          "q": "My mum told me [not to|to not] stay out late.",
+          "a": "not to"
+        },
+        {
+          "q": "I asked her [whether|what] she had enjoyed the concert.",
+          "a": "whether"
+        },
+        {
+          "q": "He asked me [to help|that I help] him with his luggage.",
+          "a": "to help"
+        },
+        {
+          "q": "She suggested [going|to go] to the cinema.",
+          "a": "going"
+        },
+        {
+          "q": "They asked us how long [we had been|had we been] waiting.",
+          "a": "we had been"
+        },
+        {
+          "q": "He refused [to answer|answering] the question.",
+          "a": "to answer"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "¿Qué verbo lo resume?",
+      "title_en": "Which verb sums it up?",
+      "icon": "🔗",
+      "es": "Une lo que dijo Martin con la frase que lo resume.",
+      "en": "Match what Martin said with the reported version.",
+      "pairs": [
+        [
+          "“I'll carry that bag for you.”",
+          "He offered to carry the bag."
+        ],
+        [
+          "“No, I won't sign it.”",
+          "He refused to sign it."
+        ],
+        [
+          "“I'll definitely call you, I promise.”",
+          "He promised to call."
+        ],
+        [
+          "“If I were you, I'd see a doctor.”",
+          "He advised me to see a doctor."
+        ],
+        [
+          "“Don't forget to lock the door.”",
+          "He reminded me to lock the door."
+        ],
+        [
+          "“Be careful, the floor is wet!”",
+          "He warned me that the floor was wet."
+        ],
+        [
+          "“Let's go for a walk.”",
+          "He suggested going for a walk."
+        ],
+        [
+          "“I'm sorry I broke your glasses.”",
+          "He apologised for breaking my glasses."
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Qué patrón sigue?",
+      "title_en": "Which pattern?",
+      "icon": "🗂️",
+      "wide": true,
+      "es": "Escribe cada reporting verb en la caja de su patrón.",
+      "en": "Sort the reporting verbs by pattern.",
+      "cats": [
+        {
+          "name": "+ to + infinitivo",
+          "words": [
+            "agree",
+            "offer",
+            "refuse",
+            "promise"
+          ]
+        },
+        {
+          "name": "+ persona + to",
+          "words": [
+            "remind",
+            "warn",
+            "persuade",
+            "encourage"
+          ]
+        },
+        {
+          "name": "+ -ing",
+          "words": [
+            "suggest",
+            "deny",
+            "admit"
+          ]
+        },
+        {
+          "name": "+ preposición + -ing",
+          "words": [
+            "apologise for",
+            "insist on",
+            "accuse sb of",
+            "thank sb for"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Completa la pregunta indirecta",
+      "title_en": "Complete the reported question",
+      "icon": "✏️",
+      "es": "Completa con la forma correcta del verbo (o con if / whether). Recuerda el paso atrás.",
+      "en": "Complete the reported questions.",
+      "items": [
+        {
+          "q": "“Where's the bank?” → He asked me where the bank ___.",
+          "a": "was"
+        },
+        {
+          "q": "“What do you do?” → She asked me what I ___.",
+          "a": "did"
+        },
+        {
+          "q": "“Have you finished?” → He asked ___ I had finished.",
+          "a": [
+            "if",
+            "whether"
+          ]
+        },
+        {
+          "q": "“Where did you buy it?” → She asked me where I ____ it.",
+          "a": "had bought"
+        },
+        {
+          "q": "“Can you swim?” → The instructor asked me if I ___ swim.",
+          "a": "could"
+        },
+        {
+          "q": "“Who is that man?” → I asked who that man ___.",
+          "a": "was"
+        },
+        {
+          "q": "“Will it rain?” → They wondered whether it ___ rain.",
+          "a": "would"
+        },
+        {
+          "q": "“Why are you laughing?” → She asked us why we ____.",
+          "a": "were laughing"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Preguntas con Wh-",
+      "title_en": "Report the wh- questions",
+      "icon": "❓",
+      "es": "Pasa la pregunta a estilo indirecto. Empieza con las palabras dadas. ¡Sin inversión y sin interrogación!",
+      "en": "Report the questions.",
+      "items": [
+        {
+          "q": "“Where do you live?” → She asked me…",
+          "a": "She asked me where I lived."
+        },
+        {
+          "q": "“What are you doing?” → He asked me…",
+          "a": "He asked me what I was doing."
+        },
+        {
+          "q": "“Why did you leave your job?” → The interviewer asked me…",
+          "a": "The interviewer asked me why I had left my job."
+        },
+        {
+          "q": "“How much does this jacket cost?” → I asked the shop assistant…",
+          "a": "I asked the shop assistant how much that (the) jacket cost."
+        },
+        {
+          "q": "“When will the results be ready?” → The students wanted to know…",
+          "a": "The students wanted to know when the results would be ready."
+        },
+        {
+          "q": "“Who has eaten my sandwich?” → Tom asked…",
+          "a": "Tom asked who had eaten his sandwich."
+        },
+        {
+          "q": "“Where can we buy tickets?” → The tourists asked…",
+          "a": "The tourists asked where they could buy tickets."
+        },
+        {
+          "q": "“How long have you been learning English?” → My new teacher asked me…",
+          "a": "My new teacher asked me how long I had been learning English."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Preguntas de sí / no",
+      "title_en": "Report the yes / no questions",
+      "icon": "🤷",
+      "es": "Usa if o whether. Cambia tiempos, pronombres y expresiones de tiempo.",
+      "en": "Use if or whether.",
+      "items": [
+        {
+          "q": "“Are you coming to the party?” → Laura asked me…",
+          "a": "Laura asked me if (whether) I was coming to the party."
+        },
+        {
+          "q": "“Do you like sushi?” → He asked her…",
+          "a": "He asked her if (whether) she liked sushi."
+        },
+        {
+          "q": "“Have you seen my keys?” → Dad asked us…",
+          "a": "Dad asked us if (whether) we had seen his keys."
+        },
+        {
+          "q": "“Did you pass the exam?” → My aunt asked me…",
+          "a": "My aunt asked me if (whether) I had passed the exam."
+        },
+        {
+          "q": "“Can I borrow your charger?” → Leo asked me…",
+          "a": "Leo asked me if (whether) he could borrow my charger."
+        },
+        {
+          "q": "“Will you be at home tomorrow?” → The courier asked me…",
+          "a": "The courier asked me if (whether) I would be at home the next (following) day."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Órdenes y peticiones",
+      "title_en": "Commands and requests",
+      "icon": "📢",
+      "es": "Usa told o asked + persona + (not) to + infinitivo.",
+      "en": "Use told / asked + person + (not) to.",
+      "items": [
+        {
+          "q": "“Turn off your phones,” the teacher said to us.",
+          "a": "The teacher told us to turn off our phones."
+        },
+        {
+          "q": "“Don't be late,” my boss said to me.",
+          "a": "My boss told me not to be late."
+        },
+        {
+          "q": "“Can you lend me ten euros?” Ana said to me.",
+          "a": "Ana asked me to lend her ten euros."
+        },
+        {
+          "q": "“Please don't park here,” the man said to us.",
+          "a": "The man asked us not to park there."
+        },
+        {
+          "q": "“Open your books at page 20,” the teacher said to the class.",
+          "a": "The teacher told the class to open their books at page 20."
+        },
+        {
+          "q": "“Could you speak more slowly?” I said to the guide.",
+          "a": "I asked the guide to speak more slowly."
+        },
+        {
+          "q": "“Don't touch anything!” the police officer said to the reporters.",
+          "a": "The police officer told the reporters not to touch anything."
+        },
+        {
+          "q": "“Would you mind closing the window?” she said to me.",
+          "a": "She asked me to close the window."
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras. Recuerda: las preguntas indirectas terminan en punto.",
+      "en": "Put the words in order.",
+      "items": [
+        {
+          "q": "asked / she / where / me / lived / I",
+          "a": "She asked me where I lived."
+        },
+        {
+          "q": "he / if / was / I / asked / ready",
+          "a": "He asked if I was ready."
+        },
+        {
+          "q": "told / the / us / to / doctor / rest",
+          "a": "The doctor told us to rest."
+        },
+        {
+          "q": "not / me / she / to / asked / worry",
+          "a": "She asked me not to worry."
+        },
+        {
+          "q": "know / they / wanted / to / what / time / the / film / started",
+          "a": "They wanted to know what time the film started."
+        },
+        {
+          "q": "whether / wondered / I / they / had / arrived / safely",
+          "a": "I wondered whether they had arrived safely."
+        },
+        {
+          "q": "suggested / a / we / she / taxi / that / take",
+          "a": "She suggested that we take a taxi."
+        },
+        {
+          "q": "apologised / he / late / for / being",
+          "a": "He apologised for being late."
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Elige el reporting verb",
+      "title_en": "Choose the reporting verb",
+      "icon": "📋",
+      "wide": true,
+      "es": "Completa la tabla: escribe el reporting verb o la frase en estilo indirecto.",
+      "en": "Complete the table with the reporting verb or the reported sentence.",
+      "head": [
+        "Directo · Direct",
+        "Reporting verb",
+        "Indirecto · Reported"
+      ],
+      "rows": [
+        [
+          "She: “I'll drive you home.”",
+          "offer",
+          "?She offered to drive me home."
+        ],
+        [
+          "He: “I won't lend you my car.”",
+          "?refuse",
+          "He refused to lend me his car."
+        ],
+        [
+          "She: “You should drink more water.”",
+          "advise",
+          "?She advised me to drink more water."
+        ],
+        [
+          "Mum: “Don't forget your passport.”",
+          "?remind",
+          "Mum reminded me to take my passport."
+        ],
+        [
+          "She: “Why don't we go to the beach?”",
+          "suggest",
+          "?She suggested going to the beach."
+        ],
+        [
+          "He: “I'm sorry I lied.”",
+          "?apologise",
+          "He apologised for lying."
+        ],
+        [
+          "He: “OK, I'll do the shopping.”",
+          "agree",
+          "?He agreed to do the shopping."
+        ],
+        [
+          "She: “I didn't cheat in the exam.”",
+          "?deny",
+          "She denied cheating in the exam."
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Reporting verbs en acción",
+      "title_en": "Reporting verbs in action",
+      "icon": "🗂️",
+      "es": "Completa con un verbo del recuadro en la forma correcta y con el patrón adecuado (to, persona + to, -ing…).",
+      "en": "Complete with a verb from the box and the right pattern.",
+      "bank": [
+        "offer",
+        "refuse",
+        "remind",
+        "warn",
+        "suggest",
+        "apologise",
+        "deny",
+        "promise",
+        "invite",
+        "advise"
+      ],
+      "items": [
+        {
+          "q": "“Shall I help you with the dishes?” → He _____ me with the dishes.",
+          "a": "offered to help"
+        },
+        {
+          "q": "“I won't pay for it!” → She _____ for it.",
+          "a": "refused to pay"
+        },
+        {
+          "q": "“Don't forget to send the email.” → My boss _____ the email.",
+          "a": "reminded me to send"
+        },
+        {
+          "q": "“Don't swim here, it's dangerous.” → The lifeguard _____ there.",
+          "a": "warned us not to swim"
+        },
+        {
+          "q": "“Let's order a pizza.” → Leo _____ a pizza.",
+          "a": "suggested ordering"
+        },
+        {
+          "q": "“I'm sorry I forgot your birthday.” → My friend _____ my birthday.",
+          "a": "apologised for forgetting"
+        },
+        {
+          "q": "“I didn't break the vase.” → My brother _____ the vase.",
+          "a": "denied breaking"
+        },
+        {
+          "q": "“I'll be home by ten, I promise.” → My son _____ home by ten.",
+          "a": "promised to be"
+        },
+        {
+          "q": "“Would you like to come to our wedding?” → They _____ to their wedding.",
+          "a": "invited us to come"
+        },
+        {
+          "q": "“You should save some money.” → My dad _____ some money.",
+          "a": "advised me to save"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "She asked me where was the station.",
+          "a": "She asked me where the station was."
+        },
+        {
+          "q": "He asked me did I want a drink.",
+          "a": "He asked me if (whether) I wanted a drink."
+        },
+        {
+          "q": "They asked us what were we doing.",
+          "a": "They asked us what we were doing."
+        },
+        {
+          "q": "The teacher told us that we be quiet.",
+          "a": "The teacher told us to be quiet."
+        },
+        {
+          "q": "My mum told me to not eat so much sugar.",
+          "a": "My mum told me not to eat so much sugar."
+        },
+        {
+          "q": "He suggested me to apply for the job.",
+          "a": "He suggested (that) I (should) apply for the job. / He suggested applying for the job."
+        },
+        {
+          "q": "She said me to wait outside.",
+          "a": "She told (asked) me to wait outside."
+        },
+        {
+          "q": "He apologised for be late.",
+          "a": "He apologised for being late."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones con palabra clave",
+      "title_en": "Key word transformations (B2 First)",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave 🔑 sin cambiarla y escribe entre 2 y 5 palabras (incluida la palabra clave).",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word unchanged and 2–5 words.",
+      "items": [
+        {
+          "q": "“Where is the nearest chemist's?” the tourist asked me. 🔑 <b>WHERE</b><br>The tourist asked me _____ chemist's was.",
+          "a": "where the nearest"
+        },
+        {
+          "q": "“Do you eat meat?” the waiter asked us. 🔑 <b>IF</b><br>The waiter wanted to know _____ meat.",
+          "a": "if we ate (eat)"
+        },
+        {
+          "q": "“Please don't tell Mum,” my brother said to me. 🔑 <b>ASKED</b><br>My brother _____ tell Mum.",
+          "a": "asked me not to"
+        },
+        {
+          "q": "“Stand up!” the officer said to the soldiers. 🔑 <b>ORDERED</b><br>The officer _____ up.",
+          "a": "ordered the soldiers to stand"
+        },
+        {
+          "q": "“Why don't we have a break?” said Lena. 🔑 <b>HAVING</b><br>Lena _____ a break.",
+          "a": "suggested having"
+        },
+        {
+          "q": "“No, I won't help you,” said Max. 🔑 <b>REFUSED</b><br>Max _____ me.",
+          "a": "refused to help"
+        },
+        {
+          "q": "“I'm sorry I didn't call you,” Julia said to me. 🔑 <b>FOR</b><br>Julia apologised _____ me.",
+          "a": "for not calling"
+        },
+        {
+          "q": "“Don't forget to water the plants,” Mum said to me. 🔑 <b>REMINDED</b><br>Mum _____ the plants.",
+          "a": "reminded me to water"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Ojo con el subjuntivo español: <i>me dijo que <b>esperara</b></i> → <b>told me to wait</b>.",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Ella me preguntó dónde vivía.",
+          "a": "She asked me where I lived."
+        },
+        {
+          "q": "Mi jefe quería saber si había terminado el informe.",
+          "a": "My boss wanted to know if (whether) I had finished the report."
+        },
+        {
+          "q": "El médico me dijo que no comiera tanta sal.",
+          "a": "The doctor told me not to eat so much salt."
+        },
+        {
+          "q": "Les pedí que me ayudaran con la mudanza.",
+          "a": "I asked them to help me with the move."
+        },
+        {
+          "q": "Nos preguntaron cuánto tiempo íbamos a quedarnos.",
+          "a": "They asked us how long we were going to stay."
+        },
+        {
+          "q": "Ella se ofreció a llevarme al aeropuerto.",
+          "a": "She offered to take (drive) me to the airport."
+        },
+        {
+          "q": "Mi amigo propuso ir al concierto.",
+          "a": [
+            "My friend suggested going to the concert.",
+            "My friend suggested (that) we (should) go to the concert."
+          ]
+        },
+        {
+          "q": "Él me advirtió que no tocara el perro.",
+          "a": "He warned me not to touch the dog."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el blog de Clara. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read Clara's blog. Tick T or F and answer the questions.",
+      "text_title": "Clara's travel blog: passport control",
+      "text": [
+        "When I landed in Toronto last summer, the officer at passport control was very serious. First, she asked me where I had flown from and how long I was planning to stay in Canada. I told her I was staying for three weeks.",
+        "Then she wanted to know whether I was travelling alone and if I had a return ticket. I said I was visiting my cousin. She asked me what my cousin did for a living, and I explained that he was a nurse in a hospital downtown.",
+        "Finally, she asked me to look at the camera and told me not to move. After a few seconds, she smiled, stamped my passport and told me to enjoy my stay. Later, my cousin advised me to always print my return ticket — just in case!"
+      ],
+      "items": [
+        {
+          "q": "The officer asked Clara where she was from.",
+          "tf": true,
+          "a": false,
+          "why": "She asked her where she had flown from."
+        },
+        {
+          "q": "Clara was planning to stay for three weeks.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "The officer asked if Clara had a return ticket.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Clara's cousin works in a hotel.",
+          "tf": true,
+          "a": false,
+          "why": "He's a nurse in a hospital."
+        },
+        {
+          "q": "What did the officer ask Clara to do at the end?",
+          "a": "She asked her to look at the camera (and told her not to move)."
+        },
+        {
+          "q": "Write the officer's first two questions in direct speech.",
+          "a": "“Where have you flown from? / Where did you fly from?” · “How long are you planning to stay in Canada?”"
+        },
+        {
+          "q": "What did Clara's cousin advise her to do?",
+          "a": "He advised her to always print her return ticket."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Cuenta situaciones reales. Usa preguntas indirectas, órdenes y reporting verbs.",
+      "en": "Report real situations.",
+      "items": [
+        {
+          "q": "Recuerda una entrevista, un examen oral o una visita al médico. Escribe 3 preguntas que te hicieron: <i>They asked me…</i>",
+          "lines": 3,
+          "a": "Ej.: They asked me why I wanted the job. They asked me if I had worked in a team before. They wanted to know when I could start."
+        },
+        {
+          "q": "Escribe 2 órdenes o consejos que te daban tus padres: <i>My parents told me (not) to…</i>",
+          "lines": 2,
+          "a": "Ej.: My parents told me not to talk to strangers. They always reminded me to brush my teeth."
+        },
+        {
+          "q": "Cuenta un favor que alguien te pidió: <i>… asked me to…</i>",
+          "lines": 1,
+          "a": "Ej.: My neighbour asked me to water her plants while she was on holiday."
+        },
+        {
+          "q": "Usa 3 reporting verbs (offer, refuse, suggest, apologise…) para contar un plan con amigos que salió mal.",
+          "lines": 3,
+          "a": "Ej.: Marta suggested going to the beach, but Leo refused to go because it was cold. In the end, he apologised for being so negative and offered to drive."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Hago <b>preguntas indirectas</b> con orden de afirmativa: <i>She asked where I lived.</i>",
+      "en": "I can report questions with statement word order."
+    },
+    {
+      "es": "Uso <b>if / whether</b> en las preguntas de sí / no.",
+      "en": "I can use if / whether for yes / no questions."
+    },
+    {
+      "es": "Cuento <b>órdenes</b> con <b>told sb (not) to</b> y <b>peticiones</b> con <b>asked sb (not) to</b>.",
+      "en": "I can report commands and requests."
+    },
+    {
+      "es": "Uso <b>reporting verbs</b> con su patrón: offer to, advise sb to, suggest -ing…",
+      "en": "I can use reporting verbs with the right pattern."
+    },
+    {
+      "es": "Nunca digo <s>suggested me to</s> ni <s>asked me where did I live</s>.",
+      "en": "I avoid the typical mistakes."
+    },
+    {
+      "es": "Sigo aplicando el <b>paso atrás</b> y los cambios de pronombres.",
+      "en": "I still backshift tenses and change pronouns."
+    }
+  ]
+}

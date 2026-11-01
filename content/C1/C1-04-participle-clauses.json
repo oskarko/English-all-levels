@@ -1,0 +1,1402 @@
+{
+  "id": "C1-04",
+  "level": "C1",
+  "title": "PARTICIPLE CLAUSES",
+  "file_title": "Participle clauses",
+  "subtitle": "Participle clauses · oraciones de participio",
+  "icon": "🔗",
+  "map": {
+    "center": "Acortamos frases con <b>-ing</b>, <b>-ed</b> o <b>having + participio</b> en lugar de <i>because, when, who…</i>: más formal y conciso.",
+    "nodes": [
+      {
+        "title": "¿Qué es?",
+        "icon": "🔎",
+        "items": [
+          "Una oración <b>sin sujeto ni conector</b>",
+          "<b>Feeling</b> tired, I left. <i>= As I felt tired…</i>",
+          "Típica de informes, noticias y essays"
+        ]
+      },
+      {
+        "title": "-ing (activa)",
+        "icon": "🏃",
+        "art": "🚪",
+        "items": [
+          "<b>Opening</b> the door, she saw… <i>(Al abrir…)</i>",
+          "Causa: <b>Being</b> late, I took a taxi.",
+          "Resultado: …, <b>causing</b> chaos."
+        ]
+      },
+      {
+        "title": "-ed (pasiva)",
+        "icon": "📦",
+        "items": [
+          "<b>Built</b> in 1890, the bridge… <i>(Construido…)</i>",
+          "<b>Used</b> correctly, it's safe. <i>(= if used)</i>",
+          "When <b>asked</b>, she refused."
+        ]
+      },
+      {
+        "title": "Having + participio",
+        "icon": "⏮️",
+        "items": [
+          "<b>Having finished</b>, she left. <i>(Tras terminar)</i>",
+          "Acción terminada <b>antes</b> de la principal",
+          "Negativa: <b>Not having</b> read it, I…"
+        ]
+      },
+      {
+        "title": "Relativas reducidas",
+        "icon": "👥",
+        "rows": [
+          [
+            "the man sitting there",
+            "= who is sitting"
+          ],
+          [
+            "the files sent today",
+            "= which were sent"
+          ],
+          [
+            "anyone wishing to…",
+            "= who wishes to…"
+          ]
+        ]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "items": [
+          "El <b>mismo sujeto</b> en las dos partes",
+          "Negativa: <b>not</b> + -ing (<s>don't knowing</s>)",
+          "after / before / while + <b>-ing</b>"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "Walking home, the rain started."
+      ],
+      "good": [
+        "Walking home, I got soaked."
+      ],
+      "note": "sujeto de <b>-ing</b> = sujeto de la frase"
+    },
+    "mini": {
+      "es": "Completa con -ing, -ed o having + participio.",
+      "en": "Complete with -ing, -ed or having + participle.",
+      "items": [
+        {
+          "q": "____ in 1890, the bridge is iconic.",
+          "a": "Built",
+          "hint": "build"
+        },
+        {
+          "q": "____ the email, she called me.",
+          "a": [
+            "Having read",
+            "After reading"
+          ],
+          "hint": "read · antes"
+        },
+        {
+          "q": "____ what to do, I asked for help.",
+          "a": "Not knowing",
+          "hint": "not know"
+        },
+        {
+          "q": "The man ____ next to me was snoring.",
+          "a": "sitting",
+          "hint": "sit"
+        },
+        {
+          "q": "____ correctly, the app is safe.",
+          "a": "Used",
+          "hint": "use"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Una <b>participle clause</b> es una oración subordinada <mark>sin sujeto y sin conector</mark>, construida con un participio: <b>-ing</b> (present participle), <b>participio pasado</b> (-ed o 3.ª columna) o <b>having + participio</b> (perfect participle). Sustituye a oraciones con <i>because, as, when, after, if, so</i> o <i>who / which</i>, y hace el texto más <b>conciso y formal</b>. La regla de oro: el sujeto implícito del participio tiene que ser el <b>mismo</b> que el de la oración principal.",
+      "en": "A <b>participle clause</b> has no subject and no conjunction. It replaces clauses with <i>because, when, after, if, so</i> or <i>who / which</i>, making writing concise and formal. Its implied subject must be the subject of the main clause.",
+      "formula": [
+        "As she felt tired, she went home. (neutra)",
+        "*Feeling tired,* + she went home."
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · -ing: tiempo",
+      "title_en": "Present participle: time",
+      "icon": "🏃",
+      "color": "blue",
+      "es": "Con <b>-ing</b> el sentido es <b>activo</b>: el sujeto hace la acción. Expresa una acción <b>simultánea</b> (= <i>while, as</i>) o <b>inmediatamente anterior</b> (= <i>when, as soon as</i>) a la principal. En español solemos usar <i>al + infinitivo</i> o un gerundio: <i>Al abrir la puerta…</i> / <i>Paseando por…</i>",
+      "en": "<b>-ing</b> = active meaning. It expresses a simultaneous action (= while) or one immediately before the main action (= when, as soon as).",
+      "formula": [
+        "*Verbo-ing* + …, + sujeto + verbo principal"
+      ],
+      "examples": [
+        {
+          "en": "<b>Opening</b> the report, the director noticed a serious error.",
+          "es": "Al abrir el informe, la directora detectó un error grave.",
+          "icon": "📂"
+        },
+        {
+          "en": "<b>Walking</b> through the old town, we came across a small bookshop.",
+          "es": "Paseando por el casco antiguo, nos topamos con una pequeña librería.",
+          "icon": "🚶"
+        },
+        {
+          "en": "<b>Hearing</b> the fire alarm, the staff left the building immediately.",
+          "es": "Al oír la alarma de incendios, el personal salió del edificio inmediatamente.",
+          "icon": "🚨"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · -ing: causa y resultado",
+      "title_en": "Present participle: reason and result",
+      "icon": "🎯",
+      "color": "orange",
+      "es": "<b>Causa</b> (= <i>because, as, since</i>): muy frecuente con verbos de estado como <i>being, knowing, feeling, realising, wanting, having</i>. <b>Resultado</b> (= <i>and so, and as a result</i>): la participial va <b>al final</b>, tras una coma, y su sujeto lógico es toda la oración anterior: <i>…, causing delays</i>, <i>…, leaving thousands without power</i>. Es un recurso típico de las noticias.",
+      "en": "Reason: <b>Being / Knowing / Feeling…</b> at the start. Result: <b>…, causing / leaving / making…</b> at the end, after a comma.",
+      "formula": [
+        "*Being / Knowing / Feeling* + …, + oración principal (causa)",
+        "Oración principal, + *causing / leaving* + … (resultado)"
+      ],
+      "examples": [
+        {
+          "en": "<b>Being</b> the most experienced member of the team, Laura was asked to lead the project.",
+          "es": "Al ser la integrante con más experiencia del equipo, a Laura le pidieron que dirigiera el proyecto.",
+          "icon": "👩‍💼"
+        },
+        {
+          "en": "<b>Knowing</b> how competitive the market was, they lowered their prices.",
+          "es": "Sabiendo lo competitivo que era el mercado, bajaron los precios.",
+          "icon": "📊"
+        },
+        {
+          "en": "The storm brought down power lines, <b>leaving</b> thousands of homes without electricity.",
+          "es": "La tormenta derribó tendidos eléctricos y dejó a miles de hogares sin luz.",
+          "icon": "⚡"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Participio pasado: pasiva",
+      "title_en": "Past participle: passive meaning",
+      "icon": "📦",
+      "color": "green",
+      "es": "Con el <b>participio pasado</b> el sentido es <b>pasivo</b>: el sujeto <mark>recibe</mark> la acción. Puede expresar causa, tiempo o <b>condición</b> (= <i>if</i>): <i>Used correctly…</i> = <i>If it is used correctly…</i> Funciona como el participio español: <i>Construido en 1890…</i>, <i>Bien utilizado…</i>, <i>Conmocionado por…</i>",
+      "en": "<b>Past participle</b> = passive meaning: the subject receives the action. It can express reason, time or condition (= if).",
+      "formula": [
+        "*Participio pasado* + …, + sujeto + verbo principal"
+      ],
+      "examples": [
+        {
+          "en": "<b>Built</b> in 1890, the bridge is now a protected monument.",
+          "es": "Construido en 1890, el puente es hoy un monumento protegido.",
+          "icon": "🌉"
+        },
+        {
+          "en": "<b>Used</b> correctly, this software can save hours of work.",
+          "es": "Bien utilizado, este programa puede ahorrar horas de trabajo.",
+          "icon": "💻"
+        },
+        {
+          "en": "<b>Shocked</b> by the results, the board called an emergency meeting.",
+          "es": "Conmocionado por los resultados, el consejo convocó una reunión de urgencia.",
+          "icon": "😱"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Having + participio",
+      "title_en": "Perfect participle",
+      "icon": "⏮️",
+      "color": "purple",
+      "es": "El <b>perfect participle</b> indica que una acción terminó <mark>antes</mark> que la principal y, a menudo, que es su causa. Activa: <b>having + participio</b> (<i>Having finished…</i>); pasiva: <b>having been + participio</b> (<i>Having been warned…</i>). Es necesario cuando la primera acción duró un tiempo o cuando sin él la secuencia quedaría confusa: <i>Having lived in Japan for ten years, she speaks fluent Japanese.</i>",
+      "en": "<b>Having + past participle</b> = an action completed before the main one (often its cause). Passive: <b>having been + past participle</b>.",
+      "formula": [
+        "*Having* + participio + …, + oración principal",
+        "*Having been* + participio + …, + oración principal (pasiva)"
+      ],
+      "examples": [
+        {
+          "en": "<b>Having finished</b> the presentation, she answered questions from the audience.",
+          "es": "Tras terminar la presentación, respondió a las preguntas del público.",
+          "icon": "🎤"
+        },
+        {
+          "en": "<b>Having lived</b> abroad for ten years, he found it hard to readapt.",
+          "es": "Después de haber vivido diez años en el extranjero, le costó readaptarse.",
+          "icon": "✈️"
+        },
+        {
+          "en": "<b>Having been warned</b> about the risks, the investors withdrew.",
+          "es": "Tras haber sido advertidos de los riesgos, los inversores se retiraron.",
+          "icon": "⚠️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Negativa y conjunción + participio",
+      "title_en": "Negatives and conjunctions",
+      "icon": "🚫",
+      "color": "red",
+      "es": "La negativa se forma con <b>not</b> delante del participio: <i><b>Not knowing</b>…</i>, <i><b>Not having</b> read…</i> (nunca <s>don't knowing</s>). Podemos conservar una conjunción para mayor claridad: <b>after / before / while / since / when + -ing</b> y <b>when / if / unless / once / although + participio pasado</b>: <i>When asked…</i>, <i>If left untreated…</i>, <i>Once completed…</i> Tras <i>after</i> y <i>before</i> (preposiciones) va <b>-ing</b>, nunca <s>to</s>.",
+      "en": "Negative: <b>not</b> + participle. Keep a conjunction for clarity: <b>after / while + -ing</b>, <b>when / if / once + past participle</b>.",
+      "formula": [
+        "*Not* + -ing / having + participio",
+        "*after / before / while* + -ing",
+        "*when / if / once* + participio pasado"
+      ],
+      "examples": [
+        {
+          "en": "<b>Not having</b> received a reply, I sent a second email.",
+          "es": "Al no haber recibido respuesta, envié un segundo correo.",
+          "icon": "📧"
+        },
+        {
+          "en": "<b>When asked</b> about the merger, the CEO declined to comment.",
+          "es": "Cuando le preguntaron por la fusión, el consejero delegado declinó hacer comentarios.",
+          "icon": "🤐"
+        },
+        {
+          "en": "<b>If left</b> untreated, the infection can spread quickly.",
+          "es": "Si no se trata, la infección puede extenderse rápidamente.",
+          "icon": "🦠"
+        },
+        {
+          "en": "<b>After signing</b> the contract, both parties shook hands.",
+          "es": "Tras firmar el contrato, ambas partes se dieron la mano.",
+          "icon": "🤝"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · Relativas reducidas",
+      "title_en": "Reduced relative clauses",
+      "icon": "👥",
+      "color": "teal",
+      "es": "Podemos eliminar <b>who / which / that (+ be)</b> y dejar solo el participio: <i>the man (who is) sitting there</i>, <i>the files (which were) sent today</i>, <i>anyone wishing to attend</i> (= who wishes). <b>-ing</b> = activo; <b>-ed</b> = pasivo. Límite importante: <b>-ing</b> no sirve para una <b>acción puntual ya terminada</b>: <i>The man who stole my bag</i> (no <s>The man stealing my bag</s>, salvo que la acción esté en curso).",
+      "en": "Drop <b>who / which (+ be)</b>: <i>the man sitting there</i>, <i>the files sent today</i>. Don't use -ing for a single completed past action.",
+      "formula": [
+        "Nombre + *-ing* + … (activa: = who / which …)",
+        "Nombre + *participio pasado* + … (pasiva: = who / which is / was …)"
+      ],
+      "examples": [
+        {
+          "en": "Passengers <b>travelling</b> to Paris should go to Gate 12.",
+          "es": "Los pasajeros que viajen a París deben dirigirse a la puerta 12.",
+          "icon": "🛫"
+        },
+        {
+          "en": "The proposals <b>submitted</b> last week will be reviewed by the committee.",
+          "es": "El comité revisará las propuestas presentadas la semana pasada.",
+          "icon": "📑"
+        },
+        {
+          "en": "Anyone <b>wishing</b> to attend the seminar should register online.",
+          "es": "Quien desee asistir al seminario debe inscribirse en línea.",
+          "icon": "🖥️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "7 · Dangling participles",
+      "title_en": "Dangling participles",
+      "icon": "🪂",
+      "color": "pink",
+      "es": "Un <b>dangling participle</b> (participio «colgante») es un participio cuyo sujeto implícito <mark>no coincide</mark> con el de la principal. El resultado es ilógico o cómico: <s>Walking home, the rain started</s> (¿la lluvia caminaba?). Solución: cambia el sujeto de la principal o usa una oración completa. Si el participio tiene otro sujeto, nómbralo (formal): <i><b>The weather</b> being fine, we ate outside</i> · <i><b>With</b> prices rising…</i> Excepción: fórmulas fijas como <i>generally speaking, judging by, considering, all things considered</i>.",
+      "en": "The implied subject of the participle must be the subject of the main clause. Otherwise, rewrite or name the subject (<i>with prices rising…</i>).",
+      "formula": [
+        "*Participio* + …, + *mismo sujeto* + verbo",
+        "*With* + nombre + participio + …, + oración principal"
+      ],
+      "examples": [
+        {
+          "en": "<s>Arriving at the hotel, the room was not ready.</s> → <b>Arriving</b> at the hotel, <b>we</b> found that the room was not ready.",
+          "es": "Al llegar al hotel, vimos que la habitación no estaba lista.",
+          "icon": "🏨"
+        },
+        {
+          "en": "<b>With</b> interest rates <b>rising</b>, many families are struggling to pay their mortgages.",
+          "es": "Con los tipos de interés subiendo, muchas familias tienen dificultades para pagar la hipoteca.",
+          "icon": "🏠"
+        },
+        {
+          "en": "<b>All things considered</b>, the conference was a success.",
+          "es": "Teniéndolo todo en cuenta, el congreso fue un éxito.",
+          "icon": "✅"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Oración completa frente a participial",
+      "title_en": "Full clause vs participle clause",
+      "icon": "⚖️",
+      "color": "blue",
+      "es": "Las dos versiones significan lo mismo. La participial es más <b>compacta y formal</b> (informes, noticias, essays); la oración completa es más clara y natural en la conversación.",
+      "en": "Same meaning: the participle clause is more compact and formal; the full clause is more natural in speech.",
+      "cols": [
+        {
+          "head": "💬 Oración completa · Full clause",
+          "color": "blue",
+          "items": [
+            "Because I didn't know the answer, I said nothing.",
+            "After she had finished her degree, she moved to London.",
+            "The woman who is talking to Tom is my boss.",
+            "If it is stored properly, the vaccine lasts a year.",
+            "The company cut 500 jobs, which caused outrage."
+          ]
+        },
+        {
+          "head": "📝 Participial · Participle clause",
+          "color": "purple",
+          "items": [
+            "<b>Not knowing</b> the answer, I said nothing.",
+            "<b>Having finished</b> her degree, she moved to London.",
+            "The woman <b>talking</b> to Tom is my boss.",
+            "<b>Stored</b> properly, the vaccine lasts a year.",
+            "The company cut 500 jobs, <b>causing</b> outrage."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos en contexto",
+      "title_en": "More examples in context",
+      "items": [
+        {
+          "en": "<b>Founded</b> in 1998, the firm now operates in 40 countries.",
+          "es": "Fundada en 1998, la empresa opera hoy en 40 países.",
+          "icon": "🏢"
+        },
+        {
+          "en": "<b>Realising</b> she had missed the last train, she booked a hotel room.",
+          "es": "Al darse cuenta de que había perdido el último tren, reservó una habitación de hotel.",
+          "icon": "🚉"
+        },
+        {
+          "en": "<b>Having considered</b> all the options, the committee approved the plan.",
+          "es": "Tras estudiar todas las opciones, el comité aprobó el plan.",
+          "icon": "🗳️"
+        },
+        {
+          "en": "The earthquake struck at dawn, <b>destroying</b> hundreds of buildings.",
+          "es": "El terremoto se produjo al amanecer y destruyó cientos de edificios.",
+          "icon": "🌋"
+        },
+        {
+          "en": "<b>Not wanting</b> to offend anyone, he chose his words carefully.",
+          "es": "Como no quería ofender a nadie, eligió sus palabras con cuidado.",
+          "icon": "🗣️"
+        },
+        {
+          "en": "Most of the products <b>sold</b> in this shop are made locally.",
+          "es": "La mayoría de los productos que se venden en esta tienda se fabrican en la zona.",
+          "icon": "🛍️"
+        },
+        {
+          "en": "<b>While working</b> in Dublin, I learnt to appreciate the rain.",
+          "es": "Mientras trabajaba en Dublín, aprendí a apreciar la lluvia.",
+          "icon": "🌧️"
+        },
+        {
+          "en": "<b>Once approved</b>, the new regulations will apply to all member states.",
+          "es": "Una vez aprobada, la nueva normativa se aplicará a todos los Estados miembros.",
+          "icon": "📜"
+        },
+        {
+          "en": "<b>Judging by</b> the figures, the campaign has been a success.",
+          "es": "A juzgar por las cifras, la campaña ha sido un éxito.",
+          "icon": "📈"
+        },
+        {
+          "en": "<b>Having been rejected</b> twice, the candidate finally got the job on her third attempt.",
+          "es": "Tras haber sido rechazada dos veces, la candidata consiguió por fin el puesto al tercer intento.",
+          "icon": "🎯"
+        },
+        {
+          "en": "Students <b>wishing</b> to change course must speak to their tutor.",
+          "es": "Los estudiantes que deseen cambiar de curso deben hablar con su tutor.",
+          "icon": "🎓"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Tabla resumen",
+      "title_en": "Summary table",
+      "icon": "🧾",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Forma · Form",
+        "Sentido",
+        "Equivale a…",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "-ing (al inicio)",
+          "activo · simultáneo o inmediato",
+          "when, while, as",
+          "<b>Leaving</b> the office, I saw Tom."
+        ],
+        [
+          "-ing (causa)",
+          "activo · causa",
+          "because, as, since",
+          "<b>Feeling</b> ill, she stayed at home."
+        ],
+        [
+          ", -ing (al final)",
+          "activo · resultado",
+          "and so, and as a result",
+          "Prices rose, <b>causing</b> protests."
+        ],
+        [
+          "participio pasado",
+          "pasivo · causa, tiempo, condición",
+          "because / when / if + be + participio",
+          "<b>Made</b> in Italy, it's expensive."
+        ],
+        [
+          "having + participio",
+          "activo · acción anterior",
+          "after / because + past perfect",
+          "<b>Having read</b> it, I agreed."
+        ],
+        [
+          "having been + participio",
+          "pasivo · acción anterior",
+          "after / because + had been + participio",
+          "<b>Having been told</b>, he left."
+        ],
+        [
+          "not + participio",
+          "negativo",
+          "because … not",
+          "<b>Not knowing</b> the way, we got lost."
+        ],
+        [
+          "conjunción + participio",
+          "más claridad",
+          "after / while / when / if…",
+          "<b>When asked</b>, she smiled."
+        ],
+        [
+          "relativa reducida",
+          "activo (-ing) / pasivo (-ed)",
+          "who / which (+ be)",
+          "the people <b>living</b> here · the car <b>stolen</b>"
+        ],
+        [
+          "with + nombre + participio",
+          "sujeto distinto",
+          "because / as",
+          "<b>With</b> sales <b>falling</b>, we must act."
+        ]
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "Walking to the office, the rain started.",
+          "good": "Walking to the office, <b>I</b> got caught in the rain.",
+          "why": "El sujeto del -ing debe ser el de la principal.",
+          "why_en": "Same subject in both clauses."
+        },
+        {
+          "bad": "Writing in 1850, the novel is still popular.",
+          "good": "<b>Written</b> in 1850, the novel is still popular.",
+          "why": "La novela fue escrita: sentido pasivo → participio pasado.",
+          "why_en": "Passive meaning → past participle."
+        },
+        {
+          "bad": "Don't knowing what to say, I kept quiet.",
+          "good": "<b>Not knowing</b> what to say, I kept quiet.",
+          "why": "Negativa: not + -ing, sin do.",
+          "why_en": "Negative: not + -ing."
+        },
+        {
+          "bad": "After to sign the contract, we celebrated.",
+          "good": "After <b>signing</b> the contract, we celebrated.",
+          "why": "Tras after / before: -ing, nunca to.",
+          "why_en": "After / before + -ing."
+        },
+        {
+          "bad": "The woman calling you yesterday was my boss.",
+          "good": "The woman <b>who called</b> you yesterday was my boss.",
+          "why": "Acción puntual y terminada: no se reduce con -ing.",
+          "why_en": "No -ing for a single completed action."
+        },
+        {
+          "bad": "Being exhausted, so I went to bed early.",
+          "good": "Being exhausted, I went to bed early.",
+          "why": "La participial ya expresa la causa: sobra so.",
+          "why_en": "No so: the participle already gives the reason."
+        },
+        {
+          "bad": "Having finish the report, she left.",
+          "good": "Having <b>finished</b> the report, she left.",
+          "why": "Having + participio pasado.",
+          "why_en": "Having + past participle."
+        },
+        {
+          "bad": "Asked about the deal, the minister's answer was vague.",
+          "good": "Asked about the deal, <b>the minister</b> gave a vague answer.",
+          "why": "A quien preguntaron fue al ministro, no a su respuesta.",
+          "why_en": "The minister was asked, not the answer."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo reduzco una oración?",
+      "title_en": "How do I reduce a clause?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Comprueba que las dos oraciones tienen el <b>mismo sujeto</b>. Si no, no reduzcas (o usa <i>with</i> + sujeto).",
+          "en": "Check that both clauses have the same subject."
+        },
+        {
+          "es": "Quita el <b>conector</b> (because, when, as…) y el <b>sujeto</b> de la subordinada.",
+          "en": "Remove the conjunction and the subject."
+        },
+        {
+          "es": "¿Activa (simultánea o causa)? → <b>-ing</b>. ¿Pasiva? → <b>participio pasado</b>. ¿Anterior y terminada? → <b>having + participio</b>.",
+          "en": "Active → -ing; passive → past participle; earlier → having + past participle."
+        },
+        {
+          "es": "¿Negativa? → <b>not</b> delante. ¿Hace falta claridad? → conserva <i>after, while, when, if</i>.",
+          "en": "Negative → not. Keep a conjunction if needed."
+        },
+        {
+          "es": "Pon una <b>coma</b> y relee: ¿quién hace la acción del participio? Debe ser el sujeto que va justo después de la coma.",
+          "en": "Add a comma and check who does the action."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Boletín de noticias",
+      "title_en": "News bulletin",
+      "lines": [
+        {
+          "who": "Newsreader",
+          "en": "Good evening. Hit by the worst floods in fifty years, the north of the country is on high alert tonight.",
+          "es": "Buenas noches. Golpeado por las peores inundaciones en cincuenta años, el norte del país está esta noche en alerta máxima."
+        },
+        {
+          "who": "Reporter",
+          "en": "After three days of non-stop rain, the river burst its banks this morning, flooding hundreds of homes.",
+          "es": "Tras tres días de lluvia ininterrumpida, el río se desbordó esta mañana e inundó cientos de viviendas."
+        },
+        {
+          "who": "Newsreader",
+          "en": "What are the authorities doing?",
+          "es": "¿Qué están haciendo las autoridades?"
+        },
+        {
+          "who": "Reporter",
+          "en": "Families living near the river have been evacuated, and several roads remain closed, causing long delays.",
+          "es": "Las familias que viven cerca del río han sido evacuadas y varias carreteras siguen cortadas, lo que provoca largos retrasos."
+        },
+        {
+          "who": "Newsreader",
+          "en": "Is there any sign of improvement?",
+          "es": "¿Hay alguna señal de mejora?"
+        },
+        {
+          "who": "Reporter",
+          "en": "Judging by the latest forecast, yes. Asked about the clean-up, the mayor said it would take months.",
+          "es": "A juzgar por la última previsión, sí. Preguntado por la limpieza, el alcalde dijo que llevaría meses."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del sujeto",
+      "title_en": "The subject trick",
+      "es": "Antes de escribir una participial, pregúntate <b>«¿quién hace esto?»</b>. La respuesta tiene que ser el <b>sujeto que va justo después de la coma</b>: <i>Walking home, <b>I</b>…</i> ✓ / <i>Walking home, <b>the rain</b>…</i> ✗. Recuerda: <b>-ing</b> = hace (activo), <b>-ed</b> = le hacen (pasivo), <b>having + participio</b> = ya lo había hecho. Registro: brillan en informes, noticias y essays; al hablar, <i>because / when</i> suenan más naturales.",
+      "en": "Ask «who does this?»: the answer must be the subject right after the comma. -ing = active, -ed = passive, having + past participle = before. Formal writing, not casual speech."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify",
+      "title": "¿Qué expresa la participial?",
+      "title_en": "What does the participle clause express?",
+      "icon": "🗂️",
+      "es": "Clasifica cada participial según su significado.",
+      "en": "Sort the participle clauses by meaning.",
+      "cats": [
+        {
+          "name": "Tiempo",
+          "words": [
+            "Opening the door,",
+            "Having landed,",
+            "While waiting,",
+            "After signing,"
+          ]
+        },
+        {
+          "name": "Causa",
+          "words": [
+            "Being shy,",
+            "Not knowing the way,",
+            "Feeling unwell,",
+            "Having no money,"
+          ]
+        },
+        {
+          "name": "Condición",
+          "words": [
+            "Used correctly,",
+            "If left untreated,",
+            "Stored in a cool place,",
+            "Taken daily,"
+          ]
+        },
+        {
+          "name": "Resultado",
+          "words": [
+            "…, causing delays",
+            "…, leaving many homeless",
+            "…, making it unique",
+            "…, forcing him to resign"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct option",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta. Piensa: ¿activa o pasiva? ¿antes o a la vez?",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "[Built|Building] in the 12th century, the castle attracts thousands of visitors.",
+          "a": "Built"
+        },
+        {
+          "q": "[Feeling|Felt] exhausted, she went to bed early.",
+          "a": "Feeling"
+        },
+        {
+          "q": "[Having finished|Finished] his speech, the minister left the room.",
+          "a": "Having finished"
+        },
+        {
+          "q": "[Not knowing|Don't knowing] what to say, I remained silent.",
+          "a": "Not knowing"
+        },
+        {
+          "q": "The woman [talking|talked] to the manager is my aunt.",
+          "a": "talking"
+        },
+        {
+          "q": "The goods [delivering|delivered] yesterday were damaged.",
+          "a": "delivered"
+        },
+        {
+          "q": "After [to sign|signing] the agreement, they held a press conference.",
+          "a": "signing"
+        },
+        {
+          "q": "The factory closed, [leaving|left] 300 people unemployed.",
+          "a": "leaving"
+        },
+        {
+          "q": "[Asked|Asking] about his plans, he refused to answer.",
+          "a": "Asked"
+        },
+        {
+          "q": "[Having been|Being] warned twice, he was finally dismissed.",
+          "a": "Having been"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une las dos mitades",
+      "title_en": "Match the halves",
+      "icon": "🔗",
+      "es": "Une el principio de cada frase con su final.",
+      "en": "Match the beginnings with the endings.",
+      "pairs": [
+        [
+          "Having spent all his savings,",
+          "he had to ask his parents for a loan."
+        ],
+        [
+          "Written in plain English,",
+          "the guide is easy to follow."
+        ],
+        [
+          "Not wanting to wake the baby,",
+          "we spoke in whispers."
+        ],
+        [
+          "Hearing a strange noise,",
+          "she went downstairs to investigate."
+        ],
+        [
+          "If stored correctly,",
+          "the cheese will keep for several weeks."
+        ],
+        [
+          "The company relocated to Dublin,",
+          "creating hundreds of new jobs."
+        ],
+        [
+          "Anyone wishing to apply",
+          "should send a CV by Friday."
+        ],
+        [
+          "With unemployment rising,",
+          "the government is under pressure."
+        ]
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Correcta o dangling?",
+      "title_en": "Correct or dangling?",
+      "icon": "🪂",
+      "es": "Marca T si la frase es correcta y F si tiene un dangling participle u otro error.",
+      "en": "Tick T if the sentence is correct and F if it has a dangling participle or another mistake.",
+      "items": [
+        {
+          "q": "Walking into the room, I noticed a strange smell.",
+          "a": true
+        },
+        {
+          "q": "Walking into the room, a strange smell hit me.",
+          "a": false,
+          "why": "El olor no caminaba: Walking into the room, I noticed a strange smell."
+        },
+        {
+          "q": "Having finished the report, the computer crashed.",
+          "a": false,
+          "why": "Just after I had finished the report, the computer crashed."
+        },
+        {
+          "q": "Built in 1920, the theatre has recently been restored.",
+          "a": true
+        },
+        {
+          "q": "Being a holiday, the shops were closed.",
+          "a": false,
+          "why": "As it was a holiday, the shops were closed. / It being a holiday, …"
+        },
+        {
+          "q": "Judging by his accent, he must be from Glasgow.",
+          "a": true,
+          "why": "fórmula fija aceptada (judging by)."
+        },
+        {
+          "q": "The man stealing my wallet yesterday was arrested.",
+          "a": false,
+          "why": "The man who stole my wallet yesterday was arrested."
+        },
+        {
+          "q": "Not having a car, she cycles to work.",
+          "a": true
+        },
+        {
+          "q": "Covered in snow, the mountains looked magical.",
+          "a": true
+        },
+        {
+          "q": "Driving to work, my phone rang.",
+          "a": false,
+          "why": "While I was driving to work, my phone rang."
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "El participio correcto",
+      "title_en": "The correct participle",
+      "icon": "🔧",
+      "es": "Completa con -ing, participio pasado, having + participio o not + participio. Usa el verbo entre paréntesis.",
+      "en": "Complete with the correct participle form.",
+      "items": [
+        {
+          "q": "_____ in 1998, the company now has offices in 40 countries.",
+          "hint": "found",
+          "a": "Founded"
+        },
+        {
+          "q": "_____ the bad news, she burst into tears.",
+          "hint": "hear",
+          "a": "Hearing"
+        },
+        {
+          "q": "_____ all morning, I was starving by lunchtime.",
+          "hint": "not eat",
+          "a": "Not having eaten"
+        },
+        {
+          "q": "_____ the instructions carefully, he assembled the desk in minutes.",
+          "hint": "read · antes",
+          "a": "Having read"
+        },
+        {
+          "q": "The documents _____ to you yesterday contain an error.",
+          "hint": "send",
+          "a": "sent"
+        },
+        {
+          "q": "_____ by the noise, the baby started crying.",
+          "hint": "frighten",
+          "a": "Frightened"
+        },
+        {
+          "q": "The road was closed, _____ huge traffic jams.",
+          "hint": "cause",
+          "a": "causing"
+        },
+        {
+          "q": "Anyone _____ information about the accident should call the police.",
+          "hint": "have",
+          "a": "having"
+        },
+        {
+          "q": "_____ twice for speeding, he lost his licence.",
+          "hint": "fine · pasiva, antes",
+          "a": "Having been fined"
+        },
+        {
+          "q": "When _____ about the rumours, the actress laughed.",
+          "hint": "ask",
+          "a": "asked"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Conjunción + participio",
+      "title_en": "Conjunction + participle",
+      "icon": "🧩",
+      "es": "Completa con una conjunción del recuadro. Usa cada una una vez.",
+      "en": "Complete with a conjunction from the box. Use each one once.",
+      "bank": [
+        "after",
+        "before",
+        "while",
+        "when",
+        "once",
+        "if",
+        "unless",
+        "although"
+      ],
+      "items": [
+        {
+          "q": "___ finishing the report, she sent it to her boss.",
+          "a": "After"
+        },
+        {
+          "q": "Always read the contract carefully ___ signing it.",
+          "a": "before"
+        },
+        {
+          "q": "___ working in Paris, he learnt to cook French food.",
+          "a": "While"
+        },
+        {
+          "q": "___ asked to comment, the spokesperson refused.",
+          "a": "When"
+        },
+        {
+          "q": "___ completed, the form should be returned to reception.",
+          "a": "Once"
+        },
+        {
+          "q": "___ left untreated, the condition can become serious.",
+          "a": "If"
+        },
+        {
+          "q": "Do not open the package ___ instructed to do so.",
+          "a": "unless"
+        },
+        {
+          "q": "___ exhausted, she kept running until the finish line.",
+          "a": "Although"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "De la oración completa a la participial",
+      "title_en": "From full clause to participle clause",
+      "icon": "📋",
+      "wide": true,
+      "es": "Completa la casilla vacía: reduce la oración o escríbela completa.",
+      "en": "Fill in the empty box: reduce the clause or write it in full.",
+      "head": [
+        "Oración completa · Full clause",
+        "Participle clause"
+      ],
+      "rows": [
+        [
+          "Because she felt nervous, she spoke very quickly.",
+          "?Feeling nervous, she spoke very quickly."
+        ],
+        [
+          "After he had graduated, he joined a law firm.",
+          "?Having graduated, he joined a law firm."
+        ],
+        [
+          "The bridge, which was designed by a famous architect, is a landmark.",
+          "?The bridge, designed by a famous architect, is a landmark."
+        ],
+        [
+          "As I didn't have an umbrella, I got soaked.",
+          "?Not having an umbrella, I got soaked."
+        ],
+        [
+          "If it is taken with food, this medicine is more effective.",
+          "?Taken with food, this medicine is more effective."
+        ],
+        [
+          "The people who live next door are very friendly.",
+          "?The people living next door are very friendly."
+        ],
+        [
+          "The fire spread quickly and destroyed three houses.",
+          "?The fire spread quickly, destroying three houses."
+        ],
+        [
+          "While I was waiting for the bus, I read the news.",
+          "?While waiting for the bus, I read the news."
+        ],
+        [
+          "?As (Because) he was tired, he went to bed.",
+          "Being tired, he went to bed."
+        ],
+        [
+          "?When she was asked about it, she said nothing.",
+          "When asked about it, she said nothing."
+        ]
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras. Añade mayúscula, comas y punto.",
+      "en": "Put the words in order.",
+      "items": [
+        {
+          "q": "having / the email / read / I / replied / immediately",
+          "a": "Having read the email, I replied immediately."
+        },
+        {
+          "q": "built / the cathedral / in the 13th century / is / a UNESCO site",
+          "a": "Built in the 13th century, the cathedral is a UNESCO site."
+        },
+        {
+          "q": "not / what / to do / knowing / I / called / my lawyer",
+          "a": "Not knowing what to do, I called my lawyer."
+        },
+        {
+          "q": "the woman / to the press / speaking / is / the new CEO",
+          "a": "The woman speaking to the press is the new CEO."
+        },
+        {
+          "q": "the river / its banks / burst / flooding / the town",
+          "a": "The river burst its banks, flooding the town."
+        },
+        {
+          "q": "when / asked / she / to comment / refused",
+          "a": "When asked, she refused to comment."
+        },
+        {
+          "q": "with / rising / prices / are / consumers / spending less",
+          "a": "With prices rising, consumers are spending less."
+        },
+        {
+          "q": "anyone / to attend / wishing / should / register / online",
+          "a": "Anyone wishing to attend should register online."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Reduce con una participial",
+      "title_en": "Rewrite with a participle clause",
+      "icon": "✂️",
+      "es": "Reescribe la frase usando una participle clause. El significado no debe cambiar.",
+      "en": "Rewrite the sentence using a participle clause.",
+      "items": [
+        {
+          "q": "As I didn't know anyone at the party, I left early.",
+          "a": "Not knowing anyone at the party, I left early."
+        },
+        {
+          "q": "After she had spent a year in Japan, she spoke fluent Japanese.",
+          "a": "Having spent a year in Japan, she spoke fluent Japanese."
+        },
+        {
+          "q": "The paintings, which were stolen in 1990, have never been found.",
+          "a": "The paintings, stolen in 1990, have never been found."
+        },
+        {
+          "q": "Because he was injured, the player couldn't finish the match.",
+          "a": "Being injured (Injured), the player couldn't finish the match."
+        },
+        {
+          "q": "If it is used regularly, this cream reduces wrinkles.",
+          "a": "Used regularly, this cream reduces wrinkles."
+        },
+        {
+          "q": "The price of oil rose sharply, and this caused panic on the markets.",
+          "a": "The price of oil rose sharply, causing panic on the markets."
+        },
+        {
+          "q": "When I opened the box, I found an old letter.",
+          "a": "Opening the box, I found an old letter."
+        },
+        {
+          "q": "Visitors who arrive after 6 p.m. must use the side entrance.",
+          "a": "Visitors arriving after 6 p.m. must use the side entrance."
+        },
+        {
+          "q": "Since we had been told the road was closed, we took a different route.",
+          "a": "Having been told the road was closed, we took a different route."
+        },
+        {
+          "q": "While he was working in London, he met his future wife.",
+          "a": "While working in London, he met his future wife."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Arregla el dangling participle",
+      "title_en": "Fix the dangling participle",
+      "icon": "🪂",
+      "es": "Cada frase tiene un dangling participle. Reescríbela: cambia el sujeto de la principal o usa una oración completa. (Hay varias soluciones posibles.)",
+      "en": "Each sentence has a dangling participle. Rewrite it correctly.",
+      "items": [
+        {
+          "q": "Looking out of the window, the mountains were beautiful.",
+          "a": "Ej.: Looking out of the window, I saw the beautiful mountains."
+        },
+        {
+          "q": "Having missed the bus, the meeting started without me.",
+          "a": "Ej.: Because I had missed the bus, the meeting started without me."
+        },
+        {
+          "q": "Arriving late, the doors were already closed.",
+          "a": "Ej.: Arriving late, we found the doors already closed."
+        },
+        {
+          "q": "Born in Lisbon, Portuguese is her first language.",
+          "a": "Ej.: Born in Lisbon, she speaks Portuguese as her first language."
+        },
+        {
+          "q": "Running for the train, my bag fell open.",
+          "a": "Ej.: While I was running for the train, my bag fell open."
+        },
+        {
+          "q": "Tired after the long journey, the bed looked very inviting.",
+          "a": "Ej.: Tired after the long journey, I found the bed very inviting."
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Correct it.",
+      "items": [
+        {
+          "q": "Walking to the station, the bus passed me.",
+          "a": "While I was walking to the station, the bus passed me."
+        },
+        {
+          "q": "Writing by a famous author, the book became a bestseller.",
+          "a": "Written by a famous author, the book became a bestseller."
+        },
+        {
+          "q": "Don't having a passport, he couldn't travel.",
+          "a": "Not having a passport, he couldn't travel."
+        },
+        {
+          "q": "Before to leave the office, switch off the lights.",
+          "a": "Before leaving the office, switch off the lights."
+        },
+        {
+          "q": "Having finish his degree, he started a business.",
+          "a": "Having finished his degree, he started a business."
+        },
+        {
+          "q": "The man phoning you this morning was a journalist.",
+          "a": "The man who phoned you this morning was a journalist."
+        },
+        {
+          "q": "Being late, so we took a taxi.",
+          "a": "Being late, we took a taxi."
+        },
+        {
+          "q": "Opened in 2010, many tourists visit the museum.",
+          "a": "Opened in 2010, the museum is visited by many tourists."
+        },
+        {
+          "q": "Feeling tired, an early night seemed a good idea.",
+          "a": "Feeling tired, I decided to have an early night."
+        },
+        {
+          "q": "The emails sending last week contained errors.",
+          "a": "The emails sent last week contained errors."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones C1 Advanced",
+      "title_en": "Key word transformations",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave sin cambiarla y entre 3 y 6 palabras en total. (En el solucionario aparecen las palabras que faltan.)",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word and 3-6 words.",
+      "items": [
+        {
+          "q": "Because she didn't have enough money, she couldn't buy the flat. 🔑 <b>HAVING</b><br>Not _____, she couldn't buy the flat.",
+          "a": "having enough money"
+        },
+        {
+          "q": "After he had checked the figures, he signed the report. 🔑 <b>HAVING</b><br>_____, he signed the report.",
+          "a": "Having checked the figures"
+        },
+        {
+          "q": "The castle, which was built in 1450, is open to the public. 🔑 <b>BUILT</b><br>The castle, _____, is open to the public.",
+          "a": "built in 1450"
+        },
+        {
+          "q": "The fire destroyed the warehouse, so 50 people lost their jobs. 🔑 <b>LEAVING</b><br>The fire destroyed the warehouse, _____ jobs.",
+          "a": "leaving 50 people without"
+        },
+        {
+          "q": "When the minister was asked about the scandal, she said nothing. 🔑 <b>ASKED</b><br>_____ the scandal, the minister said nothing.",
+          "a": "When asked about"
+        },
+        {
+          "q": "People who live near the airport complain about the noise. 🔑 <b>LIVING</b><br>People _____ complain about the noise.",
+          "a": "living near the airport"
+        },
+        {
+          "q": "As I didn't know the city, I got lost. 🔑 <b>KNOWING</b><br>_____, I got lost.",
+          "a": "Not knowing the city"
+        },
+        {
+          "q": "If you store it in the fridge, the sauce will last a week. 🔑 <b>STORED</b><br>_____, the sauce will last a week.",
+          "a": "(If) stored in the fridge"
+        },
+        {
+          "q": "Since we had been warned about the traffic, we left early. 🔑 <b>BEEN</b><br>Having _____ the traffic, we left early.",
+          "a": "been warned about"
+        },
+        {
+          "q": "While I was waiting for the train, I called my mother. 🔑 <b>WAITING</b><br>_____ the train, I called my mother.",
+          "a": "While waiting for"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce usando una participle clause.",
+      "en": "Translate into English using a participle clause.",
+      "items": [
+        {
+          "q": "Al llegar a la oficina, vi que la puerta estaba abierta.",
+          "a": "Arriving (On arriving) at the office, I saw that the door was open."
+        },
+        {
+          "q": "Construida en 1900, la estación es hoy un museo.",
+          "a": "Built in 1900, the station is now a museum."
+        },
+        {
+          "q": "Tras terminar la reunión, nos fuimos a comer.",
+          "a": [
+            "Having finished the meeting, we went for lunch.",
+            "After finishing the meeting, we went for lunch."
+          ]
+        },
+        {
+          "q": "Como no sabía la respuesta, no dije nada.",
+          "a": "Not knowing the answer, I said nothing."
+        },
+        {
+          "q": "Los pasajeros que viajen a Londres deben embarcar ahora.",
+          "a": "Passengers travelling to London should board now."
+        },
+        {
+          "q": "Si se usa correctamente, esta herramienta es muy segura.",
+          "a": "Used correctly, this tool is very safe."
+        },
+        {
+          "q": "La empresa cerró su fábrica y dejó a 200 personas sin trabajo.",
+          "hint": "…, leaving",
+          "a": "The company closed its factory, leaving 200 people out of work."
+        },
+        {
+          "q": "Cuando le preguntaron por su futuro, el entrenador sonrió.",
+          "a": "When asked (Asked) about his future, the coach smiled."
+        },
+        {
+          "q": "Con los precios subiendo, mucha gente ahorra menos.",
+          "a": "With prices rising, many people are saving less."
+        },
+        {
+          "q": "Tras haber sido rechazado tres veces, por fin consiguió el trabajo.",
+          "a": "Having been rejected three times, he finally got the job."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee la noticia. Marca T o F y contesta las preguntas.",
+      "en": "Read the news article. Tick T or F and answer the questions.",
+      "text_title": "Historic market reopens after restoration",
+      "text": [
+        "Built in 1882 and badly damaged by a fire in 2019, the Northbridge Covered Market reopened yesterday after a three-year restoration. Having raised over £12 million from public and private sources, the city council was able to restore the building's original iron structure and stained-glass windows.",
+        "Thousands of visitors queued from early morning, causing long delays in the city centre. Stallholders, many of them from families that have worked there for generations, were delighted. \"Not knowing whether the market would ever reopen, we spent three very difficult years,\" said Ana Ruiz, whose fish stall was opened by her grandfather.",
+        "Asked about the cost of the project, the mayor said it had been worth every penny. \"Restored with care and run by local people, this market is the heart of our city,\" she said. Visitors wishing to take a guided tour can book online."
+      ],
+      "items": [
+        {
+          "q": "The market was built after the fire of 2019.",
+          "tf": true,
+          "a": false,
+          "why": "It was built in 1882."
+        },
+        {
+          "q": "The restoration took three years.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "The large number of visitors caused delays in the city centre.",
+          "tf": true,
+          "a": true,
+          "why": "…queued from early morning, causing long delays…"
+        },
+        {
+          "q": "Why were the last three years difficult for the stallholders?",
+          "a": "Because they didn't know whether the market would ever reopen."
+        },
+        {
+          "q": "Who opened Ana Ruiz's fish stall?",
+          "a": "Her grandfather."
+        },
+        {
+          "q": "Rewrite with a full clause: \"Asked about the cost of the project, the mayor said…\"",
+          "a": "When the mayor was asked about the cost of the project, she said it had been worth every penny."
+        },
+        {
+          "q": "Find a reduced relative clause in the last paragraph.",
+          "a": "Visitors wishing to take a guided tour (= who wish to take a guided tour)."
+        },
+        {
+          "q": "Find a perfect participle clause in paragraph 1.",
+          "a": "Having raised over £12 million from public and private sources"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe frases propias en registro formal o periodístico.",
+      "en": "Write your own sentences in a formal or journalistic style.",
+      "items": [
+        {
+          "q": "Describe un edificio de tu ciudad empezando con un participio pasado (<b>Built in…</b>, <b>Designed by…</b>).",
+          "lines": 2,
+          "a": "Ej.: Designed by Gaudí, Casa Batlló is one of the most visited buildings in Barcelona."
+        },
+        {
+          "q": "Cuenta lo que hiciste después de terminar algo, con <b>Having + participio</b>.",
+          "lines": 2,
+          "a": "Ej.: Having finished my exams, I went on holiday to Portugal."
+        },
+        {
+          "q": "Explica una decisión con <b>Not + -ing</b>.",
+          "lines": 2,
+          "a": "Ej.: Not wanting to miss the deadline, I worked all weekend."
+        },
+        {
+          "q": "Escribe un titular con una participial de resultado (<b>…, causing / leaving…</b>).",
+          "lines": 2,
+          "a": "Ej.: Heavy snow closed the airport, leaving thousands of passengers stranded."
+        },
+        {
+          "q": "Escribe un aviso formal con una relativa reducida (<b>Anyone wishing…</b>, <b>Passengers travelling…</b>).",
+          "lines": 2,
+          "a": "Ej.: Anyone wishing to attend the conference should register before 1 May."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Uso <b>-ing</b> para acciones simultáneas, causas y resultados.",
+      "en": "I use -ing for time, reason and result."
+    },
+    {
+      "es": "Uso el <b>participio pasado</b> con sentido pasivo: <i>Built in…, Used correctly…</i>",
+      "en": "I use past participles with a passive meaning."
+    },
+    {
+      "es": "Uso <b>having + participio</b> para una acción anterior.",
+      "en": "I use having + past participle for an earlier action."
+    },
+    {
+      "es": "Hago la negativa con <b>not</b> y uso <b>after / while / when</b> + participio.",
+      "en": "I can form negatives and use conjunction + participle."
+    },
+    {
+      "es": "Reduzco relativas: <i>the people <b>living</b> here, the files <b>sent</b> today</i>.",
+      "en": "I can reduce relative clauses."
+    },
+    {
+      "es": "Evito los <b>dangling participles</b>: mismo sujeto en las dos partes.",
+      "en": "I avoid dangling participles."
+    }
+  ]
+}

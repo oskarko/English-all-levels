@@ -1,0 +1,550 @@
+{
+  "id": "A1-12",
+  "level": "A1",
+  "title": "CAN <em>y</em> CAN'T",
+  "file_title": "Can y can't",
+  "subtitle": "Can and can't · saber hacer, poder",
+  "icon": "💪",
+  "map": {
+    "center": "Usamos <b>CAN</b> para decir lo que <b>sabemos</b> o <b>podemos</b> hacer, y para <b>pedir permiso</b> o favores.",
+    "nodes": [
+      {
+        "title": "¿Qué significa?",
+        "icon": "🔎",
+        "rows": [["can","= sé / puedo"],["can't","= no sé / no puedo"]],
+        "after": "Es <b>igual para todos</b>: I, you, he, she, it, we, they."
+      },
+      {
+        "title": "Afirmativa",
+        "icon": "✅",
+        "art": "🏊",
+        "items": [
+          "Sujeto + <b>can</b> + verbo",
+          "I <b>can</b> swim. <i>(Sé nadar.)</i>",
+          "She <b>can</b> ride a bike. <i>(Sabe montar en bici.)</i>",
+          "¡Sin <em>-s</em> y sin <em>to</em>!"
+        ]
+      },
+      {
+        "title": "Negativa",
+        "icon": "⛔",
+        "items": ["<b>can't</b> = <b>cannot</b> (todo junto)","I <b>can't</b> fly. <i>(No sé volar.)</i>","Rocky <b>can't</b> read. <i>(Rocky no sabe leer.)</i>"]
+      },
+      {
+        "title": "Preguntas",
+        "icon": "❓",
+        "art": "🎸",
+        "items": ["<b>Can</b> + sujeto + verbo…?","<b>Can</b> you swim? <i>(¿Sabes nadar?)</i>","<b>Can</b> I go out? <i>(¿Puedo salir?)</i>"]
+      },
+      {
+        "title": "Respuestas cortas",
+        "icon": "💬",
+        "items": ["Yes, I <b>can</b>. / No, I <b>can't</b>.","Yes, she <b>can</b>. / No, she <b>can't</b>.","¡Sin <em>do</em> y sin repetir el verbo!"]
+      },
+      {"title":"Tres usos","icon":"💡","items":["💪 Saber: I <b>can</b> skate.","🙋 Permiso: <b>Can I</b> go out?","🙏 Favor: <b>Can you</b> help me?"]}
+    ],
+    "error": {"title":"Error común","bad":["She cans swim."],"good":["She can swim."],"note":"can: <b>sin -s</b> y <b>sin to</b>"},
+    "mini": {
+      "es": "Completa con can o can't.",
+      "en": "Complete with can or can't.",
+      "items": [
+        {"q":"Birds ____ fly.","a":"can"},
+        {"q":"Fish ____ walk.","a":"can't"},
+        {"q":"A baby ____ drive a car.","a":"can't"},
+        {"q":"Rocky ____ run fast.","a":"can"},
+        {"q":"___ you play the piano?","a":"Can"}
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "<b>Can</b> es un verbo especial (un <i>verbo modal</i>). Significa <mark>saber hacer</mark> o <mark>poder</mark>. Lo usamos para decir lo que <b>sabemos hacer</b> (nadar, tocar el piano), para <b>pedir permiso</b> (¿Puedo ir al baño?) y para <b>pedir favores</b> (¿Me ayudas?).",
+      "en": "<b>Can</b> is a special verb. We use it to talk about <mark>ability</mark>, to ask for <mark>permission</mark> and to make <mark>requests</mark>.",
+      "formula": ["Sujeto + *can / can't* + verbo"]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Afirmativa",
+      "title_en": "Affirmative",
+      "icon": "✅",
+      "color": "green",
+      "es": "Detrás de <b>can</b> va el verbo <b>tal cual</b>, sin <em>to</em>. Y lo mejor: <b>can</b> es igual para todas las personas. ¡Nunca lleva <em>-s</em>, ni siquiera con he, she, it! El verbo de detrás tampoco lleva -s.",
+      "en": "After <b>can</b> we use the verb as it is, without <em>to</em>. <b>Can</b> is the same for everybody: never add <em>-s</em>.",
+      "formula": ["I / you / we / they + *can* + swim","he / she / it + *can* + swim"],
+      "examples": [
+        {"en":"I <b>can</b> swim.","es":"Sé nadar.","icon":"🏊"},
+        {"en":"Lucía <b>can</b> play the piano.","es":"Lucía sabe tocar el piano.","icon":"🎹"},
+        {"en":"Rocky <b>can</b> jump very high.","es":"Rocky puede saltar muy alto.","icon":"🐕"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Negativa",
+      "title_en": "Negative",
+      "icon": "⛔",
+      "color": "red",
+      "es": "Para decir que <b>no sabemos</b> o <b>no podemos</b>, usamos <b>can't</b>. La forma larga es <b>cannot</b>, y se escribe <mark>todo junto</mark>. ¡No usamos <em>don't</em> ni <em>no</em>: <s>I don't can</s>, <s>I no can</s>!",
+      "en": "To say we <b>can't</b> do something, use <b>can't</b> (long form: <b>cannot</b>, one word). Never <em>don't can</em> or <em>no can</em>.",
+      "formula": ["Sujeto + *can't* + verbo","Sujeto + *cannot* + verbo"],
+      "examples": [
+        {"en":"I <b>can't</b> ski.","es":"No sé esquiar.","icon":"⛷️"},
+        {"en":"My cat <b>can't</b> swim.","es":"Mi gato no sabe nadar.","icon":"🐈"},
+        {"en":"We <b>can't</b> play in the street.","es":"No podemos jugar en la calle.","icon":"🚫"}
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del robot",
+      "title_en": "The robot trick",
+      "es": "<b>CAN</b> es como un robot 🤖: siempre igual. No cambia con he, she, it (<s>cans</s>), no come <em>to</em> (<s>can to</s>) y no necesita ayudantes (<s>do you can</s>). ¡Robot CAN, robot fácil!",
+      "en": "<b>CAN</b> is like a robot: it never changes. No -s, no to, no do."
+    },
+    {
+      "t": "rule",
+      "title": "3 · Preguntas",
+      "title_en": "Questions",
+      "icon": "❓",
+      "color": "blue",
+      "es": "Para preguntar, <b>Can</b> <mark>salta delante del sujeto</mark>. ¡No necesita a <em>do</em> ni a <em>does</em>! (Así vencemos al <i>Verbo Saltarín</i>.)",
+      "en": "To ask a question, put <b>Can</b> <mark>before the subject</mark>. No <em>do</em> or <em>does</em>.",
+      "formula": ["*Can* + sujeto + verbo + …?"],
+      "examples": [
+        {"en":"<b>Can</b> you ride a horse?","es":"¿Sabes montar a caballo?","icon":"🐴"},
+        {"en":"<b>Can</b> Tom count to a hundred?","es":"¿Tom sabe contar hasta cien?","icon":"💯"},
+        {"en":"<b>Can</b> we watch cartoons?","es":"¿Podemos ver dibujos?","icon":"📺"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "4 · Respuestas cortas",
+      "title_en": "Short answers",
+      "icon": "💬",
+      "color": "teal",
+      "head": ["Pregunta · Question","Sí · Yes","No"],
+      "rows": [
+        ["Can you swim?","Yes, I <b>can</b>.","No, I <b>can't</b>."],
+        ["Can he skate?","Yes, he <b>can</b>.","No, he <b>can't</b>."],
+        ["Can she sing?","Yes, she <b>can</b>.","No, she <b>can't</b>."],
+        ["Can it fly?","Yes, it <b>can</b>.","No, it <b>can't</b>."],
+        ["Can I go out?","Yes, you <b>can</b>.","No, you <b>can't</b>."],
+        ["Can they draw?","Yes, they <b>can</b>.","No, they <b>can't</b>."]
+      ],
+      "note": "La respuesta corta repite <b>can</b>, no el verbo: <s>Yes, I do.</s> <s>Yes, I swim.</s> → Yes, I can. Y ojo: si preguntas <b>Can I…?</b>, te contestan <b>Yes, you can.</b>",
+      "note_en": "Short answers repeat <b>can</b>: Yes, I can. / No, I can't. Can I…? → Yes, you can."
+    },
+    {
+      "t": "dialogue",
+      "title": "En el patio",
+      "title_en": "In the playground",
+      "lines": [
+        {"who":"Mario","en":"Sara, can you play basketball?","es":"Sara, ¿sabes jugar al baloncesto?"},
+        {"who":"Sara","en":"Yes, I can! I'm in the school team.","es":"¡Sí! Estoy en el equipo del cole."},
+        {"who":"Mario","en":"Cool! I can't play basketball, but I can play football.","es":"¡Qué guay! Yo no sé jugar al baloncesto, pero sé jugar al fútbol."},
+        {"who":"Sara","en":"Can you teach me? I can't kick the ball very well.","es":"¿Me enseñas? No sé chutar muy bien."},
+        {"who":"Mario","en":"Of course! Can I play basketball with you tomorrow?","es":"¡Claro! ¿Puedo jugar al baloncesto contigo mañana?"},
+        {"who":"Sara","en":"Yes, you can. Can you bring your ball?","es":"Sí. ¿Puedes traer tu pelota?"},
+        {"who":"Mario","en":"Yes, I can. See you tomorrow!","es":"Sí. ¡Hasta mañana!"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Todo junto",
+      "title_en": "All together",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": ["Sujeto · Subject","✅ Afirmativa","⛔ Negativa","❓ Pregunta","💬 Respuesta corta"],
+      "rows": [
+        ["I","I can swim.","I can't swim.","Can I swim?","Yes, I can. / No, I can't."],
+        ["you","You can swim.","You can't swim.","Can you swim?","Yes, you can. / No, you can't."],
+        ["he","He <b>can</b> swim.","He <b>can't</b> swim.","<b>Can</b> he swim?","Yes, he can. / No, he can't."],
+        ["she","She <b>can</b> swim.","She <b>can't</b> swim.","<b>Can</b> she swim?","Yes, she can. / No, she can't."],
+        ["it","It <b>can</b> swim.","It <b>can't</b> swim.","<b>Can</b> it swim?","Yes, it can. / No, it can't."],
+        ["we","We can swim.","We can't swim.","Can we swim?","Yes, we can. / No, we can't."],
+        ["they","They can swim.","They can't swim.","Can they swim?","Yes, they can. / No, they can't."]
+      ],
+      "note": "¿Ves? Con he, she, it no cambia nada: <b>can</b> es siempre <b>can</b>. ¡Una sola forma para todos!",
+      "note_en": "With he, she, it nothing changes: <b>can</b> is always <b>can</b>."
+    },
+    {
+      "t": "compare",
+      "title": "Tres usos de CAN",
+      "title_en": "Three uses of can",
+      "color": "purple",
+      "icon": "🎯",
+      "wide": true,
+      "es": "En español decimos <b>saber</b> («sé nadar») y <b>poder</b> («¿puedo salir?»). En inglés, ¡las dos cosas son <b>can</b>! También lo usamos para pedir un favor de forma amable.",
+      "en": "Spanish uses <i>saber</i> and <i>poder</i>. English uses <b>can</b> for both, and also for polite requests.",
+      "cols": [
+        {"head":"💪 Saber hacer · ability","color":"green","items":["I <b>can</b> swim.","Anna <b>can</b> speak English.","Rocky <b>can't</b> climb trees."]},
+        {"head":"🙋 Permiso · permission","color":"blue","items":["<b>Can I</b> go to the toilet?","You <b>can</b> use my rubber.","You <b>can't</b> run in class."]},
+        {"head":"🙏 Favor · request","color":"orange","items":["<b>Can you</b> help me?","<b>Can you</b> open the door?","<b>Can you</b> pass me the water, please?"]}
+      ]
+    },
+    {
+      "t": "vocab",
+      "title": "¿Qué sabes hacer?",
+      "title_en": "Action verbs",
+      "icon": "🤸",
+      "color": "pink",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {"en":"swim","es":"nadar","icon":"🏊"},
+        {"en":"ride a bike","es":"montar en bici","icon":"🚲"},
+        {"en":"ride a horse","es":"montar a caballo","icon":"🐴"},
+        {"en":"play football","es":"jugar al fútbol","icon":"⚽"},
+        {"en":"play the piano","es":"tocar el piano","icon":"🎹"},
+        {"en":"play the guitar","es":"tocar la guitarra","icon":"🎸"},
+        {"en":"dance","es":"bailar","icon":"💃"},
+        {"en":"sing","es":"cantar","icon":"🎤"},
+        {"en":"draw","es":"dibujar","icon":"🎨"},
+        {"en":"skate","es":"patinar","icon":"⛸️"},
+        {"en":"ski","es":"esquiar","icon":"⛷️"},
+        {"en":"climb","es":"trepar, escalar","icon":"🧗"},
+        {"en":"jump","es":"saltar","icon":"🦘"},
+        {"en":"run","es":"correr","icon":"🏃"},
+        {"en":"fly","es":"volar","icon":"🦅"},
+        {"en":"cook","es":"cocinar","icon":"🍳"}
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {"en":"I <b>can</b> count to a hundred in English.","es":"Sé contar hasta cien en inglés.","icon":"💯"},
+        {"en":"My grandma <b>can</b> cook paella.","es":"Mi abuela sabe hacer paella.","icon":"🥘"},
+        {"en":"Leo <b>can't</b> swim, but he <b>can</b> run very fast.","es":"Leo no sabe nadar, pero corre muy rápido.","icon":"🏃"},
+        {"en":"<b>Can</b> I have some water, please?","es":"¿Me puedes dar agua, por favor?","icon":"💧"},
+        {"en":"<b>Can</b> you help me with my homework?","es":"¿Me ayudas con los deberes?","icon":"📚"},
+        {"en":"Penguins <b>can't</b> fly, but they <b>can</b> swim.","es":"Los pingüinos no pueden volar, pero saben nadar.","icon":"🐧"},
+        {"en":"You <b>can't</b> use your phone in class.","es":"No puedes usar el móvil en clase.","icon":"📵"},
+        {"en":"<b>Can</b> Rocky catch a ball? — Yes, he <b>can</b>!","es":"¿Rocky sabe coger una pelota? — ¡Sí!","icon":"🎾"},
+        {"en":"We <b>can</b> play football after school.","es":"Podemos jugar al fútbol después del cole.","icon":"⚽"},
+        {"en":"My baby cousin <b>can't</b> walk.","es":"Mi primo bebé no sabe andar.","icon":"👶"},
+        {"en":"<b>Can</b> you spell your name? — Yes, I <b>can</b>. M-A-R-I-O.","es":"¿Sabes deletrear tu nombre? — Sí. M-A-R-I-O.","icon":"🔤"},
+        {"en":"Anna <b>can</b> speak three languages.","es":"Anna sabe hablar tres idiomas.","icon":"🗣️"}
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "serpiente",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {"bad":"He cans swim.","good":"He <b>can</b> swim.","why":"Can nunca lleva -s.","why_en":"Can never takes -s."},
+        {"bad":"She can sings very well.","good":"She can <b>sing</b> very well.","why":"El verbo detrás de can, sin -s.","why_en":"No -s on the verb after can."},
+        {"bad":"I can to ride a bike.","good":"I can <b>ride</b> a bike.","why":"Detrás de can no va to.","why_en":"No to after can."},
+        {"bad":"We don't can go out.","good":"We <b>can't</b> go out.","why":"Negativa: can't, sin don't.","why_en":"Negative: can't, not don't can."},
+        {"bad":"I no can whistle.","good":"I <b>can't</b> whistle.","why":"En inglés no se niega con «no».","why_en":"Use can't, not no."},
+        {"bad":"You can play the guitar?","good":"<b>Can you</b> play the guitar?","why":"En la pregunta, can salta delante.","why_en":"In questions, can goes first."},
+        {"bad":"Do you can ski?","good":"<b>Can</b> you ski?","why":"Can no necesita do.","why_en":"No do with can."},
+        {"bad":"Can you swim? — Yes, I do.","good":"Yes, I <b>can</b>.","why":"Respuesta corta con can.","why_en":"Short answer with can."}
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {"es":"Busca el <b>sujeto</b>: ¿quién sabe o puede hacerlo?","en":"Find the subject: who can do it?"},
+        {"es":"Pon <b>can</b> (sí) o <b>can't</b> (no). ¡Es igual para todos!","en":"Add can (yes) or can't (no). Same for everybody!"},
+        {"es":"Añade el <b>verbo tal cual</b>: sin to, sin -s, sin -ing.","en":"Add the verb as it is: no to, no -s, no -ing."},
+        {"es":"¿Pregunta? → <b>Can</b> salta delante: Can + sujeto + verbo…?","en":"Question? → Can + subject + verb…?"},
+        {"es":"Repasa: ¿hay un solo verbo limpio detrás de can? ¿Sin do?","en":"Check: one clean verb after can, no do."}
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Escucha la diferencia",
+      "title_en": "Listen to the difference",
+      "color": "teal",
+      "es": "<b>can</b> se dice flojito y rápido: /kən/ (casi «kn»). <b>can't</b> se dice fuerte y largo: /kɑːnt/ (como «caant»). Si oyes una <b>a</b> larga y fuerte, ¡es <b>can't</b>!",
+      "en": "<b>can</b> is short and weak /kən/. <b>can't</b> is long and strong /kɑːnt/."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "Une inglés y español",
+      "title_en": "Match English and Spanish",
+      "icon": "🔗",
+      "es": "Une cada acción con su traducción.",
+      "en": "Match each action with its translation.",
+      "pairs": [
+        ["🏊 nadar","swim"],
+        ["🚲 montar en bici","ride a bike"],
+        ["🎹 tocar el piano","play the piano"],
+        ["🎤 cantar","sing"],
+        ["🎨 dibujar","draw"],
+        ["⛸️ patinar","skate"],
+        ["🧗 trepar","climb"],
+        ["🍳 cocinar","cook"]
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct option",
+      "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta. Piensa: ¿qué es verdad? ¿qué está bien escrito?",
+      "en": "Circle the correct option.",
+      "items": [
+        {"q":"Birds [can|can't] fly.","a":"can"},
+        {"q":"Fish [can|can't] walk.","a":"can't"},
+        {"q":"A baby [can|can't] drive a car.","a":"can't"},
+        {"q":"Monkeys [can|can't] climb trees.","a":"can"},
+        {"q":"She can [swim|swims] very well.","a":"swim"},
+        {"q":"He [can|cans] play chess.","a":"can"},
+        {"q":"I can [ride|to ride] a bike.","a":"ride"},
+        {"q":"[Can you|You can] help me, please?","a":"Can you"},
+        {"q":"Rocky [can't|doesn't can] read.","a":"can't"},
+        {"q":"Can you skate? — Yes, I [can|do].","a":"can"}
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Para qué usamos can?",
+      "title_en": "Sort the sentences",
+      "icon": "🗂️",
+      "es": "Escribe cada frase en su caja: ¿dice lo que alguien <b>sabe hacer</b>, <b>pide permiso</b> o <b>pide un favor</b>?",
+      "en": "Is it ability, permission or a request? Write each sentence in the right box.",
+      "cats": [
+        {"name":"💪 Saber hacer","words":["I can swim.","Tom can draw horses.","My dad can't sing."]},
+        {"name":"🙋 Permiso","words":["Can I go out?","You can use my pen.","Can we play now?"]},
+        {"name":"🙏 Favor","words":["Can you help me?","Can you open the door?","Can you pass me the salt?"]}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "can o can't",
+      "title_en": "can or can't",
+      "icon": "💪",
+      "es": "Completa con can (✅ sí) o can't (❌ no). Mira la pista al final de cada frase.",
+      "en": "Complete with can (✅) or can't (❌).",
+      "bank": ["can","can't"],
+      "items": [
+        {"q":"Lucía ____ play the piano.","a":"can","hint":"✅"},
+        {"q":"I ____ fly.","a":"can't","hint":"❌"},
+        {"q":"My dad ____ cook paella.","a":"can","hint":"✅"},
+        {"q":"Rocky ____ climb trees.","a":"can't","hint":"❌"},
+        {"q":"We ____ speak English.","a":"can","hint":"✅"},
+        {"q":"Tom ____ ride a horse.","a":"can't","hint":"❌"},
+        {"q":"Penguins ____ swim.","a":"can","hint":"✅"},
+        {"q":"My grandma ____ use a computer.","a":"can","hint":"✅"},
+        {"q":"Babies ____ read.","a":"can't","hint":"❌"},
+        {"q":"You ____ eat in the library.","a":"can't","hint":"❌"}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Respuestas cortas",
+      "title_en": "Short answers",
+      "icon": "💬",
+      "es": "Completa la respuesta corta con can o can't.",
+      "en": "Complete the short answer.",
+      "items": [
+        {"q":"Can you swim? — Yes, I ____.","a":"can"},
+        {"q":"Can Sara ski? — No, she ____.","a":"can't"},
+        {"q":"Can Rocky jump? — Yes, he ____.","a":"can"},
+        {"q":"Can your parents dance? — No, they ____.","a":"can't"},
+        {"q":"Can I open the window? — Yes, you ____.","a":"can"},
+        {"q":"Can Leo play the guitar? — No, he ____.","a":"can't"},
+        {"q":"Can you and Lucía swim? — Yes, we ____.","a":"can"},
+        {"q":"Can the parrot talk? — Yes, it ____.","a":"can"}
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "wide": true,
+      "es": "Completa las casillas vacías. Recuerda: can no cambia nunca.",
+      "en": "Fill in the empty boxes.",
+      "head": ["Sujeto","✅ Afirmativa","⛔ Negativa","❓ Pregunta"],
+      "rows": [
+        ["I","I can swim.","?I can't swim.","?Can I swim?"],
+        ["she","?She can dance.","She can't dance.","?Can she dance?"],
+        ["we","?We can skate.","?We can't skate.","Can we skate?"],
+        ["Rocky","Rocky can run fast.","?Rocky can't run fast.","?Can Rocky run fast?"],
+        ["they","?They can draw.","They can't draw.","?Can they draw?"],
+        ["you","You can sing.","?You can't sing.","?Can you sing?"]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pasa a negativa",
+      "title_en": "Make it negative",
+      "icon": "⛔",
+      "es": "Escribe la frase en negativa con can't.",
+      "en": "Write the sentence in the negative.",
+      "items": [
+        {"q":"I can play tennis.","a":"I can't play tennis."},
+        {"q":"She can speak French.","a":"She can't speak French."},
+        {"q":"We can go out today.","a":"We can't go out today."},
+        {"q":"My cat can open the door.","a":"My cat can't open the door."},
+        {"q":"They can come to my party.","a":"They can't come to my party."},
+        {"q":"Mario can ride a horse.","a":"Mario can't ride a horse."},
+        {"q":"You can sit here.","a":"You can't sit here."},
+        {"q":"It can talk.","a":"It can't talk."}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pregunta y responde",
+      "title_en": "Ask and answer",
+      "icon": "❓",
+      "es": "Escribe la pregunta con Can y luego la respuesta corta. Fíjate en la pista (YES / NO).",
+      "en": "Write the question and the short answer.",
+      "labels": ["❓","💬"],
+      "items": [
+        {"q":"you / swim (YES)","a":["Can you swim?","Yes, I can."]},
+        {"q":"Lucía / ski (NO)","a":["Can Lucía ski?","No, she can't."]},
+        {"q":"your dad / cook (NO)","a":["Can your dad cook?","No, he can't."]},
+        {"q":"the bird / talk (YES)","a":["Can the bird talk?","Yes, it can."]},
+        {"q":"Tom and Anna / dance (NO)","a":["Can Tom and Anna dance?","No, they can't."]}
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {"q":"swim / I / can","a":"I can swim."},
+        {"q":"can't / Rocky / read","a":"Rocky can't read."},
+        {"q":"you / can / skate / ?","a":"Can you skate?"},
+        {"q":"play / Lucía / can / the piano","a":"Lucía can play the piano."},
+        {"q":"go / I / can / to the toilet / ?","a":"Can I go to the toilet?"},
+        {"q":"can't / we / football / play / here","a":"We can't play football here."},
+        {"q":"help / you / can / me / ?","a":"Can you help me?"},
+        {"q":"very / can / fast / my / run / dog","a":"My dog can run very fast."}
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {"q":"He cans swim.","a":"He can swim."},
+        {"q":"She can sings very well.","a":"She can sing very well."},
+        {"q":"I can to ride a bike.","a":"I can ride a bike."},
+        {"q":"We don't can go out.","a":"We can't go out."},
+        {"q":"You can play the guitar?","a":"Can you play the guitar?"},
+        {"q":"Do you can ski?","a":"Can you ski?"},
+        {"q":"I no can whistle.","a":"I can't whistle."},
+        {"q":"Can you swim? — Yes, I do.","a":"Can you swim? — Yes, I can."}
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Recuerda: «saber hacer» y «poder» son los dos <b>can</b>.",
+      "en": "Translate into English.",
+      "items": [
+        {"q":"Sé nadar.","a":"I can swim."},
+        {"q":"Mi hermana no sabe montar en bici.","a":"My sister can't ride a bike."},
+        {"q":"¿Sabes tocar la guitarra?","a":"Can you play the guitar?"},
+        {"q":"¿Puedo ir al baño?","a":"Can I go to the toilet?"},
+        {"q":"¿Me ayudas, por favor?","a":"Can you help me, please?"},
+        {"q":"Rocky sabe saltar muy alto.","a":"Rocky can jump very high."},
+        {"q":"No podemos jugar en clase.","a":"We can't play in class."},
+        {"q":"Los pingüinos no pueden volar.","a":"Penguins can't fly."}
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "Sara and her friends",
+      "text": [
+        "Hi! I'm Sara. I'm nine and I love sport. I can swim, I can ride a bike and I can play basketball. But I can't skate. It's very difficult for me!",
+        "My best friend is Leo. He can't swim, but he can run very fast and he can jump very high. My little brother Pablo is three. He can't ride a bike, but he can sing lots of songs. Our dog, Coco, can catch a ball. Can your dog catch a ball?"
+      ],
+      "items": [
+        {"q":"Sara can skate.","tf":true,"a":false,"why":"She can't skate."},
+        {"q":"Leo can run very fast.","tf":true,"a":true},
+        {"q":"Pablo can ride a bike.","tf":true,"a":false,"why":"He can't ride a bike."},
+        {"q":"What sports can Sara do?","a":"She can swim, ride a bike and play basketball."},
+        {"q":"Can Leo swim?","a":"No, he can't."},
+        {"q":"Can Pablo sing?","a":"Yes, he can."},
+        {"q":"What can Coco do?","a":"Coco can catch a ball."}
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea la palabra",
+      "title_en": "Spell the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe el verbo en las cajas. (¡Ojo con el Monstruo Ae: climb y write tienen letras mudas!)",
+      "en": "Unscramble the letters and write the verb.",
+      "items": [{"q":"🏊 nadar","a":"swim"},{"q":"🎨 dibujar","a":"draw"},{"q":"🧗 trepar","a":"climb"},{"q":"✍️ escribir","a":"write"},{"q":"💃 bailar","a":"dance"}]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca los 8 verbos. Después escribe dos frases: una con can y otra con can't.",
+      "en": "Find the 8 verbs. Then write one sentence with can and one with can't.",
+      "words": ["swim","dance","sing","skate","climb","ride","jump","cook"],
+      "clues": ["swim · nadar","dance · bailar","sing · cantar","skate · patinar","climb · trepar","ride · montar","jump · saltar","cook · cocinar"]
+    },
+    {
+      "t": "truefalse",
+      "title": "Repasa las reglas",
+      "title_en": "True or false?",
+      "icon": "✔️",
+      "es": "Lee cada regla. ¿Es verdadera (T) o falsa (F)? Si es falsa, piensa cómo es de verdad.",
+      "en": "Read each rule. Is it true or false?",
+      "items": [
+        {"q":"Detrás de <b>can</b>, el verbo va sin <i>to</i>.","a":true},
+        {"q":"Con he, she, it decimos <b>cans</b>.","a":false,"why":"Can no cambia nunca: he can."},
+        {"q":"La negativa de can es <b>can't</b> o <b>cannot</b>.","a":true},
+        {"q":"Para preguntar decimos: <b>Do you can swim?</b>","a":false,"why":"Can you swim? (sin do)"},
+        {"q":"<b>Can</b> sirve para decir lo que sabemos hacer.","a":true},
+        {"q":"<b>Cannot</b> normalmente se escribe separado: can not.","a":false,"why":"Se escribe todo junto: cannot."}
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe frases sobre ti y tu familia. Usa can, can't, Can I…? y Can you…?",
+      "en": "Write about you and your family.",
+      "items": [
+        {"q":"Escribe 3 cosas que <b>sabes hacer</b>: I can…","lines":2,"a":"Ej.: I can swim. I can ride a bike. I can draw cats."},
+        {"q":"Escribe 2 cosas que <b>no sabes hacer</b>: I can't…","lines":2,"a":"Ej.: I can't ski. I can't play the piano."},
+        {"q":"Escribe sobre alguien de tu familia: He / She can… but he / she can't…","lines":2,"a":"Ej.: My sister can play the piano, but she can't swim."},
+        {
+          "q": "Pide <b>permiso</b> a tu profe y pide un <b>favor</b> a un amigo: Can I…? / Can you…?",
+          "lines": 2,
+          "a": "Ej.: Can I open the window, please? Can you lend me a pencil?"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {"es":"Sé decir lo que <b>sé hacer</b> con can: I can swim.","en":"I can say what I can do."},
+    {"es":"Sé decir lo que <b>no sé hacer</b> con can't.","en":"I can say what I can't do."},
+    {"es":"Sé preguntar <b>Can you…?</b> y contestar Yes, I can. / No, I can't.","en":"I can ask and answer with can."},
+    {"es":"Sé pedir permiso (<b>Can I…?</b>) y pedir favores (<b>Can you…?</b>).","en":"I can ask for permission and make requests."},
+    {"es":"Nunca escribo <s>cans</s>, <s>can to</s> ni <s>don't can</s>.","en":"I never write cans, can to or don't can."},
+    {"es":"Detrás de can pongo el verbo <b>tal cual</b>, sin -s.","en":"After can, I use the verb without -s."}
+  ]
+}

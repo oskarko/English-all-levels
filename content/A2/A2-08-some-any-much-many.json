@@ -1,0 +1,484 @@
+{
+  "id": "A2-08",
+  "level": "A2",
+  "title": "SOME, ANY, MUCH, MANY",
+  "file_title": "Some, any, much, many",
+  "subtitle": "Countable and uncountable · cantidades",
+  "icon": "🛒",
+  "map": {
+    "center": "Unas cosas se <b>cuentan</b> (apples) y otras <b>no</b> (water). Eso decide si uso <b>many</b> o <b>much</b>, <b>a few</b> o <b>a little</b>.",
+    "nodes": [
+      {
+        "title": "Contables", "icon": "🍎", "art": "🍌",
+        "items": ["Se pueden contar: one apple, two apples", "Tienen plural: eggs, sweets, friends", "En singular llevan a / an: <b>an</b> egg"]
+      },
+      {
+        "title": "Incontables", "icon": "💧", "art": "🥛",
+        "items": ["No se cuentan: water, milk, bread, money", "Sin plural y sin a / an: <s>a bread</s> <s>breads</s>", "Verbo en singular: The milk <b>is</b> cold."]
+      },
+      {
+        "title": "SOME / ANY", "icon": "🧺",
+        "rows": [["some", "✅ afirmativas: I've got some sweets."], ["any", "⛔ negativas y ❓ preguntas"]],
+        "after": "Para ofrecer o pedir → <b>some</b>: Can I have some water?"
+      },
+      {
+        "title": "MUCH / MANY", "icon": "🔢",
+        "rows": [["many", "+ contables: many apples"], ["much", "+ incontables: much milk"]],
+        "after": "Sobre todo en ⛔ y ❓: <b>How many</b>…? <b>How much</b>…?"
+      },
+      {
+        "title": "A LOT OF", "icon": "🎉",
+        "items": ["Vale para <b>todo</b>: a lot of apples, a lot of milk", "En ✅ es lo más natural: I've got <b>a lot of</b> friends.", "<b>lots of</b> = a lot of"]
+      },
+      {
+        "title": "A FEW / A LITTLE", "icon": "🤏",
+        "rows": [["a few", "+ contables: a few friends <i>(unos pocos)</i>"], ["a little", "+ incontables: a little sugar <i>(un poco)</i>"]]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["How many money have you got?"],
+      "good": ["How much money have you got?"],
+      "note": "money no se cuenta → <b>much</b>"
+    },
+    "mini": {
+      "es": "Completa con some, any, much o many.",
+      "en": "Complete with some, any, much or many.",
+      "items": [
+        { "q": "There are ____ apples in the bag.", "a": "some" },
+        { "q": "Is there ____ milk in the fridge?", "a": "any" },
+        { "q": "How ____ sweets have you got?", "a": "many" },
+        { "q": "How ____ water do you drink?", "a": "much" },
+        { "q": "I haven't got ____ homework today.", "a": "any" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "En inglés las cosas se dividen en dos equipos: las que se pueden <b>contar</b> (<i>countable</i>: one apple, two apples) y las que <b>no se pueden contar</b> (<i>uncountable</i>: water, milk, bread). Saber de qué equipo es una palabra es la clave para elegir <mark>some o any</mark>, <mark>much o many</mark> y <mark>a few o a little</mark>.",
+      "en": "Nouns can be <b>countable</b> (apples) or <b>uncountable</b> (water). This decides if we use <b>much</b> or <b>many</b>, <b>a few</b> or <b>a little</b>.",
+      "formula": ["*contable* + one apple, two apples", "*incontable* + water, milk (sin plural)"]
+    },
+    {
+      "t": "rule", "title": "1 · Contables", "title_en": "Countable nouns", "icon": "🍎", "color": "green",
+      "es": "Los nombres <b>contables</b> son cosas que puedes contar con los dedos: <i>one banana, two bananas, three bananas</i>. Tienen <b>singular y plural</b>, y en singular llevan <b>a / an</b>: <i>a sandwich, an egg</i>. Son casi todos los objetos, animales y personas.",
+      "en": "<b>Countable</b> nouns can be counted. They have a singular and a plural, and use <b>a / an</b> in the singular.",
+      "formula": ["*a / an* + egg", "two / three + *eggs*"],
+      "examples": [
+        { "en": "Leo has got <b>two brothers</b>.", "es": "Leo tiene dos hermanos.", "icon": "👦" },
+        { "en": "There's <b>an apple</b> in my lunchbox.", "es": "Hay una manzana en mi fiambrera.", "icon": "🍎" },
+        { "en": "Rocky has got <b>three balls</b>.", "es": "Rocky tiene tres pelotas.", "icon": "🎾" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · Incontables", "title_en": "Uncountable nouns", "icon": "💧", "color": "blue",
+      "es": "Los nombres <b>incontables</b> son cosas que no puedes contar una a una: líquidos (<i>water, milk, juice</i>), cosas en polvo o en granitos (<i>sugar, rice, flour</i>) y otras como <i>bread, cheese, money, homework, music, hair</i>. <mark>No tienen plural</mark>, no llevan <b>a / an</b> y el verbo va en <b>singular</b>. ¡Ojo! En español decimos «un pan» o «los deberes», pero en inglés <s>a bread</s> y <s>homeworks</s> están mal.",
+      "en": "<b>Uncountable</b> nouns (water, milk, bread, money, homework) have no plural and no <b>a / an</b>. The verb is singular.",
+      "formula": ["water / milk / bread + *is*"],
+      "examples": [
+        { "en": "<b>Water is</b> very important.", "es": "El agua es muy importante.", "icon": "💧" },
+        { "en": "I love <b>chocolate</b>!", "es": "¡Me encanta el chocolate!", "icon": "🍫" },
+        { "en": "Lucía's <b>hair is</b> very long.", "es": "Lucía tiene el pelo muy largo.", "icon": "💇" }
+      ]
+    },
+    {
+      "t": "compare", "title": "¿Contable o incontable?", "title_en": "Countable or uncountable?", "icon": "⚖️", "color": "teal",
+      "es": "Truco: si puedes poner un <b>número</b> delante (<i>two eggs</i> ✅), es <b>contable</b>. Si suena raro (<s>two milks</s>), es <b>incontable</b>.",
+      "en": "Can you put a number before it? Yes → countable. No → uncountable.",
+      "cols": [
+        { "head": "🍎 Contables", "color": "green", "items": ["apple → apples", "egg → eggs", "sweet → sweets", "biscuit → biscuits", "sandwich → sandwiches", "friend → friends"] },
+        { "head": "💧 Incontables", "color": "blue", "items": ["water · milk · juice", "bread · cheese · rice", "sugar · flour · butter", "money · time", "homework · music", "hair · fruit"] }
+      ]
+    },
+    {
+      "t": "rule", "title": "3 · SOME y ANY", "title_en": "Some and any", "icon": "🧺", "color": "orange",
+      "es": "<b>Some</b> y <b>any</b> significan «algo de» o «algunos/as», y sirven para contables en <b>plural</b> e incontables. La regla fácil: <b>some</b> en frases <b>afirmativas</b> ✅, <b>any</b> en <b>negativas</b> ⛔ y <b>preguntas</b> ❓. En negativa, <i>any</i> significa «nada de» o «ningún»: <i>I haven't got any money</i> = No tengo nada de dinero. Para <b>ofrecer</b> o <b>pedir</b> algo usamos <b>some</b> aunque sea pregunta: <i>Would you like some cake?</i>",
+      "en": "<b>some</b> → affirmative sentences. <b>any</b> → negatives and questions. Offers and requests use <b>some</b>.",
+      "formula": ["✅ + *some* + sweets / milk", "⛔ ❓ + *any* + sweets / milk"],
+      "examples": [
+        { "en": "I've got <b>some</b> sweets in my bag.", "es": "Tengo unas chuches en la mochila.", "icon": "🍬" },
+        { "en": "There isn't <b>any</b> milk in the fridge.", "es": "No hay leche en la nevera.", "icon": "🥛" },
+        { "en": "Have you got <b>any</b> brothers or sisters?", "es": "¿Tienes hermanos?", "icon": "👫" },
+        { "en": "Would you like <b>some</b> cake?", "es": "¿Quieres tarta?", "icon": "🍰" }
+      ]
+    },
+    {
+      "t": "rule", "title": "4 · MUCH y MANY", "title_en": "Much and many", "icon": "🔢", "color": "teal",
+      "es": "<b>Many</b> (muchos/as) va con <b>contables en plural</b>: <i>many books, many friends</i>. <b>Much</b> (mucho/a) va con <b>incontables</b>: <i>much water, much time</i>. Las usamos sobre todo en <b>negativas</b> y <b>preguntas</b>. Truco: <b>many</b> → cosas que cuentas con <b>números</b> (1, 2, 3…); <b>much</b> → un <b>montón</b> que no se puede contar.",
+      "en": "<b>many</b> + plural countables; <b>much</b> + uncountables. We use them mostly in negatives and questions.",
+      "formula": ["*many* + books / friends / apples", "*much* + water / time / money"],
+      "examples": [
+        { "en": "Are there <b>many</b> children in your class?", "es": "¿Hay muchos niños en tu clase?", "icon": "🏫" },
+        { "en": "I haven't got <b>much</b> time.", "es": "No tengo mucho tiempo.", "icon": "⏳" },
+        { "en": "Tom doesn't eat <b>many</b> vegetables.", "es": "Tom no come muchas verduras.", "icon": "🥦" }
+      ]
+    },
+    {
+      "t": "rule", "title": "5 · A LOT OF", "title_en": "A lot of", "icon": "🎉", "color": "green",
+      "es": "<b>A lot of</b> (o <b>lots of</b>) significa «mucho/a, muchos/as» y es la palabra <mark>comodín</mark>: sirve para contables e incontables. En las frases <b>afirmativas</b> es lo más natural: decimos <i>I've got a lot of homework</i>, no <s>I've got much homework</s> (suena muy raro).",
+      "en": "<b>a lot of / lots of</b> works with countable and uncountable nouns. It's the natural choice in affirmative sentences.",
+      "formula": ["*a lot of* + comics / fruit"],
+      "examples": [
+        { "en": "Tom has got <b>a lot of</b> comics.", "es": "Tom tiene muchos cómics.", "icon": "📚" },
+        { "en": "We eat <b>a lot of</b> fruit at home.", "es": "En casa comemos mucha fruta.", "icon": "🍓" },
+        { "en": "There are <b>lots of</b> people in the park today.", "es": "Hoy hay mucha gente en el parque.", "icon": "🌳" }
+      ]
+    },
+    {
+      "t": "table", "title": "6 · HOW MUCH y HOW MANY", "title_en": "How much? How many?", "icon": "❓", "color": "blue",
+      "head": ["Pregunta · Question", "Respuesta · Answer"],
+      "rows": [
+        ["<b>How many</b> brothers have you got?", "Two. / I haven't got any."],
+        ["<b>How many</b> apples are there?", "There are five."],
+        ["<b>How many</b> pets has Anna got?", "Only one, a cat."],
+        ["<b>How much</b> milk is there?", "There's a lot."],
+        ["<b>How much</b> water do you drink?", "A lot! Six glasses a day."],
+        ["<b>How much</b> homework have you got?", "Not much, only Maths."]
+      ],
+      "note": "<b>How many</b> + nombre en plural · <b>How much</b> + incontable. <small>Ojo: <i>How much is it?</i> también sirve para preguntar un <b>precio</b>; lo verás en «Precios y dinero».</small>",
+      "note_en": "How many + plural noun. How much + uncountable noun."
+    },
+    {
+      "t": "rule", "title": "7 · A FEW y A LITTLE", "title_en": "A few and a little", "icon": "🤏", "color": "pink",
+      "es": "Para hablar de una <b>cantidad pequeña</b>: <b>a few</b> (unos pocos, unas pocas) con <b>contables</b> en plural, y <b>a little</b> (un poco de) con <b>incontables</b>. Truco: <b>a few</b> = unos pocos que puedes contar (1, 2, 3); <b>a little</b> = un poquito que no se cuenta.",
+      "en": "<b>a few</b> + plural countables (a few friends). <b>a little</b> + uncountables (a little sugar).",
+      "formula": ["*a few* + biscuits / friends", "*a little* + milk / sugar"],
+      "examples": [
+        { "en": "There are <b>a few</b> biscuits in the box.", "es": "Hay unas pocas galletas en la caja.", "icon": "🍪" },
+        { "en": "Can I have <b>a little</b> sugar, please?", "es": "¿Me das un poco de azúcar, por favor?", "icon": "🥄" },
+        { "en": "I've got <b>a few</b> friends in my street.", "es": "Tengo unos pocos amigos en mi calle.", "icon": "👫" }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Qué palabra uso?", "title_en": "Which word do I use?", "color": "orange",
+      "items": [
+        { "es": "Mira el nombre: ¿se puede <b>contar</b> (two apples ✅) o no (<s>two milks</s>)?", "en": "Is the noun countable or uncountable?" },
+        { "es": "¿La frase es ✅ afirmativa? → <b>some</b> o <b>a lot of</b>.", "en": "Affirmative → some / a lot of." },
+        { "es": "¿Es ⛔ negativa o ❓ pregunta? → <b>any</b>. Para «mucho»: <b>many</b> (contable) o <b>much</b> (incontable).", "en": "Negative or question → any, many, much." },
+        { "es": "¿Preguntas la cantidad? → <b>How many</b> + plural / <b>How much</b> + incontable.", "en": "Asking the amount → How many / How much." },
+        { "es": "¿Es una cantidad pequeña? → <b>a few</b> (contable) / <b>a little</b> (incontable).", "en": "Small amount → a few / a little." },
+        { "es": "¿Ofreces o pides algo? → <b>some</b>: Would you like some…? Can I have some…?", "en": "Offers and requests → some." }
+      ]
+    },
+    {
+      "t": "table", "title": "Todo junto", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["Uso · Use", "🍎 Contables (apples)", "💧 Incontables (water)", "Ejemplo · Example"],
+      "rows": [
+        ["✅ afirmativa", "<b>some</b> · <b>a lot of</b>", "<b>some</b> · <b>a lot of</b>", "I've got some sweets. There's a lot of milk."],
+        ["⛔ negativa", "<b>any</b> · <b>many</b>", "<b>any</b> · <b>much</b>", "There aren't any eggs. I haven't got much time."],
+        ["❓ pregunta", "<b>any</b> · <b>many</b>", "<b>any</b> · <b>much</b>", "Are there any apples? Is there much juice?"],
+        ["¿cuántos? / ¿cuánto?", "<b>How many</b>…?", "<b>How much</b>…?", "How many pets? How much water?"],
+        ["un poco / unos pocos", "<b>a few</b>", "<b>a little</b>", "a few friends · a little sugar"],
+        ["a / an", "✅ an apple", "✗ nunca", "<s>a bread</s> → some bread / a slice of bread"],
+        ["plural", "✅ apples", "✗ nunca", "<s>breads, homeworks</s> → bread, homework"]
+      ]
+    },
+    {
+      "t": "vocab", "title": "Para contar lo incontable", "title_en": "Counting uncountables", "icon": "🥛", "color": "pink", "wide": true, "cols": 4,
+      "items": [
+        { "en": "a glass of milk", "es": "un vaso de leche", "icon": "🥛" },
+        { "en": "a bottle of water", "es": "una botella de agua", "icon": "💧" },
+        { "en": "a cup of tea", "es": "una taza de té", "icon": "☕" },
+        { "en": "a carton of juice", "es": "un brik de zumo", "icon": "🧃" },
+        { "en": "a piece of cake", "es": "un trozo de tarta", "icon": "🍰" },
+        { "en": "a slice of bread", "es": "una rebanada de pan", "icon": "🍞" },
+        { "en": "a loaf of bread", "es": "una barra de pan", "icon": "🥖" },
+        { "en": "a bar of chocolate", "es": "una tableta de chocolate", "icon": "🍫" },
+        { "en": "a bowl of soup", "es": "un plato de sopa", "icon": "🥣" },
+        { "en": "a piece of cheese", "es": "un trozo de queso", "icon": "🧀" },
+        { "en": "a jar of honey", "es": "un tarro de miel", "icon": "🍯" },
+        { "en": "a kilo of rice", "es": "un kilo de arroz", "icon": "🍚" }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "Is there <b>any</b> juice in the fridge?", "es": "¿Hay zumo en la nevera?", "icon": "🧃" },
+        { "en": "Mum is buying <b>some</b> bread.", "es": "Mamá está comprando pan.", "icon": "🍞" },
+        { "en": "We haven't got <b>any</b> eggs. Let's buy <b>some</b>!", "es": "No tenemos huevos. ¡Vamos a comprar!", "icon": "🥚" },
+        { "en": "How <b>many</b> goals did Leo score?", "es": "¿Cuántos goles marcó Leo?", "icon": "⚽" },
+        { "en": "There's <b>a lot of</b> snow in the mountains.", "es": "Hay mucha nieve en la montaña.", "icon": "🏔️" },
+        { "en": "Rocky doesn't eat <b>much</b> food.", "es": "Rocky no come mucha comida.", "icon": "🐕" },
+        { "en": "Would you like <b>some</b> popcorn?", "es": "¿Quieres palomitas?", "icon": "🍿" },
+        { "en": "I've got <b>a few</b> stickers for my album.", "es": "Tengo unos pocos cromos para mi álbum.", "icon": "🌟" },
+        { "en": "Put <b>a little</b> salt in the soup.", "es": "Pon un poco de sal en la sopa.", "icon": "🧂" },
+        { "en": "There aren't <b>many</b> people at the beach in winter.", "es": "En invierno no hay mucha gente en la playa.", "icon": "🏖️" },
+        { "en": "How <b>much</b> money have you got in your piggy bank?", "es": "¿Cuánto dinero tienes en la hucha?", "icon": "🐷" },
+        { "en": "Lucía has got <b>lots of</b> books.", "es": "Lucía tiene muchísimos libros.", "icon": "📚" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "trampas", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "How many money have you got?", "good": "How <b>much</b> money have you got?", "why": "money es incontable → much.", "why_en": "money is uncountable → much." },
+        { "bad": "I want a bread.", "good": "I want <b>some</b> bread.", "why": "bread no lleva a: some bread o a loaf of bread.", "why_en": "No a with bread." },
+        { "bad": "We've got a lot of homeworks.", "good": "We've got a lot of <b>homework</b>.", "why": "homework no tiene plural (aunque digamos «los deberes»).", "why_en": "homework has no plural." },
+        { "bad": "I haven't got some sweets.", "good": "I haven't got <b>any</b> sweets.", "why": "En negativa → any.", "why_en": "Negatives → any." },
+        { "bad": "Have you got some brothers?", "good": "Have you got <b>any</b> brothers?", "why": "En preguntas normales → any.", "why_en": "Questions → any." },
+        { "bad": "There is many children in the park.", "good": "There <b>are</b> many children in the park.", "why": "children es plural → there are.", "why_en": "Plural → there are." },
+        { "bad": "I've got much friends.", "good": "I've got <b>a lot of</b> friends.", "why": "friends es contable, y en afirmativa lo natural es a lot of.", "why_en": "Affirmative → a lot of." },
+        { "bad": "The milk are cold.", "good": "The milk <b>is</b> cold.", "why": "Incontable → verbo en singular.", "why_en": "Uncountable → singular verb." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "Hacemos una tarta", "title_en": "Let's make a cake",
+      "lines": [
+        { "who": "Mum", "en": "Let's make a chocolate cake! Is there any flour?", "es": "¡Hagamos una tarta de chocolate! ¿Hay harina?" },
+        { "who": "Mario", "en": "Yes, there's a lot of flour.", "es": "Sí, hay mucha harina." },
+        { "who": "Mum", "en": "Good. How many eggs are there?", "es": "Bien. ¿Cuántos huevos hay?" },
+        { "who": "Mario", "en": "Only a few. There are three.", "es": "Solo unos pocos. Hay tres." },
+        { "who": "Mum", "en": "That's OK. And how much milk is there?", "es": "Vale. ¿Y cuánta leche hay?" },
+        { "who": "Mario", "en": "Not much. Just a little.", "es": "No mucha. Solo un poco." },
+        { "who": "Mum", "en": "Hmm. We need some milk. Can you go to the shop?", "es": "Mmm. Necesitamos leche. ¿Puedes ir a la tienda?" },
+        { "who": "Mario", "en": "OK! Can I buy some sweets too?", "es": "¡Vale! ¿Puedo comprar unas chuches también?" }
+      ]
+    },
+    {
+      "t": "tip", "title": "El truco de los dedos", "title_en": "The finger trick",
+      "es": "¿Dudas si una palabra es contable? Intenta contarla con los dedos ✋: <i>one apple, two apples, three apples…</i> ¡Funciona! → contable: <b>many</b>, <b>a few</b>, <b>How many</b>. <i>One water, two waters…</i> 🤔 ¡No funciona! → incontable: <b>much</b>, <b>a little</b>, <b>How much</b>. Y <b>some</b>, <b>any</b> y <b>a lot of</b> valen para los dos equipos.",
+      "en": "Try to count it on your fingers. If you can → many, a few, How many. If you can't → much, a little, How much. some, any and a lot of work for both."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify", "title": "¿Contable o incontable?", "title_en": "Countable or uncountable?", "icon": "🗂️",
+      "es": "Escribe cada palabra en su caja. Usa el truco de los dedos.",
+      "en": "Write each word in the right box.",
+      "cats": [
+        { "name": "🍎 Contables", "words": ["apple", "egg", "sweet", "biscuit", "banana", "sandwich", "toy"] },
+        { "name": "💧 Incontables", "words": ["water", "milk", "bread", "rice", "money", "homework", "cheese"] }
+      ]
+    },
+    {
+      "t": "choose", "title": "some o any", "title_en": "some or any", "icon": "⭕",
+      "es": "Rodea some o any. Piensa: ¿afirmativa, negativa, pregunta u ofrecimiento?",
+      "en": "Circle some or any.",
+      "items": [
+        { "q": "There are [some|any] apples on the table.", "a": "some" },
+        { "q": "Is there [some|any] milk in the fridge?", "a": "any" },
+        { "q": "I haven't got [some|any] money.", "a": "any" },
+        { "q": "We've got [some|any] new books.", "a": "some" },
+        { "q": "Are there [some|any] biscuits?", "a": "any" },
+        { "q": "There isn't [some|any] juice.", "a": "any" },
+        { "q": "Would you like [some|any] cake?", "a": "some" },
+        { "q": "Lucía has got [some|any] stickers.", "a": "some" },
+        { "q": "Have you got [some|any] pets?", "a": "any" },
+        { "q": "Can I have [some|any] water, please?", "a": "some" }
+      ]
+    },
+    {
+      "t": "fill", "title": "much o many", "title_en": "much or many", "icon": "🔢",
+      "es": "Completa con much o many. Primero subraya el nombre: ¿se cuenta o no?",
+      "en": "Complete with much or many.",
+      "bank": ["much", "many"],
+      "items": [
+        { "q": "How ____ brothers have you got?", "a": "many" },
+        { "q": "There isn't ____ milk.", "a": "much" },
+        { "q": "Are there ____ children in the park?", "a": "many" },
+        { "q": "I haven't got ____ time.", "a": "much" },
+        { "q": "How ____ water do you drink?", "a": "much" },
+        { "q": "Tom hasn't got ____ friends at his new school.", "a": "many" },
+        { "q": "Is there ____ snow in the mountains?", "a": "much" },
+        { "q": "How ____ sweets are in the bag?", "a": "many" },
+        { "q": "We don't have ____ homework today.", "a": "much" },
+        { "q": "There aren't ____ cars in my street.", "a": "many" }
+      ]
+    },
+    {
+      "t": "match", "title": "Pregunta y respuesta", "title_en": "Match questions and answers", "icon": "🔗",
+      "es": "Une cada pregunta con su respuesta.",
+      "en": "Match each question with its answer.",
+      "pairs": [
+        ["How many pets have you got?", "Two: a dog and a cat."],
+        ["How much milk is there?", "Only a little. Let's buy some."],
+        ["How many people are there in your family?", "Four: Mum, Dad, my sister and me."],
+        ["How much money have you got?", "Three euros."],
+        ["How many goals did Leo score?", "Three! He was amazing."],
+        ["How much water do you drink?", "A lot! Six glasses a day."],
+        ["How many legs has a spider got?", "Eight."]
+      ]
+    },
+    {
+      "t": "fill", "title": "a few o a little", "title_en": "a few or a little", "icon": "🤏",
+      "es": "Completa con a few (contables) o a little (incontables).",
+      "en": "Complete with a few or a little.",
+      "bank": ["a few", "a little"],
+      "items": [
+        { "q": "Can I have ____ milk, please?", "a": "a little" },
+        { "q": "There are ____ apples in the bowl.", "a": "a few" },
+        { "q": "I've got ____ friends in Madrid.", "a": "a few" },
+        { "q": "Put ____ sugar in the cake.", "a": "a little" },
+        { "q": "Wait ____ minutes, please.", "a": "a few" },
+        { "q": "Rocky drinks ____ water after his walk.", "a": "a little" },
+        { "q": "I know ____ words in French.", "a": "a few" },
+        { "q": "There's ____ cheese on my pizza.", "a": "a little" }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Completa la tabla", "title_en": "Complete the table", "icon": "📋", "wide": true,
+      "es": "Escribe C (contable) o U (incontable), la pregunta y la cantidad pequeña. Mira el ejemplo.",
+      "en": "Write C or U, the question and the small amount. Look at the example.",
+      "head": ["Palabra · Word", "C / U", "¿Cuánto(s)? · How…?", "Un poco / unos pocos"],
+      "rows": [
+        ["apples", "C", "How many apples?", "a few apples"],
+        ["milk", "?U", "?How much milk?", "?a little milk"],
+        ["sweets", "?C", "?How many sweets?", "?a few sweets"],
+        ["bread", "?U", "?How much bread?", "?a little bread"],
+        ["friends", "?C", "?How many friends?", "?a few friends"],
+        ["money", "?U", "?How much money?", "?a little money"]
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Negativa y pregunta", "title_en": "Negative and question", "icon": "⛔",
+      "es": "Escribe la frase en negativa y en pregunta. Recuerda: some → any.",
+      "en": "Write the negative and the question. Remember: some → any.",
+      "labels": ["⛔", "❓"],
+      "items": [
+        { "q": "There are some eggs.", "a": ["There aren't any eggs.", "Are there any eggs?"] },
+        { "q": "I've got some money.", "a": ["I haven't got any money.", "Have you got any money?"] },
+        { "q": "There's some juice.", "a": ["There isn't any juice.", "Is there any juice?"] },
+        { "q": "She's got some comics.", "a": ["She hasn't got any comics.", "Has she got any comics?"] },
+        { "q": "We've got some homework.", "a": ["We haven't got any homework.", "Have we got any homework?"] },
+        { "q": "There are some children in the garden.", "a": ["There aren't any children in the garden.", "Are there any children in the garden?"] }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        { "q": "any / there / milk / isn't", "a": "There isn't any milk." },
+        { "q": "some / I've / sweets / got", "a": "I've got some sweets." },
+        { "q": "many / how / have / you / got / pets / ?", "a": "How many pets have you got?" },
+        { "q": "much / water / drink / don't / I", "a": "I don't drink much water." },
+        { "q": "a lot of / Tom / comics / has got", "a": "Tom has got a lot of comics." },
+        { "q": "a little / can / have / I / sugar / ?", "a": "Can I have a little sugar?" },
+        { "q": "are / a few / there / in the box / biscuits", "a": "There are a few biscuits in the box." },
+        { "q": "any / are / there / in the fridge / eggs / ?", "a": "Are there any eggs in the fridge?" }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Está bien?", "title_en": "Right or wrong?", "icon": "✔️",
+      "es": "¿La frase está bien (T) o mal (F)? Si está mal, corrígela en tu cuaderno.",
+      "en": "Is the sentence right (T) or wrong (F)?",
+      "items": [
+        { "q": "How much sugar do you want?", "a": true },
+        { "q": "I've got a lot of friends.", "a": true },
+        { "q": "There isn't some milk.", "a": false, "why": "There isn't any milk." },
+        { "q": "How many bread have we got?", "a": false, "why": "How much bread have we got?" },
+        { "q": "Can I have some water, please?", "a": true },
+        { "q": "We've got a lot of homeworks.", "a": false, "why": "We've got a lot of homework." },
+        { "q": "There are a few apples in the bag.", "a": true },
+        { "q": "She's got a little friends.", "a": false, "why": "She's got a few friends." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "I haven't got some pencils.", "a": "I haven't got any pencils." },
+        { "q": "How many water do you drink?", "a": "How much water do you drink?" },
+        { "q": "Can I have a bread, please?", "a": "Can I have some bread, please?" },
+        { "q": "There is many cars in the street.", "a": "There are many cars in the street." },
+        { "q": "I've got a little friends.", "a": "I've got a few friends." },
+        { "q": "My hair are very long.", "a": "My hair is very long." },
+        { "q": "We've got a lot of homeworks.", "a": "We've got a lot of homework." },
+        { "q": "Have you got some brothers?", "a": "Have you got any brothers?" }
+      ]
+    },
+    {
+      "t": "fill", "title": "Mezcla final", "title_en": "Mixed practice", "icon": "🎯",
+      "es": "Completa con la palabra correcta del recuadro. Usa cada palabra al menos una vez.",
+      "en": "Complete with the right word from the box.",
+      "bank": ["some", "any", "much", "many", "a lot of", "a few", "a little"],
+      "items": [
+        { "q": "There are ____ people at the concert. It's full!", "a": "a lot of" },
+        { "q": "Is there ____ bread for the sandwiches?", "a": "any" },
+        { "q": "I only want ____ milk in my tea.", "a": "a little" },
+        { "q": "How ____ eggs do we need for the cake?", "a": "many" },
+        { "q": "We haven't got ____ time. Hurry up!", "a": "much" },
+        { "q": "Can I have ____ crisps, please?", "a": "some" },
+        { "q": "Only ____ children came to the party, so it was quiet.", "a": "a few" },
+        { "q": "There aren't ____ bananas in the bowl.", "a": "any" }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Piensa: ¿se cuenta o no? ¿afirmativa, negativa o pregunta?",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "No hay leche en la nevera.", "a": "There isn't any milk in the fridge." },
+        { "q": "¿Cuántos hermanos tienes?", "a": "How many brothers and sisters have you got?", "hint": "hermanos y hermanas" },
+        { "q": "Tengo muchos amigos.", "a": "I've got a lot of friends." },
+        { "q": "¿Cuánta agua bebes?", "a": "How much water do you drink?" },
+        { "q": "¿Quieres galletas?", "a": "Would you like some biscuits?" },
+        { "q": "Tengo unos pocos cromos.", "a": "I've got a few stickers." },
+        { "q": "Pon un poco de azúcar en la tarta.", "a": "Put a little sugar in the cake." },
+        { "q": "Hoy no tenemos muchos deberes.", "a": "We haven't got much homework today." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "The school picnic 🧺",
+      "text": [
+        "Tomorrow is the school picnic, so Mario and his mum are in the kitchen. 'Have we got everything?' asks Mum.",
+        "There's some bread and there's a lot of cheese, so they can make sandwiches. There are a few apples, but there aren't any bananas. Rocky's favourite food is cheese, so he is very interested!",
+        "'How much juice is there?' asks Mario. 'Not much,' says Mum. 'Only a little. Let's buy some juice and some biscuits.' Mario is happy: 'Can we buy some crisps too?' 'OK, but only a few!' says Mum."
+      ],
+      "items": [
+        { "q": "There isn't any bread.", "tf": true, "a": false, "why": "There's some bread." },
+        { "q": "There are a lot of bananas.", "tf": true, "a": false, "why": "There aren't any bananas." },
+        { "q": "There's a lot of cheese.", "tf": true, "a": true },
+        { "q": "How many apples are there?", "a": "There are a few (apples)." },
+        { "q": "How much juice is there?", "a": "Not much. Only a little." },
+        { "q": "What do they want to buy?", "a": "Some juice and some biscuits (and some crisps)." },
+        { "q": "Why is Rocky very interested?", "a": "Because his favourite food is cheese." }
+      ]
+    },
+    {
+      "t": "spell", "title": "Deletrea la palabra", "title_en": "Spell the word", "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en las cajas. Después escribe C o U al lado.",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        { "q": "🍪 galleta", "a": "biscuit" },
+        { "q": "🧀 queso", "a": "cheese" },
+        { "q": "🍞 pan", "a": "bread" },
+        { "q": "🥪 sándwich", "a": "sandwich" },
+        { "q": "🥄 azúcar", "a": "sugar" },
+        { "q": "💶 dinero", "a": "money" },
+        { "q": "💧 agua", "a": "water" },
+        { "q": "🧃 zumo", "a": "juice" }
+      ]
+    },
+    {
+      "t": "wordsearch", "title": "Sopa de incontables", "title_en": "Uncountable word search", "icon": "🔎",
+      "es": "Busca las 8 palabras incontables. Después escribe dos frases con some y any.",
+      "en": "Find the 8 uncountable words. Then write two sentences with some and any.",
+      "words": ["milk", "bread", "water", "cheese", "sugar", "rice", "juice", "money"],
+      "clues": ["milk · leche", "bread · pan", "water · agua", "cheese · queso", "sugar · azúcar", "rice · arroz", "juice · zumo", "money · dinero"]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe sobre tu casa, tus cosas y tus amigos.",
+      "en": "Write about your home, your things and your friends.",
+      "items": [
+        { "q": "¿Qué hay en tu nevera? Usa <b>some</b> y <b>any</b>.", "lines": 2, "a": "Ej.: There's some milk and some cheese. There aren't any eggs." },
+        { "q": "¿Cuántos amigos y primos tienes? Usa <b>a lot of</b> o <b>a few</b>.", "lines": 2, "a": "Ej.: I've got a lot of friends at school. I've got a few cousins." },
+        { "q": "Escribe 2 preguntas para un amigo con <b>How much</b> y <b>How many</b>.", "lines": 2, "a": "Ej.: How many pets have you got? How much water do you drink?" },
+        { "q": "Ofrece algo a un amigo y pide algo a tu madre (con <b>some</b>).", "lines": 2, "a": "Ej.: Would you like some popcorn? Can I have some juice, please?" }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé si una palabra es <b>contable</b> o <b>incontable</b>.", "en": "I know if a noun is countable or uncountable." },
+    { "es": "Uso <b>some</b> en afirmativas y <b>any</b> en negativas y preguntas.", "en": "I use some in affirmatives and any in negatives and questions." },
+    { "es": "Uso <b>many</b> con contables y <b>much</b> con incontables.", "en": "I use many with countables and much with uncountables." },
+    { "es": "Pregunto cantidades con <b>How many…?</b> y <b>How much…?</b>", "en": "I can ask How many…? and How much…?" },
+    { "es": "Uso <b>a lot of</b> en afirmativas y distingo <b>a few</b> y <b>a little</b>.", "en": "I use a lot of, a few and a little." },
+    { "es": "Nunca escribo <s>a bread</s> ni <s>homeworks</s>.", "en": "I never write a bread or homeworks." }
+  ]
+}

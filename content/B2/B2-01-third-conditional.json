@@ -1,0 +1,1310 @@
+{
+  "id": "B2-01",
+  "level": "B2",
+  "title": "THIRD CONDITIONAL",
+  "file_title": "Third conditional",
+  "subtitle": "Third conditional · el pasado que no fue",
+  "icon": "⏪",
+  "map": {
+    "center": "Usamos el <b>THIRD CONDITIONAL</b> para imaginar un <b>pasado distinto</b> y su resultado: lo que <b>habría pasado</b>.",
+    "nodes": [
+      {
+        "title": "¿Qué es?",
+        "icon": "🔎",
+        "items": [
+          "Algo que <b>NO pasó</b> en el pasado.",
+          "Imaginamos otro resultado: <i>habría…</i>",
+          "Para <b>arrepentimientos</b>, críticas y alivio."
+        ]
+      },
+      {
+        "title": "La estructura",
+        "icon": "🧱",
+        "art": "🕰️",
+        "rows": [
+          [
+            "If + <b>had</b> + participio",
+            "si hubiera…"
+          ],
+          [
+            "<b>would have</b> + participio",
+            "habría…"
+          ]
+        ],
+        "after": "If I <b>had known</b>, I <b>would have come</b>."
+      },
+      {
+        "title": "Negativa y pregunta",
+        "icon": "❓",
+        "items": [
+          "If you <b>hadn't</b> called, I <b>wouldn't have</b> woken up.",
+          "What <b>would</b> you <b>have done</b>?",
+          "<b>Would</b> she <b>have</b> said yes?"
+        ]
+      },
+      {
+        "title": "Could / might have",
+        "icon": "🎲",
+        "items": [
+          "<b>could have</b> + part. = habría podido",
+          "<b>might have</b> + part. = quizá habría",
+          "If we'd run, we <b>might have</b> caught it."
+        ]
+      },
+      {
+        "title": "Mixed (básico)",
+        "icon": "🔀",
+        "art": "🩺",
+        "items": [
+          "Pasado → resultado <b>ahora</b>:",
+          "If I <b>had studied</b> medicine, I <b>would be</b> a doctor now.",
+          "Ahora → <b>would</b> + infinitivo"
+        ]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "items": [
+          "I<b>'d known</b> → 'd = <b>had</b>",
+          "I<b>'d have</b> known → 'd = <b>would</b>",
+          "Coma solo si el <b>if</b> va primero."
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "If I would have known, I would have come."
+      ],
+      "good": [
+        "If I had known, I would have come."
+      ],
+      "note": "<b>Would</b> nunca va en la parte del <b>if</b>."
+    },
+    "mini": {
+      "es": "Completa con el third conditional.",
+      "en": "Complete with the third conditional.",
+      "items": [
+        {
+          "q": "If I ___ (know), I'd have helped.",
+          "a": "had known"
+        },
+        {
+          "q": "She ____ (pass) if she'd studied.",
+          "a": "would have passed"
+        },
+        {
+          "q": "We ____ (not / be) late if we'd run.",
+          "a": "wouldn't have been"
+        },
+        {
+          "q": "If he ___ (ask) me, I'd have said yes.",
+          "a": "had asked"
+        },
+        {
+          "q": "___ you have come if I'd asked you?",
+          "a": "Would"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "El <b>third conditional</b> (tercer condicional) sirve para hablar de una situación <mark>imaginaria en el pasado</mark>: algo que <b>no ocurrió</b> y el resultado que <b>habría tenido</b>. Como el pasado ya no se puede cambiar, lo usamos mucho para <b>lamentarnos</b> (<i>si hubiera estudiado…</i>), <b>criticar</b> o sentir <b>alivio</b> (<i>si no hubieras llamado, me habría dormido</i>). Equivale al español <b>«si hubiera / hubiese + participio, habría + participio»</b>.",
+      "en": "The <b>third conditional</b> talks about an <mark>imaginary past</mark>: something that <b>didn't happen</b> and its imaginary result. We use it for regrets, criticism and relief.",
+      "formula": [
+        "*If* + sujeto + *had* + participio",
+        "sujeto + *would have* + participio"
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco: IF + HAD · WOULD + HAVE",
+      "title_en": "Tip: if + had, would + have",
+      "es": "<b>If</b> y <b>would</b> no se sientan nunca en la misma mitad de la frase. Si ves <i>if</i>, piensa en <b>had</b>; en la otra mitad, <b>would have</b>. Y si te cuesta, tradúcelo mentalmente: <i>si <b>hubiera</b>…</i> = <b>had</b>, <i><b>habría</b>…</i> = <b>would have</b>.",
+      "en": "IF + HAD · WOULD + HAVE. <i>If</i> and <i>would</i> never share the same half of the sentence."
+    },
+    {
+      "t": "rule",
+      "title": "1 · La forma",
+      "title_en": "The form",
+      "icon": "🧱",
+      "color": "green",
+      "es": "La oración tiene <b>dos partes</b>. En la <b>condición</b> (la parte del <i>if</i>) va el <b>past perfect</b>: <b>had + participio</b>. En el <b>resultado</b> va <b>would have + participio</b>. El participio es la 3.ª columna de los irregulares (<i>go → went → <b>gone</b></i>). Las dos partes pueden ir en cualquier orden: si el <i>if</i> va primero, ponemos <b>coma</b>; si va segundo, no.",
+      "en": "Two parts: <b>If + had + past participle</b> (condition) and <b>would have + past participle</b> (result). Either order is fine; use a comma only when the if-clause comes first.",
+      "formula": [
+        "*If* + I + *had studied*",
+        "I + *would have passed*"
+      ],
+      "examples": [
+        {
+          "en": "If I <b>had studied</b> harder, I <b>would have passed</b> the exam.",
+          "es": "Si hubiera estudiado más, habría aprobado el examen.",
+          "icon": "📚"
+        },
+        {
+          "en": "She <b>would have got</b> the job if she <b>had applied</b> earlier.",
+          "es": "Habría conseguido el trabajo si se hubiera presentado antes.",
+          "icon": "💼"
+        },
+        {
+          "en": "If we <b>had taken</b> a taxi, we <b>would have arrived</b> on time.",
+          "es": "Si hubiéramos cogido un taxi, habríamos llegado a tiempo.",
+          "icon": "🚕"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Negativa",
+      "title_en": "Negative",
+      "icon": "⛔",
+      "color": "red",
+      "es": "Para negar usamos <b>hadn't</b> + participio (condición) y <b>wouldn't have</b> + participio (resultado). Casi siempre <mark>le damos la vuelta a la realidad</mark>: si algo <b>pasó</b>, la condición va en <b>negativa</b>, y al revés.",
+      "en": "Use <b>hadn't</b> + participle and <b>wouldn't have</b> + participle. We usually <mark>reverse reality</mark>: if something happened, the condition is negative.",
+      "formula": [
+        "*If* + I + *hadn't* + participio",
+        "I + *wouldn't have* + participio"
+      ],
+      "examples": [
+        {
+          "en": "If it <b>hadn't rained</b>, we <b>would have had</b> the barbecue outside.",
+          "es": "Si no hubiera llovido, habríamos hecho la barbacoa fuera.",
+          "icon": "🌧️"
+        },
+        {
+          "en": "I <b>wouldn't have been</b> late if I <b>hadn't missed</b> the bus.",
+          "es": "No habría llegado tarde si no hubiera perdido el autobús.",
+          "icon": "🚌"
+        },
+        {
+          "en": "If you <b>hadn't reminded</b> me, I <b>would have forgotten</b> her birthday.",
+          "es": "Si no me lo hubieras recordado, me habría olvidado de su cumpleaños.",
+          "icon": "🎂"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Preguntas",
+      "title_en": "Questions",
+      "icon": "❓",
+      "color": "blue",
+      "es": "En las preguntas, <b>would</b> salta delante del sujeto: <b>Would + sujeto + have + participio…?</b> La parte del <i>if</i> mantiene el orden normal. Son muy útiles para hablar de <b>alternativas</b>: <i>¿qué habrías hecho tú?</i>",
+      "en": "In questions, <b>would</b> goes before the subject: <b>Would + subject + have + participle…?</b> The if-clause keeps normal word order.",
+      "formula": [
+        "(Wh-) + *would* + sujeto + *have* + participio + if…?"
+      ],
+      "examples": [
+        {
+          "en": "What <b>would</b> you <b>have done</b> if you <b>had lost</b> your passport?",
+          "es": "¿Qué habrías hecho si hubieras perdido el pasaporte?",
+          "icon": "🛂"
+        },
+        {
+          "en": "<b>Would</b> you <b>have accepted</b> the offer if they <b>had paid</b> you more?",
+          "es": "¿Habrías aceptado la oferta si te hubieran pagado más?",
+          "icon": "💶"
+        },
+        {
+          "en": "Where <b>would</b> they <b>have stayed</b> if the hotel <b>had been</b> full?",
+          "es": "¿Dónde se habrían alojado si el hotel hubiera estado lleno?",
+          "icon": "🏨"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Los condicionales de un vistazo",
+      "title_en": "Conditionals at a glance",
+      "icon": "🧩",
+      "color": "purple",
+      "wide": true,
+      "head": [
+        "Tipo · Type",
+        "Parte IF",
+        "Resultado · Result",
+        "¿Para qué?",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "First",
+          "present simple",
+          "will + infinitivo",
+          "Futuro <b>posible</b>",
+          "If it rains, I'll stay at home."
+        ],
+        [
+          "Second",
+          "past simple",
+          "would + infinitivo",
+          "Presente o futuro <b>imaginario</b>",
+          "If I had time, I'd learn Chinese."
+        ],
+        [
+          "<b>Third</b>",
+          "<b>past perfect</b>",
+          "<b>would have + participio</b>",
+          "Pasado <b>imaginario</b> (no pasó)",
+          "If I'd had time, I'd have called you."
+        ],
+        [
+          "<b>Mixed</b> A",
+          "past perfect",
+          "would + infinitivo",
+          "Pasado imaginario → resultado <b>ahora</b>",
+          "If I'd saved more, I'd be rich now."
+        ],
+        [
+          "<b>Mixed</b> B",
+          "past simple",
+          "would have + participio",
+          "Presente imaginario → resultado <b>pasado</b>",
+          "If I spoke French, I'd have got the job."
+        ]
+      ],
+      "note": "Solo en el <b>third</b> <mark>las dos partes hablan del pasado</mark>. ¿Resultado <b>ahora</b>? → <b>mixed</b>."
+    },
+    {
+      "t": "compare",
+      "title": "¿Second o third?",
+      "title_en": "Second or third?",
+      "color": "blue",
+      "icon": "⚖️",
+      "es": "La diferencia está en el <b>tiempo</b> del que hablamos, igual que en español: <i>si tuviera</i> (ahora) frente a <i>si hubiera tenido</i> (antes). ¡Ojo! <b>had had</b> es correcto: el primer <i>had</i> es el auxiliar y el segundo es el participio de <i>have</i>.",
+      "en": "Second = unreal present or future. Third = unreal past. <b>had had</b> is correct!",
+      "cols": [
+        {
+          "head": "🕒 Second · ahora / futuro",
+          "color": "green",
+          "items": [
+            "If I <b>had</b> money, I <b>would buy</b> it.",
+            "<i>Si tuviera dinero, lo compraría.</i>",
+            "If she <b>knew</b>, she <b>would tell</b> us.",
+            "<i>Si lo supiera, nos lo diría.</i>"
+          ]
+        },
+        {
+          "head": "⏪ Third · pasado",
+          "color": "purple",
+          "items": [
+            "If I <b>had had</b> money, I <b>would have bought</b> it.",
+            "<i>Si hubiera tenido dinero, lo habría comprado.</i>",
+            "If she <b>had known</b>, she <b>would have told</b> us.",
+            "<i>Si lo hubiera sabido, nos lo habría dicho.</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "El misterio de 'd",
+      "title_en": "What does 'd mean?",
+      "icon": "🕵️",
+      "color": "teal",
+      "head": [
+        "Forma corta · Short",
+        "Forma larga · Long",
+        "Pista · Clue"
+      ],
+      "rows": [
+        [
+          "I<b>'d</b> known",
+          "I <b>had</b> known",
+          "'d + participio → <b>had</b>"
+        ],
+        [
+          "we<b>'d</b> left",
+          "we <b>had</b> left",
+          "'d + participio → <b>had</b>"
+        ],
+        [
+          "I<b>'d have</b> known",
+          "I <b>would</b> have known",
+          "'d + have → <b>would</b>"
+        ],
+        [
+          "she<b>'d</b> go",
+          "she <b>would</b> go",
+          "'d + infinitivo → <b>would</b>"
+        ],
+        [
+          "If you<b>'d</b> told me, I<b>'d</b> have helped.",
+          "If you <b>had</b> told me, I <b>would</b> have helped.",
+          "¡Dos 'd distintas!"
+        ]
+      ],
+      "note": "Al hablar, <b>would have</b> suena /ˈwʊdəv/ («wúdov»). ¡Por eso hasta algunos nativos escriben mal <s>would of</s>! Lo correcto siempre es <b>would have</b> (o <b>'d have</b>).",
+      "note_en": "In speech <b>would have</b> sounds like /ˈwʊdəv/ — never write <s>would of</s>."
+    },
+    {
+      "t": "rule",
+      "title": "4 · Could have y might have",
+      "title_en": "Could have and might have",
+      "icon": "🎲",
+      "color": "orange",
+      "es": "En el resultado podemos cambiar <b>would</b> por otros modales para matizar: <b>could have</b> + participio = <i>habría podido / podría haber</i> (posibilidad o capacidad) y <b>might have</b> + participio = <i>quizá habría</i> (resultado no seguro). <b>Would have</b> indica un resultado seguro.",
+      "en": "In the result clause, <b>could have</b> = would have been able to; <b>might have</b> = perhaps would have. <b>Would have</b> = a certain result.",
+      "formula": [
+        "*If* + had + participio",
+        "sujeto + *could / might have* + participio"
+      ],
+      "examples": [
+        {
+          "en": "If I'd had a car, I <b>could have given</b> you a lift.",
+          "es": "Si hubiera tenido coche, te podría haber llevado.",
+          "icon": "🚗"
+        },
+        {
+          "en": "If you'd asked her nicely, she <b>might have said</b> yes.",
+          "es": "Si se lo hubieras pedido con amabilidad, quizá habría dicho que sí.",
+          "icon": "🙏"
+        },
+        {
+          "en": "We <b>could have won</b> the match if Leo <b>hadn't been</b> injured.",
+          "es": "Podríamos haber ganado el partido si Leo no hubiera estado lesionado.",
+          "icon": "⚽"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Arrepentimientos, críticas y alivio",
+      "title_en": "Regrets, criticism and relief",
+      "icon": "😔",
+      "color": "pink",
+      "es": "El third conditional es la forma natural de <b>lamentarse</b> por el pasado, de <b>reprochar</b> algo a otra persona y de expresar <b>alivio</b> porque algo malo <b>no</b> pasó. (Los lamentos con <i>wish</i> e <i>if only</i> los verás en su propio mapa.)",
+      "en": "Use it for <b>regrets</b>, <b>criticism</b> and <b>relief</b> about the past.",
+      "examples": [
+        {
+          "en": "If I'd listened to my parents, I <b>wouldn't have wasted</b> so much money.",
+          "es": "Si hubiera hecho caso a mis padres, no habría malgastado tanto dinero. <i>(lamento)</i>",
+          "icon": "💸"
+        },
+        {
+          "en": "If you <b>had checked</b> the report, the client <b>wouldn't have complained</b>.",
+          "es": "Si hubieras revisado el informe, el cliente no se habría quejado. <i>(crítica)</i>",
+          "icon": "📊"
+        },
+        {
+          "en": "If he <b>hadn't braked</b>, he <b>would have hit</b> the cyclist.",
+          "es": "Si no hubiera frenado, habría atropellado al ciclista. <i>(alivio)</i>",
+          "icon": "🚴"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "If I'd set my alarm, I wouldn't have overslept.",
+          "es": "Si hubiera puesto la alarma, no me habría quedado dormido.",
+          "icon": "⏰"
+        },
+        {
+          "en": "We would have gone to the beach if the weather had been better.",
+          "es": "Habríamos ido a la playa si hubiera hecho mejor tiempo.",
+          "icon": "🏖️"
+        },
+        {
+          "en": "If they hadn't cancelled the flight, we'd have been in Rome by lunchtime.",
+          "es": "Si no hubieran cancelado el vuelo, habríamos estado en Roma a la hora de comer.",
+          "icon": "✈️"
+        },
+        {
+          "en": "If you'd told me it was your birthday, I'd have bought you a present.",
+          "es": "Si me hubieras dicho que era tu cumpleaños, te habría comprado un regalo.",
+          "icon": "🎁"
+        },
+        {
+          "en": "Would you have taken the job if they had offered it to you?",
+          "es": "¿Habrías aceptado el trabajo si te lo hubieran ofrecido?",
+          "icon": "🤔"
+        },
+        {
+          "en": "If he hadn't been driving so fast, the police wouldn't have stopped him.",
+          "es": "Si no hubiera ido tan rápido, la policía no le habría parado.",
+          "icon": "🚓"
+        },
+        {
+          "en": "If I'd known the shop was closed, I wouldn't have walked all the way there.",
+          "es": "Si hubiera sabido que la tienda estaba cerrada, no habría ido andando hasta allí.",
+          "icon": "🏪"
+        },
+        {
+          "en": "She might have passed if she'd revised the last unit.",
+          "es": "Quizá habría aprobado si hubiera repasado el último tema.",
+          "icon": "📝"
+        },
+        {
+          "en": "If we'd booked earlier, we could have got cheaper tickets.",
+          "es": "Si hubiéramos reservado antes, podríamos haber conseguido entradas más baratas.",
+          "icon": "🎟️"
+        },
+        {
+          "en": "If I hadn't gone to that party, I would never have met my wife.",
+          "es": "Si no hubiera ido a esa fiesta, nunca habría conocido a mi mujer.",
+          "icon": "💍"
+        },
+        {
+          "en": "If the team had trained harder, they wouldn't be bottom of the league now.",
+          "es": "Si el equipo hubiera entrenado más, ahora no estaría el último de la liga. <i>(mixed)</i>",
+          "icon": "🏆"
+        },
+        {
+          "en": "If you'd saved your work, you wouldn't have lost everything.",
+          "es": "Si hubieras guardado el trabajo, no lo habrías perdido todo.",
+          "icon": "💻"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · Mixed conditionals (básico)",
+      "title_en": "Basic mixed conditionals",
+      "icon": "🔀",
+      "color": "purple",
+      "es": "A veces la condición es pasada pero el <b>resultado es ahora</b>, o al revés. Entonces <b>mezclamos</b>:<br><b>A)</b> <b>If + past perfect → would + infinitivo</b>: algo pasado con consecuencia <b>hoy</b> (<i>si hubiera estudiado Medicina, ahora sería médico</i>).<br><b>B)</b> <b>If + past simple → would have + participio</b>: algo que <b>siempre es así</b> con consecuencia pasada (<i>si no fuera tan tímido, le habría hablado</i>).<br>Pista: busca <b>now, today, still</b>.",
+      "en": "Past condition → present result: <b>If + past perfect, would + infinitive</b>. Present condition → past result: <b>If + past simple, would have + participle</b>.",
+      "formula": [
+        "*If* + past perfect + *would* + infinitivo (now)",
+        "*If* + past simple + *would have* + participio"
+      ],
+      "examples": [
+        {
+          "en": "If I <b>had studied</b> medicine, I <b>would be</b> a doctor now.",
+          "es": "Si hubiera estudiado Medicina, ahora sería médico.",
+          "icon": "🩺"
+        },
+        {
+          "en": "If she <b>hadn't moved</b> to London, she <b>wouldn't speak</b> such good English.",
+          "es": "Si no se hubiera mudado a Londres, no hablaría tan bien inglés.",
+          "icon": "🏙️"
+        },
+        {
+          "en": "If I <b>weren't</b> so shy, I <b>would have spoken</b> to her at the party.",
+          "es": "Si no fuera tan tímido, le habría hablado en la fiesta.",
+          "icon": "🙈"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "If I would have known, I would have told you.",
+          "good": "If I <b>had known</b>, I would have told you.",
+          "why": "Nunca <b>would</b> en la parte del <i>if</i> (igual que en español: <s>si habría sabido</s> → si hubiera sabido).",
+          "why_en": "No would in the if-clause."
+        },
+        {
+          "bad": "If she had studied, she would pass the exam last week.",
+          "good": "If she had studied, she <b>would have passed</b> the exam last week.",
+          "why": "El resultado también es pasado → would <b>have</b> + participio.",
+          "why_en": "Past result → would have + participle."
+        },
+        {
+          "bad": "I would have went with you.",
+          "good": "I would have <b>gone</b> with you.",
+          "why": "Después de <b>have</b> va el participio (3.ª columna), no el pasado.",
+          "why_en": "Use the past participle after have."
+        },
+        {
+          "bad": "If we had leave earlier, we would have caught the train.",
+          "good": "If we had <b>left</b> earlier, we would have caught the train.",
+          "why": "<b>had</b> + participio, nunca + infinitivo.",
+          "why_en": "had + past participle."
+        },
+        {
+          "bad": "He would had helped you.",
+          "good": "He would <b>have</b> helped you.",
+          "why": "Después de would, could o might va <b>have</b>, nunca <i>had</i>.",
+          "why_en": "Modal + have, never had."
+        },
+        {
+          "bad": "If you told me before, I would have helped you.",
+          "good": "If you <b>had told</b> me before, I would have helped you.",
+          "why": "La condición también es pasada → <b>past perfect</b>, no past simple.",
+          "why_en": "Past condition → past perfect."
+        },
+        {
+          "bad": "If I'd have known, I'd have come.",
+          "good": "If I<b>'d known</b>, I'd have come.",
+          "why": "En la parte del <i>if</i> no sobra ningún <i>have</i>: <b>had + participio</b>.",
+          "why_en": "No extra have in the if-clause."
+        },
+        {
+          "bad": "If I had accepted that job, I would have been rich now.",
+          "good": "If I had accepted that job, I <b>would be</b> rich now.",
+          "why": "Resultado <b>ahora</b> (now) → mixed: would + infinitivo.",
+          "why_en": "Present result → would + infinitive."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Piensa en lo que <b>pasó de verdad</b>: <i>No puse la alarma. Me quedé dormido.</i>",
+          "en": "Think about what really happened."
+        },
+        {
+          "es": "<b>Dale la vuelta</b>: lo afirmativo pasa a negativo y al revés: <i>poner la alarma → no quedarme dormido</i>.",
+          "en": "Reverse it: positive ↔ negative."
+        },
+        {
+          "es": "Condición: <b>If + had (hadn't) + participio</b> → <i>If I had set my alarm,</i>",
+          "en": "Condition: If + had (not) + past participle."
+        },
+        {
+          "es": "Resultado: <b>would (not) have + participio</b> → <i>I wouldn't have overslept.</i> ¿No es seguro? → <b>might have</b>. ¿Posibilidad? → <b>could have</b>.",
+          "en": "Result: would (not) have + participle (or could / might have)."
+        },
+        {
+          "es": "¿El resultado es <b>ahora</b>? → <b>would + infinitivo</b> (mixed): <i>I wouldn't be so tired now.</i>",
+          "en": "Result now? → would + infinitive (mixed)."
+        },
+        {
+          "es": "Revisa: ¿participios correctos? ¿Ningún <i>would</i> en la parte del <i>if</i>? ¿Coma si el <i>if</i> va primero?",
+          "en": "Check: participles, no would after if, comma."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "¡Hemos perdido el vuelo!",
+      "title_en": "We've missed the flight!",
+      "lines": [
+        {
+          "who": "Laura",
+          "en": "I can't believe it. We've missed the flight!",
+          "es": "No me lo puedo creer. ¡Hemos perdido el vuelo!"
+        },
+        {
+          "who": "Dan",
+          "en": "If we had left home ten minutes earlier, we would have caught it.",
+          "es": "Si hubiéramos salido de casa diez minutos antes, lo habríamos cogido."
+        },
+        {
+          "who": "Laura",
+          "en": "Well, if you hadn't spent half an hour looking for your sunglasses, we would have left on time!",
+          "es": "Pues si no te hubieras pasado media hora buscando las gafas de sol, habríamos salido a tiempo."
+        },
+        {
+          "who": "Dan",
+          "en": "OK, but if the taxi had arrived when we booked it, we wouldn't have been late.",
+          "es": "Vale, pero si el taxi hubiera llegado a la hora que lo pedimos, no habríamos llegado tarde."
+        },
+        {
+          "who": "Laura",
+          "en": "True. And if I'd checked in online, we could have gone straight to the gate.",
+          "es": "Es verdad. Y si yo hubiera hecho el check-in online, podríamos haber ido directos a la puerta."
+        },
+        {
+          "who": "Dan",
+          "en": "If we'd caught that plane, we'd be lying on a beach in Crete now.",
+          "es": "Si hubiéramos cogido ese avión, ahora estaríamos tumbados en una playa de Creta."
+        },
+        {
+          "who": "Laura",
+          "en": "Stop it! What would you have done if there hadn't been another flight today?",
+          "es": "¡Para ya! ¿Qué habrías hecho si no hubiera habido otro vuelo hoy?"
+        },
+        {
+          "who": "Dan",
+          "en": "I'd have cried! Luckily, there's one at six.",
+          "es": "¡Me habría echado a llorar! Por suerte, hay uno a las seis."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Rodea la forma correcta",
+      "title_en": "Circle the correct form",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta. Piensa: ¿es la parte del <i>if</i> o la del resultado? ¿Pasado o ahora?",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "If I [had known|knew] about the strike, I would have taken the car.",
+          "a": "had known"
+        },
+        {
+          "q": "She [would have helped|would help] you yesterday if you had asked her.",
+          "a": "would have helped"
+        },
+        {
+          "q": "If we [hadn't|wouldn't have] missed the train, we would have arrived on time.",
+          "a": "hadn't"
+        },
+        {
+          "q": "They would have won if their best player [had played|would have played].",
+          "a": "had played"
+        },
+        {
+          "q": "I would have [gone|went] to the concert if I'd had a ticket.",
+          "a": "gone"
+        },
+        {
+          "q": "If he had driven more carefully, he [wouldn't have crashed|didn't crash].",
+          "a": "wouldn't have crashed"
+        },
+        {
+          "q": "What would you [have done|had done] in my situation?",
+          "a": "have done"
+        },
+        {
+          "q": "If you'd called me, I [could have|could had] picked you up.",
+          "a": "could have"
+        },
+        {
+          "q": "If I had gone to bed earlier, I [wouldn't be|wouldn't have been] so tired now.",
+          "a": "wouldn't be"
+        },
+        {
+          "q": "If she [had|would have] taken the job in Paris, she would be living there now.",
+          "a": "had"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une las dos mitades",
+      "title_en": "Match the halves",
+      "icon": "🔗",
+      "es": "Une cada condición con su resultado lógico.",
+      "en": "Match each condition with its logical result.",
+      "pairs": [
+        [
+          "If I hadn't overslept,",
+          "I wouldn't have missed the interview."
+        ],
+        [
+          "If she had checked the weather,",
+          "she would have taken an umbrella."
+        ],
+        [
+          "If we had booked a table,",
+          "we wouldn't have waited for an hour."
+        ],
+        [
+          "If you had told me the truth,",
+          "I would have forgiven you."
+        ],
+        [
+          "If they hadn't left the gate open,",
+          "the dog wouldn't have escaped."
+        ],
+        [
+          "If he had saved his document,",
+          "he wouldn't have lost all his work."
+        ],
+        [
+          "If I had known you were vegetarian,",
+          "I wouldn't have made a chicken curry."
+        ],
+        [
+          "If the referee had seen the foul,",
+          "he would have given a penalty."
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿'d = had o would?",
+      "title_en": "Does 'd mean had or would?",
+      "icon": "🕵️",
+      "es": "Clasifica cada forma. Pista: mira la palabra que va detrás de <b>'d</b>.",
+      "en": "Sort the short forms. Look at the word after 'd.",
+      "cats": [
+        {
+          "name": "'d = had",
+          "words": [
+            "I'd forgotten",
+            "she'd left",
+            "we'd known",
+            "they'd seen",
+            "you'd told me",
+            "he'd broken"
+          ]
+        },
+        {
+          "name": "'d = would",
+          "words": [
+            "I'd have gone",
+            "he'd be",
+            "we'd love",
+            "she'd have said",
+            "they'd buy",
+            "you'd like"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Qué pasó de verdad?",
+      "title_en": "What really happened?",
+      "icon": "🧐",
+      "es": "Lee la frase condicional. ¿La afirmación que sigue a la flecha es verdadera (T) o falsa (F)?",
+      "en": "Read the sentence. Is the statement after the arrow true or false?",
+      "items": [
+        {
+          "q": "If Tom had seen the sign, he would have stopped. → <b>Tom saw the sign.</b>",
+          "a": false,
+          "why": "He didn't see it, so he didn't stop."
+        },
+        {
+          "q": "If it hadn't rained, we would have played. → <b>It rained.</b>",
+          "a": true
+        },
+        {
+          "q": "If I'd had my keys, I wouldn't have called you. → <b>I had my keys.</b>",
+          "a": false,
+          "why": "I didn't have them, so I called you."
+        },
+        {
+          "q": "She wouldn't have been late if the bus had come on time. → <b>The bus was late.</b>",
+          "a": true
+        },
+        {
+          "q": "If they had invited me, I would have gone. → <b>I went.</b>",
+          "a": false,
+          "why": "They didn't invite me, so I didn't go."
+        },
+        {
+          "q": "If he hadn't trained so hard, he wouldn't have won. → <b>He trained hard.</b>",
+          "a": true
+        },
+        {
+          "q": "If I had studied engineering, I would be working in Germany now. → <b>I'm working in Germany now.</b>",
+          "a": false,
+          "why": "I didn't study engineering, so I'm not working there."
+        },
+        {
+          "q": "If she weren't so stubborn, she would have apologised. → <b>She apologised.</b>",
+          "a": false,
+          "why": "She is stubborn, so she didn't apologise."
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Completa con el verbo",
+      "title_en": "Complete with the verb",
+      "icon": "✏️",
+      "es": "Escribe el verbo entre paréntesis en la forma correcta del third conditional.",
+      "en": "Put the verb in brackets into the correct third conditional form.",
+      "items": [
+        {
+          "q": "If I ____ (have) more time, I would have visited the museum.",
+          "a": "had had"
+        },
+        {
+          "q": "We ____ (not / get) lost if we had used the GPS.",
+          "a": "wouldn't have got"
+        },
+        {
+          "q": "If you ____ (not / shout), the baby wouldn't have woken up.",
+          "a": "hadn't shouted"
+        },
+        {
+          "q": "She ____ (buy) the flat if the bank had lent her the money.",
+          "a": "would have bought"
+        },
+        {
+          "q": "If the fire alarm ____ (go) off, everyone would have left the building.",
+          "a": "had gone"
+        },
+        {
+          "q": "I ____ (call) you if my phone battery hadn't died.",
+          "a": "would have called"
+        },
+        {
+          "q": "If they ____ (invite) us, we would have gone to the wedding.",
+          "a": "had invited"
+        },
+        {
+          "q": "He ____ (not / fail) the test if he had revised.",
+          "a": "wouldn't have failed"
+        },
+        {
+          "q": "If the tickets ____ (be) cheaper, we would have gone.",
+          "a": "had been"
+        },
+        {
+          "q": "What ___ you ____ (do) if you had lost your job?",
+          "a": "would … have done"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "would, could o might have",
+      "title_en": "would, could or might have",
+      "icon": "🎲",
+      "es": "Completa con would have, could have o might have. Fíjate en la pista en español.",
+      "en": "Complete with would have, could have or might have.",
+      "bank": [
+        "would have",
+        "could have",
+        "might have"
+      ],
+      "items": [
+        {
+          "q": "If it hadn't rained, we ____ played tennis.",
+          "hint": "= habríamos podido",
+          "a": "could have"
+        },
+        {
+          "q": "If she'd been nicer to him, he ____ said yes.",
+          "hint": "= quizá habría",
+          "a": "might have"
+        },
+        {
+          "q": "If I'd known it was you, I ____ opened the door.",
+          "hint": "= seguro que habría",
+          "a": "would have"
+        },
+        {
+          "q": "If you'd been more careful, you ____ avoided the accident.",
+          "hint": "= podrías haber",
+          "a": "could have"
+        },
+        {
+          "q": "If we had taken a different road, we ____ arrived earlier.",
+          "hint": "= quizá habríamos",
+          "a": "might have"
+        },
+        {
+          "q": "If I hadn't been so busy, I ____ come to your party.",
+          "hint": "= seguro que habría",
+          "a": "would have"
+        },
+        {
+          "q": "If he had studied law, he ____ become a judge.",
+          "hint": "= quizá habría",
+          "a": "might have"
+        },
+        {
+          "q": "If you had asked me, I ____ lent you my car.",
+          "hint": "= seguro que habría",
+          "a": "would have"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "De la realidad al third conditional",
+      "title_en": "From reality to the third conditional",
+      "icon": "📋",
+      "wide": true,
+      "es": "Lee lo que pasó de verdad y escribe la condición y el resultado imaginarios. Mira el modelo.",
+      "en": "Read what really happened and write the imaginary condition and result.",
+      "head": [
+        "Lo que pasó · What happened",
+        "Condición · If…",
+        "Resultado · Result"
+      ],
+      "rows": [
+        [
+          "<i>Modelo:</i> I didn't know. I didn't come.",
+          "If I had known,",
+          "I would have come."
+        ],
+        [
+          "I didn't set my alarm. I overslept.",
+          "?If I had set my alarm,",
+          "?I wouldn't have overslept."
+        ],
+        [
+          "It rained. We cancelled the picnic.",
+          "?If it hadn't rained,",
+          "?we wouldn't have cancelled the picnic."
+        ],
+        [
+          "She didn't see the sign. She got lost.",
+          "?If she had seen the sign,",
+          "?she wouldn't have got lost."
+        ],
+        [
+          "They didn't train. They lost the match.",
+          "?If they had trained,",
+          "?they wouldn't have lost the match."
+        ],
+        [
+          "I forgot my wallet. I couldn't pay.",
+          "?If I hadn't forgotten my wallet,",
+          "?I could have paid."
+        ],
+        [
+          "He was ill. He missed the exam.",
+          "?If he hadn't been ill,",
+          "?he wouldn't have missed the exam."
+        ]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Une las dos frases",
+      "title_en": "Join the two sentences",
+      "icon": "🔁",
+      "es": "Escribe una frase con el third conditional. Recuerda darle la vuelta a la realidad.",
+      "en": "Write one third conditional sentence.",
+      "items": [
+        {
+          "q": "I didn't know her number. I didn't call her.",
+          "a": "If I had known her number, I would have called her."
+        },
+        {
+          "q": "We took the wrong road. We arrived late.",
+          "a": "If we hadn't taken the wrong road, we wouldn't have arrived late."
+        },
+        {
+          "q": "She didn't wear a coat. She caught a cold.",
+          "a": "If she had worn a coat, she wouldn't have caught a cold."
+        },
+        {
+          "q": "The shop was closed. I didn't buy any milk.",
+          "a": "If the shop hadn't been closed, I would have bought some milk."
+        },
+        {
+          "q": "He didn't read the instructions. He broke the printer.",
+          "a": "If he had read the instructions, he wouldn't have broken the printer."
+        },
+        {
+          "q": "They didn't have enough money. They didn't go on holiday.",
+          "a": "If they had had enough money, they would have gone on holiday."
+        },
+        {
+          "q": "I ate too much. I felt sick.",
+          "a": "If I hadn't eaten so much (too much), I wouldn't have felt sick."
+        },
+        {
+          "q": "You didn't tell me. I didn't help you.",
+          "a": "If you had told me, I would have helped you."
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras. Empieza con mayúscula y pon la coma si el <i>if</i> va primero.",
+      "en": "Put the words in order.",
+      "items": [
+        {
+          "q": "would / I / have / you / told / if / I'd / known",
+          "a": "I would have told you if I'd known."
+        },
+        {
+          "q": "she / have / the job / if / she'd / might / got / applied",
+          "a": "She might have got the job if she'd applied."
+        },
+        {
+          "q": "if / hadn't / we / rained / it / gone / would / have / out",
+          "a": "We would have gone out if it hadn't rained."
+        },
+        {
+          "q": "would / done / what / you / have / ?",
+          "a": "What would you have done?"
+        },
+        {
+          "q": "if / they / the / had / match / trained / won / would / they / have",
+          "a": "If they had trained, they would have won the match."
+        },
+        {
+          "q": "the / I / have / missed / wouldn't / bus / if / up / I'd / earlier / got",
+          "a": "I wouldn't have missed the bus if I'd got up earlier."
+        },
+        {
+          "q": "rich / be / I / now / would / had / if / I / that / bought / house",
+          "a": "If I had bought that house, I would be rich now."
+        },
+        {
+          "q": "have / would / you / the offer / accepted / ?",
+          "a": "Would you have accepted the offer?"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "If I would have seen you, I would have said hello.",
+          "a": "If I had seen you, I would have said hello."
+        },
+        {
+          "q": "She would have came if you had invited her.",
+          "a": "She would have come if you had invited her."
+        },
+        {
+          "q": "If we had took a map, we wouldn't have got lost.",
+          "a": "If we had taken a map, we wouldn't have got lost."
+        },
+        {
+          "q": "They would had arrived earlier if they had left at six.",
+          "a": "They would have arrived earlier if they had left at six."
+        },
+        {
+          "q": "If you had told me, I will have helped you.",
+          "a": "If you had told me, I would have helped you."
+        },
+        {
+          "q": "I wouldn't have been late if I didn't miss the bus.",
+          "a": "I wouldn't have been late if I hadn't missed the bus."
+        },
+        {
+          "q": "If she had studied medicine, she would have been a doctor now.",
+          "a": "If she had studied medicine, she would be a doctor now."
+        },
+        {
+          "q": "If I'd have known, I'd have bought you a present.",
+          "a": "If I'd known (If I had known), I'd have bought you a present."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Mixed conditionals",
+      "title_en": "Mixed conditionals",
+      "icon": "🔀",
+      "es": "Escribe un mixed conditional. Ojo: ¿el resultado es <b>ahora</b> o en el <b>pasado</b>?",
+      "en": "Write a mixed conditional sentence.",
+      "items": [
+        {
+          "q": "I didn't learn to drive. Now I can't get a job as a courier.",
+          "a": "If I had learnt (learned) to drive, I could get a job as a courier now."
+        },
+        {
+          "q": "She missed the flight. She isn't in Paris now.",
+          "a": "If she hadn't missed the flight, she would be in Paris now."
+        },
+        {
+          "q": "I didn't sleep well last night. I'm exhausted now.",
+          "a": "If I had slept well last night, I wouldn't be exhausted now."
+        },
+        {
+          "q": "He didn't accept the promotion. He isn't the boss now.",
+          "a": "If he had accepted the promotion, he would be the boss now."
+        },
+        {
+          "q": "I'm not very organised. I forgot the meeting.",
+          "a": "If I were (was) more organised, I wouldn't have forgotten the meeting."
+        },
+        {
+          "q": "She doesn't speak German. She didn't get the job in Berlin.",
+          "a": "If she spoke German, she would have got the job in Berlin."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones con palabra clave",
+      "title_en": "Key word transformations (B2 First)",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave 🔑 sin cambiarla y escribe entre 2 y 5 palabras (incluida la palabra clave).",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word unchanged and 2–5 words.",
+      "items": [
+        {
+          "q": "I didn't know you were ill, so I didn't visit you. 🔑 <b>HAD</b><br>I would have visited you _____ you were ill.",
+          "a": "if I had known"
+        },
+        {
+          "q": "We didn't win because our goalkeeper was injured. 🔑 <b>WOULD</b><br>If our goalkeeper hadn't been injured, we _____.",
+          "a": "would have won"
+        },
+        {
+          "q": "She missed the train because she got up late. 🔑 <b>IF</b><br>She wouldn't have missed the train _____ up late.",
+          "a": "if she hadn't got"
+        },
+        {
+          "q": "I didn't have enough money, so I didn't buy the jacket. 🔑 <b>HAD</b><br>If I _____ money, I would have bought the jacket.",
+          "a": "had had enough"
+        },
+        {
+          "q": "Perhaps he would have helped us, but we didn't ask him. 🔑 <b>MIGHT</b><br>If we had asked him, he _____ us.",
+          "a": "might have helped"
+        },
+        {
+          "q": "The road was icy, so the bus crashed. 🔑 <b>NOT</b><br>If the road _____ icy, the bus wouldn't have crashed.",
+          "a": "had not been"
+        },
+        {
+          "q": "I wasn't able to finish the report because my laptop broke. 🔑 <b>COULD</b><br>If my laptop hadn't broken, I _____ the report.",
+          "a": "could have finished"
+        },
+        {
+          "q": "Thanks to your advice, I didn't make a terrible mistake. 🔑 <b>MADE</b><br>If you hadn't advised me, I _____ a terrible mistake.",
+          "a": "would have made"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Recuerda: <i>hubiera</i> → <b>had</b>; <i>habría</i> → <b>would have</b>.",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Si hubiera sabido que venías, habría preparado la cena.",
+          "a": "If I had known (that) you were coming, I would have made dinner."
+        },
+        {
+          "q": "No habríamos perdido el tren si hubiéramos salido antes.",
+          "a": "We wouldn't have missed the train if we had left earlier."
+        },
+        {
+          "q": "¿Qué habrías hecho tú en mi lugar?",
+          "a": "What would you have done in my position (in my place)?"
+        },
+        {
+          "q": "Si no me hubieras ayudado, no habría terminado el proyecto.",
+          "a": "If you hadn't helped me, I wouldn't have finished the project."
+        },
+        {
+          "q": "Ella podría haber ganado si no se hubiera caído.",
+          "a": "She could have won if she hadn't fallen (over)."
+        },
+        {
+          "q": "Si hubiera aceptado aquel trabajo, ahora viviría en Londres.",
+          "a": "If I had accepted that job, I would live (would be living) in London now."
+        },
+        {
+          "q": "Quizá habrían venido si se lo hubieras pedido.",
+          "a": "They might have come if you had asked them."
+        },
+        {
+          "q": "Si hubiese tenido tu número, te habría llamado.",
+          "a": "If I had had your number, I would have called (phoned) you."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "The interview that never happened",
+      "text": [
+        "Last Monday was supposed to be the most important day of Marta's career: an interview at nine o'clock for her dream job at a design agency in Manchester. Unfortunately, nothing went to plan.",
+        "First, she forgot to charge her phone, so her alarm didn't go off and she woke up at quarter past eight. In a hurry, she left her portfolio on the kitchen table, and when she reached the station, the 8.30 train was just leaving. “If I had charged my phone, I would have woken up on time,” she thought. “And if I'd woken up on time, I wouldn't have forgotten my portfolio.”",
+        "She arrived forty minutes late, and the manager had already left for another meeting. Marta was devastated. However, a month later she got a job at a different agency, which she loves. “If I had got that first job, I would never have met my amazing team,” she says now."
+      ],
+      "items": [
+        {
+          "q": "Marta's alarm didn't go off because her phone was dead.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "She caught the 8.30 train.",
+          "tf": true,
+          "a": false,
+          "why": "The train was just leaving when she reached the station."
+        },
+        {
+          "q": "She had her portfolio with her at the interview.",
+          "tf": true,
+          "a": false,
+          "why": "She left it on the kitchen table."
+        },
+        {
+          "q": "Marta is happy in her current job.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Why did Marta wake up late?",
+          "a": "Because she forgot to charge her phone, so her alarm didn't go off."
+        },
+        {
+          "q": "Complete Marta's thought: If I had woken up on time, ____.",
+          "a": "I wouldn't have forgotten my portfolio."
+        },
+        {
+          "q": "What would have happened if Marta had got the first job, according to her?",
+          "a": "She would never have met her amazing team."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre tu propia vida. Usa el third conditional y, en la última, un mixed conditional.",
+      "en": "Write about your own life.",
+      "items": [
+        {
+          "q": "Piensa en un error que cometiste. Escribe 2 frases: <i>If I had…, I would have…</i>",
+          "lines": 2,
+          "a": "Ej.: If I had studied more for my driving test, I would have passed the first time. I wouldn't have spent so much on lessons."
+        },
+        {
+          "q": "Escribe una frase de <b>alivio</b>: algo malo que al final NO pasó.",
+          "lines": 2,
+          "a": "Ej.: If my friend hadn't reminded me, I would have missed my flight to Dublin."
+        },
+        {
+          "q": "<b>Critica</b> (con educación) algo que hizo otra persona.",
+          "lines": 2,
+          "a": "Ej.: If you had told us about the change, we wouldn't have gone to the wrong office."
+        },
+        {
+          "q": "Escribe un <b>mixed conditional</b> sobre tu vida: <i>If I had…, I would… now.</i>",
+          "lines": 2,
+          "a": "Ej.: If I had chosen a different degree, I would be working in a hospital now."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé formar el third conditional: <b>If + had + participio</b>, <b>would have + participio</b>.",
+      "en": "I can form the third conditional."
+    },
+    {
+      "es": "Uso <b>could have</b> y <b>might have</b> para matizar el resultado.",
+      "en": "I can use could have and might have in the result."
+    },
+    {
+      "es": "Expreso <b>arrepentimientos</b>, críticas y alivio sobre el pasado.",
+      "en": "I can express regrets, criticism and relief about the past."
+    },
+    {
+      "es": "Distingo las dos <b>'d</b>: <i>had</i> y <i>would</i>.",
+      "en": "I can tell 'd = had from 'd = would."
+    },
+    {
+      "es": "Nunca pongo <s>would</s> en la parte del <i>if</i>.",
+      "en": "I never use would in the if-clause."
+    },
+    {
+      "es": "Uso un <b>mixed conditional</b> cuando el resultado es <b>ahora</b>.",
+      "en": "I can use a basic mixed conditional."
+    }
+  ]
+}

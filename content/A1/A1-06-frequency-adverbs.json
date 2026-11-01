@@ -1,0 +1,1499 @@
+{
+  "id": "A1-06",
+  "level": "A1",
+  "title": "ALWAYS, NEVER…",
+  "file_title": "Adverbios de frecuencia",
+  "subtitle": "Adverbs of frequency · ¿con qué frecuencia?",
+  "icon": "🔁",
+  "map": {
+    "center": "Los <b>adverbios de frecuencia</b> dicen <b>cada cuánto</b> hacemos algo: <b>always</b>, <b>usually</b>, <b>never</b>…",
+    "nodes": [
+      {
+        "title": "La escala",
+        "icon": "📊",
+        "rows": [
+          [
+            "always",
+            "100 % · siempre"
+          ],
+          [
+            "usually",
+            "90 % · normalmente"
+          ],
+          [
+            "often",
+            "70 % · a menudo"
+          ],
+          [
+            "sometimes",
+            "50 % · a veces"
+          ],
+          [
+            "never",
+            "0 % · nunca"
+          ]
+        ]
+      },
+      {
+        "title": "Antes del verbo",
+        "icon": "✅",
+        "art": "⚽",
+        "items": [
+          "I <b>always</b> get up at 8.",
+          "She <b>never</b> eats fish.",
+          "Sujeto + <b>adverbio</b> + verbo"
+        ]
+      },
+      {
+        "title": "Después de BE",
+        "icon": "😊",
+        "items": [
+          "I'm <b>always</b> happy.",
+          "Rocky is <b>never</b> sad.",
+          "am / is / are + <b>adverbio</b>"
+        ]
+      },
+      {
+        "title": "How often…?",
+        "icon": "❓",
+        "art": "🤔",
+        "items": [
+          "<b>How often</b> do you swim?",
+          "Every day. · Once a week.",
+          "Twice a week. · Never!"
+        ]
+      },
+      {
+        "title": "Expresiones",
+        "icon": "📅",
+        "chips": [
+          "every day",
+          "once a week",
+          "twice a week",
+          "three times a week",
+          "on Mondays"
+        ],
+        "after": "Van <b>al final</b>: I swim every day."
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "items": [
+          "<b>Never</b> ya es negativo: <s>I don't never</s>",
+          "<b>Sometimes</b> puede ir al principio.",
+          "Do you <b>always</b> walk to school?"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "I play always football."
+      ],
+      "good": [
+        "I always play football."
+      ],
+      "note": "El adverbio va <b>antes del verbo</b>"
+    },
+    "mini": {
+      "es": "Completa con el adverbio del porcentaje.",
+      "en": "Complete with the right adverb.",
+      "items": [
+        {
+          "q": "I ___ brush my teeth.",
+          "hint": "100 %",
+          "a": "always"
+        },
+        {
+          "q": "Rocky ___ eats vegetables.",
+          "hint": "0 %",
+          "a": "never"
+        },
+        {
+          "q": "We ___ go to the park.",
+          "hint": "50 %",
+          "a": "sometimes"
+        },
+        {
+          "q": "Lucía is ___ happy.",
+          "hint": "90 %",
+          "a": "usually"
+        },
+        {
+          "q": "____ do you swim? — Twice a week.",
+          "a": "How often"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Los <b>adverbios de frecuencia</b> son palabras que dicen <mark>cada cuánto</mark> hacemos algo: siempre, normalmente, a menudo, a veces o nunca. Son perfectos para hablar de nuestras <b>rutinas</b> con el present simple. Solo hay que aprender dos cosas: <b>qué significa</b> cada uno y <b>dónde se coloca</b> en la frase.",
+      "en": "Adverbs of frequency say <mark>how often</mark> we do things. Learn what they mean and where they go.",
+      "formula": [
+        "Sujeto + *adverbio* + verbo",
+        "Sujeto + am / is / are + *adverbio*"
+      ]
+    },
+    {
+      "t": "table",
+      "title": "1 · La escala de la frecuencia",
+      "title_en": "The frequency scale",
+      "icon": "📊",
+      "color": "purple",
+      "head": [
+        "Adverbio",
+        "%",
+        "Español",
+        "¿Cuánto?"
+      ],
+      "rows": [
+        [
+          "<b>always</b>",
+          "100 %",
+          "siempre",
+          "⭐⭐⭐⭐⭐"
+        ],
+        [
+          "<b>usually</b>",
+          "90 %",
+          "normalmente",
+          "⭐⭐⭐⭐"
+        ],
+        [
+          "<b>often</b>",
+          "70 %",
+          "a menudo",
+          "⭐⭐⭐"
+        ],
+        [
+          "<b>sometimes</b>",
+          "50 %",
+          "a veces",
+          "⭐⭐"
+        ],
+        [
+          "<b>never</b>",
+          "0 %",
+          "nunca",
+          "—"
+        ]
+      ],
+      "note": "Pronunciación: <b>often</b> suele decirse «ófen» (la t casi no suena) y <b>usually</b> se dice «iúshuali».",
+      "note_en": "<b>often</b> usually sounds like «ofen»."
+    },
+    {
+      "t": "rule",
+      "title": "2 · Antes del verbo",
+      "title_en": "Before the main verb",
+      "icon": "✅",
+      "color": "green",
+      "es": "Con los verbos normales (play, eat, go, watch…) el adverbio va <mark>entre el sujeto y el verbo</mark>. En español decimos «juego siempre», pero en inglés ¡no! <s>I play always.</s> → I <b>always</b> play. Y con he, she, it, el verbo sigue llevando su <em>-s</em>.",
+      "en": "With normal verbs the adverb goes <mark>between the subject and the verb</mark>: I always play.",
+      "formula": [
+        "Sujeto + *always / usually / often / sometimes / never* + verbo"
+      ],
+      "examples": [
+        {
+          "en": "I <b>always</b> have breakfast.",
+          "es": "Siempre desayuno.",
+          "icon": "🥣"
+        },
+        {
+          "en": "Lucía <b>usually</b> walks to school.",
+          "es": "Lucía normalmente va andando al cole.",
+          "icon": "🚶"
+        },
+        {
+          "en": "We <b>sometimes</b> eat pizza on Fridays.",
+          "es": "A veces comemos pizza los viernes.",
+          "icon": "🍕"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿Verbo normal o BE?",
+      "title_en": "Normal verb or be?",
+      "icon": "⚖️",
+      "color": "orange",
+      "cols": [
+        {
+          "head": "🏃 Verbo normal: ANTES",
+          "color": "green",
+          "items": [
+            "She <b>always</b> plays.",
+            "I <b>never</b> eat fish.",
+            "They <b>often</b> swim."
+          ]
+        },
+        {
+          "head": "😊 To be: DESPUÉS",
+          "color": "blue",
+          "items": [
+            "She is <b>always</b> happy.",
+            "I'm <b>never</b> late.",
+            "They're <b>often</b> tired."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Después de TO BE",
+      "title_en": "After be",
+      "icon": "😊",
+      "color": "blue",
+      "es": "Con el verbo <b>to be</b> (am, is, are) es al revés: el adverbio va <mark>detrás</mark> del verbo. Truco: el adverbio es la <b>sombra de BE</b>, ¡siempre va detrás de él!",
+      "en": "With <b>be</b>, the adverb goes <mark>after</mark> the verb: I'm always happy.",
+      "formula": [
+        "Sujeto + am / is / are + *adverbio* + …"
+      ],
+      "examples": [
+        {
+          "en": "I'm <b>always</b> hungry after football.",
+          "es": "Siempre tengo hambre después del fútbol.",
+          "icon": "⚽"
+        },
+        {
+          "en": "Rocky is <b>never</b> quiet!",
+          "es": "¡Rocky nunca está callado!",
+          "icon": "🐶"
+        },
+        {
+          "en": "My friends are <b>often</b> late.",
+          "es": "Mis amigos llegan tarde a menudo.",
+          "icon": "⏰"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · NEVER ya es negativo",
+      "title_en": "Never is already negative",
+      "icon": "🚫",
+      "color": "red",
+      "es": "<b>Never</b> significa «nunca» y ya es negativo, así que la frase va en <b>afirmativa</b>. En español decimos «no como nunca», pero en inglés <em>no</em> ponemos don't con never: <s>I don't never eat fish.</s> → I <b>never</b> eat fish. En negativas y preguntas, los otros adverbios van justo <mark>antes del verbo</mark>.",
+      "en": "<b>Never</b> is already negative: I never eat fish. In negatives and questions the adverb goes before the main verb.",
+      "examples": [
+        {
+          "en": "I <b>never</b> drink coffee.",
+          "es": "Nunca bebo café.",
+          "icon": "☕"
+        },
+        {
+          "en": "Rocky <b>never</b> eats vegetables.",
+          "es": "Rocky nunca come verdura.",
+          "icon": "🥕"
+        },
+        {
+          "en": "Do you <b>often</b> play tennis?",
+          "es": "¿Juegas a menudo al tenis?",
+          "icon": "🎾"
+        },
+        {
+          "en": "Tom doesn't <b>usually</b> walk to school.",
+          "es": "Tom no suele ir andando al cole.",
+          "icon": "🚌"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Sometimes, el viajero",
+      "title_en": "Sometimes can move",
+      "icon": "🎒",
+      "color": "teal",
+      "es": "<b>Sometimes</b> es especial: puede ir antes del verbo, <mark>al principio</mark> o <mark>al final</mark> de la frase. ¡Las tres son correctas! (Always y never, no: ellos se quedan antes del verbo.)",
+      "en": "<b>Sometimes</b> can go before the verb, at the start or at the end.",
+      "examples": [
+        {
+          "en": "I <b>sometimes</b> ride my bike to school.",
+          "es": "A veces voy al cole en bici.",
+          "icon": "🚲"
+        },
+        {
+          "en": "<b>Sometimes</b> I ride my bike to school.",
+          "es": "A veces voy al cole en bici.",
+          "icon": "🚲"
+        },
+        {
+          "en": "I ride my bike to school <b>sometimes</b>.",
+          "es": "Voy al cole en bici a veces.",
+          "icon": "🚲"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · How often…?",
+      "title_en": "Asking how often",
+      "icon": "❓",
+      "color": "purple",
+      "es": "Para preguntar <b>cada cuánto</b> hacemos algo usamos <mark>How often</mark> + do / does + sujeto + verbo? Contestamos con un adverbio o con una expresión de frecuencia.",
+      "en": "Ask with <b>How often</b> + do / does + subject + verb?",
+      "formula": [
+        "*How often* + do / does + sujeto + verbo + ?"
+      ],
+      "examples": [
+        {
+          "en": "<b>How often</b> do you swim? — Twice a week.",
+          "es": "¿Cada cuánto nadas? — Dos veces a la semana.",
+          "icon": "🏊"
+        },
+        {
+          "en": "<b>How often</b> does Lucía read? — Every day.",
+          "es": "¿Cada cuánto lee Lucía? — Todos los días.",
+          "icon": "📖"
+        },
+        {
+          "en": "<b>How often</b> do you go to the cinema? — Not very often.",
+          "es": "¿Cada cuánto vas al cine? — No muy a menudo.",
+          "icon": "🎬"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "¿Dónde va cada palabra?",
+      "title_en": "Where does each word go?",
+      "icon": "🧩",
+      "color": "green",
+      "wide": true,
+      "head": [
+        "Sujeto",
+        "Adverbio",
+        "Verbo",
+        "Resto",
+        "Expresión (al final)"
+      ],
+      "rows": [
+        [
+          "Mario",
+          "<b>always</b>",
+          "gets up",
+          "at seven.",
+          "—"
+        ],
+        [
+          "Lucía",
+          "<b>usually</b>",
+          "reads",
+          "in bed.",
+          "—"
+        ],
+        [
+          "We",
+          "<b>often</b>",
+          "play",
+          "football.",
+          "—"
+        ],
+        [
+          "Rocky",
+          "<b>never</b>",
+          "eats",
+          "salad.",
+          "—"
+        ],
+        [
+          "I",
+          "—",
+          "swim",
+          "at the pool",
+          "<b>twice a week</b>."
+        ],
+        [
+          "My dad",
+          "—",
+          "cooks",
+          "pizza",
+          "<b>on Fridays</b>."
+        ]
+      ],
+      "note": "Con <b>BE</b> el orden cambia: Sujeto + am / is / are + adverbio → <i>Lucía is <b>usually</b> happy.</i>",
+      "note_en": "With be: subject + am / is / are + adverb."
+    },
+    {
+      "t": "table",
+      "title": "7 · Expresiones de frecuencia",
+      "title_en": "Frequency expressions",
+      "icon": "📅",
+      "color": "orange",
+      "head": [
+        "Inglés · English",
+        "Español"
+      ],
+      "rows": [
+        [
+          "<b>every</b> day / week / morning",
+          "todos los días / todas las semanas / todas las mañanas"
+        ],
+        [
+          "<b>once</b> a week",
+          "una vez a la semana"
+        ],
+        [
+          "<b>twice</b> a week",
+          "dos veces a la semana"
+        ],
+        [
+          "<b>three times</b> a week",
+          "tres veces a la semana"
+        ],
+        [
+          "<b>once</b> a month",
+          "una vez al mes"
+        ],
+        [
+          "<b>on</b> Mondays",
+          "los lunes"
+        ],
+        [
+          "<b>at</b> the weekend",
+          "el fin de semana"
+        ]
+      ],
+      "note": "Estas expresiones van <mark>al final</mark> de la frase: I swim <b>twice a week</b>. ¡Ojo! <b>once</b> (1), <b>twice</b> (2) y, a partir de 3, <b>times</b>: three times, four times…",
+      "note_en": "These go at the end. Once, twice, then three times, four times…"
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Piensa cada cuánto: 100 % <b>always</b> · 90 % <b>usually</b> · 70 % <b>often</b> · 50 % <b>sometimes</b> · 0 % <b>never</b>.",
+          "en": "Choose the adverb."
+        },
+        {
+          "es": "¿El verbo es <b>to be</b> (am, is, are)? → el adverbio va <b>detrás</b>: I'm always happy.",
+          "en": "Be → adverb after."
+        },
+        {
+          "es": "¿Es otro verbo? → el adverbio va <b>delante</b>: I always play.",
+          "en": "Other verbs → adverb before."
+        },
+        {
+          "es": "¿Es una expresión (every day, twice a week)? → va <b>al final</b>.",
+          "en": "Expressions go at the end."
+        },
+        {
+          "es": "Revisa: ¿he / she / it lleva -s? ¿never va sin don't?",
+          "en": "Check the -s and never without don't."
+        }
+      ]
+    },
+    {
+      "t": "vocab",
+      "title": "¿Cada cuánto lo haces?",
+      "title_en": "How often do you do it?",
+      "icon": "🎯",
+      "color": "pink",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "brush my teeth",
+          "es": "lavarme los dientes",
+          "icon": "🪥"
+        },
+        {
+          "en": "eat vegetables",
+          "es": "comer verdura",
+          "icon": "🥦"
+        },
+        {
+          "en": "ride my bike",
+          "es": "montar en bici",
+          "icon": "🚲"
+        },
+        {
+          "en": "watch cartoons",
+          "es": "ver dibujos",
+          "icon": "📺"
+        },
+        {
+          "en": "play football",
+          "es": "jugar al fútbol",
+          "icon": "⚽"
+        },
+        {
+          "en": "read books",
+          "es": "leer libros",
+          "icon": "📚"
+        },
+        {
+          "en": "go swimming",
+          "es": "ir a nadar",
+          "icon": "🏊"
+        },
+        {
+          "en": "tidy my room",
+          "es": "ordenar mi cuarto",
+          "icon": "🧹"
+        },
+        {
+          "en": "walk the dog",
+          "es": "pasear al perro",
+          "icon": "🐕"
+        },
+        {
+          "en": "help at home",
+          "es": "ayudar en casa",
+          "icon": "🧽"
+        },
+        {
+          "en": "eat sweets",
+          "es": "comer chuches",
+          "icon": "🍬"
+        },
+        {
+          "en": "go to the cinema",
+          "es": "ir al cine",
+          "icon": "🎬"
+        },
+        {
+          "en": "visit my grandparents",
+          "es": "visitar a mis abuelos",
+          "icon": "👵"
+        },
+        {
+          "en": "play video games",
+          "es": "jugar a videojuegos",
+          "icon": "🎮"
+        },
+        {
+          "en": "do my homework",
+          "es": "hacer los deberes",
+          "icon": "✏️"
+        },
+        {
+          "en": "go to bed late",
+          "es": "acostarme tarde",
+          "icon": "🌙"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "Mario <b>always</b> brushes his teeth after dinner.",
+          "es": "Mario siempre se lava los dientes después de cenar.",
+          "icon": "🪥"
+        },
+        {
+          "en": "We <b>usually</b> have pasta on Mondays.",
+          "es": "Normalmente comemos pasta los lunes.",
+          "icon": "🍝"
+        },
+        {
+          "en": "Leo <b>often</b> plays video games.",
+          "es": "Leo juega a menudo a los videojuegos.",
+          "icon": "🎮"
+        },
+        {
+          "en": "<b>Sometimes</b> Rocky sleeps on my bed.",
+          "es": "A veces Rocky duerme en mi cama.",
+          "icon": "🛏️"
+        },
+        {
+          "en": "Lucía <b>never</b> goes to bed late.",
+          "es": "Lucía nunca se acuesta tarde.",
+          "icon": "🌙"
+        },
+        {
+          "en": "My grandma is <b>always</b> happy to see us.",
+          "es": "Mi abuela siempre está contenta de vernos.",
+          "icon": "👵"
+        },
+        {
+          "en": "It's <b>often</b> cold in winter.",
+          "es": "A menudo hace frío en invierno.",
+          "icon": "❄️"
+        },
+        {
+          "en": "I visit my grandparents <b>once a month</b>.",
+          "es": "Visito a mis abuelos una vez al mes.",
+          "icon": "🚗"
+        },
+        {
+          "en": "Anna goes swimming <b>three times a week</b>.",
+          "es": "Anna va a nadar tres veces a la semana.",
+          "icon": "🏊"
+        },
+        {
+          "en": "How often do you eat sweets? — Only at the weekend.",
+          "es": "¿Cada cuánto comes chuches? — Solo el fin de semana.",
+          "icon": "🍬"
+        },
+        {
+          "en": "We're <b>never</b> bored at Leo's house!",
+          "es": "¡Nunca nos aburrimos en casa de Leo!",
+          "icon": "🎲"
+        },
+        {
+          "en": "Do you <b>usually</b> walk to school? — Yes, I do.",
+          "es": "¿Normalmente vas andando al cole? — Sí.",
+          "icon": "🚶"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del termómetro",
+      "title_en": "Thermometer trick",
+      "es": "Imagina un termómetro: arriba, <b>always</b> (100 %); abajo, <b>never</b> (0 %). Y para la posición recuerda: <mark>el adverbio va antes del verbo… pero detrás de BE</mark>. «I <u>always</u> play», pero «I'm <u>always</u> happy».",
+      "en": "Before the verb, but after be: I always play · I'm always happy."
+    },
+    {
+      "t": "errors",
+      "monster": "trampas",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I play always football.",
+          "good": "I <b>always play</b> football.",
+          "why": "El adverbio va antes del verbo.",
+          "why_en": "The adverb goes before the verb."
+        },
+        {
+          "bad": "She always is happy.",
+          "good": "She <b>is always</b> happy.",
+          "why": "Con to be, el adverbio va detrás.",
+          "why_en": "After be."
+        },
+        {
+          "bad": "I don't never eat fish.",
+          "good": "I <b>never</b> eat fish.",
+          "why": "Never ya es negativo: sin don't.",
+          "why_en": "Never is already negative."
+        },
+        {
+          "bad": "He never eat fish.",
+          "good": "He never eat<b>s</b> fish.",
+          "why": "Con he / she / it, el verbo sigue con -s.",
+          "why_en": "Keep the -s with he / she / it."
+        },
+        {
+          "bad": "I go to the park every days.",
+          "good": "I go to the park <b>every day</b>.",
+          "why": "Every + singular: every day, every week.",
+          "why_en": "Every + singular noun."
+        },
+        {
+          "bad": "I swim two times a week.",
+          "good": "I swim <b>twice</b> a week.",
+          "why": "Dos veces = twice.",
+          "why_en": "Two times = twice."
+        },
+        {
+          "bad": "How often you swim?",
+          "good": "How often <b>do</b> you swim?",
+          "why": "How often + do / does + sujeto + verbo.",
+          "why_en": "How often + do / does."
+        },
+        {
+          "bad": "Always I get up at seven.",
+          "good": "I <b>always</b> get up at seven.",
+          "why": "Always no va al principio (sometimes, sí).",
+          "why_en": "Always doesn't go first."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "La encuesta de Sara",
+      "title_en": "Sara's survey",
+      "lines": [
+        {
+          "who": "Sara",
+          "en": "Hi, Mario! It's for a survey. How often do you play football?",
+          "es": "¡Hola, Mario! Es para una encuesta. ¿Cada cuánto juegas al fútbol?"
+        },
+        {
+          "who": "Mario",
+          "en": "Three times a week. I love it!",
+          "es": "Tres veces a la semana. ¡Me encanta!"
+        },
+        {
+          "who": "Sara",
+          "en": "Do you eat vegetables?",
+          "es": "¿Comes verdura?"
+        },
+        {
+          "who": "Mario",
+          "en": "Yes, I usually eat vegetables at lunch.",
+          "es": "Sí, normalmente como verdura a mediodía."
+        },
+        {
+          "who": "Sara",
+          "en": "How often do you read books?",
+          "es": "¿Cada cuánto lees libros?"
+        },
+        {
+          "who": "Mario",
+          "en": "I sometimes read comics, but I never read in bed.",
+          "es": "A veces leo cómics, pero nunca leo en la cama."
+        },
+        {
+          "who": "Sara",
+          "en": "Are you often late for school?",
+          "es": "¿Llegas tarde al cole a menudo?"
+        },
+        {
+          "who": "Mario",
+          "en": "No, never! Rocky always wakes me up!",
+          "es": "¡No, nunca! ¡Rocky siempre me despierta!"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "Une con su significado",
+      "title_en": "Match the meanings",
+      "icon": "🔗",
+      "es": "Une cada palabra con su significado en español.",
+      "en": "Match each word with its Spanish meaning.",
+      "pairs": [
+        [
+          "always",
+          "siempre"
+        ],
+        [
+          "usually",
+          "normalmente"
+        ],
+        [
+          "often",
+          "a menudo"
+        ],
+        [
+          "sometimes",
+          "a veces"
+        ],
+        [
+          "never",
+          "nunca"
+        ],
+        [
+          "every day",
+          "todos los días"
+        ],
+        [
+          "once a week",
+          "una vez a la semana"
+        ],
+        [
+          "twice a month",
+          "dos veces al mes"
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Dónde va?",
+      "title_en": "Where does it go?",
+      "icon": "🗂️",
+      "es": "¿Va antes del verbo o al final de la frase? Escribe cada palabra en su caja.",
+      "en": "Before the verb or at the end of the sentence?",
+      "cats": [
+        {
+          "name": "Antes del verbo",
+          "words": [
+            "always",
+            "usually",
+            "often",
+            "never"
+          ]
+        },
+        {
+          "name": "Al final de la frase",
+          "words": [
+            "every day",
+            "once a week",
+            "twice a month",
+            "on Mondays",
+            "at the weekend",
+            "every morning",
+            "three times a week"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Mira el porcentaje",
+      "title_en": "Look at the percentage",
+      "icon": "📊",
+      "es": "Completa con el adverbio que corresponde al porcentaje.",
+      "en": "Complete with the adverb for each percentage.",
+      "bank": [
+        "always",
+        "usually",
+        "often",
+        "sometimes",
+        "never"
+      ],
+      "items": [
+        {
+          "q": "I ____ brush my teeth before bed.",
+          "hint": "100 %",
+          "a": "always"
+        },
+        {
+          "q": "Rocky ____ eats salad.",
+          "hint": "0 %",
+          "a": "never"
+        },
+        {
+          "q": "We ____ go to the beach in summer.",
+          "hint": "70 %",
+          "a": "often"
+        },
+        {
+          "q": "Lucía ____ reads before bed.",
+          "hint": "90 %",
+          "a": "usually"
+        },
+        {
+          "q": "My dad ____ cooks pizza.",
+          "hint": "50 %",
+          "a": "sometimes"
+        },
+        {
+          "q": "I'm ____ late for school.",
+          "hint": "0 %",
+          "a": "never"
+        },
+        {
+          "q": "Leo is ____ happy.",
+          "hint": "100 %",
+          "a": "always"
+        },
+        {
+          "q": "They ____ watch cartoons on Saturdays.",
+          "hint": "90 %",
+          "a": "usually"
+        },
+        {
+          "q": "My mum ____ drinks tea.",
+          "hint": "50 %",
+          "a": "sometimes"
+        },
+        {
+          "q": "It's ____ hot in August.",
+          "hint": "70 %",
+          "a": "often"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct option",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta. Piensa: ¿verbo normal o BE?",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "I [always play|play always] football on Saturdays.",
+          "a": "always play"
+        },
+        {
+          "q": "She [is often|often is] tired.",
+          "a": "is often"
+        },
+        {
+          "q": "We [never eat|eat never] fish.",
+          "a": "never eat"
+        },
+        {
+          "q": "Rocky [is always|always is] hungry.",
+          "a": "is always"
+        },
+        {
+          "q": "My dad [usually drives|drives usually] to work.",
+          "a": "usually drives"
+        },
+        {
+          "q": "I [never drink|don't never drink] coffee.",
+          "a": "never drink"
+        },
+        {
+          "q": "Anna swims [twice|two times] a week.",
+          "a": "twice"
+        },
+        {
+          "q": "We go to the park [every day|every days].",
+          "a": "every day"
+        },
+        {
+          "q": "[How often|How many] do you play tennis?",
+          "a": "How often"
+        },
+        {
+          "q": "My friends [are often|often are] late.",
+          "a": "are often"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "once, twice, three times, every",
+      "title_en": "once, twice, three times, every",
+      "icon": "📅",
+      "es": "Completa con once, twice, three times o every. El número te ayuda.",
+      "en": "Complete with once, twice, three times or every.",
+      "bank": [
+        "once",
+        "twice",
+        "three times",
+        "every"
+      ],
+      "items": [
+        {
+          "q": "I swim ____ a week.",
+          "hint": "2",
+          "a": "twice"
+        },
+        {
+          "q": "We go to the cinema ____ a month.",
+          "hint": "1",
+          "a": "once"
+        },
+        {
+          "q": "Leo plays football _____ a week.",
+          "hint": "3",
+          "a": "three times"
+        },
+        {
+          "q": "I brush my teeth ____ day.",
+          "hint": "todos los días",
+          "a": "every"
+        },
+        {
+          "q": "Lucía visits Grandma ____ a week.",
+          "hint": "1",
+          "a": "once"
+        },
+        {
+          "q": "Rocky has a bath ____ a month.",
+          "hint": "2",
+          "a": "twice"
+        },
+        {
+          "q": "My dad runs ____ morning.",
+          "hint": "todas las mañanas",
+          "a": "every"
+        },
+        {
+          "q": "We have PE _____ a week.",
+          "hint": "3",
+          "a": "three times"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Bien o mal?",
+      "title_en": "Right or wrong?",
+      "icon": "✅",
+      "es": "¿La frase está bien (T) o mal (F)? Si está mal, piensa por qué.",
+      "en": "Is the sentence right (T) or wrong (F)?",
+      "items": [
+        {
+          "q": "I always get up at eight.",
+          "a": true
+        },
+        {
+          "q": "She is never late.",
+          "a": true
+        },
+        {
+          "q": "We play often tennis.",
+          "a": false,
+          "why": "We <b>often play</b> tennis."
+        },
+        {
+          "q": "I don't never eat meat.",
+          "a": false,
+          "why": "I <b>never</b> eat meat."
+        },
+        {
+          "q": "Rocky is always happy.",
+          "a": true
+        },
+        {
+          "q": "My dad always is busy.",
+          "a": false,
+          "why": "My dad <b>is always</b> busy."
+        },
+        {
+          "q": "Anna swims twice a week.",
+          "a": true
+        },
+        {
+          "q": "How often does Leo play the piano?",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "La semana de Mario",
+      "title_en": "Mario's week",
+      "icon": "📋",
+      "es": "Mira los días (✓ = sí, ✗ = no) y escribe el adverbio y la expresión. Clave: 7 días = always · 6 = usually · 4-5 = often · 1-3 = sometimes · 0 = never.",
+      "en": "Look at the days and write the adverb and the expression.",
+      "head": [
+        "Actividad",
+        "L M X J V S D",
+        "Adverbio",
+        "How often?"
+      ],
+      "rows": [
+        [
+          "🪥 brush his teeth",
+          "✓✓✓✓✓✓✓",
+          "?always",
+          "?every day"
+        ],
+        [
+          "🥦 eat vegetables",
+          "✓✓✓✓✓✓✗",
+          "?usually",
+          "?six times a week"
+        ],
+        [
+          "⚽ play football",
+          "✓✗✓✗✓✓✗",
+          "?often",
+          "?four times a week"
+        ],
+        [
+          "🏊 go swimming",
+          "✗✓✗✓✗✗✗",
+          "?sometimes",
+          "?twice a week"
+        ],
+        [
+          "🎬 go to the cinema",
+          "✗✗✗✗✗✓✗",
+          "?sometimes",
+          "?once a week"
+        ],
+        [
+          "🎮 play video games",
+          "✗✗✗✗✗✗✗",
+          "?never",
+          "?never"
+        ]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pon el adverbio en su sitio",
+      "title_en": "Put the adverb in the right place",
+      "icon": "📍",
+      "es": "Escribe la frase con el adverbio del paréntesis. ¿Verbo normal (antes) o BE (después)?",
+      "en": "Rewrite the sentence with the adverb.",
+      "items": [
+        {
+          "q": "I play football. <b>(often)</b>",
+          "a": "I often play football."
+        },
+        {
+          "q": "Rocky is hungry. <b>(always)</b>",
+          "a": "Rocky is always hungry."
+        },
+        {
+          "q": "We go to the cinema. <b>(sometimes)</b>",
+          "a": "We sometimes go to the cinema. / Sometimes we go to the cinema."
+        },
+        {
+          "q": "Lucía is late. <b>(never)</b>",
+          "a": "Lucía is never late."
+        },
+        {
+          "q": "My mum drinks coffee. <b>(usually)</b>",
+          "a": "My mum usually drinks coffee."
+        },
+        {
+          "q": "They are tired after school. <b>(often)</b>",
+          "a": "They are often tired after school."
+        },
+        {
+          "q": "Leo eats fish. <b>(never)</b>",
+          "a": "Leo never eats fish."
+        },
+        {
+          "q": "I am happy on Fridays. <b>(always)</b>",
+          "a": "I am always happy on Fridays."
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {
+          "q": "always / I / at seven / get up",
+          "a": "I always get up at seven."
+        },
+        {
+          "q": "is / Rocky / hungry / always",
+          "a": "Rocky is always hungry."
+        },
+        {
+          "q": "never / my sister / coffee / drinks",
+          "a": "My sister never drinks coffee."
+        },
+        {
+          "q": "often / we / football / play / on Sundays",
+          "a": "We often play football on Sundays."
+        },
+        {
+          "q": "are / late / never / they",
+          "a": "They are never late."
+        },
+        {
+          "q": "usually / Anna / the bus / takes",
+          "a": "Anna usually takes the bus."
+        },
+        {
+          "q": "how often / swim / you / do / ?",
+          "a": "How often do you swim?"
+        },
+        {
+          "q": "twice / I / Grandma / a month / visit",
+          "a": "I visit Grandma twice a month."
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "I eat always cereal.",
+          "a": "I always eat cereal."
+        },
+        {
+          "q": "She always is tired.",
+          "a": "She is always tired."
+        },
+        {
+          "q": "I don't never watch TV.",
+          "a": "I never watch TV."
+        },
+        {
+          "q": "He usually play tennis.",
+          "a": "He usually plays tennis."
+        },
+        {
+          "q": "We go swimming every weeks.",
+          "a": "We go swimming every week."
+        },
+        {
+          "q": "Leo reads two times a week.",
+          "a": "Leo reads twice a week."
+        },
+        {
+          "q": "Rocky sleeps never on the sofa.",
+          "a": "Rocky never sleeps on the sofa."
+        },
+        {
+          "q": "How often you play tennis?",
+          "a": "How often do you play tennis?"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pregunta y responde",
+      "title_en": "Ask and answer",
+      "icon": "❓",
+      "es": "Escribe la pregunta con How often…? y contesta con la expresión del paréntesis.",
+      "en": "Write the question with How often…? and answer it.",
+      "labels": [
+        "❓",
+        "💬"
+      ],
+      "items": [
+        {
+          "q": "you / play football (twice a week)",
+          "a": [
+            "How often do you play football?",
+            "I play football twice a week."
+          ]
+        },
+        {
+          "q": "Lucía / read (every day)",
+          "a": [
+            "How often does Lucía read?",
+            "She reads every day."
+          ]
+        },
+        {
+          "q": "they / go to the cinema (once a month)",
+          "a": [
+            "How often do they go to the cinema?",
+            "They go to the cinema once a month."
+          ]
+        },
+        {
+          "q": "Rocky / have a bath (once a week)",
+          "a": [
+            "How often does Rocky have a bath?",
+            "He has a bath once a week."
+          ]
+        },
+        {
+          "q": "you / visit your grandma (on Sundays)",
+          "a": [
+            "How often do you visit your grandma?",
+            "I visit my grandma on Sundays."
+          ]
+        },
+        {
+          "q": "Tom / eat sweets (three times a week)",
+          "a": [
+            "How often does Tom eat sweets?",
+            "He eats sweets three times a week."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea la palabra",
+      "title_en": "Spell the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe el adverbio en las cajas.",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        {
+          "q": "⭐⭐⭐⭐⭐ siempre",
+          "a": "always"
+        },
+        {
+          "q": "⭐⭐⭐⭐ normalmente",
+          "a": "usually"
+        },
+        {
+          "q": "⭐⭐⭐ a menudo",
+          "a": "often"
+        },
+        {
+          "q": "⭐⭐ a veces",
+          "a": "sometimes"
+        },
+        {
+          "q": "🚫 nunca",
+          "a": "never"
+        },
+        {
+          "q": "✌️ dos veces",
+          "a": "twice"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿verbo normal o BE? ¿dónde va el adverbio?",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Siempre desayuno cereales.",
+          "a": "I always have cereal for breakfast."
+        },
+        {
+          "q": "Mi hermana nunca come pescado.",
+          "a": "My sister never eats fish."
+        },
+        {
+          "q": "A veces vamos al parque.",
+          "a": "We sometimes go to the park. / Sometimes we go to the park."
+        },
+        {
+          "q": "Rocky siempre tiene hambre. (¡cuidado!)",
+          "a": "Rocky is always hungry."
+        },
+        {
+          "q": "Normalmente voy andando al cole.",
+          "a": "I usually walk to school."
+        },
+        {
+          "q": "Leo juega al fútbol tres veces a la semana.",
+          "a": "Leo plays football three times a week."
+        },
+        {
+          "q": "¿Cada cuánto nadas?",
+          "a": "How often do you swim?"
+        },
+        {
+          "q": "Nunca llego tarde.",
+          "a": "I'm never late."
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca las 10 palabras. Después escribe 2 frases sobre ti con dos de ellas.",
+      "en": "Find the 10 words. Then write two sentences about you.",
+      "words": [
+        "always",
+        "usually",
+        "often",
+        "sometimes",
+        "never",
+        "once",
+        "twice",
+        "every",
+        "week",
+        "month"
+      ],
+      "clues": [
+        "always · siempre",
+        "usually · normalmente",
+        "often · a menudo",
+        "sometimes · a veces",
+        "never · nunca",
+        "once · una vez",
+        "twice · dos veces",
+        "every · cada",
+        "week · semana",
+        "month · mes"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "Sara's survey",
+      "text": [
+        "Sara asks her friends questions for a class survey.",
+        "Leo plays video games every day, but he never reads books. He usually goes to bed at ten.",
+        "Anna is very sporty. She goes swimming three times a week and she often plays football. She never eats sweets!",
+        "Tom sometimes plays football, but he usually reads comics. He visits his grandparents once a month. He is never late for school."
+      ],
+      "items": [
+        {
+          "q": "Leo reads books every day.",
+          "tf": true,
+          "a": false,
+          "why": "He never reads books."
+        },
+        {
+          "q": "Anna goes swimming three times a week.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Tom is often late for school.",
+          "tf": true,
+          "a": false,
+          "why": "He is never late for school."
+        },
+        {
+          "q": "How often does Leo play video games?",
+          "a": "Every day."
+        },
+        {
+          "q": "Does Anna eat sweets?",
+          "a": "No, she doesn't. She never eats sweets."
+        },
+        {
+          "q": "How often does Tom visit his grandparents?",
+          "a": "Once a month."
+        },
+        {
+          "q": "What does Tom usually read?",
+          "a": "He usually reads comics."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre tus costumbres. Usa adverbios y expresiones de frecuencia.",
+      "en": "Write about your habits.",
+      "items": [
+        {
+          "q": "Escribe 3 cosas que haces siempre o normalmente: I always… / I usually…",
+          "lines": 2,
+          "a": "Ej.: I always brush my teeth. I usually walk to school."
+        },
+        {
+          "q": "Escribe 2 cosas que <b>nunca</b> haces: I never…",
+          "lines": 1,
+          "a": "Ej.: I never drink coffee."
+        },
+        {
+          "q": "Escribe 2 frases con BE: I'm always… / My dog is never…",
+          "lines": 2,
+          "a": "Ej.: I'm always hungry. Rocky is never quiet."
+        },
+        {
+          "q": "Contesta: How often do you swim / read / eat sweets?",
+          "lines": 2,
+          "a": "Ej.: I swim twice a week. I read every day."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Conozco la escala: <b>always, usually, often, sometimes, never</b>.",
+      "en": "I know the frequency scale."
+    },
+    {
+      "es": "Pongo el adverbio <b>antes del verbo</b>: I always play.",
+      "en": "I put the adverb before the verb."
+    },
+    {
+      "es": "Pongo el adverbio <b>después de BE</b>: I'm always happy.",
+      "en": "I put the adverb after be."
+    },
+    {
+      "es": "Sé que <b>never</b> ya es negativo: nunca con don't.",
+      "en": "I know never is already negative."
+    },
+    {
+      "es": "Pregunto con <b>How often…?</b> y sé contestar.",
+      "en": "I can ask and answer How often…?"
+    },
+    {
+      "es": "Uso expresiones al final: <b>every day, once a week, twice a week…</b>",
+      "en": "I use frequency expressions at the end."
+    }
+  ]
+}

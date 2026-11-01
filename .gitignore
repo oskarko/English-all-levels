@@ -1,0 +1,6 @@
+node_modules/
+output/
+pdf/libros/
+reference/
+.DS_Store
+*.log

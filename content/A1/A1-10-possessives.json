@@ -1,0 +1,480 @@
+{
+  "id": "A1-10",
+  "level": "A1",
+  "title": "MY, YOUR… <em>y</em> 'S",
+  "file_title": "My, your… y 's",
+  "subtitle": "Possessives · mi, tu, su… y el 's",
+  "icon": "🏷️",
+  "map": {
+    "center": "Para decir <b>de quién</b> es algo: <b>my</b> bike, <b>her</b> dog, <b>Mario's</b> ball. ¡Siempre delante de la cosa!",
+    "nodes": [
+      {
+        "title": "Yo, tú, él, ella", "icon": "👤",
+        "rows": [["I → my", "mi"], ["you → your", "tu, vuestro"], ["he → his", "su (de él)"], ["she → her", "su (de ella)"]]
+      },
+      {
+        "title": "Eso, nosotros, ellos", "icon": "👨‍👩‍👧",
+        "rows": [["it → its", "su (cosa, animal)"], ["we → our", "nuestro"], ["they → their", "su (de ellos)"]],
+        "after": "¡Nunca cambian! my book, my book<em>s</em>"
+      },
+      {
+        "title": "HIS o HER", "icon": "👫",
+        "items": ["¡Mira <b>al dueño</b>, no a la cosa!", "Mario and <b>his</b> sister <i>(de él)</i>", "Lucía and <b>her</b> brother <i>(de ella)</i>"]
+      },
+      {
+        "title": "El genitivo 's", "icon": "🐶", "art": "🐕",
+        "items": ["Mario<b>'s</b> dog = el perro de Mario", "my mum<b>'s</b> car · Leo<b>'s</b> bike", "plural en -s: my parents<b>'</b> car"]
+      },
+      {
+        "title": "ITS o IT'S", "icon": "🐾",
+        "items": ["<b>its</b> = su (cosa o animal)", "<b>it's</b> = it is", "The cat likes <b>its</b> bed. <b>It's</b> soft."]
+      },
+      {
+        "title": "WHOSE…?", "icon": "❓", "art": "🎒",
+        "items": ["<b>Whose</b> bag is this? <i>(¿De quién…?)</i>", "It's <b>Sara's</b> bag.", "It's <b>my</b> bag."]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["the dog of Mario"],
+      "good": ["Mario's dog"],
+      "note": "dueño + <b>'s</b> + cosa"
+    },
+    "mini": {
+      "es": "Completa con el posesivo.",
+      "en": "Complete with the possessive.",
+      "items": [
+        { "q": "I've got a cat. ___ cat is white.", "a": "My" },
+        { "q": "Lucía loves ___ bike.", "a": "her" },
+        { "q": "Tom plays with ___ dog.", "a": "his" },
+        { "q": "We love ___ school.", "a": "our" },
+        { "q": "It's ___ ball. (Mario)", "a": "Mario's" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Los <b>posesivos</b> dicen <mark>de quién es</mark> algo. En inglés hay dos formas: palabras como <b>my, your, his, her</b>… (mi, tu, su…) y el <b>'s</b> pegado al nombre del dueño: <b>Mario's</b> dog (el perro de Mario). Las dos van siempre <b>delante</b> de la cosa.",
+      "en": "Possessives say <mark>who something belongs to</mark>: my, your, his, her… or <b>'s</b> after the owner: Mario's dog.",
+      "formula": ["*my / your / his / her…* + cosa", "dueño + *'s* + cosa"]
+    },
+    {
+      "t": "table", "title": "1 · Pronombre → posesivo", "title_en": "Subject → possessive", "icon": "👤", "color": "purple", "wide": true,
+      "head": ["Pronombre · Subject", "Posesivo · Possessive", "Español", "Ejemplo · Example"],
+      "rows": [
+        ["I", "<b>my</b>", "mi, mis", "<b>My</b> name is Mario."],
+        ["you", "<b>your</b>", "tu, tus · vuestro", "Is this <b>your</b> pen?"],
+        ["he", "<b>his</b>", "su, sus (de él)", "<b>His</b> bike is red."],
+        ["she", "<b>her</b>", "su, sus (de ella)", "<b>Her</b> name is Lucía."],
+        ["it", "<b>its</b>", "su, sus (cosa o animal)", "The dog loves <b>its</b> ball."],
+        ["we", "<b>our</b>", "nuestro, nuestra…", "<b>Our</b> school is big."],
+        ["they", "<b>their</b>", "su, sus (de ellos)", "<b>Their</b> house is new."]
+      ],
+      "note": "¡Buena noticia! Los posesivos <b>nunca cambian</b>: son iguales para masculino, femenino, singular y plural. <i>my brother, my sisters, my books</i>. ¡Nada de <s>mys</s>!",
+      "note_en": "Possessives never change: my brother, my sisters, my books."
+    },
+    {
+      "t": "rule", "title": "2 · Delante y sin «the»", "title_en": "Before the noun, no the", "icon": "➡️", "color": "green",
+      "es": "El posesivo va <b>delante</b> de la cosa, como en español (<i>mi perro → my dog</i>). Pero ojo: <b>nunca</b> lleva artículo: <s>the my dog</s>. Y con las <b>partes del cuerpo</b> el inglés usa posesivo, no «el / la»: <i>Me lavo <u>las</u> manos → I wash <b>my</b> hands.</i>",
+      "en": "The possessive goes before the noun, never with <b>the</b>. Body parts take a possessive: I wash <b>my</b> hands.",
+      "formula": ["*my* + dog / dogs", "I wash + *my* + hands"],
+      "examples": [
+        { "en": "<b>My</b> dog is called Rocky.", "es": "Mi perro se llama Rocky.", "icon": "🐕" },
+        { "en": "<b>Our</b> teacher is very nice.", "es": "Nuestra profe es muy simpática.", "icon": "👩‍🏫" },
+        { "en": "I brush <b>my</b> teeth every night.", "es": "Me lavo los dientes todas las noches.", "icon": "🪥" }
+      ]
+    },
+    {
+      "t": "compare", "title": "3 · HIS o HER: ¡mira al dueño!", "title_en": "his or her: look at the owner", "icon": "👫", "color": "pink",
+      "es": "En español decimos <i>su</i> para todo, pero en inglés hay que elegir. La regla es fácil: <mark>mira quién tiene la cosa</mark>, no la cosa. Si el dueño es un chico o un hombre → <b>his</b>. Si es una chica o una mujer → <b>her</b>.",
+      "en": "Look at the <b>owner</b>, not the thing: boy / man → <b>his</b>; girl / woman → <b>her</b>.",
+      "cols": [
+        { "head": "👦 Dueño chico → his", "color": "blue", "items": ["Leo and <b>his</b> mum", "Tom and <b>his</b> sisters", "Grandad and <b>his</b> car", "Mario and <b>his</b> teacher"] },
+        { "head": "👧 Dueña chica → her", "color": "pink", "items": ["Sara and <b>her</b> dad", "Anna and <b>her</b> brothers", "Grandma and <b>her</b> garden", "Lucía and <b>her</b> friends"] }
+      ]
+    },
+    {
+      "t": "rule", "title": "His y her en frases", "title_en": "his and her in sentences", "icon": "👀", "color": "blue",
+      "es": "<i>Lucía and her brother</i>: el hermano es chico, pero es <b>de Lucía</b> → <b>her</b>. <i>Mario and his sister</i>: la hermana es chica, pero es <b>de Mario</b> → <b>his</b>. ¡Manda el dueño!",
+      "en": "The owner decides, not the thing: Lucía and <b>her</b> brother, Mario and <b>his</b> sister.",
+      "formula": ["chico / hombre + *his*", "chica / mujer + *her*"],
+      "examples": [
+        { "en": "Mario plays with <b>his</b> sister.", "es": "Mario juega con su hermana.", "icon": "👧" },
+        { "en": "Lucía rides <b>her</b> bike to school.", "es": "Lucía va al cole en su bici.", "icon": "🚲" },
+        { "en": "Anna loves <b>her</b> dad.", "es": "Anna quiere mucho a su padre.", "icon": "👨" }
+      ]
+    },
+    {
+      "t": "rule", "title": "4 · El genitivo 's", "title_en": "Possessive 's", "icon": "🐶", "color": "orange",
+      "es": "Para decir <i>el perro de Mario</i>, en inglés ponemos primero <b>al dueño</b>, después <b>'s</b> y al final la cosa: <b>Mario's dog</b>. ¡Al revés que en español! No digas <s>the dog of Mario</s>. Sirve para nombres y personas: <i>my mum's car, the teacher's desk</i>.",
+      "en": "Owner + <b>'s</b> + thing: <b>Mario's dog</b>. Don't say <s>the dog of Mario</s>.",
+      "formula": ["dueño + *'s* + cosa", "Mario + *'s* + dog"],
+      "examples": [
+        { "en": "This is <b>Mario's</b> dog.", "es": "Este es el perro de Mario.", "icon": "🐕" },
+        { "en": "My <b>mum's</b> car is blue.", "es": "El coche de mi madre es azul.", "icon": "🚗" },
+        { "en": "The <b>teacher's</b> desk is very big.", "es": "La mesa de la profe es muy grande.", "icon": "🧑‍🏫" }
+      ]
+    },
+    {
+      "t": "rule", "title": "5 · s' y los plurales", "title_en": "s' and plurals", "icon": "👨‍👩‍👦", "color": "teal",
+      "es": "Si el dueño es un <b>plural que acaba en -s</b> (the girls, my parents), solo ponemos el <b>apóstrofo</b> detrás: <b>my parents'</b> house. Si el plural <b>no</b> acaba en -s (children, men, women, people), ponemos <b>'s</b> normal: <b>the children's</b> toys.",
+      "en": "Plural in -s → just <b>'</b>: my parents' house. Irregular plural → <b>'s</b>: the children's toys.",
+      "formula": ["my parents + *'* + house", "the children + *'s* + toys"],
+      "examples": [
+        { "en": "My <b>parents'</b> bedroom is upstairs.", "es": "El dormitorio de mis padres está arriba.", "icon": "🛏️" },
+        { "en": "The <b>boys'</b> football is in the garden.", "es": "El balón de los chicos está en el jardín.", "icon": "⚽" },
+        { "en": "The <b>children's</b> toys are everywhere!", "es": "¡Los juguetes de los niños están por todas partes!", "icon": "🧸" }
+      ]
+    },
+    {
+      "t": "table", "title": "6 · ¿Dónde va el apóstrofo?", "title_en": "Where does the apostrophe go?", "icon": "✏️", "color": "yellow",
+      "head": ["Dueño · Owner", "Escribe · Write", "Ejemplo · Example"],
+      "rows": [
+        ["uno: Mario, my sister", "<b>'s</b>", "Mario's bike · my sister's room"],
+        ["plural en -s: the girls, my parents", "<b>'</b> (solo)", "the girls' room · my parents' car"],
+        ["plural sin -s: children, men, people", "<b>'s</b>", "the children's toys · the men's shoes"],
+        ["dos dueños juntos", "<b>'s</b> al final", "Mario and Lucía's dog"]
+      ],
+      "note": "Ojo: <b>Mario's</b> también puede ser <i>Mario is</i> (Mario's eight). Si detrás viene una cosa (Mario's <b>dog</b>), es posesivo.",
+      "note_en": "<b>Mario's</b> can also mean Mario is. If a thing comes next, it's possessive."
+    },
+    {
+      "t": "rule", "title": "7 · ITS o IT'S", "title_en": "its or it's", "icon": "🐾", "color": "red",
+      "es": "¡Trampa famosa! <b>its</b> (sin apóstrofo) es el posesivo: <i>su</i> (de una cosa o un animal). <b>it's</b> (con apóstrofo) significa <b>it is</b>. Truco: si puedes decir <i>it is</i> en su lugar, escribe <b>it's</b>; si no, escribe <b>its</b>.",
+      "en": "<b>its</b> = possessive (the cat's). <b>it's</b> = it is. Can you say <i>it is</i>? Then write it's.",
+      "formula": ["<b>its</b> = su · <b>it's</b> = it is"],
+      "examples": [
+        { "en": "The cat loves <b>its</b> bed.", "es": "Al gato le encanta su cama.", "icon": "🐈" },
+        { "en": "<b>It's</b> a big dog.", "es": "Es un perro grande.", "icon": "🐕‍🦺" },
+        { "en": "The bird has got a nest. <b>Its</b> nest is in the tree.", "es": "El pájaro tiene un nido. Su nido está en el árbol.", "icon": "🐦" }
+      ]
+    },
+    {
+      "t": "rule", "title": "8 · WHOSE…?", "title_en": "Whose…?", "icon": "❓", "color": "blue",
+      "es": "Para preguntar <mark>de quién</mark> es algo usamos <b>Whose</b> + cosa: <i>Whose bag is this?</i> (¿De quién es esta mochila?). Respondemos con <b>'s</b> o con un posesivo: <i>It's Sara's. / It's my bag.</i> ¡Cuidado! <b>Whose</b> no es lo mismo que <b>who's</b> (= who is).",
+      "en": "<b>Whose</b> + thing asks about the owner. Answer with 's or a possessive.",
+      "formula": ["*Whose* + bag + is this?", "It's + *Sara's* (bag)."],
+      "examples": [
+        { "en": "<b>Whose</b> pencil is this? — It's <b>Leo's</b>.", "es": "¿De quién es este lápiz? — Es de Leo.", "icon": "✏️" },
+        { "en": "<b>Whose</b> shoes are these? — They're <b>my</b> shoes.", "es": "¿De quién son estos zapatos? — Son mis zapatos.", "icon": "👟" },
+        { "en": "<b>Whose</b> dog is that? — It's <b>our</b> dog!", "es": "¿De quién es ese perro? — ¡Es nuestro perro!", "icon": "🐶" }
+      ]
+    },
+    {
+      "t": "vocab", "title": "La familia", "title_en": "The family", "icon": "👨‍👩‍👧", "color": "pink", "wide": true, "cols": 4,
+      "items": [
+        { "en": "my mum", "es": "mi madre", "icon": "👩" },
+        { "en": "my dad", "es": "mi padre", "icon": "👨" },
+        { "en": "my brother", "es": "mi hermano", "icon": "👦" },
+        { "en": "my sister", "es": "mi hermana", "icon": "👧" },
+        { "en": "my grandma", "es": "mi abuela", "icon": "👵" },
+        { "en": "my grandad", "es": "mi abuelo", "icon": "👴" },
+        { "en": "my aunt", "es": "mi tía", "icon": "👩‍🦰" },
+        { "en": "my uncle", "es": "mi tío", "icon": "🧔" },
+        { "en": "my cousin", "es": "mi primo, mi prima", "icon": "🧒" },
+        { "en": "my parents", "es": "mis padres", "icon": "👫" },
+        { "en": "my grandparents", "es": "mis abuelos", "icon": "🧓" },
+        { "en": "my baby brother", "es": "mi hermanito", "icon": "👶" }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "<b>My</b> favourite colour is green.", "es": "Mi color favorito es el verde.", "icon": "💚" },
+        { "en": "What's <b>your</b> name?", "es": "¿Cómo te llamas?", "icon": "👋" },
+        { "en": "Leo can't find <b>his</b> rubber.", "es": "Leo no encuentra su goma.", "icon": "🔍" },
+        { "en": "Sara and <b>her</b> brother are at the park.", "es": "Sara y su hermano están en el parque.", "icon": "🌳" },
+        { "en": "Rocky is <b>our</b> dog.", "es": "Rocky es nuestro perro.", "icon": "🐕" },
+        { "en": "<b>Their</b> classroom is on the first floor.", "es": "Su clase está en el primer piso.", "icon": "🏫" },
+        { "en": "This is <b>Anna's</b> birthday cake.", "es": "Esta es la tarta de cumpleaños de Anna.", "icon": "🎂" },
+        { "en": "<b>Grandma's</b> garden is beautiful.", "es": "El jardín de la abuela es precioso.", "icon": "🌷" },
+        { "en": "I wash <b>my</b> hands before lunch.", "es": "Me lavo las manos antes de comer.", "icon": "🧼" },
+        { "en": "The <b>children's</b> playground is new.", "es": "El parque de los niños es nuevo.", "icon": "🎠" },
+        { "en": "Is this <b>your</b> coat, Lucía?", "es": "¿Es este tu abrigo, Lucía?", "icon": "🧥" },
+        { "en": "<b>Whose</b> ball is this? — It's <b>Tom's</b>.", "es": "¿De quién es esta pelota? — Es de Tom.", "icon": "⚽" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "serpiente", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "the dog of Mario", "good": "<b>Mario's</b> dog", "why": "dueño + 's + cosa.", "why_en": "owner + 's + thing." },
+        { "bad": "Lucía and his brother.", "good": "Lucía and <b>her</b> brother.", "why": "Lucía es chica → her.", "why_en": "The owner is a girl → her." },
+        { "bad": "Mario and her sister.", "good": "Mario and <b>his</b> sister.", "why": "Mario es chico → his.", "why_en": "The owner is a boy → his." },
+        { "bad": "I brush the teeth.", "good": "I brush <b>my</b> teeth.", "why": "Partes del cuerpo: con posesivo.", "why_en": "Body parts take my, your…" },
+        { "bad": "The cat likes it's bed.", "good": "The cat likes <b>its</b> bed.", "why": "its = su · it's = it is.", "why_en": "its = possessive." },
+        { "bad": "They car is red.", "good": "<b>Their</b> car is red.", "why": "they → their.", "why_en": "they → their." },
+        { "bad": "Marios bike is new.", "good": "<b>Mario's</b> bike is new.", "why": "¡No olvides el apóstrofo!", "why_en": "Don't forget the apostrophe." },
+        { "bad": "Who's bag is this?", "good": "<b>Whose</b> bag is this?", "why": "Whose = de quién · who's = who is.", "why_en": "whose ≠ who's." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Cómo digo de quién es?", "title_en": "How do I say whose it is?", "color": "orange",
+      "items": [
+        { "es": "Busca al <b>dueño</b>: ¿quién tiene la cosa?", "en": "Find the owner." },
+        { "es": "¿Es un pronombre (I, you, he…)? → cámbialo: I → <b>my</b>, he → <b>his</b>, she → <b>her</b>…", "en": "Pronoun → my, your, his, her…" },
+        { "es": "¿Es un nombre (Mario, my mum)? → añade <b>'s</b>: Mario's, my mum's.", "en": "Name → add 's." },
+        { "es": "¿Es un plural en -s (my parents)? → solo <b>'</b>: my parents'.", "en": "Plural in -s → just '." },
+        { "es": "Pon la <b>cosa</b> detrás, sin the: <s>the my dog</s> → my dog.", "en": "Then the thing, without the." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "¿De quién es?", "title_en": "Whose is it?",
+      "lines": [
+        { "who": "Teacher", "en": "Whose jumper is this?", "es": "¿De quién es este jersey?" },
+        { "who": "Leo", "en": "It isn't my jumper. My jumper is blue.", "es": "No es mi jersey. Mi jersey es azul." },
+        { "who": "Sara", "en": "I think it's Tom's. His jumper is green.", "es": "Creo que es de Tom. Su jersey es verde." },
+        { "who": "Teacher", "en": "And whose trainers are these?", "es": "¿Y de quién son estas zapatillas?" },
+        { "who": "Mario", "en": "They're Anna's! Her name is on them.", "es": "¡Son de Anna! Su nombre está en ellas." },
+        { "who": "Anna", "en": "Yes! Thank you, Mario. They're my new trainers.", "es": "¡Sí! Gracias, Mario. Son mis zapatillas nuevas." },
+        { "who": "Teacher", "en": "Great. Now put your things in your bags, children!", "es": "Muy bien. ¡Ahora guardad vuestras cosas en las mochilas, niños!" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco del dueño", "title_en": "The owner trick",
+      "es": "Antes de elegir, señala al <b>dueño</b> con el dedo 👉. ¿Chico? → <b>his</b>. ¿Chica? → <b>her</b>. ¿Cosa o animal? → <b>its</b>. ¿Varios? → <b>their</b>. Y si es un nombre, pégale <b>'s</b>: <i>Mario's, Lucía's, Rocky's</i>.",
+      "en": "Point at the owner: boy → his, girl → her, thing or animal → its, many → their. Names → 's."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match", "title": "Pronombre y posesivo", "title_en": "Subject and possessive", "icon": "🔗",
+      "es": "Une cada pronombre con su posesivo.",
+      "en": "Match each subject with its possessive.",
+      "pairs": [
+        ["I", "my"],
+        ["you", "your"],
+        ["he", "his"],
+        ["she", "her"],
+        ["it", "its"],
+        ["we", "our"],
+        ["they", "their"]
+      ]
+    },
+    {
+      "t": "choose", "title": "Rodea la correcta", "title_en": "Circle the correct word", "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta. ¡Mira al dueño!",
+      "en": "Circle the correct option. Look at the owner!",
+      "items": [
+        { "q": "Mario loves [his|her] dog.", "a": "his" },
+        { "q": "Lucía is with [his|her] friends.", "a": "her" },
+        { "q": "We like [our|their] new teacher.", "a": "our" },
+        { "q": "Tom and Sara love [our|their] cat.", "a": "their" },
+        { "q": "The cat is in [its|it's] bed.", "a": "its" },
+        { "q": "[Its|It's] a sunny day.", "a": "It's" },
+        { "q": "This is [Leo's|Leos] bike.", "a": "Leo's" },
+        { "q": "[Whose|Who's] pencil is this?", "a": "Whose" },
+        { "q": "The [childrens'|children's] toys are here.", "a": "children's" },
+        { "q": "Anna, is this [your|you] pen?", "a": "your" }
+      ]
+    },
+    {
+      "t": "classify", "title": "¿His o her?", "title_en": "his or her?", "icon": "🗂️",
+      "es": "Escribe cada dueño en su caja: ¿con qué posesivo va?",
+      "en": "Write each owner in the right box.",
+      "cats": [
+        { "name": "his", "words": ["Mario", "my dad", "Tom", "Grandad", "the boy", "Leo"] },
+        { "name": "her", "words": ["Lucía", "my mum", "Anna", "Grandma", "the girl", "Sara"] }
+      ]
+    },
+    {
+      "t": "spell", "title": "Deletrea la familia", "title_en": "Spell the family words", "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en las cajas.",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        { "q": "👵 abuela", "a": "grandma" },
+        { "q": "👴 abuelo", "a": "grandad" },
+        { "q": "👦 hermano", "a": "brother" },
+        { "q": "👧 hermana", "a": "sister" },
+        { "q": "🧒 primo", "a": "cousin" },
+        { "q": "🧔 tío", "a": "uncle" },
+        { "q": "👩‍🦰 tía", "a": "aunt" },
+        { "q": "👫 padres", "a": "parents" }
+      ]
+    },
+    {
+      "t": "fill", "title": "my, your, his, her…", "title_en": "Possessive adjectives", "icon": "✏️",
+      "es": "Completa con el posesivo correcto. Mira quién es el dueño.",
+      "en": "Complete with the correct possessive.",
+      "bank": ["my", "your", "his", "her", "its", "our", "their"],
+      "items": [
+        { "q": "I've got a dog. ___ dog is called Rocky.", "a": "My" },
+        { "q": "Tom has got a bike. ___ bike is red.", "a": "His" },
+        { "q": "Anna has got a cat. ___ cat is white.", "a": "Her" },
+        { "q": "We've got a new teacher. ___ teacher is from London.", "a": "Our" },
+        { "q": "They've got a big house. ___ house has got a garden.", "a": "Their" },
+        { "q": "The dog is hungry. ___ bowl is empty.", "a": "Its" },
+        { "q": "You've got a nice coat. Is ___ coat new?", "a": "your" },
+        { "q": "Lucía is with ___ brother Mario.", "a": "her" },
+        { "q": "Mario is with ___ sister Lucía.", "a": "his" },
+        { "q": "My grandparents love ___ garden.", "a": "their" }
+      ]
+    },
+    {
+      "t": "fill", "title": "Escribe el 's", "title_en": "Write the 's", "icon": "🐶",
+      "es": "Escribe el dueño (entre paréntesis) con 's o con '.",
+      "en": "Write the owner with 's or '.",
+      "items": [
+        { "q": "This is ____ ball.", "hint": "Tom", "a": "Tom's" },
+        { "q": "____ car is blue.", "hint": "my dad", "a": "My dad's" },
+        { "q": "That is ____ desk.", "hint": "the teacher", "a": "the teacher's" },
+        { "q": "____ hair is long.", "hint": "Lucía", "a": "Lucía's" },
+        { "q": "The ____ toys are in the box.", "hint": "children", "a": "children's" },
+        { "q": "My ____ house is in a village.", "hint": "grandparents", "a": "grandparents'" },
+        { "q": "____ bowl is red.", "hint": "Rocky", "a": "Rocky's" },
+        { "q": "The ____ room is very big.", "hint": "girls", "a": "girls'" },
+        { "q": "This is ____ dog.", "hint": "Mario and Lucía", "a": "Mario and Lucía's" }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Verdadero o falso?", "title_en": "True or false?", "icon": "✔️",
+      "es": "Lee cada frase. Marca T (verdadero) o F (falso).",
+      "en": "Read each sentence. Tick T or F.",
+      "items": [
+        { "q": "We use <b>his</b> when the owner is a boy or a man.", "a": true },
+        { "q": "In <i>Lucía and her brother</i>, we use <b>her</b> because the brother is a boy.", "a": false, "why": "her, because Lucía (the owner) is a girl" },
+        { "q": "<b>its</b> and <b>it's</b> mean the same.", "a": false, "why": "its = su; it's = it is" },
+        { "q": "We say <b>Mario's dog</b>, not <i>the dog of Mario</i>.", "a": true },
+        { "q": "In <b>my parents' car</b>, the apostrophe is after the s.", "a": true },
+        { "q": "We say <b>I brush the teeth</b>.", "a": false, "why": "I brush my teeth." },
+        { "q": "<b>Whose</b> means <i>¿de quién?</i>", "a": true },
+        { "q": "We say <b>mys books</b>.", "a": false, "why": "my books" }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Completa la tabla", "title_en": "Complete the table", "icon": "📋", "wide": true,
+      "es": "Escribe el posesivo y después «la mochila de…» en inglés.",
+      "en": "Write the possessive and then the bag of each owner.",
+      "head": ["Dueño · Owner", "Posesivo · Possessive", "La mochila · The bag"],
+      "rows": [
+        ["I", "?my", "?my bag"],
+        ["you", "?your", "?your bag"],
+        ["Mario", "?his", "?Mario's bag"],
+        ["Lucía", "?her", "?Lucía's bag"],
+        ["we", "?our", "?our bag"],
+        ["my parents", "?their", "?my parents' bag"],
+        ["the children", "?their", "?the children's bag"]
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Usa el 's", "title_en": "Use 's", "icon": "🔄",
+      "es": "Escribe de otra forma con 's o '. ¡El dueño va primero!",
+      "en": "Rewrite with 's or '. The owner goes first!",
+      "items": [
+        { "q": "the dog of Mario", "a": "Mario's dog" },
+        { "q": "the car of my dad", "a": "my dad's car" },
+        { "q": "the room of Lucía", "a": "Lucía's room" },
+        { "q": "the toys of the children", "a": "the children's toys" },
+        { "q": "the house of my grandparents", "a": "my grandparents' house" },
+        { "q": "the bike of Leo", "a": "Leo's bike" },
+        { "q": "the desk of the teacher", "a": "the teacher's desk" }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Cambia por un posesivo", "title_en": "Use a possessive adjective", "icon": "👤",
+      "es": "Cambia las palabras en negrita por his, her, its o their.",
+      "en": "Change the words in bold for his, her, its or their.",
+      "items": [
+        { "q": "<b>Mario's</b> bike is new.", "a": "His bike is new." },
+        { "q": "<b>Lucía's</b> hair is long.", "a": "Her hair is long." },
+        { "q": "<b>Tom and Sara's</b> dog is big.", "a": "Their dog is big." },
+        { "q": "<b>The cat's</b> tail is long.", "a": "Its tail is long." },
+        { "q": "<b>My mum's</b> car is red.", "a": "Her car is red." },
+        { "q": "<b>Leo's</b> brother is ten.", "a": "His brother is ten." },
+        { "q": "<b>My parents'</b> house is old.", "a": "Their house is old." }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        { "q": "is / name / my / Mario", "a": "My name is Mario." },
+        { "q": "dog / Lucía's / small / is", "a": "Lucía's dog is small." },
+        { "q": "bag / whose / this / is / ?", "a": "Whose bag is this?" },
+        { "q": "his / Leo / with / plays / sister", "a": "Leo plays with his sister." },
+        { "q": "our / is / big / school", "a": "Our school is big." },
+        { "q": "their / garden / my grandparents / love", "a": "My grandparents love their garden." },
+        { "q": "teeth / I / my / brush", "a": "I brush my teeth." },
+        { "q": "the cat / its / likes / bed", "a": "The cat likes its bed." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "The bike of Mario is red.", "a": "Mario's bike is red." },
+        { "q": "Lucía loves his cat.", "a": "Lucía loves her cat." },
+        { "q": "Mario brushes her teeth.", "a": "Mario brushes his teeth." },
+        { "q": "They house is very big.", "a": "Their house is very big." },
+        { "q": "The dog is in it's bed.", "a": "The dog is in its bed." },
+        { "q": "I wash the hands before lunch.", "a": "I wash my hands before lunch." },
+        { "q": "Whos pencil is this?", "a": "Whose pencil is this?" },
+        { "q": "Is this you coat?", "a": "Is this your coat?" },
+        { "q": "The childrens' toys are here.", "a": "The children's toys are here." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Piensa: ¿quién es el dueño? ¿posesivo o 's?",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "El perro de Mario es negro.", "a": "Mario's dog is black." },
+        { "q": "Anna y su hermano.", "a": "Anna and her brother." },
+        { "q": "Leo y su hermana.", "a": "Leo and his sister." },
+        { "q": "¿De quién es esta mochila?", "a": "Whose bag is this?" },
+        { "q": "Nuestra casa es pequeña.", "a": "Our house is small." },
+        { "q": "Me lavo los dientes. (¡cuidado!)", "a": "I brush my teeth." },
+        { "q": "La casa de mis abuelos es vieja.", "a": "My grandparents' house is old." },
+        { "q": "El gato duerme en su cama.", "a": "The cat sleeps in its bed." },
+        { "q": "La hermana de Mario se llama Lucía.", "a": "Mario's sister is called Lucía." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto y rodea todos los posesivos (my, his, 's…). Después marca T o F y contesta las preguntas.",
+      "en": "Read the text and circle the possessives. Then tick T or F and answer the questions.",
+      "text_title": "Lucía's family",
+      "text": [
+        "Hi! My name is Lucía and I'm twelve. This is my family. My mum's name is Carmen and my dad's name is Javier. My brother's name is Mario. He's eight.",
+        "Mario loves his football and his bike. His favourite colour is green. My favourite colour is purple, and my room is purple too!",
+        "We've got a dog. Its name is Rocky. Rocky's bed is in the kitchen, but Rocky sleeps on Mario's bed! Our grandparents live in a village. Their house has got a big garden with goats."
+      ],
+      "items": [
+        { "q": "Lucía's brother is eight.", "tf": true, "a": true },
+        { "q": "Mario's favourite colour is purple.", "tf": true, "a": false, "why": "His favourite colour is green." },
+        { "q": "Rocky sleeps in his bed in the kitchen.", "tf": true, "a": false, "why": "Rocky sleeps on Mario's bed." },
+        { "q": "What's Lucía's mum's name?", "a": "Her name is Carmen." },
+        { "q": "What colour is Lucía's room?", "a": "It's purple." },
+        { "q": "Where do Lucía's grandparents live?", "a": "They live in a village." }
+      ]
+    },
+    {
+      "t": "wordsearch", "title": "Sopa de letras", "title_en": "Word search", "icon": "🔎",
+      "es": "Busca los 8 posesivos. Después escribe una frase con dos de ellos.",
+      "en": "Find the 8 words. Then write a sentence with two of them.",
+      "words": ["my", "your", "his", "her", "its", "our", "their", "whose"],
+      "clues": ["my · mi", "your · tu", "his · su (de él)", "her · su (de ella)", "its · su (cosa, animal)", "our · nuestro", "their · su (de ellos)", "whose · ¿de quién?"]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe sobre tu familia, tus amigos y tu mascota.",
+      "en": "Write about your family, friends and pet.",
+      "items": [
+        { "q": "Presenta a 2 personas de tu familia con 's: My mum's name is…", "lines": 2, "a": "Ej.: My mum's name is Carmen. My brother's name is Pablo." },
+        { "q": "Describe a un amigo con <b>his</b> y a una amiga con <b>her</b>.", "lines": 2, "a": "Ej.: Leo's hair is short. His eyes are brown. Sara's bike is pink. Her favourite food is pizza." },
+        { "q": "Escribe sobre tu mascota (o una que te guste) con <b>its</b>.", "lines": 1, "a": "Ej.: My cat is white. Its eyes are green." },
+        { "q": "Escribe una pregunta con Whose…? y su respuesta.", "lines": 1, "a": "Ej.: Whose pen is this? — It's Tom's." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Me sé los posesivos: <b>my, your, his, her, its, our, their</b>.", "en": "I know the possessive adjectives." },
+    { "es": "Elijo <b>his</b> o <b>her</b> mirando al dueño.", "en": "I choose his or her by looking at the owner." },
+    { "es": "Digo <b>Mario's dog</b>, no «the dog of Mario».", "en": "I say Mario's dog." },
+    { "es": "Sé poner el apóstrofo: <b>my parents'</b> car, <b>the children's</b> toys.", "en": "I know where the apostrophe goes." },
+    { "es": "No confundo <b>its</b> (su) con <b>it's</b> (it is).", "en": "I don't mix up its and it's." },
+    { "es": "Sé preguntar <b>Whose…?</b> y contestar.", "en": "I can ask and answer Whose…?" }
+  ]
+}

@@ -1,0 +1,1637 @@
+{
+  "id": "C2-01",
+  "level": "C2",
+  "title": "EL SUBJUNTIVO",
+  "file_title": "El subjuntivo y estructuras formales",
+  "subtitle": "The subjunctive · estructuras formales",
+  "icon": "🎩",
+  "map": {
+    "center": "El <b>subjuntivo</b> inglés = <b>forma base</b> (that he <b>be</b>, she <b>go</b>) o <b>were</b>. Es la voz del registro formal.",
+    "nodes": [
+      {
+        "title": "¿Qué es?",
+        "icon": "🔎",
+        "rows": [
+          [
+            "forma base",
+            "be, go, pay: sin -s ni -ed"
+          ],
+          [
+            "were",
+            "con todas las personas"
+          ]
+        ],
+        "after": "Solo se nota con <b>he/she/it</b>, con <b>be</b> y en la negativa."
+      },
+      {
+        "title": "Mandativo",
+        "icon": "📜",
+        "art": "⚖️",
+        "items": [
+          "insist, demand, suggest… + <b>that</b> + sujeto + <b>base</b>",
+          "They insisted that he <b>be</b> present.",
+          "Negativa: that she <b>not</b> attend <i>(sin do)</i>"
+        ]
+      },
+      {
+        "title": "Adjetivos y nombres",
+        "icon": "🧩",
+        "items": [
+          "It is <b>essential / vital / imperative</b> that…",
+          "the <b>requirement</b> that all staff <b>be</b> vetted",
+          "Sin concordancia: It <b>was</b> vital that he <b>be</b> told."
+        ]
+      },
+      {
+        "title": "Should británico",
+        "icon": "🫖",
+        "items": [
+          "that he <b>should</b> be present <i>(formal UK)</i>",
+          "that he <b>is</b> present <i>(coloquial UK)</i>",
+          "It's odd that she <b>should</b> say that. <i>(emotivo)</i>"
+        ]
+      },
+      {
+        "title": "Were-subjunctive",
+        "icon": "💭",
+        "items": [
+          "If I / he / it <b>were</b>… <i>(was = coloquial)</i>",
+          "<b>were to</b> + infinitivo: hipótesis remota",
+          "<b>Were it not for</b> you… = si no fuera por ti"
+        ]
+      },
+      {
+        "title": "Fórmulas fijas",
+        "icon": "🔒",
+        "chips": [
+          "Be that as it may",
+          "Come what may",
+          "So be it",
+          "Suffice it to say",
+          "If need be",
+          "Far be it from me",
+          "as it were"
+        ],
+        "after": "Bloques fijos: no se tocan."
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "I suggest you to apply.",
+        "They demanded him to leave."
+      ],
+      "good": [
+        "I suggest (that) you apply.",
+        "They demanded that he leave."
+      ],
+      "note": "suggest / demand + <b>that</b> + sujeto + <b>base</b>"
+    },
+    "mini": {
+      "es": "Completa con la forma formal correcta.",
+      "en": "Complete with the correct formal form.",
+      "items": [
+        {
+          "q": "The judge ordered that he ____ released.",
+          "a": "be",
+          "hint": "be"
+        },
+        {
+          "q": "We suggest that she ____ a lawyer.",
+          "a": "consult",
+          "hint": "consult"
+        },
+        {
+          "q": "If I ____ you, I'd accept the offer.",
+          "a": "were",
+          "hint": "be"
+        },
+        {
+          "q": "Come what ____, I'll stand by you.",
+          "a": "may"
+        },
+        {
+          "q": "____ that as it may, we must act now.",
+          "a": "Be"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "El <b>subjuntivo</b> inglés no tiene terminaciones propias: es la <mark>forma base del verbo</mark> (be, go, pay) usada con <b>cualquier sujeto y cualquier tiempo</b>, o bien la forma <b>were</b> para todas las personas. Por eso casi no se ve: solo lo delatan la <b>3.ª persona sin -s</b> (<i>that he <b>go</b></i>), el verbo <b>be</b> (<i>that they <b>be</b></i>) y la <b>negación sin do</b> (<i>that she <b>not</b> attend</i>). A diferencia del español, donde el subjuntivo es omnipresente (<i>quiero que vengas</i>), en inglés es un recurso <b>marcado</b>: propio de contratos, actas, normativas, informes, prensa seria y del inglés americano. Dominarlo —y saber cuándo sustituirlo por <b>should</b> o por el indicativo— es una señal inequívoca de nivel C2.",
+      "en": "The English <b>subjunctive</b> is simply the <mark>base form</mark> of the verb (or <b>were</b>), used regardless of person or tense. It is only visible in the third person singular, with <b>be</b> and in negatives. It belongs to formal, legal and academic registers and is more common in American English.",
+      "formula": [
+        "Verbo / adjetivo / nombre de mandato + *that* + sujeto + *forma base*",
+        "If / as if / wish + sujeto + *were*",
+        "Fórmulas fijas + *Be that as it may · Come what may*"
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Subjuntivo mandativo: verbos",
+      "title_en": "Mandative subjunctive: verbs",
+      "icon": "📜",
+      "color": "blue",
+      "es": "Tras verbos que expresan <b>orden, exigencia, propuesta o recomendación</b> —<i>insist, demand, require, request, recommend, suggest, propose, urge, ask, order, advise, stipulate, direct, move</i>— la cláusula con <b>that</b> lleva el verbo en <mark>forma base</mark>, sea cual sea el sujeto y <b>sea cual sea el tiempo del verbo principal</b>: no hay concordancia de tiempos (<i>They <u>insisted</u> that he <b>be</b>…</i>). <b>That</b> puede omitirse en registro menos formal (<i>I suggest you go</i>), pero tras <i>suggest, insist</i> o <i>demand</i> nunca se usa <s>objeto + to-infinitivo</s>.",
+      "en": "After verbs of ordering, demanding, proposing or recommending, the <b>that</b>-clause takes the <mark>base form</mark> for every person and with any tense in the main clause. Never use object + <s>to</s> after suggest, insist or demand.",
+      "formula": [
+        "insist / demand / recommend + *that* + he / she / they + *be / go / pay*"
+      ],
+      "examples": [
+        {
+          "en": "The union <b>demanded</b> that the agreement <b>be</b> made public.",
+          "es": "El sindicato exigió que el acuerdo se hiciera público.",
+          "icon": "📢"
+        },
+        {
+          "en": "Her lawyer <b>insisted</b> that she <b>remain</b> silent during questioning.",
+          "es": "Su abogado insistió en que guardara silencio durante el interrogatorio.",
+          "icon": "⚖️"
+        },
+        {
+          "en": "I <b>move</b> that the motion <b>be</b> put to a vote.",
+          "es": "Propongo que la moción se someta a votación.",
+          "icon": "🗳️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Con adjetivos y sustantivos",
+      "title_en": "With adjectives and nouns",
+      "icon": "🧩",
+      "color": "purple",
+      "es": "El mismo patrón aparece tras <b>adjetivos de necesidad o importancia</b> en la estructura <b>It is + adjetivo + that</b> (<i>essential, vital, imperative, crucial, necessary, important, advisable, desirable, paramount</i>) y tras <b>sustantivos derivados</b> de los verbos mandativos (<i>the demand / requirement / recommendation / proposal / insistence that…</i>). Ojo: con adjetivos de <b>opinión o emoción</b> (<i>odd, surprising, sad, a pity</i>) no se usa el subjuntivo de forma base, sino el indicativo o <b>should</b> (regla 4).",
+      "en": "The same pattern follows adjectives of necessity or importance (<b>It is essential / vital / imperative that…</b>) and nouns derived from mandative verbs (<b>the requirement that…</b>). Adjectives of emotion take the indicative or <b>should</b> instead.",
+      "formula": [
+        "It is + *essential / vital / imperative* + that + sujeto + *base*",
+        "the + *requirement / proposal* + that + sujeto + *base*"
+      ],
+      "examples": [
+        {
+          "en": "It is <b>imperative</b> that every passenger <b>carry</b> valid identification.",
+          "es": "Es imprescindible que todo pasajero lleve un documento de identidad válido.",
+          "icon": "🛂"
+        },
+        {
+          "en": "It was <b>vital</b> that the patient <b>receive</b> treatment within the hour.",
+          "es": "Era vital que el paciente recibiera tratamiento en menos de una hora.",
+          "icon": "🏥"
+        },
+        {
+          "en": "The <b>requirement</b> that applicants <b>be</b> fluent in two languages was dropped.",
+          "es": "Se eliminó el requisito de que los candidatos dominaran dos idiomas.",
+          "icon": "📝"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Negativa, pasiva y be",
+      "title_en": "Negatives, passives and be",
+      "icon": "⛔",
+      "color": "red",
+      "es": "En la negativa se coloca <b>not</b> <mark>delante</mark> del verbo base, <b>sin do</b>: <i>that he <b>not</b> be</i>, <i>that they <b>not</b> leave</i> (<s>that he doesn't leave</s> en registro formal; <s>that he be not</s> es arcaico). En pasiva, el subjuntivo es <b>be + participio</b> para todas las personas: <i>that the results <b>be published</b></i>. Es la combinación más frecuente en informes y normativas. Existen también, aunque son raras, formas con aspecto: <i>that he <b>be working</b></i>, <i>that she <b>have completed</b></i>.",
+      "en": "Negatives place <b>not</b> before the base form, with no <i>do</i>. The passive is <b>be + past participle</b> for every person — the most frequent pattern in reports and regulations.",
+      "formula": [
+        "that + sujeto + *not* + forma base",
+        "that + sujeto + *be* + participio"
+      ],
+      "examples": [
+        {
+          "en": "The committee recommended that the proposal <b>not be</b> approved.",
+          "es": "El comité recomendó que no se aprobara la propuesta.",
+          "icon": "🚫"
+        },
+        {
+          "en": "We ask that mobile phones <b>be switched</b> off throughout the performance.",
+          "es": "Rogamos que se apaguen los móviles durante toda la función.",
+          "icon": "📵"
+        },
+        {
+          "en": "It is essential that candidates <b>not have</b> any criminal record.",
+          "es": "Es imprescindible que los candidatos no tengan antecedentes penales.",
+          "icon": "🔍"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Tres registros, una misma idea",
+      "title_en": "Three registers, one idea",
+      "icon": "🎚️",
+      "color": "teal",
+      "wide": true,
+      "head": [
+        "Disparador · Trigger",
+        "🎩 Subjuntivo (formal / US)",
+        "🫖 Should (formal UK)",
+        "💬 Indicativo (coloquial UK)",
+        "🇪🇸 Español"
+      ],
+      "rows": [
+        [
+          "insist",
+          "They insisted that he <b>be</b> paid.",
+          "They insisted that he <b>should be</b> paid.",
+          "They insisted that he <b>was</b> paid.",
+          "Insistieron en que se le pagara."
+        ],
+        [
+          "recommend",
+          "I recommend that she <b>take</b> a break.",
+          "I recommend that she <b>should take</b> a break.",
+          "I recommend that she <b>takes</b> a break.",
+          "Recomiendo que se tome un descanso."
+        ],
+        [
+          "essential",
+          "It's essential that he <b>be</b> told.",
+          "It's essential that he <b>should be</b> told.",
+          "It's essential that he <b>is</b> told.",
+          "Es esencial que se lo digan."
+        ],
+        [
+          "demand",
+          "They demand that it <b>stop</b>.",
+          "They demand that it <b>should stop</b>.",
+          "They demand that it <b>stops</b>.",
+          "Exigen que pare."
+        ],
+        [
+          "negativa",
+          "…that he <b>not</b> attend.",
+          "…that he <b>should not</b> attend.",
+          "…that he <b>doesn't</b> attend.",
+          "…que no asista."
+        ],
+        [
+          "pasiva",
+          "…that it <b>be</b> repaired.",
+          "…that it <b>should be</b> repaired.",
+          "…that it <b>is</b> repaired.",
+          "…que se repare."
+        ]
+      ],
+      "note": "Las tres columnas existen en inglés británico, pero <b>no valen para cualquier texto</b>: en un examen C2, un informe o un contrato, elige el subjuntivo o <b>should</b>. Además, el indicativo con el verbo principal en pasado puede ser <mark>ambiguo</mark>: <i>They insisted that he was paid</i> también significa «aseguraron que <u>sí</u> se le había pagado».",
+      "note_en": "All three exist in British English, but the indicative is informal and can be ambiguous: <i>They insisted that he was paid</i> may also mean they claimed he had been paid."
+    },
+    {
+      "t": "compare",
+      "title": "Formal, neutro o coloquial",
+      "title_en": "Formal, neutral or informal",
+      "color": "blue",
+      "icon": "⚖️",
+      "wide": true,
+      "es": "La misma idea en tres registros. En C2 se espera que sepas <b>subir y bajar de registro</b> a voluntad: el subjuntivo es la herramienta más clara para «subir».",
+      "en": "The same idea in three registers. At C2 you must be able to move up and down at will; the subjunctive is the clearest way to sound formal.",
+      "cols": [
+        {
+          "head": "🎩 Formal / escrito",
+          "color": "purple",
+          "items": [
+            "The board <b>requires</b> that all expenses <b>be</b> approved.",
+            "<b>Were</b> I in your position, I would decline.",
+            "<b>Should</b> you need assistance, please let us know.",
+            "<b>Be that as it may</b>, the rule stands."
+          ]
+        },
+        {
+          "head": "🙂 Neutro",
+          "color": "green",
+          "items": [
+            "The board says all expenses <b>must be</b> approved.",
+            "If I <b>were</b> you, I'd say no.",
+            "If you <b>need</b> any help, just let us know.",
+            "<b>Even so</b>, the rule stands."
+          ]
+        },
+        {
+          "head": "💬 Coloquial",
+          "color": "orange",
+          "items": [
+            "The board wants every expense OK'd first.",
+            "If I <b>was</b> you, I'd say no.",
+            "Need a hand? Give me a shout.",
+            "<b>Still</b>, rules are rules."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Should formal y should «emotivo»",
+      "title_en": "Formal and putative should",
+      "icon": "🫖",
+      "color": "green",
+      "es": "En inglés británico, la alternativa más habitual al subjuntivo mandativo es <b>should + infinitivo</b> (<i>They proposed that the meeting <b>should be</b> postponed</i>). Además, <b>should</b> aparece tras adjetivos, nombres y verbos de <b>emoción, sorpresa o juicio</b> (<i>odd, strange, surprising, natural, a pity, a shame, I'm amazed that…</i>): es el <mark>should putativo</mark>, que presenta la idea como algo que se valora, no como un simple hecho. Suele corresponder a nuestro subjuntivo: <i>Es raro que <b>diga</b> eso</i> → <i>It's odd that he <b>should say</b> that.</i> Por último, <b>If … should</b> expresa una posibilidad poco probable («si por casualidad»); en cartas formales se invierte: <i><b>Should</b> you require…</i>",
+      "en": "British English often uses <b>should + infinitive</b> instead of the mandative subjunctive. <b>Putative should</b> follows words of emotion or judgement (<i>odd, a pity, surprising, natural</i>). <b>If … should</b> marks an unlikely possibility.",
+      "formula": [
+        "It's + *odd / a pity / natural* + that + sujeto + *should* + infinitivo",
+        "If + sujeto + *should* + infinitivo → *Should* + sujeto + infinitivo"
+      ],
+      "examples": [
+        {
+          "en": "It's a pity that you <b>should feel</b> that way about it.",
+          "es": "Es una pena que lo veas así.",
+          "icon": "😔"
+        },
+        {
+          "en": "I find it extraordinary that nobody <b>should have noticed</b> the error.",
+          "es": "Me parece increíble que nadie se diera cuenta del error.",
+          "icon": "🤯"
+        },
+        {
+          "en": "If you <b>should require</b> any further information, do not hesitate to contact us.",
+          "es": "Si necesitara más información, no dude en ponerse en contacto con nosotros.",
+          "icon": "✉️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · El subjuntivo con were",
+      "title_en": "The were-subjunctive",
+      "icon": "💭",
+      "color": "orange",
+      "es": "<b>Were</b> se usa con <b>todas las personas</b> (también I / he / she / it) en situaciones <mark>irreales o hipotéticas</mark>: tras <b>if, as if / as though, I wish, if only, suppose</b>. En el habla, <b>was</b> es muy frecuente (<i>If I was you…</i>), pero en registro formal y escrito se prefiere <b>were</b>. Dos usos típicos de C2: <b>were to + infinitivo</b>, para hipótesis remotas o delicadas (<i>If the government <b>were to</b> fall…</i>), y <b>were it not for / if it were not for</b> (= de no ser por). La inversión <i>Were I…</i> se trabaja a fondo en C1-01.",
+      "en": "<b>Were</b> is used for every person in unreal or hypothetical clauses (<i>if, as if, wish, suppose</i>); <b>was</b> is informal. Note <b>were to</b> for remote hypotheses and <b>were it not for</b> (= without).",
+      "formula": [
+        "If + sujeto + *were* + …, … + *would* + …",
+        "If + sujeto + *were to* + infinitivo",
+        "*Were it not for* + nombre, … + *would* + …"
+      ],
+      "examples": [
+        {
+          "en": "If the chairman <b>were to resign</b>, the share price would collapse.",
+          "es": "Si el presidente dimitiera, la cotización se hundiría.",
+          "icon": "📉"
+        },
+        {
+          "en": "<b>Were it not for</b> her diplomacy, the talks would break down.",
+          "es": "De no ser por su diplomacia, las negociaciones se romperían.",
+          "icon": "🤝"
+        },
+        {
+          "en": "He behaves as though he <b>were</b> above the law.",
+          "es": "Se comporta como si estuviera por encima de la ley.",
+          "icon": "👑"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Fórmulas fijas con subjuntivo",
+      "title_en": "Formulaic subjunctive",
+      "icon": "🔒",
+      "color": "pink",
+      "wide": true,
+      "head": [
+        "Fórmula · Formula",
+        "Significado · Meaning",
+        "🇪🇸 Equivalente",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "<b>Be that as it may</b>",
+          "even so; nevertheless",
+          "Sea como sea / Aun así",
+          "Be that as it may, the deadline stands."
+        ],
+        [
+          "<b>Come what may</b>",
+          "whatever happens",
+          "Pase lo que pase",
+          "Come what may, we'll finish the project."
+        ],
+        [
+          "<b>So be it</b>",
+          "I accept it (reluctantly)",
+          "Que así sea / Pues muy bien",
+          "If they want a fight, so be it."
+        ],
+        [
+          "<b>Suffice it to say</b> (that)",
+          "I need only say",
+          "Baste decir que…",
+          "Suffice it to say, he wasn't invited again."
+        ],
+        [
+          "<b>Far be it from me</b> to…",
+          "I don't wish to… (but I will)",
+          "Lejos de mí…",
+          "Far be it from me to criticise, but…"
+        ],
+        [
+          "<b>If need be</b>",
+          "if necessary",
+          "Si hace falta",
+          "We'll work overnight if need be."
+        ],
+        [
+          "<b>As it were</b>",
+          "so to speak",
+          "Por así decirlo",
+          "She became, as it were, a stranger at home."
+        ],
+        [
+          "<b>Heaven / God forbid</b> (that)",
+          "I hope that never happens",
+          "No lo quiera Dios",
+          "Heaven forbid that it should rain!"
+        ],
+        [
+          "<b>Long live</b> …!",
+          "may … live long",
+          "¡Viva…! / ¡Larga vida a…!",
+          "Long live the Republic!"
+        ],
+        [
+          "<b>Truth be told</b>",
+          "to be honest",
+          "A decir verdad",
+          "Truth be told, I never liked him."
+        ],
+        [
+          "<b>Be it</b> X <b>or</b> Y",
+          "whether it is X or Y",
+          "Ya sea X o Y",
+          "Be it in print or online, accuracy matters."
+        ],
+        [
+          "<b>The powers that be</b>",
+          "those in authority",
+          "Los que mandan",
+          "The powers that be have vetoed it."
+        ],
+        [
+          "<b>Woe betide</b> anyone who…",
+          "they will be in trouble",
+          "¡Pobre del que…!",
+          "Woe betide anyone who arrives late."
+        ]
+      ],
+      "note": "Son <b>bloques fijos</b>: no se conjugan ni se «modernizan» (<s>Come what it may</s>, <s>Be as it may</s>, <s>Long lives the King</s>). Muchas suenan literarias, solemnes o irónicas: úsalas con moderación y en el registro adecuado.",
+      "note_en": "These are fixed blocks: never conjugate or alter them. Many sound literary, solemn or ironic, so use them sparingly."
+    },
+    {
+      "t": "rule",
+      "title": "6 · Lest y concesivas con be",
+      "title_en": "Lest and concessive be",
+      "icon": "🕯️",
+      "color": "yellow",
+      "es": "<b>Lest</b> (muy formal o literario) significa <mark>para que no / no sea que</mark> y va seguido de <b>forma base</b> o de <b>should</b>: <i>lest he <b>forget</b></i>, <i>lest it <b>should</b> be misunderstood</i>; nunca de <s>would</s>. Tras <i>fear, be afraid, be terrified</i> equivale a «por miedo a que»: <i>She was terrified lest anyone <b>discover</b> the truth</i>. En registro neutro se dice <b>in case</b> o <b>so that … not</b>. Por otro lado, las <b>concesivas con be</b> (<i>whether it <b>be</b> … or …</i>, <i>be they rich or poor</i>) dan un tono solemne o retórico.",
+      "en": "<b>Lest</b> (very formal) means <i>so that … not</i> or <i>for fear that</i>, and takes the base form or <b>should</b>, never <i>would</i>. Neutral alternatives: <i>in case</i>, <i>so that … not</i>. Concessive <b>be</b> clauses sound rhetorical.",
+      "formula": [
+        "*lest* + sujeto + *forma base / should* + infinitivo",
+        "*whether it be* + X + or + Y"
+      ],
+      "examples": [
+        {
+          "en": "Write it down <b>lest</b> you <b>forget</b>.",
+          "es": "Apúntalo para que no se te olvide.",
+          "icon": "📝"
+        },
+        {
+          "en": "We must act now, <b>lest</b> history <b>repeat</b> itself.",
+          "es": "Debemos actuar ya, no sea que la historia se repita.",
+          "icon": "📜"
+        },
+        {
+          "en": "All citizens, <b>whether</b> they <b>be</b> rich or poor, are equal before the law.",
+          "es": "Todos los ciudadanos, sean ricos o pobres, son iguales ante la ley.",
+          "icon": "⚖️"
+        }
+      ]
+    },
+    {
+      "t": "vocab",
+      "title": "Palabras que activan el subjuntivo",
+      "title_en": "Subjunctive triggers",
+      "icon": "🔑",
+      "color": "green",
+      "cols": 2,
+      "items": [
+        {
+          "en": "<b>insist</b> that…",
+          "es": "insistir en que (exigir)",
+          "icon": "❗"
+        },
+        {
+          "en": "<b>demand</b> that…",
+          "es": "exigir que",
+          "icon": "📢"
+        },
+        {
+          "en": "<b>require</b> that…",
+          "es": "requerir que",
+          "icon": "📋"
+        },
+        {
+          "en": "<b>request</b> that…",
+          "es": "solicitar que",
+          "icon": "🙏"
+        },
+        {
+          "en": "<b>recommend</b> that…",
+          "es": "recomendar que",
+          "icon": "👍"
+        },
+        {
+          "en": "<b>suggest</b> that…",
+          "es": "sugerir que (proponer)",
+          "icon": "💡"
+        },
+        {
+          "en": "<b>propose</b> that…",
+          "es": "proponer que",
+          "icon": "🗣️"
+        },
+        {
+          "en": "<b>urge</b> that…",
+          "es": "instar a que",
+          "icon": "⏰"
+        },
+        {
+          "en": "<b>stipulate</b> that…",
+          "es": "estipular que",
+          "icon": "📑"
+        },
+        {
+          "en": "<b>move</b> that…",
+          "es": "proponer (en una junta)",
+          "icon": "🗳️"
+        },
+        {
+          "en": "<b>advise</b> that…",
+          "es": "aconsejar que",
+          "icon": "🧭"
+        },
+        {
+          "en": "It is <b>essential</b> that…",
+          "es": "es esencial que",
+          "icon": "🔑"
+        },
+        {
+          "en": "It is <b>vital</b> that…",
+          "es": "es vital que",
+          "icon": "❤️"
+        },
+        {
+          "en": "It is <b>imperative</b> that…",
+          "es": "es imprescindible que",
+          "icon": "⚠️"
+        },
+        {
+          "en": "It is <b>crucial</b> that…",
+          "es": "es crucial que",
+          "icon": "🎯"
+        },
+        {
+          "en": "It is <b>advisable</b> that…",
+          "es": "es aconsejable que",
+          "icon": "🧐"
+        },
+        {
+          "en": "It is <b>paramount</b> that…",
+          "es": "es primordial que",
+          "icon": "🏔️"
+        },
+        {
+          "en": "the <b>requirement</b> that…",
+          "es": "el requisito de que",
+          "icon": "✅"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "The regulations <b>stipulate</b> that the chair <b>be</b> elected by secret ballot.",
+          "es": "El reglamento estipula que el presidente sea elegido por votación secreta.",
+          "icon": "🗳️"
+        },
+        {
+          "en": "Doctors <b>advise</b> that the vaccine <b>not be</b> given to children under two.",
+          "es": "Los médicos aconsejan no administrar la vacuna a menores de dos años.",
+          "icon": "💉"
+        },
+        {
+          "en": "It is <b>paramount</b> that the data <b>remain</b> confidential.",
+          "es": "Es primordial que los datos sigan siendo confidenciales.",
+          "icon": "🔐"
+        },
+        {
+          "en": "Protesters are <b>demanding</b> that the minister <b>resign</b> immediately.",
+          "es": "Los manifestantes exigen que el ministro dimita de inmediato.",
+          "icon": "📣"
+        },
+        {
+          "en": "She <b>requested</b> that her name <b>be withheld</b>.",
+          "es": "Pidió que no se publicara su nombre.",
+          "icon": "🕵️"
+        },
+        {
+          "en": "The court <b>ordered</b> that the documents <b>be returned</b> to their owner.",
+          "es": "El tribunal ordenó que se devolvieran los documentos a su propietario.",
+          "icon": "🏛️"
+        },
+        {
+          "en": "It is only natural that parents <b>should worry</b> about their children's safety.",
+          "es": "Es natural que los padres se preocupen por la seguridad de sus hijos.",
+          "icon": "👪"
+        },
+        {
+          "en": "<b>Suffice it to say</b> that the negotiations did not go smoothly.",
+          "es": "Baste decir que las negociaciones no fueron sobre ruedas.",
+          "icon": "🤐"
+        },
+        {
+          "en": "<b>Come what may</b>, the show will go on.",
+          "es": "Pase lo que pase, la función continuará.",
+          "icon": "🎭"
+        },
+        {
+          "en": "<b>If need be</b>, we can postpone the launch until the spring.",
+          "es": "Si hace falta, podemos aplazar el lanzamiento hasta la primavera.",
+          "icon": "🚀"
+        },
+        {
+          "en": "<b>Far be it from me</b> to tell you how to run your business, but…",
+          "es": "Lejos de mí decirte cómo llevar tu negocio, pero…",
+          "icon": "🤷"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Texto modelo: acta de una junta",
+      "title_en": "Model text: minutes of a meeting",
+      "icon": "📋",
+      "color": "purple",
+      "items": [
+        {
+          "en": "The Chair <b>proposed</b> that the minutes of the previous meeting <b>be approved</b> without amendment.",
+          "es": "La presidenta propuso que se aprobara sin modificaciones el acta de la reunión anterior.",
+          "icon": "1️⃣"
+        },
+        {
+          "en": "Ms Patel <b>requested</b> that her objection to item 4 <b>be recorded</b>.",
+          "es": "La Sra. Patel solicitó que constara en acta su objeción al punto 4.",
+          "icon": "2️⃣"
+        },
+        {
+          "en": "The auditors had <b>recommended</b> that the accounts <b>be resubmitted</b> by 30 June.",
+          "es": "Los auditores habían recomendado que las cuentas se volvieran a presentar antes del 30 de junio.",
+          "icon": "3️⃣"
+        },
+        {
+          "en": "It was <b>resolved</b> that the Finance Director <b>attend</b> the next session in person.",
+          "es": "Se acordó que el director financiero asistiera en persona a la próxima sesión.",
+          "icon": "4️⃣"
+        },
+        {
+          "en": "The Board <b>insisted</b> that no further expenditure <b>be incurred</b> pending the review.",
+          "es": "La junta insistió en que no se incurriera en más gastos mientras durase la revisión.",
+          "icon": "5️⃣"
+        },
+        {
+          "en": "<b>Should</b> the auditors raise further concerns, the vote will be postponed, <b>if need be</b> until the spring.",
+          "es": "Si los auditores plantearan nuevas objeciones, la votación se aplazará, hasta la primavera si fuera necesario.",
+          "icon": "6️⃣"
+        },
+        {
+          "en": "Mr Grant <b>moved</b> that the meeting <b>be adjourned</b>; the motion was carried unanimously.",
+          "es": "El Sr. Grant propuso que se levantara la sesión; la moción se aprobó por unanimidad.",
+          "icon": "7️⃣"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I suggest you to apply for the post.",
+          "good": "I suggest (that) you <b>apply</b> for the post.",
+          "why": "<i>Suggest</i> + that + sujeto + base (o <i>suggest applying</i>), nunca + to.",
+          "why_en": "Suggest never takes object + to-infinitive."
+        },
+        {
+          "bad": "They demanded him to resign.",
+          "good": "They demanded <b>that he resign</b>.",
+          "why": "Calco de «le exigieron que»: <i>demand</i> + that.",
+          "why_en": "Demand + that-clause."
+        },
+        {
+          "bad": "I insist on that you stay.",
+          "good": "I <b>insist that</b> you stay.",
+          "why": "Calco de «insisto en que»: sin <i>on</i> delante de <i>that</i>.",
+          "why_en": "Insist that + clause."
+        },
+        {
+          "bad": "The panel recommended that the drug be not licensed.",
+          "good": "…that the drug <b>not be</b> licensed.",
+          "why": "<i>Not</i> va delante de <i>be</i>; <i>be not</i> es arcaico.",
+          "why_en": "Not goes before be."
+        },
+        {
+          "bad": "<small>(informe)</small> We recommend that the policy is reviewed annually.",
+          "good": "We recommend that the policy <b>be</b> / <b>should be</b> reviewed annually.",
+          "why": "En un informe, subjuntivo o should; el indicativo es coloquial.",
+          "why_en": "Indicative is informal."
+        },
+        {
+          "bad": "The lawyer insisted that his client be innocent.",
+          "good": "The lawyer insisted that his client <b>was</b> innocent.",
+          "why": "¡Ojo! <i>Insist</i> = <b>afirmar</b> (no exigir) → indicativo.",
+          "why_en": "Insist = claim → indicative."
+        },
+        {
+          "bad": "He tiptoed out lest he would wake the baby.",
+          "good": "He tiptoed out lest he <b>wake</b> / <b>should wake</b> the baby.",
+          "why": "<i>Lest</i> + forma base o should; nunca would.",
+          "why_en": "Lest + base form or should, never would."
+        },
+        {
+          "bad": "Come what it may, I'll support you.",
+          "good": "<b>Come what may</b>, I'll support you.",
+          "why": "Las fórmulas fijas no se tocan: no añadas sujeto.",
+          "why_en": "Fixed formulae cannot be altered."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Localiza el <b>disparador</b>: ¿hay un verbo, adjetivo o nombre de <b>exigencia, necesidad o recomendación</b> (insist, essential, requirement)?",
+          "en": "Find the trigger: a verb, adjective or noun of demand, necessity or recommendation."
+        },
+        {
+          "es": "Comprueba el <b>significado</b>: <i>insist / suggest</i> = exigir / proponer → subjuntivo; = afirmar / insinuar → indicativo.",
+          "en": "Check the meaning: demand → subjunctive; claim or imply → indicative."
+        },
+        {
+          "es": "Escribe <b>that</b> + sujeto + <b>forma base</b>: sin -s, sin -ed y sin cambio de tiempo aunque el verbo principal esté en pasado.",
+          "en": "Write that + subject + base form: no -s, no -ed, no backshift."
+        },
+        {
+          "es": "¿Negativa? → <b>not</b> + base. ¿Pasiva? → <b>be</b> + participio.",
+          "en": "Negative → not + base. Passive → be + participle."
+        },
+        {
+          "es": "Elige el <b>registro</b>: subjuntivo (formal / US), <b>should</b> (formal UK) o indicativo (coloquial).",
+          "en": "Choose the register: subjunctive, should or indicative."
+        },
+        {
+          "es": "Revisa: ¿hay <s>to</s> tras suggest / demand? ¿hay <s>do / does</s> en la negativa? ¿<s>on</s> delante de that? ¡Fuera!",
+          "en": "Check: no to after suggest / demand, no do in negatives, no on before that."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco de registro",
+      "title_en": "Register tip",
+      "es": "Pregúntate <b>quién va a leer</b> el texto. ¿Contrato, acta, normativa, informe o redacción de examen? → <b>subjuntivo</b> (o <b>should</b>). ¿Email a un compañero o conversación? → indicativo o una paráfrasis (<i>They want him to…</i>, <i>He has to…</i>). Atajo para el examen: tras <i>essential, vital, recommend, demand, require</i>, la forma base (<mark>be</mark>, <mark>go</mark>, <mark>not attend</mark>) nunca es incorrecta en registro formal.",
+      "en": "Ask who will read the text: contracts, minutes, reports and exam essays → subjunctive or should; emails and conversation → indicative or a paraphrase. After <i>essential, vital, recommend, demand, require</i>, the base form is always safe in formal writing."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify",
+      "title": "¿Qué estructura admite?",
+      "title_en": "Sort the triggers",
+      "icon": "🗂️",
+      "es": "Clasifica cada palabra según lo que suele llevar la cláusula con <b>that</b> que la sigue (registro formal).",
+      "en": "Sort the words by the structure their that-clause usually takes in formal English.",
+      "cats": [
+        {
+          "name": "Subjuntivo mandativo",
+          "words": [
+            "demand",
+            "recommend",
+            "stipulate",
+            "essential",
+            "imperative"
+          ]
+        },
+        {
+          "name": "Should «emotivo»",
+          "words": [
+            "odd",
+            "a pity",
+            "surprising",
+            "natural",
+            "a shame"
+          ]
+        },
+        {
+          "name": "Solo indicativo",
+          "words": [
+            "believe",
+            "know",
+            "notice",
+            "claim",
+            "obvious"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Fórmulas fijas",
+      "title_en": "Fixed formulae",
+      "icon": "🔗",
+      "es": "Une cada fórmula con su significado.",
+      "en": "Match each formula with its meaning.",
+      "pairs": [
+        [
+          "Be that as it may",
+          "nevertheless; even so"
+        ],
+        [
+          "Come what may",
+          "whatever happens"
+        ],
+        [
+          "Suffice it to say",
+          "I need only say"
+        ],
+        [
+          "If need be",
+          "if necessary"
+        ],
+        [
+          "As it were",
+          "so to speak"
+        ],
+        [
+          "Far be it from me to…",
+          "I'm reluctant to… (but I will)"
+        ],
+        [
+          "Woe betide anyone who…",
+          "anyone who… will be in trouble"
+        ],
+        [
+          "The powers that be",
+          "those in authority"
+        ]
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct option",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta en registro <b>formal</b>. ¡Cuidado con las trampas!",
+      "en": "Circle the correct option in formal English. Watch out for traps!",
+      "items": [
+        {
+          "q": "I suggest that she [consult|to consult|consulting] a lawyer.",
+          "a": "consult"
+        },
+        {
+          "q": "It is vital that every employee [be|being|to be] trained.",
+          "a": "be"
+        },
+        {
+          "q": "The court ordered that the building [be demolished|demolish|to be demolished].",
+          "a": "be demolished"
+        },
+        {
+          "q": "If I [were|am|would be] you, I'd reconsider.",
+          "a": "were"
+        },
+        {
+          "q": "They demanded that he [not leave|doesn't leave|leave not] the country.",
+          "a": "not leave"
+        },
+        {
+          "q": "It's odd that you [should say|said to|saying] that.",
+          "a": "should say"
+        },
+        {
+          "q": "[Come|Comes|Coming] what may, we'll be ready.",
+          "a": "Come"
+        },
+        {
+          "q": "Be that as it [may|might|can], we must proceed.",
+          "a": "may"
+        },
+        {
+          "q": "Take notes lest you [forget|forgot|will forget].",
+          "a": "forget"
+        },
+        {
+          "q": "Were it not [for|of|by] your help, I'd give up.",
+          "a": "for"
+        },
+        {
+          "q": "The lawyer insisted that his client [was|be] innocent all along.",
+          "a": "was"
+        },
+        {
+          "q": "If the bank [were to|was going|would] collapse, savers would panic.",
+          "a": "were to"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "El subjuntivo mandativo",
+      "title_en": "The mandative subjunctive",
+      "icon": "📜",
+      "es": "Completa con el subjuntivo (forma base) del verbo entre paréntesis.",
+      "en": "Complete with the subjunctive (base form) of the verb in brackets.",
+      "items": [
+        {
+          "q": "The doctor recommended that he ____ smoking at once.",
+          "a": "give up",
+          "hint": "give up"
+        },
+        {
+          "q": "It is essential that the contract ____ signed before Friday.",
+          "a": "be",
+          "hint": "be"
+        },
+        {
+          "q": "She asked that her donation ____ anonymous.",
+          "a": "remain",
+          "hint": "remain"
+        },
+        {
+          "q": "The rules require that each candidate ____ two references.",
+          "a": "provide",
+          "hint": "provide"
+        },
+        {
+          "q": "We urged that the government ____ immediate action.",
+          "a": "take",
+          "hint": "take"
+        },
+        {
+          "q": "It was imperative that nobody ____ the building.",
+          "a": "leave",
+          "hint": "leave"
+        },
+        {
+          "q": "The committee proposed that the fee ____ reduced.",
+          "a": "be",
+          "hint": "be"
+        },
+        {
+          "q": "His family insisted that he ____ buried in his home town.",
+          "a": "be",
+          "hint": "be"
+        },
+        {
+          "q": "The judge directed that the jury ____ the evidence.",
+          "a": "disregard",
+          "hint": "disregard"
+        },
+        {
+          "q": "It is advisable that every guest ____ a valid passport.",
+          "a": "carry",
+          "hint": "carry"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Negativa y pasiva",
+      "title_en": "Negatives and passives",
+      "icon": "⛔",
+      "es": "Completa con <b>not + base</b> o con <b>be + participio</b> (pasiva). Sigue la pista.",
+      "en": "Complete with not + base form or be + past participle.",
+      "items": [
+        {
+          "q": "We ask that the doors ____ during the performance.",
+          "a": "not be opened",
+          "hint": "not / open, pasiva"
+        },
+        {
+          "q": "The board recommended that the merger ____ until next year.",
+          "a": "be postponed",
+          "hint": "postpone, pasiva"
+        },
+        {
+          "q": "It is crucial that the patient ____ any solid food.",
+          "a": "not eat",
+          "hint": "not / eat"
+        },
+        {
+          "q": "The witness requested that his identity ____.",
+          "a": "be protected",
+          "hint": "protect, pasiva"
+        },
+        {
+          "q": "They insisted that the prisoner ____ handcuffed in court.",
+          "a": "not be",
+          "hint": "not / be"
+        },
+        {
+          "q": "It is vital that the results ____ before the election.",
+          "a": "not be published",
+          "hint": "not / publish, pasiva"
+        },
+        {
+          "q": "The regulations stipulate that the fee ____ in advance.",
+          "a": "be paid",
+          "hint": "pay, pasiva"
+        },
+        {
+          "q": "Her doctor advised that she ____ alone.",
+          "a": "not travel",
+          "hint": "not / travel"
+        },
+        {
+          "q": "The inspector demanded that all faulty equipment ____ immediately.",
+          "a": "be replaced",
+          "hint": "replace, pasiva"
+        },
+        {
+          "q": "I'd suggest that we ____ this until we have all the facts.",
+          "a": "not discuss",
+          "hint": "not / discuss"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Fórmulas en contexto",
+      "title_en": "Formulae in context",
+      "icon": "🔒",
+      "es": "Completa con una fórmula del recuadro (cada una, una vez).",
+      "en": "Complete with a formula from the box.",
+      "bank": [
+        "be that as it may",
+        "come what may",
+        "suffice it to say",
+        "if need be",
+        "as it were",
+        "far be it from me",
+        "so be it",
+        "heaven forbid",
+        "woe betide",
+        "the powers that be"
+      ],
+      "items": [
+        {
+          "q": "I know you have your doubts. ____, the decision is final.",
+          "a": "Be that as it may"
+        },
+        {
+          "q": "____ to tell you how to raise your children, but…",
+          "a": "Far be it from me"
+        },
+        {
+          "q": "We'll hire extra staff ____.",
+          "a": "if need be"
+        },
+        {
+          "q": "____ anyone who parks in the director's space!",
+          "a": "Woe betide"
+        },
+        {
+          "q": "The party was a disaster. ____ that nobody has spoken to Martin since.",
+          "a": "Suffice it to say"
+        },
+        {
+          "q": "If they want to resign, ____; we'll manage without them.",
+          "a": "so be it"
+        },
+        {
+          "q": "He was, ____, the black sheep of the family.",
+          "a": "as it were"
+        },
+        {
+          "q": "____ that anything should happen to the children!",
+          "a": "Heaven forbid"
+        },
+        {
+          "q": "____, I will finish this marathon.",
+          "a": "Come what may"
+        },
+        {
+          "q": "____ have decided to close the factory without consulting anyone.",
+          "a": "The powers that be"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Tres registros",
+      "title_en": "Three registers",
+      "icon": "🎚️",
+      "wide": true,
+      "es": "Completa la tabla: escribe la misma frase en subjuntivo, con should y en indicativo coloquial.",
+      "en": "Complete the table: subjunctive, should and informal indicative.",
+      "head": [
+        "🎩 Subjuntivo (formal)",
+        "🫖 Should (formal UK)",
+        "💬 Indicativo (coloquial)"
+      ],
+      "rows": [
+        [
+          "They insist that she be present.",
+          "?They insist that she should be present.",
+          "?They insist that she is present."
+        ],
+        [
+          "?It's vital that he leave now.",
+          "It's vital that he should leave now.",
+          "?It's vital that he leaves now."
+        ],
+        [
+          "?We recommend that it be cancelled.",
+          "?We recommend that it should be cancelled.",
+          "We recommend that it is cancelled."
+        ],
+        [
+          "They recommend that we not wait.",
+          "?They recommend that we should not wait.",
+          "?They recommend that we don't wait."
+        ],
+        [
+          "?It's essential that each member vote.",
+          "?It's essential that each member should vote.",
+          "It's essential that each member votes."
+        ],
+        [
+          "They demand that the law be changed.",
+          "?They demand that the law should be changed.",
+          "?They demand that the law is changed."
+        ]
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "✅",
+      "es": "¿Es verdadera o falsa cada afirmación sobre el subjuntivo? Si es falsa, corrígela mentalmente.",
+      "en": "Are these statements about the subjunctive true or false?",
+      "items": [
+        {
+          "q": "In the mandative subjunctive, the verb changes according to the tense of the main clause.",
+          "a": false,
+          "why": "Siempre forma base: They insisted that he <b>be</b>…"
+        },
+        {
+          "q": "<i>If I was you</i> is common in speech, but <i>If I were you</i> is preferred in formal writing.",
+          "a": true
+        },
+        {
+          "q": "The negative subjunctive is formed with <i>do not</i> + base form.",
+          "a": false,
+          "why": "Es not + base, sin do: that he <b>not</b> attend."
+        },
+        {
+          "q": "<i>Should</i> + infinitive is a typically British alternative to the mandative subjunctive.",
+          "a": true
+        },
+        {
+          "q": "<i>He insisted that he be innocent</i> means that he claimed he was innocent.",
+          "a": false,
+          "why": "Para afirmar, indicativo: insisted that he <b>was</b> innocent."
+        },
+        {
+          "q": "<i>Lest</i> means ‘so that … not’ and is very formal.",
+          "a": true
+        },
+        {
+          "q": "<i>Come what may</i> can also be written <i>Come what it may</i>.",
+          "a": false,
+          "why": "Es una fórmula fija."
+        },
+        {
+          "q": "<i>Suggest</i> can be followed by object + to-infinitive: <i>I suggest you to go</i>.",
+          "a": false,
+          "why": "I suggest (that) you go / I suggest going."
+        },
+        {
+          "q": "In <i>Were it not for the rain, we'd go out</i>, <i>were</i> is a subjunctive form.",
+          "a": true
+        },
+        {
+          "q": "The mandative subjunctive is more widely used in American English than in British English.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las fichas y escribe la frase completa.",
+      "en": "Put the tiles in order and write the sentence.",
+      "items": [
+        {
+          "q": "that / insisted / she / be / they / informed",
+          "a": "They insisted that she be informed."
+        },
+        {
+          "q": "essential / is / it / that / he / attend / the meeting",
+          "a": "It is essential that he attend the meeting."
+        },
+        {
+          "q": "recommend / we / not / that / the project / be / abandoned",
+          "a": "We recommend that the project not be abandoned."
+        },
+        {
+          "q": "were / if / I / in / your shoes, / I'd / resign",
+          "a": "If I were in your shoes, I'd resign."
+        },
+        {
+          "q": "may / be / as / that / it, / we / must / go on",
+          "a": "Be that as it may, we must go on."
+        },
+        {
+          "q": "what / come / may, / I / will / support / you",
+          "a": "Come what may, I will support you."
+        },
+        {
+          "q": "for / his injury, / were / it / not / he / would / be playing / today",
+          "a": "Were it not for his injury, he would be playing today."
+        },
+        {
+          "q": "lest / the evidence / be / destroyed / guarded / the room / was",
+          "a": "The room was guarded lest the evidence be destroyed."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Del coloquial al formal",
+      "title_en": "From informal to formal",
+      "icon": "🎩",
+      "es": "Reescribe cada frase en registro formal empezando como indica la pista. Se acepta también <b>should</b> + infinitivo.",
+      "en": "Rewrite each sentence in formal English, starting as the hint shows. Should + infinitive is also accepted.",
+      "items": [
+        {
+          "q": "The boss wants everyone to wear a tie.",
+          "hint": "The boss insists…",
+          "a": "The boss insists that everyone (should) wear a tie."
+        },
+        {
+          "q": "You have to bring your passport — it's essential.",
+          "hint": "It is essential…",
+          "a": "It is essential that you (should) bring your passport."
+        },
+        {
+          "q": "They told him he had to leave the room at once.",
+          "hint": "They demanded…",
+          "a": "They demanded that he (should) leave the room immediately."
+        },
+        {
+          "q": "Why don't you have a word with a lawyer?",
+          "hint": "I suggest…",
+          "a": "I suggest (that) you consult a lawyer."
+        },
+        {
+          "q": "Please don't tell anyone about this — we're asking you.",
+          "hint": "We request…",
+          "a": "We request that you not disclose this to anyone. / We request that this not be disclosed to anyone."
+        },
+        {
+          "q": "The new law says firms have to publish their gender pay gap.",
+          "hint": "The new law stipulates…",
+          "a": "The new law stipulates that firms (should) publish their gender pay gap."
+        },
+        {
+          "q": "If you need any help, just give us a ring.",
+          "hint": "Should you…",
+          "a": "Should you require any assistance, please do not hesitate to contact us."
+        },
+        {
+          "q": "Still, we've got to stick to the plan.",
+          "hint": "Be that as it may…",
+          "a": "Be that as it may, we must adhere to the plan."
+        },
+        {
+          "q": "Whatever happens, I'll be there for you.",
+          "hint": "Come what may…",
+          "a": "Come what may, I will be there for you."
+        },
+        {
+          "q": "Let's put the meeting off — that's what I'm proposing.",
+          "hint": "I propose…",
+          "a": "I propose that the meeting be postponed."
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error (gramática o registro formal). Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "The manager suggested us to take the day off.",
+          "a": "The manager suggested (that) we (should) take the day off."
+        },
+        {
+          "q": "I insist on that you be present at the hearing.",
+          "a": "I insist that you be present at the hearing."
+        },
+        {
+          "q": "The panel recommended that the drug be not licensed.",
+          "a": "The panel recommended that the drug not be licensed."
+        },
+        {
+          "q": "Be as it may, the decision has been made.",
+          "a": "Be that as it may, the decision has been made."
+        },
+        {
+          "q": "If I would be in your position, I'd apologise.",
+          "a": "If I were in your position, I'd apologise."
+        },
+        {
+          "q": "She tiptoed out lest she would wake the baby.",
+          "a": "She tiptoed out lest she (should) wake the baby."
+        },
+        {
+          "q": "The lawyer insisted that his client be at home that night.",
+          "a": "The lawyer insisted that his client was at home that night."
+        },
+        {
+          "q": "Long lives the King!",
+          "a": "Long live the King!"
+        },
+        {
+          "q": "It's a pity that he should feels so lonely.",
+          "a": "It's a pity that he should feel so lonely."
+        },
+        {
+          "q": "They demanded him to return the money.",
+          "a": "They demanded that he (should) return the money."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones (Cambridge C2)",
+      "title_en": "Key word transformations",
+      "icon": "🗝️",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la <b>palabra clave</b> (entre paréntesis) sin cambiarla, y entre 3 y 8 palabras.",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word without changing it, and between three and eight words.",
+      "items": [
+        {
+          "q": "All visitors must sign in at reception.<br>→ It ________ sign in at reception.",
+          "hint": "ESSENTIAL",
+          "a": "It <b>is essential that all visitors</b> sign in at reception."
+        },
+        {
+          "q": "‘You really must see a specialist,’ the GP told Ana.<br>→ The GP ________ a specialist.",
+          "hint": "INSISTED",
+          "a": "The GP <b>insisted that Ana (should) see</b> a specialist."
+        },
+        {
+          "q": "Without your support, the charity would have to close.<br>→ ________ your support, the charity would have to close.",
+          "hint": "WERE",
+          "a": "<b>Were it not for</b> / <b>If it were not for</b> your support, the charity would have to close."
+        },
+        {
+          "q": "The union wants the agreement to be published in full.<br>→ The union is ________ in full.",
+          "hint": "DEMANDING",
+          "a": "The union is <b>demanding that the agreement (should) be published</b> in full."
+        },
+        {
+          "q": "Nevertheless, the board's decision is final.<br>→ Be ________, the board's decision is final.",
+          "hint": "THAT",
+          "a": "Be <b>that as it may</b>, the board's decision is final."
+        },
+        {
+          "q": "I don't want to interfere, but I think you're making a mistake.<br>→ Far ________, but I think you're making a mistake.",
+          "hint": "BE",
+          "a": "Far <b>be it from me to interfere</b>, but I think you're making a mistake."
+        },
+        {
+          "q": "Take a map in case you get lost.<br>→ Take a map ________ lost.",
+          "hint": "LEST",
+          "a": "Take a map <b>lest you (should) get</b> lost."
+        },
+        {
+          "q": "Imagine the dam bursting: it would be a catastrophe.<br>→ If the dam ________ be a catastrophe.",
+          "hint": "TO",
+          "a": "If the dam <b>were to burst, it would</b> be a catastrophe."
+        },
+        {
+          "q": "Visitors were asked not to touch the exhibits.<br>→ It was requested ________ the exhibits.",
+          "hint": "NOT",
+          "a": "It was requested <b>that visitors (should) not touch</b> the exhibits."
+        },
+        {
+          "q": "The minister proposed scrapping the tax.<br>→ The minister put forward ________ scrapped.",
+          "hint": "PROPOSAL",
+          "a": "The minister put forward <b>a proposal that the tax be</b> scrapped."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "wide": true,
+      "es": "Lee la noticia. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read the article. Tick T or F and answer the questions.",
+      "text_title": "Council bows to residents' demands",
+      "text": [
+        "After months of protest, Westbrook Council has finally bowed to residents' demands that the old library be preserved as a community centre. Campaigners had insisted that no decision be taken until an independent survey had been carried out, and the council, somewhat reluctantly, agreed to wait.",
+        "The survey, published last week, recommends that the building be restored rather than demolished, and stipulates that any future development not alter its Victorian façade. ‘It is vital that the character of the town be protected,’ said its author, Dr Helen Ward. ‘Were it not for the residents' persistence, this landmark would be little more than rubble by now.’",
+        "Not everyone is delighted. Councillor Mark Hughes, who had proposed that the site be sold to developers, described the outcome as ‘an expensive exercise in nostalgia’. ‘Be that as it may,’ he conceded, ‘the people have spoken, and so be it. I would only ask that the council keep a close eye on costs, lest the project become a burden on taxpayers.’"
+      ],
+      "items": [
+        {
+          "q": "The council agreed to wait for the survey, though not enthusiastically.",
+          "tf": true,
+          "a": true,
+          "why": "‘somewhat reluctantly, agreed to wait’"
+        },
+        {
+          "q": "The survey recommends demolishing the building.",
+          "tf": true,
+          "a": false,
+          "why": "It recommends that the building be restored rather than demolished."
+        },
+        {
+          "q": "According to Dr Ward, the residents' campaign saved the library.",
+          "tf": true,
+          "a": true,
+          "why": "‘Were it not for the residents' persistence…’"
+        },
+        {
+          "q": "Councillor Hughes intends to keep fighting the decision.",
+          "tf": true,
+          "a": false,
+          "why": "He accepts it: ‘so be it’."
+        },
+        {
+          "q": "Find four verbs in the text that trigger the mandative subjunctive.",
+          "a": "insisted, recommends, stipulates, proposed (also: ask)"
+        },
+        {
+          "q": "Why does the text say ‘not alter’ and not ‘doesn't alter’?",
+          "a": "Because the negative subjunctive is not + base form, without do."
+        },
+        {
+          "q": "Rewrite ‘Were it not for the residents' persistence’ beginning with ‘If…’.",
+          "a": "If it were not (weren't) for the residents' persistence, …"
+        },
+        {
+          "q": "Paraphrase ‘lest the project become a burden on taxpayers’ in neutral English.",
+          "a": "so that the project doesn't become a burden on taxpayers / in case the project becomes a burden"
+        },
+        {
+          "q": "Which two formulaic subjunctive expressions does Councillor Hughes use?",
+          "a": "Be that as it may; so be it."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce al inglés en registro formal. Piensa: ¿hay un disparador? ¿forma base, should o were?",
+      "en": "Translate into formal English.",
+      "items": [
+        {
+          "q": "Insisto en que te quedes a cenar.",
+          "a": "I insist that you stay for dinner."
+        },
+        {
+          "q": "Es imprescindible que el informe se entregue antes del lunes.",
+          "a": "It is imperative that the report (should) be submitted before Monday."
+        },
+        {
+          "q": "El médico le recomendó que no condujera.",
+          "a": "The doctor recommended that he (should) not drive."
+        },
+        {
+          "q": "Si yo fuera tú, no firmaría ese contrato.",
+          "a": "If I were you, I wouldn't sign that contract."
+        },
+        {
+          "q": "Pase lo que pase, seguiremos adelante.",
+          "a": "Come what may, we will carry on.",
+          "hint": "fórmula fija"
+        },
+        {
+          "q": "Sea como sea, la decisión ya está tomada.",
+          "a": "Be that as it may, the decision has already been made.",
+          "hint": "fórmula fija"
+        },
+        {
+          "q": "Exigieron que se les devolviera el dinero.",
+          "a": "They demanded that their money be refunded."
+        },
+        {
+          "q": "Es lógico que estén preocupados.",
+          "a": "It is (only) natural that they should be worried.",
+          "hint": "should"
+        },
+        {
+          "q": "De no ser por tu ayuda, no podría seguir adelante.",
+          "a": "Were it not for (If it were not for) your help, I could not carry on."
+        },
+        {
+          "q": "Llévate un paraguas, no sea que llueva.",
+          "a": "Take an umbrella lest it (should) rain / in case it rains."
+        },
+        {
+          "q": "La ley exige que todos los ocupantes del vehículo lleven puesto el cinturón.",
+          "a": "The law requires that all occupants of the vehicle wear a seat belt."
+        },
+        {
+          "q": "Propongo que se levante la sesión.",
+          "a": "I move (propose) that the meeting be adjourned.",
+          "hint": "en una junta"
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe en registro formal. Usa las estructuras indicadas.",
+      "en": "Write in formal English using the structures given.",
+      "items": [
+        {
+          "q": "Escribe dos normas para una biblioteca universitaria con <b>require that</b> e <b>It is essential that</b>.",
+          "lines": 2,
+          "a": "Ej.: The library requires that users show their card. It is essential that phones be kept on silent."
+        },
+        {
+          "q": "Redacta la recomendación final de un informe sobre teletrabajo con <b>recommend that … be</b>.",
+          "lines": 2,
+          "a": "Ej.: We recommend that remote working be extended to all departments."
+        },
+        {
+          "q": "Escribe una frase con <b>Were it not for…</b> sobre una persona importante para ti.",
+          "lines": 2,
+          "a": "Ej.: Were it not for my grandmother, I would not be the reader I am today."
+        },
+        {
+          "q": "Usa <b>Be that as it may</b> para rebatir un argumento con el que no estás de acuerdo.",
+          "lines": 2,
+          "a": "Ej.: Tourism undoubtedly brings wealth. Be that as it may, its environmental cost is unsustainable."
+        },
+        {
+          "q": "Escribe una frase con <b>lest</b> y reescríbela después en registro neutro.",
+          "lines": 2,
+          "a": "Ej.: We must remain vigilant lest such crimes be repeated. → …so that such crimes don't happen again."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé formar el <b>subjuntivo mandativo</b>: insist that he <b>be</b>, demand that she <b>go</b>.",
+      "en": "I can form the mandative subjunctive."
+    },
+    {
+      "es": "Uso <b>not + base</b> y <b>be + participio</b>, sin do ni cambio de tiempo.",
+      "en": "I form negatives and passives correctly, with no do and no backshift."
+    },
+    {
+      "es": "Elijo entre subjuntivo, <b>should</b> e indicativo según el registro.",
+      "en": "I choose between subjunctive, should and indicative according to register."
+    },
+    {
+      "es": "Distingo <i>insist</i> = exigir (subjuntivo) de <i>insist</i> = afirmar (indicativo).",
+      "en": "I distinguish insist = demand from insist = claim."
+    },
+    {
+      "es": "Uso <b>were</b>, <b>were to</b> y <b>were it not for</b> en registro formal.",
+      "en": "I use were, were to and were it not for in formal writing."
+    },
+    {
+      "es": "Domino las fórmulas fijas: <b>be that as it may, come what may, suffice it to say</b>…",
+      "en": "I can use the fixed subjunctive formulae."
+    },
+    {
+      "es": "Nunca escribo <s>suggest you to</s>, <s>demand him to</s> ni <s>insist on that</s>.",
+      "en": "I never write suggest you to, demand him to or insist on that."
+    }
+  ]
+}

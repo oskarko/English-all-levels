@@ -1,0 +1,1356 @@
+{
+  "id": "B1-04",
+  "level": "B1",
+  "title": "PERFECT <em>o</em> PAST",
+  "file_title": "Present perfect o past simple",
+  "subtitle": "Present perfect vs past simple · ¿he ido o fui?",
+  "icon": "⚖️",
+  "map": {
+    "center": "¿El tiempo <b>ha terminado</b>? → <b>past simple</b>. ¿<b>No ha terminado</b> o no decimos cuándo? → <b>present perfect</b>.",
+    "nodes": [
+      {
+        "title": "PAST SIMPLE",
+        "icon": "⏹️",
+        "items": [
+          "Tiempo <b>terminado</b> y <b>conocido</b>.",
+          "I <b>saw</b> it <b>yesterday</b>. <i>(Lo vi ayer.)</i>",
+          "yesterday · last week · in 2019 · ago"
+        ]
+      },
+      {
+        "title": "PRESENT PERFECT",
+        "icon": "▶️",
+        "art": "🌍",
+        "items": [
+          "Tiempo <b>sin terminar</b> o <b>sin fecha</b>.",
+          "I<b>'ve seen</b> it <b>this week</b>. <i>(La he visto.)</i>",
+          "today · this week · ever · never · yet"
+        ]
+      },
+      {
+        "title": "Noticia + detalles",
+        "icon": "📰",
+        "items": [
+          "Noticia → present perfect: I<b>'ve lost</b> my keys!",
+          "Detalles → past simple: Where <b>did</b> you <b>lose</b> them?"
+        ]
+      },
+      {
+        "title": "WHEN…? WHAT TIME…?",
+        "icon": "❓",
+        "items": [
+          "Siempre <b>past simple</b>.",
+          "<s>When have you arrived?</s>",
+          "<b>When did</b> you <b>arrive</b>?"
+        ]
+      },
+      {
+        "title": "THIS MORNING: ¡depende!",
+        "icon": "☀️",
+        "items": [
+          "A las 10 h: I<b>'ve had</b> 3 coffees this morning.",
+          "A las 18 h: I <b>had</b> 3 coffees this morning."
+        ]
+      },
+      {
+        "title": "Ojo con el español",
+        "icon": "🇪🇸",
+        "art": "💬",
+        "items": [
+          "«He ido» sin fecha ≈ present perfect.",
+          "Con fecha, past simple:",
+          "Fui el lunes → I <b>went</b> on Monday."
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "I have seen him yesterday."
+      ],
+      "good": [
+        "I saw him yesterday."
+      ],
+      "note": "yesterday, last…, ago → <b>past simple</b>"
+    },
+    "mini": {
+      "es": "Present perfect o past simple.",
+      "en": "Present perfect or past simple.",
+      "items": [
+        {
+          "q": "I ____ (go) to Rome last summer.",
+          "a": "went"
+        },
+        {
+          "q": "She ____ (never / try) sushi.",
+          "a": "has never tried"
+        },
+        {
+          "q": "___ you see the match yesterday?",
+          "a": "Did"
+        },
+        {
+          "q": "Look! I ____ (cut) my hair.",
+          "a": "have cut"
+        },
+        {
+          "q": "When ____ you ____ (arrive)?",
+          "a": "did … arrive"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Los dos tiempos hablan del pasado, pero miran de forma distinta. La pregunta clave es: <mark>¿el periodo de tiempo ha terminado?</mark> Si hablamos de un momento <b>terminado</b> y concreto (ayer, en 2019, hace dos días) → <b>past simple</b>. Si el periodo <b>sigue abierto</b> (hoy, esta semana, mi vida) o <b>no decimos cuándo</b> porque importa el hecho o el resultado → <b>present perfect</b>.",
+      "en": "Finished time (yesterday, in 2019, ago) → <b>past simple</b>. Unfinished time (today, this week) or no time given → <b>present perfect</b>.",
+      "formula": [
+        "*Past simple* + tiempo terminado: yesterday / last week / ago",
+        "*Present perfect* + tiempo abierto o sin fecha: today / this week / ever"
+      ],
+      "wide": true
+    },
+    {
+      "t": "table",
+      "title": "Las palabras clave",
+      "title_en": "Key time expressions",
+      "icon": "🔑",
+      "color": "purple",
+      "wide": true,
+      "head": [
+        "⏹️ Past simple",
+        "Español",
+        "▶️ Present perfect",
+        "Español"
+      ],
+      "rows": [
+        [
+          "yesterday",
+          "ayer",
+          "today",
+          "hoy"
+        ],
+        [
+          "last night / week / year",
+          "anoche / la semana pasada / el año pasado",
+          "this week / month / year",
+          "esta semana / este mes / este año"
+        ],
+        [
+          "two days ago",
+          "hace dos días",
+          "recently / lately",
+          "últimamente"
+        ],
+        [
+          "in 2019 · in May",
+          "en 2019 · en mayo",
+          "so far",
+          "hasta ahora"
+        ],
+        [
+          "when I was a child",
+          "cuando era niño",
+          "ever · never",
+          "alguna vez · nunca"
+        ],
+        [
+          "When…? · What time…?",
+          "¿Cuándo…? · ¿A qué hora…?",
+          "already · yet · just",
+          "ya · todavía · acabar de"
+        ],
+        [
+          "the other day",
+          "el otro día",
+          "for / since (sigue)",
+          "desde hace / desde"
+        ]
+      ],
+      "note": "Las palabras de la izquierda <b>cierran</b> el tiempo; las de la derecha lo dejan <b>abierto</b> hasta ahora.",
+      "note_en": "Left: closed time. Right: time still open up to now."
+    },
+    {
+      "t": "rule",
+      "title": "1 · PAST SIMPLE: tiempo terminado",
+      "title_en": "Past simple: finished time",
+      "icon": "⏹️",
+      "color": "blue",
+      "es": "Usamos el <b>past simple</b> cuando la acción ocurrió en un <b>momento terminado</b> y sabemos o decimos <b>cuándo</b>: <i>yesterday, last week, in 2019, two days ago, when I was ten</i>. También para <b>contar historias</b> (una acción detrás de otra) y para etapas cerradas o personas que ya han muerto.",
+      "en": "Finished time, and we say or know <b>when</b>. Also for stories and finished periods of life.",
+      "formula": [
+        "Sujeto + *verbo en pasado* + … + yesterday / last… / ago"
+      ],
+      "examples": [
+        {
+          "en": "I <b>went</b> to Lisbon <b>last summer</b>.",
+          "es": "Fui a Lisboa el verano pasado.",
+          "icon": "✈️"
+        },
+        {
+          "en": "We <b>met</b> <b>three years ago</b>.",
+          "es": "Nos conocimos hace tres años.",
+          "icon": "💑"
+        },
+        {
+          "en": "<b>Did</b> you <b>watch</b> the match <b>last night</b>?",
+          "es": "¿Viste el partido anoche?",
+          "icon": "📺"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · PRESENT PERFECT: tiempo abierto o sin fecha",
+      "title_en": "Present perfect: unfinished time or no time",
+      "icon": "▶️",
+      "color": "green",
+      "es": "Usamos el <b>present perfect</b> cuando el periodo <b>todavía no ha terminado</b> (<i>today, this week, this year, so far</i>) o cuando <b>no decimos cuándo</b> porque lo importante es el hecho o su <b>resultado ahora</b>: experiencias (<i>ever, never</i>), noticias y cambios recientes.",
+      "en": "Unfinished time (today, this week) or no time given: experiences, news, results now.",
+      "formula": [
+        "Sujeto + *have / has* + *participio* + … + today / this week / ever"
+      ],
+      "examples": [
+        {
+          "en": "I<b>'ve drunk</b> three coffees <b>today</b>.",
+          "es": "Hoy me he tomado tres cafés.",
+          "icon": "☕"
+        },
+        {
+          "en": "She<b>'s visited</b> six countries <b>this year</b>.",
+          "es": "Este año ha visitado seis países.",
+          "icon": "🗺️"
+        },
+        {
+          "en": "<b>Have</b> you <b>ever been</b> to Ireland?",
+          "es": "¿Has estado alguna vez en Irlanda?",
+          "icon": "☘️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Noticias y preguntas de seguimiento",
+      "title_en": "News and follow-up questions",
+      "icon": "📰",
+      "color": "orange",
+      "es": "Para dar una <b>noticia</b> usamos el present perfect: lo importante es que <b>ha pasado</b>, no cuándo. Pero en cuanto damos o pedimos <b>detalles</b> (cuándo, dónde, cómo, por qué) pasamos al <mark>past simple</mark>, porque ya hablamos de un momento concreto.",
+      "en": "Give the news with the <b>present perfect</b>. Give or ask for details with the <b>past simple</b>.",
+      "formula": [
+        "*Noticia* + present perfect",
+        "*Detalles* + past simple"
+      ],
+      "examples": [
+        {
+          "en": "I<b>'ve passed</b> my driving test! — Well done! When <b>did</b> you <b>take</b> it?",
+          "es": "¡He aprobado el carné! — ¡Bien! ¿Cuándo te examinaste?",
+          "icon": "🚗"
+        },
+        {
+          "en": "Lucía <b>has had</b> her baby! — Lovely! <b>Was</b> it a boy or a girl?",
+          "es": "¡Lucía ha tenido el bebé! — ¡Qué bien! ¿Fue niño o niña?",
+          "icon": "👶"
+        },
+        {
+          "en": "There<b>'s been</b> an accident on the motorway. It <b>happened</b> at 7 a.m.",
+          "es": "Ha habido un accidente en la autopista. Ocurrió a las 7.",
+          "icon": "🚨"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "El español te puede engañar",
+      "title_en": "Spanish can trick you",
+      "icon": "🪤",
+      "color": "teal",
+      "head": [
+        "Español",
+        "Inglés",
+        "¿Por qué?"
+      ],
+      "rows": [
+        [
+          "Hoy he ido al gimnasio.",
+          "I've been to the gym today.",
+          "hoy = abierto"
+        ],
+        [
+          "Este año he viajado mucho.",
+          "I've travelled a lot this year.",
+          "este año sigue"
+        ],
+        [
+          "El año pasado viajé mucho.",
+          "I travelled a lot last year.",
+          "terminó"
+        ],
+        [
+          "¿Cuándo has llegado?",
+          "When did you arrive?",
+          "When → pasado"
+        ]
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · WHEN, WHAT TIME y AGO",
+      "title_en": "when, what time and ago",
+      "icon": "❓",
+      "color": "purple",
+      "es": "Las preguntas con <b>When…?</b> y <b>What time…?</b> piden un momento concreto, así que van <b>siempre en past simple</b>, aunque en español digamos «¿Cuándo has llegado?». Lo mismo con <b>ago</b> («hace»). En cambio, la duración que continúa (<i>How long…? for / since</i>) va en present perfect.",
+      "en": "<b>When…?</b>, <b>What time…?</b> and <b>ago</b> always take the past simple.",
+      "formula": [
+        "*When / What time* + did + sujeto + verbo…?",
+        "… + periodo + *ago*"
+      ],
+      "examples": [
+        {
+          "en": "<b>When did</b> you <b>arrive</b>? <i>(not: When have you arrived?)</i>",
+          "es": "¿Cuándo has llegado? / ¿Cuándo llegaste?",
+          "icon": "🛬"
+        },
+        {
+          "en": "<b>What time did</b> the film <b>start</b>?",
+          "es": "¿A qué hora empezó la peli?",
+          "icon": "🎬"
+        },
+        {
+          "en": "I <b>bought</b> these trainers <b>two weeks ago</b>.",
+          "es": "Me compré estas zapatillas hace dos semanas.",
+          "icon": "👟"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Mismo hecho, distinto tiempo",
+      "title_en": "Same event, different tense",
+      "color": "blue",
+      "icon": "⚖️",
+      "es": "La misma acción puede ir en los dos tiempos. Lo que cambia es lo que <b>importa</b>: el resultado o la experiencia (present perfect) o el momento concreto ya cerrado (past simple).",
+      "en": "Result or experience now → present perfect. A finished moment → past simple.",
+      "cols": [
+        {
+          "head": "▶️ Present perfect",
+          "color": "green",
+          "items": [
+            "I<b>'ve lost</b> my phone. <i>(No lo tengo.)</i>",
+            "I<b>'ve been</b> to Paris. <i>(Experiencia.)</i>",
+            "She<b>'s written</b> 3 novels. <i>(Sigue escribiendo.)</i>"
+          ]
+        },
+        {
+          "head": "⏹️ Past simple",
+          "color": "blue",
+          "items": [
+            "I <b>lost</b> my phone last week. <i>(Fecha.)</i>",
+            "I <b>went</b> to Paris in 2022. <i>(Fecha.)</i>",
+            "Cervantes <b>wrote</b> many novels. <i>(Ya murió.)</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "THIS MORNING, TODAY…: ¡depende!",
+      "title_en": "this morning, today…: it depends!",
+      "color": "orange",
+      "icon": "⏰",
+      "es": "Con <b>this morning</b>, <b>this afternoon</b> o <b>today</b>, pregúntate: ¿ese periodo ya ha terminado <b>cuando hablo</b>? Si todavía es por la mañana → present perfect. Si la mañana ya pasó → past simple.",
+      "en": "Is the period still open when you speak? Yes → present perfect. No → past simple.",
+      "cols": [
+        {
+          "head": "☀️ Son las 11:00",
+          "color": "green",
+          "items": [
+            "I<b>'ve had</b> two coffees this morning.",
+            "<b>Have</b> you <b>seen</b> Ana this morning?"
+          ]
+        },
+        {
+          "head": "🌙 Son las 20:00",
+          "color": "purple",
+          "items": [
+            "I <b>had</b> two coffees this morning.",
+            "<b>Did</b> you <b>see</b> Ana this morning?"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "I've had a terrible day. My train was late and I missed the meeting.",
+          "es": "He tenido un día horrible. El tren llegó tarde y me perdí la reunión.",
+          "icon": "😩"
+        },
+        {
+          "en": "Have you seen Pablo today? — Yes, I saw him at lunch.",
+          "es": "¿Has visto a Pablo hoy? — Sí, lo vi a la hora de comer.",
+          "icon": "🥪"
+        },
+        {
+          "en": "We've lived here since 2019. Before that, we lived in Cádiz.",
+          "es": "Vivimos aquí desde 2019. Antes vivíamos en Cádiz.",
+          "icon": "🏠"
+        },
+        {
+          "en": "My phone has died. I didn't charge it last night.",
+          "es": "Se me ha muerto el móvil. No lo cargué anoche.",
+          "icon": "🔋"
+        },
+        {
+          "en": "I've never been to a wedding. — Really? I went to three last year!",
+          "es": "Nunca he ido a una boda. — ¿En serio? ¡Yo fui a tres el año pasado!",
+          "icon": "💒"
+        },
+        {
+          "en": "Prices have gone up a lot this year.",
+          "es": "Los precios han subido mucho este año.",
+          "icon": "📈"
+        },
+        {
+          "en": "Our team scored three goals in the last match.",
+          "es": "Nuestro equipo marcó tres goles en el último partido.",
+          "icon": "⚽"
+        },
+        {
+          "en": "Have you finished the report? — Yes, I sent it an hour ago.",
+          "es": "¿Has terminado el informe? — Sí, lo envié hace una hora.",
+          "icon": "📊"
+        },
+        {
+          "en": "I've known Marta for years. We met at university.",
+          "es": "Conozco a Marta desde hace años. Nos conocimos en la universidad.",
+          "icon": "🎓"
+        },
+        {
+          "en": "Oh no! I've left my wallet at home!",
+          "es": "¡Oh, no! ¡Me he dejado la cartera en casa!",
+          "icon": "👛"
+        },
+        {
+          "en": "Frida Kahlo painted many self-portraits.",
+          "es": "Frida Kahlo pintó muchos autorretratos.",
+          "icon": "🎨"
+        },
+        {
+          "en": "How many episodes have you watched so far? — Five. I watched three last night.",
+          "es": "¿Cuántos capítulos has visto hasta ahora? — Cinco. Vi tres anoche.",
+          "icon": "📺"
+        }
+      ]
+    },
+    {
+      "t": "vocab",
+      "title": "Noticias: verbos útiles",
+      "title_en": "News: useful verbs",
+      "icon": "📰",
+      "color": "pink",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "has won the league",
+          "es": "ha ganado la liga",
+          "icon": "🏆"
+        },
+        {
+          "en": "has broken a record",
+          "es": "ha batido un récord",
+          "icon": "🥇"
+        },
+        {
+          "en": "has had a baby",
+          "es": "ha tenido un bebé",
+          "icon": "👶"
+        },
+        {
+          "en": "has got engaged",
+          "es": "se ha prometido",
+          "icon": "💍"
+        },
+        {
+          "en": "has passed the exam",
+          "es": "ha aprobado el examen",
+          "icon": "📝"
+        },
+        {
+          "en": "has lost his job",
+          "es": "ha perdido el trabajo",
+          "icon": "📦"
+        },
+        {
+          "en": "has resigned",
+          "es": "ha dimitido",
+          "icon": "🚪"
+        },
+        {
+          "en": "has gone up",
+          "es": "ha subido",
+          "icon": "📈"
+        },
+        {
+          "en": "has gone down",
+          "es": "ha bajado",
+          "icon": "📉"
+        },
+        {
+          "en": "has released an album",
+          "es": "ha sacado un disco",
+          "icon": "💿"
+        },
+        {
+          "en": "has launched an app",
+          "es": "ha lanzado una app",
+          "icon": "🚀"
+        },
+        {
+          "en": "has moved abroad",
+          "es": "se ha ido a vivir fuera",
+          "icon": "🌍"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I have seen him yesterday.",
+          "good": "I <b>saw</b> him yesterday.",
+          "why": "yesterday cierra el tiempo → past simple.",
+          "why_en": "yesterday → past simple."
+        },
+        {
+          "bad": "When have you arrived?",
+          "good": "When <b>did</b> you <b>arrive</b>?",
+          "why": "When…? siempre en past simple.",
+          "why_en": "When…? → past simple."
+        },
+        {
+          "bad": "We've been to London in 2023.",
+          "good": "We <b>went</b> to London in 2023.",
+          "why": "Con fecha → past simple.",
+          "why_en": "A date → past simple."
+        },
+        {
+          "bad": "I've lost my phone last night.",
+          "good": "I <b>lost</b> my phone last night.",
+          "why": "last night = tiempo terminado.",
+          "why_en": "last night → past simple."
+        },
+        {
+          "bad": "I lived here since 2020. <small>(y sigo aquí)</small>",
+          "good": "I<b>'ve lived</b> here since 2020.",
+          "why": "Situación que sigue → present perfect.",
+          "why_en": "Still true → present perfect."
+        },
+        {
+          "bad": "Shakespeare has written Hamlet.",
+          "good": "Shakespeare <b>wrote</b> Hamlet.",
+          "why": "Etapa cerrada (murió) → past simple.",
+          "why_en": "Finished life → past simple."
+        },
+        {
+          "bad": "I didn't see Laura this week. <small>(es miércoles)</small>",
+          "good": "I <b>haven't seen</b> Laura this week.",
+          "why": "La semana sigue abierta → present perfect.",
+          "why_en": "The week isn't over."
+        },
+        {
+          "bad": "Two years ago I have started university.",
+          "good": "Two years ago I <b>started</b> university.",
+          "why": "ago → past simple.",
+          "why_en": "ago → past simple."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Qué tiempo uso?",
+      "title_en": "Which tense do I use?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "¿Hay una expresión de tiempo <b>terminado</b> (yesterday, last…, ago, in 2019) o preguntas <b>When / What time</b>? → <b>past simple</b>.",
+          "en": "Finished time or When…? → past simple."
+        },
+        {
+          "es": "¿El periodo sigue <b>abierto</b> (today, this week, so far, ever, never, yet)? → <b>present perfect</b>.",
+          "en": "Open time → present perfect."
+        },
+        {
+          "es": "¿No dices cuándo: <b>experiencia, noticia o resultado</b> ahora? → present perfect.",
+          "en": "No time: experience, news, result → present perfect."
+        },
+        {
+          "es": "¿Das o pides <b>detalles</b> (dónde, cómo, cuándo)? → cambia a past simple.",
+          "en": "Details → past simple."
+        },
+        {
+          "es": "¿Cuentas una <b>historia</b> paso a paso? → past simple.",
+          "en": "A story → past simple."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "¡Tengo noticias!",
+      "title_en": "I've got news!",
+      "lines": [
+        {
+          "who": "Sara",
+          "en": "Guess what! I've found a new job!",
+          "es": "¿A que no sabes qué? ¡He encontrado un trabajo nuevo!"
+        },
+        {
+          "who": "Tom",
+          "en": "Congratulations! When did you find out?",
+          "es": "¡Enhorabuena! ¿Cuándo te enteraste?"
+        },
+        {
+          "who": "Sara",
+          "en": "They called me an hour ago. I've already signed the contract!",
+          "es": "Me llamaron hace una hora. ¡Ya he firmado el contrato!"
+        },
+        {
+          "who": "Tom",
+          "en": "Amazing! Have you told your parents?",
+          "es": "¡Genial! ¿Se lo has dicho a tus padres?"
+        },
+        {
+          "who": "Sara",
+          "en": "Yes, I phoned them straight away. My mum cried!",
+          "es": "Sí, los llamé enseguida. ¡Mi madre lloró!"
+        },
+        {
+          "who": "Tom",
+          "en": "Have you been to the office yet?",
+          "es": "¿Ya has estado en la oficina?"
+        },
+        {
+          "who": "Sara",
+          "en": "Yes, I went there for the interview last week. It's in the city centre.",
+          "es": "Sí, fui para la entrevista la semana pasada. Está en el centro."
+        },
+        {
+          "who": "Tom",
+          "en": "Have you ever worked in an office before?",
+          "es": "¿Has trabajado alguna vez en una oficina?"
+        },
+        {
+          "who": "Sara",
+          "en": "No, never! I worked in a shop for three years, so this is all new.",
+          "es": "¡No, nunca! Trabajé tres años en una tienda, así que todo esto es nuevo."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco de la caja",
+      "title_en": "The box trick",
+      "es": "Imagina el tiempo como una <b>caja</b> 📦. ¿Está <mark>cerrada</mark> (yesterday, 2019, last week, when I was ten)? → <b>past simple</b>. ¿Está <mark>abierta</mark> (today, this year, my life, ever)? → <b>present perfect</b>. Y si preguntas <b>When…?</b>, ¡la caja ya está cerrada!",
+      "en": "Closed box (yesterday, 2019) → past simple. Open box (today, this year, ever) → present perfect. When…? → closed box."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify",
+      "title": "¿Tiempo cerrado o abierto?",
+      "title_en": "Finished or unfinished time?",
+      "icon": "🗂️",
+      "es": "Escribe cada expresión en su caja: ¿va con past simple o con present perfect?",
+      "en": "Sort the time expressions.",
+      "cats": [
+        {
+          "name": "⏹️ Past simple",
+          "words": [
+            "yesterday",
+            "last night",
+            "two days ago",
+            "in 2018",
+            "when I was ten",
+            "last summer",
+            "the other day",
+            "What time…?"
+          ]
+        },
+        {
+          "name": "▶️ Present perfect",
+          "words": [
+            "today",
+            "this week",
+            "this year",
+            "ever",
+            "never",
+            "yet",
+            "so far",
+            "recently"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct form",
+      "icon": "⭕",
+      "es": "Rodea la forma correcta. Busca primero la expresión de tiempo.",
+      "en": "Circle the correct form.",
+      "items": [
+        {
+          "q": "I [saw|have seen] Pablo yesterday.",
+          "a": "saw"
+        },
+        {
+          "q": "[Did you see|Have you seen] my keys? I can't find them.",
+          "a": "Have you seen"
+        },
+        {
+          "q": "We [went|have been] to Italy in 2023.",
+          "a": "went"
+        },
+        {
+          "q": "She [didn't call|hasn't called] me this week.",
+          "a": "hasn't called"
+        },
+        {
+          "q": "When [did you start|have you started] your new job?",
+          "a": "did you start"
+        },
+        {
+          "q": "I [lost|have lost] my phone! Can you ring it?",
+          "a": "have lost"
+        },
+        {
+          "q": "Picasso [painted|has painted] Guernica in 1937.",
+          "a": "painted"
+        },
+        {
+          "q": "[Have you ever eaten|Did you ever eat] octopus?",
+          "a": "Have you ever eaten"
+        },
+        {
+          "q": "They [moved|have moved] house two months ago.",
+          "a": "moved"
+        },
+        {
+          "q": "I [haven't finished|didn't finish] my essay yet.",
+          "a": "haven't finished"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Noticia y seguimiento",
+      "title_en": "News and follow-up",
+      "icon": "🔗",
+      "es": "Une cada noticia (present perfect) con su pregunta de seguimiento (past simple).",
+      "en": "Match each piece of news with its follow-up question.",
+      "pairs": [
+        [
+          "I've lost my phone!",
+          "Oh no! Where did you last see it?"
+        ],
+        [
+          "Lucía has had her baby!",
+          "Lovely! Was it a boy or a girl?"
+        ],
+        [
+          "I've passed my driving test!",
+          "Well done! When did you take it?"
+        ],
+        [
+          "Our team has won the cup!",
+          "Fantastic! What was the score?"
+        ],
+        [
+          "I've cut my finger.",
+          "Ouch! How did you do that?"
+        ],
+        [
+          "My cousins have moved to Canada.",
+          "Really? Why did they go?"
+        ],
+        [
+          "I've bought a new laptop.",
+          "Nice! How much did it cost?"
+        ],
+        [
+          "I've finished my thesis!",
+          "At last! When did you hand it in?"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "¿Past simple o present perfect?",
+      "title_en": "Past simple or present perfect?",
+      "icon": "✏️",
+      "es": "Completa con el past simple o el present perfect del verbo entre paréntesis.",
+      "en": "Complete with the past simple or the present perfect.",
+      "items": [
+        {
+          "q": "I ____ (meet) my best friend in 2015.",
+          "a": "met"
+        },
+        {
+          "q": "____ you ever ____ (be) to Ireland?",
+          "a": "Have … been"
+        },
+        {
+          "q": "We ____ (not / see) the new film yet.",
+          "a": "haven't seen"
+        },
+        {
+          "q": "She ____ (buy) a new car last month.",
+          "a": "bought"
+        },
+        {
+          "q": "Oh no! I ____ (break) my glasses!",
+          "a": "have broken"
+        },
+        {
+          "q": "What time ____ you ____ (get) home last night?",
+          "a": "did … get"
+        },
+        {
+          "q": "My brother ____ (work) in three different countries so far.",
+          "a": "has worked"
+        },
+        {
+          "q": "I ____ (not / sleep) well last night.",
+          "a": "didn't sleep"
+        },
+        {
+          "q": "This year we ____ (travel) a lot.",
+          "a": "have travelled"
+        },
+        {
+          "q": "Two weeks ago, Ana ____ (start) a new course.",
+          "a": "started"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Pasado y participio",
+      "title_en": "Past simple and present perfect forms",
+      "icon": "📋",
+      "es": "Completa la tabla. ¡Ojo con los irregulares! La primera fila es un ejemplo.",
+      "en": "Complete the table.",
+      "head": [
+        "Verbo",
+        "Past simple (I…)",
+        "Present perfect (she…)"
+      ],
+      "rows": [
+        [
+          "do",
+          "<i>did</i>",
+          "<i>has done</i>"
+        ],
+        [
+          "go",
+          "?went",
+          "?has been / has gone"
+        ],
+        [
+          "see",
+          "?saw",
+          "?has seen"
+        ],
+        [
+          "buy",
+          "?bought",
+          "?has bought"
+        ],
+        [
+          "take",
+          "?took",
+          "?has taken"
+        ],
+        [
+          "break",
+          "?broke",
+          "?has broken"
+        ],
+        [
+          "lose",
+          "?lost",
+          "?has lost"
+        ],
+        [
+          "meet",
+          "?met",
+          "?has met"
+        ],
+        [
+          "write",
+          "?wrote",
+          "?has written"
+        ],
+        [
+          "eat",
+          "?ate",
+          "?has eaten"
+        ],
+        [
+          "win",
+          "?won",
+          "?has won"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Noticia + detalles",
+      "title_en": "News + details",
+      "icon": "📰",
+      "es": "Completa: la noticia en present perfect y la pregunta de seguimiento en past simple.",
+      "en": "News in the present perfect, follow-up question in the past simple.",
+      "items": [
+        {
+          "q": "I ____ (lose) my wallet! — Oh no! Where ___ you last ____ (see) it?",
+          "a": "have lost … did … see"
+        },
+        {
+          "q": "Marta ____ (pass) her driving test! — Great! When ___ she ____ (take) it?",
+          "a": "has passed … did … take"
+        },
+        {
+          "q": "We ____ (buy) a flat! — Wow! How much ___ it ____ (cost)?",
+          "a": "have bought … did … cost"
+        },
+        {
+          "q": "My team ____ (win) the league! — Brilliant! ___ you ____ (watch) the final?",
+          "a": "has won (have won) … Did … watch"
+        },
+        {
+          "q": "I ____ (cut) my hand. — Ouch! How ___ you ____ (do) that?",
+          "a": "have cut … did … do"
+        },
+        {
+          "q": "Leo ____ (go) to Canada. — Really? Why ___ he ____ (leave)?",
+          "a": "has gone … did … leave"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Cambia la expresión de tiempo",
+      "title_en": "Change the time expression",
+      "icon": "🔄",
+      "es": "Reescribe la frase con la expresión entre paréntesis. ¿Tienes que cambiar el tiempo verbal?",
+      "en": "Rewrite the sentence with the time expression in brackets.",
+      "items": [
+        {
+          "q": "I've seen Marta today. <b>(yesterday)</b>",
+          "a": "I saw Marta yesterday."
+        },
+        {
+          "q": "We went to the cinema last week. <b>(this week)</b>",
+          "a": "We've been to the cinema this week."
+        },
+        {
+          "q": "She has called me three times this morning. <b>(yesterday)</b>",
+          "a": "She called me three times yesterday."
+        },
+        {
+          "q": "I didn't eat meat last year. <b>(this year)</b>",
+          "a": "I haven't eaten meat this year."
+        },
+        {
+          "q": "They've visited their grandparents recently. <b>(two weeks ago)</b>",
+          "a": "They visited their grandparents two weeks ago."
+        },
+        {
+          "q": "Did you speak to the boss yesterday? <b>(today)</b>",
+          "a": "Have you spoken to the boss today?"
+        },
+        {
+          "q": "He's had three exams this month. <b>(last month)</b>",
+          "a": "He had three exams last month."
+        },
+        {
+          "q": "I haven't checked my email today. <b>(yesterday)</b>",
+          "a": "I didn't check my email yesterday."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pregunta de seguimiento",
+      "title_en": "Ask a follow-up question",
+      "icon": "❓",
+      "es": "Escribe la pregunta de seguimiento en past simple con las palabras dadas.",
+      "en": "Write the follow-up question in the past simple.",
+      "items": [
+        {
+          "q": "I've been to Japan. → When / go?",
+          "a": "When did you go?"
+        },
+        {
+          "q": "I've broken my arm! → How / do it?",
+          "a": "How did you do it?"
+        },
+        {
+          "q": "Sara has bought a new car. → What colour / buy?",
+          "a": "What colour did she buy?"
+        },
+        {
+          "q": "We've seen that film. → Where / see it?",
+          "a": "Where did you see it?"
+        },
+        {
+          "q": "Pablo has passed all his exams. → When / get the results?",
+          "a": "When did he get the results?"
+        },
+        {
+          "q": "I've met a famous footballer. → Who / meet?",
+          "a": "Who did you meet?"
+        },
+        {
+          "q": "My parents have moved to Valencia. → Why / move?",
+          "a": "Why did they move?"
+        },
+        {
+          "q": "Ana has lost her phone. → Where / lose it?",
+          "a": "Where did she lose it?"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase.",
+      "en": "Put the words in order.",
+      "items": [
+        {
+          "q": "yesterday / I / my / saw / cousin",
+          "a": "I saw my cousin yesterday."
+        },
+        {
+          "q": "you / have / ever / to / been / Scotland / ?",
+          "a": "Have you ever been to Scotland?"
+        },
+        {
+          "q": "did / when / arrive / you / ?",
+          "a": "When did you arrive?"
+        },
+        {
+          "q": "this week / I / haven't / her / seen",
+          "a": "I haven't seen her this week."
+        },
+        {
+          "q": "ago / they / two years / got married",
+          "a": "They got married two years ago."
+        },
+        {
+          "q": "has / my sister / a baby / just / had",
+          "a": "My sister has just had a baby."
+        },
+        {
+          "q": "last night / didn't / we / sleep / well",
+          "a": "We didn't sleep well last night."
+        },
+        {
+          "q": "lost / I've / my keys / and / find / I / them / can't",
+          "a": "I've lost my keys and I can't find them."
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "⚖️",
+      "es": "Lee cada afirmación y marca T (verdadero) o F (falso).",
+      "en": "Read each statement. Tick T or F.",
+      "items": [
+        {
+          "q": "We use the past simple with «yesterday» and «last week».",
+          "a": true
+        },
+        {
+          "q": "We use the present perfect with «ago».",
+          "a": false,
+          "why": "ago → past simple: I went two days ago."
+        },
+        {
+          "q": "«When have you arrived?» is correct.",
+          "a": false,
+          "why": "When did you arrive?"
+        },
+        {
+          "q": "«I've lost my keys» means I still don't have them.",
+          "a": true
+        },
+        {
+          "q": "«This week» can go with the present perfect.",
+          "a": true
+        },
+        {
+          "q": "Questions with «What time…?» about the past use the past simple.",
+          "a": true
+        },
+        {
+          "q": "«Shakespeare has written Hamlet» is correct.",
+          "a": false,
+          "why": "Shakespeare murió: Shakespeare wrote Hamlet."
+        },
+        {
+          "q": "We often give news with the present perfect and the details with the past simple.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "I have seen him yesterday.",
+          "a": "I saw him yesterday."
+        },
+        {
+          "q": "When have you bought that jacket?",
+          "a": "When did you buy that jacket?"
+        },
+        {
+          "q": "We've been to London in 2023.",
+          "a": "We went to London in 2023."
+        },
+        {
+          "q": "I've lost my phone last night.",
+          "a": "I lost my phone last night."
+        },
+        {
+          "q": "Have you watched the match last night?",
+          "a": "Did you watch the match last night?"
+        },
+        {
+          "q": "Cervantes has written Don Quixote.",
+          "a": "Cervantes wrote Don Quixote."
+        },
+        {
+          "q": "I didn't see Laura this week. (Hoy es miércoles.)",
+          "a": "I haven't seen Laura this week."
+        },
+        {
+          "q": "Two years ago I have started university.",
+          "a": "Two years ago I started university."
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Qué hora es?",
+      "title_en": "What time is it?",
+      "icon": "⏰",
+      "es": "Mira cuándo se dice la frase (entre paréntesis) y rodea la forma correcta.",
+      "en": "Look at when the sentence is said and circle the correct form.",
+      "items": [
+        {
+          "q": "(10:00) I [have had|had] two coffees this morning.",
+          "a": "have had"
+        },
+        {
+          "q": "(20:00) I [have had|had] two coffees this morning.",
+          "a": "had"
+        },
+        {
+          "q": "(11:00) [Have you seen|Did you see] the boss this morning?",
+          "a": "Have you seen"
+        },
+        {
+          "q": "(19:00) [Have you seen|Did you see] the boss this morning?",
+          "a": "Did you see"
+        },
+        {
+          "q": "(Friday) I [have worked|worked] really hard this week.",
+          "a": "have worked"
+        },
+        {
+          "q": "(31st December) This year [has been|was] amazing!",
+          "a": "has been"
+        },
+        {
+          "q": "(1st January) Last year [has been|was] amazing!",
+          "a": "was"
+        },
+        {
+          "q": "(15:00) I [haven't eaten|didn't eat] anything today.",
+          "a": "haven't eaten"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. No copies el tiempo del español: ¡mira la expresión de tiempo!",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Ayer vi a tu hermano en el gimnasio.",
+          "a": "I saw your brother at the gym yesterday."
+        },
+        {
+          "q": "¿Has visto mis gafas? No las encuentro.",
+          "a": "Have you seen my glasses? I can't find them."
+        },
+        {
+          "q": "¿Cuándo llegaste a Madrid?",
+          "a": [
+            "When did you arrive in Madrid?",
+            "When did you get to Madrid?"
+          ]
+        },
+        {
+          "q": "Este mes he trabajado mucho.",
+          "a": "I've worked a lot this month."
+        },
+        {
+          "q": "Mi abuelo nunca ha usado un ordenador.",
+          "a": "My grandad has never used a computer."
+        },
+        {
+          "q": "Nos mudamos aquí hace tres años.",
+          "a": "We moved here three years ago."
+        },
+        {
+          "q": "¡Ana ha aprobado el examen! — ¿Qué nota sacó?",
+          "a": "Ana has passed the exam! — What mark did she get?"
+        },
+        {
+          "q": "¿Viste el partido anoche?",
+          "a": [
+            "Did you watch the match last night?",
+            "Did you see the match last night?"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee la noticia. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read the news story. Tick T or F and answer the questions.",
+      "text_title": "Teen from Zaragoza wins European gaming final 🎮",
+      "text": [
+        "Lucía Gil, a 17-year-old student from Zaragoza, has won the European Junior Esports Championship. She beat 64 players from twenty countries in the final in Berlin last Saturday.",
+        "Lucía started playing video games when she was eight. “My dad taught me,” she explained. Since then, she has played in more than thirty tournaments, but this is the first time she has won an international competition.",
+        "The prize is €10,000, and Lucía has already decided what to do with the money: she wants to save it for university. Her school has organised a party for her next Friday. “I haven't slept much this week,” she laughed, “but I'm very happy!”"
+      ],
+      "items": [
+        {
+          "q": "Lucía has won a European championship.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "The final was in Zaragoza.",
+          "tf": true,
+          "a": false,
+          "why": "It was in Berlin."
+        },
+        {
+          "q": "Lucía has won international competitions before.",
+          "tf": true,
+          "a": false,
+          "why": "This is the first time."
+        },
+        {
+          "q": "When did Lucía start playing video games?",
+          "a": "When she was eight."
+        },
+        {
+          "q": "How many tournaments has she played in?",
+          "a": "More than thirty."
+        },
+        {
+          "q": "What has she decided to do with the prize money?",
+          "a": "She has decided to save it for university."
+        },
+        {
+          "q": "Has she slept much this week?",
+          "a": "No, she hasn't."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre tu vida. Elige bien entre present perfect y past simple.",
+      "en": "Write about your life. Choose the right tense.",
+      "items": [
+        {
+          "q": "Escribe 3 cosas que <b>has hecho esta semana</b> y 3 que <b>hiciste la semana pasada</b>.",
+          "lines": 2,
+          "a": "Ej.: This week I've been to the gym twice and I've finished a book. Last week I went to a concert and I visited my grandparents."
+        },
+        {
+          "q": "Escribe una <b>noticia</b> sobre ti o tu familia (present perfect) y añade 2 detalles (past simple).",
+          "lines": 2,
+          "a": "Ej.: My cousin has had a baby! She was born on Monday. Her name is Alba."
+        },
+        {
+          "q": "Escribe 2 preguntas <i>Have you ever…?</i> y, para cada una, una pregunta de seguimiento (When / Where / How…?).",
+          "lines": 2,
+          "a": "Ej.: Have you ever been to London? When did you go? Have you ever won a prize? What did you win?"
+        },
+        {
+          "q": "Compara: algo que <b>has hecho este año</b> y algo que <b>hiciste el año pasado</b>.",
+          "lines": 2,
+          "a": "Ej.: This year I've started a new job. Last year I studied for my exams."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Uso el <b>past simple</b> con tiempo terminado: yesterday, last week, ago, in 2019.",
+      "en": "I use the past simple with finished time."
+    },
+    {
+      "es": "Uso el <b>present perfect</b> con tiempo abierto o sin fecha: today, this week, ever, never.",
+      "en": "I use the present perfect with unfinished time or no time."
+    },
+    {
+      "es": "Pregunto <b>When…? / What time…?</b> siempre en past simple.",
+      "en": "I ask When…? and What time…? in the past simple."
+    },
+    {
+      "es": "Doy una <b>noticia</b> en present perfect y los <b>detalles</b> en past simple.",
+      "en": "I give news in the present perfect and details in the past simple."
+    },
+    {
+      "es": "Sé que <b>this morning</b> o <b>today</b> dependen de la hora en que hablo.",
+      "en": "I know this morning depends on when I'm speaking."
+    },
+    {
+      "es": "No traduzco el tiempo del español: miro la <b>expresión de tiempo</b>.",
+      "en": "I look at the time expression, not the Spanish tense."
+    }
+  ]
+}

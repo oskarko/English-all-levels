@@ -1,0 +1,465 @@
+{
+  "id": "B1-08",
+  "level": "B1",
+  "title": "SECOND CONDITIONAL",
+  "file_title": "Second conditional",
+  "subtitle": "Second conditional · situaciones imaginarias",
+  "icon": "💭",
+  "map": {
+    "center": "Usamos el <b>SECOND CONDITIONAL</b> para situaciones <b>imaginarias o poco probables</b> y sus consecuencias.",
+    "nodes": [
+      {
+        "title": "¿Qué es?", "icon": "🔎", "art": "💭",
+        "items": ["Algo <b>imaginario</b> o muy <b>poco probable</b> (ahora o en el futuro).", "If I <b>had</b> a car, I<b>'d drive</b> to work. <i>(Si tuviera coche, iría en coche.)</i>"]
+      },
+      {
+        "title": "Estructura", "icon": "🧩",
+        "rows": [["If + pasado", "→ la condición"], ["would + infinitivo", "→ el resultado"]],
+        "after": "'d = would · también <b>could / might</b>"
+      },
+      {
+        "title": "WERE para todos", "icon": "✨",
+        "items": ["If I / he / she / it <b>were</b>…", "If I <b>were</b> taller, I'd play basketball.", "<i>(was se oye al hablar, pero were es lo correcto)</i>"]
+      },
+      {
+        "title": "Consejo: IF I WERE YOU", "icon": "💡", "art": "🦉",
+        "items": ["<b>If I were you</b>, I'd see a doctor. <i>(Yo que tú, iría al médico.)</i>", "I <b>wouldn't</b> buy it <b>if I were you</b>."]
+      },
+      {
+        "title": "Negativas y preguntas", "icon": "❓",
+        "items": ["If I <b>didn't</b> work, I'd travel more.", "I <b>wouldn't</b> go if I were you.", "What <b>would</b> you <b>do</b> if you won?"]
+      },
+      {
+        "title": "¿FIRST o SECOND?", "icon": "⚖️",
+        "rows": [["If I <b>have</b> time, I'll…", "= posible 🤞"], ["If I <b>had</b> time, I'd…", "= imaginario 💭"]]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["If I would have money, I'd buy it."],
+      "good": ["If I had money, I'd buy it."],
+      "note": "if + <b>pasado</b>, nunca would"
+    },
+    "mini": {
+      "es": "Completa con la forma correcta.",
+      "en": "Complete with the correct form.",
+      "items": [
+        { "q": "If I ____ rich, I'd travel.", "a": "were", "hint": "be" },
+        { "q": "If she had time, she ____ us.", "a": "would help", "hint": "help" },
+        { "q": "If I ____ you, I'd say sorry.", "a": "were" },
+        { "q": "What ____ you do if you lost it?", "a": "would" },
+        { "q": "If we ____ a garden, we'd get a dog.", "a": "had", "hint": "have" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "El <b>second conditional</b> (segundo condicional) sirve para hablar de situaciones <mark>imaginarias, irreales o muy poco probables</mark> en el presente o en el futuro, y de sus consecuencias. Aunque el verbo va en <b>pasado</b>, ¡no hablamos del pasado! Aquí el pasado significa «lejos de la realidad». En español usamos <b>imperfecto de subjuntivo + condicional</b>: «<i>Si tuviera dinero, viajaría</i>».",
+      "en": "We use the <b>second conditional</b> for <mark>imaginary, unreal or unlikely</mark> situations in the present or future. The past form doesn't mean past time: it means «not real».",
+      "formula": ["*If* + past simple + *would / wouldn't* + infinitivo"]
+    },
+    {
+      "t": "rule", "title": "1 · La estructura", "title_en": "The structure", "icon": "🧩", "color": "green",
+      "es": "En la parte del <b>if</b> usamos el <b>past simple</b> (had, lived, knew, spoke…). En el resultado usamos <b>would + infinitivo sin to</b> (forma corta: <b>'d</b>). Traducción típica: <i>si + tuviera / viviera</i> → <i>haría / iría</i>.",
+      "en": "In the if-clause use the <b>past simple</b>. In the main clause use <b>would + infinitive</b> (short form <b>'d</b>).",
+      "formula": ["*If* + past simple", "*would ('d)* + infinitivo"],
+      "examples": [
+        { "en": "If I <b>had</b> more free time, I<b>'d learn</b> to play the guitar.", "es": "Si tuviera más tiempo libre, aprendería a tocar la guitarra.", "icon": "🎸" },
+        { "en": "If we <b>lived</b> by the sea, we<b>'d go</b> surfing every weekend.", "es": "Si viviéramos junto al mar, haríamos surf todos los fines de semana.", "icon": "🏄" },
+        { "en": "If she <b>spoke</b> Chinese, she<b>'d get</b> that job.", "es": "Si hablara chino, conseguiría ese trabajo.", "icon": "💼" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · ¿Por qué pasado?", "title_en": "Past form, present meaning", "icon": "🕰️", "color": "blue",
+      "es": "Ojo: <b>If I had a car</b> no habla del pasado. Significa que <mark>ahora no tengo coche</mark> y me lo imagino. Compara: la realidad va en presente (<i>I don't have a car</i>); el «sueño», en pasado (<i>If I had a car…</i>).",
+      "en": "The past form shows the situation is <b>not real now</b>: I don't have a car → If I had a car, I'd drive to work.",
+      "formula": ["Realidad + I don't have a car", "Imaginación + *If I had a car…*"],
+      "examples": [
+        { "en": "I don't know her number. If I <b>knew</b> it, I<b>'d call</b> her.", "es": "No sé su número. Si lo supiera, la llamaría.", "icon": "📞" },
+        { "en": "He isn't here. If he <b>were</b> here, he<b>'d help</b> us.", "es": "No está aquí. Si estuviera, nos ayudaría.", "icon": "🙋" },
+        { "en": "I can't drive. If I <b>could</b> drive, I<b>'d take</b> you to the airport.", "es": "No sé conducir. Si supiera, te llevaría al aeropuerto.", "icon": "🚗" }
+      ]
+    },
+    {
+      "t": "rule", "title": "3 · WERE con todas las personas", "title_en": "were for all persons", "icon": "✨", "color": "purple",
+      "es": "Con el verbo <b>to be</b>, en el second conditional usamos <b>were</b> con todas las personas, también con <b>I, he, she, it</b>: <i>if I were, if she were, if it were</i>. Al hablar también se oye <i>was</i> (If I was…), pero <b>were</b> es la forma correcta en exámenes y textos cuidados.",
+      "en": "With <b>be</b>, use <b>were</b> for all persons (if I were, if she were). <i>Was</i> is common in speech, but <b>were</b> is safer in exams.",
+      "formula": ["*If* + I / he / she / it + *were*"],
+      "examples": [
+        { "en": "If I <b>were</b> taller, I<b>'d play</b> basketball.", "es": "Si fuera más alto, jugaría al baloncesto.", "icon": "🏀" },
+        { "en": "If it <b>weren't</b> so expensive, I<b>'d buy</b> it.", "es": "Si no fuera tan caro, lo compraría.", "icon": "💸" },
+        { "en": "If my sister <b>were</b> here, she<b>'d know</b> what to do.", "es": "Si mi hermana estuviera aquí, sabría qué hacer.", "icon": "🧠" }
+      ]
+    },
+    {
+      "t": "rule", "title": "4 · IF I WERE YOU: consejos", "title_en": "Giving advice", "icon": "💡", "color": "orange",
+      "es": "<b>If I were you, I'd…</b> es la forma más típica de <mark>dar un consejo</mark>. Equivale a «<i>yo que tú…</i>» o «<i>yo en tu lugar…</i>». Puede ir al principio (con coma) o al final de la frase.",
+      "en": "<b>If I were you, I'd…</b> is a very common way to give advice (= Spanish «yo que tú»).",
+      "formula": ["*If I were you* + I'd / I wouldn't + infinitivo"],
+      "examples": [
+        { "en": "<b>If I were you</b>, I<b>'d talk</b> to your boss.", "es": "Yo que tú, hablaría con tu jefe.", "icon": "🗣️" },
+        { "en": "I <b>wouldn't</b> post that photo <b>if I were you</b>.", "es": "Yo en tu lugar no subiría esa foto.", "icon": "📸" },
+        { "en": "<b>If I were you</b>, I<b>'d book</b> the flights now. Prices are going up.", "es": "Yo que tú, reservaría los vuelos ya. Los precios están subiendo.", "icon": "✈️" }
+      ]
+    },
+    {
+      "t": "rule", "title": "5 · Negativas y preguntas", "title_en": "Negatives and questions", "icon": "❓", "color": "red",
+      "es": "Negativa en la condición: <b>didn't + infinitivo</b> (o <b>weren't</b>). Negativa en el resultado: <b>wouldn't + infinitivo</b>. Preguntas: <b>(Wh-) + would + sujeto + infinitivo + if…?</b> Respuestas cortas: <b>Yes, I would.</b> / <b>No, I wouldn't.</b>",
+      "en": "Negatives: <b>didn't</b> / <b>weren't</b> in the if-clause, <b>wouldn't</b> in the result. Questions: <b>(Wh-) + would + subject + verb</b>.",
+      "formula": ["If + *didn't* + verbo", "*wouldn't* + infinitivo", "*(Wh-)* + *would* + sujeto + infinitivo + *if* + pasado?"],
+      "examples": [
+        { "en": "If I <b>didn't</b> have to work, I<b>'d come</b> with you.", "es": "Si no tuviera que trabajar, iría contigo.", "icon": "🧳" },
+        { "en": "I <b>wouldn't</b> live in a big city if I <b>had</b> the choice.", "es": "No viviría en una gran ciudad si pudiera elegir.", "icon": "🏙️" },
+        { "en": "<b>What would</b> you <b>do</b> if you <b>lost</b> your phone?", "es": "¿Qué harías si perdieras el móvil?", "icon": "📱" }
+      ]
+    },
+    {
+      "t": "rule", "title": "6 · COULD y MIGHT", "title_en": "could and might", "icon": "🔀", "color": "teal",
+      "es": "En el resultado podemos usar <b>could</b> (= podría) o <b>might</b> (= quizá…, a lo mejor…) en vez de would. Y en la condición, <b>could</b> significa «si pudiera / si supiera».",
+      "en": "In the result, use <b>could</b> (= would be able to) or <b>might</b> (= would perhaps). In the if-clause, <b>could</b> = were able to.",
+      "formula": ["*If* + pasado + *could / might* + infinitivo"],
+      "examples": [
+        { "en": "If I had a car, I <b>could</b> visit my grandparents more often.", "es": "Si tuviera coche, podría visitar a mis abuelos más a menudo.", "icon": "👵" },
+        { "en": "If you asked her nicely, she <b>might</b> say yes.", "es": "Si se lo pidieras con amabilidad, a lo mejor te diría que sí.", "icon": "🙏" },
+        { "en": "If I <b>could</b> live anywhere, I'd live in Canada.", "es": "Si pudiera vivir en cualquier sitio, viviría en Canadá.", "icon": "🍁" }
+      ]
+    },
+    {
+      "t": "table", "title": "Todo junto", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["Tipo · Type", "Condición · If-clause", "Resultado · Main clause", "Traducción · Spanish"],
+      "rows": [
+        ["✅ Afirmativa", "If I <b>had</b> money,", "I<b>'d travel</b> the world.", "Si tuviera dinero, viajaría por el mundo."],
+        ["⛔ Condición negativa", "If I <b>didn't have</b> exams,", "I<b>'d go</b> to the party.", "Si no tuviera exámenes, iría a la fiesta."],
+        ["⛔ Resultado negativo", "If I <b>lived</b> in Madrid,", "I <b>wouldn't need</b> a car.", "Si viviera en Madrid, no necesitaría coche."],
+        ["❓ Pregunta", "If you <b>won</b> the lottery,", "what <b>would</b> you <b>buy</b>?", "Si ganaras la lotería, ¿qué comprarías?"],
+        ["✨ To be", "If I <b>were</b> rich,", "I<b>'d buy</b> an island.", "Si fuera rico, me compraría una isla."],
+        ["💡 Consejo", "<b>If I were you</b>,", "I<b>'d call</b> her.", "Yo que tú, la llamaría."],
+        ["🔀 could / might", "If we <b>left</b> now,", "we <b>could catch</b> the train.", "Si saliéramos ya, podríamos coger el tren."]
+      ],
+      "note": "Truco de traducción: <b>si + -ra / -se</b> (tuviera, fuese) → <b>past simple</b>. Verbo en <b>-ría</b> (viajaría, iría) → <b>would</b>.",
+      "note_en": "Spanish -ra / -se → past simple. Spanish -ría → would."
+    },
+    {
+      "t": "compare", "title": "¿FIRST o SECOND?", "title_en": "first or second?", "color": "blue", "icon": "⚖️",
+      "es": "La gramática depende de <mark>lo probable que lo veas</mark>. <b>First</b>: es posible y realista. <b>Second</b>: es imaginario, imposible ahora o muy poco probable. ¡La misma idea puede ir con los dos!",
+      "en": "It depends on how likely you think it is. First = real possibility. Second = imaginary or unlikely.",
+      "cols": [
+        { "head": "🤞 FIRST · posible", "color": "green", "items": ["If I <b>pass</b>, I<b>'ll celebrate</b>. <i>(he estudiado)</i>", "If it <b>rains</b>, we<b>'ll stay</b> in. <i>(hay nubes)</i>", "If I <b>see</b> him, I<b>'ll tell</b> him. <i>(lo veo a menudo)</i>"] },
+        { "head": "💭 SECOND · imaginario", "color": "purple", "items": ["If I <b>won</b> the lottery, I<b>'d stop</b> working. <i>(casi imposible)</i>", "If it <b>snowed</b> in Seville, I<b>'d be</b> amazed. <i>(muy raro)</i>", "If I <b>were</b> a bird, I<b>'d fly</b> home. <i>(imposible)</i>"] }
+      ]
+    },
+    {
+      "t": "table", "title": "Pasados que vas a necesitar", "title_en": "Useful past forms", "icon": "📚", "color": "purple",
+      "head": ["Verbo · Verb", "Pasado · Past", "Ejemplo · Example"],
+      "rows": [
+        ["have", "<b>had</b>", "If I <b>had</b> time…"],
+        ["be", "<b>were</b>", "If I <b>were</b> you…"],
+        ["can", "<b>could</b>", "If I <b>could</b> fly…"],
+        ["know", "<b>knew</b>", "If I <b>knew</b> the answer…"],
+        ["win", "<b>won</b>", "If we <b>won</b> the league…"],
+        ["lose", "<b>lost</b>", "If you <b>lost</b> your job…"],
+        ["find", "<b>found</b>", "If you <b>found</b> a wallet…"],
+        ["go", "<b>went</b>", "If we <b>went</b> by train…"],
+        ["speak", "<b>spoke</b>", "If she <b>spoke</b> German…"]
+      ],
+      "note": "Los verbos regulares solo añaden <b>-ed</b>: lived, worked, studied.",
+      "note_en": "Regular verbs just add -ed."
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "If I <b>won</b> the lottery, I<b>'d buy</b> a house for my parents.", "es": "Si me tocara la lotería, les compraría una casa a mis padres.", "icon": "🏠" },
+        { "en": "If I <b>were</b> the president, I<b>'d make</b> public transport free.", "es": "Si fuera presidente, haría gratis el transporte público.", "icon": "🚇" },
+        { "en": "If you <b>could</b> meet any famous person, who <b>would</b> it <b>be</b>?", "es": "Si pudieras conocer a cualquier famoso, ¿quién sería?", "icon": "🌟" },
+        { "en": "If my flat <b>were</b> bigger, I<b>'d invite</b> everyone for dinner.", "es": "Si mi piso fuera más grande, os invitaría a todos a cenar.", "icon": "🍝" },
+        { "en": "We<b>'d go</b> out more if we <b>didn't have</b> so much work.", "es": "Saldríamos más si no tuviéramos tanto trabajo.", "icon": "💻" },
+        { "en": "If he <b>trained</b> more, he<b>'d be</b> in the first team.", "es": "Si entrenara más, estaría en el primer equipo.", "icon": "⚽" },
+        { "en": "If I <b>didn't have</b> a phone, I<b>'d read</b> a lot more.", "es": "Si no tuviera móvil, leería mucho más.", "icon": "📖" },
+        { "en": "What <b>would</b> you <b>do</b> if you <b>saw</b> a ghost?", "es": "¿Qué harías si vieras un fantasma?", "icon": "👻" },
+        { "en": "If I <b>were</b> you, I <b>wouldn't</b> lend him any money.", "es": "Yo que tú, no le prestaría dinero.", "icon": "💰" },
+        { "en": "If the series <b>had</b> another season, I<b>'d watch</b> it.", "es": "Si la serie tuviera otra temporada, la vería.", "icon": "📺" },
+        { "en": "If dogs <b>could</b> talk, what <b>would</b> they <b>say</b>?", "es": "Si los perros pudieran hablar, ¿qué dirían?", "icon": "🐶" },
+        { "en": "If I <b>spoke</b> perfect English, I<b>'d apply</b> for a job in London.", "es": "Si hablara un inglés perfecto, pediría trabajo en Londres.", "icon": "🇬🇧" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "trampas", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "If I would have money, I'd buy it.", "good": "If I <b>had</b> money, I'd buy it.", "why": "Nunca would en la parte del if: if + pasado.", "why_en": "No would after if." },
+        { "bad": "If I was you, I'd go.", "good": "If I <b>were</b> you, I'd go.", "why": "En «If I were you» va siempre <b>were</b>.", "why_en": "Always «If I were you»." },
+        { "bad": "If I had time, I will help you.", "good": "If I had time, I<b>'d help</b> you.", "why": "No mezcles: pasado + would (no will).", "why_en": "Past + would, not will." },
+        { "bad": "If I knew, I would to tell you.", "good": "If I knew, I<b>'d tell</b> you.", "why": "would + infinitivo sin to.", "why_en": "would + verb, no to." },
+        { "bad": "If I have a car, I would drive.", "good": "If I <b>had</b> a car, I'd drive.", "why": "Con would, el if va en pasado.", "why_en": "if + past simple." },
+        { "bad": "What you would do if you won?", "good": "What <b>would you</b> do if you won?", "why": "Pregunta: would delante del sujeto.", "why_en": "would + subject." },
+        { "bad": "If I could to fly, I'd go to Japan.", "good": "If I <b>could fly</b>, I'd go to Japan.", "why": "could + infinitivo sin to.", "why_en": "could + verb, no to." },
+        { "bad": "I'd buy it if it wouldn't be so expensive.", "good": "I'd buy it if it <b>weren't</b> so expensive.", "why": "Calco de «si no fuera»: if + weren't.", "why_en": "if + weren't, not wouldn't be." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Cómo construyo la frase?", "title_en": "How do I build it?", "color": "orange",
+      "items": [
+        { "es": "¿Es <b>imaginario</b>, imposible o muy poco probable? → second. ¿Es posible y realista? → first.", "en": "Imaginary or unlikely → second. Realistic → first." },
+        { "es": "Condición: <b>if + past simple</b> (had, went, could…). Con be → <b>were</b>.", "en": "Condition: if + past simple (be → were)." },
+        { "es": "Resultado: <b>would / wouldn't + infinitivo</b> (o could / might).", "en": "Result: would / wouldn't + verb." },
+        { "es": "¿Quieres dar un consejo? Empieza con <b>If I were you, I'd…</b>", "en": "Advice → If I were you, I'd…" },
+        { "es": "Revisa: ¿hay <em>would</em> en la parte del if? ¡Quítalo! ¿Empieza con if? Pon coma.", "en": "Check: no would after if; comma if you start with if." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "¿Y si…?", "title_en": "What if…?",
+      "lines": [
+        { "who": "Marcos", "en": "What would you do if you won a million euros?", "es": "¿Qué harías si ganaras un millón de euros?" },
+        { "who": "Elena", "en": "If I won that much, I'd travel around the world for a year.", "es": "Si ganara tanto, viajaría por el mundo durante un año." },
+        { "who": "Marcos", "en": "Would you stop working?", "es": "¿Dejarías de trabajar?" },
+        { "who": "Elena", "en": "No, I wouldn't. I'd get bored if I didn't work.", "es": "No. Me aburriría si no trabajara." },
+        { "who": "Marcos", "en": "I'd buy a flat in Barcelona. If I had my own place, I'd be so happy!", "es": "Yo me compraría un piso en Barcelona. ¡Si tuviera mi propia casa, sería tan feliz!" },
+        { "who": "Elena", "en": "Well, if I were you, I'd start saving now. The lottery is a long shot!", "es": "Bueno, yo que tú, empezaría a ahorrar ya. ¡Lo de la lotería es muy difícil!" },
+        { "who": "Marcos", "en": "True. But if I didn't dream, life would be boring.", "es": "Es verdad. Pero si no soñara, la vida sería aburrida." },
+        { "who": "Elena", "en": "Fair enough!", "es": "¡En eso tienes razón!" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco: el pasado es «lejos»", "title_en": "Past = far from reality",
+      "es": "Imagina que el <b>pasado</b> en inglés es una forma de decir «<mark>lejos de la realidad</mark>». <b>If I have</b> → cerca, posible. <b>If I had</b> → lejos, imaginario. Y para traducir: <i>-ra / -se</i> del español (<i>tuviera, fuese</i>) = past simple; <i>-ría</i> (<i>haría</i>) = would.",
+      "en": "The past form = far from reality. <b>If I have</b> → possible. <b>If I had</b> → imaginary."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose", "title": "Rodea la forma correcta", "title_en": "Circle the correct form", "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta. Recuerda: if + pasado, would + infinitivo.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "If I [had|have] more money, I'd buy a new laptop.", "a": "had" },
+        { "q": "If she lived closer, we [would see|will see] each other more.", "a": "would see" },
+        { "q": "If I [were|am] you, I'd apologise.", "a": "were" },
+        { "q": "What would you do if you [found|would find] a wallet in the street?", "a": "found" },
+        { "q": "If they [didn't|don't] live so far away, we'd visit them more.", "a": "didn't" },
+        { "q": "He [wouldn't|won't] be so tired if he went to bed earlier.", "a": "wouldn't" },
+        { "q": "If I could speak Japanese, I [would work|will work] in Tokyo.", "a": "would work" },
+        { "q": "If you [asked|ask] me, I'd tell you the truth.", "a": "asked" },
+        { "q": "Would you go to the party if he [invited|invites] you?", "a": "invited" },
+        { "q": "If it [weren't|wouldn't be] so cold, we'd go for a walk.", "a": "weren't" }
+      ]
+    },
+    {
+      "t": "match", "title": "Une las dos partes", "title_en": "Match the two halves", "icon": "🔗",
+      "es": "Une cada condición imaginaria con su resultado lógico.",
+      "en": "Match each condition with its logical result.",
+      "pairs": [
+        ["If I had wings,", "I'd fly to school."],
+        ["If I were you,", "I'd go to the doctor."],
+        ["If we lived in the mountains,", "we'd go skiing every weekend."],
+        ["If she knew the answer,", "she'd tell us."],
+        ["If I didn't have homework,", "I'd play video games all evening."],
+        ["If my phone weren't broken,", "I could call you."],
+        ["If they had more money,", "they'd move to a bigger flat."],
+        ["If he spoke English,", "he could work abroad."]
+      ]
+    },
+    {
+      "t": "classify", "title": "¿First o second?", "title_en": "First or second conditional?", "icon": "🗂️",
+      "es": "Escribe cada trozo en su caja: ¿pertenece a un first conditional (posible) o a un second conditional (imaginario)?",
+      "en": "Sort the pieces: first or second conditional?",
+      "cats": [
+        { "name": "First · posible", "words": ["if I have time", "I'll help you", "if it rains", "we won't go", "unless you hurry", "she'll be late"] },
+        { "name": "Second · imaginario", "words": ["if I had time", "I'd help you", "if I were you", "we wouldn't go", "if I could fly", "she'd be happy"] }
+      ]
+    },
+    {
+      "t": "fill", "title": "Completa con el verbo", "title_en": "Complete with the verb", "icon": "✏️",
+      "es": "Pon los verbos en la forma correcta: past simple o would / wouldn't. Puedes usar la forma corta ('d).",
+      "en": "Put the verbs in the correct form: past simple or would / wouldn't.",
+      "items": [
+        { "q": "If I ____ (have) a dog, I ____ (walk) it every morning.", "a": "had · would walk" },
+        { "q": "If she ____ (be) taller, she ____ (play) volleyball.", "a": "were · would play" },
+        { "q": "We ____ (go) to the beach if it ____ (be) warmer.", "a": "would go · were" },
+        { "q": "If you ____ (not / spend) so much, you ____ (have) more money.", "a": "didn't spend · would have" },
+        { "q": "If I ____ (know) his address, I ____ (send) him a postcard.", "a": "knew · would send" },
+        { "q": "He ____ (not / be) so stressed if he ____ (sleep) more.", "a": "wouldn't be · slept" },
+        { "q": "What ____ you ____ (do) if you ____ (see) a bear?", "a": "would · do · saw" },
+        { "q": "If I ____ (can) choose, I ____ (live) in Italy.", "a": "could · would live" },
+        { "q": "If they ____ (not / live) so far away, we ____ (visit) them more often.", "a": "didn't live · would visit" },
+        { "q": "If I ____ (be) you, I ____ (not / buy) that phone.", "a": "were · wouldn't buy" }
+      ]
+    },
+    {
+      "t": "fill", "title": "WILL o WOULD", "title_en": "will or would?", "icon": "⚖️",
+      "es": "Completa con will, won't, would o wouldn't. Mira el verbo del if: ¿presente (posible) o pasado (imaginario)?",
+      "en": "Complete with will, won't, would or wouldn't.",
+      "bank": ["will", "won't", "would", "wouldn't"],
+      "items": [
+        { "q": "If it rains tomorrow, we ____ cancel the barbecue.", "a": "will" },
+        { "q": "If I were a millionaire, I ____ buy a yacht.", "a": "would" },
+        { "q": "If you don't hurry, you ____ catch the bus.", "a": "won't" },
+        { "q": "If I didn't have a car, I ____ be able to get to work.", "a": "wouldn't" },
+        { "q": "If she passes her driving test, she ____ drive us to the beach.", "a": "will" },
+        { "q": "If dogs could talk, they ____ complain about us all day.", "a": "would" },
+        { "q": "If I see Pedro later, I ____ give him your message.", "a": "will" },
+        { "q": "If we lived on the moon, we ____ need special suits.", "a": "would" }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Real o imaginario?", "title_en": "Real or imaginary?", "icon": "🤔",
+      "es": "Lee la frase. ¿Es verdadera (T) o falsa (F) la idea que va después de la flecha?",
+      "en": "Read the sentence. Is the idea after the arrow true (T) or false (F)?",
+      "items": [
+        { "q": "If I had a car, I'd drive to work. → I have a car.", "a": false, "why": "No tiene coche: es imaginario." },
+        { "q": "If I see Ana, I'll tell her. → It's possible that I'll see Ana.", "a": true },
+        { "q": "If I were taller, I'd play basketball. → I'm tall.", "a": false, "why": "No es alto." },
+        { "q": "If she knew the truth, she'd be angry. → She doesn't know the truth.", "a": true },
+        { "q": "If it rains tomorrow, we'll stay in. → Rain is possible.", "a": true },
+        { "q": "If we lived in London, we'd speak English every day. → We live in London.", "a": false, "why": "No viven en Londres." },
+        { "q": "If I won the lottery, I'd buy a boat. → I think I'll probably win.", "a": false, "why": "Lo ve muy poco probable." },
+        { "q": "If I could swim, I'd come to the pool with you. → I can't swim.", "a": true }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "De la realidad a la imaginación", "title_en": "From reality to imagination", "icon": "📋", "wide": true,
+      "es": "Lee la realidad y escribe el second conditional: la condición y el resultado.",
+      "en": "Read the real situation and write the second conditional.",
+      "head": ["Realidad · Reality", "If + past", "would / could + verb"],
+      "rows": [
+        ["I don't have time, so I don't go to the gym.", "?If I had time,", "?I'd go to the gym."],
+        ["She isn't here, so she can't help us.", "?If she were here,", "she could help us."],
+        ["It's too cold, so we don't go out.", "?If it weren't so cold,", "?we'd go out."],
+        ["I don't know her number, so I don't call her.", "?If I knew her number,", "?I'd call her."],
+        ["He doesn't study, so he fails his exams.", "If he studied,", "?he wouldn't fail his exams. / he'd pass them."],
+        ["I'm not rich, so I don't travel much.", "?If I were rich,", "?I'd travel more."]
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Imagina otra realidad", "title_en": "Imagine a different reality", "icon": "🔄",
+      "es": "Escribe una frase con el second conditional. Usa la pista entre paréntesis.",
+      "en": "Write a second conditional sentence. Use the clue.",
+      "items": [
+        { "q": "I don't have a bike, so I walk to school.", "hint": "cycle", "a": "If I had a bike, I'd cycle to school." },
+        { "q": "He doesn't speak English, so he can't get the job.", "hint": "could", "a": "If he spoke English, he could get the job." },
+        { "q": "I'm not on holiday, so I can't sleep late.", "hint": "could", "a": "If I were on holiday, I could sleep late." },
+        { "q": "We don't have a garden, so we don't have barbecues.", "hint": "would", "a": "If we had a garden, we'd have barbecues." },
+        { "q": "She works on Saturdays, so she doesn't come to the matches.", "hint": "would", "a": "If she didn't work on Saturdays, she'd come to the matches." },
+        { "q": "My laptop is old, so it's very slow.", "hint": "wouldn't", "a": "If my laptop weren't so old, it wouldn't be so slow. / If my laptop were new, it wouldn't be so slow." },
+        { "q": "I live far from the centre, so I spend hours on the bus.", "hint": "wouldn't", "a": "If I didn't live far from the centre, I wouldn't spend hours on the bus." },
+        { "q": "They don't know the way, so they get lost.", "hint": "wouldn't", "a": "If they knew the way, they wouldn't get lost." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Da un consejo", "title_en": "Give advice", "icon": "💡",
+      "es": "Tu amigo te cuenta un problema. Dale un consejo con If I were you, I'd / I wouldn't… y la pista.",
+      "en": "Give advice with If I were you…",
+      "items": [
+        { "q": "I've got a terrible headache. (take a painkiller)", "a": "If I were you, I'd take a painkiller." },
+        { "q": "My phone is really slow. (buy a new one)", "a": "If I were you, I'd buy a new one." },
+        { "q": "I'm always tired. (go to bed earlier)", "a": "If I were you, I'd go to bed earlier." },
+        { "q": "I failed my driving test. (not / give up)", "a": "If I were you, I wouldn't give up." },
+        { "q": "My boss is always angry with me. (talk to him)", "a": "If I were you, I'd talk to him." },
+        { "q": "I want to improve my English. (watch series in English)", "a": "If I were you, I'd watch series in English." },
+        { "q": "I spend too much on clothes. (not / go shopping every weekend)", "a": "If I were you, I wouldn't go shopping every weekend." },
+        { "q": "My flatmate never cleans the kitchen. (make a cleaning rota)", "a": "If I were you, I'd make a cleaning rota." }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las fichas. Pista: si hay una coma entre las fichas, la frase empieza por if.",
+      "en": "Put the words in order. If there is a comma, start with if.",
+      "items": [
+        { "q": "had / if / I / I'd / time / come / ,", "a": "If I had time, I'd come." },
+        { "q": "were / I / you / if / I'd / her / call / ,", "a": "If I were you, I'd call her." },
+        { "q": "would / do / you / what / if / won / you / the lottery / ?", "a": "What would you do if you won the lottery?" },
+        { "q": "wouldn't / I / that / buy / if / were / I / you", "a": "I wouldn't buy that if I were you." },
+        { "q": "could / we / the beach / go / to / if / it / sunny / were", "a": "We could go to the beach if it were sunny." },
+        { "q": "she / if / more / studied / she'd / pass / ,", "a": "If she studied more, she'd pass." },
+        { "q": "you / would / with me / come / if / asked / I / you / ?", "a": "Would you come with me if I asked you?" },
+        { "q": "didn't / if / they / so much / argue / they'd / happier / be / ,", "a": "If they didn't argue so much, they'd be happier." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Pregunta y responde", "title_en": "Ask and answer", "icon": "❓",
+      "es": "Escribe la pregunta con would y contesta con la pista entre paréntesis.",
+      "en": "Write the question with would and answer it.",
+      "labels": ["❓", "💬"],
+      "items": [
+        { "q": "what / you / do / if / you / win the lottery? (buy a house)", "a": ["What would you do if you won the lottery?", "I'd buy a house."] },
+        { "q": "where / you / live / if / you / can / live anywhere? (in Canada)", "a": ["Where would you live if you could live anywhere?", "I'd live in Canada."] },
+        { "q": "you / go / to the party / if / they / invite you? (YES)", "a": ["Would you go to the party if they invited you?", "Yes, I would."] },
+        { "q": "she / be angry / if / you / tell her the truth? (NO)", "a": ["Would she be angry if you told her the truth?", "No, she wouldn't."] },
+        { "q": "who / you / call / if / you / be / in trouble? (my sister)", "a": ["Who would you call if you were in trouble?", "I'd call my sister."] },
+        { "q": "what / superpower / you / choose / if / you / can? (invisibility)", "a": ["What superpower would you choose if you could?", "I'd choose invisibility."] }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "If I would know the answer, I'd tell you.", "a": "If I knew the answer, I'd tell you." },
+        { "q": "If I was you, I'd take the job.", "a": "If I were you, I'd take the job." },
+        { "q": "If she had more time, she will learn Italian.", "a": "If she had more time, she would learn Italian." },
+        { "q": "If we lived in Paris, we would to speak French.", "a": "If we lived in Paris, we would speak French." },
+        { "q": "What you would do if you lost your passport?", "a": "What would you do if you lost your passport?" },
+        { "q": "If he has more money, he'd buy a motorbike.", "a": "If he had more money, he'd buy a motorbike." },
+        { "q": "I'd go to the concert if the tickets wouldn't be so expensive.", "a": "I'd go to the concert if the tickets weren't so expensive." },
+        { "q": "If I could to choose, I'd study medicine.", "a": "If I could choose, I'd study medicine." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Truco: -ra / -se → past simple; -ría → would. ¡Ojo con la última!",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Si tuviera más tiempo, haría más deporte.", "a": ["If I had more time, I'd do more sport.", "If I had more time, I'd do more exercise."] },
+        { "q": "Yo que tú, no diría nada.", "a": "If I were you, I wouldn't say anything." },
+        { "q": "¿Qué harías si perdieras el trabajo?", "a": "What would you do if you lost your job?" },
+        { "q": "Si fuera rico, me compraría una casa en la playa.", "a": "If I were rich, I'd buy a beach house." },
+        { "q": "Si no hiciera tanto frío, iríamos al parque.", "a": "If it weren't so cold, we'd go to the park." },
+        { "q": "Si supiera su número, la llamaría.", "a": "If I knew her number, I'd call her." },
+        { "q": "Si pudiera vivir en cualquier país, viviría en Australia.", "a": "If I could live in any country, I'd live in Australia." },
+        { "q": "Ella no estaría tan cansada si durmiera más.", "a": "She wouldn't be so tired if she slept more." },
+        { "q": "Si mis padres vivieran más cerca, los vería más a menudo.", "a": "If my parents lived closer, I'd see them more often." },
+        { "q": "Si apruebo el examen, lo celebraré. (¿first o second?)", "a": "If I pass the exam, I'll celebrate." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el post. Marca T (verdadero) o F (falso) y contesta las preguntas con frases completas.",
+      "en": "Read the post. Tick T or F and answer the questions.",
+      "text_title": "What would you do with a free year?",
+      "text": [
+        "Last week we asked our followers a simple question: if you didn't have to work or study for a year, what would you do? Here are three of our favourite answers.",
+        "<b>Hugo, 24:</b> If I had a whole year free, I'd buy a van and travel around Europe. I'd sleep in the van, so I wouldn't need much money. If I got bored, I'd come home, but I don't think that would happen!",
+        "<b>Nerea, 31:</b> I'm a nurse and I love my job, but if I had a year off, I'd learn to cook properly. I'd do a course in Italy. If I were braver, I'd open my own restaurant afterwards, but I'm not sure I could do it.",
+        "<b>Tom, 17:</b> If I didn't have to study, I'd spend the year playing football. I'd train every day and maybe a big club would notice me. My mum says, «If I were you, I'd use the time to study.» Typical mum!"
+      ],
+      "items": [
+        { "q": "Hugo would travel around Europe by plane.", "tf": true, "a": false, "why": "He'd buy a van." },
+        { "q": "Hugo would need a lot of money.", "tf": true, "a": false, "why": "He'd sleep in the van, so he wouldn't need much money." },
+        { "q": "Nerea doesn't like her job.", "tf": true, "a": false, "why": "She loves her job." },
+        { "q": "Tom's mum would use the year differently.", "tf": true, "a": true },
+        { "q": "What would Nerea learn to do?", "a": "She'd learn to cook (properly)." },
+        { "q": "Where would she do a course?", "a": "She'd do a course in Italy." },
+        { "q": "What would Nerea do if she were braver?", "a": "She'd open her own restaurant." },
+        { "q": "What would Tom do every day?", "a": "He'd train (play football) every day." }
+      ]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Imagina y escribe. Usa if + pasado y would / could.",
+      "en": "Imagine and write. Use if + past and would / could.",
+      "items": [
+        { "q": "Termina la frase: <b>If I could have any job, …</b>", "lines": 1, "a": "Ej.: If I could have any job, I'd be a pilot." },
+        { "q": "Un amigo no duerme bien. Dale un consejo: <b>If I were you, …</b>", "lines": 1, "a": "Ej.: If I were you, I wouldn't look at my phone in bed." },
+        { "q": "Escribe 2 frases: una <b>first</b> (posible) y una <b>second</b> (imaginaria).", "lines": 2, "a": "Ej.: If it's sunny, I'll go to the beach. If I had a boat, I'd go sailing." },
+        { "q": "Escribe 2 preguntas <b>What would you do if…?</b> para un amigo.", "lines": 2, "a": "Ej.: What would you do if you met your favourite singer? What would you do if you could fly?" }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé formar el second conditional: <b>if + pasado, would + infinitivo</b>.", "en": "I can form the second conditional." },
+    { "es": "Entiendo que aquí el pasado significa <b>imaginario</b>, no pasado.", "en": "I know the past form means unreal, not past." },
+    { "es": "Uso <b>were</b> con todas las personas: If I were…", "en": "I use were for all persons." },
+    { "es": "Sé dar consejos con <b>If I were you, I'd…</b>", "en": "I can give advice with If I were you." },
+    { "es": "Nunca pongo <s>would</s> en la parte del if.", "en": "I never use would after if." },
+    { "es": "Distingo el <b>first</b> (posible) del <b>second</b> (imaginario).", "en": "I know the difference between first and second conditional." }
+  ]
+}

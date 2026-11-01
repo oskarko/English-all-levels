@@ -1,0 +1,1426 @@
+{
+  "id": "B1-02",
+  "level": "B1",
+  "title": "ALREADY, YET <em>y</em> JUST",
+  "file_title": "Already, yet y just",
+  "subtitle": "Already, yet, just and still · ya, todavía, acabar de",
+  "icon": "⏳",
+  "map": {
+    "center": "Con el <b>present perfect</b>, <b>already</b>, <b>yet</b>, <b>just</b> y <b>still</b> dicen si algo <b>ya</b> ha pasado… o <b>todavía no</b>.",
+    "nodes": [
+      {
+        "title": "ALREADY = ya",
+        "icon": "✅",
+        "items": [
+          "Pasó <b>antes de lo esperado</b>.",
+          "Va entre have y el participio.",
+          "I've <b>already</b> eaten. <i>(Ya he comido.)</i>"
+        ]
+      },
+      {
+        "title": "YET = ¿ya? / todavía no",
+        "icon": "❓",
+        "art": "⏳",
+        "items": [
+          "<b>Al final</b> de negativas y preguntas.",
+          "Have you paid <b>yet</b>? <i>(¿Ya has pagado?)</i>",
+          "I haven't paid <b>yet</b>. <i>(Todavía no.)</i>"
+        ]
+      },
+      {
+        "title": "JUST = acabar de",
+        "icon": "⚡",
+        "items": [
+          "Algo <b>muy reciente</b>.",
+          "Va entre have y el participio.",
+          "She's <b>just</b> left. <i>(Acaba de irse.)</i>"
+        ]
+      },
+      {
+        "title": "STILL = todavía",
+        "icon": "🐢",
+        "items": [
+          "Algo <b>sigue</b> igual (¡qué impaciencia!).",
+          "<b>Delante</b> de haven't / hasn't.",
+          "I <b>still</b> haven't paid. <i>(Aún no he pagado.)</i>"
+        ]
+      },
+      {
+        "title": "¿Dónde van?",
+        "icon": "📍",
+        "rows": [
+          [
+            "have + already / just",
+            "+ participio"
+          ],
+          [
+            "… + yet",
+            "al final"
+          ],
+          [
+            "still + haven't",
+            "delante"
+          ]
+        ]
+      },
+      {
+        "title": "Los «YA» del español",
+        "icon": "🔁",
+        "art": "💬",
+        "rows": [
+          [
+            "Ya he…",
+            "already"
+          ],
+          [
+            "¿Ya has…?",
+            "yet"
+          ],
+          [
+            "Ya no…",
+            "not … any more"
+          ]
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "I've finished yet."
+      ],
+      "good": [
+        "I've already finished."
+      ],
+      "note": "afirmativa → <b>already</b> · neg. / pregunta → <b>yet</b>"
+    },
+    "mini": {
+      "es": "Completa con already, yet, just o still.",
+      "en": "Complete with already, yet, just or still.",
+      "items": [
+        {
+          "q": "I've ___ done my homework.",
+          "a": "already",
+          "hint": "ya"
+        },
+        {
+          "q": "Have you seen the new trailer ___?",
+          "a": "yet"
+        },
+        {
+          "q": "The film has ___ started.",
+          "a": "just",
+          "hint": "acaba de"
+        },
+        {
+          "q": "I ___ haven't paid for the tickets.",
+          "a": "still"
+        },
+        {
+          "q": "She hasn't replied ___.",
+          "a": "yet"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "<b>Already</b>, <b>yet</b>, <b>just</b> y <b>still</b> son cuatro palabras pequeñas que suelen ir con el <b>present perfect</b> y que en español traducimos casi siempre con <mark>«ya»</mark>, <mark>«todavía»</mark> o <mark>«acabar de»</mark>. El problema es que «ya» y «todavía» tienen <b>varias traducciones</b> en inglés: depende de si la frase es afirmativa, negativa o pregunta. Y lo más importante: cada una tiene su <b>posición</b> fija en la frase.",
+      "en": "<b>Already</b>, <b>yet</b>, <b>just</b> and <b>still</b> often go with the present perfect. Their meaning depends on the type of sentence, and each one has a fixed <b>position</b>.",
+      "formula": [
+        "have / has + *already / just* + participio",
+        "haven't / hasn't + participio + … + *yet*",
+        "*still* + haven't / hasn't + participio"
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · ALREADY (ya)",
+      "title_en": "already",
+      "icon": "✅",
+      "color": "green",
+      "es": "<b>Already</b> = «ya». Indica que algo ha pasado <b>antes de lo que esperábamos</b> o antes de ahora. Va en frases <b>afirmativas</b>, entre <b>have/has</b> y el <b>participio</b>. En preguntas también aparece (al final), pero entonces expresa <mark>sorpresa</mark>: <i>Have you finished already?!</i> = ¡¿Ya has terminado?!",
+      "en": "<b>Already</b> = something happened sooner than expected. It goes between <b>have/has</b> and the participle. In questions it shows surprise.",
+      "formula": [
+        "Sujeto + have / has + *already* + participio"
+      ],
+      "examples": [
+        {
+          "en": "I<b>'ve already</b> booked the hotel.",
+          "es": "Ya he reservado el hotel.",
+          "icon": "🏨"
+        },
+        {
+          "en": "The match <b>has already</b> started!",
+          "es": "¡El partido ya ha empezado!",
+          "icon": "⚽"
+        },
+        {
+          "en": "Have you finished the book <b>already</b>? That was fast!",
+          "es": "¿Ya te has terminado el libro? ¡Qué rápido!",
+          "icon": "📖"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · YET (¿ya? / todavía no)",
+      "title_en": "yet",
+      "icon": "❓",
+      "color": "blue",
+      "es": "<b>Yet</b> se usa en <b>preguntas</b> («¿ya…?») y en <b>negativas</b> («todavía no»). Indica que <b>esperamos</b> que algo pase. Va siempre <mark>al final de la frase</mark>. Como respuesta corta: <b>Not yet.</b> = «Todavía no / Aún no». ¡Nunca va en afirmativa!",
+      "en": "<b>Yet</b> goes in <b>questions</b> and <b>negatives</b>, at the <b>end</b> of the sentence. We expect something to happen. Short answer: <b>Not yet.</b>",
+      "formula": [
+        "Have / Has + sujeto + participio + … + *yet?*",
+        "Sujeto + haven't / hasn't + participio + … + *yet*"
+      ],
+      "examples": [
+        {
+          "en": "Have you replied to the email <b>yet</b>?",
+          "es": "¿Ya has contestado al correo?",
+          "icon": "📧"
+        },
+        {
+          "en": "I haven't watched the last episode <b>yet</b>. No spoilers!",
+          "es": "Todavía no he visto el último capítulo. ¡Nada de spoilers!",
+          "icon": "📺"
+        },
+        {
+          "en": "Has the parcel arrived? — <b>Not yet.</b>",
+          "es": "¿Ha llegado el paquete? — Todavía no.",
+          "icon": "📦"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · JUST (acabar de)",
+      "title_en": "just",
+      "icon": "⚡",
+      "color": "orange",
+      "es": "<b>Just</b> indica que algo ha pasado <b>hace muy poco</b>. En español decimos <mark>«acabar de + infinitivo»</mark>: «acabo de llegar» = <b>I've just arrived</b>. Va entre <b>have/has</b> y el participio, igual que already. ¡No traduzcas «acabar de» palabra por palabra!",
+      "en": "<b>Just</b> = a very short time ago. It goes between <b>have/has</b> and the participle. Spanish: «acabar de + infinitivo».",
+      "formula": [
+        "Sujeto + have / has + *just* + participio"
+      ],
+      "examples": [
+        {
+          "en": "I<b>'ve just</b> arrived at the station.",
+          "es": "Acabo de llegar a la estación.",
+          "icon": "🚉"
+        },
+        {
+          "en": "She<b>'s just</b> posted a new video.",
+          "es": "Acaba de subir un vídeo nuevo.",
+          "icon": "📱"
+        },
+        {
+          "en": "We<b>'ve just</b> had lunch, thanks.",
+          "es": "Acabamos de comer, gracias.",
+          "icon": "🍽️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · STILL (todavía)",
+      "title_en": "still",
+      "icon": "🐢",
+      "color": "purple",
+      "es": "<b>Still</b> = «todavía, aún». Dice que una situación <b>continúa</b>. Con el present perfect va en negativas, <mark>delante de haven't / hasn't</mark>, y suena más <b>impaciente</b> o sorprendido que yet. También se usa en afirmativas con otros tiempos, delante del verbo principal y detrás de be: <i>I still live with my parents. She's still asleep.</i>",
+      "en": "<b>Still</b> = the situation continues. With the present perfect it goes <b>before haven't / hasn't</b> and sounds impatient. Also: I still live… / She's still asleep.",
+      "formula": [
+        "Sujeto + *still* + haven't / hasn't + participio"
+      ],
+      "examples": [
+        {
+          "en": "I <b>still</b> haven't found my keys!",
+          "es": "¡Todavía no he encontrado las llaves!",
+          "icon": "🔑"
+        },
+        {
+          "en": "My brother <b>still</b> lives with my parents.",
+          "es": "Mi hermano todavía vive con mis padres.",
+          "icon": "🏠"
+        },
+        {
+          "en": "It's midday and he's <b>still</b> in bed.",
+          "es": "Es mediodía y todavía está en la cama.",
+          "icon": "🛏️"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Resumen: significado y posición",
+      "title_en": "Summary: meaning and position",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Palabra · Word",
+        "Significado",
+        "Tipo de frase · Sentence",
+        "Posición · Position",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "<b>already</b>",
+          "ya (antes de lo esperado)",
+          "afirmativa",
+          "entre have y participio",
+          "I've <b>already</b> paid."
+        ],
+        [
+          "<b>already</b>",
+          "¡¿ya?! (sorpresa)",
+          "pregunta",
+          "al final",
+          "Have you paid <b>already</b>?"
+        ],
+        [
+          "<b>yet</b>",
+          "¿ya?",
+          "pregunta",
+          "al final",
+          "Have you paid <b>yet</b>?"
+        ],
+        [
+          "<b>yet</b>",
+          "todavía no",
+          "negativa",
+          "al final",
+          "I haven't paid <b>yet</b>."
+        ],
+        [
+          "<b>just</b>",
+          "acabar de",
+          "afirmativa",
+          "entre have y participio",
+          "I've <b>just</b> paid."
+        ],
+        [
+          "<b>still</b>",
+          "todavía (impaciencia)",
+          "negativa",
+          "delante de haven't",
+          "I <b>still</b> haven't paid."
+        ]
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Los «ya» y «todavía» del español",
+      "title_en": "Spanish ya and todavía",
+      "icon": "🔁",
+      "color": "teal",
+      "head": [
+        "Español",
+        "Inglés",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "Ya (afirmativa)",
+          "<b>already</b>",
+          "I've already eaten."
+        ],
+        [
+          "¿Ya…? (pregunta)",
+          "<b>yet</b>",
+          "Have you eaten yet?"
+        ],
+        [
+          "¡¿Ya…?! (sorpresa)",
+          "<b>already</b>",
+          "Are you back already?"
+        ],
+        [
+          "Todavía no / Aún no",
+          "<b>not … yet</b>",
+          "I haven't eaten yet."
+        ],
+        [
+          "Todavía no (¡qué rabia!)",
+          "<b>still … not</b>",
+          "I still haven't eaten!"
+        ],
+        [
+          "Todavía (sigue igual)",
+          "<b>still</b>",
+          "I'm still hungry."
+        ],
+        [
+          "Ya no",
+          "<b>not … any more</b>",
+          "I don't eat meat any more."
+        ],
+        [
+          "¡Ya! / Ya voy",
+          "<b>now</b> / I'm coming",
+          "Come here now! — I'm coming!"
+        ]
+      ],
+      "note": "«Ya» y «todavía» no tienen una traducción única: <mark>mira el tipo de frase</mark> antes de elegir. <b>Ya no</b> = <b>not … any more</b> (o <i>no longer</i>, más formal).",
+      "note_en": "There's no single translation of «ya» or «todavía»: look at the type of sentence first.",
+      "wide": true
+    },
+    {
+      "t": "compare",
+      "title": "YET o STILL",
+      "title_en": "yet or still?",
+      "color": "blue",
+      "icon": "⚖️",
+      "es": "Las dos se traducen como «todavía no», pero no suenan igual. <b>yet</b> es neutro: esperamos que pase pronto. <b>still</b> añade <b>impaciencia</b> o sorpresa: ¡ya debería haber pasado! Fíjate también en la <b>posición</b>.",
+      "en": "<b>yet</b> = neutral, at the end. <b>still</b> = impatient or surprised, before haven't / hasn't.",
+      "cols": [
+        {
+          "head": "😐 yet · neutro, al final",
+          "color": "green",
+          "items": [
+            "I haven't finished <b>yet</b>.",
+            "The bus hasn't come <b>yet</b>.",
+            "She hasn't called <b>yet</b>."
+          ]
+        },
+        {
+          "head": "😤 still · impaciente, delante",
+          "color": "red",
+          "items": [
+            "I <b>still</b> haven't finished!",
+            "The bus <b>still</b> hasn't come!",
+            "She <b>still</b> hasn't called!"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Preguntas: YET o ALREADY",
+      "title_en": "Questions: yet or already?",
+      "color": "purple",
+      "icon": "🤔",
+      "es": "En las preguntas normales usamos <b>yet</b>. Si usamos <b>already</b>, la pregunta muestra <b>sorpresa</b> porque algo ha pasado antes de lo que pensábamos.",
+      "en": "Normal question → <b>yet</b>. Surprised question → <b>already</b>.",
+      "cols": [
+        {
+          "head": "❓ yet · pregunta normal",
+          "color": "blue",
+          "items": [
+            "Have you packed <b>yet</b>?",
+            "Has the film started <b>yet</b>?",
+            "<i>(Quiero saberlo.)</i>"
+          ]
+        },
+        {
+          "head": "😲 already · ¡sorpresa!",
+          "color": "orange",
+          "items": [
+            "Have you packed <b>already</b>?!",
+            "Has the film started <b>already</b>?!",
+            "<i>(¡Qué pronto!)</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "vocab",
+      "title": "Tareas y gestiones",
+      "title_en": "Tasks and to-dos",
+      "icon": "📝",
+      "color": "pink",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "booked the flight",
+          "es": "reservado el vuelo",
+          "icon": "✈️"
+        },
+        {
+          "en": "packed my suitcase",
+          "es": "hecho la maleta",
+          "icon": "🧳"
+        },
+        {
+          "en": "sent the email",
+          "es": "enviado el correo",
+          "icon": "📧"
+        },
+        {
+          "en": "paid the bill",
+          "es": "pagado la factura",
+          "icon": "💳"
+        },
+        {
+          "en": "replied to the message",
+          "es": "contestado el mensaje",
+          "icon": "💬"
+        },
+        {
+          "en": "finished the report",
+          "es": "terminado el informe",
+          "icon": "📊"
+        },
+        {
+          "en": "watched the final",
+          "es": "visto la final",
+          "icon": "🏆"
+        },
+        {
+          "en": "downloaded the app",
+          "es": "descargado la app",
+          "icon": "📲"
+        },
+        {
+          "en": "uploaded the photos",
+          "es": "subido las fotos",
+          "icon": "📸"
+        },
+        {
+          "en": "charged my phone",
+          "es": "cargado el móvil",
+          "icon": "🔋"
+        },
+        {
+          "en": "cleaned the kitchen",
+          "es": "limpiado la cocina",
+          "icon": "🧽"
+        },
+        {
+          "en": "checked in",
+          "es": "hecho el check-in",
+          "icon": "🛂"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "I've already seen this meme three times today.",
+          "es": "Ya he visto este meme tres veces hoy.",
+          "icon": "😂"
+        },
+        {
+          "en": "Have you started your new job yet?",
+          "es": "¿Ya has empezado en tu nuevo trabajo?",
+          "icon": "💼"
+        },
+        {
+          "en": "The teacher has just given us the exam results.",
+          "es": "El profe acaba de darnos las notas del examen.",
+          "icon": "📝"
+        },
+        {
+          "en": "We still haven't decided where to go this summer.",
+          "es": "Todavía no hemos decidido adónde ir este verano.",
+          "icon": "🏖️"
+        },
+        {
+          "en": "My flight has just landed. I'll call you later.",
+          "es": "Mi vuelo acaba de aterrizar. Te llamo luego.",
+          "icon": "🛬"
+        },
+        {
+          "en": "Has Marta found a flat yet? — No, not yet.",
+          "es": "¿Marta ya ha encontrado piso? — No, todavía no.",
+          "icon": "🏢"
+        },
+        {
+          "en": "Don't order for me. I've already eaten.",
+          "es": "No pidas para mí. Ya he comido.",
+          "icon": "🍔"
+        },
+        {
+          "en": "Real Madrid have just scored!",
+          "es": "¡El Real Madrid acaba de marcar!",
+          "icon": "🥅"
+        },
+        {
+          "en": "I haven't finished my presentation yet.",
+          "es": "Todavía no he terminado mi presentación.",
+          "icon": "💻"
+        },
+        {
+          "en": "Are you still using this chair?",
+          "es": "¿Todavía estás usando esta silla?",
+          "icon": "🪑"
+        },
+        {
+          "en": "He doesn't play the guitar any more.",
+          "es": "Ya no toca la guitarra.",
+          "icon": "🎸"
+        },
+        {
+          "en": "It's 2 a.m. and the neighbours are still partying!",
+          "es": "Son las 2 de la mañana y los vecinos todavía están de fiesta.",
+          "icon": "🎉"
+        },
+        {
+          "en": "You've already spent all your money? It's only the 10th!",
+          "es": "¿Ya te has gastado todo el dinero? ¡Si estamos a día 10!",
+          "icon": "💸"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "trampas",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I've finished yet.",
+          "good": "I've <b>already</b> finished.",
+          "why": "«Ya» en afirmativa = already.",
+          "why_en": "Positive sentence → already."
+        },
+        {
+          "bad": "I haven't finished it already.",
+          "good": "I haven't finished it <b>yet</b>.",
+          "why": "«Todavía no» = not … yet.",
+          "why_en": "Negative → yet."
+        },
+        {
+          "bad": "Have you done yet your homework?",
+          "good": "Have you done your homework <b>yet</b>?",
+          "why": "yet va al final de la frase.",
+          "why_en": "yet goes at the end."
+        },
+        {
+          "bad": "I have finished just the report.",
+          "good": "I've <b>just</b> finished the report.",
+          "why": "just va entre have y el participio.",
+          "why_en": "have + just + participle."
+        },
+        {
+          "bad": "I finish of arriving.",
+          "good": "I've <b>just</b> arrived.",
+          "why": "«Acabar de» no se traduce literal: have just + participio.",
+          "why_en": "acabar de = have just."
+        },
+        {
+          "bad": "I haven't still paid.",
+          "good": "I <b>still</b> haven't paid.",
+          "why": "still va delante de haven't / hasn't.",
+          "why_en": "still + haven't."
+        },
+        {
+          "bad": "She doesn't live here already.",
+          "good": "She doesn't live here <b>any more</b>.",
+          "why": "«Ya no» = not … any more.",
+          "why_en": "ya no = not any more."
+        },
+        {
+          "bad": "Already I have booked the hotel.",
+          "good": "I've <b>already</b> booked the hotel.",
+          "why": "already no va al principio, sino en medio.",
+          "why_en": "already goes in the middle."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Qué palabra uso?",
+      "title_en": "Which word do I use?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Piensa en español: ¿«ya», «¿ya…?», «todavía no», «acabo de», «todavía», «ya no»?",
+          "en": "Think in Spanish first."
+        },
+        {
+          "es": "«Ya» en afirmativa → <b>already</b>. «¿Ya…?» en pregunta → <b>yet</b> (o <b>already</b> si te sorprende).",
+          "en": "Positive → already. Question → yet (already = surprise)."
+        },
+        {
+          "es": "«Todavía no» → <b>not … yet</b> (neutro) o <b>still + haven't</b> (impaciente).",
+          "en": "Not yet → not … yet or still haven't."
+        },
+        {
+          "es": "«Acabar de» → <b>have / has just</b> + participio. «Ya no» → <b>not … any more</b>.",
+          "en": "acabar de → have just. ya no → not … any more."
+        },
+        {
+          "es": "Colócala bien: already / just <b>en medio</b>, yet <b>al final</b>, still <b>delante</b> del auxiliar.",
+          "en": "Position: already / just in the middle, yet at the end, still before the auxiliary."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "La noche antes del viaje",
+      "title_en": "The night before the trip",
+      "lines": [
+        {
+          "who": "Marta",
+          "en": "Have you packed your suitcase yet?",
+          "es": "¿Ya has hecho la maleta?"
+        },
+        {
+          "who": "Jorge",
+          "en": "Not yet. I've just got home from work!",
+          "es": "Todavía no. ¡Acabo de llegar del trabajo!"
+        },
+        {
+          "who": "Marta",
+          "en": "OK. And have you checked in online?",
+          "es": "Vale. ¿Y has hecho el check-in online?"
+        },
+        {
+          "who": "Jorge",
+          "en": "Yes, I've already done it. I've already downloaded the boarding passes too.",
+          "es": "Sí, ya lo he hecho. También he descargado ya las tarjetas de embarque."
+        },
+        {
+          "who": "Marta",
+          "en": "Great. I still haven't booked the taxi to the airport, though.",
+          "es": "Genial. Aunque todavía no he reservado el taxi al aeropuerto."
+        },
+        {
+          "who": "Jorge",
+          "en": "Don't worry. Lucas has just texted me. He can take us.",
+          "es": "No te preocupes. Lucas me acaba de escribir. Puede llevarnos."
+        },
+        {
+          "who": "Marta",
+          "en": "Really? Has he offered already? That's so kind!",
+          "es": "¿En serio? ¿Ya se ha ofrecido? ¡Qué majo!"
+        },
+        {
+          "who": "Jorge",
+          "en": "Yes! He doesn't work on Fridays any more.",
+          "es": "¡Sí! Ya no trabaja los viernes."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del sándwich",
+      "title_en": "Sandwich trick",
+      "es": "<b>already</b> y <b>just</b> van <mark>dentro del sándwich</mark> 🥪 (have + already/just + participio); <b>yet</b> va <mark>al final</mark>, como el postre; <b>still</b>, <mark>delante</mark> de haven't. En EE. UU. oirás <i>Did you eat yet?</i>, pero en inglés británico usa el present perfect.",
+      "en": "<b>already / just</b> inside the sandwich, <b>yet</b> at the end, <b>still</b> before haven't."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct word",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "I've [already|yet] seen this episode.",
+          "a": "already"
+        },
+        {
+          "q": "I haven't finished my essay [already|yet].",
+          "a": "yet"
+        },
+        {
+          "q": "She's [just|yet] left. You can still catch her!",
+          "a": "just"
+        },
+        {
+          "q": "We [still|yet] haven't received the parcel.",
+          "a": "still"
+        },
+        {
+          "q": "Has the match started [yet|still]?",
+          "a": "yet"
+        },
+        {
+          "q": "Don't cook for me — I've [already|yet] eaten.",
+          "a": "already"
+        },
+        {
+          "q": "I [just have|have just] sent you the link.",
+          "a": "have just"
+        },
+        {
+          "q": "It's 11 a.m. and he's [still|already] in bed!",
+          "a": "still"
+        },
+        {
+          "q": "Have you replied to Ana's message [yet|just]?",
+          "a": "yet"
+        },
+        {
+          "q": "They've [already|still] sold all the tickets. What a pity!",
+          "a": "already"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Español → inglés",
+      "title_en": "Match Spanish and English",
+      "icon": "🔗",
+      "es": "Une cada frase en español con su traducción.",
+      "en": "Match the Spanish and English sentences.",
+      "pairs": [
+        [
+          "Ya he comido.",
+          "I've already eaten."
+        ],
+        [
+          "¿Ya has comido?",
+          "Have you eaten yet?"
+        ],
+        [
+          "Todavía no he comido.",
+          "I haven't eaten yet."
+        ],
+        [
+          "Acabo de comer.",
+          "I've just eaten."
+        ],
+        [
+          "Todavía tengo hambre.",
+          "I'm still hungry."
+        ],
+        [
+          "Ya no tengo hambre.",
+          "I'm not hungry any more."
+        ],
+        [
+          "¡¿Ya has terminado?!",
+          "Have you finished already?!"
+        ],
+        [
+          "Aún no.",
+          "Not yet."
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Qué palabra necesitas?",
+      "title_en": "Which word do you need?",
+      "icon": "🗂️",
+      "es": "¿Qué palabra usarías para decir cada frase en inglés? Escríbela en su caja.",
+      "en": "Which English word would you use to say each sentence?",
+      "cats": [
+        {
+          "name": "already",
+          "words": [
+            "Ya he cenado.",
+            "¡¿Ya has vuelto?!",
+            "Ya han salido."
+          ]
+        },
+        {
+          "name": "yet",
+          "words": [
+            "¿Ya has cenado?",
+            "¿Ha llegado ya Ana?",
+            "Aún no."
+          ]
+        },
+        {
+          "name": "just",
+          "words": [
+            "Acabo de cenar.",
+            "Acaba de llamar.",
+            "Acabamos de llegar."
+          ]
+        },
+        {
+          "name": "still",
+          "words": [
+            "Todavía vivo aquí.",
+            "Sigue lloviendo.",
+            "Todavía estoy en la cama."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Already o yet",
+      "title_en": "already or yet",
+      "icon": "✏️",
+      "es": "Completa con already o yet. Primero mira: ¿afirmativa, negativa o pregunta?",
+      "en": "Complete with already or yet.",
+      "bank": [
+        "already",
+        "yet"
+      ],
+      "items": [
+        {
+          "q": "I've ___ booked the hotel, so don't worry.",
+          "a": "already"
+        },
+        {
+          "q": "Have you watched the last episode ___? — No, don't tell me!",
+          "a": "yet"
+        },
+        {
+          "q": "We haven't decided where to go ___.",
+          "a": "yet"
+        },
+        {
+          "q": "Hurry up! The concert has ___ started!",
+          "a": "already"
+        },
+        {
+          "q": "Has your brother found a job ___?",
+          "a": "yet"
+        },
+        {
+          "q": "I don't need a ticket. I've ___ got one.",
+          "a": "already"
+        },
+        {
+          "q": "The parcel hasn't arrived ___.",
+          "a": "yet"
+        },
+        {
+          "q": "Leo has ___ spent all his salary, and it's only the 10th!",
+          "a": "already"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "¿Qué acaba de pasar?",
+      "title_en": "What has just happened?",
+      "icon": "⚡",
+      "es": "Completa con have / has + just + el participio del verbo entre paréntesis.",
+      "en": "Complete with have / has + just + participle.",
+      "items": [
+        {
+          "q": "Her phone is wet. She ____ (drop) it in the pool.",
+          "a": "has just dropped"
+        },
+        {
+          "q": "I'm full! I ____ (have) a huge lunch.",
+          "a": "have just had"
+        },
+        {
+          "q": "Careful, the floor is wet. Dad ____ (clean) it.",
+          "a": "has just cleaned"
+        },
+        {
+          "q": "Look outside! It ____ (start) to snow!",
+          "a": "has just started"
+        },
+        {
+          "q": "The fans are so happy. Their team ____ (win) the final.",
+          "a": [
+            "has just won",
+            "have just won"
+          ]
+        },
+        {
+          "q": "Oh no! We ____ (miss) the bus!",
+          "a": "have just missed"
+        },
+        {
+          "q": "My phone has buzzed. I ____ (get) a message.",
+          "a": "have just got"
+        },
+        {
+          "q": "Sorry, Mr Ruiz isn't here. He ____ (go) into a meeting.",
+          "a": "has just gone"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Mi lista antes del viaje",
+      "title_en": "My to-do list before the trip",
+      "icon": "📋",
+      "wide": true,
+      "es": "Mira la lista. Escribe una frase con already (✅ hecho) o con not … yet (❌ sin hacer). La primera es un ejemplo.",
+      "en": "Write a sentence with already (✅) or not … yet (❌).",
+      "head": [
+        "Tarea · Task",
+        "¿Hecho? · Done?",
+        "Frase · Sentence"
+      ],
+      "rows": [
+        [
+          "book the flight",
+          "✅",
+          "<i>I've already booked the flight.</i>"
+        ],
+        [
+          "pack my suitcase",
+          "❌",
+          "?I haven't packed my suitcase yet."
+        ],
+        [
+          "renew my passport",
+          "✅",
+          "?I've already renewed my passport."
+        ],
+        [
+          "buy travel insurance",
+          "❌",
+          "?I haven't bought travel insurance yet."
+        ],
+        [
+          "print the boarding pass",
+          "✅",
+          "?I've already printed the boarding pass."
+        ],
+        [
+          "change some money",
+          "❌",
+          "?I haven't changed any money yet."
+        ],
+        [
+          "charge my power bank",
+          "✅",
+          "?I've already charged my power bank."
+        ],
+        [
+          "water the plants",
+          "❌",
+          "?I haven't watered the plants yet."
+        ],
+        [
+          "tell my boss",
+          "✅",
+          "?I've already told my boss."
+        ]
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras. ¡Fíjate en la posición de already, yet, just y still!",
+      "en": "Put the words in order.",
+      "items": [
+        {
+          "q": "already / I've / the / paid / bill",
+          "a": "I've already paid the bill."
+        },
+        {
+          "q": "yet / finished / you / have / ?",
+          "a": "Have you finished yet?"
+        },
+        {
+          "q": "just / she's / back / come / from / the gym",
+          "a": "She's just come back from the gym."
+        },
+        {
+          "q": "haven't / still / we / an answer / received",
+          "a": "We still haven't received an answer."
+        },
+        {
+          "q": "the / hasn't / started / film / yet",
+          "a": "The film hasn't started yet."
+        },
+        {
+          "q": "just / a / message / I've / sent / you",
+          "a": "I've just sent you a message."
+        },
+        {
+          "q": "still / Marcos / found / hasn't / a flat",
+          "a": "Marcos still hasn't found a flat."
+        },
+        {
+          "q": "yet / my / replied / to / email / they / haven't",
+          "a": "They haven't replied to my email yet."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Reescribe con la palabra",
+      "title_en": "Rewrite with the word in brackets",
+      "icon": "🔄",
+      "es": "Reescribe la frase en present perfect con la palabra entre paréntesis.",
+      "en": "Rewrite the sentence with the word in brackets.",
+      "items": [
+        {
+          "q": "I finished the report two minutes ago. <b>(just)</b>",
+          "a": "I've just finished the report."
+        },
+        {
+          "q": "Lucía booked the tickets earlier than we expected. <b>(already)</b>",
+          "a": "Lucía has already booked the tickets."
+        },
+        {
+          "q": "The bus hasn't come. We're waiting for it. <b>(yet)</b>",
+          "a": "The bus hasn't come yet."
+        },
+        {
+          "q": "The bus hasn't come, and it's really late! <b>(still)</b>",
+          "a": "The bus still hasn't come."
+        },
+        {
+          "q": "Did you call the dentist? <b>(yet)</b>",
+          "a": "Have you called the dentist yet?"
+        },
+        {
+          "q": "My parents got home a moment ago. <b>(just)</b>",
+          "a": "My parents have just got home."
+        },
+        {
+          "q": "Hugo hasn't paid me back. I lent him the money in May! <b>(still)</b>",
+          "a": "Hugo still hasn't paid me back."
+        },
+        {
+          "q": "Don't buy milk. I bought some this morning. <b>(already)</b>",
+          "a": "I've already bought some milk."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pregunta y responde",
+      "title_en": "Ask and answer",
+      "icon": "❓",
+      "es": "Escribe la pregunta con yet. Después contesta: ✅ = sí, con already · ❌ = no, con not yet.",
+      "en": "Write the question with yet and answer it.",
+      "labels": [
+        "❓",
+        "💬"
+      ],
+      "items": [
+        {
+          "q": "you / do the shopping (✅)",
+          "a": [
+            "Have you done the shopping yet?",
+            "Yes, I've already done it."
+          ]
+        },
+        {
+          "q": "Pablo / call his mum (❌)",
+          "a": [
+            "Has Pablo called his mum yet?",
+            "No, not yet. / No, he hasn't called her yet."
+          ]
+        },
+        {
+          "q": "your parents / book the hotel (✅)",
+          "a": [
+            "Have your parents booked the hotel yet?",
+            "Yes, they've already booked it."
+          ]
+        },
+        {
+          "q": "the film / start (❌)",
+          "a": [
+            "Has the film started yet?",
+            "No, not yet. / No, it hasn't started yet."
+          ]
+        },
+        {
+          "q": "Ana / reply to your message (✅)",
+          "a": [
+            "Has Ana replied to your message yet?",
+            "Yes, she's already replied."
+          ]
+        },
+        {
+          "q": "you / see the new trailer (❌)",
+          "a": [
+            "Have you seen the new trailer yet?",
+            "No, not yet. / No, I haven't seen it yet."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "⚖️",
+      "es": "Lee cada afirmación y marca T (verdadero) o F (falso).",
+      "en": "Read each statement. Tick T or F.",
+      "items": [
+        {
+          "q": "«I've just eaten» means I ate a moment ago.",
+          "a": true
+        },
+        {
+          "q": "«Yet» usually goes at the end of the sentence.",
+          "a": true
+        },
+        {
+          "q": "«I've finished yet» is correct.",
+          "a": false,
+          "why": "Afirmativa → I've already finished."
+        },
+        {
+          "q": "«I still haven't paid» sounds impatient or surprised.",
+          "a": true
+        },
+        {
+          "q": "«Already» usually goes between have / has and the participle.",
+          "a": true
+        },
+        {
+          "q": "«Ya no vivo aquí» = «I don't live here already».",
+          "a": false,
+          "why": "Ya no = not … any more: I don't live here any more."
+        },
+        {
+          "q": "«Have you finished already?» can show surprise.",
+          "a": true
+        },
+        {
+          "q": "«Acabo de llegar» = «I finish of arriving».",
+          "a": false,
+          "why": "I've just arrived."
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "I've finished yet my homework.",
+          "a": "I've already finished my homework."
+        },
+        {
+          "q": "Have you seen yet the new series?",
+          "a": "Have you seen the new series yet?"
+        },
+        {
+          "q": "I haven't still paid the rent.",
+          "a": "I still haven't paid the rent."
+        },
+        {
+          "q": "She has arrived just.",
+          "a": "She has just arrived."
+        },
+        {
+          "q": "I haven't booked the tickets already.",
+          "a": "I haven't booked the tickets yet."
+        },
+        {
+          "q": "He doesn't play football already.",
+          "a": "He doesn't play football any more."
+        },
+        {
+          "q": "I finish of seeing your message.",
+          "a": "I've just seen your message."
+        },
+        {
+          "q": "We already have sent the invitations.",
+          "a": "We have already sent the invitations."
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "«Ya» y «todavía»",
+      "title_en": "Spanish ya and todavía",
+      "icon": "🔁",
+      "es": "Lee la frase en español y completa la inglesa con already, yet, still, just o any more.",
+      "en": "Complete with already, yet, still, just or any more.",
+      "bank": [
+        "already",
+        "yet",
+        "still",
+        "just",
+        "any more"
+      ],
+      "items": [
+        {
+          "q": "Ya no trabajo allí. → I don't work there ____.",
+          "a": "any more"
+        },
+        {
+          "q": "¿Ya has hecho la maleta? → Have you packed ___?",
+          "a": "yet"
+        },
+        {
+          "q": "Todavía estoy en el tren. → I'm ___ on the train.",
+          "a": "still"
+        },
+        {
+          "q": "Acaban de llamar. → They've ___ called.",
+          "a": "just"
+        },
+        {
+          "q": "Ya he visto esa peli. → I've ___ seen that film.",
+          "a": "already"
+        },
+        {
+          "q": "Todavía no he cenado. → I haven't had dinner ___.",
+          "a": "yet"
+        },
+        {
+          "q": "¡Y todavía no ha contestado! → And she ___ hasn't replied!",
+          "a": "still"
+        },
+        {
+          "q": "¿Ya estás aquí? ¡Qué rápido! → Are you here ___? That was quick!",
+          "a": "already"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿afirmativa, negativa o pregunta? ¿Dónde va la palabra?",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Ya he enviado el correo.",
+          "a": "I've already sent the email."
+        },
+        {
+          "q": "¿Ya has hecho los deberes?",
+          "a": "Have you done your homework yet?"
+        },
+        {
+          "q": "Todavía no he visto el último capítulo.",
+          "a": [
+            "I haven't seen the last episode yet.",
+            "I still haven't seen the last episode."
+          ]
+        },
+        {
+          "q": "Acabamos de llegar al hotel.",
+          "a": "We've just arrived at the hotel."
+        },
+        {
+          "q": "Mi hermano todavía vive con mis padres.",
+          "a": "My brother still lives with my parents."
+        },
+        {
+          "q": "Ya no uso Facebook.",
+          "a": [
+            "I don't use Facebook any more.",
+            "I no longer use Facebook."
+          ]
+        },
+        {
+          "q": "¿Ha empezado ya el partido? — Todavía no.",
+          "a": "Has the match started yet? — Not yet."
+        },
+        {
+          "q": "El tren acaba de salir.",
+          "a": "The train has just left."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el post de Carla. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read Carla's post. Tick T or F and answer the questions.",
+      "text_title": "Moving day! 📦",
+      "text": [
+        "Hi everyone, Carla here! It's Saturday and I'm finally moving into my first flat. It's only 10 a.m. but I've already done a lot: I've packed all my clothes, and my dad has just arrived with the van. My best friend, Nuria, has already put all my books into boxes. What a star!",
+        "But there are still some problems. The landlord still hasn't sent me the keys — he says they're “in the post”! I haven't cancelled my old internet contract yet, and I haven't bought a fridge yet either. Oh, and the removal company has just called: they're going to be late.",
+        "Have I eaten yet? No, not yet — but my mum has just brought some sandwiches. I don't live with my parents any more… but I still need them!"
+      ],
+      "items": [
+        {
+          "q": "Carla has already packed her clothes.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Nuria hasn't helped Carla yet.",
+          "tf": true,
+          "a": false,
+          "why": "She has already put Carla's books into boxes."
+        },
+        {
+          "q": "The landlord has already sent the keys.",
+          "tf": true,
+          "a": false,
+          "why": "He still hasn't sent them."
+        },
+        {
+          "q": "Has Carla cancelled her old internet contract yet?",
+          "a": "No, she hasn't (cancelled it yet)."
+        },
+        {
+          "q": "What has the removal company just done?",
+          "a": "It has just called to say they're going to be late."
+        },
+        {
+          "q": "Who has just brought some sandwiches?",
+          "a": "Her mum has."
+        },
+        {
+          "q": "Does Carla still live with her parents?",
+          "a": "No, she doesn't. She doesn't live with them any more."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre tu semana. Usa already, yet, just y still.",
+      "en": "Write about your week with already, yet, just and still.",
+      "items": [
+        {
+          "q": "Tu lista de tareas: 2 cosas que <b>ya has hecho</b> (already) y 2 que <b>todavía no</b> (yet).",
+          "lines": 3,
+          "a": "Ej.: I've already done the shopping. I've already called my grandma. I haven't cleaned my room yet. I haven't finished my project yet."
+        },
+        {
+          "q": "Escribe 2 cosas que <b>acabas de hacer</b> (just).",
+          "lines": 2,
+          "a": "Ej.: I've just had a coffee. I've just checked my messages."
+        },
+        {
+          "q": "Escribe 1 cosa que <b>todavía</b> no has hecho y que ya deberías haber hecho (still).",
+          "lines": 1,
+          "a": "Ej.: I still haven't replied to my cousin's email."
+        },
+        {
+          "q": "Escribe 3 preguntas con <i>yet</i> para un amigo antes de un viaje.",
+          "lines": 3,
+          "a": "Ej.: Have you packed yet? Have you booked the taxi yet? Have you checked the weather yet?"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Uso <b>already</b> para decir «ya» en frases afirmativas.",
+      "en": "I use already for «ya» in positive sentences."
+    },
+    {
+      "es": "Uso <b>yet</b> al final de preguntas («¿ya…?») y negativas («todavía no»).",
+      "en": "I use yet at the end of questions and negatives."
+    },
+    {
+      "es": "Digo «acabo de…» con <b>have just + participio</b>.",
+      "en": "I say «acabo de» with have just + participle."
+    },
+    {
+      "es": "Uso <b>still</b> delante de haven't / hasn't y con situaciones que continúan.",
+      "en": "I use still before haven't / hasn't and for continuing situations."
+    },
+    {
+      "es": "Traduzco «ya no» como <b>not … any more</b>.",
+      "en": "I translate «ya no» as not … any more."
+    },
+    {
+      "es": "Coloco cada palabra en su <b>sitio</b>: en medio, al final o delante.",
+      "en": "I put each word in the right position."
+    }
+  ]
+}

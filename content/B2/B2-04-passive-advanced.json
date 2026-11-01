@@ -1,0 +1,1410 @@
+{
+  "id": "B2-04",
+  "level": "B2",
+  "title": "VOZ PASIVA AVANZADA",
+  "file_title": "Voz pasiva avanzada",
+  "subtitle": "Advanced passive · todos los tiempos",
+  "icon": "🏗️",
+  "map": {
+    "center": "En la <b>PASIVA</b> importa <b>la acción o quien la recibe</b>: <b>be</b> (en el tiempo que toque) + <b>participio</b>.",
+    "nodes": [
+      {
+        "title": "Todos los tiempos",
+        "icon": "⏳",
+        "rows": [
+          [
+            "is being built",
+            "pres. continuous"
+          ],
+          [
+            "has been built",
+            "pres. perfect"
+          ],
+          [
+            "had been built",
+            "past perfect"
+          ],
+          [
+            "will be built",
+            "future"
+          ]
+        ]
+      },
+      {
+        "title": "Modales",
+        "icon": "⚙️",
+        "items": [
+          "modal + <b>be</b> + participio:",
+          "It <b>must be done</b> today.",
+          "Pasado: It <b>should have been</b> sent."
+        ]
+      },
+      {
+        "title": "Have / get sth done",
+        "icon": "✂️",
+        "art": "💇",
+        "items": [
+          "Lo hace otro por ti: I <b>had my hair cut</b>.",
+          "<b>get</b> = más informal: I <b>got</b> my car <b>fixed</b>.",
+          "Algo malo: He <b>had</b> his bike <b>stolen</b>."
+        ]
+      },
+      {
+        "title": "It is said that…",
+        "icon": "📰",
+        "items": [
+          "<b>It is said that</b> he is rich.",
+          "= He <b>is said to be</b> rich.",
+          "believe, think, know, report, expect…"
+        ]
+      },
+      {
+        "title": "¿Cuándo la uso?",
+        "icon": "🎯",
+        "items": [
+          "No sabemos o no importa quién lo hace.",
+          "Noticias, ciencia, textos formales.",
+          "<b>by</b> + agente solo si aporta información."
+        ]
+      },
+      {
+        "title": "-ing y to + infinitivo",
+        "icon": "🔁",
+        "art": "🙊",
+        "items": [
+          "I hate <b>being told</b> what to do.",
+          "She wants <b>to be promoted</b>.",
+          "Pregunta: <b>Has</b> it <b>been</b> fixed?"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "My car is repairing."
+      ],
+      "good": [
+        "My car is being repaired."
+      ],
+      "note": "El coche no repara: <b>lo reparan</b> → pasiva."
+    },
+    "mini": {
+      "es": "Completa con la pasiva.",
+      "en": "Complete with the passive.",
+      "items": [
+        {
+          "q": "The bridge ___ (build) right now.",
+          "a": "is being built"
+        },
+        {
+          "q": "The email has already ___ (send).",
+          "a": "been sent"
+        },
+        {
+          "q": "It must ___ (finish) by Friday.",
+          "a": "be finished"
+        },
+        {
+          "q": "I had my eyes ___ (test) yesterday.",
+          "a": "tested"
+        },
+        {
+          "q": "He is said ___ (be) a genius.",
+          "a": "to be"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "La <b>voz pasiva</b> pone en el centro <mark>la acción o la persona / cosa que la recibe</mark>, no a quien la hace. Ya conoces la pasiva en presente y pasado simple (<i>is made, was built</i>). En B2 la usamos en <b>todos los tiempos</b>, con <b>modales</b>, con <b>-ing</b> e <b>infinitivo</b>, en la estructura <b>have / get something done</b> y en frases impersonales del tipo <b>It is said that…</b> El truco es siempre el mismo: <b>be</b> se pone en el tiempo de la frase activa y el verbo principal va en <b>participio</b>.",
+      "en": "The passive focuses on the action or on the person / thing affected. Put <b>be</b> in the same tense as the active verb + <b>past participle</b>.",
+      "formula": [
+        "Sujeto + *be* + *participio* + (by + agente)"
+      ],
+      "wide": true
+    },
+    {
+      "t": "table",
+      "title": "La pasiva en todos los tiempos",
+      "title_en": "The passive in all tenses",
+      "icon": "⏳",
+      "color": "purple",
+      "wide": true,
+      "head": [
+        "Tiempo · Tense",
+        "Activa · Active",
+        "Pasiva · Passive",
+        "Traducción"
+      ],
+      "rows": [
+        [
+          "present simple",
+          "They <b>clean</b> the office.",
+          "The office <b>is cleaned</b>.",
+          "Se limpia la oficina."
+        ],
+        [
+          "present continuous",
+          "They <b>are cleaning</b> the office.",
+          "The office <b>is being cleaned</b>.",
+          "Están limpiando la oficina."
+        ],
+        [
+          "past simple",
+          "They <b>cleaned</b> the office.",
+          "The office <b>was cleaned</b>.",
+          "Limpiaron la oficina."
+        ],
+        [
+          "past continuous",
+          "They <b>were cleaning</b> the office.",
+          "The office <b>was being cleaned</b>.",
+          "Estaban limpiando la oficina."
+        ],
+        [
+          "present perfect",
+          "They <b>have cleaned</b> the office.",
+          "The office <b>has been cleaned</b>.",
+          "Han limpiado la oficina."
+        ],
+        [
+          "past perfect",
+          "They <b>had cleaned</b> the office.",
+          "The office <b>had been cleaned</b>.",
+          "Habían limpiado la oficina."
+        ],
+        [
+          "will",
+          "They <b>will clean</b> the office.",
+          "The office <b>will be cleaned</b>.",
+          "Limpiarán la oficina."
+        ],
+        [
+          "going to",
+          "They<b>'re going to clean</b> the office.",
+          "The office <b>is going to be cleaned</b>.",
+          "Van a limpiar la oficina."
+        ],
+        [
+          "future perfect",
+          "They <b>will have cleaned</b> it by 9.",
+          "It <b>will have been cleaned</b> by 9.",
+          "La habrán limpiado para las 9."
+        ],
+        [
+          "modal",
+          "They <b>must clean</b> the office.",
+          "The office <b>must be cleaned</b>.",
+          "Hay que limpiar la oficina."
+        ],
+        [
+          "modal perfect",
+          "They <b>should have cleaned</b> it.",
+          "It <b>should have been cleaned</b>.",
+          "Deberían haberla limpiado."
+        ]
+      ],
+      "note": "Los tiempos <b>perfect continuous</b> (<i>has been being cleaned</i>) casi no se usan en pasiva: suenan muy raros. Fíjate en la última columna: en español solemos traducir la pasiva con <b>se</b> o con la <b>3.ª persona del plural</b> (<i>limpiaron</i>).",
+      "note_en": "Perfect continuous passives are very rare. Spanish often uses <i>se</i> or an impersonal <i>they</i> instead."
+    },
+    {
+      "t": "rule",
+      "title": "1 · Continuos y perfectos: being / been",
+      "title_en": "Continuous and perfect: being / been",
+      "icon": "🧱",
+      "color": "green",
+      "es": "Dos palabras que se confunden mucho: <b>being</b> aparece en los tiempos <b>continuos</b> (<i>is <b>being</b> repaired</i> = lo están reparando ahora) y <b>been</b> en los <b>perfectos</b> (<i>has <b>been</b> repaired</i> = ya lo han reparado). Truco: <mark>continuo → being · perfecto → been</mark>.",
+      "en": "Continuous passive: <b>be + being + participle</b>. Perfect passive: <b>have + been + participle</b>.",
+      "formula": [
+        "am / is / are / was / were + *being* + participio",
+        "have / has / had + *been* + participio"
+      ],
+      "examples": [
+        {
+          "en": "My car <b>is being repaired</b> at the moment.",
+          "es": "Me están arreglando el coche ahora mismo.",
+          "icon": "🔧"
+        },
+        {
+          "en": "The match <b>was being shown</b> on TV when the power went off.",
+          "es": "Estaban retransmitiendo el partido cuando se fue la luz.",
+          "icon": "📺"
+        },
+        {
+          "en": "Three people <b>have been arrested</b> after the robbery.",
+          "es": "Han detenido a tres personas tras el robo.",
+          "icon": "🚔"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "De activa a pasiva, paso a paso",
+      "title_en": "From active to passive",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Busca el <b>objeto</b> de la frase activa: será el <b>sujeto</b> de la pasiva. <i>They are building <b>a bridge</b>.</i>",
+          "en": "Find the object: it becomes the subject."
+        },
+        {
+          "es": "Mira el <b>tiempo</b> del verbo activo: <i>are building</i> = present continuous.",
+          "en": "Identify the tense of the active verb."
+        },
+        {
+          "es": "Pon <b>be</b> en ese mismo tiempo, concordando con el nuevo sujeto: <i>is being</i>.",
+          "en": "Put be in the same tense."
+        },
+        {
+          "es": "Añade el <b>participio</b> del verbo principal: <i>A bridge is being <b>built</b>.</i>",
+          "en": "Add the past participle."
+        },
+        {
+          "es": "¿Importa quién lo hace? Solo entonces añade <b>by + agente</b>. Si es <i>people, they, someone</i>, quítalo.",
+          "en": "Add by + agent only if it matters."
+        },
+        {
+          "es": "Revisa: ¿<b>being</b> (continuo) o <b>been</b> (perfecto)? ¿Concordancia <i>is / are</i>?",
+          "en": "Check being / been and is / are."
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Modales en pasiva",
+      "title_en": "Modal passives",
+      "icon": "⚙️",
+      "color": "blue",
+      "es": "Después de un modal (<b>can, could, must, should, may, might, will, would</b>) y de <b>have to</b>, ponemos <b>be + participio</b>. Para hablar del <b>pasado</b> (críticas, deducciones, posibilidades) usamos <b>modal + have been + participio</b>. Es muy típico en normas, avisos y textos de trabajo.",
+      "en": "Modal + <b>be</b> + participle. Past: modal + <b>have been</b> + participle.",
+      "formula": [
+        "modal + *be* + participio",
+        "modal + *have been* + participio"
+      ],
+      "examples": [
+        {
+          "en": "Mobile phones <b>must be switched</b> off during the exam.",
+          "es": "Los móviles deben estar apagados durante el examen.",
+          "icon": "📵"
+        },
+        {
+          "en": "The report <b>should have been sent</b> yesterday.",
+          "es": "El informe debería haberse enviado ayer.",
+          "icon": "📊"
+        },
+        {
+          "en": "The problem <b>can't be solved</b> without more money.",
+          "es": "El problema no se puede resolver sin más dinero.",
+          "icon": "💸"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Negativas y preguntas",
+      "title_en": "Negatives and questions",
+      "icon": "❓",
+      "color": "teal",
+      "es": "La negación y las preguntas se hacen con el <b>primer auxiliar</b>: <b>hasn't been</b>, <b>wasn't being</b>, <b>won't be</b>. En las preguntas, ese auxiliar salta delante del sujeto: <i><b>Has</b> it <b>been</b> sent?</i> Si preguntas por el agente, <b>by</b> va al final: <i>Who was it written <b>by</b>?</i>",
+      "en": "Negatives and questions use the first auxiliary: <i>It hasn't been sent. Has it been sent?</i>",
+      "formula": [
+        "*Has* + sujeto + *been* + participio…?",
+        "sujeto + *hasn't been* + participio"
+      ],
+      "examples": [
+        {
+          "en": "<b>Has</b> the package <b>been delivered</b> yet?",
+          "es": "¿Ya han entregado el paquete?",
+          "icon": "📦"
+        },
+        {
+          "en": "The new hospital <b>won't be finished</b> until 2028.",
+          "es": "El nuevo hospital no estará terminado hasta 2028.",
+          "icon": "🏥"
+        },
+        {
+          "en": "Who <b>was</b> this song <b>written by</b>?",
+          "es": "¿Quién escribió esta canción?",
+          "icon": "🎵"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · -ing e infinitivo en pasiva",
+      "title_en": "Passive -ing and infinitive",
+      "icon": "🔁",
+      "color": "pink",
+      "es": "Los verbos seguidos de <b>-ing</b> o de <b>to + infinitivo</b> también tienen pasiva: <b>being + participio</b> y <b>to be + participio</b>. Sirven para cosas que <mark>nos hacen otros</mark>: <i>odio que me interrumpan</i> (el español usa <i>que + subjuntivo</i>).",
+      "en": "Passive gerund: <b>being</b> + participle. Passive infinitive: <b>to be</b> + participle.",
+      "formula": [
+        "verbo + *being* + participio",
+        "verbo + *to be* + participio"
+      ],
+      "examples": [
+        {
+          "en": "I hate <b>being interrupted</b> when I'm speaking.",
+          "es": "Odio que me interrumpan cuando hablo.",
+          "icon": "🙊"
+        },
+        {
+          "en": "She hopes <b>to be promoted</b> next year.",
+          "es": "Espera que la asciendan el año que viene.",
+          "icon": "📈"
+        },
+        {
+          "en": "Nobody likes <b>being criticised</b> in public.",
+          "es": "A nadie le gusta que lo critiquen en público.",
+          "icon": "😤"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco: el «se» español",
+      "title_en": "Tip: Spanish «se»",
+      "es": "Cuando en español digas <b>se + verbo</b> (<i>se habla, se venden, se construyó</i>) o uses la <b>3.ª persona del plural sin sujeto</b> (<i>me robaron, lo arreglaron</i>), piensa en la <mark>pasiva inglesa</mark>: <i>English <b>is spoken</b>, flats <b>are sold</b>, my phone <b>was stolen</b>, it <b>was fixed</b></i>.",
+      "en": "Spanish <i>se</i> + verb or impersonal <i>they</i> → English passive."
+    },
+    {
+      "t": "rule",
+      "title": "5 · Verbos con dos objetos",
+      "title_en": "Verbs with two objects",
+      "icon": "🎁",
+      "color": "orange",
+      "es": "Con <b>give, send, offer, show, tell, teach, pay</b>, la <mark>persona suele ser el sujeto</mark> de la pasiva: <i>I <b>was given</b> a present</i> (= <i>me regalaron</i>). En español esto no existe (<s>yo fui dado</s>). <i>A present was given to me</i> también es posible, pero menos natural.",
+      "en": "With give, send, offer, show, tell… the person usually becomes the subject.",
+      "examples": [
+        {
+          "en": "I <b>was given</b> a watch for my birthday.",
+          "es": "Me regalaron un reloj por mi cumpleaños.",
+          "icon": "⌚"
+        },
+        {
+          "en": "We <b>were shown</b> round the factory.",
+          "es": "Nos enseñaron la fábrica.",
+          "icon": "🏭"
+        },
+        {
+          "en": "She <b>has been offered</b> a job in Toronto.",
+          "es": "Le han ofrecido un trabajo en Toronto.",
+          "icon": "💼"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · have / get something done",
+      "title_en": "Have / get something done",
+      "icon": "✂️",
+      "color": "purple",
+      "es": "Usamos <b>have + objeto + participio</b> cuando <mark>otra persona hace algo por nosotros</mark>, normalmente porque le pagamos: <i>me corto el pelo</i> (en la peluquería) = <i>I <b>have my hair cut</b></i>. <b>Get</b> significa lo mismo, pero es más informal. <b>Have</b> se conjuga en todos los tiempos (<i>I'm having, I had, I've had, I'm going to have…</i>) y en preguntas y negativas necesita <b>do / does / did</b>: <i>Did you have your car serviced?</i> También se usa para cosas malas que nos pasan: <i>He had his wallet stolen</i>.",
+      "en": "<b>have / get + object + past participle</b>: someone else does it for us (or something bad happens to us).",
+      "formula": [
+        "*have / get* + objeto + *participio*"
+      ],
+      "examples": [
+        {
+          "en": "I <b>had my hair cut</b> yesterday.",
+          "es": "Ayer me corté el pelo (en la peluquería).",
+          "icon": "💇"
+        },
+        {
+          "en": "We're <b>getting the kitchen painted</b> next week.",
+          "es": "La semana que viene nos pintan la cocina.",
+          "icon": "🎨"
+        },
+        {
+          "en": "She <b>had her bag stolen</b> on the underground.",
+          "es": "Le robaron el bolso en el metro.",
+          "icon": "👜"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿Lo hago yo o me lo hacen?",
+      "title_en": "Do it yourself or have it done?",
+      "color": "blue",
+      "icon": "⚖️",
+      "es": "En español decimos <i>me corto el pelo</i> aunque lo haga el peluquero. En inglés hay que distinguir: si lo haces <b>tú mismo</b>, verbo normal; si lo hace <b>otra persona por ti</b>, <b>have / get something done</b>.",
+      "en": "Do it yourself → active verb. Someone does it for you → have / get something done.",
+      "cols": [
+        {
+          "head": "🙋 Lo hago yo · Active",
+          "color": "green",
+          "items": [
+            "I <b>cut</b> my hair. <i>(yo mismo)</i>",
+            "I <b>repaired</b> my bike.",
+            "I<b>'m going to paint</b> the house.",
+            "We <b>cleaned</b> the carpets."
+          ]
+        },
+        {
+          "head": "💇 Me lo hacen · have sth done",
+          "color": "purple",
+          "items": [
+            "I <b>had</b> my hair <b>cut</b>. <i>(peluquero)</i>",
+            "I <b>had</b> my bike <b>repaired</b>.",
+            "I'm going to <b>have</b> the house <b>painted</b>.",
+            "We <b>got</b> the carpets <b>cleaned</b>."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el taller",
+      "title_en": "At the garage",
+      "lines": [
+        {
+          "who": "Mechanic",
+          "en": "Good morning. How can I help you?",
+          "es": "Buenos días. ¿En qué puedo ayudarla?"
+        },
+        {
+          "who": "Elena",
+          "en": "Hi. I'd like to have my car serviced. It hasn't been checked for two years.",
+          "es": "Hola. Quería hacerle la revisión al coche. Hace dos años que no lo revisan."
+        },
+        {
+          "who": "Mechanic",
+          "en": "No problem. It can be done today, but it won't be ready until five.",
+          "es": "Sin problema. Se puede hacer hoy, pero no estará listo hasta las cinco."
+        },
+        {
+          "who": "Elena",
+          "en": "That's fine. Could the brakes be checked too? They make a strange noise.",
+          "es": "Vale. ¿Podrían revisar también los frenos? Hacen un ruido raro."
+        },
+        {
+          "who": "Mechanic",
+          "en": "Of course. Have they been replaced recently?",
+          "es": "Claro. ¿Se los han cambiado hace poco?"
+        },
+        {
+          "who": "Elena",
+          "en": "No, they were last replaced about four years ago, I think.",
+          "es": "No, la última vez que los cambiaron fue hace unos cuatro años, creo."
+        },
+        {
+          "who": "Mechanic",
+          "en": "Then they'll probably need to be changed. You'll be sent a text when the car is ready.",
+          "es": "Entonces probablemente haya que cambiarlos. Le mandaremos un mensaje cuando el coche esté listo."
+        },
+        {
+          "who": "Elena",
+          "en": "Perfect. Can I pay by card when I collect it?",
+          "es": "Perfecto. ¿Puedo pagar con tarjeta cuando lo recoja?"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "7 · It is said that… / He is said to…",
+      "title_en": "Impersonal passive",
+      "icon": "📰",
+      "color": "red",
+      "es": "Con verbos de opinión o información (<b>say, think, believe, know, report, expect, consider, claim</b>) hacemos una pasiva impersonal, muy típica de las <mark>noticias</mark> y de los textos formales. Equivale al español <i>se dice que, se cree que</i>. Hay dos formas:<br><b>A)</b> <b>It + is said + that</b> + frase completa.<br><b>B)</b> <b>Sujeto + is said + to + infinitivo</b>. Si la acción es anterior, <b>to have + participio</b>; si está en curso, <b>to be + -ing</b>.",
+      "en": "Impersonal passive: <b>It is said that…</b> / <b>He is said to (have)…</b> Very common in the news.",
+      "formula": [
+        "*It* + is said / believed + *that* + oración",
+        "Sujeto + is said + *to* + infinitivo",
+        "Sujeto + is said + *to have* + participio"
+      ],
+      "examples": [
+        {
+          "en": "<b>It is believed that</b> the thief escaped through the window.",
+          "es": "Se cree que el ladrón escapó por la ventana.",
+          "icon": "🪟"
+        },
+        {
+          "en": "The thief <b>is believed to have escaped</b> through the window.",
+          "es": "Se cree que el ladrón escapó por la ventana.",
+          "icon": "🦹"
+        },
+        {
+          "en": "The singer <b>is said to be working</b> on a new album.",
+          "es": "Se dice que la cantante está trabajando en un nuevo disco.",
+          "icon": "🎤"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "En las noticias y en la vida real",
+      "title_en": "In the news and in real life",
+      "items": [
+        {
+          "en": "A new species of frog has been discovered in the Amazon.",
+          "es": "Se ha descubierto una nueva especie de rana en el Amazonas.",
+          "icon": "🐸"
+        },
+        {
+          "en": "The road will be closed for repairs until Monday.",
+          "es": "La carretera estará cortada por obras hasta el lunes.",
+          "icon": "🚧"
+        },
+        {
+          "en": "The suspect is being questioned by the police.",
+          "es": "La policía está interrogando al sospechoso.",
+          "icon": "🕵️"
+        },
+        {
+          "en": "By the time the concert was announced on TV, all the tickets had been sold.",
+          "es": "Cuando anunciaron el concierto en la tele, ya se habían vendido todas las entradas.",
+          "icon": "🎫"
+        },
+        {
+          "en": "Breakfast is served from 7 to 10.",
+          "es": "El desayuno se sirve de 7 a 10.",
+          "icon": "🍳"
+        },
+        {
+          "en": "Your application is going to be reviewed next week.",
+          "es": "Van a revisar tu solicitud la semana que viene.",
+          "icon": "📋"
+        },
+        {
+          "en": "This bridge must have been built by the Romans.",
+          "es": "Este puente lo debieron de construir los romanos.",
+          "icon": "🌉"
+        },
+        {
+          "en": "I'm getting my eyes tested tomorrow.",
+          "es": "Mañana me revisan la vista.",
+          "icon": "👓"
+        },
+        {
+          "en": "We had a new boiler fitted last winter.",
+          "es": "El invierno pasado nos instalaron una caldera nueva.",
+          "icon": "🔥"
+        },
+        {
+          "en": "The Prime Minister is expected to resign today.",
+          "es": "Se espera que el primer ministro dimita hoy.",
+          "icon": "🏛️"
+        },
+        {
+          "en": "The painting is thought to have been stolen in the 1990s.",
+          "es": "Se cree que el cuadro fue robado en los años noventa.",
+          "icon": "🖼️"
+        },
+        {
+          "en": "English is spoken here.",
+          "es": "Aquí se habla inglés.",
+          "icon": "🗣️"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Pasiva impersonal: dos formas",
+      "title_en": "Impersonal passive: two ways",
+      "icon": "📰",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Activa · Active",
+        "It + pasiva + that…",
+        "Sujeto + pasiva + to…",
+        "Clave · Key"
+      ],
+      "rows": [
+        [
+          "People say he <b>is</b> rich.",
+          "It is said that he is rich.",
+          "He is said <b>to be</b> rich.",
+          "misma época → to + inf."
+        ],
+        [
+          "People think they <b>are hiding</b> in France.",
+          "It is thought that they are hiding in France.",
+          "They are thought <b>to be hiding</b> in France.",
+          "en curso → to be + -ing"
+        ],
+        [
+          "People believe the thief <b>escaped</b>.",
+          "It is believed that the thief escaped.",
+          "The thief is believed <b>to have escaped</b>.",
+          "anterior → to have + part."
+        ],
+        [
+          "Experts expect prices <b>to rise</b>.",
+          "It is expected that prices will rise.",
+          "Prices are expected <b>to rise</b>.",
+          "futuro → to + inf."
+        ],
+        [
+          "People know the house <b>was built</b> in 1850.",
+          "It is known that the house was built in 1850.",
+          "The house is known <b>to have been built</b> in 1850.",
+          "pasiva anterior → to have been + part."
+        ]
+      ],
+      "note": "La forma con <b>sujeto + to</b> es más corta y muy frecuente en los titulares. Con <b>It</b>, después de <i>that</i> va una frase normal, con su propio tiempo verbal.",
+      "note_en": "The personal form (He is said to…) is shorter and very common in the news."
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "My car is repairing.",
+          "good": "My car <b>is being repaired</b>.",
+          "why": "El coche no repara: lo reparan → <b>being</b>.",
+          "why_en": "It is being repaired."
+        },
+        {
+          "bad": "The house built in 1990.",
+          "good": "The house <b>was built</b> in 1990.",
+          "why": "Sin <b>be</b> no hay pasiva.",
+          "why_en": "No passive without be."
+        },
+        {
+          "bad": "The letter was wrote by my grandfather.",
+          "good": "The letter was <b>written</b> by my grandfather.",
+          "why": "be + <b>participio</b>, no pasado.",
+          "why_en": "Use the participle."
+        },
+        {
+          "bad": "The results have being published.",
+          "good": "The results have <b>been</b> published.",
+          "why": "Perfecto → <b>been</b>; continuo → <b>being</b>.",
+          "why_en": "Perfect → been."
+        },
+        {
+          "bad": "I cut my hair at the hairdresser's.",
+          "good": "I <b>had my hair cut</b> at the hairdresser's.",
+          "why": "Lo hace otro → <b>have sth done</b>.",
+          "why_en": "Someone else did it."
+        },
+        {
+          "bad": "It was given to me a present.",
+          "good": "<b>I was given</b> a present.",
+          "why": "La persona es el sujeto; nada de <i>it</i>.",
+          "why_en": "The person is the subject."
+        },
+        {
+          "bad": "He is said that he is very rich.",
+          "good": "<b>It is said that</b> he is very rich. / He <b>is said to be</b> very rich.",
+          "why": "No mezcles <i>It… that</i> y <i>Sujeto… to</i>.",
+          "why_en": "Don't mix structures."
+        },
+        {
+          "bad": "In this shop sell second-hand books.",
+          "good": "Second-hand books <b>are sold</b> in this shop.",
+          "why": "<i>Se venden</i> → pasiva. ¡Siempre sujeto!",
+          "why_en": "Spanish se → passive."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Rodea la forma correcta",
+      "title_en": "Circle the correct form",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta. Piensa: ¿activa o pasiva? ¿being o been?",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "The new stadium [is being built|is building] at the moment.",
+          "a": "is being built"
+        },
+        {
+          "q": "My laptop [has been stolen|has stolen]!",
+          "a": "has been stolen"
+        },
+        {
+          "q": "The results will [be published|published] next week.",
+          "a": "be published"
+        },
+        {
+          "q": "This room [hasn't been|hasn't being] cleaned for weeks.",
+          "a": "hasn't been"
+        },
+        {
+          "q": "The documents must [be signed|signed] by the manager.",
+          "a": "be signed"
+        },
+        {
+          "q": "I [had my nails done|did my nails] at a beauty salon.",
+          "a": "had my nails done"
+        },
+        {
+          "q": "She hates [being told|to tell] what to do.",
+          "a": "being told"
+        },
+        {
+          "q": "The suspect is believed [to have left|that he left] the country.",
+          "a": "to have left"
+        },
+        {
+          "q": "[It is said|He is said] that the castle is haunted.",
+          "a": "It is said"
+        },
+        {
+          "q": "We [were given|gave] a map at the entrance.",
+          "a": "were given"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une activa y pasiva",
+      "title_en": "Match active and passive",
+      "icon": "🔗",
+      "es": "Une cada frase activa con su versión pasiva.",
+      "en": "Match each active sentence with its passive.",
+      "pairs": [
+        [
+          "They are repairing the road.",
+          "The road is being repaired."
+        ],
+        [
+          "They have repaired the road.",
+          "The road has been repaired."
+        ],
+        [
+          "They had repaired the road.",
+          "The road had been repaired."
+        ],
+        [
+          "They will repair the road.",
+          "The road will be repaired."
+        ],
+        [
+          "They were repairing the road.",
+          "The road was being repaired."
+        ],
+        [
+          "They should repair the road.",
+          "The road should be repaired."
+        ],
+        [
+          "They should have repaired the road.",
+          "The road should have been repaired."
+        ],
+        [
+          "They are going to repair the road.",
+          "The road is going to be repaired."
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Qué tiempo es?",
+      "title_en": "Which tense?",
+      "icon": "🗂️",
+      "wide": true,
+      "es": "Clasifica cada forma pasiva en su caja.",
+      "en": "Sort the passive forms.",
+      "cats": [
+        {
+          "name": "Presente",
+          "words": [
+            "is checked",
+            "is being checked",
+            "are made"
+          ]
+        },
+        {
+          "name": "Pasado",
+          "words": [
+            "was checked",
+            "were being checked",
+            "was made"
+          ]
+        },
+        {
+          "name": "Perfecto",
+          "words": [
+            "has been checked",
+            "had been checked",
+            "have been made"
+          ]
+        },
+        {
+          "name": "Futuro / modal",
+          "words": [
+            "will be checked",
+            "must be made",
+            "should have been checked"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "De activa a pasiva",
+      "title_en": "From active to passive",
+      "icon": "📋",
+      "wide": true,
+      "es": "Completa la tabla: el nombre del tiempo y la frase en pasiva (sin agente).",
+      "en": "Write the tense and the passive sentence (no agent).",
+      "head": [
+        "Activa · Active",
+        "Tiempo · Tense",
+        "Pasiva · Passive"
+      ],
+      "rows": [
+        [
+          "They make cars in this factory.",
+          "present simple",
+          "?Cars are made in this factory."
+        ],
+        [
+          "They are painting the walls.",
+          "?present continuous",
+          "?The walls are being painted."
+        ],
+        [
+          "Someone stole my bike.",
+          "past simple",
+          "?My bike was stolen."
+        ],
+        [
+          "They were interviewing the singer.",
+          "?past continuous",
+          "?The singer was being interviewed."
+        ],
+        [
+          "They have cancelled the flight.",
+          "?present perfect",
+          "?The flight has been cancelled."
+        ],
+        [
+          "They had already sold the house.",
+          "past perfect",
+          "?The house had already been sold."
+        ],
+        [
+          "They will open the museum in May.",
+          "?future (will)",
+          "?The museum will be opened in May."
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "El tiempo correcto",
+      "title_en": "The right tense",
+      "icon": "⏳",
+      "es": "Escribe el verbo entre paréntesis en pasiva, en el tiempo adecuado.",
+      "en": "Put the verb into the passive, in the correct tense.",
+      "items": [
+        {
+          "q": "The Mona Lisa ____ (paint) by Leonardo da Vinci.",
+          "a": "was painted"
+        },
+        {
+          "q": "Look! The walls ____ (paint) right now.",
+          "a": "are being painted"
+        },
+        {
+          "q": "Over 200 people ____ (invite) to the wedding so far.",
+          "a": "have been invited"
+        },
+        {
+          "q": "When we arrived, all the food ____ (already / eat).",
+          "a": "had already been eaten"
+        },
+        {
+          "q": "The winners ____ (announce) tomorrow.",
+          "a": "will be announced"
+        },
+        {
+          "q": "This castle ____ (visit) by thousands of tourists every year.",
+          "a": "is visited"
+        },
+        {
+          "q": "The patient ____ (operate) on when the lights went out.",
+          "a": "was being operated"
+        },
+        {
+          "q": "The new shopping centre ____ (open) next month.",
+          "a": [
+            "will be opened",
+            "is going to be opened"
+          ]
+        },
+        {
+          "q": "Your order ____ (not / send) yet.",
+          "a": "hasn't been sent"
+        },
+        {
+          "q": "____ the windows ____ (clean) since last year?",
+          "a": "Have … been cleaned"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Modales en pasiva",
+      "title_en": "Modal passives",
+      "icon": "⚙️",
+      "es": "Completa con modal + be + participio o modal + have been + participio.",
+      "en": "Complete with a modal passive.",
+      "items": [
+        {
+          "q": "Seatbelts ____ (must / wear) at all times.",
+          "a": "must be worn"
+        },
+        {
+          "q": "This medicine ____ (should / keep) in the fridge.",
+          "a": "should be kept"
+        },
+        {
+          "q": "The problem ____ (can't / solve) easily.",
+          "a": "can't be solved"
+        },
+        {
+          "q": "The email ____ (should / send) yesterday, but I forgot.",
+          "a": "should have been sent"
+        },
+        {
+          "q": "The match ____ (might / cancel) because of the snow.",
+          "a": "might be cancelled"
+        },
+        {
+          "q": "The window ____ (must / break) by the wind last night.",
+          "a": "must have been broken"
+        },
+        {
+          "q": "The tickets ____ (can / buy) online.",
+          "a": "can be bought"
+        },
+        {
+          "q": "This mess ____ (could / avoid) if we had planned better.",
+          "a": "could have been avoided"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pásalo a pasiva",
+      "title_en": "Make it passive",
+      "icon": "🔁",
+      "es": "Escribe la frase en pasiva. Usa by + agente solo si es importante.",
+      "en": "Rewrite in the passive. Use by + agent only if necessary.",
+      "items": [
+        {
+          "q": "Someone has broken the window.",
+          "a": "The window has been broken."
+        },
+        {
+          "q": "They are building a new hospital in my town.",
+          "a": "A new hospital is being built in my town."
+        },
+        {
+          "q": "J.K. Rowling wrote the Harry Potter books.",
+          "a": "The Harry Potter books were written by J.K. Rowling."
+        },
+        {
+          "q": "They will deliver the furniture on Monday.",
+          "a": "The furniture will be delivered on Monday."
+        },
+        {
+          "q": "People must not leave bags unattended.",
+          "a": "Bags must not be left unattended."
+        },
+        {
+          "q": "The police had arrested the suspect before midnight.",
+          "a": "The suspect had been arrested (by the police) before midnight."
+        },
+        {
+          "q": "They gave me a certificate at the end of the course.",
+          "a": "I was given a certificate at the end of the course."
+        },
+        {
+          "q": "Nobody has cleaned this kitchen for weeks.",
+          "a": "This kitchen hasn't been cleaned for weeks."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "have / get something done",
+      "title_en": "Have something done",
+      "icon": "✂️",
+      "es": "Reescribe con have (o get) + objeto + participio. Empieza con las palabras dadas.",
+      "en": "Rewrite with have / get something done.",
+      "items": [
+        {
+          "q": "A hairdresser cut my hair yesterday. → I…",
+          "a": "I had (got) my hair cut yesterday."
+        },
+        {
+          "q": "A mechanic is repairing our car. → We…",
+          "a": "We are having (getting) our car repaired."
+        },
+        {
+          "q": "Someone stole her phone on the bus. → She…",
+          "a": "She had her phone stolen on the bus."
+        },
+        {
+          "q": "A photographer took our wedding photos. → We…",
+          "a": "We had our wedding photos taken."
+        },
+        {
+          "q": "An electrician is going to check our wiring. → We…",
+          "a": "We're going to have (get) our wiring checked."
+        },
+        {
+          "q": "The optician tests my eyes every year. → I…",
+          "a": "I have (get) my eyes tested every year."
+        },
+        {
+          "q": "They have just delivered my new sofa. → I…",
+          "a": "I have just had my new sofa delivered."
+        },
+        {
+          "q": "Someone should check your blood pressure. → You…",
+          "a": "You should have (get) your blood pressure checked."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Se dice que… (dos formas)",
+      "title_en": "Impersonal passive: two ways",
+      "icon": "📰",
+      "es": "Escribe cada frase de dos maneras: con <b>It… that</b> y con <b>sujeto… to</b>.",
+      "en": "Write each sentence in two ways.",
+      "labels": [
+        "It…",
+        "Sujeto…"
+      ],
+      "items": [
+        {
+          "q": "People say that the castle is haunted.",
+          "a": [
+            "It is said that the castle is haunted.",
+            "The castle is said to be haunted."
+          ]
+        },
+        {
+          "q": "People believe that the robbers escaped by boat.",
+          "a": [
+            "It is believed that the robbers escaped by boat.",
+            "The robbers are believed to have escaped by boat."
+          ]
+        },
+        {
+          "q": "Experts expect that prices will rise.",
+          "a": [
+            "It is expected that prices will rise.",
+            "Prices are expected to rise."
+          ]
+        },
+        {
+          "q": "People think the president is staying in a secret location.",
+          "a": [
+            "It is thought that the president is staying in a secret location.",
+            "The president is thought to be staying in a secret location."
+          ]
+        },
+        {
+          "q": "People know that he was a spy during the war.",
+          "a": [
+            "It is known that he was a spy during the war.",
+            "He is known to have been a spy during the war."
+          ]
+        },
+        {
+          "q": "They report that the singer has cancelled her tour.",
+          "a": [
+            "It is reported that the singer has cancelled her tour.",
+            "The singer is reported to have cancelled her tour."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras para formar frases en pasiva.",
+      "en": "Put the words in order.",
+      "items": [
+        {
+          "q": "being / the / is / road / repaired",
+          "a": "The road is being repaired."
+        },
+        {
+          "q": "been / my / has / stolen / wallet",
+          "a": "My wallet has been stolen."
+        },
+        {
+          "q": "must / be / the / finished / project / by Friday",
+          "a": "The project must be finished by Friday."
+        },
+        {
+          "q": "my / had / I / cut / hair",
+          "a": "I had my hair cut."
+        },
+        {
+          "q": "is / to / he / said / be / a genius",
+          "a": "He is said to be a genius."
+        },
+        {
+          "q": "was / a / given / I / scholarship",
+          "a": "I was given a scholarship."
+        },
+        {
+          "q": "have / should / the / been / report / sent",
+          "a": "The report should have been sent."
+        },
+        {
+          "q": "the / you / car / have / serviced / did / ?",
+          "a": "Did you have the car serviced?"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "The letter was wrote in 1920.",
+          "a": "The letter was written in 1920."
+        },
+        {
+          "q": "My bike is repairing at the moment.",
+          "a": "My bike is being repaired at the moment."
+        },
+        {
+          "q": "The new bridge will be build next year.",
+          "a": "The new bridge will be built next year."
+        },
+        {
+          "q": "The results have being published.",
+          "a": "The results have been published."
+        },
+        {
+          "q": "It was given to me a prize.",
+          "a": "I was given a prize. / A prize was given to me."
+        },
+        {
+          "q": "I cut my hair at the hairdresser's yesterday.",
+          "a": "I had (got) my hair cut at the hairdresser's yesterday."
+        },
+        {
+          "q": "He is said that he is a millionaire.",
+          "a": "It is said that he is a millionaire. / He is said to be a millionaire."
+        },
+        {
+          "q": "The thief is believed to escape last night.",
+          "a": "The thief is believed to have escaped last night."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones con palabra clave",
+      "title_en": "Key word transformations (B2 First)",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave 🔑 sin cambiarla y escribe entre 2 y 5 palabras (incluida la palabra clave).",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word unchanged and 2–5 words.",
+      "items": [
+        {
+          "q": "They are building a new airport near the city. 🔑 <b>BEING</b><br>A new airport _____ near the city.",
+          "a": "is being built"
+        },
+        {
+          "q": "Someone has stolen my phone! 🔑 <b>HAD</b><br>I've _____!",
+          "a": "had my phone stolen"
+        },
+        {
+          "q": "A professional decorator painted our flat. 🔑 <b>HAD</b><br>We _____ by a professional decorator.",
+          "a": "had our flat painted"
+        },
+        {
+          "q": "People say that the restaurant serves the best paella in town. 🔑 <b>SAID</b><br>The restaurant _____ the best paella in town.",
+          "a": "is said to serve"
+        },
+        {
+          "q": "They should have told us about the delay. 🔑 <b>BEEN</b><br>We _____ about the delay.",
+          "a": "should have been told"
+        },
+        {
+          "q": "Nobody has answered my email yet. 🔑 <b>NOT</b><br>My email _____ yet.",
+          "a": "has not been answered"
+        },
+        {
+          "q": "People believe that the ship sank in a storm. 🔑 <b>HAVE</b><br>The ship is believed _____ in a storm.",
+          "a": "to have sunk"
+        },
+        {
+          "q": "The organisers will give each runner a medal. 🔑 <b>GIVEN</b><br>Each runner _____ a medal.",
+          "a": "will be given"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Recuerda: <i>se + verbo</i> o <i>me / le + 3.ª persona plural</i> → pasiva.",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Aquí se habla inglés.",
+          "a": "English is spoken here."
+        },
+        {
+          "q": "Me robaron la cartera en el metro.",
+          "a": [
+            "I had my wallet stolen on the underground.",
+            "My wallet was stolen on the underground."
+          ]
+        },
+        {
+          "q": "Están arreglando el ascensor.",
+          "a": "The lift is being repaired (fixed)."
+        },
+        {
+          "q": "El informe debería haberse enviado ayer.",
+          "a": "The report should have been sent yesterday."
+        },
+        {
+          "q": "Me corto el pelo (en la peluquería) una vez al mes.",
+          "a": "I have (get) my hair cut once a month."
+        },
+        {
+          "q": "Se cree que el ladrón está escondido en el bosque.",
+          "a": [
+            "The thief is believed to be hiding in the forest.",
+            "It is believed that the thief is hiding in the forest."
+          ]
+        },
+        {
+          "q": "A Marta le han ofrecido un trabajo en Londres.",
+          "a": "Marta has been offered a job in London."
+        },
+        {
+          "q": "Odio que me hagan esperar.",
+          "a": "I hate being kept waiting (being made to wait)."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee la noticia. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read the news story. Tick T or F and answer the questions.",
+      "text_title": "Stolen painting found in a garage",
+      "text": [
+        "A painting stolen from a museum in Lyon in 1998 has finally been found — in a garage in the south of England. The small landscape, by a 19th-century French artist, is thought to be worth around £2 million.",
+        "The work was discovered last month while a house was being sold after the owner's death. It had been wrapped in an old blanket and hidden behind some boxes. Nobody in the family is believed to have known about it.",
+        "The painting is now being examined by experts in London, and it will be returned to the museum next spring. “We never thought it would be seen again,” said the museum director. “It's going to be shown in a special exhibition.”"
+      ],
+      "items": [
+        {
+          "q": "The painting was stolen in England.",
+          "tf": true,
+          "a": false,
+          "why": "It was stolen from a museum in Lyon (France)."
+        },
+        {
+          "q": "It was found while a house was being sold.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "The family knew the painting was in the garage.",
+          "tf": true,
+          "a": false,
+          "why": "Nobody in the family is believed to have known about it."
+        },
+        {
+          "q": "Experts are examining the painting at the moment.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "How much is the painting thought to be worth?",
+          "a": "Around £2 million."
+        },
+        {
+          "q": "Where had the painting been hidden?",
+          "a": "Behind some boxes in the garage, wrapped in an old blanket."
+        },
+        {
+          "q": "Rewrite in the active: “The painting is now being examined by experts.”",
+          "a": "Experts are now examining the painting."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre tu entorno. Usa distintos tiempos de la pasiva.",
+      "en": "Write about your world using passives.",
+      "items": [
+        {
+          "q": "3 cosas que se han hecho o se están haciendo en tu ciudad (obras, tiendas nuevas…).",
+          "lines": 2,
+          "a": "Ej.: A new metro line is being built. The old market has been renovated. Several streets have been closed to traffic."
+        },
+        {
+          "q": "2 cosas que te haces (o te hiciste) con <i>have / get something done</i>.",
+          "lines": 2,
+          "a": "Ej.: I have my hair cut every two months. Last year I had my eyes tested and got new glasses."
+        },
+        {
+          "q": "Un titular de noticia y una frase con <i>is said / is believed to</i>.",
+          "lines": 2,
+          "a": "Ej.: “Famous chef to open restaurant in Madrid.” The chef is said to be looking for a place in the city centre."
+        },
+        {
+          "q": "2 normas de tu trabajo, clase o gimnasio con modales en pasiva.",
+          "lines": 2,
+          "a": "Ej.: Phones must be switched off in class. Towels should be used on all the machines."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Formo la pasiva en <b>todos los tiempos</b>: is being done, has been done, had been done…",
+      "en": "I can use the passive in all tenses."
+    },
+    {
+      "es": "Distingo <b>being</b> (continuo) y <b>been</b> (perfecto).",
+      "en": "I can tell being from been."
+    },
+    {
+      "es": "Uso <b>modales en pasiva</b>: must be done, should have been done.",
+      "en": "I can use modal passives."
+    },
+    {
+      "es": "Uso <b>have / get something done</b> cuando otro lo hace por mí.",
+      "en": "I can use have / get something done."
+    },
+    {
+      "es": "Escribo frases impersonales: <b>It is said that…</b> / <b>He is said to…</b>",
+      "en": "I can use the impersonal passive."
+    },
+    {
+      "es": "Traduzco el <i>se</i> español con la pasiva: <i>English is spoken here.</i>",
+      "en": "I can translate Spanish se with the passive."
+    }
+  ]
+}

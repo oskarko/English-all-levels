@@ -1,0 +1,1430 @@
+{
+  "id": "A2-12",
+  "level": "A2",
+  "title": "ADVERBIOS DE MODO",
+  "file_title": "Adverbios de modo",
+  "subtitle": "Adverbs of manner · cómo hacemos las cosas",
+  "icon": "🏃",
+  "map": {
+    "center": "Los <b>adverbios de modo</b> dicen <b>cómo</b> hacemos algo: Rocky runs <b>quickly</b>. Responden a <b>How…?</b>",
+    "nodes": [
+      {
+        "title": "¿Qué son?",
+        "icon": "🔎",
+        "rows": [
+          [
+            "adjetivo",
+            "cómo <b>es</b>: a <b>slow</b> car"
+          ],
+          [
+            "adverbio",
+            "cómo se <b>hace</b>: drive <b>slowly</b>"
+          ]
+        ],
+        "after": "-ly ≈ -mente: quick<em>ly</em> = rápida<em>mente</em>"
+      },
+      {
+        "title": "Se forma con -LY",
+        "icon": "✍️",
+        "items": [
+          "quick → quick<em>ly</em> · slow → slow<em>ly</em>",
+          "careful → careful<em>ly</em> (¡dos l!)",
+          "happy → happ<em>ily</em> · easy → eas<em>ily</em>",
+          "gentle → gent<em>ly</em>"
+        ]
+      },
+      {
+        "title": "Los rebeldes",
+        "icon": "⭐",
+        "art": "🐆",
+        "rows": [
+          [
+            "good",
+            "→ <b>well</b>"
+          ],
+          [
+            "fast",
+            "→ <b>fast</b>"
+          ],
+          [
+            "hard",
+            "→ <b>hard</b>"
+          ],
+          [
+            "late / early",
+            "→ ¡no cambian!"
+          ]
+        ],
+        "after": "<s>goodly</s> <s>fastly</s> ¡no existen!"
+      },
+      {
+        "title": "¿Dónde va?",
+        "icon": "📍",
+        "items": [
+          "Detrás del verbo: She sings <b>beautifully</b>.",
+          "Verbo + objeto + <b>adverbio</b>:",
+          "He plays football <b>well</b>. <s>plays well football</s>"
+        ]
+      },
+      {
+        "title": "¿Adjetivo o adverbio?",
+        "icon": "⚖️",
+        "items": [
+          "Con <b>be / look</b> → adjetivo: You look <b>happy</b>.",
+          "Con una acción → adverbio: She talks <b>quietly</b>.",
+          "a <b>careful</b> driver → drives <b>carefully</b>"
+        ]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "art": "🐢",
+        "items": [
+          "Pregunta <b>How?</b> How does he run? — <b>Fast!</b>",
+          "<b>hardly</b> ≠ hard: hardly = casi no",
+          "very / really + adverbio: <b>really well</b>"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "He plays very good."
+      ],
+      "good": [
+        "He plays very well."
+      ],
+      "note": "good = adjetivo · <b>well</b> = adverbio"
+    },
+    "mini": {
+      "es": "Escribe el adverbio de la palabra entre paréntesis.",
+      "en": "Write the adverb.",
+      "items": [
+        {
+          "q": "Rocky runs ____.",
+          "a": "quickly",
+          "hint": "quick"
+        },
+        {
+          "q": "Lucía sings ____.",
+          "a": "beautifully",
+          "hint": "beautiful"
+        },
+        {
+          "q": "Mario plays football ____.",
+          "a": "well",
+          "hint": "good"
+        },
+        {
+          "q": "Please write ____.",
+          "a": "carefully",
+          "hint": "careful"
+        },
+        {
+          "q": "Tom works very ____.",
+          "a": "hard",
+          "hint": "hard"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Los <b>adverbios de modo</b> dicen <mark>cómo</mark> se hace algo y responden a <b>How…?</b> (¿Cómo…?). En español muchos acaban en <b>-mente</b> (rápidamente); en inglés casi todos acaban en <b>-ly</b> (quickly).",
+      "en": "Adverbs of manner tell us <mark>how</mark> we do something. They answer <b>How…?</b> Most end in <b>-ly</b>.",
+      "formula": [
+        "verbo + *adverbio*",
+        "Rocky runs + *quickly*"
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Adjetivo + -LY",
+      "title_en": "Adjective + -ly",
+      "icon": "✍️",
+      "color": "green",
+      "es": "La regla básica es muy fácil: coge el <b>adjetivo</b> y añade <em>-ly</em>. slow → slow<em>ly</em>, quiet → quiet<em>ly</em>, bad → bad<em>ly</em>. ¡Es como añadir <em>-mente</em>!",
+      "en": "Take the <b>adjective</b> and add <em>-ly</em>: slow → slowly, quiet → quietly.",
+      "formula": [
+        "adjetivo + *-ly*",
+        "slow + *-ly*"
+      ],
+      "examples": [
+        {
+          "en": "Rocky eats <b>quickly</b>.",
+          "es": "Rocky come muy rápido.",
+          "icon": "🐕"
+        },
+        {
+          "en": "Please speak <b>slowly</b>.",
+          "es": "Por favor, habla despacio.",
+          "icon": "🐢"
+        },
+        {
+          "en": "Anna sings <b>beautifully</b>.",
+          "es": "Anna canta de maravilla.",
+          "icon": "🎤"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Los rebeldes",
+      "title_en": "Irregular adverbs",
+      "icon": "⭐",
+      "color": "orange",
+      "es": "Algunos adverbios son <b>rebeldes</b> y no siguen la regla. El más importante: <mark>good → well</mark>. Y hay otros que <b>no cambian</b>: <b>fast, hard, late, early</b> son iguales como adjetivo y como adverbio. ¡<s>Goodly</s> y <s>fastly</s> no existen!",
+      "en": "Some adverbs are irregular: <mark>good → well</mark>. <b>Fast, hard, late, early</b> don't change.",
+      "examples": [
+        {
+          "en": "Mario plays the guitar <b>well</b>.",
+          "es": "Mario toca bien la guitarra.",
+          "icon": "🎸"
+        },
+        {
+          "en": "Leo runs very <b>fast</b>.",
+          "es": "Leo corre muy rápido.",
+          "icon": "🏃"
+        },
+        {
+          "en": "My mum works <b>hard</b>.",
+          "es": "Mi madre trabaja mucho.",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Tabla de rebeldes",
+      "title_en": "Irregular adverbs",
+      "icon": "🦹",
+      "color": "orange",
+      "head": [
+        "Adjetivo",
+        "Adverbio",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "good",
+          "<b>well</b>",
+          "a <b>good</b> singer → she sings <b>well</b>"
+        ],
+        [
+          "fast",
+          "<b>fast</b>",
+          "a <b>fast</b> car → it goes <b>fast</b>"
+        ],
+        [
+          "hard",
+          "<b>hard</b>",
+          "a <b>hard</b> worker → he works <b>hard</b>"
+        ],
+        [
+          "late / early",
+          "<b>late / early</b>",
+          "I get up <b>late</b> / <b>early</b>"
+        ]
+      ],
+      "note": "¡Ojo! <b>hardly</b> NO es el adverbio de hard: significa <i>casi no</i> (I can <b>hardly</b> see = casi no veo).",
+      "note_en": "Careful: <b>hardly</b> means 'almost not'."
+    },
+    {
+      "t": "table",
+      "title": "Reglas de ortografía",
+      "title_en": "Spelling rules",
+      "icon": "🔤",
+      "color": "purple",
+      "wide": true,
+      "head": [
+        "Si el adjetivo acaba en…",
+        "Qué hago",
+        "Ejemplos"
+      ],
+      "rows": [
+        [
+          "casi todos",
+          "añado <b>-ly</b>",
+          "quick → quick<em>ly</em> · slow → slow<em>ly</em> · bad → bad<em>ly</em> · loud → loud<em>ly</em>"
+        ],
+        [
+          "<b>-l</b>",
+          "añado -ly → <b>-lly</b> (¡dos l!)",
+          "careful → careful<em>ly</em> · beautiful → beautiful<em>ly</em> · real → real<em>ly</em>"
+        ],
+        [
+          "consonante + <b>-y</b>",
+          "quito la y → <b>-ily</b>",
+          "happy → happ<em>ily</em> · easy → eas<em>ily</em> · noisy → nois<em>ily</em> · angry → angr<em>ily</em>"
+        ],
+        [
+          "<b>-le</b>",
+          "quito la e → <b>-ly</b>",
+          "gentle → gent<em>ly</em> · terrible → terrib<em>ly</em> · comfortable → comfortab<em>ly</em>"
+        ],
+        [
+          "<b>-e</b> (normal)",
+          "la e se queda + <b>-ly</b>",
+          "nice → nice<em>ly</em> · polite → polite<em>ly</em> · safe → safe<em>ly</em>"
+        ]
+      ],
+      "note": "Truco de la Y: igual que en los plurales (baby → babies), si antes de la <b>y</b> hay consonante, la y se convierte en <b>i</b>: happy → happ<b>i</b>ly.",
+      "note_en": "Consonant + y → -ily: happy → happily."
+    },
+    {
+      "t": "rule",
+      "title": "3 · ¿Dónde va el adverbio?",
+      "title_en": "Position",
+      "icon": "📍",
+      "color": "blue",
+      "es": "El adverbio de modo va <mark>después del verbo</mark>. Si el verbo tiene un <b>objeto</b> (football, English, the piano…), el adverbio va <b>al final</b>, detrás del objeto. ¡Nunca lo metas entre el verbo y el objeto!",
+      "en": "The adverb goes <mark>after the verb</mark>, or after the object. Never between the verb and the object.",
+      "formula": [
+        "Sujeto + verbo + *adverbio*",
+        "Sujeto + verbo + objeto + *adverbio*"
+      ],
+      "examples": [
+        {
+          "en": "Tom swims <b>well</b>.",
+          "es": "Tom nada bien.",
+          "icon": "🏊"
+        },
+        {
+          "en": "Sara speaks English <b>perfectly</b>.",
+          "es": "Sara habla inglés perfectamente.",
+          "icon": "🇬🇧"
+        },
+        {
+          "en": "Lucía closes the door <b>quietly</b>.",
+          "es": "Lucía cierra la puerta sin hacer ruido.",
+          "icon": "🚪"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿Adjetivo o adverbio?",
+      "title_en": "Adjective or adverb?",
+      "icon": "⚖️",
+      "color": "teal",
+      "es": "El <b>adjetivo</b> describe a una <b>persona o cosa</b> (va con un nombre o detrás de <b>be</b>). El <b>adverbio</b> describe una <b>acción</b> (va con un verbo).",
+      "en": "Adjectives describe people and things. Adverbs describe actions.",
+      "cols": [
+        {
+          "head": "🧸 Adjetivo · ¿cómo es?",
+          "color": "purple",
+          "items": [
+            "Leo is a <b>fast</b> runner.",
+            "She is <b>quiet</b>.",
+            "It's an <b>easy</b> test.",
+            "He's a <b>good</b> player."
+          ]
+        },
+        {
+          "head": "🏃 Adverbio · ¿cómo lo hace?",
+          "color": "green",
+          "items": [
+            "Leo runs <b>fast</b>.",
+            "She talks <b>quietly</b>.",
+            "I can do it <b>easily</b>.",
+            "He plays <b>well</b>."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Con BE y LOOK → adjetivo",
+      "title_en": "be / look / feel + adjective",
+      "icon": "🪞",
+      "color": "pink",
+      "es": "¡Cuidado! Después de <b>be</b> (am, is, are) y de verbos como <b>look</b> (parecer), <b>feel</b> (sentirse), <b>sound</b> (sonar) o <b>smell</b> (oler), usamos el <b>adjetivo</b>, no el adverbio. Estos verbos no son acciones: dicen cómo <b>es</b> o cómo <b>parece</b> algo.",
+      "en": "After <b>be, look, feel, sound, smell</b> we use an <b>adjective</b>, not an adverb.",
+      "formula": [
+        "be / look / feel + *adjetivo*"
+      ],
+      "examples": [
+        {
+          "en": "You look <b>happy</b> today!",
+          "es": "¡Hoy pareces contento!",
+          "icon": "😊"
+        },
+        {
+          "en": "This pizza smells <b>good</b>.",
+          "es": "Esta pizza huele bien.",
+          "icon": "🍕"
+        },
+        {
+          "en": "I feel <b>tired</b> after football.",
+          "es": "Me siento cansado después del fútbol.",
+          "icon": "😴"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · VERY, REALLY y HOW?",
+      "title_en": "very, really and How?",
+      "icon": "❓",
+      "color": "purple",
+      "es": "Para hacer el adverbio más fuerte, ponemos <b>very</b> o <b>really</b> delante: very <b>quickly</b>, really <b>well</b>. Y para preguntar por el modo usamos <b>How…?</b>: <i>How does Leo run?</i>",
+      "en": "Use <b>very</b> or <b>really</b> before the adverb. Ask about manner with <b>How…?</b>",
+      "formula": [
+        "*How* + does he play?",
+        "He plays + *really well*"
+      ],
+      "examples": [
+        {
+          "en": "How does Rocky run? — <b>Very fast!</b>",
+          "es": "¿Cómo corre Rocky? — ¡Muy rápido!",
+          "icon": "🐕"
+        },
+        {
+          "en": "Anna dances <b>really well</b>.",
+          "es": "Anna baila muy bien.",
+          "icon": "💃"
+        },
+        {
+          "en": "My grandad walks <b>very slowly</b>.",
+          "es": "Mi abuelo camina muy despacio.",
+          "icon": "👴"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Los más útiles",
+      "title_en": "The most useful adverbs",
+      "icon": "🧩",
+      "color": "green",
+      "wide": true,
+      "head": [
+        "Adjetivo · Adjective",
+        "Adverbio · Adverb",
+        "Ejemplo · Example",
+        "En español"
+      ],
+      "rows": [
+        [
+          "quick",
+          "quick<em>ly</em>",
+          "Rocky eats quickly.",
+          "rápido, rápidamente"
+        ],
+        [
+          "slow",
+          "slow<em>ly</em>",
+          "Speak slowly, please.",
+          "despacio"
+        ],
+        [
+          "careful",
+          "careful<em>ly</em>",
+          "Cross the road carefully.",
+          "con cuidado"
+        ],
+        [
+          "quiet",
+          "quiet<em>ly</em>",
+          "Talk quietly in the library.",
+          "en voz baja, sin ruido"
+        ],
+        [
+          "loud",
+          "loud<em>ly</em>",
+          "The dog barks loudly.",
+          "fuerte (sonido)"
+        ],
+        [
+          "happy",
+          "happ<em>ily</em>",
+          "The children play happily.",
+          "felizmente, contentos"
+        ],
+        [
+          "easy",
+          "eas<em>ily</em>",
+          "She wins easily.",
+          "fácilmente"
+        ],
+        [
+          "beautiful",
+          "beautiful<em>ly</em>",
+          "Anna sings beautifully.",
+          "de maravilla"
+        ],
+        [
+          "bad",
+          "bad<em>ly</em>",
+          "I sing badly!",
+          "mal"
+        ],
+        [
+          "polite",
+          "polite<em>ly</em>",
+          "Ask politely.",
+          "con educación"
+        ],
+        [
+          "good",
+          "<b>well</b>",
+          "He plays well.",
+          "bien"
+        ],
+        [
+          "fast",
+          "<b>fast</b>",
+          "Leo runs fast.",
+          "rápido"
+        ],
+        [
+          "hard",
+          "<b>hard</b>",
+          "Mum works hard.",
+          "mucho, duro"
+        ]
+      ]
+    },
+    {
+      "t": "vocab",
+      "title": "¿Cómo lo hacen?",
+      "title_en": "Actions + adverbs",
+      "icon": "🎬",
+      "color": "pink",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "run fast",
+          "es": "correr rápido",
+          "icon": "🐆"
+        },
+        {
+          "en": "walk slowly",
+          "es": "andar despacio",
+          "icon": "🐢"
+        },
+        {
+          "en": "sing loudly",
+          "es": "cantar fuerte",
+          "icon": "🎤"
+        },
+        {
+          "en": "speak quietly",
+          "es": "hablar bajito",
+          "icon": "🤫"
+        },
+        {
+          "en": "drive carefully",
+          "es": "conducir con cuidado",
+          "icon": "🚗"
+        },
+        {
+          "en": "paint beautifully",
+          "es": "pintar precioso",
+          "icon": "🎨"
+        },
+        {
+          "en": "play happily",
+          "es": "jugar contento",
+          "icon": "🧸"
+        },
+        {
+          "en": "eat noisily",
+          "es": "comer haciendo ruido",
+          "icon": "🍜"
+        },
+        {
+          "en": "dance badly",
+          "es": "bailar mal",
+          "icon": "🕺"
+        },
+        {
+          "en": "sleep peacefully",
+          "es": "dormir tranquilo",
+          "icon": "😴"
+        },
+        {
+          "en": "laugh loudly",
+          "es": "reírse a carcajadas",
+          "icon": "😂"
+        },
+        {
+          "en": "work hard",
+          "es": "trabajar mucho",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "Rocky barks <b>loudly</b> when the postman comes.",
+          "es": "Rocky ladra fuerte cuando viene el cartero.",
+          "icon": "📮"
+        },
+        {
+          "en": "Lucía reads <b>quietly</b> in her room.",
+          "es": "Lucía lee en silencio en su cuarto.",
+          "icon": "📖"
+        },
+        {
+          "en": "Please carry the cake <b>carefully</b>!",
+          "es": "¡Lleva la tarta con cuidado, por favor!",
+          "icon": "🎂"
+        },
+        {
+          "en": "Sara draws <b>really well</b>.",
+          "es": "Sara dibuja muy bien.",
+          "icon": "🎨"
+        },
+        {
+          "en": "The tortoise walks <b>slowly</b>, but the hare runs <b>fast</b>.",
+          "es": "La tortuga anda despacio, pero la liebre corre rápido.",
+          "icon": "🐇"
+        },
+        {
+          "en": "We must cross the road <b>safely</b>.",
+          "es": "Tenemos que cruzar la calle con seguridad.",
+          "icon": "🚦"
+        },
+        {
+          "en": "My grandad speaks English <b>badly</b>, but he tries!",
+          "es": "Mi abuelo habla mal inglés, ¡pero lo intenta!",
+          "icon": "👴"
+        },
+        {
+          "en": "Tom always answers <b>correctly</b>.",
+          "es": "Tom siempre contesta correctamente.",
+          "icon": "✅"
+        },
+        {
+          "en": "The baby is sleeping <b>peacefully</b>.",
+          "es": "El bebé duerme tranquilamente.",
+          "icon": "👶"
+        },
+        {
+          "en": "How does Leo play football? — <b>Brilliantly</b>!",
+          "es": "¿Cómo juega Leo al fútbol? — ¡De maravilla!",
+          "icon": "⚽"
+        },
+        {
+          "en": "Anna gets up <b>early</b> and goes to bed <b>late</b>.",
+          "es": "Anna se levanta temprano y se acuesta tarde.",
+          "icon": "⏰"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "trampas",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "He plays very good.",
+          "good": "He plays very <b>well</b>.",
+          "why": "good es adjetivo; para la acción: well.",
+          "why_en": "Use well for actions."
+        },
+        {
+          "bad": "Leo runs quick.",
+          "good": "Leo runs <b>quickly</b>.",
+          "why": "«Corre rápido» → adverbio con -ly.",
+          "why_en": "Use the adverb with a verb."
+        },
+        {
+          "bad": "She speaks very well English.",
+          "good": "She speaks English <b>very well</b>.",
+          "why": "El adverbio va detrás del objeto.",
+          "why_en": "Adverb after the object."
+        },
+        {
+          "bad": "He runs fastly.",
+          "good": "He runs <b>fast</b>.",
+          "why": "fast no cambia.",
+          "why_en": "fast doesn't change."
+        },
+        {
+          "bad": "She works hardly.",
+          "good": "She works <b>hard</b>.",
+          "why": "hardly = casi no.",
+          "why_en": "hardly = almost not."
+        },
+        {
+          "bad": "You look happily.",
+          "good": "You look <b>happy</b>.",
+          "why": "Con be / look → adjetivo.",
+          "why_en": "look + adjective."
+        },
+        {
+          "bad": "Write carefuly.",
+          "good": "Write <b>carefully</b>.",
+          "why": "careful + ly = dos l.",
+          "why_en": "careful + ly = -lly."
+        },
+        {
+          "bad": "The kids play happyly.",
+          "good": "The kids play <b>happily</b>.",
+          "why": "y → ily.",
+          "why_en": "y → ily."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo lo hago?",
+      "title_en": "How do I do it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Busca el <b>verbo</b>: ¿qué acción se hace?",
+          "en": "Find the verb."
+        },
+        {
+          "es": "¿Es <b>be, look, feel</b>…? → usa el <b>adjetivo</b>: She is happy.",
+          "en": "be / look / feel → adjective."
+        },
+        {
+          "es": "¿Es una acción? → <b>adverbio</b>. Pregúntate: ¿cómo lo hace? (How?)",
+          "en": "An action → adverb. Ask How?"
+        },
+        {
+          "es": "Forma el adverbio: + ly · y → ily · le → ly · l → lly. ¿Es good, fast, hard? → <b>well, fast, hard</b>.",
+          "en": "Make the adverb. Watch the rebels."
+        },
+        {
+          "es": "Colócalo <b>después del verbo</b> o, si hay objeto, <b>al final</b>.",
+          "en": "Put it after the verb or at the end."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el entrenamiento",
+      "title_en": "At football practice",
+      "lines": [
+        {
+          "who": "Coach",
+          "en": "Mario, you're playing really well today!",
+          "es": "¡Mario, hoy estás jugando muy bien!"
+        },
+        {
+          "who": "Mario",
+          "en": "Thanks, coach! I'm trying hard.",
+          "es": "¡Gracias, entrenador! Me estoy esforzando mucho."
+        },
+        {
+          "who": "Coach",
+          "en": "Leo, don't kick the ball so hard. Pass it gently.",
+          "es": "Leo, no chutes tan fuerte. Pásala con suavidad."
+        },
+        {
+          "who": "Leo",
+          "en": "Sorry! Like this?",
+          "es": "¡Perdón! ¿Así?"
+        },
+        {
+          "who": "Coach",
+          "en": "Yes, perfect! And look carefully before you pass.",
+          "es": "¡Sí, perfecto! Y mira con atención antes de pasar."
+        },
+        {
+          "who": "Mario",
+          "en": "How does Tom play in goal?",
+          "es": "¿Cómo juega Tom de portero?"
+        },
+        {
+          "who": "Coach",
+          "en": "Very well! He moves really quickly.",
+          "es": "¡Muy bien! Se mueve muy rápido."
+        },
+        {
+          "who": "Leo",
+          "en": "And he shouts very loudly!",
+          "es": "¡Y grita muy fuerte!"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco de HOW",
+      "title_en": "The How trick",
+      "es": "¿Dudas entre adjetivo y adverbio? Mira el verbo. Si es una <b>acción</b> (run, sing, write…), pregunta <b>How?</b> → adverbio: <i>She sings beautifully.</i> Si es <b>is / are / look / feel</b> → adjetivo: <i>She is beautiful.</i> Y recuerda: <b>-ly = -mente</b>: slowly = lentamente.",
+      "en": "Action verb → adverb (How?). be / look / feel → adjective. -ly = -mente."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "tablefill",
+      "title": "Forma el adverbio",
+      "title_en": "Make the adverb",
+      "icon": "🔤",
+      "es": "Escribe el adverbio y la regla que usas: + ly · y → ily · l → lly · le → ly · irregular. Mira el ejemplo.",
+      "en": "Write the adverb and the rule.",
+      "head": [
+        "Adjetivo",
+        "Adverbio",
+        "Regla"
+      ],
+      "rows": [
+        [
+          "slow",
+          "slowly",
+          "+ ly"
+        ],
+        [
+          "happy",
+          "?happily",
+          "?y → ily"
+        ],
+        [
+          "careful",
+          "?carefully",
+          "?l → lly"
+        ],
+        [
+          "gentle",
+          "?gently",
+          "?le → ly"
+        ],
+        [
+          "good",
+          "?well",
+          "?irregular"
+        ],
+        [
+          "easy",
+          "?easily",
+          "?y → ily"
+        ],
+        [
+          "loud",
+          "?loudly",
+          "?+ ly"
+        ],
+        [
+          "fast",
+          "?fast",
+          "?irregular"
+        ],
+        [
+          "terrible",
+          "?terribly",
+          "?le → ly"
+        ],
+        [
+          "beautiful",
+          "?beautifully",
+          "?l → lly"
+        ]
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Bien o mal?",
+      "title_en": "Right or wrong?",
+      "icon": "🤔",
+      "es": "¿La frase está bien escrita? Rodea T (true, bien) o F (false, mal).",
+      "en": "Is the sentence correct? Circle T or F.",
+      "items": [
+        {
+          "q": "She sings beautiful.",
+          "a": false,
+          "why": "She sings beautifully."
+        },
+        {
+          "q": "He runs fast.",
+          "a": true
+        },
+        {
+          "q": "You look tired.",
+          "a": true
+        },
+        {
+          "q": "They play very good.",
+          "a": false,
+          "why": "They play very well."
+        },
+        {
+          "q": "Tom speaks English well.",
+          "a": true
+        },
+        {
+          "q": "Rocky eats very quick.",
+          "a": false,
+          "why": "Rocky eats very quickly."
+        },
+        {
+          "q": "She speaks well English.",
+          "a": false,
+          "why": "She speaks English well."
+        },
+        {
+          "q": "Write carefully, please.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea el adverbio",
+      "title_en": "Spell the adverb",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe el adverbio en las cajas.",
+      "en": "Unscramble the letters and write the adverb.",
+      "items": [
+        {
+          "q": "🐢 despacio",
+          "a": "slowly"
+        },
+        {
+          "q": "🤫 en silencio",
+          "a": "quietly"
+        },
+        {
+          "q": "👍 bien",
+          "a": "well"
+        },
+        {
+          "q": "😊 felizmente",
+          "a": "happily"
+        },
+        {
+          "q": "🔍 con cuidado",
+          "a": "carefully"
+        },
+        {
+          "q": "📢 fuerte (sonido)",
+          "a": "loudly"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct word",
+      "icon": "⭕",
+      "es": "Rodea la palabra correcta. Piensa: ¿describe a alguien (adjetivo) o una acción (adverbio)?",
+      "en": "Circle the correct word: adjective or adverb?",
+      "items": [
+        {
+          "q": "Rocky is a [quick|quickly] dog.",
+          "a": "quick"
+        },
+        {
+          "q": "Rocky runs [quick|quickly].",
+          "a": "quickly"
+        },
+        {
+          "q": "Please be [quiet|quietly]. The baby is asleep.",
+          "a": "quiet"
+        },
+        {
+          "q": "Lucía plays the piano [beautiful|beautifully].",
+          "a": "beautifully"
+        },
+        {
+          "q": "Leo is a [good|well] goalkeeper.",
+          "a": "good"
+        },
+        {
+          "q": "Tom draws very [good|well].",
+          "a": "well"
+        },
+        {
+          "q": "This test is [easy|easily].",
+          "a": "easy"
+        },
+        {
+          "q": "I can do this test [easy|easily].",
+          "a": "easily"
+        },
+        {
+          "q": "Grandma drives very [careful|carefully].",
+          "a": "carefully"
+        },
+        {
+          "q": "You look [sad|sadly]. What's wrong?",
+          "a": "sad"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "¿Cómo lo hacen?",
+      "title_en": "How do they do it?",
+      "icon": "🔗",
+      "es": "Une cada frase con el adverbio que mejor encaja.",
+      "en": "Match each sentence with the best adverb.",
+      "pairs": [
+        [
+          "🐌 A snail moves…",
+          "slowly."
+        ],
+        [
+          "🐆 A cheetah runs…",
+          "fast."
+        ],
+        [
+          "🦁 A lion roars…",
+          "loudly."
+        ],
+        [
+          "🐭 A mouse walks…",
+          "quietly."
+        ],
+        [
+          "💃 A ballerina dances…",
+          "beautifully."
+        ],
+        [
+          "📚 A good student works…",
+          "hard."
+        ],
+        [
+          "🥚 Carry the eggs…",
+          "carefully."
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Adjetivo o adverbio?",
+      "title_en": "Adjective or adverb?",
+      "icon": "🗂️",
+      "es": "Escribe cada palabra en su caja.",
+      "en": "Write each word in the right box.",
+      "cats": [
+        {
+          "name": "🧸 Adjetivo",
+          "words": [
+            "quick",
+            "careful",
+            "happy",
+            "good",
+            "slow",
+            "quiet"
+          ]
+        },
+        {
+          "name": "🏃 Adverbio",
+          "words": [
+            "quickly",
+            "carefully",
+            "happily",
+            "well",
+            "slowly",
+            "quietly"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe el adverbio",
+      "title_en": "Write the adverb",
+      "icon": "✏️",
+      "es": "Completa con el adverbio de la palabra entre paréntesis. ¡Ojo con los rebeldes!",
+      "en": "Complete with the adverb of the word in brackets.",
+      "items": [
+        {
+          "q": "The tortoise walks ____.",
+          "a": "slowly",
+          "hint": "slow"
+        },
+        {
+          "q": "Please close the door ____.",
+          "a": "quietly",
+          "hint": "quiet"
+        },
+        {
+          "q": "My sister sings ____.",
+          "a": "beautifully",
+          "hint": "beautiful"
+        },
+        {
+          "q": "Mario plays tennis very ____.",
+          "a": "well",
+          "hint": "good"
+        },
+        {
+          "q": "The children are playing ____.",
+          "a": "happily",
+          "hint": "happy"
+        },
+        {
+          "q": "Leo can run very ____.",
+          "a": "fast",
+          "hint": "fast"
+        },
+        {
+          "q": "Read the question ____.",
+          "a": "carefully",
+          "hint": "careful"
+        },
+        {
+          "q": "Dad works ____ every day.",
+          "a": "hard",
+          "hint": "hard"
+        },
+        {
+          "q": "Rocky barks ____ at the cat.",
+          "a": "loudly",
+          "hint": "loud"
+        },
+        {
+          "q": "Anna wins every race ____.",
+          "a": "easily",
+          "hint": "easy"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Del adjetivo al adverbio",
+      "title_en": "From adjective to adverb",
+      "icon": "🔄",
+      "es": "Cambia la frase usando un verbo y un adverbio. Ej.: Leo is a fast swimmer. → Leo swims fast.",
+      "en": "Rewrite with a verb and an adverb.",
+      "items": [
+        {
+          "q": "Leo is a fast swimmer.",
+          "a": "Leo swims fast."
+        },
+        {
+          "q": "Anna is a beautiful singer.",
+          "a": "Anna sings beautifully."
+        },
+        {
+          "q": "My uncle is a careful driver.",
+          "a": "My uncle drives carefully."
+        },
+        {
+          "q": "My mum is a good cook.",
+          "a": "My mum cooks well."
+        },
+        {
+          "q": "Sara is a quick reader.",
+          "a": "Sara reads quickly."
+        },
+        {
+          "q": "Mario is a hard worker.",
+          "a": "Mario works hard."
+        },
+        {
+          "q": "The twins are bad dancers.",
+          "a": "The twins dance badly."
+        },
+        {
+          "q": "My grandad is a slow walker.",
+          "a": "My grandad walks slowly."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pon el adverbio en su sitio",
+      "title_en": "Put the adverb in the right place",
+      "icon": "📍",
+      "es": "Escribe la frase con el adverbio en el lugar correcto: ¡detrás del objeto!",
+      "en": "Add the adverb in the right place.",
+      "items": [
+        {
+          "q": "Tom plays the piano. (well)",
+          "a": "Tom plays the piano well."
+        },
+        {
+          "q": "Lucía speaks French. (perfectly)",
+          "a": "Lucía speaks French perfectly."
+        },
+        {
+          "q": "Rocky eats his food. (quickly)",
+          "a": "Rocky eats his food quickly."
+        },
+        {
+          "q": "Please close the window. (carefully)",
+          "a": "Please close the window carefully."
+        },
+        {
+          "q": "Sara reads her book. (quietly)",
+          "a": "Sara reads her book quietly."
+        },
+        {
+          "q": "The children sing the song. (loudly)",
+          "a": "The children sing the song loudly."
+        },
+        {
+          "q": "Leo kicks the ball. (hard)",
+          "a": "Leo kicks the ball hard."
+        },
+        {
+          "q": "My grandad drives his car. (slowly)",
+          "a": "My grandad drives his car slowly."
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Cuidado con el sitio del adverbio!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {
+          "q": "quickly / runs / Rocky",
+          "a": "Rocky runs quickly."
+        },
+        {
+          "q": "well / plays / Tom / football",
+          "a": "Tom plays football well."
+        },
+        {
+          "q": "English / speaks / perfectly / Sara",
+          "a": "Sara speaks English perfectly."
+        },
+        {
+          "q": "the door / quietly / closes / Lucía",
+          "a": "Lucía closes the door quietly."
+        },
+        {
+          "q": "does / sing / how / Anna / ?",
+          "a": "How does Anna sing?"
+        },
+        {
+          "q": "very / my / slowly / grandad / walks",
+          "a": "My grandad walks very slowly."
+        },
+        {
+          "q": "carefully / the road / cross / must / you",
+          "a": "You must cross the road carefully."
+        },
+        {
+          "q": "really / Leo / fast / runs",
+          "a": "Leo runs really fast."
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "Mario plays the guitar very good.",
+          "a": "Mario plays the guitar very well."
+        },
+        {
+          "q": "The dog runs quick.",
+          "a": "The dog runs quickly."
+        },
+        {
+          "q": "She speaks very well French.",
+          "a": "She speaks French very well."
+        },
+        {
+          "q": "Leo works hardly.",
+          "a": "Leo works hard."
+        },
+        {
+          "q": "My teacher drives carefuly.",
+          "a": "My teacher drives carefully."
+        },
+        {
+          "q": "You look happily today!",
+          "a": "You look happy today!"
+        },
+        {
+          "q": "The kids play happyly.",
+          "a": "The kids play happily."
+        },
+        {
+          "q": "He runs very fastly.",
+          "a": "He runs very fast."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿acción (adverbio) o be / look (adjetivo)? ¿Dónde va el adverbio?",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Rocky corre rápido.",
+          "a": "Rocky runs fast. / Rocky runs quickly."
+        },
+        {
+          "q": "Habla despacio, por favor.",
+          "a": "Speak slowly, please."
+        },
+        {
+          "q": "Mi hermana canta muy bien.",
+          "a": "My sister sings very well."
+        },
+        {
+          "q": "Leo juega muy bien al fútbol.",
+          "a": "Leo plays football very well."
+        },
+        {
+          "q": "Escribe con cuidado.",
+          "a": "Write carefully."
+        },
+        {
+          "q": "Los niños juegan contentos en el parque.",
+          "a": "The children play happily in the park."
+        },
+        {
+          "q": "Mi padre trabaja mucho.",
+          "hint": "trabajar duro",
+          "a": "My dad works hard."
+        },
+        {
+          "q": "Pareces cansado.",
+          "hint": "¡look + adjetivo!",
+          "a": "You look tired."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "Sports Day",
+      "text": [
+        "It's Sports Day at Mario's school and everybody is on the field. Leo is in the first race. He runs really fast and he wins easily! Sara is in the long jump. She jumps very well, but she doesn't win.",
+        "Mario is in the egg-and-spoon race. He walks slowly and carefully because he doesn't want to drop his egg. Tom isn't careful. He runs quickly and his egg falls on the grass! Everybody laughs loudly. Lucía and her friends cheer happily, and Mario wins the race. Rocky barks excitedly. What a great day!"
+      ],
+      "items": [
+        {
+          "q": "Leo runs slowly in the first race.",
+          "tf": true,
+          "a": false,
+          "why": "He runs really fast."
+        },
+        {
+          "q": "Sara jumps very well.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Mario walks quickly in the egg-and-spoon race.",
+          "tf": true,
+          "a": false,
+          "why": "He walks slowly and carefully."
+        },
+        {
+          "q": "Why does Mario walk carefully?",
+          "a": "Because he doesn't want to drop his egg."
+        },
+        {
+          "q": "How does Tom run?",
+          "a": "He runs quickly."
+        },
+        {
+          "q": "What happens to Tom's egg?",
+          "a": "It falls on the grass."
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca los 9 adverbios. Después escribe dos frases sobre ti con dos de ellos.",
+      "en": "Find the 9 adverbs. Then write two sentences about you.",
+      "words": [
+        "slowly",
+        "quickly",
+        "well",
+        "fast",
+        "hard",
+        "loudly",
+        "quietly",
+        "happily",
+        "carefully"
+      ],
+      "clues": [
+        "slowly · despacio",
+        "quickly · rápidamente",
+        "well · bien",
+        "fast · rápido",
+        "hard · mucho, duro",
+        "loudly · fuerte",
+        "quietly · en silencio",
+        "happily · felizmente",
+        "carefully · con cuidado"
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre ti y los tuyos con adverbios de modo.",
+      "en": "Write about you and your family with adverbs.",
+      "items": [
+        {
+          "q": "Escribe 2 cosas que haces <b>bien</b>: I … well.",
+          "lines": 2,
+          "a": "Ej.: I swim well. I draw well."
+        },
+        {
+          "q": "Escribe 2 cosas que haces <b>mal</b> 😅: I … badly.",
+          "lines": 2,
+          "a": "Ej.: I sing badly. I cook badly."
+        },
+        {
+          "q": "¿Cómo hace las cosas Rocky (o tu mascota)? Usa 2 adverbios.",
+          "lines": 2,
+          "a": "Ej.: Rocky runs fast. He eats noisily."
+        },
+        {
+          "q": "Describe a un amigo con un adjetivo y un adverbio.",
+          "lines": 2,
+          "a": "Ej.: Leo is a fast runner. He runs really fast."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé que el adverbio de modo dice <b>cómo</b> se hace algo (How?).",
+      "en": "I know adverbs of manner say how we do things."
+    },
+    {
+      "es": "Sé formar adverbios con <b>-ly</b>, <b>-ily</b> y <b>-lly</b>.",
+      "en": "I can make adverbs with -ly, -ily and -lly."
+    },
+    {
+      "es": "Sé los rebeldes: good → <b>well</b>, fast → <b>fast</b>, hard → <b>hard</b>.",
+      "en": "I know the irregular adverbs."
+    },
+    {
+      "es": "Pongo el adverbio <b>después del verbo</b> o <b>al final</b>: I speak English <b>well</b>.",
+      "en": "I put the adverb after the verb or the object."
+    },
+    {
+      "es": "Uso el <b>adjetivo</b> con be / look / feel: You look <b>happy</b>.",
+      "en": "I use adjectives after be, look and feel."
+    },
+    {
+      "es": "Nunca escribo <s>fastly</s> ni <s>plays very good</s>.",
+      "en": "I never write fastly or plays very good."
+    }
+  ]
+}

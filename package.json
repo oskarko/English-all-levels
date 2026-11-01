@@ -1,0 +1,19 @@
+{
+  "name": "english-all-levels",
+  "version": "1.0.0",
+  "description": "Mario's English Maps: mapas mentales de gramática inglesa en PDF del A1 al C2, con explicaciones en español e inglés, ejercicios y solucionario.",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "build": "node tools/build.mjs all --book",
+    "validate": "node tools/validate.mjs content/A1 content/A2 content/B1 content/B2 content/C1 content/C2"
+  },
+  "keywords": ["english", "inglés", "grammar", "gramática", "mind maps", "mapas mentales", "ESL", "worksheets", "fichas", "A1", "A2", "B1", "B2", "C1", "C2", "Cambridge"],
+  "author": "Óscar R. Garrucho (oskarko)",
+  "license": "MIT AND CC-BY-4.0",
+  "repository": { "type": "git", "url": "https://github.com/oskarko/English-all-levels.git" },
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "puppeteer-core": "^23.11.1"
+  }
+}

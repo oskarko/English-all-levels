@@ -1,0 +1,440 @@
+{
+  "id": "B1-10",
+  "level": "B1",
+  "title": "USED TO",
+  "file_title": "Used to",
+  "subtitle": "Used to · antes solía…, antes hacía…",
+  "icon": "📼",
+  "map": {
+    "center": "Usamos <b>USED TO</b> para hablar de <b>hábitos y situaciones del pasado</b> que <b>ya no</b> son así.",
+    "nodes": [
+      {
+        "title": "¿Qué significa?", "icon": "🔎", "art": "📼",
+        "items": ["Algo que pasaba <b>antes</b> (muchas veces) y <b>ahora no</b>.", "I <b>used to</b> play the piano. <i>(Antes tocaba el piano.)</i>"]
+      },
+      {
+        "title": "Afirmativa", "icon": "✅",
+        "items": ["sujeto + <b>used to</b> + infinitivo", "Igual para todos: I / she / they <b>used to</b>", "She <b>used to</b> live in Paris."]
+      },
+      {
+        "title": "Negativa", "icon": "⛔",
+        "items": ["sujeto + <b>didn't use to</b> + infinitivo", "I <b>didn't use to</b> like coffee.", "¡Sin d! <s>didn't used to</s>"]
+      },
+      {
+        "title": "Preguntas", "icon": "❓", "art": "👓",
+        "items": ["<b>Did</b> + sujeto + <b>use to</b> + verbo?", "<b>Did</b> you <b>use to</b> wear glasses?", "Yes, I <b>did</b>. / No, I <b>didn't</b>."]
+      },
+      {
+        "title": "Hábitos y estados", "icon": "🔁",
+        "rows": [["Hábito", "I used to <b>walk</b> to school."], ["Estado", "We used to <b>have</b> a cat."]],
+        "after": "Ahora → <b>usually</b> (<s>I use to</s>)"
+      },
+      {
+        "title": "Ojo: BE USED TO", "icon": "⚠️",
+        "items": ["<b>be used to</b> + -ing = estar acostumbrado", "I'm used to <b>getting up</b> early.", "¡Es otra cosa! (lo verás en B2)"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["I didn't used to like fish."],
+      "good": ["I didn't use to like fish."],
+      "note": "Con <b>did / didn't</b> → use to (sin d)"
+    },
+    "mini": {
+      "es": "Completa con used to, use to, didn't use to o Did.",
+      "en": "Complete with used to, use to, didn't use to or Did.",
+      "items": [
+        { "q": "I ____ play tennis. Now I don't.", "a": "used to" },
+        { "q": "She ____ like cats, but now she does.", "a": "didn't use to" },
+        { "q": "Did you ____ live here?", "a": "use to" },
+        { "q": "We ____ go to the beach every summer.", "a": "used to" },
+        { "q": "____ they use to argue a lot?", "a": "Did" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "<b>Used to</b> sirve para hablar de <mark>cosas que pasaban o eran verdad en el pasado y ya no lo son</mark>: hábitos repetidos (<i>I used to play football every Saturday</i>) y situaciones o estados (<i>I used to have long hair</i>). En español lo decimos con <b>solía</b> o con el <b>pretérito imperfecto</b> («<i>jugaba, tenía</i>»). Siempre lleva la idea de «<i>antes sí… ahora no</i>».",
+      "en": "<b>Used to</b> talks about past habits and states that are <mark>no longer true</mark>.",
+      "formula": ["Sujeto + *used to* + infinitivo"]
+    },
+    {
+      "t": "rule", "title": "1 · Afirmativa", "title_en": "Affirmative", "icon": "✅", "color": "green",
+      "es": "<b>Used to</b> no cambia: es igual para todas las personas (<i>I, you, he, she, we, they</i>). Detrás va siempre el <b>infinitivo sin to</b>: <i>used to <u>play</u></i>, nunca <s>used to playing</s> ni <s>used to played</s>. Se pronuncia /ˈjuːstə/: la d casi no suena («iústa»).",
+      "en": "<b>Used to</b> is the same for all persons and is followed by the infinitive. Pronunciation: /ˈjuːstə/.",
+      "formula": ["I / you / he / she / we / they + *used to* + infinitivo"],
+      "examples": [
+        { "en": "I <b>used to</b> play football every Saturday.", "es": "Antes jugaba al fútbol todos los sábados.", "icon": "⚽" },
+        { "en": "My dad <b>used to</b> have long hair. Can you believe it?", "es": "Mi padre tenía el pelo largo. ¿Te lo puedes creer?", "icon": "🎸" },
+        { "en": "We <b>used to</b> spend every summer at my grandparents' house.", "es": "Pasábamos todos los veranos en casa de mis abuelos.", "icon": "🏡" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · Negativa", "title_en": "Negative", "icon": "⛔", "color": "red",
+      "es": "Para la negativa usamos <b>didn't + use to</b> + infinitivo. ¡Ojo! Como <b>didn't</b> ya marca el pasado, <b>use</b> va <mark>sin -d</mark>: <i>didn't use to</i>. (Es la misma regla que <i>didn't <u>go</u></i>, no <s>didn't went</s>.) También se puede decir <b>never used to</b>.",
+      "en": "Negative: <b>didn't use to</b> + infinitive (no -d after didn't). You can also say <b>never used to</b>.",
+      "formula": ["Sujeto + *didn't use to* + infinitivo", "Sujeto + *never used to* + infinitivo"],
+      "examples": [
+        { "en": "I <b>didn't use to</b> like vegetables, but now I love them.", "es": "Antes no me gustaban las verduras, pero ahora me encantan.", "icon": "🥦" },
+        { "en": "She <b>didn't use to</b> study much at school.", "es": "Ella no estudiaba mucho en el colegio.", "icon": "📚" },
+        { "en": "We <b>never used to</b> go abroad on holiday.", "es": "Nunca íbamos de vacaciones al extranjero.", "icon": "🧳" }
+      ]
+    },
+    {
+      "t": "rule", "title": "3 · Preguntas", "title_en": "Questions and short answers", "icon": "❓", "color": "blue",
+      "es": "Preguntas: <b>(Wh-) + did + sujeto + use to + infinitivo?</b> Otra vez <b>use</b> sin -d, porque ya está <b>did</b>. Respuestas cortas con <b>did / didn't</b>: <i>Yes, I did. / No, I didn't.</i>",
+      "en": "Questions: <b>(Wh-) + did + subject + use to + verb?</b> Short answers: Yes, I did. / No, I didn't.",
+      "formula": ["*Did* + sujeto + *use to* + infinitivo?", "*Wh-* + *did* + sujeto + *use to* + infinitivo?"],
+      "examples": [
+        { "en": "<b>Did</b> you <b>use to</b> wear glasses? — Yes, I <b>did</b>.", "es": "¿Antes llevabas gafas? — Sí.", "icon": "👓" },
+        { "en": "<b>Where did</b> you <b>use to</b> live before Madrid?", "es": "¿Dónde vivías antes de Madrid?", "icon": "📍" },
+        { "en": "<b>What did</b> people <b>use to</b> do without mobile phones?", "es": "¿Qué hacía la gente sin móviles?", "icon": "☎️" }
+      ]
+    },
+    {
+      "t": "table", "title": "Todo junto", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["Sujeto · Subject", "✅ Afirmativa", "⛔ Negativa", "❓ Pregunta", "💬 Respuesta corta"],
+      "rows": [
+        ["I", "I <b>used to</b> skate.", "I <b>didn't use to</b> skate.", "<b>Did</b> I <b>use to</b> skate?", "Yes, I did. / No, I didn't."],
+        ["you", "You <b>used to</b> skate.", "You <b>didn't use to</b> skate.", "<b>Did</b> you <b>use to</b> skate?", "Yes, you did. / No, you didn't."],
+        ["he / she / it", "She <b>used to</b> skate.", "She <b>didn't use to</b> skate.", "<b>Did</b> she <b>use to</b> skate?", "Yes, she did. / No, she didn't."],
+        ["we", "We <b>used to</b> skate.", "We <b>didn't use to</b> skate.", "<b>Did</b> we <b>use to</b> skate?", "Yes, we did. / No, we didn't."],
+        ["they", "They <b>used to</b> skate.", "They <b>didn't use to</b> skate.", "<b>Did</b> they <b>use to</b> skate?", "Yes, they did. / No, they didn't."]
+      ],
+      "note": "Truco: <b>used</b> (con d) solo en la afirmativa. Si hay <b>did / didn't</b> → <b>use</b> (sin d).",
+      "note_en": "used (with -d) only in the affirmative; with did / didn't → use."
+    },
+    {
+      "t": "rule", "title": "4 · Hábitos y estados", "title_en": "Habits and states", "icon": "🔁", "color": "purple",
+      "es": "<b>Used to</b> vale para dos cosas: <b>acciones repetidas</b> (hábitos: <i>play, go, eat, watch</i>) y <b>estados</b> o situaciones que duraban (<i>have, be, live, like, know</i>). En los dos casos, ya no es así. Muy útil: <b>there used to be</b> = «<i>antes había</i>».",
+      "en": "<b>Used to</b> works for <b>repeated actions</b> (habits) and <b>states</b> (have, be, live, like). <b>There used to be</b> = there was before, but not now.",
+      "formula": ["Hábito + I used to + *go* + to the gym", "Estado + I used to + *be* + shy"],
+      "examples": [
+        { "en": "I <b>used to</b> watch cartoons every morning before school.", "es": "Veía dibujos todas las mañanas antes del cole.", "icon": "📺" },
+        { "en": "He <b>used to</b> be really shy, but now he's a YouTuber.", "es": "Antes era muy tímido, pero ahora es youtuber.", "icon": "🎥" },
+        { "en": "<b>There used to be</b> a bookshop on this corner.", "es": "Antes había una librería en esta esquina.", "icon": "📚" }
+      ]
+    },
+    {
+      "t": "compare", "title": "¿USED TO o PAST SIMPLE?", "title_en": "used to or past simple?", "color": "blue", "icon": "⚖️",
+      "es": "Las dos hablan del pasado, pero <b>used to</b> es para hábitos y estados <mark>que duraron un tiempo</mark> y ya no son así (como el imperfecto: <i>iba</i>). Para una acción <b>de una sola vez</b>, una <b>fecha concreta</b>, <b>cuántas veces</b> o un periodo cerrado (<i>for two years</i>), usa el <b>past simple</b> (como el indefinido: <i>fui</i>).",
+      "en": "<b>Used to</b> = repeated habits / long states, now finished. One action, a date, a number of times or a fixed period → <b>past simple</b>.",
+      "cols": [
+        { "head": "🔁 used to · hábito / estado", "color": "green", "items": ["I <b>used to</b> go to Italy every summer. <i>(iba)</i>", "She <b>used to</b> live in Rome. <i>(vivía)</i>", "We <b>used to</b> play chess a lot. <i>(jugábamos)</i>"] },
+        { "head": "1️⃣ past simple · una vez / fecha", "color": "orange", "items": ["I <b>went</b> to Italy <u>last summer</u>. <i>(fui)</i>", "She <b>lived</b> in Rome <u>for two years</u>. <i>(vivió)</i>", "We <b>played</b> chess <u>three times</u> yesterday. <i>(jugamos)</i>"] }
+      ]
+    },
+    {
+      "t": "rule", "title": "5 · ¿Y en presente? USUALLY", "title_en": "Present habits: usually", "icon": "⏰", "color": "teal",
+      "es": "En español decimos «<i>suelo</i>» en presente, pero <b>used to</b> <mark>solo existe en pasado</mark>. Para los hábitos de ahora usa el <b>present simple</b>, normalmente con <b>usually</b>: <s>I use to get up at 7</s> → <b>I usually get up at 7</b>.",
+      "en": "<b>Used to</b> only exists in the past. For present habits use the present simple + <b>usually</b>.",
+      "formula": ["Pasado + *used to* + verbo", "Presente + *usually* + present simple"],
+      "examples": [
+        { "en": "I <b>usually</b> get up at seven.", "es": "Suelo levantarme a las siete.", "icon": "⏰" },
+        { "en": "I <b>used to</b> get up at six when I lived in the country.", "es": "Antes me levantaba a las seis, cuando vivía en el campo.", "icon": "🐓" },
+        { "en": "She <b>usually</b> takes the bus, but she <b>used to</b> cycle.", "es": "Normalmente coge el autobús, pero antes iba en bici.", "icon": "🚲" }
+      ]
+    },
+    {
+      "t": "table", "title": "Expresiones que lo acompañan", "title_en": "Useful time expressions", "icon": "🗓️", "color": "purple",
+      "head": ["Expresión", "Significado", "Ejemplo · Example"],
+      "rows": [
+        ["when I was a kid", "cuando era pequeño/a", "<b>When I was a kid</b>, I used to collect stickers."],
+        ["at school / at uni", "en el colegio / en la uni", "<b>At school</b>, I used to sit at the back."],
+        ["years ago", "hace años", "<b>Years ago</b>, people used to write letters."],
+        ["back then", "por aquel entonces", "<b>Back then</b>, we used to live in Vigo."],
+        ["not … any more", "ya no", "I used to smoke, but I don't <b>any more</b>."],
+        ["these days", "hoy en día", "<b>These days</b>, I hardly ever go out."]
+      ],
+      "note": "Con used to <b>no</b> se dice cuántas veces ni una fecha exacta: <s>I used to go there three times</s> → I <b>went</b> there three times.",
+      "note_en": "Don't use used to with a number of times or an exact date."
+    },
+    {
+      "t": "compare", "title": "USED TO ≠ BE USED TO", "title_en": "Don't mix them up", "color": "red", "icon": "⚠️",
+      "es": "Solo para que no te líe: <b>be used to + -ing</b> significa «<i>estar acostumbrado a</i>» y puede ir en presente. Lo estudiarás a fondo más adelante; de momento, aprende a <mark>reconocerlo</mark>.",
+      "en": "<b>be used to + -ing</b> means «be accustomed to». It's different! Just learn to recognise it for now.",
+      "cols": [
+        { "head": "📼 used to + infinitivo", "color": "green", "items": ["I <b>used to</b> live in London. <i>(antes vivía)</i>", "She <b>used to</b> work nights. <i>(antes trabajaba)</i>"] },
+        { "head": "💪 be used to + -ing", "color": "pink", "items": ["I<b>'m used to</b> living in London. <i>(estoy acostumbrado)</i>", "She<b>'s used to</b> working nights. <i>(está acostumbrada)</i>"] }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "When I was a kid, I <b>used to</b> collect football stickers.", "es": "Cuando era pequeño, coleccionaba cromos de fútbol.", "icon": "📒" },
+        { "en": "My grandma <b>used to</b> make the best croquetas in the world.", "es": "Mi abuela hacía las mejores croquetas del mundo.", "icon": "👵" },
+        { "en": "People <b>didn't use to</b> have mobile phones.", "es": "Antes la gente no tenía móvil.", "icon": "📵" },
+        { "en": "<b>Did</b> you <b>use to</b> play any instruments? — No, I <b>didn't</b>.", "es": "¿Tocabas algún instrumento? — No.", "icon": "🎹" },
+        { "en": "This street <b>used to</b> be full of shops. Now it's empty.", "es": "Esta calle antes estaba llena de tiendas. Ahora está vacía.", "icon": "🏪" },
+        { "en": "I <b>used to</b> spend hours playing video games. Now I prefer reading.", "es": "Pasaba horas jugando a videojuegos. Ahora prefiero leer.", "icon": "🎮" },
+        { "en": "We <b>used to</b> write letters. Now we send messages.", "es": "Antes escribíamos cartas. Ahora mandamos mensajes.", "icon": "✉️" },
+        { "en": "She <b>didn't use to</b> drink coffee, but now she has three a day.", "es": "Antes no tomaba café, pero ahora se toma tres al día.", "icon": "☕" },
+        { "en": "Where <b>did</b> you <b>use to</b> go on holiday when you were young?", "es": "¿Adónde ibas de vacaciones cuando eras joven?", "icon": "🏖️" },
+        { "en": "My brother <b>used to</b> be scared of the dark.", "es": "Mi hermano tenía miedo a la oscuridad.", "icon": "🌙" },
+        { "en": "I <b>never used to</b> do any sport. Now I run 10k every week.", "es": "Antes nunca hacía deporte. Ahora corro 10 km cada semana.", "icon": "🏃" },
+        { "en": "<b>There used to be</b> a cinema here.", "es": "Antes aquí había un cine.", "icon": "🎬" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "trampas", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "I didn't used to like fish.", "good": "I didn't <b>use to</b> like fish.", "why": "Con didn't, use va sin d.", "why_en": "didn't + use (no -d)." },
+        { "bad": "Did you used to live here?", "good": "Did you <b>use to</b> live here?", "why": "Con did, use va sin d.", "why_en": "did + use (no -d)." },
+        { "bad": "I use to get up at seven.", "good": "I <b>usually</b> get up at seven.", "why": "Calco de «suelo»: used to no existe en presente.", "why_en": "Present habits → usually." },
+        { "bad": "I used to playing tennis.", "good": "I used to <b>play</b> tennis.", "why": "used to + infinitivo, sin -ing.", "why_en": "used to + infinitive." },
+        { "bad": "She uses to work at night.", "good": "She <b>used to</b> work at night.", "why": "No existe «uses to».", "why_en": "There's no «uses to»." },
+        { "bad": "I used to go to Paris last year.", "good": "I <b>went</b> to Paris last year.", "why": "Una vez / fecha concreta → past simple.", "why_en": "One time → past simple." },
+        { "bad": "Used you to play football?", "good": "<b>Did</b> you <b>use to</b> play football?", "why": "La pregunta se hace con did.", "why_en": "Questions need did." },
+        { "bad": "My brother used to has long hair.", "good": "My brother used to <b>have</b> long hair.", "why": "Detrás de used to, infinitivo: have (no has).", "why_en": "used to + base form." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Cómo construyo la frase?", "title_en": "How do I build it?", "color": "orange",
+      "items": [
+        { "es": "¿Es algo del pasado que se <b>repetía</b> o que <b>duraba</b> y <b>ya no</b> es así? → used to.", "en": "Past habit or state, not true now? → used to." },
+        { "es": "Afirmativa: sujeto + <b>used to</b> + infinitivo (igual para todos).", "en": "Affirmative: subject + used to + verb." },
+        { "es": "Negativa: <b>didn't use to</b> (¡sin d!) o <b>never used to</b>.", "en": "Negative: didn't use to / never used to." },
+        { "es": "Pregunta: <b>(Wh-) + did</b> + sujeto + <b>use to</b> + verbo?", "en": "Question: (Wh-) + did + subject + use to + verb?" },
+        { "es": "¿Es una sola vez, una fecha o un número de veces? → past simple. ¿Es un hábito de ahora? → usually.", "en": "One time → past simple. Present habit → usually." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "Fotos antiguas", "title_en": "Old photos",
+      "lines": [
+        { "who": "Sofía", "en": "Grandad, is that you in this photo? You used to have so much hair!", "es": "Abuelo, ¿eres tú en esta foto? ¡Tenías muchísimo pelo!" },
+        { "who": "Grandad", "en": "Ha! Yes, and I used to wear those terrible flared trousers.", "es": "¡Ja! Sí, y llevaba esos pantalones de campana horribles." },
+        { "who": "Sofía", "en": "Did you use to go to discos?", "es": "¿Ibas a discotecas?" },
+        { "who": "Grandad", "en": "Of course I did! We used to dance every Saturday night.", "es": "¡Claro que sí! Bailábamos todos los sábados por la noche." },
+        { "who": "Sofía", "en": "And what did you use to do during the week?", "es": "¿Y qué hacíais entre semana?" },
+        { "who": "Grandad", "en": "We didn't use to have a TV at home, so we used to play cards with the neighbours.", "es": "No teníamos tele en casa, así que jugábamos a las cartas con los vecinos." },
+        { "who": "Sofía", "en": "No TV and no phones? I couldn't live like that!", "es": "¿Sin tele y sin móviles? ¡Yo no podría vivir así!" },
+        { "who": "Grandad", "en": "You'd be surprised. We used to be very happy!", "es": "Te sorprenderías. ¡Éramos muy felices!" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco: la regla de la D", "title_en": "The D rule",
+      "es": "La <b>d</b> de <b>used</b> es la marca de pasado. Solo puede haber <mark>una marca de pasado por frase</mark>: si ya está <b>did / didn't</b>, la d desaparece. <i>I <u>used</u> to…</i> → <i>I <u>didn't</u> use to…</i> → <i><u>Did</u> you use to…?</i> ¡Igual que <i>I went</i> → <i>I didn't go</i>!",
+      "en": "Only one past marker per sentence: with did / didn't, write <b>use to</b> (no -d)."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose", "title": "Rodea la forma correcta", "title_en": "Circle the correct form", "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta. Recuerda la regla de la D.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "I [used to|use to] live in Seville.", "a": "used to" },
+        { "q": "She didn't [use to|used to] like sushi.", "a": "use to" },
+        { "q": "Did you [use to|used to] play an instrument?", "a": "use to" },
+        { "q": "When I was a kid, I [used to|use to] be afraid of dogs.", "a": "used to" },
+        { "q": "I [usually|used to] go to the gym on Mondays. It's my routine.", "a": "usually" },
+        { "q": "My dad [used to|usually] smoke, but he stopped ten years ago.", "a": "used to" },
+        { "q": "I [went|used to go] to London last month.", "a": "went" },
+        { "q": "[Did|Were] you use to wear a school uniform?", "a": "Did" },
+        { "q": "There [used to|use to] be a park here.", "a": "used to" },
+        { "q": "He used to [have|has] a beard.", "a": "have" }
+      ]
+    },
+    {
+      "t": "match", "title": "Antes y ahora", "title_en": "Then and now", "icon": "🔗",
+      "es": "Une cada frase del pasado con su continuación lógica en el presente.",
+      "en": "Match the past with the present.",
+      "pairs": [
+        ["I used to be really shy,", "but now I love speaking in public."],
+        ["I used to have long hair,", "but now it's very short."],
+        ["We used to live in a small flat,", "but now we've got a house with a garden."],
+        ["She used to eat a lot of meat,", "but now she's a vegetarian."],
+        ["He used to take the bus to work,", "but now he cycles."],
+        ["They didn't use to speak English,", "but now they're fluent."],
+        ["I didn't use to like coffee,", "but now I drink three cups a day."],
+        ["My town used to be very quiet,", "but now it's full of tourists."]
+      ]
+    },
+    {
+      "t": "classify", "title": "¿Hábito o estado?", "title_en": "Habit or state?", "icon": "🗂️",
+      "es": "¿Es una acción que se repetía (hábito) o una situación que duraba (estado)? Escríbelo en su caja.",
+      "en": "Is it a habit (repeated action) or a state?",
+      "cats": [
+        { "name": "🔁 Hábito · habit", "words": ["used to play tennis", "used to walk to school", "used to eat out on Fridays", "used to visit my gran", "used to go dancing", "used to watch cartoons"] },
+        { "name": "🧍 Estado · state", "words": ["used to have a beard", "used to be shy", "used to live in Lugo", "used to like jazz", "used to know everyone", "used to own a car"] }
+      ]
+    },
+    {
+      "t": "fill", "title": "Completa con USED TO", "title_en": "Complete with used to", "icon": "✏️",
+      "es": "Completa con la forma correcta de used to y el verbo: afirmativa, negativa (didn't use to) o pregunta (Did… use to).",
+      "en": "Complete with the correct form of used to and the verb.",
+      "items": [
+        { "q": "When I was little, I ____ (be) scared of the dark.", "a": "used to be" },
+        { "q": "My grandparents ____ (live) on a farm.", "a": "used to live" },
+        { "q": "We ____ (not / have) a car when I was young.", "a": "didn't use to have" },
+        { "q": "____ you ____ (play) any sports at school?", "a": "Did · use to play" },
+        { "q": "He ____ (work) in a bank, but now he's a chef.", "a": "used to work" },
+        { "q": "I ____ (not / like) reading, but now I love it.", "a": "didn't use to like" },
+        { "q": "There ____ (be) a cinema in my village.", "a": "used to be" },
+        { "q": "Where ____ you ____ (go) on holiday as a child?", "a": "did · use to go" },
+        { "q": "She ____ (wear) braces when she was a teenager.", "a": "used to wear" },
+        { "q": "My parents ____ (not / let) me stay out late.", "a": "didn't use to let" }
+      ]
+    },
+    {
+      "t": "fill", "title": "USED TO o USUALLY", "title_en": "used to or usually?", "icon": "⏰",
+      "es": "Completa con used to (pasado, ya no) o usually (presente, ahora).",
+      "en": "Complete with used to or usually.",
+      "bank": ["used to", "usually"],
+      "items": [
+        { "q": "I ____ go to bed late, but now I'm always in bed by ten.", "a": "used to" },
+        { "q": "I ____ have cereal for breakfast. It's quick and easy.", "a": "usually" },
+        { "q": "My brother ____ play video games all day. Now he works in a bank.", "a": "used to" },
+        { "q": "We ____ eat out on Fridays. It's our family tradition.", "a": "usually" },
+        { "q": "She ____ have a dog, but it died last year.", "a": "used to" },
+        { "q": "What time do you ____ finish work?", "a": "usually" },
+        { "q": "There ____ be a lot of traffic here, but now the street is pedestrian.", "a": "used to" },
+        { "q": "He ____ walks to school because it's near his house.", "a": "usually" }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Vale USED TO aquí?", "title_en": "Can you use used to?", "icon": "🤔",
+      "es": "¿Podemos cambiar el verbo en pasado por used to? Marca T (sí) o F (no). Piensa: ¿hábito / estado, o una vez / fecha / número de veces?",
+      "en": "Can you use used to instead of the past simple? T = yes, F = no.",
+      "items": [
+        { "q": "I <b>went</b> to Paris last summer.", "a": false, "why": "Una vez, con fecha → past simple." },
+        { "q": "When I was little, I <b>played</b> in the street every day.", "a": true, "why": "I used to play…" },
+        { "q": "She <b>lived</b> in Berlin for three years.", "a": false, "why": "Periodo cerrado (for three years) → past simple." },
+        { "q": "My dad <b>had</b> a moustache in the 90s.", "a": true, "why": "My dad used to have…" },
+        { "q": "We <b>visited</b> the museum three times.", "a": false, "why": "Número de veces → past simple." },
+        { "q": "I <b>didn't eat</b> vegetables when I was a child.", "a": true, "why": "I didn't use to eat…" },
+        { "q": "He <b>broke</b> his arm in 2015.", "a": false, "why": "Una vez, con fecha → past simple." },
+        { "q": "They <b>lived</b> in a small village before.", "a": true, "why": "They used to live…" }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "¿Cómo era antes?", "title_en": "What was it like before?", "icon": "🔄",
+      "es": "Lee cómo es ahora y escribe cómo era antes con used to o didn't use to.",
+      "en": "Write a sentence about the past with used to / didn't use to.",
+      "items": [
+        { "q": "Now I live in Madrid. (Before: Bilbao)", "a": "I used to live in Bilbao." },
+        { "q": "Now she has short hair. (Before: long hair)", "a": "She used to have long hair." },
+        { "q": "Now we take the train. (Before: drive)", "a": "We used to drive." },
+        { "q": "Now he likes jazz. (Before: not like jazz)", "a": "He didn't use to like jazz." },
+        { "q": "Now I'm a vegetarian. (Before: eat meat)", "a": "I used to eat meat." },
+        { "q": "Now they speak French. (Before: not speak French)", "a": "They didn't use to speak French." },
+        { "q": "Now my town has a shopping centre. (Before: there / not / be / one)", "a": "There didn't use to be a shopping centre." },
+        { "q": "Now I go to the gym. (Before: never / do sport)", "a": "I never used to do sport. / I didn't use to do any sport." }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Completa la tabla", "title_en": "Complete the table", "icon": "📋", "wide": true,
+      "es": "Completa las casillas vacías. ¡Cuidado con la d!",
+      "en": "Fill in the empty boxes.",
+      "head": ["✅ Afirmativa", "⛔ Negativa", "❓ Pregunta"],
+      "rows": [
+        ["I used to play the guitar.", "?I didn't use to play the guitar.", "?Did I use to play the guitar?"],
+        ["?She used to wear glasses.", "She didn't use to wear glasses.", "?Did she use to wear glasses?"],
+        ["?They used to live in Cádiz.", "?They didn't use to live in Cádiz.", "Did they use to live in Cádiz?"],
+        ["We used to have a cat.", "?We didn't use to have a cat.", "?Did we use to have a cat?"],
+        ["?He used to be shy.", "He didn't use to be shy.", "?Did he use to be shy?"]
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Pregunta y responde", "title_en": "Ask and answer", "icon": "❓",
+      "es": "Escribe la pregunta con Did… use to…? y contesta con la pista.",
+      "en": "Write the question and answer it.",
+      "labels": ["❓", "💬"],
+      "items": [
+        { "q": "you / have / long hair? (YES)", "a": ["Did you use to have long hair?", "Yes, I did."] },
+        { "q": "she / play / the piano? (NO)", "a": ["Did she use to play the piano?", "No, she didn't."] },
+        { "q": "where / they / live? (in Lisbon)", "a": ["Where did they use to live?", "They used to live in Lisbon."] },
+        { "q": "your parents / let you / stay out late? (NO)", "a": ["Did your parents use to let you stay out late?", "No, they didn't."] },
+        { "q": "what / you / want / to be? (an astronaut)", "a": ["What did you use to want to be?", "I used to want to be an astronaut."] },
+        { "q": "he / be / good at maths? (YES)", "a": ["Did he use to be good at maths?", "Yes, he did."] }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase.",
+      "en": "Put the words in order.",
+      "items": [
+        { "q": "used / I / to / football / play", "a": "I used to play football." },
+        { "q": "didn't / she / use / like / to / fish", "a": "She didn't use to like fish." },
+        { "q": "you / did / use / glasses / to / wear / ?", "a": "Did you use to wear glasses?" },
+        { "q": "be / there / a cinema / to / used / here", "a": "There used to be a cinema here." },
+        { "q": "where / use / live / did / to / you / ?", "a": "Where did you use to live?" },
+        { "q": "never / we / to / used / abroad / go", "a": "We never used to go abroad." },
+        { "q": "my grandad / to / used / stories / tell / us", "a": "My grandad used to tell us stories." },
+        { "q": "be / he / to / used / shy / really", "a": "He used to be really shy." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "I didn't used to like tomatoes.", "a": "I didn't use to like tomatoes." },
+        { "q": "Did you used to live in Spain?", "a": "Did you use to live in Spain?" },
+        { "q": "I use to go to the gym on Mondays.", "a": "I usually go to the gym on Mondays." },
+        { "q": "She used to playing the violin.", "a": "She used to play the violin." },
+        { "q": "My uncle used to has a motorbike.", "a": "My uncle used to have a motorbike." },
+        { "q": "I used to go to Disneyland in 2019.", "a": "I went to Disneyland in 2019." },
+        { "q": "Used you to walk to school?", "a": "Did you use to walk to school?" },
+        { "q": "There use to be a big tree here.", "a": "There used to be a big tree here." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Piensa: ¿hábito o estado del pasado (used to), una sola vez (past simple) o presente (usually)?",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Antes vivía en un pueblo.", "a": "I used to live in a village." },
+        { "q": "Mi abuela hacía unas tartas buenísimas.", "a": "My grandma used to make delicious cakes." },
+        { "q": "Antes no me gustaba el café.", "a": "I didn't use to like coffee." },
+        { "q": "¿Llevabas uniforme en el colegio?", "a": "Did you use to wear a uniform at school?" },
+        { "q": "Aquí antes había una tienda de discos.", "a": "There used to be a record shop here." },
+        { "q": "Jugábamos en la calle todas las tardes.", "a": "We used to play in the street every afternoon." },
+        { "q": "Suelo levantarme a las siete. (¡ojo!)", "a": "I usually get up at seven." },
+        { "q": "Mi padre tenía barba, pero ahora no.", "a": "My dad used to have a beard, but now he doesn't." },
+        { "q": "¿Adónde ibais de vacaciones?", "a": "Where did you use to go on holiday?" },
+        { "q": "Fui a Londres el año pasado. (¡ojo!)", "a": "I went to London last year." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto. Marca T (verdadero) o F (falso) y contesta las preguntas con frases completas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "My town: then and now",
+      "text": [
+        "My name is Marta and I grew up in Cangas, a small fishing town in Galicia. When I was a child, life there used to be very quiet. There didn't use to be many cars, so we used to play football in the street until it got dark.",
+        "My dad was a fisherman. He used to get up at four in the morning and he didn't use to come home until the afternoon. My mum used to sell his fish at the market. On Sundays, the whole family used to have lunch at my grandparents' house.",
+        "Things are very different now. There's a big supermarket where the market used to be, and in summer the town is full of tourists. I live in Madrid now and I usually visit Cangas twice a year. I love it, but I sometimes miss the old days."
+      ],
+      "items": [
+        { "q": "When Marta was a child, there were a lot of cars in Cangas.", "tf": true, "a": false, "why": "There didn't use to be many cars." },
+        { "q": "Her dad used to start work very early.", "tf": true, "a": true },
+        { "q": "Her mum used to work at the market.", "tf": true, "a": true },
+        { "q": "In summer, Cangas is still very quiet.", "tf": true, "a": false, "why": "In summer the town is full of tourists." },
+        { "q": "Where did the children use to play football?", "a": "They used to play in the street." },
+        { "q": "What did the family use to do on Sundays?", "a": "They used to have lunch at her grandparents' house." },
+        { "q": "How often does Marta visit Cangas now?", "a": "She usually visits it twice a year." }
+      ]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe sobre tu vida antes y ahora.",
+      "en": "Write about your life before and now.",
+      "items": [
+        { "q": "Escribe 3 cosas que <b>hacías</b> de pequeño/a y ya no haces: <b>I used to…</b>", "lines": 2, "a": "Ej.: I used to watch cartoons every morning. I used to collect stickers. I used to be afraid of dogs." },
+        { "q": "Escribe 2 cosas que <b>no hacías</b> antes y ahora sí: <b>I didn't use to…</b>", "lines": 2, "a": "Ej.: I didn't use to drink coffee. I didn't use to like running." },
+        { "q": "Escribe 2 preguntas para un familiar mayor: <b>Did you use to…?</b>", "lines": 2, "a": "Ej.: Did you use to go dancing? Where did you use to go on holiday?" },
+        { "q": "¿Cómo era tu barrio antes? Escribe 2 frases con <b>there used to be</b>.", "lines": 2, "a": "Ej.: There used to be a cinema in my street. There didn't use to be so many cars." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé usar <b>used to</b> para hábitos y estados del pasado.", "en": "I can use used to for past habits and states." },
+    { "es": "Escribo <b>didn't use to</b> y <b>Did you use to…?</b> sin d.", "en": "I write didn't use to / Did you use to without -d." },
+    { "es": "Sé que used to <b>no existe en presente</b>: uso <b>usually</b>.", "en": "I know used to has no present form: I use usually." },
+    { "es": "Distingo <b>used to</b> (hábito) del <b>past simple</b> (una vez, una fecha).", "en": "I know the difference between used to and the past simple." },
+    { "es": "Sé decir <b>there used to be</b> (antes había).", "en": "I can say there used to be." },
+    { "es": "Reconozco <b>be used to + -ing</b> (estar acostumbrado) y no lo confundo.", "en": "I recognise be used to + -ing." }
+  ]
+}

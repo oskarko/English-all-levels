@@ -1,0 +1,1742 @@
+{
+  "id": "C2-04",
+  "level": "C2",
+  "title": "IDIOMS <em>y</em> EXPRESIONES",
+  "file_title": "Idioms y expresiones",
+  "subtitle": "Idioms and fixed expressions · modismos",
+  "icon": "🐘",
+  "map": {
+    "center": "Un <b>idiom</b> es una expresión fija cuyo sentido <mark>no se deduce</mark> de sus palabras: se aprende <b>en bloque</b>.",
+    "nodes": [
+      {
+        "title": "¿Qué es un idiom?",
+        "icon": "🔎",
+        "art": "🐘",
+        "rows": [
+          [
+            "spill the beans",
+            "= irse de la lengua"
+          ],
+          [
+            "hit the nail on the head",
+            "= dar en el clavo"
+          ]
+        ],
+        "after": "Su sentido es <em>figurado</em>: no se deduce palabra por palabra."
+      },
+      {
+        "title": "Fijo y variable",
+        "icon": "🧩",
+        "items": [
+          "El verbo se conjuga: she <b>threw</b> in the towel",
+          "El posesivo concuerda: I bit <b>my</b> tongue",
+          "Fijos: sustantivos, artículos y partículas",
+          "Casi nunca admiten pasiva"
+        ]
+      },
+      {
+        "title": "Registro",
+        "icon": "🎚️",
+        "items": [
+          "Coloquial: <b>a piece of cake</b>, <b>spill the beans</b>",
+          "Prensa: <b>at the eleventh hour</b>, <b>in hot water</b>",
+          "Ensayo académico: mejor una paráfrasis"
+        ]
+      },
+      {
+        "title": "Por temas",
+        "icon": "🗂️",
+        "art": "🗺️",
+        "chips": [
+          "💼 trabajo",
+          "💰 dinero",
+          "🏆 éxito",
+          "💬 conflicto",
+          "❤️ emociones",
+          "🎲 riesgo",
+          "⏳ tiempo",
+          "🧠 saber"
+        ],
+        "after": "Apréndelos agrupados y con un ejemplo."
+      },
+      {
+        "title": "Trampas de traducción",
+        "icon": "🚧",
+        "rows": [
+          [
+            "un ojo de la cara",
+            "→ <b>an arm and a leg</b>"
+          ],
+          [
+            "me suena a chino",
+            "→ it's all <b>Greek</b> to me"
+          ],
+          [
+            "tirar la toalla",
+            "→ throw <b>in</b> the towel"
+          ]
+        ]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "items": [
+          "Aprende el bloque entero, con su partícula.",
+          "Uno o dos por texto: no los encadenes.",
+          "¿Dudas del registro? Parafrasea."
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "It cost an eye of the face."
+      ],
+      "good": [
+        "It cost an arm and a leg."
+      ],
+      "note": "Los idioms <b>no se traducen</b> palabra por palabra."
+    },
+    "mini": {
+      "es": "Completa el idiom con una palabra.",
+      "en": "Complete the idiom with one word.",
+      "items": [
+        {
+          "q": "Don't beat about the ___. Tell me!",
+          "a": "bush"
+        },
+        {
+          "q": "The exam? A piece of ___!",
+          "a": "cake"
+        },
+        {
+          "q": "Is that true, or are you pulling my ___?",
+          "a": "leg"
+        },
+        {
+          "q": "We've done our part: the ball is in your ___.",
+          "a": "court"
+        },
+        {
+          "q": "After three defeats, she threw in the ___.",
+          "a": "towel"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Un <b>idiom</b> es una expresión fija cuyo significado <mark>no se deduce de la suma de sus palabras</mark>: <i>spill the beans</i> no tiene nada que ver con judías; significa <b>irse de la lengua</b>. En C2 se espera que los reconozcas al instante en la prensa, la literatura y la conversación, y que uses los más frecuentes con naturalidad, respetando su <b>forma exacta</b> y su <b>registro</b>. Algunos coinciden con el español (<i>the tip of the iceberg</i>), muchos usan otra imagen (<i>cost an arm and a leg</i> = costar un ojo de la cara) y otros son auténticas trampas.",
+      "en": "An <b>idiom</b> is a fixed expression whose meaning cannot be worked out from its individual words. At C2 you should recognise idioms instantly and use the common ones accurately, in their exact form and in the right register.",
+      "formula": [
+        "spill the beans + ≠ + derramar las judías",
+        "spill the beans + = + *irse de la lengua*"
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Bloque fijo, piezas móviles",
+      "title_en": "Fixed chunk, moving parts",
+      "icon": "🧩",
+      "color": "purple",
+      "es": "Un idiom es un bloque, pero no está congelado del todo. <b>Lo que cambia:</b> el verbo se conjuga (<i>she <b>threw</b> in the towel</i>), los posesivos concuerdan con el sujeto (<i>I bit <b>my</b> tongue · they pulled <b>their</b> weight</i>) y algunos tienen un hueco para la persona (<i>pull <b>someone's</b> leg → pull <b>my</b> leg</i>). <b>Lo que no cambia:</b> los sustantivos, los artículos, las preposiciones y el número (<s>throw the towel</s>, <s>beat about the bushes</s>). Muy pocos admiten pasiva sin perder el sentido figurado: <i>the hatchet has been buried</i> se oye, pero <s>the bush was beaten about</s> suena absurdo.",
+      "en": "Verbs change tense, possessives agree with the subject and some idioms have a slot for a person. Nouns, articles, prepositions and number are fixed. Most idioms resist the passive.",
+      "formula": [
+        "*verbo conjugable* + parte fija",
+        "pull + *someone's* + leg → pull + *my* + leg"
+      ],
+      "examples": [
+        {
+          "en": "The consortium finally <b>threw in the towel</b> after its third bid.",
+          "es": "El consorcio por fin tiró la toalla tras su tercera oferta.",
+          "icon": "🥊"
+        },
+        {
+          "en": "Are you <b>pulling my leg</b>?",
+          "es": "¿Me estás tomando el pelo?",
+          "icon": "😜"
+        },
+        {
+          "en": "She was my boss, so I had to <b>bite my tongue</b>.",
+          "es": "Era mi jefa, así que tuve que morderme la lengua.",
+          "icon": "🤐"
+        },
+        {
+          "en": "The hatchet has finally <b>been buried</b>.",
+          "es": "Por fin se ha enterrado el hacha de guerra.",
+          "icon": "🕊️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · No todos tienen el mismo registro",
+      "title_en": "Register",
+      "icon": "🎚️",
+      "color": "orange",
+      "es": "Hay idioms <b>neutros</b>, habituales en la prensa seria y en los informes (<i>a bone of contention, the tip of the iceberg, at the eleventh hour, in the red</i>); idioms <b>coloquiales</b>, propios de la conversación y de la prensa popular (<i>a piece of cake, spill the beans, get the sack</i>), y algunos <b>muy británicos e informales</b> (<i>take the mickey</i>). En un ensayo académico lo más seguro es <mark>sustituir el idiom por una paráfrasis</mark>.",
+      "en": "Neutral idioms appear in quality journalism and reports; colloquial ones belong to conversation and the tabloids. In academic writing, paraphrase.",
+      "examples": [
+        {
+          "en": "Pay remains <b>a bone of contention</b> between unions and management. <small>(prensa)</small>",
+          "es": "El salario sigue siendo la manzana de la discordia entre sindicatos y dirección.",
+          "icon": "📰"
+        },
+        {
+          "en": "Talks collapsed <b>at the eleventh hour</b>. <small>(prensa)</small>",
+          "es": "Las negociaciones fracasaron en el último momento.",
+          "icon": "🕚"
+        },
+        {
+          "en": "Honestly, the interview was <b>a piece of cake</b>. <small>(coloquial)</small>",
+          "es": "La verdad, la entrevista fue pan comido.",
+          "icon": "🍰"
+        },
+        {
+          "en": "Are you <b>taking the mickey</b>? <small>(muy coloquial, BrE)</small>",
+          "es": "¿Me estás vacilando?",
+          "icon": "🙄"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Idiomático o formal",
+      "title_en": "Idiomatic or formal?",
+      "icon": "⚖️",
+      "color": "blue",
+      "es": "El mismo contenido en dos registros. En un informe, una carta formal o un ensayo, sustituye el idiom coloquial por un verbo o una expresión neutra.",
+      "en": "Same content, two registers: in reports and essays, replace colloquial idioms with neutral wording.",
+      "cols": [
+        {
+          "head": "🗣️ Idiomático · informal",
+          "color": "orange",
+          "items": [
+            "We're <b>in the red</b>.",
+            "She <b>threw in the towel</b>.",
+            "Stop <b>beating about the bush</b>.",
+            "It <b>cost an arm and a leg</b>.",
+            "He <b>got the sack</b>.",
+            "The plan <b>went down the drain</b>."
+          ]
+        },
+        {
+          "head": "🎓 Formal · académico",
+          "color": "blue",
+          "items": [
+            "The company is <b>operating at a loss</b>.",
+            "She <b>abandoned the attempt</b>.",
+            "Please <b>come to the point</b>.",
+            "It was <b>prohibitively expensive</b>.",
+            "He <b>was dismissed</b>.",
+            "The plan <b>came to nothing</b>."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Trabajo y dinero",
+      "title_en": "Work and money",
+      "icon": "💼",
+      "color": "green",
+      "wide": true,
+      "head": [
+        "Idiom · meaning",
+        "Español",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "<b>cost an arm and a leg</b><br><i>be extremely expensive</i>",
+          "costar un ojo de la cara",
+          "Renting in central London <b>costs an arm and a leg</b>.<br><i>Alquilar en el centro de Londres cuesta un ojo de la cara.</i>"
+        ],
+        [
+          "<b>make ends meet</b><br><i>have just enough money to live on</i>",
+          "llegar a fin de mes",
+          "Many nurses are struggling to <b>make ends meet</b>.<br><i>Muchas enfermeras tienen dificultades para llegar a fin de mes.</i>"
+        ],
+        [
+          "<b>tighten your belt</b><br><i>spend less money</i>",
+          "apretarse el cinturón",
+          "After the merger, every department had to <b>tighten its belt</b>.<br><i>Tras la fusión, todos los departamentos tuvieron que apretarse el cinturón.</i>"
+        ],
+        [
+          "<b>be in the red</b><br><i>be losing money; be in debt</i>",
+          "estar en números rojos",
+          "The airline has <b>been in the red</b> since the pandemic.<br><i>La aerolínea está en números rojos desde la pandemia.</i>"
+        ],
+        [
+          "<b>learn the ropes</b><br><i>learn how a job is done</i>",
+          "aprender el oficio, hacerse con el puesto",
+          "Give the new analyst a few weeks to <b>learn the ropes</b>.<br><i>Dale al nuevo analista unas semanas para hacerse con el puesto.</i>"
+        ],
+        [
+          "<b>pull your weight</b><br><i>do your fair share of the work</i>",
+          "arrimar el hombro",
+          "If one member doesn't <b>pull their weight</b>, the whole team suffers.<br><i>Si un miembro no arrima el hombro, todo el equipo lo paga.</i>"
+        ],
+        [
+          "<b>get the sack</b><br><i>be dismissed from your job</i>",
+          "ser despedido, que te echen",
+          "He <b>got the sack</b> for leaking confidential data.<br><i>Lo echaron por filtrar datos confidenciales.</i>"
+        ],
+        [
+          "<b>a cash cow</b><br><i>a reliable source of profit</i>",
+          "la gallina de los huevos de oro",
+          "The subscription service has become the firm's <b>cash cow</b>.<br><i>Las suscripciones se han convertido en la gallina de los huevos de oro de la empresa.</i>"
+        ],
+        [
+          "<b>back to the drawing board</b><br><i>time to start planning again</i>",
+          "volver a empezar desde cero",
+          "The investors rejected the plan, so it's <b>back to the drawing board</b>.<br><i>Los inversores rechazaron el plan, así que toca volver a empezar.</i>"
+        ]
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Éxito, fracaso y esfuerzo",
+      "title_en": "Success, failure and effort",
+      "icon": "🏆",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Idiom · meaning",
+        "Español",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "<b>hit the nail on the head</b><br><i>describe something exactly right</i>",
+          "dar en el clavo",
+          "Your analysis <b>hit the nail on the head</b>.<br><i>Tu análisis dio en el clavo.</i>"
+        ],
+        [
+          "<b>a piece of cake</b><br><i>something very easy</i>",
+          "pan comido, coser y cantar",
+          "After all that revision, the exam was <b>a piece of cake</b>.<br><i>Después de tanto repasar, el examen fue pan comido.</i>"
+        ],
+        [
+          "<b>throw in the towel</b><br><i>give up</i>",
+          "tirar la toalla",
+          "After three failed bids, the consortium <b>threw in the towel</b>.<br><i>Tras tres ofertas fallidas, el consorcio tiró la toalla.</i>"
+        ],
+        [
+          "<b>go down the drain</b><br><i>be wasted</i>",
+          "irse al traste, tirarse por la borda",
+          "Years of research <b>went down the drain</b> when funding was cut.<br><i>Años de investigación se fueron al traste con el recorte.</i>"
+        ],
+        [
+          "<b>bite off more than you can chew</b><br><i>take on more than you can manage</i>",
+          "abarcar demasiado (quien mucho abarca, poco aprieta)",
+          "With three part-time jobs, she's <b>bitten off more than she can chew</b>.<br><i>Con tres trabajos a tiempo parcial, ha abarcado más de lo que puede.</i>"
+        ],
+        [
+          "<b>a long shot</b><br><i>something unlikely to succeed</i>",
+          "una posibilidad remota",
+          "It's <b>a long shot</b>, but we might still win the contract.<br><i>Es muy improbable, pero aún podríamos ganar el contrato.</i>"
+        ],
+        [
+          "<b>fall flat</b><br><i>fail to have the intended effect</i>",
+          "no surtir efecto, no hacer ninguna gracia",
+          "His attempt at humour <b>fell</b> completely <b>flat</b>.<br><i>Su intento de hacer gracia no tuvo ningún éxito.</i>"
+        ],
+        [
+          "<b>burn the midnight oil</b><br><i>work late into the night</i>",
+          "quemarse las pestañas",
+          "She <b>burnt the midnight oil</b> to finish her thesis.<br><i>Se quemó las pestañas para terminar la tesis.</i>"
+        ],
+        [
+          "<b>go the extra mile</b><br><i>make more effort than is expected</i>",
+          "ir más allá, darlo todo",
+          "Our staff always <b>go the extra mile</b> for clients.<br><i>Nuestro personal siempre va más allá de lo que se le pide.</i>"
+        ]
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Comunicación y conflicto",
+      "title_en": "Communication and conflict",
+      "icon": "💬",
+      "color": "blue",
+      "wide": true,
+      "head": [
+        "Idiom · meaning",
+        "Español",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "<b>beat about the bush</b><br><i>avoid the main point</i>",
+          "andarse con rodeos",
+          "Stop <b>beating about the bush</b> and tell me what happened.<br><i>Deja de andarte con rodeos y dime qué pasó.</i>"
+        ],
+        [
+          "<b>spill the beans</b><br><i>reveal a secret</i>",
+          "irse de la lengua",
+          "Someone <b>spilt the beans</b> about the takeover.<br><i>Alguien se fue de la lengua sobre la adquisición.</i>"
+        ],
+        [
+          "<b>let the cat out of the bag</b><br><i>reveal a secret by accident</i>",
+          "descubrir el pastel",
+          "I <b>let the cat out of the bag</b> about her surprise party.<br><i>Descubrí el pastel de su fiesta sorpresa.</i>"
+        ],
+        [
+          "<b>bite your tongue</b><br><i>stop yourself from saying something</i>",
+          "morderse la lengua",
+          "I had to <b>bite my tongue</b> during the meeting.<br><i>Tuve que morderme la lengua en la reunión.</i>"
+        ],
+        [
+          "<b>put your foot in it</b><br><i>say something tactless</i>",
+          "meter la pata",
+          "I really <b>put my foot in it</b> when I mentioned his ex.<br><i>Metí la pata hasta el fondo al mencionar a su ex.</i>"
+        ],
+        [
+          "<b>bury the hatchet</b><br><i>make peace after a quarrel</i>",
+          "hacer las paces, enterrar el hacha de guerra",
+          "The two ministers have finally <b>buried the hatchet</b>.<br><i>Los dos ministros por fin han hecho las paces.</i>"
+        ],
+        [
+          "<b>a bone of contention</b><br><i>a subject of disagreement</i>",
+          "la manzana de la discordia",
+          "The budget remains <b>a bone of contention</b>.<br><i>El presupuesto sigue siendo la manzana de la discordia.</i>"
+        ],
+        [
+          "<b>the elephant in the room</b><br><i>an obvious problem nobody mentions</i>",
+          "el tema incómodo que todos evitan",
+          "Climate change was <b>the elephant in the room</b> at the summit.<br><i>El cambio climático era el tema que nadie quería tocar en la cumbre.</i>"
+        ],
+        [
+          "<b>get on someone's nerves</b><br><i>irritate someone</i>",
+          "sacar de quicio, poner de los nervios",
+          "His constant interruptions <b>get on my nerves</b>.<br><i>Sus constantes interrupciones me sacan de quicio.</i>"
+        ]
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Emociones y relaciones",
+      "title_en": "Emotions and relationships",
+      "icon": "❤️",
+      "color": "pink",
+      "wide": true,
+      "head": [
+        "Idiom · meaning",
+        "Español",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "<b>over the moon</b><br><i>extremely pleased</i>",
+          "loco de contento, en el séptimo cielo",
+          "She was <b>over the moon</b> about the scholarship.<br><i>Estaba loca de contenta con la beca.</i>"
+        ],
+        [
+          "<b>down in the dumps</b><br><i>sad, low</i>",
+          "de bajón, con la moral por los suelos",
+          "He's been <b>down in the dumps</b> since the election.<br><i>Está de bajón desde las elecciones.</i>"
+        ],
+        [
+          "<b>see eye to eye</b><br><i>agree</i>",
+          "estar de acuerdo",
+          "We don't always <b>see eye to eye</b> on politics.<br><i>No siempre estamos de acuerdo en política.</i>"
+        ],
+        [
+          "<b>get cold feet</b><br><i>become too nervous to go ahead</i>",
+          "echarse atrás, rajarse",
+          "The buyer <b>got cold feet</b> at the last minute.<br><i>El comprador se echó atrás en el último momento.</i>"
+        ],
+        [
+          "<b>have a chip on your shoulder</b><br><i>feel resentful about a past injustice</i>",
+          "estar resentido, tener complejo",
+          "He <b>has a chip on his shoulder</b> about not going to university.<br><i>Está resentido por no haber ido a la universidad.</i>"
+        ],
+        [
+          "<b>not your cup of tea</b><br><i>not something you like</i>",
+          "no ser lo tuyo",
+          "Opera isn't really <b>my cup of tea</b>.<br><i>La ópera no es lo mío.</i>"
+        ],
+        [
+          "<b>keep someone at arm's length</b><br><i>avoid becoming close to someone</i>",
+          "mantener a alguien a distancia",
+          "She <b>keeps journalists at arm's length</b>.<br><i>Mantiene a los periodistas a distancia.</i>"
+        ],
+        [
+          "<b>be head over heels (in love)</b><br><i>be completely in love</i>",
+          "estar perdidamente enamorado",
+          "They're <b>head over heels in love</b>.<br><i>Están perdidamente enamorados.</i>"
+        ]
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Decisiones, riesgo y tiempo",
+      "title_en": "Decisions, risk and time",
+      "icon": "🎲",
+      "color": "purple",
+      "wide": true,
+      "head": [
+        "Idiom · meaning",
+        "Español",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "<b>sit on the fence</b><br><i>avoid taking sides</i>",
+          "no mojarse, nadar entre dos aguas",
+          "The senator is still <b>sitting on the fence</b> over the bill.<br><i>El senador sigue sin mojarse sobre el proyecto de ley.</i>"
+        ],
+        [
+          "<b>take the plunge</b><br><i>finally do something risky</i>",
+          "lanzarse a la piscina, dar el paso",
+          "After years of renting, they <b>took the plunge</b> and bought a flat.<br><i>Tras años de alquiler, dieron el paso y compraron un piso.</i>"
+        ],
+        [
+          "<b>play it by ear</b><br><i>decide as things happen</i>",
+          "improvisar sobre la marcha",
+          "I don't know how long the talks will last, so let's <b>play it by ear</b>.<br><i>No sé cuánto durarán las negociaciones, así que ya iremos viendo.</i>"
+        ],
+        [
+          "<b>jump the gun</b><br><i>act too soon</i>",
+          "precipitarse, adelantarse",
+          "The newspaper <b>jumped the gun</b> by announcing the result.<br><i>El periódico se precipitó al anunciar el resultado.</i>"
+        ],
+        [
+          "<b>a blessing in disguise</b><br><i>something bad that turns out to be good</i>",
+          "no hay mal que por bien no venga",
+          "Losing that job was <b>a blessing in disguise</b>.<br><i>Perder aquel trabajo fue, al final, una suerte.</i>"
+        ],
+        [
+          "<b>the ball is in your court</b><br><i>it is your turn to act or decide</i>",
+          "la pelota está en tu tejado",
+          "We've made our offer; <b>the ball is in their court</b> now.<br><i>Hemos hecho nuestra oferta; ahora la pelota está en su tejado.</i>"
+        ],
+        [
+          "<b>cross that bridge when you come to it</b><br><i>deal with a problem only if it arises</i>",
+          "no adelantar acontecimientos",
+          "What if they say no? We'll <b>cross that bridge when we come to it</b>.<br><i>¿Y si dicen que no? No adelantemos acontecimientos.</i>"
+        ],
+        [
+          "<b>once in a blue moon</b><br><i>very rarely</i>",
+          "de Pascuas a Ramos",
+          "My brother phones <b>once in a blue moon</b>.<br><i>Mi hermano llama de Pascuas a Ramos.</i>"
+        ],
+        [
+          "<b>in the nick of time</b><br><i>just in time</i>",
+          "justo a tiempo, por los pelos",
+          "The firefighters arrived <b>in the nick of time</b>.<br><i>Los bomberos llegaron justo a tiempo.</i>"
+        ],
+        [
+          "<b>at the eleventh hour</b><br><i>at the last possible moment</i>",
+          "en el último momento, a última hora",
+          "A deal was struck <b>at the eleventh hour</b>.<br><i>Se cerró un acuerdo en el último momento.</i>"
+        ]
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Saber, entender y meterse en líos",
+      "title_en": "Knowledge and trouble",
+      "icon": "🧠",
+      "color": "teal",
+      "wide": true,
+      "head": [
+        "Idiom · meaning",
+        "Español",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "<b>know something inside out</b><br><i>know something thoroughly</i>",
+          "conocer algo al dedillo",
+          "She <b>knows</b> the tax code <b>inside out</b>.<br><i>Se conoce el código tributario al dedillo.</i>"
+        ],
+        [
+          "<b>ring a bell</b><br><i>sound familiar</i>",
+          "sonar (de algo)",
+          "Does the name Hargreaves <b>ring a bell</b>?<br><i>¿Te suena el nombre de Hargreaves?</i>"
+        ],
+        [
+          "<b>it's all Greek to me</b><br><i>I can't understand it at all</i>",
+          "me suena a chino",
+          "Quantum physics? <b>It's all Greek to me</b>.<br><i>¿Física cuántica? Me suena a chino.</i>"
+        ],
+        [
+          "<b>the tip of the iceberg</b><br><i>a small visible part of a bigger problem</i>",
+          "la punta del iceberg",
+          "These complaints are just <b>the tip of the iceberg</b>.<br><i>Estas quejas son solo la punta del iceberg.</i>"
+        ],
+        [
+          "<b>be in hot water</b><br><i>be in trouble</i>",
+          "estar metido en un lío",
+          "The minister <b>is in hot water</b> over his expenses.<br><i>El ministro está metido en un lío por sus gastos.</i>"
+        ],
+        [
+          "<b>a storm in a teacup</b><br><i>a lot of fuss about something unimportant</i>",
+          "una tormenta en un vaso de agua",
+          "The row over the logo was <b>a storm in a teacup</b>.<br><i>La polémica del logo fue una tormenta en un vaso de agua.</i>"
+        ],
+        [
+          "<b>between a rock and a hard place</b><br><i>facing two equally bad options</i>",
+          "entre la espada y la pared",
+          "The government is <b>between a rock and a hard place</b>.<br><i>El Gobierno está entre la espada y la pared.</i>"
+        ],
+        [
+          "<b>the last straw</b><br><i>the final problem that makes things unbearable</i>",
+          "la gota que colma el vaso",
+          "The latest delay was <b>the last straw</b> for passengers.<br><i>El último retraso fue la gota que colmó el vaso para los pasajeros.</i>"
+        ],
+        [
+          "<b>face the music</b><br><i>accept the consequences of your actions</i>",
+          "dar la cara, afrontar las consecuencias",
+          "Sooner or later, the directors will have to <b>face the music</b>.<br><i>Tarde o temprano, los directivos tendrán que dar la cara.</i>"
+        ]
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Trampas de traducción",
+      "title_en": "Translation traps",
+      "icon": "🚧",
+      "color": "red",
+      "wide": true,
+      "head": [
+        "Español",
+        "✗ Calco",
+        "✓ Inglés natural"
+      ],
+      "rows": [
+        [
+          "costar un ojo de la cara",
+          "<s>cost an eye of the face</s>",
+          "cost <b>an arm and a leg</b>"
+        ],
+        [
+          "tirar la toalla",
+          "<s>throw the towel</s>",
+          "throw <b>in</b> the towel"
+        ],
+        [
+          "estar en las nubes",
+          "<s>be in the clouds</s>",
+          "have <b>your head in the clouds</b>"
+        ],
+        [
+          "tomar el pelo",
+          "<s>take the hair</s>",
+          "<b>pull someone's leg</b> · <b>take the mickey (out of someone)</b>"
+        ],
+        [
+          "meter la pata",
+          "<s>put the leg</s>",
+          "<b>put your foot in it</b>"
+        ],
+        [
+          "me suena a chino",
+          "<s>it sounds Chinese to me</s>",
+          "it's all <b>Greek</b> to me"
+        ],
+        [
+          "la gota que colma el vaso",
+          "<s>the drop that fills the glass</s>",
+          "<b>the last straw</b>"
+        ],
+        [
+          "matar dos pájaros de un tiro",
+          "<s>kill two birds with one shot</s>",
+          "kill two birds with one <b>stone</b>"
+        ],
+        [
+          "estar en el mismo barco",
+          "<s>be in the same ship</s>",
+          "be in the same <b>boat</b>"
+        ],
+        [
+          "tener mariposas en el estómago (amor)",
+          "<i>falso amigo parcial</i>",
+          "<b>have butterflies in your stomach</b> = sobre todo <em>nervios</em> (before an exam)"
+        ]
+      ],
+      "note": "<b>Pull someone's leg</b> = engañar a alguien en broma; <b>take the mickey (out of someone)</b> = burlarse de alguien (muy británico y coloquial). Algunos idioms coinciden casi palabra por palabra (<i>the tip of the iceberg, read between the lines</i>), pero son la excepción, no la regla.",
+      "note_en": "<b>Pull someone's leg</b> = tease someone with a false story; <b>take the mickey</b> = mock someone (very British, informal). Word-for-word equivalents exist, but they are the exception."
+    },
+    {
+      "t": "examples",
+      "title": "Idioms en contexto",
+      "title_en": "Idioms in context",
+      "items": [
+        {
+          "en": "The design was rejected, so it's <b>back to the drawing board</b>.",
+          "es": "Rechazaron el diseño, así que toca volver a empezar.",
+          "icon": "📐"
+        },
+        {
+          "en": "We'll have to <b>tighten our belts</b> until the new contract is signed.",
+          "es": "Tendremos que apretarnos el cinturón hasta que se firme el nuevo contrato.",
+          "icon": "💸"
+        },
+        {
+          "en": "You've <b>hit the nail on the head</b>: the real problem is the lack of training.",
+          "es": "Has dado en el clavo: el verdadero problema es la falta de formación.",
+          "icon": "🎯"
+        },
+        {
+          "en": "I was dying to reply, but I <b>bit my tongue</b>.",
+          "es": "Me moría de ganas de contestar, pero me mordí la lengua.",
+          "icon": "🤐"
+        },
+        {
+          "en": "After years of rivalry, the two families have <b>buried the hatchet</b>.",
+          "es": "Tras años de rivalidad, las dos familias han hecho las paces.",
+          "icon": "🕊️"
+        },
+        {
+          "en": "Nobody dared to mention <b>the elephant in the room</b>: the chief executive's salary.",
+          "es": "Nadie se atrevió a mencionar el tema incómodo: el sueldo del consejero delegado.",
+          "icon": "🐘"
+        },
+        {
+          "en": "Winning the league is <b>a long shot</b> for a club like ours.",
+          "es": "Ganar la liga es muy improbable para un club como el nuestro.",
+          "icon": "🎲"
+        },
+        {
+          "en": "She's been <b>down in the dumps</b> since her dog died.",
+          "es": "Está de bajón desde que se le murió el perro.",
+          "icon": "🌧️"
+        },
+        {
+          "en": "Heavy metal is <b>not my cup of tea</b>, I'm afraid.",
+          "es": "Me temo que el heavy metal no es lo mío.",
+          "icon": "🎧"
+        },
+        {
+          "en": "After years of hesitation, he <b>took the plunge</b> and moved to Dublin.",
+          "es": "Tras años de dudas, se lanzó a la piscina y se mudó a Dublín.",
+          "icon": "🏊"
+        },
+        {
+          "en": "His face <b>rings a bell</b>, but I can't remember his name.",
+          "es": "Su cara me suena, pero no recuerdo cómo se llama.",
+          "icon": "🔔"
+        },
+        {
+          "en": "After twenty years in the post, she knows the system <b>inside out</b>.",
+          "es": "Tras veinte años en el puesto, conoce el sistema al dedillo.",
+          "icon": "📚"
+        },
+        {
+          "en": "The row about the new logo is just <b>a storm in a teacup</b>.",
+          "es": "La polémica del nuevo logo no es más que una tormenta en un vaso de agua.",
+          "icon": "🫖"
+        },
+        {
+          "en": "Sooner or later, the bankers will have to <b>face the music</b>.",
+          "es": "Tarde o temprano, los banqueros tendrán que dar la cara.",
+          "icon": "🎵"
+        },
+        {
+          "en": "We're all <b>in the same boat</b>, so let's stop complaining.",
+          "es": "Estamos todos en el mismo barco, así que dejemos de quejarnos.",
+          "icon": "🚣"
+        },
+        {
+          "en": "We only see our cousins <b>once in a blue moon</b>.",
+          "es": "Solo vemos a nuestros primos de Pascuas a Ramos.",
+          "icon": "🌙"
+        },
+        {
+          "en": "His constant interruptions really <b>get on my nerves</b>.",
+          "es": "Sus constantes interrupciones me sacan de quicio.",
+          "icon": "😠"
+        },
+        {
+          "en": "With two jobs and a baby, I've <b>bitten off more than I can chew</b>.",
+          "es": "Con dos trabajos y un bebé, he abarcado más de lo que puedo.",
+          "icon": "🧗"
+        },
+        {
+          "en": "Come on, <b>spill the beans</b>: who got the job?",
+          "es": "Venga, desembucha: ¿a quién le han dado el puesto?",
+          "icon": "🫢"
+        },
+        {
+          "en": "Sorry, I <b>had my head in the clouds</b>. Could you repeat the question?",
+          "es": "Perdona, estaba en las nubes. ¿Puedes repetir la pregunta?",
+          "icon": "☁️"
+        },
+        {
+          "en": "I always <b>have butterflies in my stomach</b> before a job interview.",
+          "es": "Siempre tengo un nudo en el estómago antes de una entrevista de trabajo.",
+          "icon": "🦋"
+        },
+        {
+          "en": "Cycling to work <b>kills two birds with one stone</b>: I save money and keep fit.",
+          "es": "Ir en bici al trabajo es matar dos pájaros de un tiro: ahorro dinero y me mantengo en forma.",
+          "icon": "🚲"
+        },
+        {
+          "en": "Investors were warned not to <b>jump the gun</b> before the figures were published.",
+          "es": "Se advirtió a los inversores de que no se precipitaran antes de que se publicaran las cifras.",
+          "icon": "📈"
+        },
+        {
+          "en": "He's got <b>a chip on his shoulder</b> about his accent, although nobody else notices it.",
+          "es": "Tiene complejo con su acento, aunque nadie más se da cuenta.",
+          "icon": "🎭"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "trampas",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "The renovation cost us an eye of the face.",
+          "good": "The renovation cost us <b>an arm and a leg</b>.",
+          "why": "Calco de «un ojo de la cara»: en inglés se paga con un brazo y una pierna.",
+          "why_en": "Literal calque; the English image is an arm and a leg."
+        },
+        {
+          "bad": "After the third rejection, she threw the towel.",
+          "good": "After the third rejection, she threw <b>in</b> the towel.",
+          "why": "La partícula forma parte del bloque fijo: <b>throw in</b> the towel.",
+          "why_en": "The particle in is part of the idiom."
+        },
+        {
+          "bad": "Sorry, I was in the clouds.",
+          "good": "Sorry, I had <b>my head in the clouds</b>.",
+          "why": "«Estar en las nubes» no se traduce literalmente; también vale <i>I was miles away</i>.",
+          "why_en": "Use have your head in the clouds or be miles away."
+        },
+        {
+          "bad": "Quantum physics sounds Chinese to me.",
+          "good": "Quantum physics <b>is all Greek to me</b>.",
+          "why": "Cada idioma elige su lengua incomprensible: en inglés es el griego.",
+          "why_en": "English uses Greek, not Chinese."
+        },
+        {
+          "bad": "Stop beating about the bushes.",
+          "good": "Stop beating about the <b>bush</b>.",
+          "why": "El número es fijo: singular. (BrE <i>about</i>, AmE <i>around</i>.)",
+          "why_en": "Number is fixed: bush, singular."
+        },
+        {
+          "bad": "This plan kills two birds with one shot.",
+          "good": "This plan kills two birds with one <b>stone</b>.",
+          "why": "Casi idéntico al español… pero con piedra, no con tiro.",
+          "why_en": "Almost the same as Spanish, but with a stone."
+        },
+        {
+          "bad": "I put the leg when I asked about her husband.",
+          "good": "I <b>put my foot in it</b> when I asked about her husband.",
+          "why": "«Meter la pata» → pie (foot), no pierna, y con <b>in it</b>.",
+          "why_en": "The idiom is put your foot in it."
+        },
+        {
+          "bad": "In conclusion, the reforms went down the drain. <small>(ensayo)</small>",
+          "good": "In conclusion, the reforms <b>proved ineffective</b>.",
+          "why": "Registro: en un ensayo académico el idiom coloquial desentona.",
+          "why_en": "Too colloquial for an academic essay: paraphrase."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo uso un idiom sin meter la pata?",
+      "title_en": "Using an idiom safely",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Comprueba el <b>significado figurado</b> y la connotación: ¿positiva, negativa, irónica?",
+          "en": "Check the figurative meaning and its connotation."
+        },
+        {
+          "es": "Aprende el <b>bloque completo</b>, con su artículo y su partícula: throw <b>in</b> the towel, <b>a</b> piece of cake.",
+          "en": "Learn the whole chunk, with its article and particle."
+        },
+        {
+          "es": "Identifica las <b>piezas móviles</b>: tiempo verbal, posesivo (my / your / their) y hueco de persona (someone's).",
+          "en": "Identify the moving parts: tense, possessive, person slot."
+        },
+        {
+          "es": "Decide el <b>registro</b>: ¿conversación, columna de opinión, informe, ensayo?",
+          "en": "Decide the register: chat, column, report or essay?"
+        },
+        {
+          "es": "No traduzcas la imagen española: busca el <b>equivalente funcional</b> (un ojo de la cara → an arm and a leg).",
+          "en": "Don't translate the Spanish image: find the functional equivalent."
+        },
+        {
+          "es": "Dosifica: <b>uno o dos</b> por párrafo como mucho. Encadenar idioms suena forzado.",
+          "en": "One or two per paragraph at most."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Texto modelo: en la oficina",
+      "title_en": "Model text: at the office",
+      "lines": [
+        {
+          "who": "James",
+          "en": "You look <b>down in the dumps</b>. What's up?",
+          "es": "Te veo de bajón. ¿Qué pasa?"
+        },
+        {
+          "who": "Clara",
+          "en": "The client <b>got cold feet</b> and pulled out of the deal <b>at the eleventh hour</b>.",
+          "es": "El cliente se echó atrás y se retiró del acuerdo en el último momento."
+        },
+        {
+          "who": "James",
+          "en": "Oh no. So months of work have <b>gone down the drain</b>?",
+          "es": "Vaya. ¿Así que meses de trabajo se han ido al traste?"
+        },
+        {
+          "who": "Clara",
+          "en": "Pretty much. And I <b>put my foot in it</b> by telling the boss it would be <b>a piece of cake</b>.",
+          "es": "Más o menos. Y metí la pata al decirle al jefe que sería pan comido."
+        },
+        {
+          "who": "James",
+          "en": "Don't <b>throw in the towel</b> yet. It might be <b>a blessing in disguise</b>.",
+          "es": "No tires la toalla todavía. A lo mejor no hay mal que por bien no venga."
+        },
+        {
+          "who": "Clara",
+          "en": "I doubt it. Winning a new client this quarter is <b>a long shot</b>.",
+          "es": "Lo dudo. Conseguir un cliente nuevo este trimestre es muy improbable."
+        },
+        {
+          "who": "James",
+          "en": "Well, I'll <b>go the extra mile</b> to help. We're <b>in the same boat</b>, after all.",
+          "es": "Bueno, haré lo que haga falta para ayudar. Al fin y al cabo, estamos en el mismo barco."
+        },
+        {
+          "who": "Clara",
+          "en": "Thanks. Should we tell the boss now, or <b>cross that bridge when we come to it</b>?",
+          "es": "Gracias. ¿Se lo decimos ya al jefe o esperamos a ver qué pasa?"
+        },
+        {
+          "who": "James",
+          "en": "Now. If he hears it from someone else, we'll <b>be in hot water</b>.",
+          "es": "Ya. Si se entera por otra persona, nos meteremos en un lío."
+        },
+        {
+          "who": "Clara",
+          "en": "True. Time to <b>face the music</b>, then. But coffee first!",
+          "es": "Es verdad. Pues toca dar la cara. ¡Pero primero, un café!"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco: la prueba del titular",
+      "title_en": "The headline test",
+      "es": "Antes de usar un idiom en un texto formal, pregúntate: <b>¿lo vería en un titular de un periódico serio o en un informe oficial?</b> <i>At the eleventh hour</i>, <i>a bone of contention</i> o <i>the tip of the iceberg</i>, sí; <i>a piece of cake</i> o <i>take the mickey</i>, no. Y dosifica: el diálogo modelo de esta sección está cargado a propósito para practicar, pero en la vida real <mark>menos es más</mark>; un texto lleno de idioms suena a libro de texto, no a nativo.",
+      "en": "Would you see it in a quality newspaper headline or an official report? If not, keep it for conversation. And remember: less is more."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "Idiom y significado",
+      "title_en": "Match idiom and meaning",
+      "icon": "🔗",
+      "es": "Une cada idiom con su significado en inglés.",
+      "en": "Match each idiom with its meaning.",
+      "pairs": [
+        [
+          "make ends meet",
+          "have just enough money to live on"
+        ],
+        [
+          "learn the ropes",
+          "find out how a job is done"
+        ],
+        [
+          "jump the gun",
+          "act before the right moment"
+        ],
+        [
+          "sit on the fence",
+          "refuse to take sides"
+        ],
+        [
+          "a bone of contention",
+          "a subject people disagree about"
+        ],
+        [
+          "once in a blue moon",
+          "very rarely"
+        ],
+        [
+          "know something inside out",
+          "know it thoroughly"
+        ],
+        [
+          "face the music",
+          "accept the consequences of your actions"
+        ]
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Idiom y equivalente español",
+      "title_en": "Match idiom and Spanish equivalent",
+      "icon": "🇪🇸",
+      "es": "Une cada idiom con su equivalente funcional en español (no con su traducción literal).",
+      "en": "Match each idiom with its Spanish equivalent.",
+      "pairs": [
+        [
+          "cost an arm and a leg",
+          "costar un ojo de la cara"
+        ],
+        [
+          "the last straw",
+          "la gota que colma el vaso"
+        ],
+        [
+          "between a rock and a hard place",
+          "entre la espada y la pared"
+        ],
+        [
+          "put your foot in it",
+          "meter la pata"
+        ],
+        [
+          "pull someone's leg",
+          "tomar el pelo"
+        ],
+        [
+          "it's all Greek to me",
+          "me suena a chino"
+        ],
+        [
+          "the ball is in your court",
+          "la pelota está en tu tejado"
+        ],
+        [
+          "a blessing in disguise",
+          "no hay mal que por bien no venga"
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica por tema",
+      "title_en": "Sort by topic",
+      "icon": "🗂️",
+      "wide": true,
+      "es": "Escribe cada idiom en la caja de su tema.",
+      "en": "Write each idiom under the right topic.",
+      "cats": [
+        {
+          "name": "💰 Trabajo y dinero",
+          "words": [
+            "make ends meet",
+            "be in the red",
+            "tighten your belt",
+            "a cash cow"
+          ]
+        },
+        {
+          "name": "💬 Conflicto",
+          "words": [
+            "bury the hatchet",
+            "a bone of contention",
+            "get on someone's nerves",
+            "bite your tongue"
+          ]
+        },
+        {
+          "name": "❤️ Emociones",
+          "words": [
+            "over the moon",
+            "down in the dumps",
+            "get cold feet",
+            "have a chip on your shoulder"
+          ]
+        },
+        {
+          "name": "🎲 Decisiones y tiempo",
+          "words": [
+            "in the nick of time",
+            "at the eleventh hour",
+            "sit on the fence",
+            "take the plunge"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "La palabra fija",
+      "title_en": "The fixed word",
+      "icon": "⭕",
+      "es": "Rodea la única palabra que forma el idiom correcto.",
+      "en": "Circle the only word that completes the idiom correctly.",
+      "items": [
+        {
+          "q": "After three failed bids, they threw [in|out|away] the towel.",
+          "a": "in"
+        },
+        {
+          "q": "Stop beating about the [bush|bushes|tree] and tell me.",
+          "a": "bush"
+        },
+        {
+          "q": "Renting a flat here costs an arm and a [leg|foot|hand].",
+          "a": "leg"
+        },
+        {
+          "q": "The row over the logo was a storm in a [teacup|glass|bottle].",
+          "a": "teacup"
+        },
+        {
+          "q": "We can't afford new staff: the company is in the [red|black|blue].",
+          "a": "red"
+        },
+        {
+          "q": "My brother only phones once in a [blue|full|new] moon.",
+          "a": "blue"
+        },
+        {
+          "q": "The firefighters arrived in the [nick|neck|knock] of time.",
+          "a": "nick"
+        },
+        {
+          "q": "I really put my [foot|leg|hand] in it when I mentioned his ex.",
+          "a": "foot"
+        },
+        {
+          "q": "The pay freeze was the last [straw|drop|glass] for the nurses.",
+          "a": "straw"
+        },
+        {
+          "q": "We'll cross that [bridge|river|road] when we come to it.",
+          "a": "bridge"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Qué significa de verdad?",
+      "title_en": "What does it really mean?",
+      "icon": "🤔",
+      "es": "¿Verdadero (T) o falso (F)? Si es falso, piensa cuál es el significado correcto.",
+      "en": "True or false? If false, think of the correct meaning.",
+      "items": [
+        {
+          "q": "If something is <b>a long shot</b>, it is very likely to succeed.",
+          "a": false,
+          "why": "It is unlikely to succeed."
+        },
+        {
+          "q": "If you <b>get cold feet</b>, you become too nervous to go ahead.",
+          "a": true
+        },
+        {
+          "q": "<b>A cash cow</b> is a business that loses money every year.",
+          "a": false,
+          "why": "It is a reliable source of profit."
+        },
+        {
+          "q": "If you <b>see eye to eye</b> with someone, you agree with them.",
+          "a": true
+        },
+        {
+          "q": "If a joke <b>falls flat</b>, everyone laughs at it.",
+          "a": false,
+          "why": "Nobody finds it funny."
+        },
+        {
+          "q": "When you <b>burn the midnight oil</b>, you work late into the night.",
+          "a": true
+        },
+        {
+          "q": "If a company is <b>in the red</b>, it is making a healthy profit.",
+          "a": false,
+          "why": "It is losing money or in debt."
+        },
+        {
+          "q": "If you <b>bite your tongue</b>, you say exactly what you think.",
+          "a": false,
+          "why": "You stop yourself from saying it."
+        },
+        {
+          "q": "<b>A storm in a teacup</b> is a lot of fuss about something unimportant.",
+          "a": true
+        },
+        {
+          "q": "If you <b>keep someone at arm's length</b>, you avoid becoming close to them.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Completa el idiom",
+      "title_en": "Complete the idiom",
+      "icon": "🧩",
+      "es": "Completa cada idiom con una palabra del recuadro.",
+      "en": "Complete each idiom with a word from the box.",
+      "bank": [
+        "cake",
+        "hatchet",
+        "ropes",
+        "iceberg",
+        "plunge",
+        "fence",
+        "drain",
+        "ear",
+        "bell",
+        "weight"
+      ],
+      "items": [
+        {
+          "q": "Don't worry about the exam: it'll be a piece of ___.",
+          "a": "cake"
+        },
+        {
+          "q": "The two rival chefs have finally buried the ___.",
+          "a": "hatchet"
+        },
+        {
+          "q": "It took me a couple of months to learn the ___.",
+          "a": "ropes"
+        },
+        {
+          "q": "These complaints are just the tip of the ___.",
+          "a": "iceberg"
+        },
+        {
+          "q": "After years of renting, they took the ___ and bought a house.",
+          "a": "plunge"
+        },
+        {
+          "q": "You can't sit on the ___ for ever: which side are you on?",
+          "a": "fence"
+        },
+        {
+          "q": "All that investment went down the ___ when the project was cancelled.",
+          "a": "drain"
+        },
+        {
+          "q": "I'm not sure when I'll finish, so let's play it by ___.",
+          "a": "ear"
+        },
+        {
+          "q": "Hargreaves? The name rings a ___, but I can't place him.",
+          "a": "bell"
+        },
+        {
+          "q": "Everyone in this team needs to pull their ___.",
+          "a": "weight"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Español, idiom y significado",
+      "title_en": "Spanish, idiom and meaning",
+      "icon": "📋",
+      "wide": true,
+      "es": "Completa las casillas vacías: el idiom inglés, su equivalente español o su significado.",
+      "en": "Fill in the empty boxes: the English idiom, its Spanish equivalent or its meaning.",
+      "head": [
+        "Español",
+        "Idiom",
+        "Meaning · significado"
+      ],
+      "rows": [
+        [
+          "llegar a fin de mes",
+          "?make ends meet",
+          "have just enough money to live on"
+        ],
+        [
+          "dar en el clavo",
+          "?hit the nail on the head",
+          "describe something exactly right"
+        ],
+        [
+          "?andarse con rodeos",
+          "beat about the bush",
+          "avoid the main point"
+        ],
+        [
+          "no mojarse",
+          "?sit on the fence",
+          "avoid taking sides"
+        ],
+        [
+          "?la manzana de la discordia",
+          "a bone of contention",
+          "a subject of disagreement"
+        ],
+        [
+          "quemarse las pestañas",
+          "?burn the midnight oil",
+          "work late into the night"
+        ],
+        [
+          "?estar metido en un lío",
+          "be in hot water",
+          "be in trouble"
+        ],
+        [
+          "lanzarse a la piscina",
+          "?take the plunge",
+          "?finally do something risky"
+        ],
+        [
+          "?echarse atrás",
+          "get cold feet",
+          "?become too nervous to go ahead"
+        ],
+        [
+          "arrimar el hombro",
+          "?pull your weight",
+          "do your fair share of the work"
+        ]
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las fichas para formar una frase con un idiom. Ojo con las partes fijas.",
+      "en": "Put the tiles in order to make a sentence with an idiom.",
+      "items": [
+        {
+          "q": "the / she / towel / in / threw / finally",
+          "a": "She finally threw in the towel."
+        },
+        {
+          "q": "an arm / it / a leg / cost / and / us",
+          "a": "It cost us an arm and a leg."
+        },
+        {
+          "q": "court / the ball / in / is / your / now",
+          "a": "The ball is in your court now."
+        },
+        {
+          "q": "the / tip / just / of / is / this / iceberg / the",
+          "a": "This is just the tip of the iceberg."
+        },
+        {
+          "q": "my / bite / had / I / to / tongue",
+          "a": "I had to bite my tongue."
+        },
+        {
+          "q": "eye / don't / we / eye / to / see / always",
+          "a": "We don't always see eye to eye."
+        },
+        {
+          "q": "you / pulling / my / leg / are / ?",
+          "a": "Are you pulling my leg?"
+        },
+        {
+          "q": "when / we / come / that bridge / to it / cross / we'll",
+          "a": "We'll cross that bridge when we come to it."
+        },
+        {
+          "q": "make / to / struggling / ends / are / meet / many families",
+          "a": "Many families are struggling to make ends meet."
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Adapta el idiom a la frase",
+      "title_en": "Make the idiom fit",
+      "icon": "🔧",
+      "es": "Completa con el idiom del paréntesis en la forma correcta: cambia el tiempo verbal, el posesivo o el pronombre, pero nunca las partes fijas.",
+      "en": "Complete with the idiom in brackets in the correct form: change tense, possessive or pronoun, never the fixed parts.",
+      "items": [
+        {
+          "q": "I wish you would stop ______ and tell me what happened.",
+          "hint": "beat about the bush",
+          "a": "beating about the bush"
+        },
+        {
+          "q": "After three failed bids, the consortium finally ______ last week.",
+          "hint": "throw in the towel",
+          "a": "threw in the towel"
+        },
+        {
+          "q": "Yesterday I really ______ when I mentioned his ex-wife.",
+          "hint": "put your foot in it",
+          "a": "put my foot in it"
+        },
+        {
+          "q": "Don't believe a word he says: he's just ______.",
+          "hint": "pull someone's leg",
+          "a": "pulling your leg"
+        },
+        {
+          "q": "The two senators ______ since the scandal broke.",
+          "hint": "not see eye to eye",
+          "a": [
+            "haven't seen eye to eye",
+            "have not seen eye to eye"
+          ]
+        },
+        {
+          "q": "She ______ when the scholarship letter arrived.",
+          "hint": "be over the moon",
+          "a": "was over the moon"
+        },
+        {
+          "q": "By announcing the merger before the vote, the paper had ______.",
+          "hint": "jump the gun",
+          "a": "jumped the gun"
+        },
+        {
+          "q": "The new recruits are still ______, so be patient with them.",
+          "hint": "learn the ropes",
+          "a": "learning the ropes"
+        },
+        {
+          "q": "The buyer ______ at the last minute and pulled out of the sale.",
+          "hint": "get cold feet",
+          "a": "got cold feet"
+        },
+        {
+          "q": "Since the funding was cut, all our research ______.",
+          "hint": "go down the drain",
+          "a": "has gone down the drain"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase contiene UN error en el idiom (calco, palabra fija cambiada, número…). Escríbela bien.",
+      "en": "Each sentence has ONE mistake in the idiom. Write it correctly.",
+      "items": [
+        {
+          "q": "The renovation cost us an eye of the face.",
+          "a": "The renovation cost us an arm and a leg."
+        },
+        {
+          "q": "After the third rejection, she threw the towel.",
+          "a": "After the third rejection, she threw in the towel."
+        },
+        {
+          "q": "Sorry, what did you say? I was in the clouds.",
+          "a": [
+            "Sorry, what did you say? I had my head in the clouds.",
+            "Sorry, what did you say? I was miles away."
+          ]
+        },
+        {
+          "q": "Quantum physics sounds Chinese to me.",
+          "a": "Quantum physics is all Greek to me."
+        },
+        {
+          "q": "Stop beating about the bushes and get to the point.",
+          "a": "Stop beating about the bush and get to the point."
+        },
+        {
+          "q": "This solution kills two birds with one shot.",
+          "a": "This solution kills two birds with one stone."
+        },
+        {
+          "q": "The pay freeze was the drop that filled the glass.",
+          "a": "The pay freeze was the last straw."
+        },
+        {
+          "q": "I really put the leg when I asked about her husband.",
+          "a": "I really put my foot in it when I asked about her husband."
+        },
+        {
+          "q": "The minister is in hot waters over his expenses.",
+          "a": "The minister is in hot water over his expenses."
+        },
+        {
+          "q": "We're in the same ship, so let's help each other.",
+          "a": "We're in the same boat, so let's help each other."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones tipo Cambridge",
+      "title_en": "Key word transformations",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave (sin cambiarla) y entre 3 y 8 palabras. La palabra clave activa un idiom.",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word, unchanged, and 3–8 words.",
+      "items": [
+        {
+          "q": "Please stop avoiding the issue and say what you mean.<br>→ I'd rather you ________ and said what you meant.",
+          "hint": "BUSH",
+          "a": "I'd rather you <b>stopped beating about the bush</b> and said what you meant."
+        },
+        {
+          "q": "We paid a fortune for the holiday.<br>→ The holiday ________.",
+          "hint": "ARM",
+          "a": "The holiday <b>cost (us) an arm and a leg</b>."
+        },
+        {
+          "q": "It was Jane who accidentally revealed the secret about the merger.<br>→ The person ________ about the merger was Jane.",
+          "hint": "BAG",
+          "a": "The person <b>who let the cat out of the bag</b> about the merger was Jane."
+        },
+        {
+          "q": "The minister has yet to declare which side he supports.<br>→ The minister is ________.",
+          "hint": "FENCE",
+          "a": "The minister is <b>(still) sitting on the fence</b>."
+        },
+        {
+          "q": "It is now up to the unions to respond to our offer.<br>→ The ball is now ________.",
+          "hint": "COURT",
+          "a": "The ball is now <b>in the unions' court</b>."
+        },
+        {
+          "q": "It is very rare for us to eat out these days.<br>→ We ________ these days.",
+          "hint": "MOON",
+          "a": "We <b>(only) eat out once in a blue moon</b> these days."
+        },
+        {
+          "q": "Nobody in the audience found his attempt at humour remotely funny.<br>→ His attempt at humour ________ the audience.",
+          "hint": "FLAT",
+          "a": "His attempt at humour <b>fell (completely) flat with</b> the audience."
+        },
+        {
+          "q": "The deal was only saved at the very last moment.<br>→ It was not until ________ the deal was saved.",
+          "hint": "HOUR",
+          "a": "It was not until <b>the eleventh hour that</b> the deal was saved."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Del idiom al registro formal",
+      "title_en": "From idiom to formal register",
+      "icon": "🎓",
+      "es": "Estas frases van a un informe oficial. Sustituye el idiom (en negrita) por una expresión neutra o formal.",
+      "en": "These sentences are for an official report. Replace the idiom in bold with neutral or formal wording.",
+      "items": [
+        {
+          "q": "The firm has been <b>in the red</b> for two years.",
+          "a": "The firm has been <b>operating at a loss</b> (or <b>making a loss</b>) for two years."
+        },
+        {
+          "q": "The negotiators <b>threw in the towel</b> after six hours.",
+          "a": "The negotiators <b>abandoned their efforts</b> (or <b>conceded defeat</b>) after six hours."
+        },
+        {
+          "q": "Funding remains <b>a bone of contention</b> between the two departments.",
+          "a": "Funding remains <b>a source of disagreement</b> (or <b>a contentious issue</b>) between the two departments."
+        },
+        {
+          "q": "The council <b>jumped the gun</b> by approving the plan.",
+          "a": "The council <b>acted prematurely</b> in approving the plan."
+        },
+        {
+          "q": "Many households are struggling to <b>make ends meet</b>.",
+          "a": "Many households are struggling to <b>cover their basic living costs</b>."
+        },
+        {
+          "q": "The report <b>hits the nail on the head</b>.",
+          "a": "The report <b>identifies the problem precisely</b> (or <b>is entirely accurate</b>)."
+        },
+        {
+          "q": "The opposition leader is <b>sitting on the fence</b> over the issue.",
+          "a": "The opposition leader <b>is remaining neutral</b> (or <b>has not taken a clear position</b>) on the issue."
+        },
+        {
+          "q": "The minister is <b>in hot water</b> over his expenses.",
+          "a": "The minister <b>is facing serious criticism</b> (or <b>is under scrutiny</b>) over his expenses."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el artículo. Marca T (verdadero) o F (falso) y contesta las preguntas con tus propias palabras.",
+      "en": "Read the article. Tick T or F and answer the questions in your own words.",
+      "text_title": "The start-up that nearly wasn't",
+      "text": [
+        "When Marta Ruiz left her job at a Madrid bank to launch a food-delivery app, her friends thought she had bitten off more than she could chew. She had no experience in technology, and for the first eighteen months the company was firmly in the red. To make ends meet, she gave Spanish lessons in the evenings; at night, she burnt the midnight oil coding the prototype herself.",
+        "The low point came when her main investor got cold feet and withdrew, just weeks before the launch. ‘I was between a rock and a hard place,’ she recalls. ‘I could either throw in the towel or sell my flat to keep going.’ She took the plunge and sold it, although her parents, she admits, did not see eye to eye with her on that decision.",
+        "In the end, losing the investor proved a blessing in disguise. A larger fund, impressed by her determination, stepped in at the eleventh hour. Today the app is the group's cash cow, and Ruiz is understandably over the moon. Her advice to young entrepreneurs? ‘Learn the ropes before you start, and don't expect it to be a piece of cake.’"
+      ],
+      "items": [
+        {
+          "q": "Marta's friends thought her plan was too ambitious for her.",
+          "tf": true,
+          "a": true,
+          "why": "They thought she had bitten off more than she could chew."
+        },
+        {
+          "q": "The company made a profit from the very beginning.",
+          "tf": true,
+          "a": false,
+          "why": "For eighteen months it was in the red."
+        },
+        {
+          "q": "Her main investor withdrew because he became nervous.",
+          "tf": true,
+          "a": true,
+          "why": "He got cold feet."
+        },
+        {
+          "q": "Marta's parents fully supported the sale of her flat.",
+          "tf": true,
+          "a": false,
+          "why": "They did not see eye to eye with her."
+        },
+        {
+          "q": "How did Marta make ends meet during the first eighteen months?",
+          "a": "She gave Spanish lessons in the evenings."
+        },
+        {
+          "q": "What were the two options when she was ‘between a rock and a hard place’?",
+          "a": "Giving up (throwing in the towel) or selling her flat to keep going."
+        },
+        {
+          "q": "Why did losing the investor turn out to be ‘a blessing in disguise’?",
+          "a": "Because a larger fund, impressed by her determination, invested at the last moment."
+        },
+        {
+          "q": "Find an idiom in paragraph 3 meaning ‘a reliable source of profit’.",
+          "a": "a cash cow"
+        },
+        {
+          "q": "Rewrite ‘stepped in at the eleventh hour’ in neutral language.",
+          "a": "intervened at the last possible moment"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce usando un idiom inglés. No traduzcas la imagen española: busca el equivalente.",
+      "en": "Translate using an English idiom. Find the equivalent, not the literal image.",
+      "items": [
+        {
+          "q": "Ese coche les costó un ojo de la cara.",
+          "a": "That car cost them an arm and a leg."
+        },
+        {
+          "q": "Deja de andarte con rodeos y dime la verdad.",
+          "a": "Stop beating about the bush and tell me the truth."
+        },
+        {
+          "q": "Tras el tercer rechazo, ella tiró la toalla.",
+          "a": "After the third rejection, she threw in the towel."
+        },
+        {
+          "q": "La subida de precios fue la gota que colmó el vaso.",
+          "a": [
+            "The price rise was the last straw.",
+            "The price increase was the last straw."
+          ]
+        },
+        {
+          "q": "¿Me estás tomando el pelo?",
+          "a": [
+            "Are you pulling my leg?",
+            "Are you taking the mickey?"
+          ]
+        },
+        {
+          "q": "El Gobierno está entre la espada y la pared.",
+          "a": "The government is between a rock and a hard place."
+        },
+        {
+          "q": "Metí la pata al preguntarle por su exmujer.",
+          "a": "I put my foot in it when I asked him about his ex-wife."
+        },
+        {
+          "q": "Hemos hecho nuestra oferta: ahora la pelota está en su tejado (de ellos).",
+          "a": "We've made our offer: the ball is in their court now."
+        },
+        {
+          "q": "Perder aquel trabajo fue, al final, una suerte.",
+          "a": "Losing that job turned out to be a blessing in disguise."
+        },
+        {
+          "q": "Mi hermano viene a vernos de Pascuas a Ramos.",
+          "a": "My brother comes to see us once in a blue moon."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe en inglés. Cuida la forma exacta del idiom y el registro.",
+      "en": "Write in English. Watch the exact form of each idiom and the register.",
+      "items": [
+        {
+          "q": "Cuenta una ocasión en la que <b>metiste la pata</b> (put your foot in it). 2 frases.",
+          "lines": 2,
+          "a": "Ej.: At a dinner party I asked our host when the baby was due. I really put my foot in it: she wasn't pregnant."
+        },
+        {
+          "q": "Escribe un titular de prensa con <b>at the eleventh hour</b> o <b>in hot water</b>.",
+          "lines": 1,
+          "a": "Ej.: Strike averted at the eleventh hour as unions accept new pay offer."
+        },
+        {
+          "q": "Aconseja a alguien que quiere dejar la carrera. Usa <b>throw in the towel</b> y <b>a blessing in disguise</b>.",
+          "lines": 2,
+          "a": "Ej.: Don't throw in the towel just because you failed one exam. It may turn out to be a blessing in disguise."
+        },
+        {
+          "q": "Dos frases sobre tu trabajo o tus estudios: una con <b>learn the ropes</b> y otra con <b>pull your weight</b>.",
+          "lines": 2,
+          "a": "Ej.: It took me a month to learn the ropes. Now everyone expects me to pull my weight."
+        },
+        {
+          "q": "Reescribe este mensaje en tono formal: «We're in hot water: the budget's gone down the drain and the client's getting cold feet.»",
+          "lines": 3,
+          "a": "Ej.: We are currently facing serious difficulties: the budget has been exhausted and the client is reconsidering their commitment."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Reconozco al menos <b>50 idioms</b> frecuentes y sé qué significan.",
+      "en": "I recognise at least 50 common idioms and know what they mean."
+    },
+    {
+      "es": "Sé qué partes de un idiom <b>cambian</b> (verbo, posesivo) y cuáles son <b>fijas</b>.",
+      "en": "I know which parts of an idiom change and which are fixed."
+    },
+    {
+      "es": "Evito los calcos: cost <b>an arm and a leg</b>, nunca <s>an eye of the face</s>.",
+      "en": "I avoid literal calques from Spanish."
+    },
+    {
+      "es": "Distingo los idioms <b>coloquiales</b> de los <b>neutros</b> que acepta la prensa seria.",
+      "en": "I can tell colloquial idioms from neutral ones."
+    },
+    {
+      "es": "En un texto académico sustituyo un idiom coloquial por una <b>paráfrasis formal</b>.",
+      "en": "I can paraphrase idioms in formal writing."
+    },
+    {
+      "es": "Resuelvo <b>transformaciones tipo Cambridge C2</b> en las que la palabra clave activa un idiom.",
+      "en": "I can do C2 key word transformations with idioms."
+    }
+  ]
+}

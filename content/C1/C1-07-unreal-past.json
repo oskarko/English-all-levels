@@ -1,0 +1,799 @@
+{
+  "id": "C1-07",
+  "level": "C1",
+  "title": "UNREAL PAST",
+  "file_title": "Unreal past",
+  "subtitle": "Would rather, it's time, as if · el pasado que no es pasado",
+  "icon": "🎭",
+  "map": {
+    "center": "En inglés, el <b>pasado</b> no siempre habla del pasado: también expresa lo <b>irreal</b>, lo <b>deseado</b> o lo <b>imaginado</b>.",
+    "nodes": [
+      {
+        "title": "¿Qué es?",
+        "icon": "🎭",
+        "color": "green",
+        "items": [
+          "Forma de pasado, significado <b>presente o futuro</b>",
+          "I'd rather you <b>stayed</b>. <i>(= que te quedes)</i>",
+          "Irreal en el pasado → <b>past perfect</b>"
+        ]
+      },
+      {
+        "title": "Would rather / sooner",
+        "icon": "🙏",
+        "color": "blue",
+        "rows": [["+ infinitivo", "mismo sujeto: I'd rather <b>walk</b>."], ["+ sujeto + pasado", "otro sujeto: I'd rather you <b>drove</b>."]],
+        "after": "I'd rather you <b>didn't</b> smoke here."
+      },
+      {
+        "title": "It's time",
+        "icon": "⏰",
+        "color": "purple",
+        "art": "⌛",
+        "items": [
+          "It's (<b>high / about</b>) time + sujeto + <b>pasado</b>",
+          "It's high time we <b>left</b>. <i>(Ya va siendo hora.)</i>",
+          "Neutro: It's time <b>to</b> leave."
+        ]
+      },
+      {
+        "title": "As if / as though",
+        "icon": "🤥",
+        "color": "orange",
+        "items": [
+          "Irreal → pasado: He talks <b>as if</b> he <b>knew</b> it all.",
+          "Probable → presente: It looks <b>as if</b> it's going to rain.",
+          "Antes → past perfect: as if he <b>had seen</b> a ghost"
+        ]
+      },
+      {
+        "title": "Suppose / imagine",
+        "icon": "💭",
+        "color": "pink",
+        "art": "🏝️",
+        "items": [
+          "<b>Suppose / Imagine / What if</b> + pasado = hipótesis",
+          "<b>Suppose</b> you <b>lost</b> your job…",
+          "Pasado: <b>What if</b> he <b>had seen</b> us?"
+        ]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "color": "yellow",
+        "items": ["Formal: <b>were</b> con todas las personas", "Negativa: I'd rather you <b>didn't</b>…", "would rather + infinitivo <b>sin to</b>"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["I'd rather you don't tell her."],
+      "good": ["I'd rather you didn't tell her."],
+      "note": "<b>would rather</b> + otro sujeto → <b>pasado</b>"
+    },
+    "mini": {
+      "es": "Completa con la forma correcta del verbo.",
+      "en": "Complete with the correct form of the verb.",
+      "items": [
+        {"q": "I'd rather you ____ (not / smoke) here.", "a": "didn't smoke"},
+        {"q": "It's high time we ____ (go) home.", "a": "went"},
+        {"q": "He acts as if he ____ (own) the place.", "a": "owned"},
+        {"q": "Suppose you ____ (win) the lottery…", "a": "won"},
+        {"q": "I'd rather you ____ (tell) me yesterday.", "a": "had told"}
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "En inglés, el pasado tiene un segundo trabajo: expresar <mark>distancia de la realidad</mark>. Tras estructuras como <b>would rather</b>, <b>it's time</b>, <b>as if</b> o <b>suppose</b>, un verbo en pasado (<i>went, knew, didn't</i>) habla del <b>presente o del futuro</b>, pero de forma irreal, deseada o hipotética. Es el equivalente de muchos <b>subjuntivos</b> del español: <i>prefiero que te quedes → I'd rather you <b>stayed</b></i>. Para referirnos a algo irreal en el pasado, damos <b>un paso más atrás</b>: past perfect (<i>had gone</i>). <small>(Wish e if only, de la misma familia, se trabajan en B2.)</small>",
+      "en": "The past tense can express distance from reality. After would rather, it's time, as if or suppose, a past form refers to the present or future in an unreal way. For the unreal past, we step back again: past perfect.",
+      "formula": ["would rather / it's time / as if + *pasado simple* + = irreal ahora", "would rather / as if / suppose + *past perfect* + = irreal antes"]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Would rather / would sooner",
+      "title_en": "Preferences",
+      "icon": "🙏",
+      "color": "blue",
+      "es": "<b>would rather</b> (contracción <b>'d rather</b>) y su variante menos frecuente <b>would sooner</b> significan <i>preferiría</i>. Si el sujeto es <b>el mismo</b>, van con <b>infinitivo sin to</b>: <i>I'd rather stay in</i>. Si hablamos de lo que preferimos que haga <mark>otra persona</mark>, usamos <b>sujeto + pasado</b>, aunque hablemos del presente o del futuro: <i>I'd rather you stayed in</i> (<i>prefiero que te quedes</i>). Negativas: <b>I'd rather not</b> + infinitivo / <b>I'd rather you didn't</b> + infinitivo, una forma muy educada de pedir que alguien <b>no</b> haga algo.",
+      "en": "would rather / would sooner + bare infinitive (same subject); + another subject + past simple (present or future meaning). Negatives: I'd rather not…, I'd rather you didn't…",
+      "formula": ["Sujeto + *would rather* + infinitivo", "Sujeto + *would rather* + otro sujeto + *pasado*"],
+      "examples": [
+        {
+          "en": "I<b>'d rather</b> work from home tomorrow, if that's all right.",
+          "es": "Preferiría trabajar desde casa mañana, si no hay problema.",
+          "icon": "🏠"
+        },
+        {"en": "I<b>'d rather</b> you <b>didn't</b> mention this to anyone.", "es": "Preferiría que no se lo comentaras a nadie.", "icon": "🤐"},
+        {
+          "en": "My parents <b>would sooner</b> I <b>studied</b> law than drama.",
+          "es": "Mis padres preferirían que estudiara Derecho en vez de Arte Dramático.",
+          "icon": "⚖️"
+        },
+        {"en": "<b>Would</b> you <b>rather</b> I <b>came</b> back later?", "es": "¿Prefieres que vuelva más tarde?", "icon": "🚪"}
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del paso atrás",
+      "title_en": "The step-back trick",
+      "es": "Piensa en el pasado como una <b>distancia</b>: alejarse en el tiempo = alejarse de la realidad. Un paso atrás (<b>presente → pasado</b>) = irreal ahora. Dos pasos atrás (<b>presente → past perfect</b>) = irreal en el pasado. Y donde en español pondrías <b>subjuntivo</b> (<i>prefiero que vengas, ya es hora de que te vayas, como si fuera</i>), en estas estructuras el inglés pone <b>pasado</b>.",
+      "en": "Past = distance from reality. One step back = unreal now; two steps back = unreal past. Where Spanish uses the subjunctive, English uses the past."
+    },
+    {
+      "t": "table",
+      "title": "Todas las formas de WOULD RATHER",
+      "title_en": "All the would rather patterns",
+      "icon": "🧩",
+      "color": "teal",
+      "head": ["Estructura", "Tiempo", "Ejemplo", "Traducción"],
+      "rows": [
+        ["would rather + infinitivo", "ahora / futuro", "I'd rather <b>walk</b>.", "Prefiero ir andando."],
+        ["would rather not + infinitivo", "ahora / futuro", "I'd rather <b>not</b> say.", "Prefiero no decirlo."],
+        ["would rather + A + than + B", "ahora / futuro", "I'd rather <b>walk than</b> wait for the bus.", "Prefiero andar que esperar el autobús."],
+        ["would rather + sujeto + pasado", "ahora / futuro", "I'd rather you <b>drove</b>.", "Prefiero que conduzcas tú."],
+        ["would rather + sujeto + didn't", "ahora / futuro", "I'd rather you <b>didn't</b> smoke.", "Preferiría que no fumaras."],
+        ["would rather + sujeto + past perfect", "pasado", "I'd rather you <b>hadn't</b> come.", "Habría preferido que no vinieras."],
+        ["would rather have + participio", "pasado", "I'd rather <b>have flown</b>.", "Habría preferido ir en avión."]
+      ],
+      "note": "<b>would sooner</b> sigue exactamente los mismos patrones. Respuesta corta muy útil: <i>Shall I tell him? — I'd rather you didn't.</i>",
+      "note_en": "would sooner follows the same patterns. Useful reply: I'd rather you didn't.",
+      "wide": true
+    },
+    {
+      "t": "compare",
+      "title": "WOULD RATHER, WOULD PREFER o PREFER",
+      "title_en": "would rather, would prefer or prefer?",
+      "icon": "⚖️",
+      "color": "blue",
+      "wide": true,
+      "es": "Las tres expresan preferencia, pero cada una tiene su propia gramática. ¡Ojo con el <b>to</b> y con <b>than / to</b>!",
+      "en": "All three express preference, but each has its own grammar.",
+      "cols": [
+        {
+          "head": "🙏 would rather",
+          "color": "blue",
+          "items": [
+            "+ infinitivo <b>sin to</b>: I'd rather <b>go</b>.",
+            "+ sujeto + <b>pasado</b>: I'd rather you <b>went</b>.",
+            "A <b>than</b> B: I'd rather go <b>than</b> stay."
+          ]
+        },
+        {
+          "head": "🤝 would prefer",
+          "color": "green",
+          "items": [
+            "+ <b>to</b> + infinitivo: I'd prefer <b>to go</b>.",
+            "+ <b>it if</b> + pasado: I'd prefer <b>it if</b> you <b>went</b>.",
+            "+ objeto + to: I'd prefer you <b>to go</b>."
+          ]
+        },
+        {
+          "head": "💚 prefer (en general)",
+          "color": "orange",
+          "items": [
+            "+ -ing o nombre: I prefer <b>walking</b>.",
+            "A <b>to</b> B: I prefer tea <b>to</b> coffee.",
+            "<i>Gustos generales, no una situación concreta.</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Preferencias sobre el pasado",
+      "title_en": "Preferences about the past",
+      "icon": "⏪",
+      "color": "purple",
+      "es": "Para expresar una preferencia sobre algo que <b>ya ocurrió</b>, damos un paso atrás: <b>would rather + otro sujeto + past perfect</b> (<i>I'd rather you <b>had told</b> me</i> = <i>habría preferido que me lo dijeras</i>). Si el sujeto es el mismo, usamos <b>would rather have + participio</b>: <i>I'd rather <b>have stayed</b> at home</i> (<i>habría preferido quedarme en casa</i>). En ambos casos, lo que pasó en realidad fue <mark>lo contrario</mark>.",
+      "en": "Preferences about the past: would rather + subject + past perfect, or would rather have + past participle (same subject). What actually happened was the opposite.",
+      "formula": ["*would rather* + otro sujeto + *past perfect*", "*would rather have* + participio"],
+      "examples": [
+        {
+          "en": "I<b>'d rather</b> you <b>had asked</b> me before inviting them.",
+          "es": "Habría preferido que me preguntaras antes de invitarlos.",
+          "icon": "🙄"
+        },
+        {"en": "She<b>'d rather</b> they <b>hadn't published</b> the photos.", "es": "Ella habría preferido que no publicaran las fotos.", "icon": "📸"},
+        {"en": "To be honest, I<b>'d rather have gone</b> to the beach.", "es": "Sinceramente, habría preferido ir a la playa.", "icon": "🏖️"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · It's time / high time / about time",
+      "title_en": "It's time + past",
+      "icon": "⏰",
+      "color": "green",
+      "es": "<b>It's time + sujeto + pasado</b> significa <i>ya es hora de que…</i>: algo <mark>debería estar pasando ya</mark> y no pasa. Con <b>high</b> o <b>about</b> añadimos impaciencia, crítica o ironía (<i>ya va siendo hora</i>). Si no hay crítica y solo constatamos que ha llegado el momento, usamos <b>it's time (for + persona) + to + infinitivo</b>. Ojo: tras <i>it's (high) time</i> + sujeto no se usa ni el presente ni el past perfect.",
+      "en": "It's (high / about) time + subject + past simple: something should already be happening (often critical). Neutral: It's time (for sb) to + infinitive.",
+      "formula": ["*It's (high / about) time* + sujeto + *pasado*", "*It's time* + (for + persona) + *to* + infinitivo"],
+      "examples": [
+        {
+          "en": "It<b>'s high time</b> the government <b>tackled</b> the housing crisis.",
+          "es": "Ya va siendo hora de que el Gobierno aborde la crisis de la vivienda.",
+          "icon": "🏘️"
+        },
+        {"en": "It<b>'s about time</b> you <b>found</b> a proper job!", "es": "¡Ya es hora de que te busques un trabajo como Dios manda!", "icon": "💼"},
+        {"en": "It<b>'s time</b> we <b>were</b> going — it's nearly midnight.", "es": "Ya es hora de que nos vayamos: es casi medianoche.", "icon": "🌙"},
+        {"en": "It<b>'s time for</b> the children <b>to go</b> to bed.", "es": "Es hora de que los niños se vayan a la cama.", "icon": "🛏️"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · As if / as though",
+      "title_en": "Unreal comparisons",
+      "icon": "🤥",
+      "color": "orange",
+      "es": "<b>as if</b> y <b>as though</b> (<i>como si</i>) son intercambiables. Tras ellos, el <b>pasado</b> indica que la comparación es <mark>irreal o improbable</mark>: <i>He talks as if he <b>knew</b> everything</i> (no lo sabe todo). Si la comparación es <b>probable o real</b>, usamos el tiempo normal: <i>It looks as if it<b>'s going to</b> rain</i>. Para algo irreal anterior: <b>past perfect</b> (<i>as if he <b>had seen</b> a ghost</i>). En registro formal se prefiere <b>were</b> con todas las personas; en lenguaje coloquial muchos nativos usan <b>like</b>. Expresiones: <b>It's not as if</b> + pasado = <i>¡ni que…!</i>; <b>As if!</b> = <i>¡ni de broma!</i>",
+      "en": "as if / as though + past = unreal comparison; + present = likely. Past perfect for an earlier unreal situation. Formal: were. It's not as if… = ¡ni que…!",
+      "formula": ["verbo + *as if / as though* + *pasado* + (irreal)", "verbo + *as if* + *past perfect* + (irreal y anterior)"],
+      "examples": [
+        {"en": "He behaves <b>as if</b> he <b>owned</b> the company.", "es": "Se comporta como si fuera el dueño de la empresa.", "icon": "🏢"},
+        {"en": "She looked <b>as though</b> she <b>had seen</b> a ghost.", "es": "Tenía cara de haber visto un fantasma.", "icon": "👻"},
+        {"en": "Don't talk to me <b>as if</b> I <b>were</b> a child.", "es": "No me hables como si fuera un niño.", "icon": "🧒"},
+        {"en": "It sounds <b>as if</b> the meeting <b>is going</b> well.", "es": "Parece que la reunión va bien.", "icon": "🎧"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Suppose / imagine / what if",
+      "title_en": "Imagining situations",
+      "icon": "💭",
+      "color": "pink",
+      "es": "<b>Suppose</b>, <b>Supposing</b>, <b>Imagine</b> y <b>What if</b> (<i>imagina que…, ¿y si…?</i>) introducen hipótesis. Con <b>pasado</b>, la situación es <mark>improbable o imaginaria</mark> (presente o futuro); con <b>past perfect</b>, imaginamos un pasado distinto; con <b>presente</b>, la posibilidad es real. La oración principal suele llevar <b>would</b> (o <b>would have</b> para el pasado). <small>(Supposing como alternativa a if se amplía en las condicionales avanzadas.)</small>",
+      "en": "Suppose / Supposing / Imagine / What if + past = unlikely or imaginary; + past perfect = imagined past; + present = real possibility.",
+      "formula": ["*Suppose / Imagine / What if* + *pasado* + … would …?", "*What if* + *past perfect* + … would have …?"],
+      "examples": [
+        {
+          "en": "<b>Suppose</b> you <b>were</b> offered a job in Tokyo — would you take it?",
+          "es": "Imagina que te ofrecieran un trabajo en Tokio: ¿lo aceptarías?",
+          "icon": "🗼"
+        },
+        {
+          "en": "<b>Imagine</b> we <b>didn't have</b> the internet. How would we work?",
+          "es": "Imagina que no tuviéramos internet. ¿Cómo trabajaríamos?",
+          "icon": "🌐"
+        },
+        {"en": "<b>What if</b> someone <b>had seen</b> us?", "es": "¿Y si alguien nos hubiera visto?", "icon": "👀"},
+        {"en": "<b>Suppose</b> it <b>rains</b> tomorrow — have we got a plan B?", "es": "Pongamos que mañana llueve: ¿tenemos un plan B?", "icon": "☔"}
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "AS IF + presente o + pasado",
+      "title_en": "Likely or unreal?",
+      "icon": "🔎",
+      "color": "orange",
+      "es": "El tiempo verbal revela lo que piensa el hablante: ¿es <b>posible o cierto</b>, o es <b>imaginario</b>?",
+      "en": "The tense shows whether the speaker thinks it is likely or imaginary.",
+      "cols": [
+        {
+          "head": "✅ Probable → presente",
+          "color": "green",
+          "items": [
+            "You look <b>as if</b> you <b>need</b> a rest. <i>(Probablemente sí.)</i>",
+            "It feels <b>as though</b> spring <b>has</b> finally <b>arrived</b>."
+          ]
+        },
+        {
+          "head": "🎭 Irreal → pasado",
+          "color": "purple",
+          "items": ["He spends <b>as if</b> he <b>were</b> a millionaire. <i>(No lo es.)</i>", "She treats me <b>as though</b> I <b>didn't exist</b>."]
+        }
+      ],
+      "wide": true
+    },
+    {
+      "t": "table",
+      "title": "Resumen del unreal past",
+      "title_en": "Unreal past at a glance",
+      "icon": "🧭",
+      "color": "orange",
+      "wide": true,
+      "head": ["Estructura", "Irreal ahora / futuro", "Irreal en el pasado", "Alternativa «real» o neutra"],
+      "rows": [
+        ["would rather / would sooner", "I'd rather you <b>left</b>.", "I'd rather you <b>had left</b>.", "I'd rather <b>leave</b>. (mismo sujeto)"],
+        ["it's (high / about) time", "It's time we <b>left</b>.", "— (no se usa)", "It's time <b>to leave</b>."],
+        ["as if / as though", "as if he <b>knew</b>", "as if he <b>had known</b>", "as if it<b>'s</b> true (probable)"],
+        ["suppose / imagine / what if", "Suppose you <b>lost</b> it…", "What if you <b>had lost</b> it?", "Suppose you <b>lose</b> it… (posible)"],
+        ["I'd prefer it if", "I'd prefer it if you <b>stayed</b>.", "I'd have preferred it if you <b>had stayed</b>.", "I'd prefer <b>to stay</b>."],
+        ["wish / if only <small>(B2)</small>", "I wish I <b>knew</b>.", "I wish I <b>had known</b>.", "I hope I <b>know</b>."]
+      ],
+      "note": "Regla de oro: <b>pasado = irreal en el presente</b>; <b>past perfect = irreal en el pasado</b>. Con el verbo <b>be</b>, el registro formal prefiere <b>were</b>: <i>as if I were…, suppose he were…</i>; <i>was</i> es coloquial.",
+      "note_en": "Golden rule: past = unreal now; past perfect = unreal past. Formal English prefers were."
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos en contexto",
+      "title_en": "More examples in context",
+      "items": [
+        {"en": "I<b>'d rather</b> we <b>discussed</b> this in private.", "es": "Preferiría que habláramos de esto en privado.", "icon": "🚪"},
+        {"en": "<b>Would</b> you <b>rather</b> I <b>didn't</b> come to the meeting?", "es": "¿Preferirías que no fuera a la reunión?", "icon": "📋"},
+        {"en": "I<b>'d sooner</b> resign <b>than</b> sign that document.", "es": "Antes dimitiría que firmar ese documento.", "icon": "✍️"},
+        {
+          "en": "It<b>'s high time</b> we <b>updated</b> our privacy policy.",
+          "es": "Ya va siendo hora de que actualicemos nuestra política de privacidad.",
+          "icon": "🔐"
+        },
+        {"en": "Isn't it <b>about time</b> you <b>apologised</b> to her?", "es": "¿No crees que ya va siendo hora de que le pidas perdón?", "icon": "💐"},
+        {"en": "He spoke <b>as if</b> nothing <b>had happened</b>.", "es": "Habló como si no hubiera pasado nada.", "icon": "🤷"},
+        {
+          "en": "She treats her assistant <b>as though</b> he <b>were</b> her servant.",
+          "es": "Trata a su asistente como si fuera su criado.",
+          "icon": "☕"
+        },
+        {"en": "It looks <b>as if</b> we<b>'re going to</b> miss the deadline.", "es": "Parece que vamos a incumplir el plazo.", "icon": "⏳"},
+        {
+          "en": "<b>Supposing</b> the bank <b>refused</b> the loan — what would we do?",
+          "es": "Supongamos que el banco nos denegara el préstamo: ¿qué haríamos?",
+          "icon": "🏦"
+        },
+        {
+          "en": "<b>Imagine</b> you <b>could</b> live anywhere in the world.",
+          "es": "Imagina que pudieras vivir en cualquier parte del mundo.",
+          "icon": "🌍"
+        },
+        {"en": "<b>What if</b> the experiment <b>had failed</b>?", "es": "¿Y si el experimento hubiera fracasado?", "icon": "🧪"},
+        {
+          "en": "I<b>'d prefer it if</b> you <b>didn't</b> use your phone during meals.",
+          "es": "Preferiría que no usaras el móvil durante las comidas.",
+          "icon": "📱"
+        },
+        {"en": "<b>It's not as if</b> we <b>were</b> short of money.", "es": "Ni que estuviéramos mal de dinero.", "icon": "💰"}
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I'd rather you don't tell her.",
+          "good": "I'd rather you <b>didn't</b> tell her.",
+          "why": "would rather + otro sujeto → pasado, aunque hable del futuro.",
+          "why_en": "would rather + another subject → past."
+        },
+        {
+          "bad": "I'd rather to stay at home.",
+          "good": "I'd rather <b>stay</b> at home.",
+          "why": "would rather + infinitivo sin to (would prefer sí lleva to).",
+          "why_en": "No to after would rather."
+        },
+        {"bad": "It's time we go.", "good": "It's time we <b>went</b>.", "why": "It's time + sujeto → pasado.", "why_en": "It's time + subject → past."},
+        {
+          "bad": "It's high time you had started studying.",
+          "good": "It's high time you <b>started</b> studying.",
+          "why": "Tras it's time no se usa past perfect.",
+          "why_en": "No past perfect after it's time."
+        },
+        {
+          "bad": "She looked as if she has seen a ghost.",
+          "good": "She looked as if she <b>had seen</b> a ghost.",
+          "why": "Irreal y anterior al momento pasado → past perfect.",
+          "why_en": "Earlier unreal situation → past perfect."
+        },
+        {
+          "bad": "Suppose you would win the lottery, what would you do?",
+          "good": "Suppose you <b>won</b> the lottery, what would you do?",
+          "why": "Tras suppose / imagine → pasado, no would.",
+          "why_en": "No would after suppose."
+        },
+        {
+          "bad": "I'd rather walk that take a taxi.",
+          "good": "I'd rather walk <b>than</b> take a taxi.",
+          "why": "Comparación → than (calco de «que»).",
+          "why_en": "Comparison → than."
+        },
+        {
+          "bad": "It's time for you go to bed.",
+          "good": "It's time for you <b>to go</b> to bed.",
+          "why": "it's time for + persona + to + infinitivo.",
+          "why_en": "it's time for sb to do."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {"es": "Identifica la estructura: <b>would rather, it's time, as if, suppose…</b>", "en": "Identify the structure."},
+        {
+          "es": "Con would rather, ¿es el <b>mismo sujeto</b>? → infinitivo sin to. ¿<b>Otro sujeto</b>? → sujeto + pasado.",
+          "en": "Same subject → bare infinitive; another subject → past."
+        },
+        {
+          "es": "¿Es irreal en el <b>presente o futuro</b>? → <b>pasado simple</b> (were, didn't, went).",
+          "en": "Unreal now or in the future → past simple."
+        },
+        {
+          "es": "¿Es irreal en el <b>pasado</b>? → <b>past perfect</b> (had gone), excepto con it's time.",
+          "en": "Unreal past → past perfect (not after it's time)."
+        },
+        {"es": "¿Es <b>probable o real</b> (as if, suppose)? → tiempo normal (presente).", "en": "Likely or real → normal tense."},
+        {"es": "Revisa el registro: <b>were</b> (formal) frente a <b>was</b> (coloquial).", "en": "Check register: were (formal) vs was (informal)."}
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Cambios en la oficina",
+      "title_en": "Office reshuffle",
+      "lines": [
+        {
+          "who": "Mark",
+          "en": "Have you heard? Management want us to move to an open-plan office.",
+          "es": "¿Te has enterado? La dirección quiere que nos traslademos a una oficina diáfana."
+        },
+        {
+          "who": "Elena",
+          "en": "Seriously? I'd rather they spent the money on new laptops.",
+          "es": "¿En serio? Preferiría que se gastaran el dinero en portátiles nuevos."
+        },
+        {
+          "who": "Mark",
+          "en": "Me too. And Harris talks about it as if it were a done deal.",
+          "es": "Yo también. Y Harris habla de ello como si ya estuviera decidido."
+        },
+        {
+          "who": "Elena",
+          "en": "Well, it's high time somebody asked us what we think.",
+          "es": "Pues ya va siendo hora de que alguien nos pregunte qué opinamos."
+        },
+        {
+          "who": "Mark",
+          "en": "Suppose we wrote a joint letter — would people sign it?",
+          "es": "Imagina que escribiéramos una carta conjunta: ¿la firmaría la gente?"
+        },
+        {
+          "who": "Elena",
+          "en": "I think so. But I'd rather you didn't put my name at the top!",
+          "es": "Creo que sí. ¡Pero preferiría que no pusieras mi nombre el primero!"
+        },
+        {
+          "who": "Mark",
+          "en": "Fair enough. Mind you, I'd rather they had consulted us from the start.",
+          "es": "Me parece justo. Eso sí, habría preferido que nos consultaran desde el principio."
+        },
+        {"who": "Elena", "en": "Exactly. It's not as if we didn't have any ideas!", "es": "Exacto. ¡Ni que no tuviéramos ideas!"}
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Elige la forma correcta",
+      "title_en": "Choose the correct form",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        {"q": "I'd rather you [didn't|don't] tell anyone about this.", "a": "didn't"},
+        {"q": "It's high time the council [repaired|repairs] this road.", "a": "repaired"},
+        {"q": "I'd rather [stay|to stay] in tonight, if you don't mind.", "a": "stay"},
+        {"q": "I'd prefer [to stay|stay] in tonight.", "a": "to stay"},
+        {"q": "He looked as though he [hadn't slept|didn't sleep] for days.", "a": "hadn't slept"},
+        {"q": "Suppose you [lost|would lose] your passport abroad — what would you do?", "a": "lost"},
+        {"q": "The sky's grey. It looks as if it [is going to|were going to] snow.", "a": "is going to"},
+        {"q": "I'd rather you [had warned|warned] me yesterday.", "a": "had warned"},
+        {"q": "It's time [for us to leave|for us leaving].", "a": "for us to leave"},
+        {"q": "I'd sooner walk [than|that] wait for a taxi.", "a": "than"}
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une las dos mitades",
+      "title_en": "Match the halves",
+      "icon": "🔗",
+      "es": "Une el principio de cada frase con su final.",
+      "en": "Match the beginning of each sentence with its ending.",
+      "pairs": [
+        ["I'd rather you didn't", "smoke in the car."],
+        ["It's high time you", "got your car serviced."],
+        ["He talks as if he", "were an expert on everything."],
+        ["She looked as though she", "had been crying."],
+        ["I'd rather have", "gone by train."],
+        ["I'd sooner resign", "than accept these conditions."],
+        ["It's time for the board", "to make a decision."],
+        ["I'd prefer it if", "you called before visiting."]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Ahora o antes?",
+      "title_en": "Now or before?",
+      "icon": "🗂️",
+      "es": "¿La frase habla de una situación irreal en el presente/futuro o en el pasado? Clasifícalas.",
+      "en": "Is the unreal situation in the present/future or in the past?",
+      "cats": [
+        {
+          "name": "Irreal ahora / futuro",
+          "words": ["I'd rather you went.", "It's time we left.", "as if he knew", "Suppose she said no…", "I'd rather you didn't.", "What if they found out?"]
+        },
+        {
+          "name": "Irreal en el pasado",
+          "words": [
+            "I'd rather you had gone.",
+            "as if he had known",
+            "What if she had said no?",
+            "I'd rather have stayed.",
+            "as though nobody had noticed",
+            "Imagine we had missed it!"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Pon el verbo en su forma",
+      "title_en": "Put the verb in the right form",
+      "icon": "✏️",
+      "es": "Escribe el verbo entre paréntesis en la forma correcta.",
+      "en": "Write the verb in brackets in the correct form.",
+      "items": [
+        {"q": "I'd rather you ____ (not / wear) jeans to the interview.", "a": "didn't wear"},
+        {"q": "It's about time the trains ____ (run) on time.", "a": "ran"},
+        {"q": "He talks as if he ____ (be) the boss.", "a": ["were", "was"]},
+        {"q": "She looked as though she ____ (win) the lottery.", "a": "had won"},
+        {"q": "Suppose we ____ (miss) the last train — where would we sleep?", "a": "missed"},
+        {"q": "I'd rather you ____ (tell) me the truth from the start.", "a": "had told"},
+        {"q": "I'd rather ____ (not / discuss) it over the phone.", "a": "not discuss"},
+        {"q": "It's high time you ____ (start) taking your health seriously.", "a": "started"},
+        {"q": "What if the alarm ____ (not / go) off? We'd have been robbed.", "a": "hadn't gone"},
+        {"q": "I'd rather ____ (take) the train; flying was a nightmare.", "a": "have taken"}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Elige la expresión",
+      "title_en": "Choose the expression",
+      "icon": "🧩",
+      "es": "Completa con una expresión del recuadro. Puedes usar alguna más de una vez.",
+      "en": "Complete with an expression from the box.",
+      "bank": ["would rather", "would prefer", "suppose", "as if / as though", "it's high time", "it's time for"],
+      "items": [
+        {"q": "I ____ you didn't call me at work.", "a": "would rather"},
+        {"q": "I ____ to discuss this face to face.", "a": "would prefer"},
+        {"q": "____ we sold the flat — where would we live?", "a": "Suppose"},
+        {"q": "You look ____ you've just run a marathon.", "a": ["as if", "as though"]},
+        {"q": "____ the company invested in training.", "a": "It's high time"},
+        {"q": "____ the children to go to bed.", "a": "It's time for"},
+        {"q": "I ____ it if you didn't bring your dog.", "a": "would prefer"},
+        {"q": "He's acting ____ nothing had happened.", "a": ["as if", "as though"]}
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "wide": true,
+      "es": "Completa con la forma que pide cada columna después de <b>I'd rather you…</b>",
+      "en": "Complete with the form each column needs after I'd rather you…",
+      "head": ["Verbo", "Irreal ahora · I'd rather you…", "Irreal pasado · I'd rather you…", "Negativa ahora · I'd rather you…"],
+      "rows": [
+        ["go", "went", "?had gone", "?didn't go"],
+        ["tell", "?told", "had told", "?didn't tell"],
+        ["be", "?were / was", "?had been", "weren't / wasn't"],
+        ["come", "?came", "?had come", "didn't come"],
+        ["leave", "left", "?had left", "?didn't leave"],
+        ["buy", "?bought", "had bought", "?didn't buy"]
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las fichas y escribe la frase completa.",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {"q": "rather / you / I'd / didn't / smoke / here", "a": "I'd rather you didn't smoke here."},
+        {"q": "time / we / high / it's / left", "a": "It's high time we left."},
+        {"q": "as if / he / talks / he / everything / knew", "a": "He talks as if he knew everything."},
+        {"q": "suppose / you / lost / your job / what / would / you / do / ?", "a": "Suppose you lost your job, what would you do?"},
+        {"q": "had / she / as though / looked / she / a ghost / seen", "a": "She looked as though she had seen a ghost."},
+        {"q": "rather / have / I'd / stayed / at home", "a": "I'd rather have stayed at home."},
+        {"q": "about / you / it's / time / apologised", "a": "It's about time you apologised."},
+        {"q": "sooner / I'd / resign / than / lie / to the board", "a": "I'd sooner resign than lie to the board."}
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Qué significa?",
+      "title_en": "What does it mean?",
+      "icon": "🤔",
+      "es": "Lee la frase y decide si la afirmación es verdadera (T) o falsa (F).",
+      "en": "Read the sentence and decide if the statement is true or false.",
+      "items": [
+        {"q": "“I'd rather you didn't come.” → The speaker wants the listener to come.", "a": false, "why": "Prefiere que no venga."},
+        {"q": "“It's high time we left.” → We should already be leaving.", "a": true, "why": "Implica que ya vamos tarde."},
+        {"q": "“He talks as if he were a doctor.” → He is a doctor.", "a": false, "why": "Pasado tras as if = irreal."},
+        {"q": "“It looks as if it's going to rain.” → Rain is likely.", "a": true, "why": "Presente tras as if = probable."},
+        {"q": "“I'd rather you had told me.” → You told me.", "a": false, "why": "Past perfect = no me lo dijiste."},
+        {"q": "“Suppose you won the lottery.” → The speaker thinks winning is quite likely.", "a": false, "why": "Pasado = hipótesis improbable."},
+        {"q": "“I'd rather have stayed at home.” → I didn't stay at home.", "a": true, "why": "Preferencia sobre el pasado: pasó lo contrario."},
+        {"q": "“It's not as if we were short of money.” → We have enough money.", "a": true, "why": "It's not as if… = ¡ni que…!"}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Reformula con la estructura",
+      "title_en": "Rewrite with the structure given",
+      "icon": "🔁",
+      "es": "Reescribe la frase con la estructura entre paréntesis, sin cambiar el significado.",
+      "en": "Rewrite the sentence using the structure in brackets.",
+      "items": [
+        {"q": "Please don't park here. <b>(I'd rather)</b>", "a": "I'd rather you didn't park here."},
+        {"q": "You should start looking for a flat now. <b>(It's high time)</b>", "a": "It's high time you started looking for a flat."},
+        {
+          "q": "He isn't rich, but he spends money like a rich man. <b>(as if)</b>",
+          "a": "He spends money as if he were rich. / He spends money as if he was rich."
+        },
+        {"q": "I'm sorry you didn't tell me earlier. <b>(I'd rather)</b>", "a": "I'd rather you had told me earlier."},
+        {
+          "q": "Imagine this: you meet the Prime Minister. What do you say? <b>(Suppose)</b>",
+          "a": "Suppose you met the Prime Minister — what would you say?"
+        },
+        {"q": "I'd prefer to walk. <b>(I'd rather)</b>", "a": "I'd rather walk."},
+        {"q": "I'd prefer you not to come tomorrow. <b>(I'd prefer it if)</b>", "a": "I'd prefer it if you didn't come tomorrow."},
+        {"q": "I regret going by bus; the train would have been better. <b>(I'd rather have)</b>", "a": "I'd rather have gone by train."}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones clave",
+      "title_en": "Key word transformations (C1 Advanced)",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave sin cambiarla y entre 3 y 6 palabras.",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word and 3-6 words.",
+      "items": [
+        {
+          "q": "I'd prefer you not to tell Sam about this.<br>I'd ______ Sam about this.",
+          "hint": "<b>RATHER</b>",
+          "a": "rather you didn't tell / rather you did not tell"
+        },
+        {"q": "You should have applied for a passport long ago.<br>It's ______ for a passport.", "hint": "<b>HIGH</b>", "a": "high time you applied"},
+        {
+          "q": "It's a shame you didn't ask my permission first.<br>I'd ______ my permission first.",
+          "hint": "<b>RATHER</b>",
+          "a": "rather you had asked (for)"
+        },
+        {
+          "q": "He behaves like the owner of the company, but he isn't.<br>He behaves ______ the company.",
+          "hint": "<b>OWNED</b>",
+          "a": "as if he owned / as though he owned"
+        },
+        {
+          "q": "What would you do if you were stranded on a desert island?<br>______ stranded on a desert island — what would you do?",
+          "hint": "<b>SUPPOSE</b>",
+          "a": "Suppose you were"
+        },
+        {"q": "I would prefer to travel by train rather than fly.<br>I'd ______ fly.", "hint": "<b>SOONER</b>", "a": "sooner travel by train than"},
+        {
+          "q": "From her face, I think she has had some bad news.<br>She looks ______ some bad news.",
+          "hint": "<b>THOUGH</b>",
+          "a": "as though she has had / as though she's had"
+        },
+        {"q": "We really ought to change our supplier now.<br>It's ______ our supplier.", "hint": "<b>ABOUT</b>", "a": "about time we changed"}
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela correctamente.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {"q": "I'd rather you don't call me after ten.", "a": "I'd rather you didn't call me after ten."},
+        {"q": "It's time we start the meeting.", "a": "It's time we started the meeting."},
+        {"q": "I'd rather to pay by card.", "a": "I'd rather pay by card."},
+        {"q": "She talked as though she has known him for years.", "a": "She talked as though she had known him for years."},
+        {"q": "Suppose you would lose your keys — who would you call?", "a": "Suppose you lost your keys — who would you call?"},
+        {"q": "It's high time for you finding a job.", "a": ["It's high time you found a job.", "It's high time for you to find a job."]},
+        {"q": "I'd rather go by train that by bus.", "a": "I'd rather go by train than by bus."},
+        {"q": "I'd rather you would stay.", "a": "I'd rather you stayed."}
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee la carta y la respuesta del consultorio. Marca T (verdadero) o F (falso) y contesta las preguntas.",
+      "en": "Read the letter and the advice column reply. Tick T or F and answer the questions.",
+      "text_title": "Ask Amanda: “My colleague acts as if he were my boss”",
+      "text": [
+        "<b>Dear Amanda,</b> I've worked in the same team as Greg for three years. Although we have the same job title, he behaves as if he were in charge of the whole department. He hands out tasks, comments on my emails and talks to me as though I had joined the company yesterday. I'd rather he didn't involve himself in my work, but I don't want to cause a scene. Suppose I complained to our manager — would that make things worse? <i>— Fed up in Bristol</i>",
+        "<b>Dear Fed up,</b> it's high time you stood up for yourself. Greg probably doesn't realise how he comes across, so I'd rather you spoke to him before going to your manager. Imagine you were in his position: wouldn't you prefer a quiet word to a formal complaint? Choose a calm moment and say something like: “I'd prefer it if you let me manage my own emails.” If nothing changes, then it will be time to involve your manager. And remember: it's not as if you were asking for anything unreasonable."
+      ],
+      "items": [
+        {"q": "Greg is the writer's boss.", "tf": true, "a": false, "why": "They have the same job title; he only behaves as if he were the boss."},
+        {"q": "The writer wants to cause a scene.", "tf": true, "a": false, "why": "“I don't want to cause a scene.”"},
+        {"q": "How does Greg talk to the writer?", "a": "As though the writer had joined the company yesterday."},
+        {"q": "What would the writer rather Greg didn't do?", "a": "Involve himself in the writer's work."},
+        {"q": "Amanda advises going straight to the manager.", "tf": true, "a": false, "why": "She'd rather the writer spoke to Greg first."},
+        {"q": "What sentence does Amanda suggest saying to Greg?", "a": "“I'd prefer it if you let me manage my own emails.”"},
+        {"q": "Find an example of it's high time + past in the reply.", "a": "“It's high time you stood up for yourself.”"},
+        {
+          "q": "What does Amanda mean by “it's not as if you were asking for anything unreasonable”?",
+          "a": "That the writer's request is perfectly reasonable."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. ¡Recuerda: donde el español usa subjuntivo, aquí el inglés usa pasado!",
+      "en": "Translate into English.",
+      "items": [
+        {"q": "Preferiría que no me llamaras al trabajo.", "a": "I'd rather you didn't call me at work."},
+        {
+          "q": "Ya va siendo hora de que arreglen esta carretera.",
+          "a": ["It's high time they repaired this road.", "It's high time they fixed this road."]
+        },
+        {"q": "(Él) habla como si lo supiera todo.", "a": ["He talks as if he knew everything.", "He talks as though he knew everything."]},
+        {
+          "q": "Imagina que te ofrecieran el puesto: ¿lo aceptarías?",
+          "a": ["Suppose you were offered the job — would you accept it?", "Imagine they offered you the job — would you accept it?"]
+        },
+        {"q": "Habría preferido que me lo dijeras antes.", "a": "I'd rather you had told me earlier."},
+        {"q": "Prefiero no hablar de ello.", "a": "I'd rather not talk about it."},
+        {"q": "¡Ni que fuera millonario! (yo)", "a": ["It's not as if I were a millionaire!", "It's not as if I was a millionaire!"]},
+        {"q": "¿Y si nos hubieran visto?", "a": "What if they had seen us?"},
+        {"q": "Es hora de que los niños se vayan a la cama.", "a": ["It's time for the children to go to bed.", "It's time the children went to bed."]}
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe frases sobre tu vida con las estructuras de este mapa.",
+      "en": "Write about your life using the structures in this map.",
+      "items": [
+        {
+          "q": "Escribe dos cosas que preferirías que hicieran (o no hicieran) tus compañeros de trabajo o de piso. (I'd rather you / they…)",
+          "lines": 2,
+          "a": "Ej.: I'd rather my flatmates didn't leave dishes in the sink. I'd rather people turned off their phones in meetings."
+        },
+        {
+          "q": "Escribe dos cosas que <b>ya va siendo hora</b> de que cambien en tu ciudad. (It's high time…)",
+          "lines": 2,
+          "a": "Ej.: It's high time the council built more cycle lanes. It's about time rents came down."
+        },
+        {
+          "q": "Describe a alguien que se comporta <b>como si</b>… (as if / as though)",
+          "lines": 2,
+          "a": "Ej.: My neighbour drives as if he were in a Formula 1 race."
+        },
+        {
+          "q": "Plantea una hipótesis y contéstala. (Suppose / Imagine / What if…)",
+          "lines": 2,
+          "a": "Ej.: Suppose I won a scholarship to study abroad — I would go to Canada."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {"es": "Uso <b>would rather / would sooner</b> + infinitivo o + sujeto + pasado.", "en": "I can use would rather / would sooner correctly."},
+    {
+      "es": "Expreso preferencias sobre el pasado con <b>past perfect</b> o <b>would rather have</b>.",
+      "en": "I can express preferences about the past."
+    },
+    {
+      "es": "Distingo <b>would rather</b> (sin to), <b>would prefer</b> (to) y <b>prefer</b>.",
+      "en": "I can distinguish would rather, would prefer and prefer."
+    },
+    {"es": "Uso <b>it's (high / about) time</b> + pasado y <b>it's time to…</b>", "en": "I can use it's (high) time + past and it's time to…"},
+    {
+      "es": "Elijo presente o pasado tras <b>as if / as though</b> según sea real o irreal.",
+      "en": "I can choose the right tense after as if / as though."
+    },
+    {"es": "Planteo hipótesis con <b>suppose, imagine, what if</b>.", "en": "I can imagine situations with suppose, imagine, what if."}
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "id": "B1-07",
+  "level": "B1",
+  "title": "FIRST CONDITIONAL",
+  "file_title": "First conditional",
+  "subtitle": "First conditional · si pasa esto, pasará aquello",
+  "icon": "☔",
+  "map": {
+    "center": "Usamos el <b>FIRST CONDITIONAL</b> para situaciones <b>reales y posibles</b> en el futuro y su consecuencia.",
+    "nodes": [
+      {
+        "title": "¿Qué es?", "icon": "🔎", "art": "☔",
+        "items": ["Una condición <b>posible</b> + su resultado <b>futuro</b>.", "If it <b>rains</b>, we<b>'ll stay</b> in. <i>(Si llueve, nos quedaremos en casa.)</i>"]
+      },
+      {
+        "title": "Estructura", "icon": "🧩",
+        "rows": [["If + presente", "→ la condición"], ["will + infinitivo", "→ el resultado"]],
+        "after": "Detrás de <b>if</b>, <em>nunca</em> will."
+      },
+      {
+        "title": "Orden y coma", "icon": "🔄",
+        "items": ["<b>If</b> you study, you'll pass. <i>(if delante → coma)</i>", "You'll pass <b>if</b> you study. <i>(if en medio → sin coma)</i>"]
+      },
+      {
+        "title": "Negativas y preguntas", "icon": "❓",
+        "items": ["If I <b>don't</b> hurry, I'll be late.", "If you're late, I <b>won't</b> wait.", "What <b>will</b> you <b>do</b> if he says no?"]
+      },
+      {
+        "title": "UNLESS", "icon": "🚫",
+        "items": ["<b>unless</b> = if … not <i>(a menos que)</i>", "I'll go <b>unless</b> it rains. = I'll go if it <em>doesn't</em> rain."]
+      },
+      {
+        "title": "¿IF o WHEN?", "icon": "⏰",
+        "rows": [["if", "= quizá pase 🤞"], ["when", "= pasará seguro 📅"]],
+        "after": "<b>When</b> I get home, I'll call you."
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["If it will rain, we'll stay in."],
+      "good": ["If it rains, we'll stay in."],
+      "note": "if + <b>presente</b>, nunca will"
+    },
+    "mini": {
+      "es": "Completa con la forma correcta.",
+      "en": "Complete with the correct form.",
+      "items": [
+        { "q": "If it ____, we'll stay in.", "a": "rains", "hint": "rain" },
+        { "q": "I ____ hi to Ana if I see her.", "a": "will say", "hint": "say" },
+        { "q": "If you ____ hurry, you'll be late.", "a": "don't" },
+        { "q": "We'll go ____ it rains.", "a": "unless", "hint": "a menos que" },
+        { "q": "____ I get home, I'll text you.", "a": "When", "hint": "seguro" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "El <b>first conditional</b> (primer condicional) sirve para hablar de una <mark>situación real o probable en el futuro</mark> y de lo que pasará como consecuencia. Tiene dos partes: la <b>condición</b> (con <b>if</b>, «si») y el <b>resultado</b> (con <b>will</b>). Es exactamente como el español «<i>Si estudias, aprobarás</i>».",
+      "en": "We use the <b>first conditional</b> for a <mark>real or likely situation in the future</mark> and its result. It has two parts: the <b>condition</b> (if) and the <b>result</b> (will).",
+      "formula": ["*If* + present simple + *will / won't* + infinitivo"]
+    },
+    {
+      "t": "rule", "title": "1 · La estructura", "title_en": "The structure", "icon": "🧩", "color": "green",
+      "es": "En la parte del <b>if</b> usamos el <b>present simple</b>, aunque hablemos del futuro. En la otra parte usamos <b>will + infinitivo sin to</b> (forma corta: <b>'ll</b>). ¡Igual que en español! Decimos «si <u>llueve</u>», no «si <s>lloverá</s>».",
+      "en": "In the <b>if</b>-clause we use the <b>present simple</b>, even for the future. In the main clause we use <b>will + infinitive</b> (short form: <b>'ll</b>).",
+      "formula": ["*If* + present simple", "*will* + infinitivo (sin to)"],
+      "examples": [
+        { "en": "If you <b>study</b> hard, you<b>'ll pass</b> the exam.", "es": "Si estudias mucho, aprobarás el examen.", "icon": "📚" },
+        { "en": "If it<b>'s</b> sunny tomorrow, we<b>'ll go</b> to the beach.", "es": "Si mañana hace sol, iremos a la playa.", "icon": "🏖️" },
+        { "en": "If she <b>gets</b> the job, she<b>'ll move</b> to London.", "es": "Si consigue el trabajo, se mudará a Londres.", "icon": "💼" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · Orden y coma", "title_en": "Word order and comma", "icon": "🔄", "color": "blue",
+      "es": "Las dos partes pueden ir en cualquier orden y el significado no cambia. La regla de la coma: si la frase <b>empieza por if</b>, ponemos <mark>coma</mark> entre las dos partes. Si el <b>if va en medio</b>, normalmente <b>no</b> hay coma.",
+      "en": "The two clauses can go in either order. If the sentence <b>starts with if</b>, use a <mark>comma</mark>. If <b>if</b> is in the middle, there is usually no comma.",
+      "formula": ["*If* + condición + *,* + resultado", "resultado + *if* + condición (sin coma)"],
+      "examples": [
+        { "en": "<b>If</b> I miss the bus<em>,</em> I'll take a taxi.", "es": "Si pierdo el autobús, cogeré un taxi.", "icon": "🚌" },
+        { "en": "I'll take a taxi <b>if</b> I miss the bus.", "es": "Cogeré un taxi si pierdo el autobús.", "icon": "🚕" },
+        { "en": "We'll watch the next episode <b>if</b> you want.", "es": "Veremos el siguiente capítulo si quieres.", "icon": "📺" }
+      ]
+    },
+    {
+      "t": "rule", "title": "3 · Negativas", "title_en": "Negatives", "icon": "⛔", "color": "red",
+      "es": "Las dos partes pueden ser negativas. En la condición usamos <b>don't / doesn't</b> + infinitivo (es present simple). En el resultado usamos <b>won't</b> (= will not) + infinitivo. Ojo: después de <em>won't</em> el verbo no lleva -s ni to: <s>won't goes</s>, <s>won't to go</s>.",
+      "en": "Both clauses can be negative: <b>don't / doesn't</b> in the if-clause and <b>won't</b> (will not) + infinitive in the main clause.",
+      "formula": ["If + *don't / doesn't* + verbo", "*won't* + infinitivo"],
+      "examples": [
+        { "en": "If you <b>don't</b> hurry, you'll miss the train.", "es": "Si no te das prisa, perderás el tren.", "icon": "🚆" },
+        { "en": "If it rains, we <b>won't</b> play the match.", "es": "Si llueve, no jugaremos el partido.", "icon": "⚽" },
+        { "en": "If he <b>doesn't</b> call me, I <b>won't</b> go to the party.", "es": "Si no me llama, no iré a la fiesta.", "icon": "🎉" }
+      ]
+    },
+    {
+      "t": "rule", "title": "4 · Preguntas", "title_en": "Questions", "icon": "❓", "color": "purple",
+      "es": "La pregunta se hace en la parte de <b>will</b>: <b>(Wh-) + will + sujeto + infinitivo</b>. La parte del if no cambia (sigue en presente y sin invertir). Respuestas cortas: <b>Yes, I will.</b> / <b>No, I won't.</b>",
+      "en": "Make the question in the main clause: <b>(Wh-) + will + subject + verb</b>. The if-clause doesn't change. Short answers: Yes, I will. / No, I won't.",
+      "formula": ["*(Wh-)* + *will* + sujeto + infinitivo + *if* + presente?"],
+      "examples": [
+        { "en": "<b>What will</b> you <b>do</b> if you don't get a ticket?", "es": "¿Qué harás si no consigues entrada?", "icon": "🎟️" },
+        { "en": "<b>Will</b> you <b>help</b> me if I get stuck? — Yes, I will.", "es": "¿Me ayudarás si me atasco? — Sí.", "icon": "🤝" },
+        { "en": "If it snows, <b>will</b> the school <b>close</b>?", "es": "Si nieva, ¿cerrará el colegio?", "icon": "❄️" }
+      ]
+    },
+    {
+      "t": "rule", "title": "5 · Otros resultados", "title_en": "can, might, should, imperative", "icon": "🔀", "color": "teal",
+      "es": "En el resultado no siempre hace falta <b>will</b>. Podemos usar <b>can</b> (posibilidad o permiso), <b>might / may</b> (quizá: menos seguro), <b>should</b> (consejo) o un <b>imperativo</b> (orden o instrucción). La condición sigue en presente.",
+      "en": "The main clause can also have <b>can</b>, <b>might / may</b>, <b>should</b> or an <b>imperative</b>. The if-clause stays in the present.",
+      "formula": ["*If* + presente + *can / might / should* + infinitivo", "*If* + presente + *imperativo*"],
+      "examples": [
+        { "en": "If you finish early, you <b>can</b> leave.", "es": "Si terminas pronto, puedes irte.", "icon": "🏃" },
+        { "en": "If we leave now, we <b>might</b> catch the last train.", "es": "Si salimos ahora, quizá pillemos el último tren.", "icon": "🌙" },
+        { "en": "If you see Marta, <b>tell</b> her to call me.", "es": "Si ves a Marta, dile que me llame.", "icon": "📱" }
+      ]
+    },
+    {
+      "t": "table", "title": "Todo junto", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["Tipo · Type", "Condición · If-clause", "Resultado · Main clause", "Traducción · Spanish"],
+      "rows": [
+        ["✅ Afirmativa", "If I <b>have</b> time,", "I<b>'ll call</b> you.", "Si tengo tiempo, te llamaré."],
+        ["⛔ Condición negativa", "If you <b>don't leave</b> now,", "you<b>'ll be</b> late.", "Si no sales ya, llegarás tarde."],
+        ["⛔ Resultado negativo", "If it <b>rains</b>,", "we <b>won't go</b> out.", "Si llueve, no saldremos."],
+        ["❓ Pregunta", "If she <b>says</b> no,", "what <b>will</b> you <b>do</b>?", "Si dice que no, ¿qué harás?"],
+        ["🚫 Unless", "<b>Unless</b> you <b>hurry</b>,", "you<b>'ll miss</b> it.", "Si no te das prisa, lo perderás."],
+        ["📅 When", "<b>When</b> I <b>get</b> home,", "I<b>'ll text</b> you.", "Cuando llegue a casa, te escribiré."],
+        ["🔀 Modal", "If we <b>leave</b> now,", "we <b>might arrive</b> on time.", "Si salimos ya, quizá lleguemos a tiempo."],
+        ["👉 Imperativo", "If you <b>see</b> him,", "<b>say</b> hi from me.", "Si lo ves, salúdalo de mi parte."]
+      ],
+      "note": "Fíjate: la columna del <b>if / unless / when</b> va siempre en <mark>presente</mark>, aunque la traducción española use subjuntivo («cuando <u>llegue</u>»).",
+      "note_en": "The if / unless / when column is always in the present."
+    },
+    {
+      "t": "rule", "title": "6 · UNLESS", "title_en": "Unless = if … not", "icon": "🚫", "color": "pink",
+      "es": "<b>Unless</b> significa <mark>a menos que / si no</mark>. Equivale a <b>if … not</b>. Como ya es negativo, el verbo que va detrás va en <b>afirmativa</b>: <s>unless you don't hurry</s> → <b>unless you hurry</b>. Puede ir al principio (con coma) o en medio.",
+      "en": "<b>Unless</b> means <b>if … not</b>. It is already negative, so the verb after it is affirmative.",
+      "formula": ["*Unless* + you + hurry", "*If* + you + *don't* + hurry"],
+      "examples": [
+        { "en": "<b>Unless</b> you hurry, you'll miss the bus. <i>(= If you don't hurry…)</i>", "es": "Si no te das prisa, perderás el autobús.", "icon": "⏱️" },
+        { "en": "I won't go to the gym <b>unless</b> you come with me.", "es": "No iré al gimnasio a menos que vengas conmigo.", "icon": "🏋️" },
+        { "en": "<b>Unless</b> it rains, we'll have a barbecue.", "es": "A menos que llueva, haremos una barbacoa.", "icon": "🍖" }
+      ]
+    },
+    {
+      "t": "table", "title": "¿Para qué lo usamos?", "title_en": "Typical uses", "icon": "🎯", "color": "green",
+      "head": ["Uso · Use", "Ejemplo · Example"],
+      "rows": [
+        ["🤝 Promesa", "If you help me, I'll buy you lunch. <i>(Si me ayudas, te invito a comer.)</i>"],
+        ["⚠️ Aviso", "If you touch that, you'll burn yourself. <i>(Si lo tocas, te quemarás.)</i>"],
+        ["😠 Amenaza", "If you do that again, I'll tell Mum. <i>(Si lo vuelves a hacer, se lo digo a mamá.)</i>"],
+        ["🗓️ Planes", "If the weather's good, we'll go hiking. <i>(Si hace buen tiempo, iremos de excursión.)</i>"],
+        ["💬 Negociar", "If you wash up, I'll cook. <i>(Si tú friegas, yo cocino.)</i>"],
+        ["🔮 Predicción", "If they sign that player, they'll win the league. <i>(Si fichan a ese jugador, ganarán la liga.)</i>"]
+      ],
+      "note": "Fíjate en el español: muchas veces decimos «<i>te invito</i>», «<i>se lo digo</i>» en presente. ¡En inglés el resultado necesita <b>will</b>!",
+      "note_en": "Spanish often uses the present in the result; English needs will."
+    },
+    {
+      "t": "compare", "title": "¿IF o WHEN?", "title_en": "if or when?", "color": "blue", "icon": "⚖️",
+      "es": "<b>If</b> = no sabemos si pasará (es solo posible). <b>When</b> = sabemos que pasará; solo falta el momento. ¡Las dos van seguidas de <mark>presente</mark>, nunca de will!",
+      "en": "<b>If</b> = it might happen. <b>When</b> = it will definitely happen. Both are followed by the present.",
+      "cols": [
+        { "head": "🤞 IF · quizá", "color": "orange", "items": ["<b>If</b> I see Tom, I'll tell him. <i>(quizá no lo vea)</i>", "<b>If</b> I pass, I'll celebrate. <i>(no es seguro)</i>", "<b>If</b> it's sunny, we'll go out. <i>(puede llover)</i>"] },
+        { "head": "📅 WHEN · seguro", "color": "green", "items": ["<b>When</b> I see Tom, I'll tell him. <i>(lo veré seguro)</i>", "<b>When</b> I finish, I'll call you. <i>(terminaré)</i>", "<b>When</b> the film ends, we'll leave. <i>(acabará)</i>"] }
+      ]
+    },
+    {
+      "t": "table", "title": "Palabras de tiempo + presente", "title_en": "Time words + present", "icon": "⏰", "color": "purple",
+      "head": ["Palabra · Word", "Significado", "Ejemplo · Example"],
+      "rows": [
+        ["<b>when</b>", "cuando", "I'll call you <b>when</b> I <b>arrive</b>."],
+        ["<b>as soon as</b>", "en cuanto", "<b>As soon as</b> I <b>know</b>, I'll tell you."],
+        ["<b>before</b>", "antes de (que)", "Text me <b>before</b> you <b>leave</b>."],
+        ["<b>after</b>", "después de (que)", "<b>After</b> I <b>finish</b>, I'll go out."],
+        ["<b>until</b>", "hasta que", "I'll wait <b>until</b> you <b>come</b> back."]
+      ],
+      "note": "Igual que con <b>if</b>: detrás de estas palabras va <mark>presente</mark> aunque hablemos del futuro. En español usamos subjuntivo: «en cuanto <u>sepa</u>», «hasta que <u>vuelvas</u>».",
+      "note_en": "Like if, these time words take the present when we talk about the future."
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "If you <b>download</b> the app, you<b>'ll get</b> 20% off.", "es": "Si descargas la app, tendrás un 20 % de descuento.", "icon": "📲" },
+        { "en": "If we <b>don't book</b> now, there <b>won't be</b> any rooms left.", "es": "Si no reservamos ya, no quedarán habitaciones.", "icon": "🏨" },
+        { "en": "If we <b>win</b> on Saturday, we<b>'ll go</b> up to second place.", "es": "Si ganamos el sábado, subiremos al segundo puesto.", "icon": "🏆" },
+        { "en": "I<b>'ll lend</b> you my charger if your phone <b>dies</b>.", "es": "Te prestaré mi cargador si se te acaba la batería.", "icon": "🔋" },
+        { "en": "If you <b>post</b> that photo, everyone <b>will see</b> it.", "es": "Si subes esa foto, la verá todo el mundo.", "icon": "📸" },
+        { "en": "If my boss <b>agrees</b>, I<b>'ll work</b> from home on Fridays.", "es": "Si mi jefe está de acuerdo, teletrabajaré los viernes.", "icon": "💻" },
+        { "en": "You<b>'ll feel</b> better if you <b>get</b> some sleep.", "es": "Te sentirás mejor si duermes un poco.", "icon": "😴" },
+        { "en": "If the flight <b>is</b> delayed, we<b>'ll miss</b> our connection.", "es": "Si el vuelo se retrasa, perderemos la conexión.", "icon": "✈️" },
+        { "en": "<b>Unless</b> you <b>practise</b>, you <b>won't improve</b>.", "es": "Si no practicas, no mejorarás.", "icon": "🎸" },
+        { "en": "<b>When</b> the new season <b>comes</b> out, I<b>'ll watch</b> it in one weekend.", "es": "Cuando salga la nueva temporada, me la veré en un fin de semana.", "icon": "🍿" },
+        { "en": "If you <b>need</b> anything, just <b>ask</b>.", "es": "Si necesitas algo, pídelo.", "icon": "🙋" },
+        { "en": "What <b>will</b> you <b>study</b> if you <b>don't get</b> into medicine?", "es": "¿Qué estudiarás si no entras en Medicina?", "icon": "🎓" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "trampas", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "If it will rain, we'll stay in.", "good": "If it <b>rains</b>, we'll stay in.", "why": "Detrás de if va presente, nunca will.", "why_en": "No will after if." },
+        { "bad": "When I will arrive, I'll call you.", "good": "When I <b>arrive</b>, I'll call you.", "why": "Con when (futuro), también presente: «cuando llegue».", "why_en": "Present after when, too." },
+        { "bad": "If she come, we'll start.", "good": "If she <b>comes</b>, we'll start.", "why": "Es present simple: he / she / it lleva -s.", "why_en": "Present simple: she comes." },
+        { "bad": "Unless you don't study, you'll fail.", "good": "<b>Unless</b> you study, you'll fail.", "why": "Unless ya es negativo: no dobles el «no».", "why_en": "Unless is already negative." },
+        { "bad": "If I see him, I tell him.", "good": "If I see him, I<b>'ll tell</b> him.", "why": "Calco de «si lo veo, se lo digo»: el resultado futuro lleva will.", "why_en": "Use will in the result." },
+        { "bad": "If it rains, we won't to go.", "good": "If it rains, we <b>won't go</b>.", "why": "will / won't + infinitivo sin to.", "why_en": "won't + verb, no to." },
+        { "bad": "What you will do if you fail?", "good": "What <b>will you</b> do if you fail?", "why": "En la pregunta, will va delante del sujeto.", "why_en": "Question: will + subject." },
+        { "bad": "If you study you'll pass.", "good": "If you study<b>,</b> you'll pass.", "why": "Si la frase empieza por if, pon coma.", "why_en": "Comma after the if-clause." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Cómo construyo la frase?", "title_en": "How do I build it?", "color": "orange",
+      "items": [
+        { "es": "¿Es una situación <b>posible y futura</b> (no imaginaria)? → first conditional.", "en": "Is it a real future possibility? → first conditional." },
+        { "es": "Escribe la condición: <b>if + present simple</b> (ojo con la -s de he / she / it).", "en": "Write the condition: if + present simple." },
+        { "es": "Escribe el resultado: <b>will / won't + infinitivo</b> (o can, might, should, imperativo).", "en": "Write the result: will / won't + verb." },
+        { "es": "¿Pasará seguro? Cambia <b>if</b> por <b>when</b>. ¿Significa «si no»? Usa <b>unless</b> + afirmativa.", "en": "Sure to happen → when. «If not» → unless." },
+        { "es": "Revisa la coma: <b>if</b> al principio → coma; <b>if</b> en medio → sin coma.", "en": "Check the comma." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "Planes para el finde", "title_en": "Weekend plans",
+      "lines": [
+        { "who": "Lucía", "en": "Are you coming to the festival on Saturday?", "es": "¿Vienes al festival el sábado?" },
+        { "who": "Dani", "en": "If I finish my essay on Friday, I'll come.", "es": "Si termino el trabajo el viernes, iré." },
+        { "who": "Lucía", "en": "And what will you do if it rains?", "es": "¿Y qué harás si llueve?" },
+        { "who": "Dani", "en": "If it rains, I'll bring my raincoat. I won't miss it!", "es": "Si llueve, llevaré el chubasquero. ¡No me lo pierdo!" },
+        { "who": "Lucía", "en": "Great. I'll buy the tickets when I get home.", "es": "Genial. Compraré las entradas cuando llegue a casa." },
+        { "who": "Dani", "en": "Buy them soon. If you wait, they'll sell out.", "es": "Cómpralas pronto. Si esperas, se agotarán." },
+        { "who": "Lucía", "en": "Don't worry. Unless the website crashes, we'll have them tonight.", "es": "Tranquilo. A menos que se caiga la web, las tendremos esta noche." },
+        { "who": "Dani", "en": "Perfect! Text me as soon as you get them.", "es": "¡Perfecto! Escríbeme en cuanto las tengas." }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco: ¡el español te ayuda!", "title_en": "Spanish helps you",
+      "es": "En español nunca decimos «<s>si lloverá</s>», sino «si <b>llueve</b>». ¡En inglés es igual! Detrás de <b>if</b>, piensa en presente. Y donde en español pones subjuntivo tras <i>cuando / en cuanto / hasta que</i> («cuando <u>llegue</u>»), en inglés pones presente: <b>when I arrive</b>.",
+      "en": "Never use <b>will</b> after <b>if</b>, <b>when</b>, <b>unless</b> or <b>as soon as</b>. Think present!"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose", "title": "Rodea la forma correcta", "title_en": "Circle the correct form", "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta. Recuerda: detrás de if, presente.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "If it [rains|will rain] tomorrow, we'll cancel the trip.", "a": "rains" },
+        { "q": "If you study, you [pass|will pass] the exam.", "a": "will pass" },
+        { "q": "She'll be angry if you [don't call|won't call] her.", "a": "don't call" },
+        { "q": "If he [gets|will get] the job, he'll buy a car.", "a": "gets" },
+        { "q": "We [won't go|don't go] out if it's cold.", "a": "won't go" },
+        { "q": "[If|Unless] you hurry, you'll miss the train.", "a": "Unless" },
+        { "q": "I'll text you [when|if] I arrive. (Llegaré seguro.)", "a": "when" },
+        { "q": "What [will you do|you will do] if you fail?", "a": "will you do" },
+        { "q": "If my phone [dies|will die], I'll use yours.", "a": "dies" },
+        { "q": "If you need help, [ask|asking] me.", "a": "ask" }
+      ]
+    },
+    {
+      "t": "match", "title": "Une las dos partes", "title_en": "Match the two halves", "icon": "🔗",
+      "es": "Une cada condición con su resultado lógico.",
+      "en": "Match each condition with its logical result.",
+      "pairs": [
+        ["If you don't wear a coat,", "you'll get cold."],
+        ["If we take a taxi,", "we'll get there faster."],
+        ["If she trains every day,", "she'll run the marathon."],
+        ["If I forget my password,", "I'll reset it."],
+        ["If they don't book now,", "there won't be any seats."],
+        ["If you eat all that cake,", "you'll feel sick."],
+        ["Unless you charge your phone,", "it'll die before lunch."],
+        ["When I get my first salary,", "I'll take you out for dinner."]
+      ]
+    },
+    {
+      "t": "classify", "title": "¿Condición o resultado?", "title_en": "Condition or result?", "icon": "🗂️",
+      "es": "Escribe cada trozo en su caja: ¿es la condición (if + presente) o el resultado (will / won't)?",
+      "en": "Is it the condition or the result? Write it in the right box.",
+      "cats": [
+        { "name": "Condición · if + present", "words": ["it rains", "you don't hurry", "she gets the job", "we leave now", "he calls me", "I have time"] },
+        { "name": "Resultado · will / won't", "words": ["we'll stay in", "you'll be late", "she'll move abroad", "we won't arrive on time", "I'll answer", "I'll help you"] }
+      ]
+    },
+    {
+      "t": "fill", "title": "Completa con el verbo", "title_en": "Complete with the verb", "icon": "✏️",
+      "es": "Pon los verbos en la forma correcta: present simple o will / won't. Puedes usar la forma corta ('ll).",
+      "en": "Put the verbs in the correct form: present simple or will / won't.",
+      "items": [
+        { "q": "If it ____ (rain), we ____ (stay) at home.", "a": "rains · will stay" },
+        { "q": "If you ____ (not / hurry), you ____ (miss) the bus.", "a": "don't hurry · will miss" },
+        { "q": "She ____ (be) really happy if you ____ (come) to her party.", "a": "will be · come" },
+        { "q": "If I ____ (see) Leo, I ____ (give) him the message.", "a": "see · will give" },
+        { "q": "If we ____ (not / leave) now, we ____ (not / get) a seat.", "a": "don't leave · won't get" },
+        { "q": "My parents ____ (be) furious if I ____ (fail) maths.", "a": "will be · fail" },
+        { "q": "If the shop ____ (have) it in my size, I ____ (buy) it.", "a": "has · will buy" },
+        { "q": "What ____ you ____ (do) if the concert ____ (be) cancelled?", "a": "will · do · is" },
+        { "q": "If he ____ (not / train), he ____ (not / play) on Sunday.", "a": "doesn't train · won't play" },
+        { "q": "You ____ (feel) better if you ____ (drink) more water.", "a": "will feel · drink" }
+      ]
+    },
+    {
+      "t": "fill", "title": "IF, UNLESS o WHEN", "title_en": "if, unless or when", "icon": "🤞",
+      "es": "Completa con if, unless o when. Lee bien el contexto: ¿es posible, es seguro o significa «si no»?",
+      "en": "Complete with if, unless or when.",
+      "bank": ["if", "unless", "when"],
+      "items": [
+        { "q": "____ you don't hurry, you'll be late.", "a": "If" },
+        { "q": "You won't pass ____ you study.", "a": "unless" },
+        { "q": "I'll call you ____ I land. My flight lands at six.", "a": "when" },
+        { "q": "____ it's sunny tomorrow, we'll go to the beach. Maybe it'll rain.", "a": "If" },
+        { "q": "I won't go to the party ____ you come too.", "a": "unless" },
+        { "q": "____ I finish university next year, I'll travel around Asia.", "a": "When" },
+        { "q": "____ you see Marcos, tell him I said hi. He might be there.", "a": "If" },
+        { "q": "We'll lose the match ____ we play better.", "a": "unless" },
+        { "q": "____ the film ends, we'll go for a pizza.", "a": "When" },
+        { "q": "You can't board the plane ____ you have a passport.", "a": "unless" }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Correcta o incorrecta?", "title_en": "Right or wrong?", "icon": "✅",
+      "es": "Marca T si la frase es correcta y F si tiene un error. Si es F, corrígela en tu cuaderno.",
+      "en": "Tick T if the sentence is correct and F if it has a mistake.",
+      "items": [
+        { "q": "If you study, you'll pass.", "a": true },
+        { "q": "If it will rain, we'll stay in.", "a": false, "why": "If it rains, we'll stay in." },
+        { "q": "I'll tell you if I hear anything.", "a": true },
+        { "q": "Unless you don't come, I'll go alone.", "a": false, "why": "Unless you come, I'll go alone." },
+        { "q": "When I'll get home, I'll text you.", "a": false, "why": "When I get home, I'll text you." },
+        { "q": "If we don't leave now, we'll be late.", "a": true },
+        { "q": "If he passes his driving test, he'll buy a car.", "a": true },
+        { "q": "What you will do if the shop is closed?", "a": false, "why": "What will you do if the shop is closed?" }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Completa la tabla", "title_en": "Complete the table", "icon": "📋", "wide": true,
+      "es": "Usa las pistas para escribir la condición y el resultado.",
+      "en": "Use the clues to write the condition and the result.",
+      "head": ["Pista · Clue", "Condición (if + present)", "Resultado (will / won't)"],
+      "rows": [
+        ["I / miss the bus → be late", "If I miss the bus,", "?I'll be late."],
+        ["she / not / call → I / worry", "?If she doesn't call,", "?I'll worry."],
+        ["we / win → celebrate", "?If we win,", "we'll celebrate."],
+        ["it / snow → schools / close", "?If it snows,", "?schools will close."],
+        ["you / not / sleep → be tired", "?If you don't sleep,", "?you'll be tired."],
+        ["they / be late → we / not / wait", "?If they're late,", "?we won't wait."]
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Une las frases con IF", "title_en": "Join the sentences with if", "icon": "🔗",
+      "es": "Convierte las dos frases en una sola con el first conditional. Empieza con If.",
+      "en": "Make one first conditional sentence. Start with If.",
+      "items": [
+        { "q": "Maybe it'll rain. Then we'll play indoors.", "a": "If it rains, we'll play indoors." },
+        { "q": "Maybe she'll miss the train. Then she'll be late for work.", "a": "If she misses the train, she'll be late for work." },
+        { "q": "Maybe you won't wear a coat. Then you'll get cold.", "a": "If you don't wear a coat, you'll get cold." },
+        { "q": "Maybe they'll win the final. Then they'll get a trophy.", "a": "If they win the final, they'll get a trophy." },
+        { "q": "Maybe I'll have time. Then I'll help you with the project.", "a": "If I have time, I'll help you with the project." },
+        { "q": "Maybe he won't study. Then he won't pass.", "a": "If he doesn't study, he won't pass." },
+        { "q": "Maybe the tickets will be cheap. Then we'll buy four.", "a": "If the tickets are cheap, we'll buy four." },
+        { "q": "Maybe Ana will call. Then I'll tell her the news.", "a": "If Ana calls, I'll tell her the news." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Cambia a UNLESS", "title_en": "Rewrite with unless", "icon": "🚫",
+      "es": "Reescribe la frase con unless. Recuerda: después de unless, el verbo va en afirmativa.",
+      "en": "Rewrite the sentence with unless.",
+      "items": [
+        { "q": "If you don't hurry, you'll miss the flight.", "a": "Unless you hurry, you'll miss the flight." },
+        { "q": "I won't go if you don't come with me.", "a": "I won't go unless you come with me." },
+        { "q": "If it doesn't rain, we'll have a picnic.", "a": "Unless it rains, we'll have a picnic." },
+        { "q": "She won't forgive you if you don't apologise.", "a": "She won't forgive you unless you apologise." },
+        { "q": "If he doesn't train harder, he won't get into the team.", "a": "Unless he trains harder, he won't get into the team." },
+        { "q": "You can't come in if you don't have a ticket.", "a": "You can't come in unless you have a ticket." }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las fichas. Pista: si hay una coma entre las fichas, la frase empieza por if / when / unless.",
+      "en": "Put the words in order. If there is a comma, start with if / when / unless.",
+      "items": [
+        { "q": "rains / if / we'll / it / stay / at home / ,", "a": "If it rains, we'll stay at home." },
+        { "q": "you / if / don't / hurry / you'll / late / be / ,", "a": "If you don't hurry, you'll be late." },
+        { "q": "I'll / you / call / when / arrive / I", "a": "I'll call you when I arrive." },
+        { "q": "won't / she / unless / come / you / invite / her", "a": "She won't come unless you invite her." },
+        { "q": "will / do / you / what / if / fail / you / ?", "a": "What will you do if you fail?" },
+        { "q": "the bus / if / we / miss / take / we'll / a taxi / ,", "a": "If we miss the bus, we'll take a taxi." },
+        { "q": "feel / you'll / if / sleep / better / you / more", "a": "You'll feel better if you sleep more." },
+        { "q": "unless / it / you / up / back / lose / you'll / it / ,", "a": "Unless you back it up, you'll lose it." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Pregunta y responde", "title_en": "Ask and answer", "icon": "❓",
+      "es": "Escribe la pregunta con will y contesta con la pista entre paréntesis.",
+      "en": "Write the question with will and answer it.",
+      "labels": ["❓", "💬"],
+      "items": [
+        { "q": "what / you / do / if / you / miss the last bus? (take a taxi)", "a": ["What will you do if you miss the last bus?", "I'll take a taxi."] },
+        { "q": "you / come / if / I / buy the tickets? (YES)", "a": ["Will you come if I buy the tickets?", "Yes, I will."] },
+        { "q": "she / be angry / if / we / be late? (NO)", "a": ["Will she be angry if we're late?", "No, she won't."] },
+        { "q": "where / you / stay / if / the hotel / be full? (with a friend)", "a": ["Where will you stay if the hotel is full?", "I'll stay with a friend."] },
+        { "q": "they / play / if / it / rain? (NO)", "a": ["Will they play if it rains?", "No, they won't."] },
+        { "q": "what / you / study / if / you / pass the exam? (law)", "a": ["What will you study if you pass the exam?", "I'll study law."] }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "If it will snow, the school will close.", "a": "If it snows, the school will close." },
+        { "q": "When I will finish, I'll call you.", "a": "When I finish, I'll call you." },
+        { "q": "If he come late, we'll start without him.", "a": "If he comes late, we'll start without him." },
+        { "q": "Unless you don't hurry, you'll miss it.", "a": "Unless you hurry, you'll miss it." },
+        { "q": "If I see her tomorrow, I tell her.", "a": "If I see her tomorrow, I'll tell her." },
+        { "q": "We won't to go out if it rains.", "a": "We won't go out if it rains." },
+        { "q": "What you will do if you lose your job?", "a": "What will you do if you lose your job?" },
+        { "q": "If she doesn't comes, I'll be sad.", "a": "If she doesn't come, I'll be sad." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Piensa: ¿if, unless o when? Y detrás de ellos… ¡presente!",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Si llueve, no iremos a la playa.", "a": "If it rains, we won't go to the beach." },
+        { "q": "Si no estudias, suspenderás.", "a": "If you don't study, you'll fail." },
+        { "q": "Te llamaré cuando llegue al hotel.", "a": ["I'll call you when I get to the hotel.", "I'll call you when I arrive at the hotel."] },
+        { "q": "A menos que te des prisa, perderás el tren.", "a": "Unless you hurry, you'll miss the train." },
+        { "q": "¿Qué harás si no encuentras trabajo?", "a": "What will you do if you don't find a job?" },
+        { "q": "Si ves a Pablo, dile que me llame.", "a": "If you see Pablo, tell him to call me." },
+        { "q": "Si mi equipo gana, lo celebraremos.", "a": "If my team wins, we'll celebrate." },
+        { "q": "En cuanto sepa algo, te lo diré.", "a": "As soon as I know something, I'll tell you." },
+        { "q": "Si no reservamos hoy, no habrá habitaciones.", "a": "If we don't book today, there won't be any rooms." },
+        { "q": "Si tengo tiempo esta tarde, te ayudaré con los deberes.", "a": "If I have time this afternoon, I'll help you with your homework." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto. Marca T (verdadero) o F (falso) y contesta las preguntas con frases completas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "Sara's plans",
+      "text": [
+        "Hi, I'm Sara. I'm 18 and I'm from Valencia. My final exams start next week, so I'm a bit nervous! If I get good marks, I'll study Computer Science at university in Madrid. If I don't get the marks I need, I won't give up: I'll do a course in web design and try again next year.",
+        "My parents have made me a promise. If I pass everything, they'll pay for a trip to Ireland this summer. I'll stay with a family in Galway and I'll take English classes in the mornings. Unless the course is very expensive, I'll stay for a whole month.",
+        "When I come back, I'll look for a part-time job. I want to save some money, because if I go to Madrid, I'll need to pay for a flat. My best friend, Irene, will come with me if she gets into the same university. Fingers crossed!"
+      ],
+      "items": [
+        { "q": "Sara's exams start next month.", "tf": true, "a": false, "why": "They start next week." },
+        { "q": "If Sara doesn't get the marks she needs, she'll give up.", "tf": true, "a": false, "why": "She won't give up; she'll do a course in web design." },
+        { "q": "Her parents will pay for a trip if she passes everything.", "tf": true, "a": true },
+        { "q": "What will Sara study if she gets good marks?", "a": "She'll study Computer Science (at university in Madrid)." },
+        { "q": "Where will she stay in Ireland?", "a": "She'll stay with a family in Galway." },
+        { "q": "How long will she stay in Ireland if the course isn't very expensive?", "a": "She'll stay for a whole month." },
+        { "q": "What will she do when she comes back?", "a": "She'll look for a part-time job." },
+        { "q": "In what case will Irene go to Madrid with Sara?", "a": "If she gets into the same university." }
+      ]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe frases sobre tu vida y tus planes con el first conditional.",
+      "en": "Write about your life and plans with the first conditional.",
+      "items": [
+        { "q": "Termina la frase: <b>If it's sunny this weekend, …</b>", "lines": 1, "a": "Ej.: If it's sunny this weekend, I'll go to the beach with my friends." },
+        { "q": "Escribe 2 frases: qué harás <b>si apruebas</b> y qué harás <b>si suspendes</b>.", "lines": 2, "a": "Ej.: If I pass, I'll go on holiday. If I fail, I'll study in July." },
+        { "q": "Escribe una frase con <b>unless</b> y otra con <b>when</b>.", "lines": 2, "a": "Ej.: I won't go out unless I finish my homework. When I get home, I'll have a shower." },
+        { "q": "Cadena: <i>If I wake up late, I'll miss the bus. If I miss the bus, …</i> Continúa con 3 frases.", "lines": 3, "a": "Ej.: If I miss the bus, I'll be late for class. If I'm late, my teacher will be angry. If she's angry, she'll give me extra homework." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé formar el first conditional: <b>if + presente, will + infinitivo</b>.", "en": "I can form the first conditional." },
+    { "es": "Nunca pongo <s>will</s> detrás de if, when, unless ni as soon as.", "en": "I never use will after if, when, unless or as soon as." },
+    { "es": "Sé poner la <b>coma</b> cuando la frase empieza por if.", "en": "I use a comma when the sentence starts with if." },
+    { "es": "Sé usar <b>unless</b> = if … not, sin doble negación.", "en": "I can use unless correctly." },
+    { "es": "Distingo <b>if</b> (quizá) de <b>when</b> (seguro).", "en": "I know the difference between if and when." },
+    { "es": "Sé preguntar: <b>What will you do if…?</b>", "en": "I can ask first conditional questions." }
+  ]
+}

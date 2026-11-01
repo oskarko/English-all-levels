@@ -1,0 +1,488 @@
+{
+  "id": "C1-03",
+  "level": "C1",
+  "title": "CONDICIONALES AVANZADAS",
+  "file_title": "Condicionales avanzadas",
+  "subtitle": "Advanced conditionals · mixtas y alternativas a if",
+  "icon": "🔀",
+  "map": {
+    "center": "Mezclamos tiempos (<b>mixed conditionals</b>) y cambiamos <b>if</b> por conectores más precisos: unless, provided that, but for…",
+    "nodes": [
+      {
+        "title": "Mixta: pasado → ahora", "icon": "⏪", "art": "🕰️",
+        "items": ["If I <b>had taken</b> the job, I'<b>d be</b> in Paris <b>now</b>.", "Condición pasada → resultado presente", "<i>(Si hubiera aceptado…, ahora estaría…)</i>"]
+      },
+      {
+        "title": "Mixta: siempre → pasado", "icon": "🔁",
+        "items": ["If I <b>were</b> braver, I'<b>d have spoken</b> up.", "Rasgo permanente → resultado pasado", "<i>(Si fuera más valiente, habría hablado.)</i>"]
+      },
+      {
+        "title": "Unless, otherwise, but for", "icon": "⛔",
+        "rows": [["unless", "= if … not · a menos que"], ["otherwise", "= si no, de lo contrario"], ["but for + nombre", "= de no ser por"]]
+      },
+      {
+        "title": "Solo si… (requisito)", "icon": "✅",
+        "items": ["<b>provided / providing (that)</b>", "<b>as long as</b> · <b>on condition that</b>", "+ presente, nunca <s>will</s>: as long as you <b>pay</b>"]
+      },
+      {
+        "title": "Hipótesis", "icon": "🤔", "art": "💭",
+        "items": ["<b>Supposing</b> you lost your job…?", "<b>What if</b> they say no?", "<b>Assuming (that)</b> prices rise…"]
+      },
+      {
+        "title": "Consejo rápido", "icon": "💡",
+        "items": ["<b>in case</b> = por si acaso ≠ <b>if</b>", "«en caso de que» = <b>if</b> / <b>in the event that</b>", "Nada de <b>will / would</b> tras if"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["If I would have known, I'd have come."],
+      "good": ["If I had known, I'd have come."],
+      "note": "<b>would</b> nunca va detrás de <b>if</b>"
+    },
+    "mini": {
+      "es": "Completa la condicional.",
+      "en": "Complete the conditional.",
+      "items": [
+        { "q": "If I ____ law, I'd be a lawyer now.", "a": "had studied", "hint": "study" },
+        { "q": "____ you pay, you can't come in.", "a": "Unless" },
+        { "q": "You can go ____ you're back by ten.", "a": ["as long as", "provided (that)"], "hint": "solo si" },
+        { "q": "Take a coat ____ it gets cold.", "a": "in case", "hint": "por si" },
+        { "q": "Hurry up, ____ we'll be late.", "a": ["otherwise", "or (else)"] }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Las condicionales avanzadas son de dos tipos. (1) Las <b>mixed conditionals</b> combinan tiempos distintos en cada parte porque la condición y el resultado <mark>no pertenecen al mismo momento</mark> (una decisión del pasado con consecuencias hoy). (2) Las <b>alternativas a <i>if</i></b> añaden matices que <i>if</i> no tiene: excepción (<i>unless</i>), requisito (<i>provided that, as long as</i>), hipótesis (<i>supposing, what if</i>), precaución (<i>in case</i>), consecuencia negativa (<i>otherwise</i>) o causa decisiva (<i>but for</i>).",
+      "en": "Advanced conditionals = <b>mixed conditionals</b> (condition and result belong to different times) + <b>alternatives to if</b> that add nuance: exception, requirement, hypothesis, precaution.",
+      "formula": ["If + *past perfect* + would + infinitivo (pasado → ahora)", "If + *past simple* + would have + participio (siempre → pasado)"]
+    },
+    {
+      "t": "rule", "title": "1 · Mixta: pasado → presente", "title_en": "Past condition, present result", "icon": "⏪", "color": "blue",
+      "es": "La condición es <b>pasada e irreal</b> (no ocurrió) y el resultado es <b>presente</b>: cómo están las cosas <mark>ahora</mark>. En la parte del <i>if</i> va <b>past perfect</b>; en el resultado, <b>would / could / might + infinitivo</b>, muchas veces con <i>now, today, still</i>. Es la estructura española <i>Si hubiera…, ahora + condicional simple</i>.",
+      "en": "Unreal <b>past</b> condition → <b>present</b> result: <b>If + past perfect, would / could / might + infinitive</b>.",
+      "formula": ["If + *had* + participio…, + *would / could / might* + infinitivo (now)"],
+      "examples": [
+        { "en": "If I <b>had accepted</b> that offer, I <b>would be living</b> in California now.", "es": "Si hubiera aceptado aquella oferta, ahora estaría viviendo en California.", "icon": "🌴" },
+        { "en": "If the company <b>had invested</b> in digital tools, it <b>wouldn't be struggling</b> today.", "es": "Si la empresa hubiera invertido en herramientas digitales, hoy no tendría dificultades.", "icon": "💻" },
+        { "en": "If you <b>had taken</b> the medicine, you <b>might feel</b> better now.", "es": "Si te hubieras tomado la medicina, puede que ahora te encontraras mejor.", "icon": "💊" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · Mixta: presente → pasado", "title_en": "Present condition, past result", "icon": "🔁", "color": "purple",
+      "es": "La condición es una <b>situación presente o permanente</b> que no es real (un rasgo de carácter, una capacidad, un hecho general) y el resultado es <b>pasado</b>. En la parte del <i>if</i> va <b>past simple</b> o <b>past continuous</b> (<i>were</i> en registro cuidado, <i>was</i> en el habla); en el resultado, <b>would / could / might have + participio</b>. En español: <i>Si fuera…, habría…</i>",
+      "en": "Unreal <b>present / permanent</b> condition → <b>past</b> result: <b>If + past simple, would / could / might have + past participle</b>.",
+      "formula": ["If + *past simple / were* + …, + *would / could / might have* + participio"],
+      "examples": [
+        { "en": "If I <b>were</b> more organised, I <b>wouldn't have missed</b> the deadline.", "es": "Si fuera más organizado, no habría perdido el plazo.", "icon": "🗂️" },
+        { "en": "If she <b>didn't speak</b> fluent German, she <b>wouldn't have got</b> the job in Berlin.", "es": "Si no hablara alemán con fluidez, no habría conseguido el trabajo en Berlín.", "icon": "💼" },
+        { "en": "If we <b>weren't flying</b> to Rome tomorrow, we <b>would have accepted</b> your invitation.", "es": "Si no voláramos mañana a Roma, habríamos aceptado vuestra invitación.", "icon": "✈️" }
+      ]
+    },
+    {
+      "t": "table", "title": "Las cuatro combinaciones", "title_en": "The four combinations", "icon": "🧮", "color": "teal", "wide": true,
+      "head": ["Tipo · Type", "Condición (if)", "Resultado", "Ejemplo · Example"],
+      "rows": [
+        ["2.ª condicional", "presente irreal · past simple", "presente · would + infinitivo", "If I had more time, I would travel more."],
+        ["3.ª condicional", "pasado irreal · past perfect", "pasado · would have + participio", "If I had left earlier, I would have caught the train."],
+        ["<b>Mixta A</b>", "pasado irreal · <b>past perfect</b>", "presente · <b>would + infinitivo</b>", "If I had studied law, I would be a lawyer now."],
+        ["<b>Mixta B</b>", "presente irreal · <b>past simple</b>", "pasado · <b>would have + participio</b>", "If I were a lawyer, I would have spotted the problem."]
+      ],
+      "note": "Pregúntate por separado: ¿<b>cuándo</b> es la condición? ¿<b>cuándo</b> es el resultado? Cada mitad lleva su propio tiempo.",
+      "note_en": "Ask separately: when is the condition? When is the result? Each half takes its own tense."
+    },
+    {
+      "t": "rule", "title": "3 · Unless", "title_en": "Unless = if … not", "icon": "⛔", "color": "red",
+      "es": "<b>Unless</b> = <i>if … not</i> / <i>a menos que, salvo que, a no ser que</i>. Ya lleva la negación: no añadas otra (<s>unless you don't pay</s>). Para el futuro va con <b>presente</b>. Matiz: <i>unless</i> presenta la condición como la <b>única excepción</b>, así que no sustituye a <i>if … not</i> cuando hablamos de reacciones: <i>I'll be surprised if he doesn't come</i> (no <s>unless he comes</s>).",
+      "en": "<b>Unless</b> = if … not / except if. It is already negative. Use a present tense for the future.",
+      "formula": ["Unless + *presente* + …, + will / imperativo / can…"],
+      "examples": [
+        { "en": "<b>Unless</b> we reduce costs, we will have to make redundancies.", "es": "A menos que reduzcamos costes, tendremos que hacer despidos.", "icon": "📉" },
+        { "en": "The offer is not valid <b>unless</b> it is signed by both parties.", "es": "La oferta no es válida salvo que la firmen ambas partes.", "icon": "✍️" },
+        { "en": "I won't call you <b>unless</b> there's a problem.", "es": "No te llamaré a no ser que haya algún problema.", "icon": "📞" }
+      ]
+    },
+    {
+      "t": "rule", "title": "4 · Provided that, as long as…", "title_en": "Requirements: only if", "icon": "✅", "color": "green",
+      "es": "Expresan un <b>requisito</b>: <i>solo si, siempre que, con tal de que</i>. Del más formal al más coloquial: <b>on condition that</b> (contratos, acuerdos) → <b>provided / providing (that)</b> → <b>as long as / so long as</b>. Van con <b>presente</b> aunque hablen del futuro (<s>provided that you will pay</s>). ¡Trampa! El español <i>siempre que</i> también significa <i>cada vez que</i> = <b>whenever</b>: <i>Siempre que llueve, se inunda</i> → <i>Whenever it rains…</i>",
+      "en": "<b>On condition that</b> (very formal) → <b>provided / providing (that)</b> → <b>as long as</b> (neutral). Present tense for the future.",
+      "formula": ["Resultado + *provided (that) / as long as / on condition that* + presente"],
+      "examples": [
+        { "en": "You can work from home <b>as long as</b> you attend the Monday meeting.", "es": "Puedes teletrabajar siempre que asistas a la reunión de los lunes.", "icon": "🏠" },
+        { "en": "The loan will be approved <b>provided that</b> you can show proof of income.", "es": "El préstamo se aprobará siempre que puedas acreditar tus ingresos.", "icon": "🏦" },
+        { "en": "She agreed to the interview <b>on condition that</b> her name was not published.", "es": "Accedió a la entrevista con la condición de que no se publicara su nombre.", "icon": "🎙️" }
+      ]
+    },
+    {
+      "t": "rule", "title": "5 · Supposing, what if, assuming", "title_en": "Hypotheses", "icon": "🤔", "color": "orange",
+      "es": "Para plantear <b>hipótesis</b>: <b>suppose / supposing (that)</b> (= pongamos que, imagina que), <b>what if</b> (= ¿y si…?), <b>imagine</b> y <b>assuming (that)</b> (= dando por hecho que). Con <b>presente</b>, la situación se ve posible; con <b>pasado</b>, más improbable o imaginaria: <i>What if we <b>miss</b> the train?</i> / <i>What if we <b>missed</b> the train?</i> Con <i>suppose / supposing</i> la frase suele terminar en pregunta.",
+      "en": "<b>Suppose / supposing, what if, imagine, assuming</b> introduce hypotheses. Present = possible; past = less likely or imaginary.",
+      "formula": ["Supposing / What if + *presente* + … ? (posible)", "Supposing / What if + *pasado* + … ? (improbable)"],
+      "examples": [
+        { "en": "<b>Supposing</b> you were offered a promotion abroad, would you accept it?", "es": "Pongamos que te ofrecieran un ascenso en el extranjero, ¿lo aceptarías?", "icon": "🌍" },
+        { "en": "<b>What if</b> the investors pull out at the last minute?", "es": "¿Y si los inversores se retiran en el último momento?", "icon": "😬" },
+        { "en": "<b>Assuming</b> the figures are correct, we will break even next year.", "es": "Dando por hecho que las cifras son correctas, el año que viene cubriremos gastos.", "icon": "📈" }
+      ]
+    },
+    {
+      "t": "rule", "title": "6 · Otherwise, or else, but for", "title_en": "Otherwise and but for", "icon": "🔚", "color": "pink",
+      "es": "<b>Otherwise</b> (= <i>si no, de lo contrario</i>) introduce la consecuencia negativa de no cumplir lo anterior; suele ir tras punto, punto y coma o <i>and</i>. <b>Or (else)</b> es su versión coloquial. <b>But for</b> + nombre (formal) = <i>de no ser por</i> = <b>if it weren't / hadn't been for</b> = <b>without</b>. Detrás de <i>but for</i> va un <b>nombre</b>, nunca una frase completa.",
+      "en": "<b>Otherwise / or else</b> = if not. <b>But for + noun</b> = if it weren't / hadn't been for = without.",
+      "formula": ["Frase; + *otherwise* + consecuencia", "*But for* + nombre + would / would have…"],
+      "examples": [
+        { "en": "Please confirm by Friday; <b>otherwise</b>, your booking will be cancelled.", "es": "Por favor, confirme antes del viernes; de lo contrario, su reserva quedará anulada.", "icon": "📅" },
+        { "en": "<b>But for</b> the goalkeeper's heroics, we would have lost by five goals.", "es": "De no ser por las paradas heroicas del portero, habríamos perdido por cinco goles.", "icon": "🧤" },
+        { "en": "<b>If it hadn't been for</b> your advice, I would have signed a terrible contract.", "es": "Si no hubiera sido por tu consejo, habría firmado un contrato pésimo.", "icon": "🤝" }
+      ]
+    },
+    {
+      "t": "rule", "title": "7 · In case ≠ if · even if", "title_en": "In case, in the event of, even if", "icon": "☂️", "color": "teal",
+      "es": "<b>In case</b> = <i>por si (acaso)</i>: hacemos algo <b>como precaución</b>, ocurra o no lo otro. <b>If</b> = <i>si</i>: lo hacemos <b>solo cuando</b> se cumple la condición. ¡Trampa! <i>En caso de que</i> se traduce por <b>if</b> o, en registro formal, por <b>in the event that</b> / <b>in the event of</b> + nombre, nunca por <s>in case</s> + frase (<i>in case of</i> + nombre sí existe en avisos: <i>In case of fire…</i>). Y <b>even if</b> (= aunque, incluso si: hipótesis) no es <b>even though</b> (= aunque: hecho real).",
+      "en": "<b>In case</b> = as a precaution. <b>In the event of / that</b> = formal if. <b>Even if</b> = hypothetical; <b>even though</b> = fact.",
+      "formula": ["Acción + *in case* + presente (precaución)", "*In the event of* + nombre", "*In the event that* + frase"],
+      "examples": [
+        { "en": "Take your laptop <b>in case</b> the client wants a demo.", "es": "Llévate el portátil por si el cliente quiere una demostración.", "icon": "💼" },
+        { "en": "<b>In the event of</b> a fire, do not use the lifts.", "es": "En caso de incendio, no utilicen los ascensores.", "icon": "🔥" },
+        { "en": "<b>Even if</b> they double my salary, I won't stay.", "es": "Aunque me dupliquen el sueldo, no me quedaré.", "icon": "💰" }
+      ]
+    },
+    {
+      "t": "table", "title": "Alternativas a if", "title_en": "Alternatives to if", "icon": "🧰", "color": "orange", "wide": true,
+      "head": ["Conector", "Significado", "Registro", "Ejemplo · Example"],
+      "rows": [
+        ["unless", "a menos que (= if … not)", "neutro", "Unless it rains, we'll eat outside."],
+        ["provided / providing (that)", "siempre que, solo si", "formal", "Provided that you pay, you can stay."],
+        ["as long as / so long as", "siempre que, con tal de que", "neutro", "As long as you're happy, I'm happy."],
+        ["on condition that", "con la condición de que", "muy formal", "…on condition that it remains confidential."],
+        ["suppose / supposing / what if", "pongamos que / ¿y si…?", "neutro", "What if we fail?"],
+        ["assuming (that)", "dando por hecho que", "neutro / formal", "Assuming he agrees, we'll start in May."],
+        ["otherwise / or (else)", "si no, de lo contrario", "neutro / coloquial", "Leave now, otherwise you'll be late."],
+        ["but for + nombre", "de no ser por", "formal", "But for the rain, we'd have won."],
+        ["in case", "por si (acaso)", "neutro", "Take a map in case you get lost."],
+        ["in the event of / that", "en caso de (que)", "formal", "In the event of delay, call us."],
+        ["even if", "aunque, incluso si", "neutro", "Even if I had time, I wouldn't go."]
+      ]
+    },
+    {
+      "t": "compare", "title": "In case frente a if", "title_en": "In case vs if", "icon": "⚖️", "color": "blue",
+      "es": "La diferencia es de <b>precaución</b> frente a <b>condición</b>: con <i>in case</i> la acción se hace ya, por si acaso; con <i>if</i>, solo si se cumple la condición.",
+      "en": "<b>In case</b> = precaution (do it now). <b>If</b> = condition (do it only when it happens).",
+      "cols": [
+        { "head": "☂️ in case · por si acaso", "color": "teal", "items": ["Take an umbrella in case it rains. <i>(lo llevas ya)</i>", "I'll save the file in case the system crashes.", "Write it down in case you forget."] },
+        { "head": "🌧️ if · si (condición)", "color": "blue", "items": ["Take an umbrella if it rains. <i>(solo si llueve)</i>", "If the system crashes, call IT.", "If you forget, ask me."] }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos en contexto", "title_en": "More examples in context",
+      "items": [
+        { "en": "If the government <b>had acted</b> sooner, the crisis <b>wouldn't be</b> so severe now.", "es": "Si el Gobierno hubiera actuado antes, la crisis no sería ahora tan grave.", "icon": "🏛️" },
+        { "en": "If he <b>weren't</b> so stubborn, he <b>would have listened</b> to our advice.", "es": "Si no fuera tan cabezota, habría escuchado nuestros consejos.", "icon": "🐂" },
+        { "en": "We'll sign the agreement <b>providing</b> the terms remain unchanged.", "es": "Firmaremos el acuerdo siempre que las condiciones no cambien.", "icon": "📝" },
+        { "en": "<b>Unless</b> I hear from you, I'll assume the meeting is still on.", "es": "Salvo que me digas algo, daré por hecho que la reunión sigue en pie.", "icon": "📨" },
+        { "en": "<b>Suppose</b> the train is cancelled — how will we get to the conference?", "es": "Pongamos que cancelan el tren: ¿cómo llegaremos al congreso?", "icon": "🚆" },
+        { "en": "Back up your files regularly; <b>otherwise</b>, you risk losing everything.", "es": "Haz copias de seguridad con regularidad; si no, te arriesgas a perderlo todo.", "icon": "💾" },
+        { "en": "<b>But for</b> a few technical problems, the launch would have been a complete success.", "es": "De no ser por unos cuantos problemas técnicos, el lanzamiento habría sido un éxito rotundo.", "icon": "🚀" },
+        { "en": "I'll keep my phone on <b>in case</b> the hospital calls.", "es": "Dejaré el móvil encendido por si llama el hospital.", "icon": "🏥" },
+        { "en": "<b>In the event that</b> the flight is delayed, passengers will be offered a meal voucher.", "es": "En caso de que el vuelo se retrase, se ofrecerá a los pasajeros un vale de comida.", "icon": "🛫" },
+        { "en": "<b>As long as</b> we keep our customers happy, the business will grow.", "es": "Mientras mantengamos contentos a nuestros clientes, el negocio crecerá.", "icon": "😊" },
+        { "en": "<b>What if</b> we had never met?", "es": "¿Y si no nos hubiéramos conocido nunca?", "icon": "💭" },
+        { "en": "<b>Even if</b> the plan fails, we will have learnt a great deal.", "es": "Aunque el plan fracase, habremos aprendido muchísimo.", "icon": "🎓" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "error", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "If I would have known, I would have helped.", "good": "If I <b>had known</b>, I would have helped.", "why": "Nunca would en la parte del if.", "why_en": "No would in the if-clause." },
+        { "bad": "If I had studied medicine, I would have been a doctor now.", "good": "…I <b>would be</b> a doctor now.", "why": "Resultado presente (now) → would + infinitivo.", "why_en": "Present result → would + infinitive." },
+        { "bad": "Unless you don't hurry, you'll miss the bus.", "good": "<b>Unless you hurry</b>, you'll miss the bus.", "why": "Unless ya es negativo: no dobles la negación.", "why_en": "Unless is already negative." },
+        { "bad": "Provided that you will finish on time, you'll get a bonus.", "good": "Provided that you <b>finish</b> on time, you'll get a bonus.", "why": "Tras provided / as long as / unless: presente.", "why_en": "Present tense after provided, unless…" },
+        { "bad": "Take an umbrella in case it will rain.", "good": "Take an umbrella in case it <b>rains</b>.", "why": "In case + presente, sin will.", "why_en": "In case + present." },
+        { "bad": "In case of the flight is cancelled, we'll get a refund.", "good": "<b>If</b> (<b>In the event that</b>) the flight is cancelled, we'll get a refund.", "why": "«En caso de que» + frase = if / in the event that.", "why_en": "In case of + noun only." },
+        { "bad": "Supposing you will lose your job, what would you do?", "good": "Supposing you <b>lost</b> your job, what would you do?", "why": "Hipótesis improbable: supposing + pasado … would.", "why_en": "Unlikely hypothesis: past … would." },
+        { "bad": "But for you helped me, I would have failed.", "good": "But for <b>your help</b>, I would have failed.", "why": "But for + nombre, nunca una frase.", "why_en": "But for + noun." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Cómo elijo la estructura?", "title_en": "How do I choose?", "color": "orange",
+      "items": [
+        { "es": "Localiza el <b>momento de la condición</b>: ¿presente / permanente o pasado?", "en": "When is the condition: present / permanent or past?" },
+        { "es": "Localiza el <b>momento del resultado</b>: ¿ahora o entonces? Busca pistas: <i>now, today, still, yesterday, last year…</i>", "en": "When is the result: now or then?" },
+        { "es": "Pasado → ahora: <b>If + had + participio, would + infinitivo</b>. Siempre → pasado: <b>If + past simple, would have + participio</b>.", "en": "Past → now: had + pp, would + inf. Always → past: past simple, would have + pp." },
+        { "es": "¿Quieres un matiz? Excepción → <b>unless</b>; requisito → <b>provided / as long as</b>; hipótesis → <b>supposing / what if</b>; precaución → <b>in case</b>; consecuencia negativa → <b>otherwise</b>.", "en": "Choose the connector for the nuance you need." },
+        { "es": "Revisa: nada de <b>will / would</b> tras if, unless, provided, as long as o in case (salvo peticiones corteses: <i>If you would follow me…</i>).", "en": "No will / would after if, unless, provided or in case (except polite requests)." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "Negociando un contrato", "title_en": "Negotiating a contract",
+      "lines": [
+        { "who": "Client", "en": "We're interested, but the price is still too high.", "es": "Nos interesa, pero el precio sigue siendo demasiado alto." },
+        { "who": "Supplier", "en": "We could offer a 10% discount, provided that you sign a two-year contract.", "es": "Podríamos ofrecer un descuento del 10 %, siempre que firmen un contrato de dos años." },
+        { "who": "Client", "en": "Two years is a long time. Supposing our needs change?", "es": "Dos años es mucho tiempo. ¿Y si cambian nuestras necesidades?" },
+        { "who": "Supplier", "en": "As long as you give us three months' notice, you can adjust the volume.", "es": "Siempre que nos avisen con tres meses de antelación, pueden ajustar el volumen." },
+        { "who": "Client", "en": "To be honest, if we had known about this offer earlier, we would already be working with you.", "es": "Sinceramente, si hubiéramos conocido esta oferta antes, ya estaríamos trabajando con ustedes." },
+        { "who": "Supplier", "en": "It's not too late. But please confirm by Friday; otherwise, we can't guarantee the price.", "es": "No es demasiado tarde. Pero confirmen antes del viernes; si no, no podemos garantizar el precio." },
+        { "who": "Client", "en": "Fine. Unless the board objects, we'll sign next week.", "es": "De acuerdo. Salvo que el consejo se oponga, firmaremos la semana que viene." },
+        { "who": "Supplier", "en": "Perfect. I'll send you the draft today in case you want to review it first.", "es": "Perfecto. Les envío el borrador hoy, por si quieren revisarlo antes." }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco de los dos relojes", "title_en": "The two-clock trick",
+      "es": "Para las mixtas, dibuja <b>dos relojes</b> ⏰: uno para la condición y otro para el resultado. Condición <b>ayer</b> + resultado <b>hoy</b> → <i>had + participio … would + infinitivo</i>. Condición <b>siempre</b> + resultado <b>ayer</b> → <i>past simple … would have + participio</i>. En registro formal, <i>provided that</i> u <i>on condition that</i> suenan más precisos que un simple <i>if</i>.",
+      "en": "Draw two clocks: one for the condition, one for the result. Each half takes its own tense."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify", "title": "¿Qué expresa cada conector?", "title_en": "What does each connector express?", "icon": "🗂️",
+      "es": "Clasifica los conectores según su significado.",
+      "en": "Sort the connectors by meaning.",
+      "cats": [
+        { "name": "= if not / without", "words": ["unless", "otherwise", "or else", "but for"] },
+        { "name": "Requisito (solo si)", "words": ["provided that", "providing", "as long as", "on condition that"] },
+        { "name": "Hipótesis / precaución", "words": ["supposing", "what if", "assuming", "in case"] }
+      ]
+    },
+    {
+      "t": "choose", "title": "Rodea la correcta", "title_en": "Circle the correct option", "icon": "⭕",
+      "es": "Rodea la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "If I had taken that job, I [would be|would have been] in Paris now.", "a": "would be" },
+        { "q": "If I [didn't have|hadn't had] a meeting right now, I would have come to meet you at the airport.", "a": "didn't have" },
+        { "q": "[Unless|If] you hurry, you'll miss the train.", "a": "Unless" },
+        { "q": "You can borrow my car [as long as|unless] you return it by six.", "a": "as long as" },
+        { "q": "Take some cash [in case|if] the card machine isn't working.", "a": "in case" },
+        { "q": "Provided that the weather [is|will be] good, the ceremony will be held outdoors.", "a": "is" },
+        { "q": "Write down the address; [otherwise|unless] you'll forget it.", "a": "otherwise" },
+        { "q": "[But for|Unless] his help, we would never have finished on time.", "a": "But for" },
+        { "q": "[Supposing|Provided] you lost your job tomorrow, what would you do?", "a": "Supposing" },
+        { "q": "She accepted the job [on condition that|even if] she could work from home on Fridays.", "a": "on condition that" }
+      ]
+    },
+    {
+      "t": "match", "title": "Une las dos mitades", "title_en": "Match the halves", "icon": "🔗",
+      "es": "Une el principio de cada frase con su final.",
+      "en": "Match the beginnings with the endings.",
+      "pairs": [
+        ["If I had saved more money when I was younger,", "I wouldn't be so worried about my pension now."],
+        ["If she weren't so shy,", "she would have asked a question at the conference."],
+        ["You'll fail the course", "unless you hand in the final project."],
+        ["The bank will lend you the money", "provided that you have a stable income."],
+        ["I'll leave the light on", "in case you come home late."],
+        ["Supposing the flight is cancelled,", "how will we get to the wedding?"],
+        ["You'd better book a table;", "otherwise, we won't get in."],
+        ["But for the heavy traffic,", "we would have arrived on time."]
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Correcta o incorrecta?", "title_en": "Correct or incorrect?", "icon": "⚖️",
+      "es": "Marca T si la frase es correcta y F si es incorrecta. Si es incorrecta, corrígela en tu cuaderno.",
+      "en": "Tick T if the sentence is correct and F if it is wrong.",
+      "items": [
+        { "q": "If I had studied harder, I would have a better job now.", "a": true, "why": "mixta: pasado → presente." },
+        { "q": "If I would have known, I would have told you.", "a": false, "why": "If I had known, I would have told you." },
+        { "q": "Unless you don't pay, they'll cut off the electricity.", "a": false, "why": "Unless you pay… / If you don't pay…" },
+        { "q": "Take a jacket in case it gets cold.", "a": true },
+        { "q": "Provided that you will arrive early, you'll get a good seat.", "a": false, "why": "Provided that you arrive early…" },
+        { "q": "As long as you're honest with me, I'll support you.", "a": true },
+        { "q": "But for the rain, the match would have been fantastic.", "a": true },
+        { "q": "If he wasn't so lazy, he would have finished the report yesterday.", "a": true, "why": "mixta: siempre → pasado (were en registro formal)." },
+        { "q": "In case of you need anything, call me.", "a": false, "why": "If you need anything, call me." },
+        { "q": "Supposing you won the lottery, what would you do first?", "a": true }
+      ]
+    },
+    {
+      "t": "fill", "title": "Condicionales mixtas", "title_en": "Mixed conditionals", "icon": "🔀",
+      "es": "Completa con la forma correcta del verbo. Lee la pista: te dice qué es real.",
+      "en": "Complete with the correct form of the verb. The hint tells you what is real.",
+      "items": [
+        { "q": "If I _____ that job in London, I would be living there now.", "hint": "accept · I didn't accept it", "a": "had accepted" },
+        { "q": "If I _____ Italian, I would have understood the waiter.", "hint": "speak · I don't speak Italian", "a": "spoke" },
+        { "q": "If we _____ the tickets last month, we wouldn't be paying double now.", "hint": "buy · we didn't", "a": "had bought" },
+        { "q": "If she _____ so shy, she would have spoken at the meeting.", "hint": "not be · she is very shy", "a": ["weren't", "wasn't"] },
+        { "q": "If the company had listened to its customers, it _____ in trouble today.", "hint": "not be", "a": "wouldn't be" },
+        { "q": "If he were a better driver, he _____ the accident.", "hint": "not have", "a": "wouldn't have had" },
+        { "q": "If I hadn't stayed up so late, I _____ so tired now.", "hint": "not feel", "a": ["wouldn't feel", "wouldn't be feeling"] },
+        { "q": "If I _____ allergic to cats, I would have adopted that kitten.", "hint": "not be · I am allergic", "a": ["weren't", "wasn't"] },
+        { "q": "If they had invested in renewables ten years ago, they _____ much more competitive now.", "hint": "be", "a": "would be" },
+        { "q": "If she didn't have such a good memory, she _____ all those names last night.", "hint": "not remember", "a": "wouldn't have remembered" }
+      ]
+    },
+    {
+      "t": "fill", "title": "Elige el conector", "title_en": "Choose the connector", "icon": "🧩",
+      "es": "Completa con un conector del recuadro. Puede haber más de una opción posible.",
+      "en": "Complete with a connector from the box.",
+      "bank": ["unless", "provided that", "as long as", "on condition that", "in case", "otherwise", "but for", "supposing", "even if", "in the event of"],
+      "items": [
+        { "q": "We'll go hiking tomorrow ____ it rains.", "a": "unless" },
+        { "q": "You can stay up late ____ you're quiet.", "a": ["as long as", "provided that"] },
+        { "q": "The minister agreed to the interview ____ the questions were sent in advance.", "a": ["on condition that", "provided that", "as long as"] },
+        { "q": "I'll print the tickets ____ my phone battery dies.", "a": "in case" },
+        { "q": "Turn the heating down; ____, the bill will be enormous.", "a": "otherwise" },
+        { "q": "____ the rescue team, the climbers would have died.", "a": "But for" },
+        { "q": "____ you were offered a job in Japan, would you take it?", "a": "Supposing" },
+        { "q": "I wouldn't work for that company ____ they paid me twice as much.", "a": "even if" },
+        { "q": "____ a fire, leave the building by the nearest exit.", "a": "In the event of" },
+        { "q": "You won't be allowed in ____ you have a ticket.", "a": "unless" }
+      ]
+    },
+    {
+      "t": "fill", "title": "¿In case o if?", "title_en": "In case or if?", "icon": "☂️",
+      "es": "Completa con in case (por si acaso) o if (si).",
+      "en": "Complete with in case or if.",
+      "bank": ["in case", "if"],
+      "items": [
+        { "q": "I'll take a sandwich ____ I get hungry on the train.", "a": "in case" },
+        { "q": "____ you get hungry, there's food in the fridge.", "a": "If" },
+        { "q": "Make a copy of the contract ____ the original gets lost.", "a": "in case" },
+        { "q": "Call the police ____ you see anything suspicious.", "a": "if" },
+        { "q": "We installed an alarm ____ someone tries to break in.", "a": "in case" },
+        { "q": "____ it rains, the concert will move indoors.", "a": "If" },
+        { "q": "Keep the receipt ____ you need to return the item.", "a": "in case" },
+        { "q": "____ you need the receipt, it's in the drawer.", "a": "If" }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "De la realidad a la mixta", "title_en": "From reality to mixed conditional", "icon": "📋", "wide": true,
+      "es": "Lee la situación real y escribe una condicional mixta.",
+      "en": "Read the real situation and write a mixed conditional.",
+      "head": ["Situación real · Real situation", "Condicional mixta · Mixed conditional"],
+      "rows": [
+        ["I didn't go to university, so I don't have a degree.", "?If I had gone to university, I would have a degree."],
+        ["She missed the flight, so she isn't here now.", "?If she hadn't missed the flight, she would be here now."],
+        ["I'm not good at maths, so I made a mistake in the budget.", "?If I were good at maths, I wouldn't have made a mistake in the budget."],
+        ["He doesn't speak English, so he didn't get the job.", "?If he spoke English, he would have got the job."],
+        ["We didn't book in advance, so we're queuing now.", "?If we had booked in advance, we wouldn't be queuing now."],
+        ["They aren't reliable, so we didn't hire them.", "?If they were reliable, we would have hired them."],
+        ["I lost my keys, so I can't get into the house.", "?If I hadn't lost my keys, I could get into the house."],
+        ["She's very talented, so she won the competition.", "?If she weren't so talented, she wouldn't have won the competition."]
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras. Añade mayúscula, comas y punto o interrogación.",
+      "en": "Put the words in order.",
+      "items": [
+        { "q": "if / had / I / listened / I / wouldn't / be / in this mess", "a": "If I had listened, I wouldn't be in this mess." },
+        { "q": "unless / we / leave / now / we / will / miss / the start", "a": "Unless we leave now, we will miss the start." },
+        { "q": "as long as / you / can / you / borrow it / bring it back", "a": "You can borrow it as long as you bring it back." },
+        { "q": "in case / take / it / an umbrella / rains", "a": "Take an umbrella in case it rains." },
+        { "q": "supposing / they / no / say / what / we / will / do / ?", "a": "Supposing they say no, what will we do?" },
+        { "q": "but for / your help / I / have / failed / would", "a": "But for your help, I would have failed." },
+        { "q": "if / she / were / more careful / she / wouldn't / have / crashed", "a": "If she were more careful, she wouldn't have crashed." },
+        { "q": "otherwise / hurry up / we'll / be / late", "a": "Hurry up, otherwise we'll be late." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Reescribe con el conector", "title_en": "Rewrite with the connector", "icon": "🔄",
+      "es": "Reescribe la frase usando el conector entre paréntesis. El significado no debe cambiar.",
+      "en": "Rewrite the sentence using the connector in brackets.",
+      "items": [
+        { "q": "If you don't apologise, she won't forgive you.", "hint": "Unless", "a": "Unless you apologise, she won't forgive you." },
+        { "q": "You can come to the party, but only if you bring some food.", "hint": "provided that", "a": "You can come to the party provided that you bring some food." },
+        { "q": "I'll lend you the money, but you must pay me back next month.", "hint": "as long as", "a": "I'll lend you the money as long as you pay me back next month." },
+        { "q": "If it hadn't been for the storm, the ship would have arrived on time.", "hint": "But for", "a": "But for the storm, the ship would have arrived on time." },
+        { "q": "You should save your work now. If you don't, you might lose it.", "hint": "otherwise", "a": "You should save your work now; otherwise, you might lose it." },
+        { "q": "Imagine you were the CEO. What would you change?", "hint": "Supposing", "a": "Supposing you were the CEO, what would you change?" },
+        { "q": "Bring a charger because your phone might die.", "hint": "in case", "a": "Bring a charger in case your phone dies." },
+        { "q": "If there is a strike, all flights will be cancelled.", "hint": "In the event of", "a": "In the event of a strike, all flights will be cancelled." },
+        { "q": "She will accept the job, but only if she can work from home twice a week.", "hint": "on condition that", "a": "She will accept the job on condition that she can work from home twice a week." },
+        { "q": "Without your support, I would never have finished my degree.", "hint": "If it hadn't been for", "a": "If it hadn't been for your support, I would never have finished my degree." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Correct it.",
+      "items": [
+        { "q": "If I would have had more time, I would have finished.", "a": "If I had had more time, I would have finished." },
+        { "q": "If I had saved more, I would have been rich now.", "a": "If I had saved more, I would be rich now." },
+        { "q": "Unless you don't study, you won't pass.", "a": "Unless you study, you won't pass." },
+        { "q": "As long as you will be careful, nothing will happen.", "a": "As long as you are careful, nothing will happen." },
+        { "q": "Take your passport in case they will ask for ID.", "a": "Take your passport in case they ask for ID." },
+        { "q": "In case of the meeting is cancelled, I'll let you know.", "a": "If the meeting is cancelled, I'll let you know." },
+        { "q": "But for you helped me, I would have given up.", "a": "But for your help, I would have given up." },
+        { "q": "Supposing you will win the lottery, what would you buy?", "a": "Supposing you won the lottery, what would you buy?" },
+        { "q": "If she wouldn't be so busy, she would have come.", "a": "If she weren't (wasn't) so busy, she would have come." },
+        { "q": "Provided you would sign today, we can start tomorrow.", "a": "Provided (that) you sign today, we can start tomorrow." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Transformaciones C1 Advanced", "title_en": "Key word transformations", "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave sin cambiarla y entre 3 y 6 palabras en total. (En el solucionario aparecen las palabras que faltan.)",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word and 3-6 words.",
+      "items": [
+        { "q": "I didn't follow your advice, and now I'm in trouble. 🔑 <b>HAD</b><br>If _____ advice, I wouldn't be in trouble now.", "a": "I had followed your" },
+        { "q": "You can use my laptop, but you must be careful with it. 🔑 <b>LONG</b><br>You can use my laptop _____ careful with it.", "a": "as long as you are" },
+        { "q": "We'll go to the beach if it doesn't rain. 🔑 <b>UNLESS</b><br>We'll go to the beach _____.", "a": "unless it rains" },
+        { "q": "Without the doctor's quick reaction, the patient would have died. 🔑 <b>BUT</b><br>_____ quick reaction, the patient would have died.", "a": "But for the doctor's" },
+        { "q": "Take an umbrella because it might rain later. 🔑 <b>CASE</b><br>Take an umbrella _____ later.", "a": "in case it rains" },
+        { "q": "She's not very confident, so she didn't apply for the promotion. 🔑 <b>MORE</b><br>If _____, she would have applied for the promotion.", "a": "she were (was) more confident" },
+        { "q": "Leave now or you'll miss the last bus. 🔑 <b>OTHERWISE</b><br>Leave now; _____ the last bus.", "a": "otherwise you will miss" },
+        { "q": "They'll sign the contract only if we lower the price. 🔑 <b>PROVIDED</b><br>They'll sign the contract _____ the price.", "a": "provided (that) we lower" },
+        { "q": "Imagine you were offered the job. Would you take it? 🔑 <b>SUPPOSING</b><br>_____ the job, would you take it?", "a": "Supposing you were offered" },
+        { "q": "I'm not rich, so I didn't buy that flat. 🔑 <b>WOULD</b><br>If I were rich, _____ that flat.", "a": "I would have bought" }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce al inglés. Piensa en el momento de cada parte y en el conector más preciso.",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Si hubiera estudiado Medicina, ahora sería médico.", "a": "If I had studied medicine, I would be a doctor now." },
+        { "q": "Si no fuera tan tímida, habría hablado en la reunión.", "a": "If she weren't (wasn't) so shy, she would have spoken at the meeting." },
+        { "q": "A menos que lleguemos a un acuerdo, iremos a juicio.", "a": "Unless we reach an agreement, we will go to court." },
+        { "q": "Puedes usar el coche siempre que me lo devuelvas con el depósito lleno.", "a": "You can use the car as long as (provided that) you give it back with a full tank." },
+        { "q": "Llévate el portátil por si el cliente quiere ver la presentación.", "a": "Take your laptop in case the client wants to see the presentation." },
+        { "q": "En caso de que haya algún problema, llámeme.", "hint": "formal", "a": ["If there are any problems, please call me.", "In the event of a problem, please call me."] },
+        { "q": "Pongamos que te despiden mañana, ¿qué harías?", "a": "Supposing you lost your job (were fired) tomorrow, what would you do?" },
+        { "q": "De no ser por tu ayuda, habría suspendido.", "a": ["But for your help, I would have failed.", "If it hadn't been for your help, I would have failed."] },
+        { "q": "Date prisa; si no, perderemos el tren.", "hint": "¡ojo con «perder»!", "a": "Hurry up; otherwise, we'll miss the train." },
+        { "q": "Aunque me ofrecieran el doble, no aceptaría.", "a": "Even if they offered me twice as much, I wouldn't accept." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el perfil de esta emprendedora. Marca T o F y contesta las preguntas.",
+      "en": "Read the profile. Tick T or F and answer the questions.",
+      "text_title": "The road not taken",
+      "text": [
+        "Fifteen years ago, Clara Méndez was offered two jobs: one at a large bank in Madrid and another at a tiny start-up in Barcelona. She chose the start-up. \"If I had accepted the bank's offer, I would probably be a senior manager now,\" she says, \"but I wouldn't be half as happy.\"",
+        "The start-up struggled at first. \"But for a loan from my parents, we would have closed in the first year,\" she admits. Her parents agreed to lend her the money on condition that she finished her master's degree at the same time, which she did.",
+        "Today the company employs 200 people, and Clara is generous with advice for young entrepreneurs: \"Take risks, as long as you can afford to lose. Always have a plan B in case things go wrong. And unless you truly believe in your product, don't start at all. If I weren't so stubborn, I would have given up a dozen times.\""
+      ],
+      "items": [
+        { "q": "Clara is now a senior manager at a bank.", "tf": true, "a": false, "why": "She chose the start-up." },
+        { "q": "Clara thinks she would be happier if she had chosen the bank.", "tf": true, "a": false, "why": "…but I wouldn't be half as happy." },
+        { "q": "Her parents' loan saved the company.", "tf": true, "a": true, "why": "But for a loan from my parents, we would have closed…" },
+        { "q": "What condition did her parents set?", "a": "That she finished her master's degree at the same time." },
+        { "q": "According to Clara, when should you take risks?", "a": "As long as you can afford to lose." },
+        { "q": "Why should you always have a plan B?", "a": "In case things go wrong." },
+        { "q": "Copy the mixed conditional with a permanent condition and a past result.", "a": "If I weren't so stubborn, I would have given up a dozen times." },
+        { "q": "Rewrite with if: \"But for a loan from my parents, we would have closed in the first year.\"", "a": "If it hadn't been for a loan from my parents, we would have closed in the first year." }
+      ]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe frases propias sobre tu vida, tu trabajo o tus estudios.",
+      "en": "Write your own sentences about your life, work or studies.",
+      "items": [
+        { "q": "Una decisión del pasado que afecta a tu presente (<b>If I had…, I would… now</b>).", "lines": 2, "a": "Ej.: If I hadn't moved to Madrid, I wouldn't be working for this company now." },
+        { "q": "Un rasgo tuyo y una consecuencia pasada (<b>If I were…, I would have…</b>).", "lines": 2, "a": "Ej.: If I were more patient, I wouldn't have argued with my boss last week." },
+        { "q": "Una norma de tu empresa o centro con <b>provided that</b> o <b>as long as</b>.", "lines": 2, "a": "Ej.: Employees can work remotely as long as they attend the weekly meeting." },
+        { "q": "Un consejo de viaje con <b>in case</b> y otro con <b>otherwise</b>.", "lines": 2, "a": "Ej.: Take a copy of your passport in case you lose it. Book early; otherwise, it will be very expensive." },
+        { "q": "Una hipótesis con <b>Supposing…</b> o <b>What if…</b>", "lines": 2, "a": "Ej.: Supposing the company closed tomorrow, what would you do?" }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Construyo mixtas pasado → presente: <b>If I had…, I would be… now</b>.", "en": "I can use past → present mixed conditionals." },
+    { "es": "Construyo mixtas presente → pasado: <b>If I were…, I would have…</b>", "en": "I can use present → past mixed conditionals." },
+    { "es": "Uso <b>unless</b> sin doble negación.", "en": "I use unless without a double negative." },
+    { "es": "Expreso requisitos con <b>provided that</b>, <b>as long as</b> y <b>on condition that</b>.", "en": "I can express requirements." },
+    { "es": "Planteo hipótesis con <b>supposing</b>, <b>what if</b> y <b>assuming</b>.", "en": "I can express hypotheses." },
+    { "es": "Distingo <b>in case</b> de <b>if</b> y uso <b>otherwise</b> y <b>but for</b>.", "en": "I know in case vs if, otherwise and but for." },
+    { "es": "No pongo <b>will / would</b> tras if, unless, provided o in case.", "en": "I avoid will / would after if, unless, provided and in case." }
+  ]
+}

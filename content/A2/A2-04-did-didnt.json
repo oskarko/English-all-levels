@@ -1,0 +1,1403 @@
+{
+  "id": "A2-04",
+  "level": "A2",
+  "title": "DID <em>y</em> DIDN'T",
+  "file_title": "Did y didn't",
+  "subtitle": "Did and didn't · negativas y preguntas en pasado",
+  "icon": "🕵️",
+  "map": {
+    "center": "<b>DID</b> es el ayudante del pasado. Con él hacemos <b>negativas</b> y <b>preguntas</b>, y el verbo <mark>vuelve a su forma base</mark>.",
+    "nodes": [
+      {
+        "title": "Negativa",
+        "icon": "⛔",
+        "items": [
+          "Sujeto + <b>didn't</b> + verbo base",
+          "I <b>didn't go</b>. <i>(No fui.)</i>",
+          "She <b>didn't play</b>. <i>(No jugó.)</i>",
+          "didn't = did not"
+        ]
+      },
+      {
+        "title": "Preguntas",
+        "icon": "❓",
+        "art": "🔍",
+        "items": [
+          "<b>Did</b> + sujeto + verbo base…?",
+          "<b>Did</b> you <b>see</b> it? <i>(¿Lo viste?)</i>",
+          "<b>Did</b> Leo <b>win</b>? <i>(¿Ganó Leo?)</i>"
+        ]
+      },
+      {
+        "title": "Respuestas cortas",
+        "icon": "💬",
+        "items": [
+          "Yes, I <b>did</b>. / No, I <b>didn't</b>.",
+          "Yes, she <b>did</b>. / No, she <b>didn't</b>.",
+          "¡Sin repetir el verbo!"
+        ]
+      },
+      {
+        "title": "Wh- + did",
+        "icon": "🔎",
+        "items": [
+          "<b>Where did</b> you go?",
+          "<b>What did</b> she eat?",
+          "<b>When did</b> they arrive?"
+        ],
+        "after": "Wh- + <b>did</b> + sujeto + verbo base"
+      },
+      {
+        "title": "Igual para todos",
+        "icon": "👥",
+        "art": "🕵️",
+        "items": [
+          "I / you / he / she / it / we / they → <b>did</b>",
+          "Nada de <s>does</s> ni <s>-s</s>",
+          "did ya es pasado → verbo <b>sin -ed</b>"
+        ]
+      },
+      {
+        "title": "¡Ojo con was / were!",
+        "icon": "⚠️",
+        "items": [
+          "Was / were <b>no</b> usan did:",
+          "<s>Did you were…?</s> → <b>Were</b> you…?",
+          "<s>I didn't was</s> → I <b>wasn't</b>"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "I didn't went to school."
+      ],
+      "good": [
+        "I didn't go to school."
+      ],
+      "note": "didn't + verbo <b>base</b>"
+    },
+    "mini": {
+      "es": "Completa con did, didn't o el verbo.",
+      "en": "Complete with did, didn't or the verb.",
+      "items": [
+        {
+          "q": "I ___ go to school on Sunday.",
+          "a": "didn't"
+        },
+        {
+          "q": "___ you see the match?",
+          "a": "Did"
+        },
+        {
+          "q": "She didn't ___ her homework.",
+          "a": "do",
+          "hint": "do / did"
+        },
+        {
+          "q": "Where ___ you go yesterday?",
+          "a": "did"
+        },
+        {
+          "q": "Did Leo win? — No, he ___.",
+          "a": "didn't"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "En presente usamos <b>do / does</b> para negar y preguntar. En pasado, el ayudante es <mark>DID</mark>, ¡y es el mismo para todas las personas! <b>Did</b> ya lleva el pasado dentro, así que el verbo principal vuelve a su <b>forma base</b> (el infinitivo sin to): <i>I went</i> → I <b>didn't go</b> → <b>Did</b> you <b>go</b>?",
+      "en": "In the past, the helper is <b>did</b>. It's the same for everyone and it carries the past, so the main verb goes back to its <b>base form</b>.",
+      "formula": [
+        "Sujeto + *didn't* + verbo base",
+        "*Did* + sujeto + verbo base + …?"
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Negativa",
+      "title_en": "Negative",
+      "icon": "⛔",
+      "color": "red",
+      "es": "Para negar en pasado ponemos <b>didn't</b> (did not) delante del verbo, y el verbo vuelve a su <b>forma base</b>: played → <b>didn't play</b>, went → <b>didn't go</b>. Vale igual para verbos regulares e irregulares.",
+      "en": "<b>didn't</b> + base verb. Regular or irregular, it works the same.",
+      "formula": [
+        "I / you / he / she / we / they + *didn't* + play / go"
+      ],
+      "examples": [
+        {
+          "en": "I <b>didn't watch</b> TV yesterday.",
+          "es": "Ayer no vi la tele.",
+          "icon": "📺"
+        },
+        {
+          "en": "Rocky <b>didn't eat</b> his dinner.",
+          "es": "Rocky no se comió la cena.",
+          "icon": "🐕"
+        },
+        {
+          "en": "We <b>didn't go</b> to the beach.",
+          "es": "No fuimos a la playa.",
+          "icon": "🏖️"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Del sí al no",
+      "title_en": "From yes to no",
+      "icon": "🔁",
+      "color": "purple",
+      "head": [
+        "✅ Afirmativa",
+        "⛔ Negativa"
+      ],
+      "rows": [
+        [
+          "I play<b>ed</b> tennis.",
+          "I <b>didn't play</b> tennis."
+        ],
+        [
+          "She <b>went</b> home.",
+          "She <b>didn't go</b> home."
+        ],
+        [
+          "He <b>ate</b> fish.",
+          "He <b>didn't eat</b> fish."
+        ],
+        [
+          "We <b>saw</b> the film.",
+          "We <b>didn't see</b> the film."
+        ],
+        [
+          "They stud<b>ied</b>.",
+          "They <b>didn't study</b>."
+        ],
+        [
+          "It rain<b>ed</b>.",
+          "It <b>didn't rain</b>."
+        ],
+        [
+          "Tom <b>had</b> a dog.",
+          "Tom <b>didn't have</b> a dog."
+        ]
+      ],
+      "note": "Fíjate: el pasado <b>salta</b> del verbo a <b>didn't</b>. played → didn't play, went → didn't go. ¡Solo un pasado por frase!",
+      "note_en": "The past moves from the verb to didn't. Only one past per sentence!"
+    },
+    {
+      "t": "rule",
+      "title": "2 · Preguntas",
+      "title_en": "Questions",
+      "icon": "❓",
+      "color": "blue",
+      "es": "Para preguntar, ponemos <b>Did</b> al principio, luego el <b>sujeto</b> y después el verbo en <b>forma base</b>. Sin did, la pregunta no funciona: <s>You went to the park?</s> → <b>Did</b> you <b>go</b> to the park?",
+      "en": "<b>Did</b> + subject + base verb…? Don't forget did!",
+      "formula": [
+        "*Did* + sujeto + *verbo base* + …?"
+      ],
+      "examples": [
+        {
+          "en": "<b>Did</b> you <b>like</b> the film?",
+          "es": "¿Te gustó la peli?",
+          "icon": "🎬"
+        },
+        {
+          "en": "<b>Did</b> Lucía <b>call</b> Grandma?",
+          "es": "¿Llamó Lucía a la abuela?",
+          "icon": "📞"
+        },
+        {
+          "en": "<b>Did</b> they <b>win</b> the match?",
+          "es": "¿Ganaron el partido?",
+          "icon": "🏆"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "3 · Respuestas cortas",
+      "title_en": "Short answers",
+      "icon": "💬",
+      "color": "teal",
+      "head": [
+        "Pregunta · Question",
+        "Sí · Yes",
+        "No"
+      ],
+      "rows": [
+        [
+          "Did you go?",
+          "Yes, I <b>did</b>.",
+          "No, I <b>didn't</b>."
+        ],
+        [
+          "Did he play?",
+          "Yes, he <b>did</b>.",
+          "No, he <b>didn't</b>."
+        ],
+        [
+          "Did she win?",
+          "Yes, she <b>did</b>.",
+          "No, she <b>didn't</b>."
+        ],
+        [
+          "Did it rain?",
+          "Yes, it <b>did</b>.",
+          "No, it <b>didn't</b>."
+        ],
+        [
+          "Did you and Sara go?",
+          "Yes, we <b>did</b>.",
+          "No, we <b>didn't</b>."
+        ],
+        [
+          "Did they like it?",
+          "Yes, they <b>did</b>.",
+          "No, they <b>didn't</b>."
+        ]
+      ],
+      "note": "La respuesta corta es <b>Yes / No + sujeto + did / didn't</b>. ¡Nada más! Si te preguntan con <b>you</b>, contestas con <b>I</b>.",
+      "note_en": "Short answer: Yes / No + subject + did / didn't."
+    },
+    {
+      "t": "rule",
+      "title": "4 · Preguntas con Wh-",
+      "title_en": "Wh- questions",
+      "icon": "🔎",
+      "color": "orange",
+      "es": "Para preguntar <b>qué, dónde, cuándo, con quién, por qué…</b> ponemos la palabra interrogativa delante y luego la pregunta de siempre: <b>Wh- + did + sujeto + verbo base</b>.",
+      "en": "Question word + <b>did</b> + subject + base verb?",
+      "formula": [
+        "*Wh-* + *did* + sujeto + verbo base + …?"
+      ],
+      "examples": [
+        {
+          "en": "<b>Where did</b> you <b>go</b> on holiday?",
+          "es": "¿Adónde fuiste de vacaciones?",
+          "icon": "✈️"
+        },
+        {
+          "en": "<b>What did</b> you <b>have</b> for lunch?",
+          "es": "¿Qué comiste?",
+          "icon": "🍝"
+        },
+        {
+          "en": "<b>Who did</b> you <b>play</b> with?",
+          "es": "¿Con quién jugaste?",
+          "icon": "🧸"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Palabras para preguntar",
+      "title_en": "Question words",
+      "icon": "🗝️",
+      "color": "green",
+      "head": [
+        "Palabra · Word",
+        "Español",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "<b>What</b>",
+          "qué",
+          "What did you eat?"
+        ],
+        [
+          "<b>Where</b>",
+          "dónde, adónde",
+          "Where did you go?"
+        ],
+        [
+          "<b>When</b>",
+          "cuándo",
+          "When did it start?"
+        ],
+        [
+          "<b>What time</b>",
+          "a qué hora",
+          "What time did you get up?"
+        ],
+        [
+          "<b>Who</b> … with",
+          "con quién",
+          "Who did you go with?"
+        ],
+        [
+          "<b>Why</b>",
+          "por qué",
+          "Why did you cry?"
+        ],
+        [
+          "<b>How</b>",
+          "cómo",
+          "How did you get there?"
+        ]
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Todo junto",
+      "title_en": "All together",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Sujeto · Subject",
+        "✅ Afirmativa",
+        "⛔ Negativa",
+        "❓ Pregunta",
+        "💬 Respuesta corta"
+      ],
+      "rows": [
+        [
+          "I",
+          "I played.",
+          "I <b>didn't play</b>.",
+          "<b>Did</b> I <b>play</b>?",
+          "Yes, I did. / No, I didn't."
+        ],
+        [
+          "you",
+          "You went.",
+          "You <b>didn't go</b>.",
+          "<b>Did</b> you <b>go</b>?",
+          "Yes, I did. / No, I didn't."
+        ],
+        [
+          "he",
+          "He ate.",
+          "He <b>didn't eat</b>.",
+          "<b>Did</b> he <b>eat</b>?",
+          "Yes, he did. / No, he didn't."
+        ],
+        [
+          "she",
+          "She saw it.",
+          "She <b>didn't see</b> it.",
+          "<b>Did</b> she <b>see</b> it?",
+          "Yes, she did. / No, she didn't."
+        ],
+        [
+          "it",
+          "It rained.",
+          "It <b>didn't rain</b>.",
+          "<b>Did</b> it <b>rain</b>?",
+          "Yes, it did. / No, it didn't."
+        ],
+        [
+          "we",
+          "We won.",
+          "We <b>didn't win</b>.",
+          "<b>Did</b> we <b>win</b>?",
+          "Yes, we did. / No, we didn't."
+        ],
+        [
+          "they",
+          "They studied.",
+          "They <b>didn't study</b>.",
+          "<b>Did</b> they <b>study</b>?",
+          "Yes, they did. / No, they didn't."
+        ]
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Did … do: ¡dos veces!",
+      "title_en": "Did … do?",
+      "icon": "🔂",
+      "color": "pink",
+      "es": "<b>Do</b> también es un verbo normal: significa <b>hacer</b>. Por eso a veces sale dos veces: <b>Did</b> you <b>do</b> your homework? (¿Hiciste los deberes?). El primero es el ayudante y el segundo es «hacer». ¡No te asustes! Lo mismo pasa con <b>have</b>: <b>Did</b> you <b>have</b> fun?",
+      "en": "<b>Do</b> is also a normal verb (hacer), so you can see it twice: Did you do your homework?",
+      "formula": [
+        "*Did* + you + *do* + your homework?"
+      ],
+      "examples": [
+        {
+          "en": "<b>Did</b> you <b>do</b> your homework? — Yes, I <b>did</b>.",
+          "es": "¿Hiciste los deberes? — Sí.",
+          "icon": "📚"
+        },
+        {
+          "en": "I <b>didn't do</b> anything at the weekend.",
+          "es": "No hice nada el fin de semana.",
+          "icon": "🛋️"
+        },
+        {
+          "en": "<b>Did</b> you <b>have</b> fun at the party?",
+          "es": "¿Te lo pasaste bien en la fiesta?",
+          "icon": "🥳"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿DID o WAS / WERE?",
+      "title_en": "did or was / were?",
+      "icon": "⚖️",
+      "color": "blue",
+      "es": "<b>Was / were</b> son el pasado de <b>to be</b> y saben negar y preguntar solos (como am / is / are). <b>Did</b> es para <b>todos los demás verbos</b>. ¡Nunca los mezcles!",
+      "en": "<b>Be</b> (was / were) never uses did. All other verbs use did.",
+      "cols": [
+        {
+          "head": "🙂 to be → was / were",
+          "color": "purple",
+          "items": [
+            "I <b>wasn't</b> tired.",
+            "<b>Were</b> you at home?",
+            "Yes, I <b>was</b>.",
+            "<s>Did you were…?</s>"
+          ]
+        },
+        {
+          "head": "🏃 otros verbos → did",
+          "color": "green",
+          "items": [
+            "I <b>didn't</b> sleep.",
+            "<b>Did</b> you go home?",
+            "Yes, I <b>did</b>.",
+            "<s>I wasn't sleep.</s>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "I <b>didn't hear</b> the alarm clock!",
+          "es": "¡No oí el despertador!",
+          "icon": "⏰"
+        },
+        {
+          "en": "<b>Did</b> you <b>bring</b> your PE kit? — Yes, I <b>did</b>.",
+          "es": "¿Trajiste la ropa de gimnasia? — Sí.",
+          "icon": "👟"
+        },
+        {
+          "en": "Lucía <b>didn't like</b> the soup.",
+          "es": "A Lucía no le gustó la sopa.",
+          "icon": "🥣"
+        },
+        {
+          "en": "<b>Why did</b> Rocky <b>bark</b>? — Because he saw a cat.",
+          "es": "¿Por qué ladró Rocky? — Porque vio un gato.",
+          "icon": "🐕"
+        },
+        {
+          "en": "<b>Where did</b> Rocky <b>hide</b> the ball?",
+          "es": "¿Dónde escondió Rocky la pelota?",
+          "icon": "🎾"
+        },
+        {
+          "en": "We <b>didn't have</b> English on Friday.",
+          "es": "El viernes no tuvimos inglés.",
+          "icon": "📅"
+        },
+        {
+          "en": "<b>Did</b> it <b>snow</b> in the mountains? — No, it <b>didn't</b>.",
+          "es": "¿Nevó en la montaña? — No.",
+          "icon": "🏔️"
+        },
+        {
+          "en": "<b>What did</b> Grandma <b>give</b> you? — A book.",
+          "es": "¿Qué te regaló la abuela? — Un libro.",
+          "icon": "🎁"
+        },
+        {
+          "en": "Tom <b>didn't do</b> his homework.",
+          "es": "Tom no hizo los deberes.",
+          "icon": "📝"
+        },
+        {
+          "en": "<b>When did</b> you <b>start</b> karate?",
+          "es": "¿Cuándo empezaste kárate?",
+          "icon": "🥋"
+        },
+        {
+          "en": "<b>Did</b> Sara and Anna <b>come</b> to the party? — Yes, they <b>did</b>.",
+          "es": "¿Vinieron Sara y Anna a la fiesta? — Sí.",
+          "icon": "🎉"
+        },
+        {
+          "en": "I <b>didn't break</b> the vase. It was Rocky!",
+          "es": "Yo no rompí el jarrón. ¡Fue Rocky!",
+          "icon": "🏺"
+        },
+        {
+          "en": "<b>Why did</b> you <b>laugh</b>? — Because Leo told a joke.",
+          "es": "¿Por qué te reíste? — Porque Leo contó un chiste.",
+          "icon": "😂"
+        },
+        {
+          "en": "<b>How many</b> goals <b>did</b> you <b>score</b>?",
+          "es": "¿Cuántos goles marcaste?",
+          "icon": "⚽"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "nono",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I didn't went to school.",
+          "good": "I didn't <b>go</b> to school.",
+          "why": "Después de didn't, verbo base.",
+          "why_en": "didn't + base verb."
+        },
+        {
+          "bad": "I no played football.",
+          "good": "I <b>didn't play</b> football.",
+          "why": "En inglés no se niega con «no».",
+          "why_en": "Use didn't, not no."
+        },
+        {
+          "bad": "Did you saw the film?",
+          "good": "Did you <b>see</b> the film?",
+          "why": "Did ya es pasado: see, no saw.",
+          "why_en": "Did + base verb."
+        },
+        {
+          "bad": "You went to the party?",
+          "good": "<b>Did</b> you <b>go</b> to the party?",
+          "why": "¡Falta el ayudante did!",
+          "why_en": "Questions need did."
+        },
+        {
+          "bad": "Where you went?",
+          "good": "Where <b>did</b> you <b>go</b>?",
+          "why": "Wh- + did + sujeto + verbo base.",
+          "why_en": "Wh- + did + subject + verb."
+        },
+        {
+          "bad": "She doesn't liked it.",
+          "good": "She <b>didn't like</b> it.",
+          "why": "Pasado → didn't (para todos).",
+          "why_en": "Past → didn't."
+        },
+        {
+          "bad": "Did you were tired?",
+          "good": "<b>Were</b> you tired?",
+          "why": "To be no usa did.",
+          "why_en": "Be never uses did."
+        },
+        {
+          "bad": "Did you like it? — Yes, I liked.",
+          "good": "Did you like it? — Yes, I <b>did</b>.",
+          "why": "Respuesta corta: Yes, I did.",
+          "why_en": "Short answer: Yes, I did."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "¿El verbo es <b>be</b> (was / were)? → ¡No uses did! Niega con wasn't / weren't.",
+          "en": "Is it be? → No did!"
+        },
+        {
+          "es": "¿Negativa? → sujeto + <b>didn't</b> + verbo base.",
+          "en": "Negative → didn't + base verb."
+        },
+        {
+          "es": "¿Pregunta? → <b>Did</b> + sujeto + verbo base…?",
+          "en": "Question → Did + subject + base verb?"
+        },
+        {
+          "es": "¿Pregunta con qué, dónde…? → <b>Wh-</b> + did + sujeto + verbo base…?",
+          "en": "Wh- + did + subject + base verb?"
+        },
+        {
+          "es": "Comprueba: ¿hay <b>un solo pasado</b>? Si ves did y también -ed o went… ¡quita uno!",
+          "en": "Check: only one past!"
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "El detective Mario",
+      "title_en": "Detective Mario",
+      "lines": [
+        {
+          "who": "Mario",
+          "en": "Lucía, did you eat the last slice of pizza?",
+          "es": "Lucía, ¿te comiste el último trozo de pizza?"
+        },
+        {
+          "who": "Lucía",
+          "en": "No, I didn't! I was at my friend's house.",
+          "es": "¡No! Estaba en casa de mi amiga."
+        },
+        {
+          "who": "Mario",
+          "en": "Hmm… Dad, did you take it?",
+          "es": "Mmm… Papá, ¿lo cogiste tú?"
+        },
+        {
+          "who": "Dad",
+          "en": "No, I didn't. I didn't go into the kitchen all afternoon.",
+          "es": "No. No entré en la cocina en toda la tarde."
+        },
+        {
+          "who": "Mario",
+          "en": "So who ate it? And where did the box go?",
+          "es": "¿Entonces quién se lo comió? ¿Y dónde fue a parar la caja?"
+        },
+        {
+          "who": "Lucía",
+          "en": "Look! Rocky's got tomato sauce on his nose!",
+          "es": "¡Mira! ¡Rocky tiene tomate en el hocico!"
+        },
+        {
+          "who": "Mario",
+          "en": "Rocky! Did you eat our pizza?",
+          "es": "¡Rocky! ¿Te comiste nuestra pizza?"
+        },
+        {
+          "who": "Dad",
+          "en": "Ha, ha! Yes, he did! Mystery solved.",
+          "es": "¡Ja, ja! ¡Pues sí! Misterio resuelto."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco: did es un ladrón",
+      "title_en": "Did is a thief",
+      "es": "Imagina que <b>did</b> es un ladrón de pasados: cuando aparece en la frase, ¡le roba el pasado al verbo! went → (did) <b>go</b>, played → (did) <b>play</b>, saw → (did) <b>see</b>. Por eso nunca puede haber dos pasados juntos.",
+      "en": "<b>Did</b> steals the past from the verb: only one past per sentence!"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct word",
+      "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta. ¡Ojo con was / were!",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "I didn't [go|went] to the party.",
+          "a": "go"
+        },
+        {
+          "q": "[Did|Do] you see the match yesterday?",
+          "a": "Did"
+        },
+        {
+          "q": "She didn't [like|liked] the film.",
+          "a": "like"
+        },
+        {
+          "q": "Did Tom [play|played] football?",
+          "a": "play"
+        },
+        {
+          "q": "We [didn't|don't] have school last Monday.",
+          "a": "didn't"
+        },
+        {
+          "q": "[Did|Were] you at home yesterday?",
+          "a": "Were"
+        },
+        {
+          "q": "[Did|Was] Lucía eat her vegetables?",
+          "a": "Did"
+        },
+        {
+          "q": "Where did you [buy|bought] that cap?",
+          "a": "buy"
+        },
+        {
+          "q": "It [wasn't|didn't] cold yesterday.",
+          "a": "wasn't"
+        },
+        {
+          "q": "Did they win? — Yes, they [did|won].",
+          "a": "did"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Did o Was / Were?",
+      "title_en": "Did or Was / Were?",
+      "icon": "🗂️",
+      "es": "¿Cómo empieza cada pregunta: con Did o con Was / Were? Escribe cada trozo en su caja.",
+      "en": "Does each question start with Did or Was / Were?",
+      "cats": [
+        {
+          "name": "Did…?",
+          "words": [
+            "you like it",
+            "she go",
+            "they eat",
+            "it rain",
+            "Tom win",
+            "you sleep"
+          ]
+        },
+        {
+          "name": "Was / Were…?",
+          "words": [
+            "you tired",
+            "it cold",
+            "they happy",
+            "she at home",
+            "Tom late",
+            "the film good"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "did o didn't",
+      "title_en": "did or didn't",
+      "icon": "🕵️",
+      "es": "Completa con Did, did o didn't. Lee bien toda la frase.",
+      "en": "Complete with Did, did or didn't.",
+      "bank": [
+        "Did",
+        "did",
+        "didn't"
+      ],
+      "items": [
+        {
+          "q": "___ you go to the cinema last night?",
+          "a": "Did"
+        },
+        {
+          "q": "I ___ watch TV yesterday. I was busy.",
+          "a": "didn't"
+        },
+        {
+          "q": "Leo ___ come to school. He was ill.",
+          "a": "didn't"
+        },
+        {
+          "q": "Where ___ you put my pencil?",
+          "a": "did"
+        },
+        {
+          "q": "___ Rocky sleep in the garden?",
+          "a": "Did"
+        },
+        {
+          "q": "We ___ have breakfast because we were late.",
+          "a": "didn't"
+        },
+        {
+          "q": "What ___ your mum say?",
+          "a": "did"
+        },
+        {
+          "q": "My parents ___ like the restaurant. It was dirty.",
+          "a": "didn't"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pasa a negativa",
+      "title_en": "Make it negative",
+      "icon": "⛔",
+      "es": "Escribe la frase en negativa con didn't. ¡El verbo vuelve a su forma base!",
+      "en": "Write the sentence in the negative with didn't.",
+      "items": [
+        {
+          "q": "I played tennis.",
+          "a": "I didn't play tennis."
+        },
+        {
+          "q": "She went to the beach.",
+          "a": "She didn't go to the beach."
+        },
+        {
+          "q": "We saw a fox.",
+          "a": "We didn't see a fox."
+        },
+        {
+          "q": "Tom studied for the test.",
+          "a": "Tom didn't study for the test."
+        },
+        {
+          "q": "The dog ate the bone.",
+          "a": "The dog didn't eat the bone."
+        },
+        {
+          "q": "They had a party.",
+          "a": "They didn't have a party."
+        },
+        {
+          "q": "Lucía wrote a poem.",
+          "a": "Lucía didn't write a poem."
+        },
+        {
+          "q": "It rained yesterday.",
+          "a": "It didn't rain yesterday."
+        },
+        {
+          "q": "I did my homework.",
+          "a": "I didn't do my homework."
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Del pasado a la base",
+      "title_en": "From past to base form",
+      "icon": "📋",
+      "es": "Escribe el verbo base y la frase en negativa.",
+      "en": "Write the base verb and the negative sentence.",
+      "head": [
+        "✅ Afirmativa",
+        "Verbo base",
+        "⛔ Negativa"
+      ],
+      "rows": [
+        [
+          "I went.",
+          "?go",
+          "?I didn't go."
+        ],
+        [
+          "She played.",
+          "?play",
+          "?She didn't play."
+        ],
+        [
+          "We ate.",
+          "?eat",
+          "?We didn't eat."
+        ],
+        [
+          "He bought it.",
+          "?buy",
+          "?He didn't buy it."
+        ],
+        [
+          "They cried.",
+          "?cry",
+          "?They didn't cry."
+        ],
+        [
+          "I saw it.",
+          "?see",
+          "?I didn't see it."
+        ],
+        [
+          "You won.",
+          "?win",
+          "?You didn't win."
+        ]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Haz la pregunta",
+      "title_en": "Make the question",
+      "icon": "❓",
+      "es": "Escribe la pregunta con Did. ¡No olvides el signo de interrogación!",
+      "en": "Write the question with Did.",
+      "items": [
+        {
+          "q": "You liked the film.",
+          "a": "Did you like the film?"
+        },
+        {
+          "q": "She called her friend.",
+          "a": "Did she call her friend?"
+        },
+        {
+          "q": "They went to London.",
+          "a": "Did they go to London?"
+        },
+        {
+          "q": "Leo broke the window.",
+          "a": "Did Leo break the window?"
+        },
+        {
+          "q": "Your dad made dinner.",
+          "a": "Did your dad make dinner?"
+        },
+        {
+          "q": "It snowed last night.",
+          "a": "Did it snow last night?"
+        },
+        {
+          "q": "Anna found her keys.",
+          "a": "Did Anna find her keys?"
+        },
+        {
+          "q": "You did your homework.",
+          "a": "Did you do your homework?"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Respuestas cortas",
+      "title_en": "Short answers",
+      "icon": "💬",
+      "es": "Completa la respuesta corta. Ojo: ¡dos preguntas son con was / were!",
+      "en": "Complete the short answer. Careful: two are with was / were!",
+      "items": [
+        {
+          "q": "Did you have fun? — Yes, I ___.",
+          "a": "did"
+        },
+        {
+          "q": "Did Sara win the race? — No, she ___.",
+          "a": "didn't"
+        },
+        {
+          "q": "Did the film finish late? — Yes, it ___.",
+          "a": "did"
+        },
+        {
+          "q": "Did your parents go out? — No, they ___.",
+          "a": "didn't"
+        },
+        {
+          "q": "Did Tom bring his ball? — Yes, he ___.",
+          "a": "did"
+        },
+        {
+          "q": "Did you and Leo play chess? — No, we ___.",
+          "a": "didn't"
+        },
+        {
+          "q": "Were you tired? — Yes, I ___.",
+          "a": "was"
+        },
+        {
+          "q": "Was the cake good? — No, it ___.",
+          "a": "wasn't"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une pregunta y respuesta",
+      "title_en": "Match questions and answers",
+      "icon": "🔗",
+      "es": "Une cada pregunta con su respuesta.",
+      "en": "Match each question with its answer.",
+      "pairs": [
+        [
+          "Where did you go on holiday?",
+          "To Portugal. It was great!"
+        ],
+        [
+          "What did you have for lunch?",
+          "Pasta with tomato sauce."
+        ],
+        [
+          "When did the film start?",
+          "At half past six."
+        ],
+        [
+          "Who did you play with?",
+          "With Leo and Sara."
+        ],
+        [
+          "Why did you get up early?",
+          "Because I had a football match."
+        ],
+        [
+          "Did you like the book?",
+          "Yes, I did. It was really funny."
+        ],
+        [
+          "How did you get to school?",
+          "By bike."
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "¿Qué palabra falta?",
+      "title_en": "Which question word?",
+      "icon": "🔎",
+      "es": "Completa la pregunta con la palabra interrogativa correcta. Mira la respuesta.",
+      "en": "Complete the question. Look at the answer.",
+      "bank": [
+        "Where",
+        "What",
+        "When",
+        "Who",
+        "Why",
+        "How"
+      ],
+      "items": [
+        {
+          "q": "___ did you go yesterday? — To the park.",
+          "a": "Where"
+        },
+        {
+          "q": "___ did you eat? — A pizza.",
+          "a": "What"
+        },
+        {
+          "q": "___ did you meet at the park? — Tom and Anna.",
+          "a": "Who"
+        },
+        {
+          "q": "___ did the party start? — At five o'clock.",
+          "a": "When"
+        },
+        {
+          "q": "___ did Lucía cry? — Because she lost her doll.",
+          "a": "Why"
+        },
+        {
+          "q": "___ did you go to Paris? — By plane.",
+          "a": "How"
+        },
+        {
+          "q": "___ did you see at the zoo? — Lions and zebras.",
+          "a": "What"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {
+          "q": "didn't / I / to / go / school",
+          "a": "I didn't go to school."
+        },
+        {
+          "q": "you / did / the / see / match / ?",
+          "a": "Did you see the match?"
+        },
+        {
+          "q": "didn't / Rocky / his / eat / food",
+          "a": "Rocky didn't eat his food."
+        },
+        {
+          "q": "go / where / you / did / ?",
+          "a": "Where did you go?"
+        },
+        {
+          "q": "did / what / buy / Mum / ?",
+          "a": "What did Mum buy?"
+        },
+        {
+          "q": "they / did / win / ? / the match",
+          "a": "Did they win the match?"
+        },
+        {
+          "q": "Lucía / like / didn't / the / film",
+          "a": "Lucía didn't like the film."
+        },
+        {
+          "q": "did / get up / time / what / you / ?",
+          "a": "What time did you get up?"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pregunta y responde",
+      "title_en": "Ask and answer",
+      "icon": "💬",
+      "es": "Escribe la pregunta con Did y luego la respuesta corta. Fíjate en la pista (YES / NO).",
+      "en": "Write the question and the short answer.",
+      "labels": [
+        "❓",
+        "💬"
+      ],
+      "items": [
+        {
+          "q": "you / see the dolphins (YES)",
+          "a": [
+            "Did you see the dolphins?",
+            "Yes, I did."
+          ]
+        },
+        {
+          "q": "Lucía / eat her vegetables (NO)",
+          "a": [
+            "Did Lucía eat her vegetables?",
+            "No, she didn't."
+          ]
+        },
+        {
+          "q": "they / go to the museum (YES)",
+          "a": [
+            "Did they go to the museum?",
+            "Yes, they did."
+          ]
+        },
+        {
+          "q": "Tom / do his homework (NO)",
+          "a": [
+            "Did Tom do his homework?",
+            "No, he didn't."
+          ]
+        },
+        {
+          "q": "it / rain at the weekend (YES)",
+          "a": [
+            "Did it rain at the weekend?",
+            "Yes, it did."
+          ]
+        },
+        {
+          "q": "your parents / buy a new car (NO)",
+          "a": [
+            "Did your parents buy a new car?",
+            "No, they didn't."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "I didn't went to the park.",
+          "a": "I didn't go to the park."
+        },
+        {
+          "q": "Did you saw my cat?",
+          "a": "Did you see my cat?"
+        },
+        {
+          "q": "She no played tennis.",
+          "a": "She didn't play tennis."
+        },
+        {
+          "q": "Where you went yesterday?",
+          "a": "Where did you go yesterday?"
+        },
+        {
+          "q": "Did you were at home?",
+          "a": "Were you at home?"
+        },
+        {
+          "q": "He doesn't came to my party.",
+          "a": "He didn't come to my party."
+        },
+        {
+          "q": "Did Tom ate the cake?",
+          "a": "Did Tom eat the cake?"
+        },
+        {
+          "q": "What you did at the weekend?",
+          "a": "What did you do at the weekend?"
+        },
+        {
+          "q": "Did you like it? — Yes, I liked.",
+          "a": "Did you like it? — Yes, I did."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿es to be (was / were) o necesito did?",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "No fui al cole ayer.",
+          "a": "I didn't go to school yesterday."
+        },
+        {
+          "q": "¿Viste la peli?",
+          "a": "Did you see the film?"
+        },
+        {
+          "q": "Mi hermana no comió pescado.",
+          "a": "My sister didn't eat fish."
+        },
+        {
+          "q": "¿Dónde compraste esa mochila?",
+          "a": "Where did you buy that schoolbag?"
+        },
+        {
+          "q": "¿Ganó Leo el partido? — Sí.",
+          "a": "Did Leo win the match? — Yes, he did."
+        },
+        {
+          "q": "No hicimos los deberes.",
+          "a": "We didn't do our homework."
+        },
+        {
+          "q": "¿Qué cenaste anoche?",
+          "a": "What did you have for dinner last night?"
+        },
+        {
+          "q": "¿Estabas cansado? — No. (¡cuidado!)",
+          "a": "Were you tired? — No, I wasn't."
+        },
+        {
+          "q": "¿Te lo pasaste bien? — Sí.",
+          "a": "Did you have fun? — Yes, I did."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "Anna's bad day",
+      "text": [
+        "Yesterday was a bad day for Anna. Her alarm clock didn't ring, so she didn't wake up early. She didn't have time for breakfast and she ran to school.",
+        "At school, she didn't find her maths book. «Did you leave it at home?» her teacher asked. «Yes, I did,» Anna said sadly.",
+        "In the afternoon it rained, and Anna didn't have her umbrella! But when she got home, her grandma was there. She made Anna's favourite cake. «Did you have a bad day?» Grandma asked. «Yes, I did,» said Anna, «but now it's a good day!»"
+      ],
+      "items": [
+        {
+          "q": "Anna's alarm clock rang.",
+          "tf": true,
+          "a": false,
+          "why": "It didn't ring."
+        },
+        {
+          "q": "Anna had breakfast.",
+          "tf": true,
+          "a": false,
+          "why": "She didn't have time for breakfast."
+        },
+        {
+          "q": "Anna left her maths book at home.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Did Anna have her umbrella?",
+          "a": "No, she didn't."
+        },
+        {
+          "q": "Who made a cake?",
+          "a": "Her grandma (made a cake)."
+        },
+        {
+          "q": "Why didn't Anna wake up early?",
+          "a": "Because her alarm clock didn't ring."
+        },
+        {
+          "q": "Did Anna run to school?",
+          "a": "Yes, she did."
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Después de did / didn't el verbo vuelve a su forma base. Busca la forma base de estos 8 pasados.",
+      "en": "Find the base form of these 8 past forms.",
+      "words": [
+        "eat",
+        "see",
+        "buy",
+        "take",
+        "make",
+        "come",
+        "drink",
+        "write"
+      ],
+      "clues": [
+        "ate → ?",
+        "saw → ?",
+        "bought → ?",
+        "took → ?",
+        "made → ?",
+        "came → ?",
+        "drank → ?",
+        "wrote → ?"
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe frases sobre ti con didn't, Did…? y Wh- + did.",
+      "en": "Write about you with didn't, Did…? and Wh- + did.",
+      "items": [
+        {
+          "q": "Escribe 2 cosas que <b>no</b> hiciste ayer: <b>I didn't…</b>",
+          "lines": 2,
+          "a": "Ej.: I didn't watch TV. I didn't go to the park."
+        },
+        {
+          "q": "Escribe 3 preguntas para tu amigo sobre su fin de semana: <b>Did you…? / Where did you…?</b>",
+          "lines": 3,
+          "a": "Ej.: Did you play football? Where did you go? What did you eat?"
+        },
+        {
+          "q": "Contesta tú: <b>Did you have fun last weekend? What did you do?</b>",
+          "lines": 2,
+          "a": "Ej.: Yes, I did. I went to the cinema with my family."
+        },
+        {
+          "q": "Escribe una frase con <b>wasn't / weren't</b> y otra con <b>didn't</b>.",
+          "lines": 2,
+          "a": "Ej.: I wasn't at home. I didn't see the match."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Hago negativas en pasado con <b>didn't</b> + verbo base.",
+      "en": "I can make past negatives with didn't."
+    },
+    {
+      "es": "Hago preguntas con <b>Did</b> + sujeto + verbo base.",
+      "en": "I can ask questions with Did."
+    },
+    {
+      "es": "Contesto con respuestas cortas: Yes, I did. / No, she didn't.",
+      "en": "I can give short answers."
+    },
+    {
+      "es": "Pregunto con <b>Where / What / When… + did</b>.",
+      "en": "I can ask Wh- questions with did."
+    },
+    {
+      "es": "Nunca escribo <s>didn't went</s> ni <s>Did you saw</s>.",
+      "en": "I never write didn't went or Did you saw."
+    },
+    {
+      "es": "Sé que <b>was / were</b> no usan did.",
+      "en": "I know was / were don't use did."
+    }
+  ]
+}

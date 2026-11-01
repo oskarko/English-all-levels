@@ -1,0 +1,1436 @@
+{
+  "id": "C1-02",
+  "level": "C1",
+  "title": "CLEFT SENTENCES",
+  "file_title": "Cleft sentences",
+  "subtitle": "Cleft sentences · frases escindidas para dar énfasis",
+  "icon": "✂️",
+  "map": {
+    "center": "Partimos una frase en dos para <b>destacar</b> la información clave: <b>It was Ana who…</b> · <b>What I need is…</b>",
+    "nodes": [
+      {
+        "title": "¿Qué es?",
+        "icon": "🔎",
+        "items": [
+          "Una frase partida en dos para poner el <b>foco</b>",
+          "= «<b>Fue</b> Ana <b>quien</b>…» / «<b>Lo que</b> necesito <b>es</b>…»",
+          "Énfasis, contraste y corrección"
+        ]
+      },
+      {
+        "title": "It is / It was … that",
+        "icon": "🎯",
+        "art": "🔦",
+        "items": [
+          "<b>It was</b> Ana <b>who</b> called. <i>(Fue Ana quien…)</i>",
+          "<b>It's</b> the noise <b>that</b> bothers me.",
+          "Siempre <b>it is / was</b> (singular)"
+        ]
+      },
+      {
+        "title": "What … is / was",
+        "icon": "💭",
+        "items": [
+          "<b>What</b> I need <b>is</b> a break.",
+          "<b>What</b> I did <b>was</b> (to) call her.",
+          "<b>What happened was (that)</b> I overslept."
+        ]
+      },
+      {
+        "title": "All, The thing, The reason",
+        "icon": "🧩",
+        "rows": [
+          [
+            "All I want is…",
+            "= Lo único que quiero es…"
+          ],
+          [
+            "The thing (that)…",
+            "= Lo que…"
+          ],
+          [
+            "The reason (why)…",
+            "= La razón por la que…"
+          ]
+        ]
+      },
+      {
+        "title": "Cuándo usarlas",
+        "icon": "🎤",
+        "art": "📢",
+        "items": [
+          "Corregir: It wasn't me, it was Tom.",
+          "Presentar: What I'll show you is…",
+          "Emails: The reason I'm writing is…"
+        ]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "items": [
+          "«Lo que» = <b>what</b>, nunca <s>that</s>",
+          "«Lo único que» = <b>all</b>, nunca <s>all what</s>",
+          "<b>It wasn't until</b> X <b>that</b>… <i>(no hasta)</i>"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "What I need it's a holiday."
+      ],
+      "good": [
+        "What I need is a holiday."
+      ],
+      "note": "lo que necesito <b>es</b>… → ¡sin <b>it</b>!"
+    },
+    "mini": {
+      "es": "Completa con what, it, who, all o why.",
+      "en": "Complete with what, it, who, all or why.",
+      "items": [
+        {
+          "q": "____ I need is a long holiday.",
+          "a": "What"
+        },
+        {
+          "q": "It was Laura ____ found the error.",
+          "a": [
+            "who",
+            "that"
+          ]
+        },
+        {
+          "q": "____ was the price that shocked us.",
+          "a": "It"
+        },
+        {
+          "q": "____ I want is some peace.",
+          "a": "All",
+          "hint": "lo único"
+        },
+        {
+          "q": "The reason ____ I left was the pay.",
+          "a": [
+            "why",
+            "that"
+          ]
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Una <b>cleft sentence</b> (frase escindida) <mark>parte una oración en dos</mark> para poner el foco en un elemento: quién, qué, cuándo, dónde o por qué. El español hace lo mismo con <i>«Fue Ana quien…»</i> o <i>«Lo que necesito es…»</i>. Como el orden de palabras del inglés es rígido y no podemos mover los elementos con tanta libertad, las cleft sentences son una herramienta clave para el <b>énfasis</b>, el <b>contraste</b> y la <b>corrección</b>, tanto en el habla como en textos formales.",
+      "en": "A <b>cleft sentence</b> <mark>splits one clause into two</mark> to focus on one element. English word order is fixed, so clefts are a key tool for <b>emphasis</b>, <b>contrast</b> and <b>correction</b>.",
+      "formula": [
+        "Ana called the client. (neutra)",
+        "*It was* + Ana + *who* + called the client.",
+        "*What* + Ana did + *was* + call the client."
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · It-cleft: It is / was … that / who",
+      "title_en": "It-clefts",
+      "icon": "🎯",
+      "color": "blue",
+      "es": "Colocamos el elemento destacado entre <b>It is / It was</b> y <b>that</b> (o <b>who</b> si es una persona). Podemos destacar el <b>sujeto</b>, el <b>objeto</b> o un <b>complemento</b> de tiempo, lugar o causa. El foco suele ser información <mark>nueva o contrastiva</mark> (fue X, y no Y). <i>Be</i> va siempre en <b>singular</b> aunque el foco sea plural (<i>It was the interns who…</i>), y su tiempo suele coincidir con el de la frase.",
+      "en": "Put the focus between <b>It is / It was</b> and <b>that / who</b>. The focus can be the subject, the object or an adverbial. <i>It is / was</i> is always singular.",
+      "formula": [
+        "It is / It was + *elemento destacado* + that / who + resto de la frase"
+      ],
+      "examples": [
+        {
+          "en": "<b>It was</b> the finance director <b>who</b> approved the payment.",
+          "es": "Fue el director financiero quien aprobó el pago.",
+          "icon": "💼"
+        },
+        {
+          "en": "<b>It's</b> the lack of transparency <b>that</b> worries investors.",
+          "es": "Es la falta de transparencia lo que preocupa a los inversores.",
+          "icon": "📉"
+        },
+        {
+          "en": "<b>It was</b> in Geneva <b>that</b> the agreement was finally signed.",
+          "es": "Fue en Ginebra donde por fin se firmó el acuerdo.",
+          "icon": "🖋️"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Una frase, cuatro focos",
+      "title_en": "One sentence, four focuses",
+      "icon": "🔦",
+      "color": "teal",
+      "wide": true,
+      "head": [
+        "Foco · Focus",
+        "Neutra: Laura sent the report to the board on Monday.",
+        "Implica… · Implies"
+      ],
+      "rows": [
+        [
+          "el sujeto",
+          "It was <b>Laura</b> who sent the report to the board on Monday.",
+          "Laura, no otra persona"
+        ],
+        [
+          "el objeto",
+          "It was <b>the report</b> that Laura sent to the board on Monday.",
+          "el informe, no otro documento"
+        ],
+        [
+          "el destinatario",
+          "It was <b>to the board</b> that Laura sent the report on Monday.",
+          "al consejo, no a los clientes"
+        ],
+        [
+          "el tiempo",
+          "It was <b>on Monday</b> that Laura sent the report to the board.",
+          "el lunes, no el martes"
+        ]
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · It wasn't until… / It was only when…",
+      "title_en": "Not until, only when and contrast",
+      "icon": "⏳",
+      "color": "orange",
+      "es": "Tres fórmulas muy rentables en el C1: <b>It wasn't until</b> + tiempo o cláusula + <b>that</b>… (= no … hasta), <b>It was only when / after</b> … <b>that</b>… (= solo cuando / después) y la estructura de contraste <b>It's not X that…, it's Y</b> (= no es X lo que…, sino Y). En todas ellas se usa <b>that</b>, no <s>when</s>.",
+      "en": "<b>It wasn't until … that…</b>, <b>It was only when … that…</b> and <b>It's not X that…, it's Y</b>. Use <b>that</b>, not <s>when</s>.",
+      "formula": [
+        "It wasn't until + tiempo / cláusula + *that* + frase",
+        "It's not + X + *that* + …, + it's + Y"
+      ],
+      "examples": [
+        {
+          "en": "<b>It wasn't until</b> the third quarter <b>that</b> sales began to recover.",
+          "es": "Las ventas no empezaron a recuperarse hasta el tercer trimestre.",
+          "icon": "📊"
+        },
+        {
+          "en": "<b>It was only when</b> I read the small print <b>that</b> I understood the risks.",
+          "es": "Solo cuando leí la letra pequeña entendí los riesgos.",
+          "icon": "🔍"
+        },
+        {
+          "en": "<b>It isn't</b> the money <b>that</b> bothers me; <b>it's</b> the principle.",
+          "es": "No es el dinero lo que me molesta; es una cuestión de principios.",
+          "icon": "⚖️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Wh-cleft: What … is / was",
+      "title_en": "Wh-clefts",
+      "icon": "💭",
+      "color": "purple",
+      "es": "Empieza por <b>What</b> (= lo que) + sujeto + verbo; después va <b>be</b> y, al final, la información nueva, justo donde el inglés coloca el foco natural. Es el equivalente de <i>«Lo que… es…»</i> y crea <mark>expectación</mark>. Muy frecuente con verbos de opinión y sentimiento: <i>need, want, like, hate, worry, surprise, matter, concern, impress</i>. Nunca se añade <s>it</s> antes de <i>is</i>.",
+      "en": "<b>What</b> + clause + <b>be</b> + focus. The new information goes at the end and builds suspense. Never add <s>it</s> before <i>is</i>.",
+      "formula": [
+        "What + sujeto + verbo + *is / was* + foco"
+      ],
+      "examples": [
+        {
+          "en": "<b>What</b> the company needs <b>is</b> a clear long-term strategy.",
+          "es": "Lo que necesita la empresa es una estrategia clara a largo plazo.",
+          "icon": "🧭"
+        },
+        {
+          "en": "<b>What</b> surprised me most <b>was</b> the candidate's lack of preparation.",
+          "es": "Lo que más me sorprendió fue la falta de preparación del candidato.",
+          "icon": "😮"
+        },
+        {
+          "en": "<b>What</b> really matters <b>is</b> how we respond to the crisis.",
+          "es": "Lo que de verdad importa es cómo respondemos a la crisis.",
+          "icon": "🛟"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · What … did was + infinitivo",
+      "title_en": "Focusing on actions and events",
+      "icon": "🎬",
+      "color": "green",
+      "es": "Para destacar una <b>acción</b> usamos <b>do</b> en la primera parte: <i>What I did <b>was</b>…</i> Detrás de <i>be</i> va el <b>infinitivo</b> con o sin <i>to</i> (sin <i>to</i> es más frecuente): <i>What she did was (to) resign.</i> El tiempo lo marca <i>do</i>: <i>What we're going to do is…</i> Si la primera parte va en continuo, el foco va en <b>-ing</b>: <i>What I'm doing is <b>trying</b> to help.</i> Para destacar <b>todo un suceso</b>: <b>What happened was (that)</b> + frase completa.",
+      "en": "To focus on an action, use <b>do</b>: <i>What I did was (to) + infinitive</i>. For a whole event: <b>What happened was (that)…</b>",
+      "formula": [
+        "What + sujeto + *do / did / will do* + *be* + (to) infinitivo",
+        "What happened + *was* + (that) + frase completa"
+      ],
+      "examples": [
+        {
+          "en": "<b>What</b> the CEO <b>did was</b> (to) cut her own salary by 30%.",
+          "es": "Lo que hizo la consejera delegada fue recortarse el sueldo un 30 %.",
+          "icon": "✂️"
+        },
+        {
+          "en": "<b>What</b> we're going to <b>do is</b> review every single contract.",
+          "es": "Lo que vamos a hacer es revisar todos y cada uno de los contratos.",
+          "icon": "📑"
+        },
+        {
+          "en": "<b>What happened was that</b> the server crashed during the presentation.",
+          "es": "Lo que pasó fue que el servidor se cayó durante la presentación.",
+          "icon": "💻"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · All, The thing, The reason…",
+      "title_en": "Other cleft patterns",
+      "icon": "🧩",
+      "color": "pink",
+      "es": "Variantes muy naturales: <b>All</b> (that) = <i>lo único que</i> (<i>All I want is…</i>; nunca <s>all what</s>); <b>The (only / main) thing (that)</b>; <b>The reason (why)</b> … <b>is that</b> / <b>is to</b> + infinitivo (nunca <s>the reason because</s>); <b>The person who</b>, <b>The place where</b>, <b>The day when</b>. También con <b>where</b> y <b>why</b> en wh-cleft: <i>Where we went wrong was…</i>",
+      "en": "<b>All (that)</b>, <b>the thing (that)</b>, <b>the reason (why)</b>, <b>the person who</b>, <b>the place where</b>… + <b>be</b> + focus. Never <s>all what</s> or <s>the reason because</s>.",
+      "formula": [
+        "All / The thing / The reason (why) + cláusula + *is / was* + foco"
+      ],
+      "examples": [
+        {
+          "en": "<b>All</b> we're asking for <b>is</b> a fair hearing.",
+          "es": "Lo único que pedimos es que se nos escuche con imparcialidad.",
+          "icon": "🙏"
+        },
+        {
+          "en": "<b>The reason why</b> the project failed <b>was that</b> nobody took responsibility.",
+          "es": "La razón por la que fracasó el proyecto fue que nadie asumió la responsabilidad.",
+          "icon": "🧱"
+        },
+        {
+          "en": "<b>The thing that</b> impressed me most <b>was</b> her attention to detail.",
+          "es": "Lo que más me impresionó fue su atención al detalle.",
+          "icon": "🔎"
+        },
+        {
+          "en": "<b>The place where</b> we first met <b>was</b> a small café in Lisbon.",
+          "es": "El sitio donde nos conocimos fue un pequeño café de Lisboa.",
+          "icon": "☕"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · Al revés: That's what… / This is where…",
+      "title_en": "Reversed wh-clefts",
+      "icon": "🔁",
+      "color": "teal",
+      "es": "Podemos dar la vuelta al wh-cleft y poner el foco <b>al principio</b>: <i>A good rest <b>is what</b> you need.</i> Con <b>this / that</b> es una fórmula muy natural en conversaciones y presentaciones: <b>That's what</b> I mean · <b>This is where</b> things get complicated · <b>That's why</b> we're here · <b>That's how</b> it works.",
+      "en": "Reversed wh-clefts put the focus first: <i>A good rest is what you need.</i> With <b>this / that</b> they are very common in speech.",
+      "formula": [
+        "Foco / This / That + *is* + what / where / why / how + cláusula"
+      ],
+      "examples": [
+        {
+          "en": "Transparency <b>is what</b> our clients expect.",
+          "es": "La transparencia es lo que esperan nuestros clientes.",
+          "icon": "🤝"
+        },
+        {
+          "en": "<b>This is where</b> the plan starts to fall apart.",
+          "es": "Aquí es donde el plan empieza a venirse abajo.",
+          "icon": "🧨"
+        },
+        {
+          "en": "<b>That's why</b> we decided to postpone the launch.",
+          "es": "Por eso decidimos aplazar el lanzamiento.",
+          "icon": "🗓️"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Tabla resumen",
+      "title_en": "Summary table",
+      "icon": "🧾",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Tipo · Type",
+        "Estructura",
+        "Para qué",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "It-cleft",
+          "It is / was + foco + that / who…",
+          "destacar un elemento",
+          "It was <b>Ana</b> who signed it."
+        ],
+        [
+          "It + until / only when",
+          "It wasn't until / It was only when … that…",
+          "no … hasta / solo cuando",
+          "It wasn't until 2020 that we expanded."
+        ],
+        [
+          "Contraste",
+          "It's not X that…, it's Y",
+          "corregir o contrastar",
+          "It's not the price that matters, it's the quality."
+        ],
+        [
+          "Wh-cleft",
+          "What + cláusula + be + foco",
+          "lo que … es …",
+          "What we need is time."
+        ],
+        [
+          "Acción / suceso",
+          "What … did was (to) + inf. · What happened was…",
+          "destacar una acción",
+          "What I did was call him."
+        ],
+        [
+          "All / The thing / The reason",
+          "All / The thing / The reason (why) … + be…",
+          "lo único que / la razón…",
+          "All I need is a coffee."
+        ]
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "It-cleft frente a wh-cleft",
+      "title_en": "It-cleft vs wh-cleft",
+      "icon": "⚖️",
+      "color": "blue",
+      "es": "Con <b>It</b> el foco va <b>delante</b> y suele marcar contraste (¡fue X, no Y!). Con <b>What</b> el foco va <b>al final</b> y crea expectación. Las dos traducen el «es … lo que / fue … quien» del español.",
+      "en": "<b>It</b>-clefts put the focus first (often contrastive); <b>wh</b>-clefts put it last, building suspense.",
+      "cols": [
+        {
+          "head": "🎯 It-cleft · foco delante",
+          "color": "blue",
+          "items": [
+            "It was <b>Tom</b> who broke it (not me).",
+            "It's <b>the noise</b> that I can't stand.",
+            "It was <b>in 2015</b> that we met.",
+            "It's <b>you</b> I want to talk to."
+          ]
+        },
+        {
+          "head": "💭 Wh-cleft · foco al final",
+          "color": "purple",
+          "items": [
+            "What broke it was <b>the dog</b>.",
+            "What I can't stand is <b>the noise</b>.",
+            "What I want is <b>to talk to you</b>.",
+            "What we did was <b>move to London</b>."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos en contexto",
+      "title_en": "More examples in context",
+      "items": [
+        {
+          "en": "It was the junior analyst <b>who</b> spotted the error in the accounts.",
+          "es": "Fue la analista júnior quien detectó el error en las cuentas.",
+          "icon": "🧮"
+        },
+        {
+          "en": "<b>What</b> I'd like to focus on today <b>is</b> customer retention.",
+          "es": "En lo que me gustaría centrarme hoy es en la fidelización de clientes.",
+          "icon": "🎤"
+        },
+        {
+          "en": "It's precisely this kind of short-term thinking <b>that</b> has damaged the industry.",
+          "es": "Es precisamente este tipo de mentalidad cortoplacista lo que ha dañado al sector.",
+          "icon": "🏭"
+        },
+        {
+          "en": "<b>What</b> the report fails to mention <b>is</b> the environmental cost.",
+          "es": "Lo que el informe no menciona es el coste medioambiental.",
+          "icon": "🌍"
+        },
+        {
+          "en": "<b>All</b> the committee has done so far <b>is</b> postpone the decision.",
+          "es": "Lo único que ha hecho el comité hasta ahora es aplazar la decisión.",
+          "icon": "⏳"
+        },
+        {
+          "en": "It was not until the 1990s <b>that</b> the theory gained acceptance.",
+          "es": "La teoría no fue aceptada hasta los años noventa.",
+          "icon": "📚"
+        },
+        {
+          "en": "<b>The main reason why</b> sales fell <b>was</b> the rise in interest rates.",
+          "es": "La razón principal por la que cayeron las ventas fue la subida de los tipos de interés.",
+          "icon": "💹"
+        },
+        {
+          "en": "<b>What</b> concerns me <b>is</b> not the cost but the timing.",
+          "es": "Lo que me preocupa no es el coste, sino el momento.",
+          "icon": "⏰"
+        },
+        {
+          "en": "It is the government, not local councils, <b>that</b> must take responsibility.",
+          "es": "Es el Gobierno, y no los ayuntamientos, quien debe asumir la responsabilidad.",
+          "icon": "🏛️"
+        },
+        {
+          "en": "<b>Where</b> we went wrong <b>was</b> in underestimating the competition.",
+          "es": "Donde nos equivocamos fue al subestimar a la competencia.",
+          "icon": "♟️"
+        },
+        {
+          "en": "<b>The person</b> you should speak to <b>is</b> the head of HR.",
+          "es": "La persona con la que deberías hablar es la directora de Recursos Humanos.",
+          "icon": "👩‍💼"
+        },
+        {
+          "en": "<b>That's exactly what</b> we're trying to avoid.",
+          "es": "Eso es justo lo que intentamos evitar.",
+          "icon": "🚫"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "What I need it's a holiday.",
+          "good": "What I need <b>is</b> a holiday.",
+          "why": "Calco de «lo que necesito es»: sobra it.",
+          "why_en": "No extra it before is."
+        },
+        {
+          "bad": "That I like most is his honesty.",
+          "good": "<b>What</b> I like most is his honesty.",
+          "why": "«Lo que» al inicio = what, nunca that.",
+          "why_en": "«Lo que» = what."
+        },
+        {
+          "bad": "All what we want is a fair deal.",
+          "good": "<b>All (that)</b> we want is a fair deal.",
+          "why": "«Todo lo que / lo único que» = all (that).",
+          "why_en": "All (that), never all what."
+        },
+        {
+          "bad": "What I did was I called the police.",
+          "good": "What I did was <b>(to) call</b> the police.",
+          "why": "Tras what … do + be → infinitivo.",
+          "why_en": "Use the infinitive after be."
+        },
+        {
+          "bad": "Is the noise what bothers me.",
+          "good": "<b>It's</b> the noise <b>that</b> bothers me.",
+          "why": "Calco de «Es el ruido lo que…»: hace falta it… that.",
+          "why_en": "It + be + focus + that."
+        },
+        {
+          "bad": "It were the interns who noticed it.",
+          "good": "It <b>was</b> the interns who noticed it.",
+          "why": "It is / was siempre en singular.",
+          "why_en": "It is / was is always singular."
+        },
+        {
+          "bad": "The reason because I resigned was the pay.",
+          "good": "The reason <b>(why)</b> I resigned was the pay.",
+          "why": "«La razón por la que» = the reason why / that.",
+          "why_en": "The reason why, not because."
+        },
+        {
+          "bad": "It is for this reason why we oppose the plan.",
+          "good": "It is for this reason <b>that</b> we oppose the plan.",
+          "why": "En el it-cleft, el nexo es that.",
+          "why_en": "It-clefts take that."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo una cleft sentence?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Escribe la frase neutra y decide <b>qué quieres destacar</b>: <i>The delay annoyed the clients.</i>",
+          "en": "Write the neutral sentence and choose the focus."
+        },
+        {
+          "es": "¿Foco <b>delante</b>, con contraste (fue X, no Y)? → <b>It was</b> the delay <b>that</b> annoyed the clients.",
+          "en": "Focus first, contrastive → It was … that."
+        },
+        {
+          "es": "¿Foco <b>al final</b>, creando expectación? → <b>What</b> annoyed the clients <b>was</b> the delay.",
+          "en": "Focus last, suspense → What … was."
+        },
+        {
+          "es": "¿Destacas una <b>acción</b>? Usa <b>do</b>: <i>What we did was (to) apologise.</i>",
+          "en": "Action → What … did was (to) + infinitive."
+        },
+        {
+          "es": "Revisa: <b>what</b> (no <s>that</s>) para «lo que», <b>that / who</b> tras el foco, un solo <b>be</b> y sin <s>it</s> extra.",
+          "en": "Check: what, that / who, one be, no extra it."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Reunión de equipo",
+      "title_en": "Team meeting",
+      "lines": [
+        {
+          "who": "Director",
+          "en": "So, what went wrong with the launch?",
+          "es": "Bueno, ¿qué falló en el lanzamiento?"
+        },
+        {
+          "who": "Marta",
+          "en": "Well, it wasn't the product that failed. It was the timing.",
+          "es": "Bueno, no fue el producto lo que falló. Fue el momento."
+        },
+        {
+          "who": "Director",
+          "en": "What do you mean exactly?",
+          "es": "¿Qué quieres decir exactamente?"
+        },
+        {
+          "who": "Marta",
+          "en": "What happened was that our main competitor launched a similar app a week earlier.",
+          "es": "Lo que pasó fue que nuestro principal competidor lanzó una app parecida una semana antes."
+        },
+        {
+          "who": "Director",
+          "en": "And why didn't we react?",
+          "es": "¿Y por qué no reaccionamos?"
+        },
+        {
+          "who": "Marta",
+          "en": "The reason why we didn't react was that nobody had analysed the market.",
+          "es": "La razón por la que no reaccionamos fue que nadie había analizado el mercado."
+        },
+        {
+          "who": "Director",
+          "en": "So what do you suggest?",
+          "es": "Entonces, ¿qué propones?"
+        },
+        {
+          "who": "Marta",
+          "en": "What we need is a proper research team. All I'm asking for is two analysts.",
+          "es": "Lo que necesitamos es un equipo de investigación de verdad. Lo único que pido son dos analistas."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del «lo que»",
+      "title_en": "The «lo que» trick",
+      "es": "Si en español empiezas con <b>«Lo que…»</b>, en inglés empieza con <b>What…</b> (nunca <s>That</s>). Si dices <b>«Es / Fue X quien / lo que / donde…»</b>, piensa en <b>It is / was X that / who…</b>. Para <b>«lo único que»</b>, <b>All</b>. En una presentación, abrir con <i>What I'd like to do today is…</i> suena seguro y profesional.",
+      "en": "«Lo que…» → <b>What…</b> · «Es / Fue X quien…» → <b>It is / was X that / who…</b> · «Lo único que…» → <b>All…</b>"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify",
+      "title": "¿Qué estructura necesito?",
+      "title_en": "Which structure?",
+      "icon": "🗂️",
+      "es": "¿Cómo empezarías cada frase en inglés? Escribe cada expresión española en su caja.",
+      "en": "How would you start each sentence in English? Sort the Spanish phrases.",
+      "cats": [
+        {
+          "name": "It is / was … that / who",
+          "words": [
+            "Fue Ana quien…",
+            "Fue en 2010 cuando…",
+            "No fue hasta mayo que…",
+            "Fue el ruido lo que…"
+          ]
+        },
+        {
+          "name": "What … is / was",
+          "words": [
+            "Lo que quiero es…",
+            "Lo que hice fue…",
+            "Lo que pasó fue que…",
+            "Lo que me preocupa es…"
+          ]
+        },
+        {
+          "name": "All … is / was",
+          "words": [
+            "Lo único que pido es…",
+            "Lo único que falta es…",
+            "Lo único que hizo fue…",
+            "Lo único que necesito es…"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct option",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "[What|That] I need is a good night's sleep.",
+          "a": "What"
+        },
+        {
+          "q": "It was the manager [who|which] made the final decision.",
+          "a": "who"
+        },
+        {
+          "q": "[It|What] was the price that put me off.",
+          "a": "It"
+        },
+        {
+          "q": "What I need [is|it's] more time.",
+          "a": "is"
+        },
+        {
+          "q": "All [what|that] I want is a quiet weekend.",
+          "a": "that"
+        },
+        {
+          "q": "What she did was [resign|resigned] on the spot.",
+          "a": "resign"
+        },
+        {
+          "q": "It wasn't until midnight [that|when] the results came in.",
+          "a": "that"
+        },
+        {
+          "q": "The reason [because|why] I left was the commute.",
+          "a": "why"
+        },
+        {
+          "q": "It [was|were] the students who organised the protest.",
+          "a": "was"
+        },
+        {
+          "q": "[This|It] is where the story gets interesting.",
+          "a": "This"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une las dos mitades",
+      "title_en": "Match the halves",
+      "icon": "🔗",
+      "es": "Une el principio de cada frase con su final.",
+      "en": "Match the beginnings with the endings.",
+      "pairs": [
+        [
+          "It was my sister",
+          "who taught me to drive."
+        ],
+        [
+          "What I find most irritating",
+          "is the constant noise."
+        ],
+        [
+          "All we need now",
+          "is the client's signature."
+        ],
+        [
+          "It wasn't until I moved to London",
+          "that I realised how expensive life could be."
+        ],
+        [
+          "The reason why I'm calling",
+          "is to confirm tomorrow's meeting."
+        ],
+        [
+          "What happened was that",
+          "the train broke down outside Oxford."
+        ],
+        [
+          "It's not the salary that matters,",
+          "it's the working atmosphere."
+        ],
+        [
+          "What she did was",
+          "hand in her notice the next morning."
+        ]
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Correcta o incorrecta?",
+      "title_en": "Correct or incorrect?",
+      "icon": "⚖️",
+      "es": "Marca T si la frase es correcta y F si es incorrecta. Si es incorrecta, corrígela en tu cuaderno.",
+      "en": "Tick T if the sentence is correct and F if it is wrong.",
+      "items": [
+        {
+          "q": "What I need is a holiday.",
+          "a": true
+        },
+        {
+          "q": "What I need it's a holiday.",
+          "a": false,
+          "why": "What I need is a holiday."
+        },
+        {
+          "q": "It was my parents who paid for the wedding.",
+          "a": true,
+          "why": "it was (singular) aunque el foco sea plural."
+        },
+        {
+          "q": "It were the managers who decided.",
+          "a": false,
+          "why": "It was the managers who decided."
+        },
+        {
+          "q": "All what I want is some peace.",
+          "a": false,
+          "why": "All (that) I want is some peace."
+        },
+        {
+          "q": "What we did was to cancel the trip.",
+          "a": true,
+          "why": "to es opcional."
+        },
+        {
+          "q": "It wasn't until Friday that we heard the news.",
+          "a": true
+        },
+        {
+          "q": "That I like most is the food.",
+          "a": false,
+          "why": "What I like most is the food."
+        },
+        {
+          "q": "The reason why I left was the long hours.",
+          "a": true
+        },
+        {
+          "q": "Is the price what worries me.",
+          "a": false,
+          "why": "It's the price that worries me."
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "La palabra que falta",
+      "title_en": "The missing word",
+      "icon": "🧩",
+      "es": "Completa con una palabra del recuadro. Algunas palabras se repiten o no se usan.",
+      "en": "Complete with one word from the box.",
+      "bank": [
+        "it",
+        "what",
+        "that",
+        "all",
+        "why",
+        "did",
+        "where",
+        "was",
+        "is"
+      ],
+      "items": [
+        {
+          "q": "___ was my grandfather who taught me to play chess.",
+          "a": "It"
+        },
+        {
+          "q": "___ I admire most about her is her honesty.",
+          "a": "What"
+        },
+        {
+          "q": "It was the IT department ___ discovered the breach.",
+          "a": [
+            "that",
+            "who"
+          ]
+        },
+        {
+          "q": "___ we need now is a bit of luck.",
+          "a": [
+            "All",
+            "What"
+          ]
+        },
+        {
+          "q": "The reason ___ I'm writing is to complain about the service.",
+          "a": [
+            "why",
+            "that"
+          ]
+        },
+        {
+          "q": "What the team ___ was work through the night.",
+          "a": "did"
+        },
+        {
+          "q": "The place ___ I feel most relaxed is my grandmother's village.",
+          "a": "where"
+        },
+        {
+          "q": "It wasn't until she spoke ___ I recognised her voice.",
+          "a": "that"
+        },
+        {
+          "q": "What surprised everyone ___ the speed of the recovery.",
+          "a": "was"
+        },
+        {
+          "q": "It ___ the details that make the difference.",
+          "a": "is"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "El verbo correcto",
+      "title_en": "The correct verb form",
+      "icon": "🔧",
+      "es": "Escribe la forma correcta del verbo entre paréntesis.",
+      "en": "Write the correct form of the verb in brackets.",
+      "items": [
+        {
+          "q": "What she did was ____ for a transfer.",
+          "hint": "apply",
+          "a": [
+            "apply",
+            "to apply"
+          ]
+        },
+        {
+          "q": "What I'm doing is ____ to help you.",
+          "hint": "try",
+          "a": "trying"
+        },
+        {
+          "q": "What we've done is ____ our prices.",
+          "hint": "reduce",
+          "a": [
+            "reduce",
+            "to reduce"
+          ]
+        },
+        {
+          "q": "What happened ____ that nobody turned up.",
+          "hint": "be",
+          "a": "was"
+        },
+        {
+          "q": "It ____ my colleagues who suggested the idea.",
+          "hint": "be",
+          "a": "was"
+        },
+        {
+          "q": "What I need ____ a few days off.",
+          "hint": "be",
+          "a": "is"
+        },
+        {
+          "q": "All I did ____ ask a simple question.",
+          "hint": "be",
+          "a": "was"
+        },
+        {
+          "q": "What they're going to do is ____ a new branch.",
+          "hint": "open",
+          "a": [
+            "open",
+            "to open"
+          ]
+        },
+        {
+          "q": "It ____ until last week that I found out.",
+          "hint": "not / be",
+          "a": [
+            "wasn't",
+            "was not"
+          ]
+        },
+        {
+          "q": "The reason why prices rose ____ that demand increased.",
+          "hint": "be",
+          "a": "was"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Una frase, dos clefts",
+      "title_en": "One sentence, two clefts",
+      "icon": "📋",
+      "wide": true,
+      "es": "Transforma cada frase neutra en una it-cleft y en una wh-cleft. Destaca la parte <b>en negrita</b>.",
+      "en": "Turn each sentence into an it-cleft and a wh-cleft. Focus on the part in bold.",
+      "head": [
+        "Frase neutra · Neutral",
+        "It-cleft",
+        "Wh-cleft"
+      ],
+      "rows": [
+        [
+          "<b>The rain</b> ruined the match.",
+          "?It was the rain that ruined the match.",
+          "?What ruined the match was the rain."
+        ],
+        [
+          "I need <b>a holiday</b>.",
+          "?It's a holiday (that) I need.",
+          "?What I need is a holiday."
+        ],
+        [
+          "<b>Her attitude</b> annoys me.",
+          "?It's her attitude that annoys me.",
+          "?What annoys me is her attitude."
+        ],
+        [
+          "We lack <b>experience</b>.",
+          "?It's experience (that) we lack.",
+          "?What we lack is experience."
+        ],
+        [
+          "<b>The noise</b> kept me awake.",
+          "?It was the noise that kept me awake.",
+          "?What kept me awake was the noise."
+        ],
+        [
+          "They want <b>a pay rise</b>.",
+          "?It's a pay rise (that) they want.",
+          "?What they want is a pay rise."
+        ]
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras para formar una cleft sentence. Añade mayúscula y punto.",
+      "en": "Put the words in order to make a cleft sentence.",
+      "items": [
+        {
+          "q": "was / who / it / Laura / the mistake / noticed",
+          "a": "It was Laura who noticed the mistake."
+        },
+        {
+          "q": "need / is / what / we / more time",
+          "a": "What we need is more time."
+        },
+        {
+          "q": "all / want / I / is / a quiet life",
+          "a": "All I want is a quiet life."
+        },
+        {
+          "q": "until / it / wasn't / that / I / arrived / I / noticed / the damage",
+          "a": "It wasn't until I arrived that I noticed the damage."
+        },
+        {
+          "q": "happened / what / was / that / the system / crashed",
+          "a": "What happened was that the system crashed."
+        },
+        {
+          "q": "the reason / I / why / am / calling / is / to complain",
+          "a": "The reason why I am calling is to complain."
+        },
+        {
+          "q": "did / what / was / she / resign / immediately",
+          "a": "What she did was resign immediately."
+        },
+        {
+          "q": "it's / not / the price / that / worries / me",
+          "a": "It's not the price that worries me."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Reescribe con énfasis",
+      "title_en": "Rewrite with emphasis",
+      "icon": "🔄",
+      "es": "Reescribe cada frase como cleft sentence empezando por las palabras entre paréntesis.",
+      "en": "Rewrite each sentence as a cleft sentence. Start with the words in brackets.",
+      "items": [
+        {
+          "q": "The manager approved the budget.",
+          "hint": "It was…",
+          "a": "It was the manager who (that) approved the budget."
+        },
+        {
+          "q": "I lost my keys at the airport.",
+          "hint": "It was at…",
+          "a": "It was at the airport that I lost my keys."
+        },
+        {
+          "q": "We only understood the problem when the client complained.",
+          "hint": "It was only when…",
+          "a": "It was only when the client complained that we understood the problem."
+        },
+        {
+          "q": "The company didn't make a profit until 2021.",
+          "hint": "It wasn't until…",
+          "a": "It wasn't until 2021 that the company made a profit."
+        },
+        {
+          "q": "His arrogance irritates me.",
+          "hint": "What…",
+          "a": "What irritates me is his arrogance."
+        },
+        {
+          "q": "We need a more flexible approach.",
+          "hint": "What…",
+          "a": "What we need is a more flexible approach."
+        },
+        {
+          "q": "She sold her shares.",
+          "hint": "What she did…",
+          "a": "What she did was (to) sell her shares."
+        },
+        {
+          "q": "I only want a straight answer.",
+          "hint": "All…",
+          "a": "All I want is a straight answer."
+        },
+        {
+          "q": "I'm calling to cancel my order.",
+          "hint": "The reason…",
+          "a": "The reason (why) I'm calling is to cancel my order."
+        },
+        {
+          "q": "The server crashed during the demo.",
+          "hint": "What happened…",
+          "a": "What happened was (that) the server crashed during the demo."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Corrige con contraste",
+      "title_en": "Correct with contrast",
+      "icon": "🙅",
+      "es": "Alguien se equivoca. Corrígele con una cleft de contraste: No, it wasn't / isn't X who / that…; it was / is Y.",
+      "en": "Correct the information with a contrastive cleft.",
+      "items": [
+        {
+          "q": "Sara sent the email.",
+          "hint": "Marta",
+          "a": "No, it wasn't Sara who sent the email; it was Marta."
+        },
+        {
+          "q": "The price worries the clients.",
+          "hint": "the quality",
+          "a": "No, it isn't the price that worries the clients; it's the quality."
+        },
+        {
+          "q": "We're meeting the client on Thursday.",
+          "hint": "Friday",
+          "a": "No, it isn't on Thursday that we're meeting the client; it's on Friday."
+        },
+        {
+          "q": "You need more money.",
+          "hint": "more time",
+          "a": "No, it isn't more money (that) I need; it's more time."
+        },
+        {
+          "q": "The Spanish team won the final.",
+          "hint": "the Italian team",
+          "a": "No, it wasn't the Spanish team that won the final; it was the Italian team."
+        },
+        {
+          "q": "They built the bridge in 1990.",
+          "hint": "1985",
+          "a": "No, it wasn't in 1990 that they built the bridge; it was in 1985."
+        },
+        {
+          "q": "Your brother called.",
+          "hint": "my cousin",
+          "a": "No, it wasn't my brother who called; it was my cousin."
+        },
+        {
+          "q": "The noise annoys you.",
+          "hint": "the smell",
+          "a": "No, it isn't the noise that annoys me; it's the smell."
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Correct it.",
+      "items": [
+        {
+          "q": "What I need it's a long rest.",
+          "a": "What I need is a long rest."
+        },
+        {
+          "q": "It were the neighbours who called the police.",
+          "a": "It was the neighbours who called the police."
+        },
+        {
+          "q": "All what she said was \"no comment\".",
+          "a": "All (that) she said was \"no comment\"."
+        },
+        {
+          "q": "What he did was he resigned.",
+          "a": "What he did was (to) resign."
+        },
+        {
+          "q": "The reason because I'm late is the traffic.",
+          "a": "The reason (why) I'm late is the traffic."
+        },
+        {
+          "q": "That surprised me was her reaction.",
+          "a": "What surprised me was her reaction."
+        },
+        {
+          "q": "It wasn't until 2015 when I started my own business.",
+          "a": "It wasn't until 2015 that I started my own business."
+        },
+        {
+          "q": "It's for this reason why we cannot accept your offer.",
+          "a": "It's for this reason that we cannot accept your offer."
+        },
+        {
+          "q": "Is the attitude what matters.",
+          "a": "It's the attitude that matters."
+        },
+        {
+          "q": "The thing what worries me is the deadline.",
+          "a": "The thing that worries me is the deadline."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones C1 Advanced",
+      "title_en": "Key word transformations",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave sin cambiarla y entre 3 y 6 palabras en total. (En el solucionario aparecen las palabras que faltan.)",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word and 3-6 words.",
+      "items": [
+        {
+          "q": "I only realised how late it was when I looked at the clock. 🔑 <b>UNTIL</b><br>It _____ at the clock that I realised how late it was.",
+          "a": "wasn't until I looked"
+        },
+        {
+          "q": "Her lack of experience worries me. 🔑 <b>WHAT</b><br>_____ her lack of experience.",
+          "a": "What worries me is"
+        },
+        {
+          "q": "The only thing she did was complain. 🔑 <b>ALL</b><br>_____ complain.",
+          "a": "All she did was"
+        },
+        {
+          "q": "Sam broke the printer, not Jo. 🔑 <b>WHO</b><br>It _____ the printer, not Jo.",
+          "a": "was Sam who broke"
+        },
+        {
+          "q": "I'm writing to apply for the post of marketing manager. 🔑 <b>REASON</b><br>The _____ is to apply for the post of marketing manager.",
+          "a": "reason (why) I am writing"
+        },
+        {
+          "q": "The match was cancelled because of the storm. 🔑 <b>IT</b><br>_____ caused the match to be cancelled.",
+          "a": "It was the storm that"
+        },
+        {
+          "q": "The company decided to relocate to Dublin. 🔑 <b>DID</b><br>What _____ to Dublin.",
+          "a": "the company did was (to) relocate"
+        },
+        {
+          "q": "We need to focus on customer service. 🔑 <b>NEED</b><br>What _____ on is customer service.",
+          "a": "we need to focus"
+        },
+        {
+          "q": "I didn't understand the plot until the very last scene. 🔑 <b>WAS</b><br>It _____ the very last scene that I understood the plot.",
+          "a": "was not until"
+        },
+        {
+          "q": "I can't forgive his dishonesty. 🔑 <b>THING</b><br>The _____ forgive is his dishonesty.",
+          "a": "thing (that) I can't"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce usando una cleft sentence. ¿«Fue X quien…» o «Lo que… es…»?",
+      "en": "Translate into English using a cleft sentence.",
+      "items": [
+        {
+          "q": "Fue mi madre quien me enseñó a cocinar.",
+          "a": "It was my mother who taught me to cook."
+        },
+        {
+          "q": "Lo que necesitamos es un plan B.",
+          "a": "What we need is a plan B."
+        },
+        {
+          "q": "Lo único que quiero es dormir.",
+          "a": [
+            "All I want is to sleep.",
+            "All I want to do is sleep."
+          ]
+        },
+        {
+          "q": "No fue hasta el viernes cuando nos dieron los resultados.",
+          "a": "It wasn't until Friday that they gave us the results."
+        },
+        {
+          "q": "Lo que hizo fue colgar el teléfono.",
+          "hint": "él",
+          "a": "What he did was (to) hang up (the phone)."
+        },
+        {
+          "q": "La razón por la que te llamo es para invitarte a la boda.",
+          "a": "The reason (why) I'm calling is to invite you to the wedding."
+        },
+        {
+          "q": "Lo que me molesta es su falta de puntualidad.",
+          "hint": "de ella",
+          "a": "What annoys (bothers) me is her lack of punctuality."
+        },
+        {
+          "q": "Fue en Roma donde se conocieron.",
+          "a": "It was in Rome that they met."
+        },
+        {
+          "q": "Lo que pasó fue que perdimos el último tren.",
+          "hint": "¡ojo con «perder»!",
+          "a": "What happened was (that) we missed the last train."
+        },
+        {
+          "q": "No es el dinero lo que importa, sino la experiencia.",
+          "a": "It isn't the money that matters; it's the experience."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto (parte de una charla de una emprendedora). Marca T o F y contesta las preguntas.",
+      "en": "Read the talk. Tick T or F and answer the questions.",
+      "text_title": "Why our start-up nearly failed",
+      "text": [
+        "When people ask me what nearly destroyed our start-up, they expect me to say money. But it wasn't money that almost finished us. It was silence. What I mean is that, for almost a year, nobody in the team dared to tell me the truth.",
+        "It was only when our biggest client left that I started asking questions. What I discovered was shocking: our developers had been warning about serious bugs for months, but their emails never reached me. The reason why they never reached me was simple: my managers were afraid of my reaction.",
+        "What we did next changed everything. We introduced a weekly meeting where anyone can say anything. All I ask is that people are honest and respectful. It's this culture of openness, not our product, that our clients value most today."
+      ],
+      "items": [
+        {
+          "q": "Money was the main problem for the start-up.",
+          "tf": true,
+          "a": false,
+          "why": "It wasn't money that almost finished us. It was silence."
+        },
+        {
+          "q": "The author started asking questions after losing a major client.",
+          "tf": true,
+          "a": true,
+          "why": "It was only when our biggest client left that…"
+        },
+        {
+          "q": "The developers had never reported any problems.",
+          "tf": true,
+          "a": false,
+          "why": "They had been warning about serious bugs for months."
+        },
+        {
+          "q": "Why did the developers' emails never reach the author?",
+          "a": "Because the managers were afraid of her reaction."
+        },
+        {
+          "q": "What did the company introduce?",
+          "a": "A weekly meeting where anyone can say anything."
+        },
+        {
+          "q": "Copy the sentence that begins with All.",
+          "a": "All I ask is that people are honest and respectful."
+        },
+        {
+          "q": "Rewrite without a cleft: \"It's this culture of openness that our clients value most today.\"",
+          "a": "Our clients value this culture of openness most today."
+        },
+        {
+          "q": "Rewrite as a wh-cleft: \"Silence almost finished us.\"",
+          "a": "What almost finished us was silence."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe frases propias con cleft sentences, pensando en situaciones reales de trabajo o estudio.",
+      "en": "Write your own cleft sentences for real work or study situations.",
+      "items": [
+        {
+          "q": "Empieza una presentación con <b>What I'd like to talk about today is…</b>",
+          "lines": 2,
+          "a": "Ej.: What I'd like to talk about today is how we can reduce our carbon footprint."
+        },
+        {
+          "q": "Corrige un malentendido con <b>It wasn't … who / that …; it was …</b>",
+          "lines": 2,
+          "a": "Ej.: It wasn't me who cancelled the meeting; it was the client."
+        },
+        {
+          "q": "Explica el motivo de un email formal con <b>The reason why I am writing is…</b>",
+          "lines": 2,
+          "a": "Ej.: The reason why I am writing is to request a refund for my order."
+        },
+        {
+          "q": "Cuenta un problema con <b>What happened was that…</b>",
+          "lines": 2,
+          "a": "Ej.: What happened was that my flight was cancelled and I missed the conference."
+        },
+        {
+          "q": "Expresa un deseo con <b>All I…</b> y una opinión con <b>What really matters is…</b>",
+          "lines": 3,
+          "a": "Ej.: All I want is a bit more flexibility. What really matters is that we work well together."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Construyo <b>It is / was … that / who</b> para destacar quién, qué, cuándo o dónde.",
+      "en": "I can build it-clefts."
+    },
+    {
+      "es": "Uso <b>What … is / was</b> para «lo que … es».",
+      "en": "I can build wh-clefts."
+    },
+    {
+      "es": "Destaco acciones con <b>What I did was (to) + infinitivo</b> y sucesos con <b>What happened was…</b>",
+      "en": "I can focus on actions and events."
+    },
+    {
+      "es": "Uso <b>All</b>, <b>The thing</b>, <b>The reason why</b> y <b>The place where</b>.",
+      "en": "I can use all, the thing, the reason why…"
+    },
+    {
+      "es": "Uso <b>It wasn't until … that</b> y <b>It's not X that…, it's Y</b>.",
+      "en": "I can use not until and contrastive clefts."
+    },
+    {
+      "es": "Evito <s>What I need it's</s>, <s>all what</s> y <s>the reason because</s>.",
+      "en": "I avoid typical Spanish-speaker mistakes."
+    }
+  ]
+}

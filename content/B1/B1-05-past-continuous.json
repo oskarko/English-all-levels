@@ -1,0 +1,1368 @@
+{
+  "id": "B1-05",
+  "level": "B1",
+  "title": "PAST CONTINUOUS",
+  "file_title": "Past continuous",
+  "subtitle": "Past continuous · estaba haciendo",
+  "icon": "🎬",
+  "map": {
+    "center": "Usamos <b>was / were + -ing</b> para una acción <b>en progreso</b> en un momento del pasado: «<i>estaba haciendo</i>».",
+    "nodes": [
+      {
+        "title": "¿Cómo se forma?",
+        "icon": "🧩",
+        "rows": [
+          [
+            "I / he / she / it",
+            "was + -ing"
+          ],
+          [
+            "you / we / they",
+            "were + -ing"
+          ]
+        ],
+        "after": "I <b>was reading</b>. <i>(Estaba leyendo.)</i>"
+      },
+      {
+        "title": "Negativa y preguntas",
+        "icon": "❓",
+        "items": [
+          "She <b>wasn't</b> listening.",
+          "<b>Were</b> you <b>sleeping</b>?",
+          "Yes, I <b>was</b>. / No, they <b>weren't</b>."
+        ]
+      },
+      {
+        "title": "En un momento concreto",
+        "icon": "🕗",
+        "items": [
+          "At 8 p.m. I <b>was having</b> dinner.",
+          "<i>(A las 8 estaba cenando.)</i>",
+          "What <b>were</b> you <b>doing</b> at 10?"
+        ]
+      },
+      {
+        "title": "Acción interrumpida",
+        "icon": "⚡",
+        "art": "📱",
+        "items": [
+          "Larga (continuous) + corta (simple):",
+          "I <b>was cooking</b> <b>when</b> the phone <b>rang</b>."
+        ]
+      },
+      {
+        "title": "WHEN o WHILE",
+        "icon": "🔗",
+        "rows": [
+          [
+            "when",
+            "+ acción corta (past simple)"
+          ],
+          [
+            "while",
+            "+ acción larga (continuous)"
+          ]
+        ]
+      },
+      {
+        "title": "Para contar historias",
+        "icon": "📖",
+        "art": "🌧️",
+        "items": [
+          "Describe el <b>fondo</b> de la escena:",
+          "It <b>was raining</b> and people <b>were running</b>…",
+          "Estado sin -ing: <s>was knowing</s> → knew"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "I was cook dinner when you called."
+      ],
+      "good": [
+        "I was cooking dinner when you called."
+      ],
+      "note": "was / were + verbo<b>-ing</b>"
+    },
+    "mini": {
+      "es": "Completa con el past continuous o el past simple.",
+      "en": "Complete with the past continuous or past simple.",
+      "items": [
+        {
+          "q": "I ____ (sleep) when you called.",
+          "a": "was sleeping"
+        },
+        {
+          "q": "They ____ (play) football at 6.",
+          "a": "were playing"
+        },
+        {
+          "q": "___ you working at 9 yesterday?",
+          "a": "Were"
+        },
+        {
+          "q": "She ____ (not / listen) to me.",
+          "a": "wasn't listening"
+        },
+        {
+          "q": "Mum ____ (call) while I was driving.",
+          "a": "called"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "El <b>past continuous</b> describe una acción que estaba <mark>en progreso</mark> en un momento del pasado: había empezado antes y todavía no había terminado. En español equivale a «<i>estaba + gerundio</i>» (<i>estaba cocinando</i>) y muchas veces al imperfecto descriptivo (<i>llovía, cocinaba</i>). Es perfecto para describir la <b>escena de fondo</b> de una historia y para acciones <b>interrumpidas</b> por otra.",
+      "en": "The <b>past continuous</b> describes an action <b>in progress</b> at a moment in the past. We use it for background scenes and interrupted actions.",
+      "formula": [
+        "Sujeto + *was / were* + *verbo-ing*"
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Afirmativa",
+      "title_en": "Affirmative",
+      "icon": "✅",
+      "color": "green",
+      "es": "Se forma con el pasado de <b>to be</b> (<b>was / were</b>) + el verbo con <b>-ing</b>. <b>was</b> con I, he, she, it; <b>were</b> con you, we, they. Ojo: los verbos de <b>estado</b> (know, want, like, need, believe) no suelen ir en continuo: <s>I was knowing</s> → I <b>knew</b>.",
+      "en": "<b>was</b> (I / he / she / it) or <b>were</b> (you / we / they) + verb-<b>ing</b>. State verbs (know, want, like) don't usually take -ing.",
+      "formula": [
+        "I / he / she / it + *was* + verbo-ing",
+        "you / we / they + *were* + verbo-ing"
+      ],
+      "examples": [
+        {
+          "en": "I <b>was reading</b> a novel on the train.",
+          "es": "Estaba leyendo una novela en el tren.",
+          "icon": "📖"
+        },
+        {
+          "en": "My friends <b>were playing</b> padel.",
+          "es": "Mis amigos estaban jugando al pádel.",
+          "icon": "🎾"
+        },
+        {
+          "en": "The baby <b>was crying</b> all night.",
+          "es": "El bebé estuvo llorando toda la noche.",
+          "icon": "👶"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Negativa",
+      "title_en": "Negative",
+      "icon": "⛔",
+      "color": "red",
+      "es": "Añadimos <b>not</b> a was / were: <b>wasn't / weren't + -ing</b>. No usamos <s>didn't</s>: el auxiliar ya es was / were.",
+      "en": "<b>wasn't / weren't + -ing</b>. Never didn't.",
+      "formula": [
+        "I / he / she / it + *wasn't* + verbo-ing",
+        "you / we / they + *weren't* + verbo-ing"
+      ],
+      "examples": [
+        {
+          "en": "I <b>wasn't listening</b>, sorry. Can you repeat that?",
+          "es": "No estaba escuchando, perdona. ¿Puedes repetirlo?",
+          "icon": "👂"
+        },
+        {
+          "en": "They <b>weren't working</b> when the boss arrived.",
+          "es": "No estaban trabajando cuando llegó el jefe.",
+          "icon": "💼"
+        },
+        {
+          "en": "It <b>wasn't raining</b>, so we walked.",
+          "es": "No estaba lloviendo, así que fuimos andando.",
+          "icon": "☂️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Preguntas y respuestas cortas",
+      "title_en": "Questions and short answers",
+      "icon": "❓",
+      "color": "blue",
+      "es": "<b>Was / Were</b> va <mark>delante del sujeto</mark>. Con palabras interrogativas: <b>What were you doing…?</b> En la respuesta corta usamos solo el auxiliar: <i>Yes, I was. / No, they weren't.</i>",
+      "en": "<b>Was / Were + subject + -ing?</b> Short answers: Yes, I was. / No, they weren't.",
+      "formula": [
+        "*Was / Were* + sujeto + verbo-ing + …?",
+        "Wh- + *was / were* + sujeto + verbo-ing?"
+      ],
+      "examples": [
+        {
+          "en": "<b>Were</b> you <b>sleeping</b> when I called? — Yes, I <b>was</b>.",
+          "es": "¿Estabas durmiendo cuando te llamé? — Sí.",
+          "icon": "😴"
+        },
+        {
+          "en": "<b>What were</b> you <b>doing</b> at 10 p.m.? — I <b>was studying</b>.",
+          "es": "¿Qué estabas haciendo a las 10 de la noche? — Estaba estudiando.",
+          "icon": "🕙"
+        },
+        {
+          "en": "<b>Was</b> it <b>snowing</b> in Madrid? — No, it <b>wasn't</b>.",
+          "es": "¿Estaba nevando en Madrid? — No.",
+          "icon": "❄️"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Todo junto",
+      "title_en": "All together",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Sujeto · Subject",
+        "✅ Afirmativa",
+        "⛔ Negativa",
+        "❓ Pregunta",
+        "💬 Respuesta corta"
+      ],
+      "rows": [
+        [
+          "I",
+          "I <b>was</b> working.",
+          "I <b>wasn't</b> working.",
+          "<b>Was</b> I working?",
+          "Yes, I was. / No, I wasn't."
+        ],
+        [
+          "you",
+          "You <b>were</b> working.",
+          "You <b>weren't</b> working.",
+          "<b>Were</b> you working?",
+          "Yes, I was. / No, I wasn't."
+        ],
+        [
+          "he / she / it",
+          "She <b>was</b> working.",
+          "She <b>wasn't</b> working.",
+          "<b>Was</b> she working?",
+          "Yes, she was. / No, she wasn't."
+        ],
+        [
+          "we",
+          "We <b>were</b> working.",
+          "We <b>weren't</b> working.",
+          "<b>Were</b> we working?",
+          "Yes, we were. / No, we weren't."
+        ],
+        [
+          "they",
+          "They <b>were</b> working.",
+          "They <b>weren't</b> working.",
+          "<b>Were</b> they working?",
+          "Yes, they were. / No, they weren't."
+        ]
+      ],
+      "note": "<b>you</b> siempre va con <b>were</b>, aunque hables con una sola persona: <s>you was</s> → you were.",
+      "note_en": "<b>you</b> always takes <b>were</b>."
+    },
+    {
+      "t": "table",
+      "title": "Ortografía de la -ing",
+      "title_en": "-ing spelling",
+      "icon": "✏️",
+      "color": "purple",
+      "head": [
+        "Regla · Rule",
+        "Ejemplos · Examples"
+      ],
+      "rows": [
+        [
+          "La mayoría: + <b>-ing</b>",
+          "play → playing · read → reading"
+        ],
+        [
+          "Acaba en <b>-e</b> muda: quita la e",
+          "make → making · ride → riding"
+        ],
+        [
+          "Consonante-vocal-consonante (sílaba fuerte): <b>dobla</b>",
+          "run → running · stop → stopping"
+        ],
+        [
+          "Acaba en <b>-ie</b>: cambia a <b>-y</b>",
+          "lie → lying · die → dying"
+        ],
+        [
+          "Acaba en <b>-l</b> (inglés británico): dobla",
+          "travel → travelling · cancel → cancelling"
+        ]
+      ],
+      "note": "No se dobla si la última sílaba no es la fuerte: <i>visit → visiting, listen → listening</i>.",
+      "note_en": "No doubling if the last syllable isn't stressed: visiting, listening."
+    },
+    {
+      "t": "rule",
+      "title": "4 · En un momento concreto y en historias",
+      "title_en": "At a specific time and in stories",
+      "icon": "🕗",
+      "color": "teal",
+      "es": "Usamos el past continuous para una acción que estaba <b>en progreso</b> en un momento concreto del pasado: <i>at 8 o'clock, this time yesterday, at midnight</i>. En las historias describe el <mark>fondo de la escena</mark> (qué estaba pasando), mientras el past simple cuenta los <b>hechos</b>.",
+      "en": "An action in progress at a specific past time. In stories it describes the background.",
+      "formula": [
+        "At 8 p.m. / This time yesterday + sujeto + *was / were* + verbo-ing"
+      ],
+      "examples": [
+        {
+          "en": "At 8 o'clock last night I <b>was studying</b> for my exam.",
+          "es": "Anoche a las 8 estaba estudiando para el examen.",
+          "icon": "📚"
+        },
+        {
+          "en": "This time yesterday we <b>were flying</b> to Rome.",
+          "es": "Ayer a esta hora estábamos volando a Roma.",
+          "icon": "✈️"
+        },
+        {
+          "en": "It <b>was raining</b> and everyone <b>was running</b> for the bus.",
+          "es": "Llovía y todo el mundo corría hacia el autobús.",
+          "icon": "🌧️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Acción interrumpida: WHEN",
+      "title_en": "Interrupted action: when",
+      "icon": "⚡",
+      "color": "orange",
+      "es": "Una acción <b>larga</b> (past continuous) se ve interrumpida por una acción <b>corta</b> (past simple). La acción corta suele ir con <b>when</b>. Si la frase empieza con <i>When…</i>, pon una <b>coma</b> en medio.",
+      "en": "A long action (past continuous) is interrupted by a short one (past simple), usually with <b>when</b>.",
+      "formula": [
+        "Sujeto + *was / were* + verbo-ing + *when* + past simple",
+        "*When* + past simple + , + sujeto + *was / were* + verbo-ing"
+      ],
+      "examples": [
+        {
+          "en": "I <b>was having</b> a shower <b>when</b> the doorbell <b>rang</b>.",
+          "es": "Me estaba duchando cuando sonó el timbre.",
+          "icon": "🚿"
+        },
+        {
+          "en": "<b>When</b> you <b>called</b>, I <b>was driving</b>.",
+          "es": "Cuando llamaste, estaba conduciendo.",
+          "icon": "🚗"
+        },
+        {
+          "en": "We <b>were watching</b> the match <b>when</b> the TV <b>broke</b>.",
+          "es": "Estábamos viendo el partido cuando se rompió la tele.",
+          "icon": "📺"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · WHILE (mientras)",
+      "title_en": "while",
+      "icon": "🔗",
+      "color": "purple",
+      "es": "<b>While</b> («mientras») va con la acción <b>larga</b>, en past continuous. También lo usamos para <b>dos acciones largas</b> que pasaban <b>al mismo tiempo</b>: las dos en past continuous.",
+      "en": "<b>while</b> + the long action (past continuous). Two long actions at the same time: both continuous.",
+      "formula": [
+        "*While* + past continuous + , + past simple",
+        "*While* + past continuous + , + past continuous"
+      ],
+      "examples": [
+        {
+          "en": "<b>While</b> I <b>was walking</b> to work, I <b>saw</b> an accident.",
+          "es": "Mientras iba andando al trabajo, vi un accidente.",
+          "icon": "🚶"
+        },
+        {
+          "en": "I <b>cut</b> my finger <b>while</b> I <b>was cooking</b>.",
+          "es": "Me corté el dedo mientras cocinaba.",
+          "icon": "🔪"
+        },
+        {
+          "en": "<b>While</b> Dad <b>was cooking</b>, we <b>were setting</b> the table.",
+          "es": "Mientras papá cocinaba, nosotros poníamos la mesa.",
+          "icon": "🍽️"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "What were you doing when the lights went out?",
+          "es": "¿Qué estabas haciendo cuando se fue la luz?",
+          "icon": "💡"
+        },
+        {
+          "en": "I was scrolling through Instagram when I saw the news.",
+          "es": "Estaba mirando Instagram cuando vi la noticia.",
+          "icon": "📱"
+        },
+        {
+          "en": "She was living in Berlin when she met her husband.",
+          "es": "Vivía en Berlín cuando conoció a su marido.",
+          "icon": "💑"
+        },
+        {
+          "en": "We were walking along the beach while the sun was setting.",
+          "es": "Paseábamos por la playa mientras se ponía el sol.",
+          "icon": "🌅"
+        },
+        {
+          "en": "He broke his leg while he was skiing.",
+          "es": "Se rompió la pierna mientras esquiaba.",
+          "icon": "⛷️"
+        },
+        {
+          "en": "Sorry, I wasn't paying attention. What did you say?",
+          "es": "Perdona, no estaba prestando atención. ¿Qué has dicho?",
+          "icon": "🙉"
+        },
+        {
+          "en": "Were they still working at midnight? — Yes, they were.",
+          "es": "¿Seguían trabajando a medianoche? — Sí.",
+          "icon": "🌙"
+        },
+        {
+          "en": "When I arrived at the party, everyone was dancing.",
+          "es": "Cuando llegué a la fiesta, todo el mundo estaba bailando.",
+          "icon": "💃"
+        },
+        {
+          "en": "When the police arrived, the thieves ran away.",
+          "es": "Cuando llegó la policía, los ladrones huyeron.",
+          "icon": "🚓"
+        },
+        {
+          "en": "My phone rang while I was giving a presentation. How embarrassing!",
+          "es": "Me sonó el móvil mientras daba una presentación. ¡Qué vergüenza!",
+          "icon": "😳"
+        },
+        {
+          "en": "It was a cold night. The wind was blowing and the dogs were barking.",
+          "es": "Era una noche fría. Soplaba el viento y los perros ladraban.",
+          "icon": "🌬️"
+        },
+        {
+          "en": "The kids were making so much noise that I couldn't hear the TV.",
+          "es": "Los niños hacían tanto ruido que no oía la tele.",
+          "icon": "🔊"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "PAST SIMPLE o PAST CONTINUOUS",
+      "title_en": "Past simple or past continuous?",
+      "color": "blue",
+      "icon": "⚖️",
+      "es": "El <b>past simple</b> presenta la acción <b>completa</b> (o una detrás de otra); el <b>past continuous</b>, <b>en progreso</b>. ¡Mira cómo cambia el significado!",
+      "en": "Past simple = complete action or sequence. Past continuous = in progress.",
+      "cols": [
+        {
+          "head": "⏹️ Past simple · completa",
+          "color": "green",
+          "items": [
+            "I <b>cooked</b> dinner. <i>(Lo terminé.)</i>",
+            "When she arrived, we <b>had</b> dinner. <i>(Llegó y luego cenamos.)</i>"
+          ]
+        },
+        {
+          "head": "🎞️ Past continuous · en progreso",
+          "color": "orange",
+          "items": [
+            "I <b>was cooking</b> dinner. <i>(Estaba en ello.)</i>",
+            "When she arrived, we <b>were having</b> dinner. <i>(Ya estábamos cenando.)</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "WHEN o WHILE",
+      "title_en": "when or while?",
+      "color": "teal",
+      "icon": "🔗",
+      "es": "<b>when</b> suele introducir la acción <b>corta</b> (past simple). <b>while</b> introduce la acción <b>larga</b> (past continuous). Las dos pueden ir al principio o en medio de la frase.",
+      "en": "<b>when</b> + short action. <b>while</b> + long action.",
+      "cols": [
+        {
+          "head": "⚡ when + acción corta",
+          "color": "purple",
+          "items": [
+            "I was walking home <b>when</b> I <b>saw</b> him.",
+            "<b>When</b> the alarm <b>went off</b>, I was sleeping."
+          ]
+        },
+        {
+          "head": "⏳ while + acción larga",
+          "color": "pink",
+          "items": [
+            "<b>While</b> I <b>was walking</b> home, I saw him.",
+            "I fell asleep <b>while</b> I <b>was watching</b> the film."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I was cook dinner when you called.",
+          "good": "I was <b>cooking</b> dinner when you called.",
+          "why": "Después de was / were, el verbo lleva -ing.",
+          "why_en": "was / were + -ing."
+        },
+        {
+          "bad": "We was playing tennis.",
+          "good": "We <b>were</b> playing tennis.",
+          "why": "we / you / they → were.",
+          "why_en": "we / you / they → were."
+        },
+        {
+          "bad": "You was sleeping.",
+          "good": "You <b>were</b> sleeping.",
+          "why": "you siempre con were, aunque sea una persona.",
+          "why_en": "you → were."
+        },
+        {
+          "bad": "I was knowing the answer.",
+          "good": "I <b>knew</b> the answer.",
+          "why": "Verbos de estado (know, want, like) → past simple.",
+          "why_en": "State verbs → past simple."
+        },
+        {
+          "bad": "While I watched TV, the phone was ringing.",
+          "good": "While I <b>was watching</b> TV, the phone <b>rang</b>.",
+          "why": "Acción larga → continuous; corta → simple.",
+          "why_en": "Long → continuous; short → simple."
+        },
+        {
+          "bad": "Did you sleeping when I called?",
+          "good": "<b>Were</b> you sleeping when I called?",
+          "why": "Pregunta: Was / Were + sujeto + -ing.",
+          "why_en": "Was / Were + subject + -ing?"
+        },
+        {
+          "bad": "I was travelling to Paris last year. It was great!",
+          "good": "I <b>travelled</b> to Paris last year.",
+          "why": "Acción completa y terminada → past simple.",
+          "why_en": "Complete action → past simple."
+        },
+        {
+          "bad": "She was swiming in the sea.",
+          "good": "She was <b>swimming</b> in the sea.",
+          "why": "swim → swimming (dobla la m).",
+          "why_en": "Double the m."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "¿La acción estaba <b>en progreso</b> («estaba + -ndo»)? → past continuous.",
+          "en": "In progress → past continuous."
+        },
+        {
+          "es": "Elige el auxiliar: I / he / she / it → <b>was</b>; you / we / they → <b>were</b>.",
+          "en": "was or were?"
+        },
+        {
+          "es": "Añade <b>-ing</b> al verbo (¡ojo con la ortografía!).",
+          "en": "Add -ing (check the spelling)."
+        },
+        {
+          "es": "¿La interrumpe una acción corta? → esa va en <b>past simple</b>, normalmente con <b>when</b>.",
+          "en": "Short interrupting action → past simple + when."
+        },
+        {
+          "es": "¿Dos acciones largas a la vez? → las dos en continuous, con <b>while</b>.",
+          "en": "Two long actions → both continuous + while."
+        },
+        {
+          "es": "¿Es un verbo de estado (know, want, like)? → past simple.",
+          "en": "State verb → past simple."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En la comisaría",
+      "title_en": "At the police station",
+      "lines": [
+        {
+          "who": "Officer",
+          "en": "Where were you at nine o'clock last night?",
+          "es": "¿Dónde estaba usted anoche a las nueve?"
+        },
+        {
+          "who": "Ana",
+          "en": "I was walking my dog in the park.",
+          "es": "Estaba paseando a mi perro en el parque."
+        },
+        {
+          "who": "Officer",
+          "en": "And what was happening near the bank?",
+          "es": "¿Y qué estaba pasando cerca del banco?"
+        },
+        {
+          "who": "Ana",
+          "en": "Two men were standing next to a white van. They were wearing black hoodies.",
+          "es": "Dos hombres estaban de pie junto a una furgoneta blanca. Llevaban sudaderas negras."
+        },
+        {
+          "who": "Officer",
+          "en": "Were they talking to anyone?",
+          "es": "¿Estaban hablando con alguien?"
+        },
+        {
+          "who": "Ana",
+          "en": "No, they weren't. They were looking at their phones.",
+          "es": "No. Estaban mirando el móvil."
+        },
+        {
+          "who": "Officer",
+          "en": "What happened next?",
+          "es": "¿Qué pasó después?"
+        },
+        {
+          "who": "Ana",
+          "en": "While I was watching them, the alarm went off and they ran away!",
+          "es": "Mientras los miraba, saltó la alarma y salieron corriendo."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco de la película",
+      "title_en": "Film trick",
+      "es": "Imagina una película 🎬. El <b>past continuous</b> es la <mark>escena de fondo</mark>: la cámara ya estaba grabando (llovía, la gente corría). El <b>past simple</b> es la <mark>acción</mark> que aparece de repente (sonó el teléfono). Ojo: si «-aba / -ía» es un <b>hábito</b> (<i>de pequeño jugaba al fútbol</i>), no uses el continuous.",
+      "en": "Past continuous = the background scene. Past simple = the sudden action. Habits don't use the past continuous."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Was o were",
+      "title_en": "was or were?",
+      "icon": "⭕",
+      "es": "Rodea la forma correcta. Fíjate en el sujeto.",
+      "en": "Circle the correct form.",
+      "items": [
+        {
+          "q": "I [was|were] reading when you called.",
+          "a": "was"
+        },
+        {
+          "q": "My parents [was|were] watching TV.",
+          "a": "were"
+        },
+        {
+          "q": "[Was|Were] you sleeping at midnight?",
+          "a": "Were"
+        },
+        {
+          "q": "It [wasn't|weren't] raining when we left.",
+          "a": "wasn't"
+        },
+        {
+          "q": "We [was|were] having lunch at 2 o'clock.",
+          "a": "were"
+        },
+        {
+          "q": "What [was|were] Pablo doing in the garden?",
+          "a": "was"
+        },
+        {
+          "q": "The dogs [wasn't|weren't] barking.",
+          "a": "weren't"
+        },
+        {
+          "q": "You [was|were] driving too fast!",
+          "a": "were"
+        },
+        {
+          "q": "[Was|Were] it snowing in the mountains?",
+          "a": "Was"
+        },
+        {
+          "q": "Ana and I [was|were] chatting on WhatsApp.",
+          "a": "were"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Ortografía de la -ing",
+      "title_en": "-ing spelling",
+      "icon": "🗂️",
+      "es": "Clasifica los verbos según cómo forman la -ing. Luego escribe en tu cuaderno la forma -ing de todos.",
+      "en": "Sort the verbs by how they form -ing.",
+      "cats": [
+        {
+          "name": "+ ing",
+          "words": [
+            "play",
+            "read",
+            "watch",
+            "listen"
+          ]
+        },
+        {
+          "name": "quita la -e",
+          "words": [
+            "make",
+            "write",
+            "dance",
+            "ride"
+          ]
+        },
+        {
+          "name": "dobla la consonante",
+          "words": [
+            "run",
+            "swim",
+            "stop",
+            "travel"
+          ]
+        },
+        {
+          "name": "-ie → -ying",
+          "words": [
+            "lie",
+            "die",
+            "tie"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une las dos partes",
+      "title_en": "Match the two halves",
+      "icon": "🔗",
+      "es": "Une cada acción larga con la acción corta que la interrumpió. Busca la opción más lógica.",
+      "en": "Match each long action with the short action that interrupted it.",
+      "pairs": [
+        [
+          "I was having a shower",
+          "when someone knocked at the door."
+        ],
+        [
+          "We were watching a horror film",
+          "when the lights suddenly went out."
+        ],
+        [
+          "She was riding her bike",
+          "when she fell off and hurt her knee."
+        ],
+        [
+          "They were sunbathing on the beach",
+          "when it started to rain."
+        ],
+        [
+          "He was cooking pasta",
+          "when he burnt his hand on the pan."
+        ],
+        [
+          "I was taking a photo of the lion",
+          "when it suddenly ran towards me."
+        ],
+        [
+          "The students were doing an exam",
+          "when the fire alarm went off."
+        ],
+        [
+          "Grandma was knitting a jumper",
+          "when the cat stole her wool."
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Completa el past continuous",
+      "title_en": "Complete with the past continuous",
+      "icon": "✏️",
+      "es": "Completa con el past continuous del verbo entre paréntesis.",
+      "en": "Complete with the past continuous.",
+      "items": [
+        {
+          "q": "At 7 a.m. I ____ (have) breakfast.",
+          "a": "was having"
+        },
+        {
+          "q": "The children ____ (play) in the garden.",
+          "a": "were playing"
+        },
+        {
+          "q": "She ____ (not / listen) to the teacher.",
+          "a": "wasn't listening"
+        },
+        {
+          "q": "____ you ____ (work) at 9 last night?",
+          "a": "Were … working"
+        },
+        {
+          "q": "We ____ (travel) through France this time last week.",
+          "a": "were travelling"
+        },
+        {
+          "q": "It ____ (snow) when we woke up.",
+          "a": "was snowing"
+        },
+        {
+          "q": "My phone ____ (not / work), so I couldn't call you.",
+          "a": "wasn't working"
+        },
+        {
+          "q": "What ____ they ____ (do) when you arrived?",
+          "a": "were … doing"
+        },
+        {
+          "q": "I ____ (lie) on the sofa all afternoon.",
+          "a": "was lying"
+        },
+        {
+          "q": "Why ____ he ____ (cry)?",
+          "a": "was … crying"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "¿Qué estaban haciendo?",
+      "title_en": "What were they doing?",
+      "icon": "📋",
+      "es": "Ayer a las 8 de la tarde, ¿qué estaba haciendo cada persona? Escribe la frase en past continuous. La primera es un ejemplo.",
+      "en": "What was everyone doing at 8 p.m. yesterday?",
+      "head": [
+        "Pista · Prompt",
+        "Frase · Sentence"
+      ],
+      "rows": [
+        [
+          "Ana · 🎸 practise the guitar",
+          "<i>Ana was practising the guitar.</i>"
+        ],
+        [
+          "Marta · 📚 study",
+          "?Marta was studying."
+        ],
+        [
+          "Leo and Sam · 🎮 play video games",
+          "?Leo and Sam were playing video games."
+        ],
+        [
+          "My dad · 🍳 cook dinner",
+          "?My dad was cooking dinner."
+        ],
+        [
+          "I · 🏃 run in the park",
+          "?I was running in the park."
+        ],
+        [
+          "We · 📺 watch a series",
+          "?We were watching a series."
+        ],
+        [
+          "The baby · 😴 sleep",
+          "?The baby was sleeping."
+        ],
+        [
+          "You · 🛁 have a bath",
+          "?You were having a bath."
+        ],
+        [
+          "My neighbours · 🎉 have a party",
+          "?My neighbours were having a party."
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "When o while",
+      "title_en": "when or while?",
+      "icon": "🔗",
+      "es": "Completa con when o while. Recuerda: when + acción corta (past simple), while + acción larga (past continuous).",
+      "en": "Complete with when or while.",
+      "bank": [
+        "when",
+        "while"
+      ],
+      "items": [
+        {
+          "q": "I was having a bath ___ the phone rang.",
+          "a": "when"
+        },
+        {
+          "q": "I met an old friend ___ I was waiting for the bus.",
+          "a": "while (también when)"
+        },
+        {
+          "q": "We were playing football ___ it started to rain.",
+          "a": "when"
+        },
+        {
+          "q": "She hurt her back ___ she was lifting a heavy box.",
+          "a": "while (también when)"
+        },
+        {
+          "q": "___ the film ended, everybody clapped.",
+          "a": "When"
+        },
+        {
+          "q": "My sister was studying ___ I was watching TV.",
+          "a": "while"
+        },
+        {
+          "q": "I saw a shooting star ___ I was looking at the sky.",
+          "a": "while (también when)"
+        },
+        {
+          "q": "Where were you ___ I called you?",
+          "a": "when"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "¿Simple o continuous?",
+      "title_en": "Past simple or past continuous?",
+      "icon": "🎞️",
+      "es": "Completa con el past simple o el past continuous. ¿Cuál es la acción larga y cuál la corta?",
+      "en": "Complete with the past simple or the past continuous.",
+      "items": [
+        {
+          "q": "I ____ (walk) home when I ____ (see) the accident.",
+          "a": "was walking … saw"
+        },
+        {
+          "q": "When Mum ____ (come) in, we ____ (play) video games.",
+          "a": "came … were playing"
+        },
+        {
+          "q": "She ____ (break) her arm while she ____ (snowboard).",
+          "a": "broke … was snowboarding"
+        },
+        {
+          "q": "While they ____ (sleep), someone ____ (steal) their car.",
+          "a": "were sleeping … stole"
+        },
+        {
+          "q": "The phone ____ (ring) while I ____ (have) a shower.",
+          "a": "rang … was having"
+        },
+        {
+          "q": "We ____ (have) dinner when the lights ____ (go) out.",
+          "a": "were having … went"
+        },
+        {
+          "q": "When I ____ (open) the door, the cat ____ (run) out.",
+          "a": "opened … ran"
+        },
+        {
+          "q": "He ____ (not / look) when the ball ____ (hit) him.",
+          "a": "wasn't looking … hit"
+        },
+        {
+          "q": "What ____ you ____ (do) when the earthquake ____ (start)?",
+          "a": "were … doing … started"
+        },
+        {
+          "q": "I ____ (meet) my wife while I ____ (live) in London.",
+          "a": "met … was living"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Une las frases",
+      "title_en": "Join the sentences",
+      "icon": "🔄",
+      "es": "Une las dos frases con la palabra entre paréntesis.",
+      "en": "Join the two sentences with the word in brackets.",
+      "items": [
+        {
+          "q": "I was walking home. I saw an accident. <b>(when)</b>",
+          "a": "I was walking home when I saw an accident."
+        },
+        {
+          "q": "She was cooking. She cut her finger. <b>(while)</b>",
+          "a": "She cut her finger while she was cooking. / While she was cooking, she cut her finger."
+        },
+        {
+          "q": "We were sleeping. The alarm went off. <b>(when)</b>",
+          "a": "We were sleeping when the alarm went off."
+        },
+        {
+          "q": "I was driving. My phone rang. <b>(while)</b>",
+          "a": "My phone rang while I was driving. / While I was driving, my phone rang."
+        },
+        {
+          "q": "They were playing tennis. It started to rain. <b>(when)</b>",
+          "a": "They were playing tennis when it started to rain."
+        },
+        {
+          "q": "Dad was washing up. Mum was reading. <b>(while)</b>",
+          "a": "Dad was washing up while Mum was reading. / While Dad was washing up, Mum was reading."
+        },
+        {
+          "q": "I was studying. My friends arrived. <b>(when)</b>",
+          "a": "I was studying when my friends arrived."
+        },
+        {
+          "q": "He was running for the bus. He fell over. <b>(while)</b>",
+          "a": "He fell over while he was running for the bus. / While he was running for the bus, he fell over."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pregunta y responde",
+      "title_en": "Ask and answer",
+      "icon": "❓",
+      "es": "Escribe la pregunta en past continuous y la respuesta corta según la pista (YES / NO).",
+      "en": "Write the question and the short answer.",
+      "labels": [
+        "❓",
+        "💬"
+      ],
+      "items": [
+        {
+          "q": "you / sleep / at 11 p.m. (YES)",
+          "a": [
+            "Were you sleeping at 11 p.m.?",
+            "Yes, I was."
+          ]
+        },
+        {
+          "q": "Laura / work / yesterday afternoon (NO)",
+          "a": [
+            "Was Laura working yesterday afternoon?",
+            "No, she wasn't."
+          ]
+        },
+        {
+          "q": "they / wait / for the bus (YES)",
+          "a": [
+            "Were they waiting for the bus?",
+            "Yes, they were."
+          ]
+        },
+        {
+          "q": "it / rain / when you left (NO)",
+          "a": [
+            "Was it raining when you left?",
+            "No, it wasn't."
+          ]
+        },
+        {
+          "q": "your parents / watch / the news (YES)",
+          "a": [
+            "Were your parents watching the news?",
+            "Yes, they were."
+          ]
+        },
+        {
+          "q": "Leo / wear / a helmet (NO)",
+          "a": [
+            "Was Leo wearing a helmet?",
+            "No, he wasn't."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase.",
+      "en": "Put the words in order.",
+      "items": [
+        {
+          "q": "was / I / a / book / reading",
+          "a": "I was reading a book."
+        },
+        {
+          "q": "were / they / football / playing / when / it / rain / started / to",
+          "a": "They were playing football when it started to rain."
+        },
+        {
+          "q": "you / doing / what / were / ?",
+          "a": "What were you doing?"
+        },
+        {
+          "q": "wasn't / she / attention / paying",
+          "a": "She wasn't paying attention."
+        },
+        {
+          "q": "while / cooking / I / was / I / my / burnt / hand",
+          "a": "I burnt my hand while I was cooking."
+        },
+        {
+          "q": "it / snowing / was / ?",
+          "a": "Was it snowing?"
+        },
+        {
+          "q": "the phone / rang / when / having / we / were / lunch",
+          "a": "We were having lunch when the phone rang."
+        },
+        {
+          "q": "at 8 / were / you / last night / where / going / ?",
+          "a": "Where were you going at 8 last night?"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "⚖️",
+      "es": "Lee cada afirmación y marca T (verdadero) o F (falso).",
+      "en": "Read each statement. Tick T or F.",
+      "items": [
+        {
+          "q": "We form the past continuous with was / were + -ing.",
+          "a": true
+        },
+        {
+          "q": "«You was working» is correct.",
+          "a": false,
+          "why": "you → were: You were working."
+        },
+        {
+          "q": "In «I was cooking when the phone rang», the long action is «was cooking».",
+          "a": true
+        },
+        {
+          "q": "We usually use «while» with the short action.",
+          "a": false,
+          "why": "while + acción larga (past continuous)."
+        },
+        {
+          "q": "«I was knowing the answer» is correct.",
+          "a": false,
+          "why": "know es de estado: I knew the answer."
+        },
+        {
+          "q": "The past continuous is good for describing the background of a story.",
+          "a": true
+        },
+        {
+          "q": "«When she arrived, we had dinner» = «When she arrived, we were having dinner».",
+          "a": false,
+          "why": "had = cenamos después; were having = ya estábamos cenando."
+        },
+        {
+          "q": "The -ing form of «run» is «running».",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "I was watch a film when you called.",
+          "a": "I was watching a film when you called."
+        },
+        {
+          "q": "They was talking about you.",
+          "a": "They were talking about you."
+        },
+        {
+          "q": "While I cooked, the phone was ringing.",
+          "a": "While I was cooking, the phone rang."
+        },
+        {
+          "q": "Did you working at 10 p.m.?",
+          "a": "Were you working at 10 p.m.?"
+        },
+        {
+          "q": "I was wanting a new phone.",
+          "a": "I wanted a new phone."
+        },
+        {
+          "q": "She was swiming in the sea.",
+          "a": "She was swimming in the sea."
+        },
+        {
+          "q": "We wasn't listening.",
+          "a": "We weren't listening."
+        },
+        {
+          "q": "Yesterday I was going to the cinema with Ana. It was great!",
+          "a": "Yesterday I went to the cinema with Ana."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. ¿Acción en progreso (continuous) o acción completa (simple)?",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Me estaba duchando cuando sonó el teléfono.",
+          "a": "I was having a shower when the phone rang."
+        },
+        {
+          "q": "¿Qué estabas haciendo ayer a las ocho?",
+          "a": "What were you doing at eight yesterday?"
+        },
+        {
+          "q": "No estábamos escuchando.",
+          "a": "We weren't listening."
+        },
+        {
+          "q": "Mientras yo cocinaba, mi hermano ponía la mesa.",
+          "a": "While I was cooking, my brother was setting the table."
+        },
+        {
+          "q": "Me rompí el brazo mientras esquiaba.",
+          "a": "I broke my arm while I was skiing."
+        },
+        {
+          "q": "Llovía y todo el mundo corría.",
+          "a": "It was raining and everyone was running."
+        },
+        {
+          "q": "¿Estaba nevando cuando saliste? — No.",
+          "a": "Was it snowing when you left? — No, it wasn't."
+        },
+        {
+          "q": "Conocí a mi novia cuando vivía en Londres.",
+          "a": [
+            "I met my girlfriend when I was living in London.",
+            "I met my girlfriend while I was living in London."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee la historia de Marcos. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read Marcos's story. Tick T or F and answer the questions.",
+      "text_title": "A scary night 🌩️ — by Marcos",
+      "text": [
+        "It was a dark, windy night in November. I was home alone because my parents were visiting my grandmother. I was lying on the sofa and I was watching a horror film. Outside, the rain was falling heavily and the wind was blowing through the trees.",
+        "At about eleven o'clock, while I was making some popcorn, the lights suddenly went out. Then I heard a strange noise at the back door. Someone was trying to open it! My heart was beating very fast. I picked up my phone and called my dad.",
+        "While I was talking to him, the door opened… and our dog, Bruno, ran in! He was wet and very happy. My neighbour was standing behind him with a torch. “He was hiding in my garden,” she said. “Sorry if I scared you!”"
+      ],
+      "items": [
+        {
+          "q": "Marcos's parents were at home.",
+          "tf": true,
+          "a": false,
+          "why": "They were visiting his grandmother."
+        },
+        {
+          "q": "It was raining that night.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "The lights went out while Marcos was making popcorn.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "What was Marcos doing on the sofa?",
+          "a": "He was watching a horror film."
+        },
+        {
+          "q": "What was happening at the back door?",
+          "a": "Someone was trying to open it."
+        },
+        {
+          "q": "Who was Marcos talking to when the door opened?",
+          "a": "He was talking to his dad."
+        },
+        {
+          "q": "Where was Bruno hiding?",
+          "a": "He was hiding in the neighbour's garden."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre ti. Usa el past continuous y el past simple.",
+      "en": "Write about you with the past continuous and the past simple.",
+      "items": [
+        {
+          "q": "¿Qué estabas haciendo ayer a estas horas: 8:00, 14:00 y 22:00?",
+          "lines": 3,
+          "a": "Ej.: At 8:00 I was having breakfast. At 14:00 I was studying. At 22:00 I was watching a series."
+        },
+        {
+          "q": "Escribe 2 frases con <b>when</b> (una acción larga interrumpida).",
+          "lines": 2,
+          "a": "Ej.: I was walking to school when I saw my teacher. We were having lunch when my uncle arrived."
+        },
+        {
+          "q": "Escribe 2 frases con <b>while</b>.",
+          "lines": 2,
+          "a": "Ej.: I lost my keys while I was running. While my sister was studying, I was playing the guitar."
+        },
+        {
+          "q": "Empieza una historia: describe la escena con 3 acciones en past continuous y añade lo que pasó de repente.",
+          "lines": 3,
+          "a": "Ej.: It was a sunny morning. Birds were singing and people were jogging in the park. Suddenly, a dog stole my sandwich!"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Formo el past continuous con <b>was / were + -ing</b>.",
+      "en": "I can form the past continuous."
+    },
+    {
+      "es": "Hago negativas (wasn't / weren't) y preguntas (Was / Were…?).",
+      "en": "I can make negatives and questions."
+    },
+    {
+      "es": "Escribo bien la <b>-ing</b> (making, running, lying, travelling).",
+      "en": "I can spell the -ing form."
+    },
+    {
+      "es": "Uso el continuous para la acción <b>larga</b> y el simple para la <b>corta</b>.",
+      "en": "Long action → continuous; short action → simple."
+    },
+    {
+      "es": "Uso <b>when</b> y <b>while</b> correctamente.",
+      "en": "I use when and while correctly."
+    },
+    {
+      "es": "Describo el <b>fondo</b> de una historia con el past continuous.",
+      "en": "I can describe the background of a story."
+    }
+  ]
+}

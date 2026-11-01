@@ -1,0 +1,468 @@
+{
+  "id": "A1-08",
+  "level": "A1",
+  "title": "A, AN <em>y</em> THE",
+  "file_title": "A, an y the",
+  "subtitle": "Articles · un, una, el, la, los, las",
+  "icon": "🍎",
+  "map": {
+    "center": "<b>a / an</b> = un, una (uno cualquiera). <b>the</b> = el, la, los, las (uno concreto). ¡A veces, ninguno!",
+    "nodes": [
+      {
+        "title": "A: sonido consonante", "icon": "🐶",
+        "items": ["<b>a</b> dog · <b>a</b> pen · <b>a</b> big apple", "<b>a</b> uniform · <b>a</b> unicorn <i>(suena «yu»)</i>", "Solo con <b>una</b> cosa: <s>a dogs</s>"]
+      },
+      {
+        "title": "AN: sonido vocal", "icon": "🍎", "art": "☂️",
+        "items": ["<b>an</b> apple · <b>an</b> egg · <b>an</b> orange", "<b>an</b> umbrella · <b>an</b> elephant", "<b>an</b> hour <i>(la h no suena)</i>"]
+      },
+      {
+        "title": "THE: uno concreto", "icon": "👉",
+        "items": ["Ya sabemos cuál: <b>the</b> door, <b>the</b> sun", "I've got <b>a</b> dog. <b>The</b> dog is black.", "Para todo: the boy, the girl, the books"]
+      },
+      {
+        "title": "Sin artículo", "icon": "🚫", "art": "⚽",
+        "items": ["En general: I like dogs. <i>(los perros)</i>", "Deportes e idiomas: play football, English", "at school · at home · go to bed"]
+      },
+      {
+        "title": "Profesiones: a / an", "icon": "👩‍🏫",
+        "items": ["She's <b>a</b> teacher. <i>(Es profesora.)</i>", "He's <b>an</b> artist. <i>(Es artista.)</i>", "En español no hay artículo, ¡en inglés sí!"]
+      },
+      {
+        "title": "Consejo rápido", "icon": "💡",
+        "items": ["¡Escucha el <b>sonido</b>, no la letra!", "<b>the</b> + vocal suena /ði/: the apple", "Nunca <b>a / an</b> con plural."]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["I like the dogs."],
+      "good": ["I like dogs."],
+      "note": "En general → <b>sin</b> the"
+    },
+    "mini": {
+      "es": "Completa con a, an o the.",
+      "en": "Complete with a, an or the.",
+      "items": [
+        { "q": "I've got ___ apple.", "a": "an" },
+        { "q": "She's ___ teacher.", "a": "a" },
+        { "q": "Look at ___ moon!", "a": "the" },
+        { "q": "The film is ___ hour long.", "a": "an" },
+        { "q": "I wear ___ uniform at school.", "a": "a" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Los <b>artículos</b> van delante del sustantivo. En inglés solo hay tres: <b>a</b> y <b>an</b> (un, una) y <b>the</b> (el, la, los, las). ¡Es <mark>más fácil que en español</mark>: no cambian para masculino, femenino o plural! La trampa: muchas veces el inglés <b>no pone artículo</b> donde el español sí.",
+      "en": "Only three articles: <b>a</b>, <b>an</b> and <b>the</b>. They never change. Sometimes English uses <b>no article</b>.",
+      "formula": ["*a / an* + una cosa cualquiera", "*the* + una cosa concreta"]
+    },
+    {
+      "t": "rule", "title": "1 · A: un, una", "title_en": "a", "icon": "🐶", "color": "green",
+      "es": "<b>a</b> = <i>un, una</i>. Va delante de palabras que <b>empiezan por sonido de consonante</b>: a dog, a pen. Solo con <b>una</b> cosa: <s>a dogs</s>.",
+      "en": "Use <b>a</b> before a <b>consonant sound</b>. Never with plurals.",
+      "formula": ["*a* + dog / pen / big apple"],
+      "examples": [
+        { "en": "I've got <b>a</b> dog.", "es": "Tengo un perro.", "icon": "🐶" },
+        { "en": "Lucía has got <b>a</b> new bike.", "es": "Lucía tiene una bici nueva.", "icon": "🚲" },
+        { "en": "There's <b>a</b> cat in the garden.", "es": "Hay un gato en el jardín.", "icon": "🐈" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · AN: delante de vocal", "title_en": "an", "icon": "🍎", "color": "orange",
+      "es": "Usamos <b>an</b> cuando la palabra siguiente <b>empieza por sonido de vocal</b> (a, e, i, o, u): an apple, an egg, an orange. ¿Por qué? Prueba a decir <i>«a apple»</i>: las dos vocales chocan. La <b>n</b> hace de <mark>puente</mark> y se dice mucho mejor: <i>an-apple</i>.",
+      "en": "Use <b>an</b> before a <b>vowel sound</b>: an apple, an egg. The <b>n</b> is a bridge between two vowels.",
+      "formula": ["*an* + apple / egg / orange"],
+      "examples": [
+        { "en": "I eat <b>an</b> apple every day.", "es": "Me como una manzana cada día.", "icon": "🍎" },
+        { "en": "Anna has got <b>an</b> umbrella.", "es": "Anna tiene un paraguas.", "icon": "☂️" },
+        { "en": "Look! It's <b>an</b> elephant!", "es": "¡Mira! ¡Es un elefante!", "icon": "🐘" }
+      ]
+    },
+    {
+      "t": "compare", "title": "3 · ¡El sonido, no la letra!", "title_en": "Sound, not letter", "icon": "👂", "color": "purple",
+      "es": "Lo que importa es cómo <b>suena</b> la palabra, no cómo se escribe. <b>hour</b> empieza por h, pero la h no suena → <b>an hour</b>. <b>uniform</b> empieza por u, pero suena «yu» → <b>a uniform</b>. Y fíjate: el artículo mira <mark>la palabra que tiene justo detrás</mark>: <i>an apple</i>, pero <i>a big apple</i>.",
+      "en": "What matters is the first <b>sound</b>: an hour (silent h), a uniform («you»). Look at the word right after the article.",
+      "cols": [
+        { "head": "🐶 a + sonido consonante", "color": "green", "items": ["a uniform <i>(«yu»)</i>", "a unicorn 🦄", "a horse <i>(la h suena)</i>", "a big apple <i>(big → b)</i>"] },
+        { "head": "🍎 an + sonido vocal", "color": "orange", "items": ["an hour ⏰ <i>(h muda)</i>", "an umbrella ☂️", "an ugly monster 👾", "an old car <i>(old → o)</i>"] }
+      ]
+    },
+    {
+      "t": "rule", "title": "4 · THE: el, la, los, las", "title_en": "the", "icon": "👉", "color": "blue",
+      "es": "Usamos <b>the</b> cuando sabemos <mark>qué cosa concreta</mark> es: porque ya la hemos nombrado, porque solo hay una (the sun) o porque está clarísimo (Close the door!). Vale para todo: <b>the</b> boy, <b>the</b> girl, <b>the</b> books.",
+      "en": "Use <b>the</b> when we know <mark>which thing</mark>. It works for singular and plural.",
+      "formula": ["*the* + boy / girl / books"],
+      "examples": [
+        { "en": "I've got <b>a</b> dog. <b>The</b> dog is called Rocky.", "es": "Tengo un perro. El perro se llama Rocky.", "icon": "🐕" },
+        { "en": "Look at <b>the</b> moon!", "es": "¡Mira la luna!", "icon": "🌙" },
+        { "en": "Close <b>the</b> door, please.", "es": "Cierra la puerta, por favor.", "icon": "🚪" }
+      ]
+    },
+    {
+      "t": "table", "title": "5 · ¿A / AN o THE?", "title_en": "a / an or the?", "icon": "🤔", "color": "teal",
+      "head": ["Situación · When", "Artículo", "Ejemplo · Example"],
+      "rows": [
+        ["Lo nombro por <b>primera vez</b>", "a / an", "I've got <b>a</b> cat."],
+        ["Ya sabemos cuál (<b>segunda vez</b>)", "the", "<b>The</b> cat is white."],
+        ["Solo hay <b>uno</b> en el mundo", "the", "<b>the</b> sun · <b>the</b> sky"],
+        ["Está claro cuál (en casa, en clase)", "the", "Open <b>the</b> window."],
+        ["<b>Profesiones</b>", "a / an", "She's <b>a</b> nurse. He's <b>an</b> actor."],
+        ["<b>Uno</b> (= one)", "a / an", "I've got <b>a</b> brother."]
+      ],
+      "note": "Truco: <b>a</b> presenta una cosa nueva; <b>the</b> señala una cosa que ya conocemos. ¡Como en un cuento: <i>Había una vez <u>un</u> lobo… <u>El</u> lobo tenía hambre</i>!",
+      "note_en": "<b>a</b> introduces something new; <b>the</b> points to something we already know."
+    },
+    {
+      "t": "compare", "title": "6 · ¿En general o concreto?", "title_en": "In general or specific?", "icon": "🌍", "color": "pink",
+      "es": "¡Aquí está la gran trampa! En español decimos <i>«Me gustan <u>los</u> perros»</i>, pero en inglés, cuando hablamos <mark>en general</mark> (de todos los perros del mundo), <b>no</b> ponemos the: <b>I like dogs.</b> Solo usamos <b>the</b> si hablamos de unos <b>concretos</b> (los de mi clase, los de mi calle, los de la cocina).",
+      "en": "When we talk <mark>in general</mark>, there is <b>no article</b>: I like dogs. Some specific ones → <b>the</b>.",
+      "cols": [
+        { "head": "🌍 En general → sin the", "color": "green", "items": ["I like dogs.", "Children love sweets.", "Apples are good for you.", "Football is fun."] },
+        { "head": "👉 Concreto → the", "color": "blue", "items": ["<b>The</b> dogs in my street are noisy.", "<b>The</b> children in my class are nice.", "<b>The</b> apples in the kitchen are red.", "<b>The</b> football match is at five."] }
+      ]
+    },
+    {
+      "t": "rule", "title": "7 · Más casos sin artículo", "title_en": "More cases with no article", "icon": "🚫", "color": "red",
+      "es": "Tampoco llevan artículo: los <b>deportes</b> (play football), las <b>asignaturas</b> e <b>idiomas</b> (English, maths), las <b>comidas</b> (have lunch) y expresiones como <b>at school, at home, go to bed</b>. En español decimos <i>«<u>el</u> inglés», «<u>al</u> fútbol»</i>, ¡pero en inglés no!",
+      "en": "No article with sports, school subjects, languages, meals and phrases like at school, at home, go to bed.",
+      "formula": ["play + *football*", "*English* + is fun"],
+      "examples": [
+        { "en": "Mario plays <b>football</b> on Saturdays.", "es": "Mario juega al fútbol los sábados.", "icon": "⚽" },
+        { "en": "<b>English</b> is my favourite subject.", "es": "El inglés es mi asignatura favorita.", "icon": "📘" },
+        { "en": "Rocky is <b>at home</b> with Grandma.", "es": "Rocky está en casa con la abuela.", "icon": "🏠" }
+      ]
+    },
+    {
+      "t": "vocab", "title": "Expresiones sin artículo", "title_en": "No-article phrases", "icon": "🎒", "color": "teal",
+      "items": [
+        { "en": "at school", "es": "en el cole", "icon": "🏫" },
+        { "en": "at home", "es": "en casa", "icon": "🏠" },
+        { "en": "go to school", "es": "ir al cole", "icon": "🎒" },
+        { "en": "go home", "es": "ir a casa", "icon": "🏡" },
+        { "en": "go to bed", "es": "ir a la cama", "icon": "🛏️" },
+        { "en": "have breakfast", "es": "desayunar", "icon": "🥣" },
+        { "en": "have lunch", "es": "comer", "icon": "🥪" },
+        { "en": "by bus", "es": "en autobús", "icon": "🚌" },
+        { "en": "play football", "es": "jugar al fútbol", "icon": "⚽" },
+        { "en": "watch TV", "es": "ver la tele", "icon": "📺" },
+        { "en": "on Monday", "es": "el lunes", "icon": "📅" },
+        { "en": "in English", "es": "en inglés", "icon": "💬" }
+      ]
+    },
+    {
+      "t": "table", "title": "Todo junto", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["Artículo", "¿Cuándo? · When?", "Ejemplos · Examples", "🇪🇸 Español"],
+      "rows": [
+        ["<b>a</b>", "una cosa cualquiera + sonido de consonante", "a dog · a pen · a uniform", "un perro · un boli · un uniforme"],
+        ["<b>an</b>", "una cosa cualquiera + sonido de vocal", "an apple · an egg · an hour", "una manzana · un huevo · una hora"],
+        ["<b>a / an</b>", "profesiones", "She's a nurse. · He's an actor.", "Es enfermera. · Es actor."],
+        ["<b>the</b>", "una cosa concreta (singular o plural)", "the door · the sun · the books", "la puerta · el sol · los libros"],
+        ["<b>—</b> (nada)", "en general, deportes, asignaturas, idiomas", "I like dogs. · play football · English", "me gustan los perros · jugar al fútbol · el inglés"],
+        ["<b>—</b> (nada)", "expresiones fijas", "at school · at home · go to bed · by bus", "en el cole · en casa · ir a la cama · en autobús"]
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "I've got <b>an</b> idea!", "es": "¡Tengo una idea!", "icon": "💡" },
+        { "en": "My dad is <b>a</b> nurse.", "es": "Mi padre es enfermero.", "icon": "👨‍⚕️" },
+        { "en": "Leo eats <b>an</b> orange at break time.", "es": "Leo se come una naranja en el recreo.", "icon": "🍊" },
+        { "en": "<b>The</b> sun is very hot today.", "es": "Hoy el sol quema mucho.", "icon": "☀️" },
+        { "en": "Sara has got <b>a</b> hamster. <b>The</b> hamster is brown.", "es": "Sara tiene un hámster. El hámster es marrón.", "icon": "🐹" },
+        { "en": "I go to bed at nine.", "es": "Me voy a la cama a las nueve.", "icon": "🛏️" },
+        { "en": "We have lunch at school.", "es": "Comemos en el cole.", "icon": "🥪" },
+        { "en": "Tom plays tennis and Anna plays <b>the</b> piano.", "es": "Tom juega al tenis y Anna toca el piano.", "icon": "🎹" },
+        { "en": "Children love ice cream.", "es": "A los niños les encanta el helado.", "icon": "🍦" },
+        { "en": "The film is <b>an</b> hour long.", "es": "La peli dura una hora.", "icon": "🎬" },
+        { "en": "Open <b>the</b> window, please.", "es": "Abre la ventana, por favor.", "icon": "🪟" },
+        { "en": "Lucía wants <b>a</b> unicorn for her birthday!", "es": "¡Lucía quiere un unicornio por su cumple!", "icon": "🦄" },
+        { "en": "Rocky sleeps on <b>the</b> sofa.", "es": "Rocky duerme en el sofá.", "icon": "🛋️" }
+      ]
+    },
+    {
+      "t": "table", "title": "La pronunciación de THE", "title_en": "How to say the", "icon": "🗣️", "color": "purple",
+      "head": ["Antes de… · Before", "Suena · Sounds", "Ejemplo · Example"],
+      "rows": [
+        ["sonido de consonante", "/ðə/ («dhe»)", "the dog · the pen · the uniform"],
+        ["sonido de vocal", "/ði/ («dhi»)", "the apple · the egg · the hour"]
+      ],
+      "note": "¡Es la misma idea que <b>a / an</b>! Delante de vocal, <b>the</b> cambia su sonido para que no choquen las vocales. Se escribe igual, solo cambia cómo suena.",
+      "note_en": "Before a vowel sound, <b>the</b> sounds /ði/. The spelling doesn't change."
+    },
+    {
+      "t": "errors", "monster": "trampas", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "I like the dogs.", "good": "I like dogs.", "why": "En general, sin the.", "why_en": "In general: no the." },
+        { "bad": "She is teacher.", "good": "She is <b>a</b> teacher.", "why": "Las profesiones llevan a / an.", "why_en": "Jobs need a / an." },
+        { "bad": "I've got a apple.", "good": "I've got <b>an</b> apple.", "why": "Sonido de vocal → an.", "why_en": "Vowel sound → an." },
+        { "bad": "I wear an uniform.", "good": "I wear <b>a</b> uniform.", "why": "uniform suena «yu» → a.", "why_en": "uniform starts with /j/ → a." },
+        { "bad": "I play the football.", "good": "I play football.", "why": "Deportes: sin the.", "why_en": "Sports: no the." },
+        { "bad": "The English is easy.", "good": "English is easy.", "why": "Idiomas y asignaturas: sin the.", "why_en": "Languages, subjects: no the." },
+        { "bad": "I go to the school by bus.", "good": "I go to school by bus.", "why": "Ir al cole a estudiar: go to school.", "why_en": "go to school (as a pupil)." },
+        { "bad": "The film is a hour long.", "good": "The film is <b>an</b> hour long.", "why": "La h de hour no suena → an.", "why_en": "Silent h → an hour." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Qué artículo pongo?", "title_en": "Which article?", "color": "orange",
+      "items": [
+        { "es": "¿Hablo <b>en general</b> (todos los perros, el fútbol, el inglés)? → <b>nada</b>.", "en": "In general? → no article." },
+        { "es": "¿Es una cosa <b>concreta</b> y sabemos cuál es? → <b>the</b>.", "en": "A specific thing we know? → the." },
+        { "es": "¿Es <b>una</b> cosa cualquiera o una <b>profesión</b>? → <b>a / an</b>.", "en": "One thing, any one, or a job? → a / an." },
+        { "es": "Para elegir entre a y an, <b>dilo en voz alta</b>: ¿la palabra siguiente empieza por sonido de vocal? → <b>an</b>. Si no → <b>a</b>.", "en": "Say it aloud: vowel sound → an; if not → a." },
+        { "es": "Repasa: ¿he puesto a / an delante de un plural? ¡Eso nunca!", "en": "Check: never a / an with plurals." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "En la cocina", "title_en": "In the kitchen",
+      "lines": [
+        { "who": "Mum", "en": "Mario, do you want an apple or a banana?", "es": "Mario, ¿quieres una manzana o un plátano?" },
+        { "who": "Mario", "en": "An apple, please. I love apples!", "es": "Una manzana, por favor. ¡Me encantan las manzanas!" },
+        { "who": "Mum", "en": "The apples are in the fridge.", "es": "Las manzanas están en la nevera." },
+        { "who": "Mario", "en": "Thanks! Can I have an egg too?", "es": "¡Gracias! ¿Puedo tomar un huevo también?" },
+        { "who": "Mum", "en": "Of course. Have you got football practice today?", "es": "Claro. ¿Hoy tienes entrenamiento de fútbol?" },
+        { "who": "Mario", "en": "Yes! I play football at five. It's an hour long.", "es": "¡Sí! Juego al fútbol a las cinco. Dura una hora." },
+        { "who": "Mum", "en": "OK. Take an umbrella. The sky is very grey!", "es": "Vale. Coge un paraguas. ¡El cielo está muy gris!" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco del puente", "title_en": "The bridge trick",
+      "es": "La <b>n</b> de <b>an</b> es un puente entre dos vocales: <s>a apple</s> → <b>an apple</b>. Y recuerda: en español ponemos «el, la, los» casi siempre, pero en inglés <b>the</b> solo va con cosas <mark>concretas</mark>. Si hablas de todos en general, ¡fuera el the!",
+      "en": "The <b>n</b> in <b>an</b> is a bridge between two vowel sounds. Use <b>the</b> only for specific things."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify", "title": "¿A o AN?", "title_en": "a or an?", "icon": "🗂️",
+      "es": "Escribe cada palabra en su caja. Dila en voz alta: ¿empieza por sonido de vocal?",
+      "en": "Write each word in the right box. Say it aloud first.",
+      "cats": [
+        { "name": "a", "words": ["dog", "banana", "uniform", "pencil", "horse", "unicorn", "car"] },
+        { "name": "an", "words": ["apple", "egg", "orange", "hour", "umbrella", "ice cream", "elephant"] }
+      ]
+    },
+    {
+      "t": "choose", "title": "Rodea a o an", "title_en": "Circle a or an", "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta. ¡Mira la palabra que va justo detrás!",
+      "en": "Circle the correct option. Look at the next word!",
+      "items": [
+        { "q": "I've got [a|an] new pencil case.", "a": "a" },
+        { "q": "Leo eats [a|an] orange every day.", "a": "an" },
+        { "q": "Look! It's [a|an] elephant!", "a": "an" },
+        { "q": "My grandad drives [a|an] old car.", "a": "an" },
+        { "q": "Lucía wants [a|an] unicorn.", "a": "a" },
+        { "q": "We wait for [a|an] hour.", "a": "an" },
+        { "q": "Sara has got [a|an] umbrella.", "a": "an" },
+        { "q": "Tom is [a|an] good friend.", "a": "a" },
+        { "q": "We wear [a|an] uniform at school.", "a": "a" },
+        { "q": "There's [a|an] egg in the fridge.", "a": "an" }
+      ]
+    },
+    {
+      "t": "match", "title": "Une español e inglés", "title_en": "Match Spanish and English", "icon": "🔗",
+      "es": "Une cada expresión en español con su traducción en inglés. ¡Ojo con los artículos!",
+      "en": "Match each Spanish phrase with the English one.",
+      "pairs": [
+        ["un huevo", "an egg"],
+        ["una hora", "an hour"],
+        ["un uniforme", "a uniform"],
+        ["el sol", "the sun"],
+        ["jugar al fútbol", "play football"],
+        ["en el cole", "at school"],
+        ["ir a la cama", "go to bed"],
+        ["una naranja", "an orange"]
+      ]
+    },
+    {
+      "t": "spell", "title": "Deletrea la palabra", "title_en": "Spell the word", "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en las cajas. Después escribe a o an delante.",
+      "en": "Unscramble the letters. Then write a or an in front.",
+      "items": [
+        { "q": "🍎 manzana", "a": "apple" },
+        { "q": "🥚 huevo", "a": "egg" },
+        { "q": "☂️ paraguas", "a": "umbrella" },
+        { "q": "🦄 unicornio", "a": "unicorn" },
+        { "q": "🐘 elefante", "a": "elephant" },
+        { "q": "🍊 naranja", "a": "orange" },
+        { "q": "⏰ hora", "a": "hour" },
+        { "q": "🐴 caballo", "a": "horse" }
+      ]
+    },
+    {
+      "t": "fill", "title": "a, an o the", "title_en": "a, an or the", "icon": "✏️",
+      "es": "Completa con a, an o the. Si hay dos huecos, escribe las dos palabras.",
+      "en": "Complete with a, an or the.",
+      "bank": ["a", "an", "the"],
+      "items": [
+        { "q": "I've got ___ dog. ___ dog is called Rocky.", "a": "a, The" },
+        { "q": "Look at ___ sun! It's very hot.", "a": "the" },
+        { "q": "My mum is ___ doctor.", "a": "a" },
+        { "q": "Can you open ___ door, please?", "a": "the" },
+        { "q": "Anna has got ___ old bike.", "a": "an" },
+        { "q": "There's ___ apple on the table. ___ apple is red.", "a": "an, The" },
+        { "q": "We wear ___ uniform at school.", "a": "a" },
+        { "q": "Where's ___ teacher? She isn't in the classroom.", "a": "the" },
+        { "q": "Leo is ___ artist. He paints very well.", "a": "an" },
+        { "q": "I'm hungry. I want ___ sandwich.", "a": "a" }
+      ]
+    },
+    {
+      "t": "fill", "title": "¿THE o nada?", "title_en": "the or no article?", "icon": "🚫",
+      "es": "Escribe the o una raya (—) si no hace falta artículo. Pregúntate: ¿en general o concreto?",
+      "en": "Write the or — (no article).",
+      "bank": ["the", "—"],
+      "items": [
+        { "q": "I like ___ cats.", "a": "—" },
+        { "q": "___ cats in my street are very friendly.", "a": "The" },
+        { "q": "Mario plays ___ football.", "a": "—" },
+        { "q": "___ English is my favourite subject.", "a": "—" },
+        { "q": "I go to ___ school by bike.", "a": "—" },
+        { "q": "Put ___ milk in the fridge, please.", "a": "the" },
+        { "q": "We have ___ breakfast at eight.", "a": "—" },
+        { "q": "___ children love sweets.", "a": "—" },
+        { "q": "Close ___ window, it's cold!", "a": "the" },
+        { "q": "My sister is at ___ home.", "a": "—" }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Verdadero o falso?", "title_en": "True or false?", "icon": "✔️",
+      "es": "Lee cada frase. Marca T (verdadero) o F (falso).",
+      "en": "Read each sentence. Tick T or F.",
+      "items": [
+        { "q": "We say <b>an apple</b>.", "a": true },
+        { "q": "We say <b>an uniform</b>.", "a": false, "why": "a uniform («yu» sound)" },
+        { "q": "We say <b>a hour</b>.", "a": false, "why": "an hour (silent h)" },
+        { "q": "<b>I like dogs.</b> is correct.", "a": true },
+        { "q": "We say <b>She is teacher.</b>", "a": false, "why": "She is a teacher." },
+        { "q": "<b>the</b> can go with singular and plural words.", "a": true },
+        { "q": "We say <b>I play the football.</b>", "a": false, "why": "I play football." },
+        { "q": "We say <b>Look at the moon!</b>", "a": true },
+        { "q": "We can say <b>a dogs</b>.", "a": false, "why": "a / an only with one thing" }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Uno y muchos", "title_en": "One and many", "icon": "📋", "wide": true,
+      "es": "Escribe la palabra con a o an, y después en plural (¡el plural no lleva a / an!).",
+      "en": "Write the word with a or an, then in the plural.",
+      "head": ["Palabra · Word", "Uno · One (a / an)", "Muchos · Many"],
+      "rows": [
+        ["egg", "?an egg", "?eggs"],
+        ["banana", "?a banana", "?bananas"],
+        ["hour", "?an hour", "?hours"],
+        ["uniform", "?a uniform", "?uniforms"],
+        ["umbrella", "?an umbrella", "?umbrellas"],
+        ["horse", "?a horse", "?horses"],
+        ["ice cream", "?an ice cream", "?ice creams"],
+        ["unicorn", "?a unicorn", "?unicorns"]
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Primero a, después the", "title_en": "First a, then the", "icon": "👉",
+      "es": "Escribe dos frases: la primera con I've got a / an… y la segunda con The… is…",
+      "en": "Write two sentences: I've got a / an… and The… is…",
+      "labels": ["a / an", "the"],
+      "items": [
+        { "q": "cat · white", "a": ["I've got a cat.", "The cat is white."] },
+        { "q": "egg · big", "a": ["I've got an egg.", "The egg is big."] },
+        { "q": "bike · red", "a": ["I've got a bike.", "The bike is red."] },
+        { "q": "umbrella · yellow", "a": ["I've got an umbrella.", "The umbrella is yellow."] },
+        { "q": "hamster · brown", "a": ["I've got a hamster.", "The hamster is brown."] },
+        { "q": "orange · sweet", "a": ["I've got an orange.", "The orange is sweet."] },
+        { "q": "uniform · blue", "a": ["I've got a uniform.", "The uniform is blue."] }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        { "q": "an / I've / apple / got", "a": "I've got an apple." },
+        { "q": "is / a / she / teacher", "a": "She is a teacher." },
+        { "q": "the / look / moon / at", "a": "Look at the moon!" },
+        { "q": "football / plays / Mario / on Saturdays", "a": "Mario plays football on Saturdays." },
+        { "q": "like / I / dogs / and cats", "a": "I like dogs and cats." },
+        { "q": "an / Leo / umbrella / has got", "a": "Leo has got an umbrella." },
+        { "q": "to school / go / by bus / we", "a": "We go to school by bus." },
+        { "q": "dog / the / black / is", "a": "The dog is black." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "I've got a orange.", "a": "I've got an orange." },
+        { "q": "My dad is doctor.", "a": "My dad is a doctor." },
+        { "q": "I like the cats.", "a": "I like cats." },
+        { "q": "We play the football at break time.", "a": "We play football at break time." },
+        { "q": "I wear an uniform.", "a": "I wear a uniform." },
+        { "q": "The maths is easy.", "a": "Maths is easy." },
+        { "q": "The film is a hour long.", "a": "The film is an hour long." },
+        { "q": "Look at a sun!", "a": "Look at the sun!" },
+        { "q": "Lucía has got a new shoes.", "a": "Lucía has got new shoes." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Piensa: ¿a, an, the o nada?",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Tengo un perro y un gato.", "a": "I've got a dog and a cat." },
+        { "q": "Me gustan los plátanos.", "a": "I like bananas." },
+        { "q": "Mi madre es profesora. (¡cuidado!)", "a": "My mum is a teacher." },
+        { "q": "Quiero una manzana.", "a": "I want an apple." },
+        { "q": "¡Mira la luna!", "a": "Look at the moon!" },
+        { "q": "Juego al fútbol los sábados.", "a": "I play football on Saturdays." },
+        { "q": "El inglés es fácil.", "a": "English is easy." },
+        { "q": "Voy al cole en autobús.", "a": "I go to school by bus." },
+        { "q": "Tenemos una hora para comer.", "a": "We've got an hour for lunch." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto y rodea todos los a, an y the. Después marca T o F y contesta las preguntas.",
+      "en": "Read the text and circle every a, an and the. Then tick T or F and answer the questions.",
+      "text_title": "Lucía's birthday",
+      "text": [
+        "Today is Lucía's birthday. She is twelve. Mum makes a big chocolate cake. The cake is delicious!",
+        "Lucía gets three presents: a book, an umbrella with cats on it and a unicorn T-shirt. She loves cats and she loves unicorns!",
+        "In the afternoon, Lucía and her friends play football in the park for an hour. Then they go home and eat the cake. Rocky wants a piece too!"
+      ],
+      "items": [
+        { "q": "Mum makes a chocolate cake.", "tf": true, "a": true },
+        { "q": "Lucía gets an umbrella.", "tf": true, "a": true },
+        { "q": "Lucía and her friends play tennis.", "tf": true, "a": false, "why": "They play football." },
+        { "q": "How old is Lucía?", "a": "She is twelve." },
+        { "q": "What presents does Lucía get?", "a": "A book, an umbrella and a unicorn T-shirt." },
+        { "q": "How long do they play football?", "a": "For an hour." }
+      ]
+    },
+    {
+      "t": "wordsearch", "title": "Sopa de letras", "title_en": "Word search", "icon": "🔎",
+      "es": "Busca las 8 palabras. Después escribe a o an delante de cada una.",
+      "en": "Find the 8 words. Then write a or an in front of each one.",
+      "words": ["apple", "egg", "hour", "umbrella", "uniform", "unicorn", "orange", "elephant"],
+      "clues": ["apple · manzana", "egg · huevo", "hour · hora", "umbrella · paraguas", "uniform · uniforme", "unicorn · unicornio", "orange · naranja", "elephant · elefante"]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe frases sobre ti y tu familia. Usa a, an, the… ¡y a veces nada!",
+      "en": "Write about you and your family.",
+      "items": [
+        { "q": "Escribe 3 cosas que hay en tu mochila con a / an: In my bag I've got…", "lines": 2, "a": "Ej.: In my bag I've got a pencil case, an apple and a book." },
+        { "q": "Escribe 2 cosas que te gustan en general (¡sin the!): I like…", "lines": 1, "a": "Ej.: I like dogs and pizza." },
+        { "q": "¿En qué trabaja alguien de tu familia? My mum / dad is a / an…", "lines": 1, "a": "Ej.: My dad is an engineer." },
+        { "q": "Escribe una frase con a y otra con the sobre la misma cosa.", "lines": 2, "a": "Ej.: I've got a bike. The bike is green." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Elijo <b>a</b> o <b>an</b> escuchando el sonido: an apple, a uniform.", "en": "I choose a or an by the sound." },
+    { "es": "Digo <b>an hour</b> porque la h no suena.", "en": "I say an hour (silent h)." },
+    { "es": "Uso <b>the</b> para cosas concretas: the sun, the door.", "en": "I use the for specific things." },
+    { "es": "Hablo en general sin the: <b>I like dogs</b>.", "en": "I talk in general without the." },
+    { "es": "Pongo a / an con las profesiones: She's <b>a</b> teacher.", "en": "I use a / an with jobs." },
+    { "es": "Digo play football, at school y at home <b>sin artículo</b>.", "en": "I say play football, at school, at home." }
+  ]
+}

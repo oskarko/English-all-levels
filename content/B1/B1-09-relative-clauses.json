@@ -1,0 +1,448 @@
+{
+  "id": "B1-09",
+  "level": "B1",
+  "title": "RELATIVE CLAUSES",
+  "file_title": "Relative clauses",
+  "subtitle": "Relative clauses · who, which, that, where, whose",
+  "icon": "🔗",
+  "map": {
+    "center": "Usamos <b>RELATIVE CLAUSES</b> para decir <b>de qué persona, cosa o lugar</b> hablamos, sin empezar otra frase.",
+    "nodes": [
+      {
+        "title": "WHO → personas", "icon": "🧑",
+        "items": ["The man <b>who</b> called you is my boss.", "<i>(El hombre que te llamó es mi jefe.)</i>"]
+      },
+      {
+        "title": "WHICH → cosas y animales", "icon": "📦",
+        "items": ["The phone <b>which</b> I bought is broken.", "<i>(El móvil que compré está roto.)</i>"]
+      },
+      {
+        "title": "THAT → personas y cosas", "icon": "🔄", "art": "🃏",
+        "items": ["= who / which (más informal)", "The film <b>that</b> we saw was great.", "Everything <b>that</b>… · <s>everything what</s>"]
+      },
+      {
+        "title": "WHERE → lugares", "icon": "📍",
+        "items": ["The café <b>where</b> we met has closed.", "<i>(= donde / en el que)</i>"]
+      },
+      {
+        "title": "WHOSE → posesión", "icon": "🔑",
+        "items": ["The girl <b>whose</b> dog bit me… <i>(cuyo / cuya)</i>", "whose = his / her / their · ≠ <s>who's</s>"]
+      },
+      {
+        "title": "¿Se puede quitar?", "icon": "✂️",
+        "items": ["<b>Sí</b>, si detrás va <b>otro sujeto</b>: the book (that) <b>I</b> read", "<b>No</b>, si es el sujeto: the man <b>who</b> lives here"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["This is the book that I read it."],
+      "good": ["This is the book that I read."],
+      "note": "El relativo ya sustituye a <b>it</b>: no lo repitas"
+    },
+    "mini": {
+      "es": "Completa con who, which, where o whose.",
+      "en": "Complete with who, which, where or whose.",
+      "items": [
+        { "q": "She's the girl ____ won the race.", "a": ["who", "that"] },
+        { "q": "Where's the cake ____ was here?", "a": ["which", "that"] },
+        { "q": "That's the gym ____ I train.", "a": "where" },
+        { "q": "He's the boy ____ dad is a pilot.", "a": "whose" },
+        { "q": "Is this the bus ____ goes to town?", "a": ["which", "that"] }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Una <b>relative clause</b> (oración de relativo) es un trozo de frase que <mark>da información sobre un sustantivo</mark> para dejar claro <b>de quién o de qué</b> hablamos. Empieza por un pronombre relativo: <b>who, which, that, where, whose</b>. En español casi todo es «que»; en inglés hay que elegir según sea <b>persona, cosa, lugar o posesión</b>. Aquí vemos las <b>defining relative clauses</b> (especificativas): sin ellas la frase no se entiende bien, y <b>no llevan comas</b>.",
+      "en": "A <b>relative clause</b> gives information about a noun to make clear <b>who or what</b> we mean. It starts with <b>who, which, that, where or whose</b>. Defining relative clauses have <b>no commas</b>.",
+      "formula": ["sustantivo + *who / which / that / where / whose* + información"]
+    },
+    {
+      "t": "rule", "title": "1 · WHO: personas", "title_en": "who for people", "icon": "🧑", "color": "green",
+      "es": "<b>Who</b> se usa para <b>personas</b>. Puede ser el sujeto (<i>the man who <u>lives</u> here</i>) o el objeto (<i>the man who <u>I</u> met</i>). Truco: si en español puedes decir «<i>la persona que…</i>», usa who.",
+      "en": "Use <b>who</b> for <b>people</b>.",
+      "formula": ["persona + *who* + …"],
+      "examples": [
+        { "en": "The woman <b>who</b> lives next door is a nurse.", "es": "La mujer que vive al lado es enfermera.", "icon": "🏥" },
+        { "en": "I've got a friend <b>who</b> speaks five languages.", "es": "Tengo un amigo que habla cinco idiomas.", "icon": "🗣️" },
+        { "en": "Who's the actor <b>who</b> plays the doctor in that series?", "es": "¿Quién es el actor que hace de médico en esa serie?", "icon": "🎬" }
+      ]
+    },
+    {
+      "t": "table", "title": "Resumen", "title_en": "Summary", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["Relativo · Pronoun", "Para…", "Equivale a", "Ejemplo · Example", "Traducción · Spanish"],
+      "rows": [
+        ["<b>who</b>", "👤 personas", "que / quien", "the man <b>who</b> called", "el hombre que llamó"],
+        ["<b>which</b>", "📦 cosas, animales", "que / el cual", "the bike <b>which</b> I sold", "la bici que vendí"],
+        ["<b>that</b>", "👤 📦 personas y cosas", "que", "the song <b>that</b> won", "la canción que ganó"],
+        ["<b>where</b>", "📍 lugares", "donde / en el que", "the bar <b>where</b> we met", "el bar donde nos conocimos"],
+        ["<b>whose</b>", "🔑 posesión", "cuyo / cuya", "the boy <b>whose</b> mum is a doctor", "el chico cuya madre es médica"]
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · WHICH: cosas y animales", "title_en": "which for things and animals", "icon": "📦", "color": "blue",
+      "es": "<b>Which</b> se usa para <b>cosas, animales e ideas</b>. ¡Nunca para personas! Ojo: aquí <b>which</b> no es una pregunta («¿cuál?»); significa «<i>que / el cual</i>».",
+      "en": "Use <b>which</b> for <b>things, animals and ideas</b>, never for people.",
+      "formula": ["cosa / animal + *which* + …"],
+      "examples": [
+        { "en": "This is the laptop <b>which</b> I bought last week.", "es": "Este es el portátil que compré la semana pasada.", "icon": "💻" },
+        { "en": "We've got a dog <b>which</b> hates cats.", "es": "Tenemos un perro que odia a los gatos.", "icon": "🐕" },
+        { "en": "The train <b>which</b> goes to Bilbao leaves at eight.", "es": "El tren que va a Bilbao sale a las ocho.", "icon": "🚆" }
+      ]
+    },
+    {
+      "t": "rule", "title": "3 · THAT: el comodín", "title_en": "that for people and things", "icon": "🔄", "color": "purple",
+      "es": "<b>That</b> puede sustituir a <b>who</b> y a <b>which</b> en las defining relative clauses. Es muy frecuente al hablar. Después de <b>something, anything, everything, nothing, all</b> y de superlativos (<i>the best film that…</i>) se prefiere <b>that</b>. ¡Y nunca <s>what</s> detrás de un sustantivo!",
+      "en": "<b>That</b> can replace <b>who</b> or <b>which</b>. It's preferred after everything, something, nothing, all and superlatives.",
+      "formula": ["persona / cosa + *that* + …"],
+      "examples": [
+        { "en": "The film <b>that</b> we saw last night was amazing.", "es": "La peli que vimos anoche fue increíble.", "icon": "🍿" },
+        { "en": "She's the teacher <b>that</b> helped me with my project.", "es": "Es la profesora que me ayudó con mi proyecto.", "icon": "🏫" },
+        { "en": "Is there anything <b>that</b> you need?", "es": "¿Hay algo que necesites?", "icon": "🛒" }
+      ]
+    },
+    {
+      "t": "rule", "title": "4 · WHERE: lugares", "title_en": "where for places", "icon": "📍", "color": "orange",
+      "es": "<b>Where</b> se usa para <b>lugares</b> y equivale a «<i>donde / en el que / en la que</i>». Detrás de where va un sujeto + verbo completos: <i>the hotel where <u>we stayed</u></i>. Como ya incluye la idea de «en», no hace falta añadir <s>in</s> al final.",
+      "en": "Use <b>where</b> for <b>places</b> (= in which / at which). It's followed by subject + verb.",
+      "formula": ["lugar + *where* + sujeto + verbo"],
+      "examples": [
+        { "en": "That's the restaurant <b>where</b> we had our first date.", "es": "Ese es el restaurante donde tuvimos nuestra primera cita.", "icon": "🍽️" },
+        { "en": "I'd love to visit the village <b>where</b> my grandparents grew up.", "es": "Me encantaría visitar el pueblo donde se criaron mis abuelos.", "icon": "🏘️" },
+        { "en": "Is this the gym <b>where</b> you train?", "es": "¿Este es el gimnasio donde entrenas?", "icon": "🏋️" }
+      ]
+    },
+    {
+      "t": "rule", "title": "5 · WHOSE: posesión", "title_en": "whose for possession", "icon": "🔑", "color": "pink",
+      "es": "<b>Whose</b> indica <b>posesión</b>: equivale a «<i>cuyo / cuya / cuyos / cuyas</i>» o a «<i>que tiene…</i>». Sustituye a <b>his, her, its, their</b>. Detrás de whose siempre va un <b>sustantivo</b>: <i>whose <u>dog</u>, whose <u>parents</u></i>. ¡No lo confundas con <s>who's</s> (= who is)!",
+      "en": "<b>Whose</b> shows <b>possession</b> (= his / her / their) and is always followed by a noun. Don't confuse it with <i>who's</i> (who is).",
+      "formula": ["sustantivo + *whose* + sustantivo + verbo"],
+      "examples": [
+        { "en": "I've got a friend <b>whose</b> dad is a pilot.", "es": "Tengo un amigo cuyo padre es piloto.", "icon": "✈️" },
+        { "en": "That's the girl <b>whose</b> phone was stolen.", "es": "Esa es la chica a la que le robaron el móvil.", "icon": "📱" },
+        { "en": "We stayed with a family <b>whose</b> house was next to the beach.", "es": "Nos quedamos con una familia cuya casa estaba al lado de la playa.", "icon": "🏖️" }
+      ]
+    },
+    {
+      "t": "rule", "title": "6 · ¿Cuándo se puede quitar?", "title_en": "Leaving out the pronoun", "icon": "✂️", "color": "teal",
+      "es": "Mira <mark>qué viene justo después</mark> del relativo. Si viene un <b>sujeto + verbo</b> (I, you, she, my friend…), el relativo es el <b>objeto</b> y se puede <b>quitar</b>: <i>the book (that) <u>I</u> read</i>. Si viene directamente un <b>verbo</b>, el relativo es el <b>sujeto</b> y es <b>obligatorio</b>: <i>the man who <u>lives</u> here</i>. <b>Whose</b> nunca se quita.",
+      "en": "If the pronoun is the <b>object</b> (followed by subject + verb), you can leave it out. If it's the <b>subject</b> (followed by a verb), you must keep it.",
+      "formula": ["sustantivo + *(that)* + sujeto + verbo → se puede quitar", "sustantivo + *who / that* + verbo → obligatorio"],
+      "examples": [
+        { "en": "The jacket (<b>that</b>) <u>I</u> bought was on sale.", "es": "La chaqueta que compré estaba rebajada.", "icon": "🧥" },
+        { "en": "The people (<b>who</b>) <u>we</u> met in Rome were really friendly.", "es": "La gente que conocimos en Roma era muy simpática.", "icon": "🍕" },
+        { "en": "The man <b>who</b> <u>lives</u> upstairs is very noisy. <i>(¡no se quita!)</i>", "es": "El hombre que vive arriba es muy ruidoso.", "icon": "🔊" }
+      ]
+    },
+    {
+      "t": "table", "title": "La preposición, al final", "title_en": "Prepositions at the end", "icon": "📌", "color": "yellow",
+      "head": ["Inglés natural · English", "Español"],
+      "rows": [
+        ["the girl (who) I was talking <b>to</b>", "la chica <b>con la que</b> hablaba"],
+        ["the flat (that) I live <b>in</b>", "el piso <b>en el que</b> vivo"],
+        ["the music (that) she listens <b>to</b>", "la música <b>que</b> escucha"],
+        ["the friend (who) I went <b>with</b>", "el amigo <b>con el que</b> fui"],
+        ["the job (which) he applied <b>for</b>", "el trabajo <b>al que</b> se presentó"]
+      ],
+      "note": "En español la preposición va delante («<i>con la que</i>»). En el inglés de todos los días se queda <mark>al final</mark>, pegada a su verbo.",
+      "note_en": "In everyday English, the preposition goes at the end."
+    },
+    {
+      "t": "compare", "title": "¿Sujeto u objeto?", "title_en": "Subject or object?", "color": "blue", "icon": "⚖️", "wide": true,
+      "es": "El mismo «que» del español puede ser <b>sujeto</b> u <b>objeto</b> en inglés. Solo se puede quitar cuando es <mark>objeto</mark>.",
+      "en": "You can only leave out the pronoun when it is the <b>object</b>.",
+      "cols": [
+        { "head": "🔒 Sujeto · obligatorio", "color": "red", "items": ["the girl <b>who</b> <u>won</u> the race", "the app <b>that</b> <u>helps</u> you sleep", "the bus <b>which</b> <u>goes</u> to the airport"] },
+        { "head": "✂️ Objeto · se puede quitar", "color": "green", "items": ["the girl (<b>who</b>) <u>I</u> met", "the app (<b>that</b>) <u>I</u> use", "the bus (<b>which</b>) <u>we</u> took"] }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "The guy <b>who</b> sits next to me at work is from Peru.", "es": "El chico que se sienta a mi lado en el trabajo es de Perú.", "icon": "💼" },
+        { "en": "This is the song <b>that</b> was number one all summer.", "es": "Esta es la canción que fue número uno todo el verano.", "icon": "🎵" },
+        { "en": "I can't find the charger (<b>that</b>) I bought yesterday.", "es": "No encuentro el cargador que compré ayer.", "icon": "🔌" },
+        { "en": "Do you know a place <b>where</b> we can eat cheaply?", "es": "¿Conoces algún sitio donde podamos comer barato?", "icon": "🌮" },
+        { "en": "She's the influencer <b>whose</b> videos went viral.", "es": "Es la influencer cuyos vídeos se hicieron virales.", "icon": "📹" },
+        { "en": "The players (<b>who</b>) the coach chose were all under 21.", "es": "Los jugadores que eligió el entrenador eran todos sub-21.", "icon": "⚽" },
+        { "en": "There's a new series <b>which</b> takes place in Madrid.", "es": "Hay una serie nueva que transcurre en Madrid.", "icon": "📺" },
+        { "en": "Everything (<b>that</b>) he said was true.", "es": "Todo lo que dijo era verdad.", "icon": "✅" },
+        { "en": "Have you got a friend <b>who</b> can help us move?", "es": "¿Tienes algún amigo que nos pueda ayudar con la mudanza?", "icon": "📦" },
+        { "en": "The hotel (<b>that</b>) we booked had a rooftop pool.", "es": "El hotel que reservamos tenía piscina en la azotea.", "icon": "🏨" },
+        { "en": "I met a woman <b>whose</b> son plays for Real Betis.", "es": "Conocí a una mujer cuyo hijo juega en el Betis.", "icon": "🏟️" },
+        { "en": "That's the hospital <b>where</b> I was born.", "es": "Ese es el hospital donde nací.", "icon": "👶" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "trampas", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "The film what I saw was great.", "good": "The film <b>that</b> I saw was great.", "why": "Detrás de un sustantivo, nunca what.", "why_en": "No what after a noun." },
+        { "bad": "This is the book that I read it.", "good": "This is the book that I <b>read</b>.", "why": "El relativo ya sustituye a it: no lo repitas.", "why_en": "Don't repeat the object." },
+        { "bad": "The man which lives here is a doctor.", "good": "The man <b>who</b> lives here is a doctor.", "why": "Personas → who (o that), no which.", "why_en": "People → who." },
+        { "bad": "The girl who she won is my cousin.", "good": "The girl <b>who won</b> is my cousin.", "why": "Who ya es el sujeto: sobra she.", "why_en": "Don't repeat the subject." },
+        { "bad": "That's the boy who's dad is a pilot.", "good": "That's the boy <b>whose</b> dad is a pilot.", "why": "who's = who is. Posesión → whose.", "why_en": "whose, not who's." },
+        { "bad": "The town where I was born in is small.", "good": "The town <b>where</b> I was born is small.", "why": "Where ya significa «en el que»: sobra in.", "why_en": "where already means «in which»." },
+        { "bad": "The woman lives next door is a nurse.", "good": "The woman <b>who</b> lives next door is a nurse.", "why": "Es sujeto: no se puede quitar.", "why_en": "A subject pronoun can't be left out." },
+        { "bad": "Everything what you need is here.", "good": "Everything <b>(that)</b> you need is here.", "why": "«Todo lo que» = everything (that).", "why_en": "everything (that), not what." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Cómo construyo la frase?", "title_en": "How do I build it?", "color": "orange",
+      "items": [
+        { "es": "Busca el <b>sustantivo</b> del que das información (the man, the phone, the café…).", "en": "Find the noun you are describing." },
+        { "es": "Elige: persona → <b>who</b> · cosa / animal → <b>which</b> · lugar → <b>where</b> · posesión → <b>whose</b> + sustantivo. (<b>that</b> vale para personas y cosas.)", "en": "Choose who / which / where / whose (or that)." },
+        { "es": "Añade la información <b>sin repetir</b> el sujeto ni el objeto (<s>it, him, she</s>).", "en": "Don't repeat the subject or object." },
+        { "es": "¿Detrás del relativo hay sujeto + verbo? Puedes quitarlo: <i>the film I saw</i>.", "en": "Object pronoun → you can leave it out." },
+        { "es": "Sin comas: las defining relative clauses no llevan comas.", "en": "No commas in defining relative clauses." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "¿Quién es quién?", "title_en": "Who's who?",
+      "lines": [
+        { "who": "Ana", "en": "Look at this photo from Laura's party. Do you know everyone?", "es": "Mira esta foto de la fiesta de Laura. ¿Conoces a todos?" },
+        { "who": "Lucas", "en": "Not really. Who's the guy who's wearing the red jacket?", "es": "La verdad es que no. ¿Quién es el chico que lleva la chaqueta roja?" },
+        { "who": "Ana", "en": "That's Pablo, the friend I told you about. He's the one whose band played at the festival.", "es": "Es Pablo, el amigo del que te hablé. Es el del grupo que tocó en el festival." },
+        { "who": "Lucas", "en": "Oh, cool! And the girl who's standing next to him?", "es": "¡Ah, qué guay! ¿Y la chica que está a su lado?" },
+        { "who": "Ana", "en": "That's Marta. She works at the café where we had breakfast on Sunday.", "es": "Es Marta. Trabaja en la cafetería donde desayunamos el domingo." },
+        { "who": "Lucas", "en": "Really? The café that makes those amazing pancakes?", "es": "¿En serio? ¿La cafetería que hace esas tortitas increíbles?" },
+        { "who": "Ana", "en": "Exactly! She's the person who makes them.", "es": "¡Exacto! Ella es la que las hace." },
+        { "who": "Lucas", "en": "Then she's definitely someone I want to meet!", "es": "¡Entonces es alguien a quien quiero conocer, sin duda!" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco: ¿quién, qué, dónde, de quién?", "title_en": "Quick test",
+      "es": "Antes de elegir, pregúntate: ¿<b>quién</b>? → who. ¿<b>qué</b>? → which. ¿<b>dónde</b>? → where. ¿<b>de quién</b>? → whose. Si dudas entre who y which, usa <b>that</b>… ¡pero nunca <s>what</s> detrás de un sustantivo! Y fíjate en el diálogo: <i>who's</i> (= who is) y <i>whose</i> suenan igual, pero no son lo mismo.",
+      "en": "Who? → who. What? → which. Where? → where. Whose? → whose. In doubt: that (never what)."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose", "title": "Rodea el relativo correcto", "title_en": "Circle the correct pronoun", "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "The woman [who|which] lives next door is French.", "a": "who" },
+        { "q": "I lost the keys [who|which] you gave me.", "a": "which" },
+        { "q": "That's the beach [where|which] we met.", "a": "where" },
+        { "q": "He's the singer [whose|who's] songs I love.", "a": "whose" },
+        { "q": "Is this the train [who|that] goes to Seville?", "a": "that" },
+        { "q": "I've got a cousin [who|where] works in Dublin.", "a": "who" },
+        { "q": "The restaurant [where|which] we had dinner was expensive.", "a": "where" },
+        { "q": "Everything [that|what] she said was a lie.", "a": "that" },
+        { "q": "The boy [whose|who] bike was stolen called the police.", "a": "whose" },
+        { "q": "The app [which|where] I use for running is free.", "a": "which" }
+      ]
+    },
+    {
+      "t": "match", "title": "Definiciones", "title_en": "Match the definitions", "icon": "🔗",
+      "es": "Une cada palabra con su definición. Fíjate en el relativo: ¿persona, cosa, lugar o posesión?",
+      "en": "Match each word with its definition.",
+      "pairs": [
+        ["a chef", "a person who cooks in a restaurant"],
+        ["a kitchen", "a room where you cook"],
+        ["a fridge", "a machine which keeps food cold"],
+        ["a vegetarian", "a person who doesn't eat meat"],
+        ["a library", "a place where you can borrow books"],
+        ["a passport", "a document which you need to travel abroad"],
+        ["a goalkeeper", "a player who stops the ball"],
+        ["a celebrity", "a person whose face everyone knows"]
+      ]
+    },
+    {
+      "t": "classify", "title": "¿Qué relativo falta?", "title_en": "Which pronoun is missing?", "icon": "🗂️",
+      "es": "Lee cada trozo y escríbelo en la caja del relativo que falta (…).",
+      "en": "Write each phrase in the box of the missing pronoun.",
+      "cats": [
+        { "name": "who", "words": ["a nurse … works at night", "the boy … sits next to me", "a friend … lives in Rome"] },
+        { "name": "which", "words": ["the keys … I lost", "a parrot … can talk", "the song … won Eurovision"] },
+        { "name": "where", "words": ["the beach … we swam", "the gym … I train", "the town … she grew up"] },
+        { "name": "whose", "words": ["a girl … dad is a pilot", "the man … car was stolen", "a band … songs I love"] }
+      ]
+    },
+    {
+      "t": "fill", "title": "WHO, WHICH, WHERE o WHOSE", "title_en": "who, which, where or whose", "icon": "✏️",
+      "es": "Completa con who, which, where o whose. (Donde vale that, también lo aceptamos.)",
+      "en": "Complete with who, which, where or whose.",
+      "bank": ["who", "which", "where", "whose"],
+      "items": [
+        { "q": "A dentist is a person ____ looks after your teeth.", "a": ["who", "that"] },
+        { "q": "This is the café ____ I usually have breakfast.", "a": "where" },
+        { "q": "I've got a friend ____ brother is a famous footballer.", "a": "whose" },
+        { "q": "Where's the book ____ was on the table?", "a": ["which", "that"] },
+        { "q": "Madrid is the city ____ I was born.", "a": "where" },
+        { "q": "The girl ____ phone I borrowed is in my class.", "a": "whose" },
+        { "q": "Do you know anyone ____ can fix computers?", "a": ["who", "that"] },
+        { "q": "They live in a house ____ has a huge garden.", "a": ["which", "that"] },
+        { "q": "That's the shop ____ I bought my trainers.", "a": "where" },
+        { "q": "The man ____ car was blocking the road was very rude.", "a": "whose" }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Se puede quitar?", "title_en": "Can you leave it out?", "icon": "✂️",
+      "es": "¿Se puede quitar la palabra en negrita? Marca T (sí, se puede) o F (no, es obligatoria).",
+      "en": "Can you leave out the word in bold? T = yes, F = no.",
+      "items": [
+        { "q": "The film <b>that</b> we watched was boring.", "a": true },
+        { "q": "The man <b>who</b> lives upstairs is a chef.", "a": false, "why": "Es sujeto (who lives)." },
+        { "q": "Is this the bag <b>which</b> you lost?", "a": true },
+        { "q": "I've got a friend <b>who</b> plays the drums.", "a": false, "why": "Es sujeto (who plays)." },
+        { "q": "The pizza <b>that</b> we ordered was cold.", "a": true },
+        { "q": "That's the girl <b>whose</b> sister is a singer.", "a": false, "why": "Whose nunca se quita." },
+        { "q": "The people <b>who</b> I work with are great.", "a": true },
+        { "q": "The bus <b>that</b> goes to the airport is the number 7.", "a": false, "why": "Es sujeto (that goes)." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Une las frases", "title_en": "Join the sentences", "icon": "🔗",
+      "es": "Une las dos frases con who, which, that, where o whose. ¡No repitas it, she, there ni his / her!",
+      "en": "Join the two sentences with a relative pronoun.",
+      "items": [
+        { "q": "I've got a friend. She lives in Dublin.", "a": "I've got a friend who lives in Dublin." },
+        { "q": "This is the phone. I bought it in Tokyo.", "a": "This is the phone (that / which) I bought in Tokyo." },
+        { "q": "That's the hotel. We stayed there last summer.", "a": "That's the hotel where we stayed last summer." },
+        { "q": "I met a man. His dog can skateboard.", "a": "I met a man whose dog can skateboard." },
+        { "q": "The film was boring. We watched it last night.", "a": "The film (that / which) we watched last night was boring." },
+        { "q": "The woman is my aunt. She is talking to my dad.", "a": "The woman who is talking to my dad is my aunt." },
+        { "q": "Where is the cake? It was in the fridge.", "a": "Where is the cake that / which was in the fridge?" },
+        { "q": "That's the singer. Her songs are everywhere on social media.", "a": "That's the singer whose songs are everywhere on social media." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Quita el relativo si puedes", "title_en": "Leave it out if you can", "icon": "✂️",
+      "es": "Reescribe la frase sin el relativo. Si no se puede quitar, escribe «No se puede» y explica por qué.",
+      "en": "Rewrite without the relative pronoun, if possible.",
+      "items": [
+        { "q": "The book that I'm reading is fantastic.", "a": "The book I'm reading is fantastic." },
+        { "q": "The man who called you is my boss.", "a": "No se puede: es sujeto (who called)." },
+        { "q": "The pizza which we ordered was cold.", "a": "The pizza we ordered was cold." },
+        { "q": "The people who we met in Lisbon were very friendly.", "a": "The people we met in Lisbon were very friendly." },
+        { "q": "The app that tells you the weather is free.", "a": "No se puede: es sujeto (that tells)." },
+        { "q": "Is this the jacket that you want?", "a": "Is this the jacket you want?" },
+        { "q": "That's the girl whose dog bit me.", "a": "No se puede: whose nunca se quita." },
+        { "q": "The match that we watched was boring.", "a": "The match we watched was boring." }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Construye la frase", "title_en": "Build the phrase", "icon": "📋", "wide": true,
+      "es": "Une el sustantivo y la información con un relativo. Pon entre paréntesis el relativo si se puede quitar.",
+      "en": "Join the noun and the information with a relative pronoun.",
+      "head": ["Sustantivo · Noun", "Información · Information", "Con relativo · With a relative pronoun"],
+      "rows": [
+        ["the girl", "she sits next to me", "?the girl who sits next to me"],
+        ["the bike", "I bought it last year", "?the bike (that / which) I bought last year"],
+        ["the park", "we play football there", "?the park where we play football"],
+        ["the man", "his car is red", "?the man whose car is red"],
+        ["the series", "everybody is talking about it", "?the series (that) everybody is talking about"],
+        ["the friends", "they came to my party", "?the friends who came to my party"],
+        ["the village", "my mum grew up there", "?the village where my mum grew up"],
+        ["the teacher", "her classes are fun", "?the teacher whose classes are fun"],
+        ["the app", "it translates voice messages", "?the app which / that translates voice messages"],
+        ["the people", "I work with them", "?the people (who) I work with"]
+      ]
+    },
+    {
+      "t": "fill", "title": "La preposición al final", "title_en": "Preposition at the end", "icon": "📌",
+      "es": "Completa con la preposición que falta al final: to, in, for, with, from o about.",
+      "en": "Complete with the missing preposition.",
+      "bank": ["to", "in", "for", "with", "from", "about"],
+      "items": [
+        { "q": "This is the flat I live ____.", "a": "in" },
+        { "q": "Who's the girl you were talking ____?", "a": "to" },
+        { "q": "The music she listens ____ is really loud.", "a": "to" },
+        { "q": "That's the job he applied ____.", "a": "for" },
+        { "q": "The friend I went on holiday ____ is Italian.", "a": "with" },
+        { "q": "Is this the key you were looking ____?", "a": "for" },
+        { "q": "The town she comes ____ is near the coast.", "a": "from" },
+        { "q": "The film we were talking ____ won an Oscar.", "a": "about" }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las fichas y escribe la frase. La ficha con mayúscula va al principio.",
+      "en": "Put the words in order. The tile with a capital letter goes first.",
+      "items": [
+        { "q": "who / The girl / is / lives / next door / my cousin", "a": "The girl who lives next door is my cousin." },
+        { "q": "is / This / the phone / I / bought / which / yesterday", "a": "This is the phone which I bought yesterday." },
+        { "q": "where / That's / we / the café / met", "a": "That's the café where we met." },
+        { "q": "a friend / I / whose / have / dad / is / a pilot", "a": "I have a friend whose dad is a pilot." },
+        { "q": "Do / know / you / anyone / can / who / cook / ?", "a": "Do you know anyone who can cook?" },
+        { "q": "The film / we / boring / saw / was", "a": "The film we saw was boring." },
+        { "q": "Everything / is / true / said / he", "a": "Everything he said is true." },
+        { "q": "Is / the bus / goes / this / that / to the airport / ?", "a": "Is this the bus that goes to the airport?" }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "The man which lives next door is a pilot.", "a": "The man who lives next door is a pilot." },
+        { "q": "This is the song what I love.", "a": "This is the song that / which I love." },
+        { "q": "That's the girl who's brother is in my class.", "a": "That's the girl whose brother is in my class." },
+        { "q": "The film that I saw it was amazing.", "a": "The film that I saw was amazing." },
+        { "q": "The woman works in the bakery is very nice.", "a": "The woman who works in the bakery is very nice." },
+        { "q": "Barcelona is the city where I live in.", "a": "Barcelona is the city where I live." },
+        { "q": "The students who they passed got a prize.", "a": "The students who passed got a prize." },
+        { "q": "All what you need is love.", "a": "All (that) you need is love." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Antes de escribir «que», piensa: ¿persona, cosa, lugar o posesión? ¿Se puede quitar?",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "La chica que vive al lado es enfermera.", "a": "The girl who / that lives next door is a nurse." },
+        { "q": "Este es el móvil que compré en Londres.", "a": "This is the phone (that / which) I bought in London." },
+        { "q": "Ese es el bar donde nos conocimos.", "a": "That's the bar where we met." },
+        { "q": "Tengo un amigo cuyo padre es actor.", "a": "I've got a friend whose dad / father is an actor." },
+        { "q": "Todo lo que dijo Pablo era mentira.", "a": "Everything (that) Pablo said was a lie." },
+        { "q": "¿Conoces a alguien que hable japonés?", "a": "Do you know anyone who / that speaks Japanese?" },
+        { "q": "La película que vimos ayer era muy larga.", "a": "The film (that / which) we saw yesterday was very long." },
+        { "q": "El pueblo donde nació mi abuela es muy pequeño.", "a": "The village where my grandmother was born is very small." },
+        { "q": "Es la app que uso para aprender inglés.", "a": "It's the app (that / which) I use to learn English." },
+        { "q": "La gente con la que trabajo es muy simpática.", "a": "The people (who) I work with are very nice." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el blog de Irene. Marca T (verdadero) o F (falso) y contesta las preguntas con frases completas.",
+      "en": "Read Irene's blog. Tick T or F and answer the questions.",
+      "text_title": "My Erasmus year in Dublin",
+      "text": [
+        "I'm Irene and I'm studying in Dublin this year. I share a flat with three students who come from different countries. The flat (that) we rent is small, but it's in an area where there are lots of cafés and shops.",
+        "The person who helped me most at the beginning was Ahmed, the flatmate whose room is next to mine. He showed me the supermarket where you can buy Spanish food and the bus that goes straight to the university.",
+        "My favourite place is a small bookshop where they sell second-hand books. The owner is an old man who knows everything about Irish writers. The thing I miss most is my mum's cooking, but the friends I've made here are amazing!"
+      ],
+      "items": [
+        { "q": "Irene shares her flat with students who are all from Spain.", "tf": true, "a": false, "why": "They come from different countries." },
+        { "q": "The flat is in an area where there are lots of cafés.", "tf": true, "a": true },
+        { "q": "Ahmed's room is next to Irene's.", "tf": true, "a": true },
+        { "q": "Who helped Irene most at the beginning?", "a": "Ahmed, the flatmate whose room is next to hers." },
+        { "q": "What two things did Ahmed show her?", "a": "The supermarket where you can buy Spanish food and the bus that goes to the university." },
+        { "q": "What is Irene's favourite place?", "a": "A small bookshop where they sell second-hand books." },
+        { "q": "What does the owner of the bookshop know about?", "a": "He knows everything about Irish writers." },
+        { "q": "What does Irene miss most?", "a": "She misses her mum's cooking." }
+      ]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe frases sobre tu mundo con relative clauses.",
+      "en": "Write about your world with relative clauses.",
+      "items": [
+        { "q": "Define 2 palabras con who / which / where: <i>a teacher, a museum…</i>", "lines": 2, "a": "Ej.: A teacher is a person who helps you learn. A museum is a place where you can see art." },
+        { "q": "Describe a una persona importante para ti: <b>… is the person who …</b>", "lines": 1, "a": "Ej.: My aunt is the person who makes me laugh the most." },
+        { "q": "Escribe sobre un lugar especial: <b>… is the place where …</b>", "lines": 1, "a": "Ej.: My grandparents' village is the place where I spent every summer." },
+        { "q": "Escribe 2 frases con <b>whose</b> sobre gente que conoces.", "lines": 2, "a": "Ej.: I've got a friend whose sister is a famous gamer. My neighbour is a man whose dog barks all night." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé usar <b>who</b> (personas), <b>which</b> (cosas) y <b>that</b> (las dos).", "en": "I can use who, which and that." },
+    { "es": "Sé usar <b>where</b> para lugares y <b>whose</b> para posesión.", "en": "I can use where and whose." },
+    { "es": "Sé cuándo se puede <b>quitar</b> el relativo (cuando es objeto).", "en": "I know when I can leave out the pronoun." },
+    { "es": "No repito el sujeto ni el objeto: <s>the book that I read it</s>.", "en": "I don't repeat the subject or object." },
+    { "es": "Nunca uso <s>what</s> detrás de un sustantivo.", "en": "I never use what after a noun." },
+    { "es": "Pongo la preposición al final: the flat I live <b>in</b>.", "en": "I put the preposition at the end." }
+  ]
+}

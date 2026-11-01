@@ -1,0 +1,776 @@
+{
+  "id": "B2-09",
+  "level": "B2",
+  "title": "PHRASAL VERBS",
+  "file_title": "Phrasal verbs",
+  "subtitle": "Phrasal verbs · verbos con partícula",
+  "icon": "🧩",
+  "map": {
+    "center": "Un <b>PHRASAL VERB</b> = verbo + <b>partícula</b> (up, off, out…). ¡Juntos significan algo nuevo!",
+    "nodes": [
+      {
+        "title": "¿Qué son?",
+        "icon": "🔎",
+        "rows": [["give", "= dar"], ["give up", "= rendirse, dejar"], ["look", "= mirar"], ["look after", "= cuidar"]],
+        "after": "¡La partícula <em>cambia</em> el significado!"
+      },
+      {
+        "title": "Separables",
+        "icon": "✂️",
+        "items": ["Turn <b>off</b> the TV. ✓", "Turn the TV <b>off</b>. ✓", "El nombre puede ir en medio o detrás."]
+      },
+      {
+        "title": "Pronombre en medio",
+        "icon": "🎯",
+        "art": "📺",
+        "items": ["Turn <b>it</b> off. ✓ <s>Turn off it.</s> ✗", "Pick <b>me</b> up at six. ✓", "it, them, me, him, her, us → ¡en medio!"]
+      },
+      {
+        "title": "Inseparables",
+        "icon": "🔗",
+        "items": ["look after, come across, run into…", "She looks after <b>her son</b>. ✓", "She looks after <b>him</b>. ✓ <s>looks him after</s>"]
+      },
+      {
+        "title": "Sin objeto",
+        "icon": "🚶",
+        "art": "🚗",
+        "items": ["get up, break down, grow up, set off", "The car <b>broke down</b>. <i>(Se averió.)</i>"]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "items": [
+          "Apréndelos por <b>temas</b> y con un ejemplo.",
+          "3 palabras: nunca se separan: run out <b>of it</b>.",
+          "Registro formal: find out = <b>discover</b>"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["Can you pick up me at six?"],
+      "good": ["Can you pick me up at six?"],
+      "note": "Pronombre → <b>en medio</b>: pick <b>me</b> up"
+    },
+    "mini": {
+      "es": "Completa con la partícula correcta.",
+      "en": "Complete with the correct particle.",
+      "items": [
+        {"q": "Please turn ___ the music. It's loud!", "a": "down"},
+        {"q": "I gave ___ smoking last year.", "a": "up"},
+        {"q": "Can you look ___ my cat this weekend?", "a": "after"},
+        {"q": "We set ___ at 6 a.m. to beat the traffic.", "a": "off"},
+        {"q": "Fill ___ this form, please.", "a": ["in", "out"]}
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Un <b>phrasal verb</b> es un verbo + una <b>partícula</b> (up, down, in, out, on, off, away, back, over…). La partícula <mark>cambia el significado</mark>, a veces por completo: <b>give</b> = dar, pero <b>give up</b> = rendirse / dejar de. Algunos son <b>literales</b> (<i>sit down, go out</i>), otros añaden una idea (<i>eat up</i> = comérselo todo) y muchos son <b>idiomáticos</b> (<i>put up with</i> = aguantar). Son muy frecuentes al hablar y en el B2 First (Use of English).",
+      "en": "A <b>phrasal verb</b> is a verb + a <b>particle</b>. The particle <mark>changes the meaning</mark>: give = dar, give up = rendirse. Some are literal; many are idiomatic.",
+      "formula": ["*verbo* + *partícula* = significado nuevo", "look + after = cuidar · give + up = rendirse"]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Sin objeto (intransitivos)",
+      "title_en": "No object (intransitive)",
+      "icon": "🚶",
+      "color": "green",
+      "es": "No llevan objeto detrás y nunca se separan: <i>get up, wake up, break down, grow up, set off, take off (despegar), turn up (aparecer)</i>. Detrás puede venir un complemento (<i>at 7, in Madrid</i>), pero no un objeto directo.",
+      "en": "They don't take an object and are never separated: get up, break down, grow up, set off.",
+      "formula": ["sujeto + *verbo + partícula* (+ complemento)"],
+      "examples": [
+        {"en": "The plane <b>took off</b> two hours late.", "es": "El avión despegó con dos horas de retraso.", "icon": "🛫"},
+        {"en": "My car <b>broke down</b> on the motorway.", "es": "Mi coche se averió en la autopista.", "icon": "🚗"},
+        {"en": "She <b>grew up</b> in a small village near Burgos.", "es": "Se crió en un pueblo cerca de Burgos.", "icon": "🏡"}
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco: aprende en paquetes",
+      "title_en": "Learn them in packs",
+      "es": "No memorices listas sueltas. Aprende cada phrasal verb <b>por temas</b>, con una <b>frase de ejemplo</b> y su <b>sinónimo formal</b>: <i>find out = discover, put off = postpone, carry on = continue, set up = establish, look into = investigate</i>. En un texto formal (informe, carta de reclamación) el sinónimo formal suele quedar mejor; en conversación y emails informales, el phrasal verb. ¡Ventaja hispana: el formal se parece al español!",
+      "en": "Learn phrasal verbs by topic, with an example and a formal synonym (find out = discover)."
+    },
+    {
+      "t": "rule",
+      "title": "2 · Separables",
+      "title_en": "Separable",
+      "icon": "✂️",
+      "color": "blue",
+      "es": "Llevan objeto, y si el objeto es un <b>nombre</b> puede ir <b>detrás</b> de la partícula o <b>en medio</b>. Las dos opciones son correctas: <i>Turn off the light / Turn the light off</i>. Si el objeto es largo, mejor detrás: <i>Turn off all the lights in the house</i>.",
+      "en": "They take an object. A noun object can go after the particle or in the middle: Turn off the light / Turn the light off.",
+      "formula": ["verbo + partícula + *nombre*", "verbo + *nombre* + partícula"],
+      "examples": [
+        {"en": "Can you <b>turn off</b> the lights? / Can you <b>turn</b> the lights <b>off</b>?", "es": "¿Puedes apagar las luces?", "icon": "💡"},
+        {"en": "<b>Fill in</b> the form. / <b>Fill</b> the form <b>in</b>.", "es": "Rellena el formulario.", "icon": "📋"},
+        {
+          "en": "I need to <b>pick up</b> my sister. / I need to <b>pick</b> my sister <b>up</b>.",
+          "es": "Tengo que recoger a mi hermana.",
+          "icon": "🏫"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¡El pronombre va en medio!",
+      "title_en": "Pronouns go in the middle!",
+      "color": "purple",
+      "icon": "🎯",
+      "es": "Con los <b>separables</b>, un <b>pronombre</b> (it, them, me, him, her, us) <mark>va siempre en medio</mark>. Con los <b>inseparables</b>, va <b>detrás</b>. En el diccionario: <i>turn sth off</i> (separable) · <i>look after sb</i> (inseparable).",
+      "en": "Separable: pronoun in the middle. Inseparable: pronoun after the particle.",
+      "cols": [
+        {
+          "head": "✂️ Separable: pronombre EN MEDIO",
+          "color": "green",
+          "items": ["Turn <b>it</b> off. ✓ <s>Turn off it.</s>", "I'll pick <b>you</b> up at eight.", "Can I try <b>them</b> on?"]
+        },
+        {
+          "head": "🔗 Inseparable: pronombre DETRÁS",
+          "color": "orange",
+          "items": ["Look after <b>her</b>. ✓ <s>Look her after.</s>", "I ran into <b>him</b> yesterday.", "We've run out of <b>it</b>."]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Inseparables y de tres palabras",
+      "title_en": "Inseparable and three-part verbs",
+      "icon": "🔗",
+      "color": "orange",
+      "es": "Algunos verbos <b>no se separan nunca</b>: el objeto (también el pronombre) va siempre <b>detrás</b>: <i>look after, come across, run into, get over, look into</i>. Los de <b>tres palabras</b> tampoco se separan: <i>look forward to, get on with, run out of, put up with, come up with</i>. ¡Ojo! En <i>look forward to</i>, <b>to</b> es preposición → verbo en <b>-ing</b>.",
+      "en": "Inseparable verbs never split: the object always goes after. Three-part verbs never split either. After <i>look forward to</i>, use -ing.",
+      "formula": ["verbo + partícula + *objeto / pronombre*", "verbo + partícula + preposición + *objeto / -ing*"],
+      "examples": [
+        {"en": "Who <b>looks after</b> your kids when you're at work?", "es": "¿Quién cuida a tus hijos cuando estás en el trabajo?", "icon": "👶"},
+        {"en": "I <b>ran into</b> my ex at the supermarket.", "es": "Me encontré a mi ex en el súper.", "icon": "🛒"},
+        {"en": "I'm <b>looking forward to</b> seeing you!", "es": "¡Tengo muchas ganas de verte!", "icon": "🤗"}
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {"en": "I've decided to <b>give up</b> sugar for a month.", "es": "He decidido dejar el azúcar durante un mes.", "icon": "🍬"},
+        {
+          "en": "Could you <b>turn</b> the heating <b>down</b>? It's boiling in here.",
+          "es": "¿Puedes bajar la calefacción? Aquí hace un calor horrible.",
+          "icon": "🌡️"
+        },
+        {"en": "We <b>ran out of</b> petrol on the way to the airport.", "es": "Nos quedamos sin gasolina de camino al aeropuerto.", "icon": "⛽"},
+        {
+          "en": "My boss has <b>put off</b> the meeting until next week.",
+          "es": "Mi jefe ha aplazado la reunión hasta la semana que viene.",
+          "icon": "📅"
+        },
+        {
+          "en": "I <b>came across</b> this amazing café while I was walking around Lisbon.",
+          "es": "Encontré por casualidad este café increíble paseando por Lisboa.",
+          "icon": "☕"
+        },
+        {
+          "en": "She <b>turned down</b> a job in London to stay near her family.",
+          "es": "Rechazó un trabajo en Londres para quedarse cerca de su familia.",
+          "icon": "🙅"
+        },
+        {"en": "Can you <b>look after</b> my plants while I'm away?", "es": "¿Puedes cuidarme las plantas mientras estoy fuera?", "icon": "🪴"},
+        {"en": "I don't <b>get on</b> with my new manager.", "es": "No me llevo bien con mi nuevo jefe.", "icon": "😒"},
+        {
+          "en": "We need to <b>sort out</b> this problem before Friday.",
+          "es": "Tenemos que solucionar este problema antes del viernes.",
+          "icon": "🛠️"
+        },
+        {"en": "How did you <b>find out</b> about the surprise party?", "es": "¿Cómo te enteraste de la fiesta sorpresa?", "icon": "🎉"},
+        {"en": "It took me weeks to <b>get over</b> the break-up.", "es": "Tardé semanas en superar la ruptura.", "icon": "💔"},
+        {"en": "The tickets <b>sold out</b> in less than an hour.", "es": "Las entradas se agotaron en menos de una hora.", "icon": "🎫"},
+        {"en": "I'm <b>looking forward to</b> meeting your parents.", "es": "Tengo ganas de conocer a tus padres.", "icon": "🤝"},
+        {
+          "en": "This jacket doesn't fit. I'm going to <b>take</b> it <b>back</b>.",
+          "es": "Esta chaqueta no me queda bien. La voy a devolver.",
+          "icon": "🧥"
+        },
+        {
+          "en": "Please <b>fill in</b> this form and <b>hand</b> it <b>in</b> at reception.",
+          "es": "Rellene este formulario y entréguelo en recepción.",
+          "icon": "📝"
+        },
+        {"en": "We <b>set off</b> at dawn to avoid the heat.", "es": "Salimos al amanecer para evitar el calor.", "icon": "🌅"}
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Dónde pongo el objeto?",
+      "title_en": "Where does the object go?",
+      "color": "orange",
+      "items": [
+        {"es": "¿Lleva <b>objeto</b>? Si no → sin objeto: <i>The car broke down.</i>", "en": "No object? → The car broke down."},
+        {
+          "es": "¿Es <b>separable</b>? Mira el diccionario: <i>turn sth off</i> (sth en medio = separable), <i>look after sb</i> (sb detrás = inseparable).",
+          "en": "Check the dictionary: turn sth off vs look after sb."
+        },
+        {"es": "¿El objeto es un <b>pronombre</b>? → en medio si es separable: <i>turn it off</i>.", "en": "Pronoun + separable → turn it off."},
+        {"es": "¿Es de <b>tres palabras</b>? → nunca se separa: <i>run out of it</i>.", "en": "Three-part verbs never split."},
+        {"es": "¿Detrás de una preposición (look forward <b>to</b>)? → verbo en <b>-ing</b>.", "en": "After a preposition → -ing."}
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "Turn off it, please.",
+          "good": "Turn <b>it off</b>, please.",
+          "why": "Pronombre + verbo separable → el pronombre va en medio.",
+          "why_en": "Separable + pronoun → pronoun in the middle."
+        },
+        {
+          "bad": "Can you pick up me at the airport?",
+          "good": "Can you pick <b>me</b> up at the airport?",
+          "why": "me, you, him, her, it, us, them → en medio.",
+          "why_en": "Pronoun in the middle."
+        },
+        {
+          "bad": "She looks her little brother after.",
+          "good": "She <b>looks after</b> her little brother.",
+          "why": "look after es inseparable: el objeto va detrás.",
+          "why_en": "Look after is inseparable."
+        },
+        {
+          "bad": "I'm looking forward to see you.",
+          "good": "I'm looking forward to <b>seeing</b> you.",
+          "why": "En look forward to, <i>to</i> es preposición → -ing.",
+          "why_en": "Look forward to + -ing."
+        },
+        {
+          "bad": "We've run out milk.",
+          "good": "We've run out <b>of</b> milk.",
+          "why": "run out <b>of</b> + cosa: ¡no te comas la tercera palabra!",
+          "why_en": "Run out of + noun."
+        },
+        {
+          "bad": "I can't support this noise.",
+          "good": "I can't <b>put up with</b> this noise.",
+          "why": "Falso amigo: support = apoyar. «Soportar» = put up with / stand.",
+          "why_en": "False friend: support ≠ soportar."
+        },
+        {
+          "bad": "He gave up to smoke.",
+          "good": "He gave up <b>smoking</b>.",
+          "why": "give up + -ing (dejar de hacer algo).",
+          "why_en": "Give up + -ing."
+        },
+        {
+          "bad": "I get on well my sister.",
+          "good": "I get on well <b>with</b> my sister.",
+          "why": "get on (well) <b>with</b> + persona.",
+          "why_en": "Get on with + person."
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Los 4 tipos en resumen",
+      "title_en": "The 4 types at a glance",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": ["Tipo · Type", "¿Objeto?", "Con nombre", "Con pronombre", "Ejemplos"],
+      "rows": [
+        ["<b>Sin objeto</b>", "no", "—", "—", "get up, break down, grow up, take off (avión), set off"],
+        [
+          "<b>Separable</b>",
+          "sí",
+          "turn off the TV ✓ · turn the TV off ✓",
+          "turn <b>it</b> off ✓ · <s>turn off it</s> ✗",
+          "turn on / off, pick up, put on, fill in, give back, throw away"
+        ],
+        [
+          "<b>Inseparable</b>",
+          "sí",
+          "look after the baby ✓",
+          "look after <b>her</b> ✓ · <s>look her after</s> ✗",
+          "look after, come across, run into, get over, look into"
+        ],
+        [
+          "<b>Tres palabras</b>",
+          "sí",
+          "run out of milk ✓",
+          "run out of <b>it</b> ✓",
+          "look forward to, get on with, put up with, run out of, come up with"
+        ]
+      ],
+      "note": "Un mismo verbo puede tener varios significados y tipos: <b>take off</b> = despegar (sin objeto) / quitarse ropa (separable).",
+      "note_en": "One phrasal verb can have several meanings and types."
+    },
+    {
+      "t": "table",
+      "title": "Trabajo y estudios",
+      "title_en": "Work and studies",
+      "icon": "💼",
+      "color": "blue",
+      "wide": true,
+      "head": ["Phrasal verb", "Significado", "Ejemplo · Example", "Traducción"],
+      "rows": [
+        ["<b>carry on</b>", "continuar, seguir", "Carry on working. I'll be back soon.", "Seguid trabajando, vuelvo enseguida."],
+        ["<b>fill in</b>", "rellenar", "Fill in the application form.", "Rellena la solicitud."],
+        ["<b>hand in</b>", "entregar", "We have to hand in the essay on Monday.", "Tenemos que entregar la redacción el lunes."],
+        ["<b>look up</b>", "buscar (información)", "Look the word up in the dictionary.", "Busca la palabra en el diccionario."],
+        ["<b>find out</b>", "descubrir, enterarse", "I found out the truth yesterday.", "Ayer me enteré de la verdad."],
+        ["<b>give up</b>", "dejar, rendirse", "Don't give up. You're nearly there!", "No te rindas. ¡Ya casi lo tienes!"],
+        ["<b>put off</b>", "aplazar", "The meeting has been put off until Friday.", "Han aplazado la reunión hasta el viernes."],
+        ["<b>set up</b>", "montar, fundar", "She set up her own company at 25.", "Montó su propia empresa a los 25."],
+        ["<b>turn down</b>", "rechazar", "He turned down the job offer.", "Rechazó la oferta de trabajo."],
+        ["<b>come up with</b>", "idear, ocurrírsele", "We need to come up with a new idea.", "Tenemos que idear algo nuevo."]
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Casa y rutina",
+      "title_en": "Home and daily routine",
+      "icon": "🏠",
+      "color": "green",
+      "wide": true,
+      "head": ["Phrasal verb", "Significado", "Ejemplo · Example", "Traducción"],
+      "rows": [
+        ["<b>wake up</b>", "despertarse", "I woke up at 5 a.m. because of the storm.", "Me desperté a las 5 por la tormenta."],
+        ["<b>get up</b>", "levantarse", "I get up at seven on weekdays.", "Me levanto a las siete entre semana."],
+        ["<b>turn on / turn off</b>", "encender / apagar", "Turn off the lights when you leave.", "Apaga las luces al salir."],
+        ["<b>turn up / turn down</b>", "subir / bajar (volumen)", "Can you turn the TV down?", "¿Puedes bajar la tele?"],
+        ["<b>put on</b>", "ponerse (ropa)", "Put on a coat. It's freezing!", "Ponte un abrigo. ¡Hace un frío que pela!"],
+        ["<b>take off</b>", "quitarse (ropa)", "Take your shoes off, please.", "Quítate los zapatos, por favor."],
+        ["<b>tidy up</b>", "ordenar, recoger", "I tidied up my room before the party.", "Ordené mi cuarto antes de la fiesta."],
+        ["<b>throw away</b>", "tirar (a la basura)", "Don't throw away those boxes!", "¡No tires esas cajas!"]
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Relaciones",
+      "title_en": "People and relationships",
+      "icon": "👥",
+      "color": "pink",
+      "wide": true,
+      "head": ["Phrasal verb", "Significado", "Ejemplo · Example", "Traducción"],
+      "rows": [
+        ["<b>get on (well) with</b>", "llevarse bien con", "I get on really well with my flatmates.", "Me llevo muy bien con mis compañeros de piso."],
+        [
+          "<b>fall out (with)</b>",
+          "pelearse, enfadarse con",
+          "She fell out with her best friend over money.",
+          "Se peleó con su mejor amiga por dinero."
+        ],
+        ["<b>make up</b>", "reconciliarse", "They argued, but they made up the next day.", "Discutieron, pero se reconciliaron al día siguiente."],
+        ["<b>break up (with)</b>", "romper, cortar (pareja)", "Ana and Leo have broken up.", "Ana y Leo lo han dejado."],
+        ["<b>ask out</b>", "pedir salir", "He finally asked her out.", "Por fin le pidió salir."],
+        ["<b>look up to</b>", "admirar", "I've always looked up to my grandmother.", "Siempre he admirado a mi abuela."],
+        ["<b>let down</b>", "decepcionar, fallar", "Please don't let me down.", "Por favor, no me falles."],
+        ["<b>bring up</b>", "criar", "She was brought up by her aunt.", "La crió su tía."]
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Viajes y transporte",
+      "title_en": "Travel and transport",
+      "icon": "✈️",
+      "color": "teal",
+      "wide": true,
+      "head": ["Phrasal verb", "Significado", "Ejemplo · Example", "Traducción"],
+      "rows": [
+        ["<b>set off</b>", "salir, ponerse en camino", "We set off early to avoid the traffic.", "Salimos temprano para evitar el tráfico."],
+        [
+          "<b>check in / check out</b>",
+          "registrarse / dejar el hotel",
+          "We checked in at the hotel at three.",
+          "Nos registramos en el hotel a las tres."
+        ],
+        ["<b>get on / get off</b>", "subir / bajar (bus, tren)", "Get off at the next stop.", "Bájate en la próxima parada."],
+        ["<b>pick up</b>", "recoger (a alguien)", "I'll pick you up at the airport.", "Te recojo en el aeropuerto."],
+        ["<b>drop off</b>", "dejar (a alguien en un sitio)", "Can you drop me off at the station?", "¿Me dejas en la estación?"],
+        ["<b>see off</b>", "despedir (a quien se va)", "My parents came to see me off.", "Mis padres vinieron a despedirme."],
+        ["<b>take off</b>", "despegar", "The plane took off on time.", "El avión despegó a su hora."],
+        ["<b>break down</b>", "averiarse", "The bus broke down in the middle of nowhere.", "El autobús se averió en medio de la nada."],
+        ["<b>look forward to</b>", "tener ganas de", "I'm looking forward to the holidays.", "Tengo muchas ganas de que lleguen las vacaciones."]
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Problemas, dinero y compras",
+      "title_en": "Problems, money and shopping",
+      "icon": "🛍️",
+      "color": "purple",
+      "wide": true,
+      "head": ["Phrasal verb", "Significado", "Ejemplo · Example", "Traducción"],
+      "rows": [
+        ["<b>run out of</b>", "quedarse sin", "We've run out of milk.", "Se nos ha acabado la leche."],
+        ["<b>put up with</b>", "aguantar, soportar", "I can't put up with his attitude.", "No soporto su actitud."],
+        ["<b>sort out</b>", "solucionar, arreglar", "Don't worry, I'll sort it out.", "Tranquilo, yo lo soluciono."],
+        ["<b>look into</b>", "investigar, estudiar", "The police are looking into the case.", "La policía está investigando el caso."],
+        ["<b>get over</b>", "superar, recuperarse de", "It took her weeks to get over the flu.", "Tardó semanas en recuperarse de la gripe."],
+        ["<b>work out</b>", "resolver, calcular", "I can't work out this problem.", "No consigo resolver este problema."],
+        ["<b>come across</b>", "encontrar por casualidad", "I came across an old photo of you.", "Encontré por casualidad una foto antigua tuya."],
+        ["<b>run into</b>", "encontrarse con (alguien)", "I ran into Pablo at the gym.", "Me encontré con Pablo en el gimnasio."],
+        ["<b>try on</b>", "probarse (ropa)", "Can I try these jeans on?", "¿Me puedo probar estos vaqueros?"],
+        ["<b>pay back</b>", "devolver (dinero)", "I'll pay you back tomorrow.", "Te lo devuelvo mañana."],
+        [
+          "<b>take back</b>",
+          "devolver (a la tienda)",
+          "I took the jacket back because it was too small.",
+          "Devolví la chaqueta porque me quedaba pequeña."
+        ],
+        ["<b>give back</b>", "devolver (algo prestado)", "Give me back my charger!", "¡Devuélveme el cargador!"],
+        ["<b>save up</b>", "ahorrar (para algo)", "I'm saving up for a new laptop.", "Estoy ahorrando para un portátil nuevo."],
+        ["<b>go up / go down</b>", "subir / bajar (precios)", "Prices have gone up again.", "Los precios han vuelto a subir."],
+        ["<b>sell out</b>", "agotarse", "The tickets sold out in minutes.", "Las entradas se agotaron en minutos."]
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Compartiendo piso",
+      "title_en": "Sharing a flat",
+      "lines": [
+        {"who": "Alex", "en": "Have you seen the kitchen? We've run out of everything!", "es": "¿Has visto la cocina? ¡Se nos ha acabado todo!"},
+        {
+          "who": "Bea",
+          "en": "I know. And someone forgot to take the rubbish out again.",
+          "es": "Ya. Y alguien se ha vuelto a olvidar de sacar la basura."
+        },
+        {"who": "Alex", "en": "Sorry, that was me. I'll take it out now.", "es": "Perdón, fui yo. La saco ahora."},
+        {
+          "who": "Bea",
+          "en": "Thanks. Can you also turn the music down? I'm trying to work.",
+          "es": "Gracias. ¿Puedes también bajar la música? Estoy intentando trabajar."
+        },
+        {
+          "who": "Alex",
+          "en": "Sure. By the way, I ran into Marcos yesterday. He's set up his own business!",
+          "es": "Claro. Por cierto, ayer me encontré con Marcos. ¡Ha montado su propio negocio!"
+        },
+        {"who": "Bea", "en": "Really? I thought he'd given up on that idea.", "es": "¿En serio? Pensaba que había abandonado esa idea."},
+        {"who": "Alex", "en": "No, he carried on, and now it's going really well.", "es": "No, siguió adelante y ahora le va muy bien."},
+        {
+          "who": "Bea",
+          "en": "Good for him! Let's go shopping later and sort out the fridge.",
+          "es": "¡Qué bien! Vamos a comprar luego y a organizar la nevera."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "¿Qué significa?",
+      "title_en": "Match the meaning",
+      "icon": "🔗",
+      "es": "Une cada phrasal verb con su significado.",
+      "en": "Match each phrasal verb with its meaning.",
+      "pairs": [
+        ["give up", "dejar de hacer algo, rendirse"],
+        ["look after", "cuidar"],
+        ["find out", "descubrir, enterarse"],
+        ["put off", "aplazar"],
+        ["turn down", "rechazar"],
+        ["get over", "superar, recuperarse"],
+        ["run out of", "quedarse sin"],
+        ["come across", "encontrar por casualidad"]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿De qué tipo es?",
+      "title_en": "What type is it?",
+      "icon": "🗂️",
+      "es": "Clasifica cada phrasal verb (con el significado entre paréntesis) en su tipo.",
+      "en": "Sort the phrasal verbs by type.",
+      "cats": [
+        {"name": "🚶 Sin objeto", "words": ["break down (averiarse)", "grow up (criarse)", "set off (ponerse en camino)", "fall out (pelearse)"]},
+        {"name": "✂️ Separable", "words": ["turn off (apagar)", "pick up (recoger)", "fill in (rellenar)", "try on (probarse)"]},
+        {"name": "🔗 Inseparable", "words": ["look after (cuidar)", "come across (encontrar)", "run into (toparse con)", "get over (superar)"]},
+        {
+          "name": "🧩 Tres palabras",
+          "words": ["look forward to (tener ganas de)", "put up with (aguantar)", "run out of (quedarse sin)", "get on with (llevarse bien con)"]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "La partícula correcta",
+      "title_en": "The correct particle",
+      "icon": "⭕",
+      "es": "Rodea la partícula correcta.",
+      "en": "Circle the correct particle.",
+      "items": [
+        {"q": "Can you turn [down|off] the music a bit? It's too loud.", "a": "down"},
+        {"q": "I need to look [up|after] this word in the dictionary.", "a": "up"},
+        {"q": "She's trying to give [up|off] coffee.", "a": "up"},
+        {"q": "The plane took [off|up] at 6 a.m.", "a": "off"},
+        {"q": "We've run out [of|from] bread.", "a": "of"},
+        {"q": "I get on really well [with|to] my cousins.", "a": "with"},
+        {"q": "Please fill [in|on] this form.", "a": "in"},
+        {"q": "I'm looking forward [to|for] the weekend.", "a": "to"},
+        {"q": "They broke [up|down] after five years together.", "a": "up"},
+        {"q": "My car broke [down|up] on the way to work.", "a": "down"}
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Significado en contexto",
+      "title_en": "Meaning in context",
+      "icon": "🧠",
+      "es": "Rodea el significado del phrasal verb en cada frase. ¡Algunos tienen varios!",
+      "en": "Circle the meaning of the phrasal verb in each sentence.",
+      "items": [
+        {"q": "She <b>brought up</b> three children on her own. → [crió|mencionó|subió]", "a": "crió"},
+        {"q": "Can you <b>pick</b> me <b>up</b> at eight? → [recoger|levantar|elegir]", "a": "recoger"},
+        {"q": "The plane <b>took off</b> late. → [se quitó|despegó|salió del hotel]", "a": "despegó"},
+        {"q": "He <b>turned up</b> two hours late. → [subió el volumen|apareció|rechazó]", "a": "apareció"},
+        {"q": "I <b>made up</b> an excuse. → [me inventé|me reconcilié|me maquillé]", "a": "me inventé"},
+        {"q": "Let's <b>work out</b> how much we owe. → [entrenar|calcular|salir]", "a": "calcular"},
+        {"q": "Prices have <b>gone up</b> again. → [subido|bajado|salido]", "a": "subido"},
+        {"q": "We <b>made up</b> after the argument. → [nos inventamos|nos reconciliamos|nos maquillamos]", "a": "nos reconciliamos"}
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Informal y formal",
+      "title_en": "Informal and formal",
+      "icon": "🎩",
+      "es": "Une cada phrasal verb con su sinónimo formal.",
+      "en": "Match each phrasal verb with its formal synonym.",
+      "pairs": [
+        ["carry on", "continue"],
+        ["set up", "establish"],
+        ["look into", "investigate"],
+        ["put off", "postpone"],
+        ["turn down", "reject"],
+        ["go up", "increase"],
+        ["give back", "return"],
+        ["come up with", "think of"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Completa con el banco",
+      "title_en": "Complete with the word bank",
+      "icon": "✏️",
+      "es": "Completa con un phrasal verb del banco en la forma correcta.",
+      "en": "Complete with a phrasal verb from the bank in the correct form.",
+      "bank": ["give up", "look after", "find out", "put off", "set off", "turn down", "get over", "come across", "sort out", "run out of"],
+      "items": [
+        {"q": "We ____ at 5 a.m. to catch the first ferry.", "a": "set off"},
+        {"q": "I ____ an old letter from my grandfather while I was tidying.", "a": "came across"},
+        {"q": "Can you ____ my dog this weekend?", "a": "look after"},
+        {"q": "She ____ the job because the salary was too low.", "a": "turned down"},
+        {"q": "It took him a long time to ____ the accident.", "a": "get over"},
+        {"q": "Don't ____! You can do it!", "a": "give up"},
+        {"q": "The match has been ____ because of the rain.", "a": "put off"},
+        {"q": "I've just ____ that my flight is cancelled.", "a": "found out"},
+        {"q": "We've ____ milk, so I'm going to the shop.", "a": "run out of"},
+        {"q": "Don't worry about the bill. I'll ____ it ____ with the bank.", "a": "sort … out"}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "El pronombre en su sitio",
+      "title_en": "Put the pronoun in the right place",
+      "icon": "🎯",
+      "es": "Sustituye las palabras subrayadas por un pronombre (it, them, her…) y colócalo bien.",
+      "en": "Replace the underlined words with a pronoun and put it in the right place.",
+      "items": [
+        {"q": "Turn off <u>the TV</u>.", "a": "Turn it off."},
+        {"q": "Pick up <u>your clothes</u>!", "a": "Pick them up!"},
+        {"q": "I'll look after <u>the children</u>.", "a": "I'll look after them."},
+        {"q": "Can you fill in <u>this form</u>?", "a": "Can you fill it in?"},
+        {"q": "She gave back <u>the money</u>.", "a": "She gave it back."},
+        {"q": "I ran into <u>Laura</u> yesterday.", "a": "I ran into her yesterday."},
+        {"q": "Put on <u>your shoes</u>.", "a": "Put them on."},
+        {"q": "We're looking forward to <u>the party</u>.", "a": "We're looking forward to it."}
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Bien colocado?",
+      "title_en": "Is the word order right?",
+      "icon": "✔️",
+      "es": "Marca T si el orden es correcto y F si no lo es.",
+      "en": "Tick T if the word order is correct, F if not.",
+      "items": [
+        {"q": "Turn it off.", "a": true},
+        {"q": "Turn off it.", "a": false, "why": "Turn it off."},
+        {"q": "She looks after them.", "a": true},
+        {"q": "She looks them after.", "a": false, "why": "look after es inseparable: She looks after them."},
+        {"q": "Put your coat on.", "a": true},
+        {"q": "We ran out of it.", "a": true},
+        {"q": "We ran it out of.", "a": false, "why": "Los de tres palabras no se separan: We ran out of it."},
+        {"q": "I picked up her at the station.", "a": false, "why": "I picked her up at the station."}
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Cuidado con el pronombre!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {"q": "turn / it / off / please", "a": "Turn it off, please."},
+        {"q": "them / I / up / picked / at the station", "a": "I picked them up at the station."},
+        {"q": "after / my / looks / grandmother / me", "a": "My grandmother looks after me."},
+        {"q": "of / we've / out / run / coffee", "a": "We've run out of coffee."},
+        {"q": "looking / I'm / to / forward / seeing / you", "a": "I'm looking forward to seeing you."},
+        {"q": "on / can / I / try / it / ?", "a": "Can I try it on?"},
+        {"q": "with / on / does / she / get / her boss / ?", "a": "Does she get on with her boss?"},
+        {"q": "broke / the / on / car / down / the motorway", "a": "The car broke down on the motorway."}
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Phrasal verb y sinónimo formal",
+      "title_en": "Phrasal verb and formal synonym",
+      "icon": "📋",
+      "wide": true,
+      "es": "Completa la tabla con el phrasal verb o el verbo formal que falta.",
+      "en": "Complete the table with the missing phrasal verb or formal verb.",
+      "head": ["Phrasal verb", "Verbo formal", "Significado"],
+      "rows": [
+        ["find out", "?discover", "descubrir"],
+        ["?put off", "postpone", "aplazar"],
+        ["carry on", "?continue", "seguir"],
+        ["?set up", "establish", "fundar, montar"],
+        ["look into", "?investigate", "investigar"],
+        ["?turn down", "reject", "rechazar"],
+        ["go up", "?increase", "subir"],
+        ["?give back", "return", "devolver"]
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {"q": "Can you turn off it?", "a": "Can you turn it off?"},
+        {"q": "She is looking her sister after.", "a": "She is looking after her sister."},
+        {"q": "We've run out sugar.", "a": "We've run out of sugar."},
+        {"q": "I'm looking forward to meet you.", "a": "I'm looking forward to meeting you."},
+        {"q": "He gave up to play football.", "a": "He gave up playing football."},
+        {"q": "Please take off them before you come in.", "a": "Please take them off before you come in."},
+        {
+          "q": "I can't support my neighbour's dog. It barks all day.",
+          "a": ["I can't put up with my neighbour's dog. It barks all day.", "I can't stand my neighbour's dog. It barks all day."]
+        },
+        {"q": "They broke down last month after two years together.", "a": "They broke up last month after two years together."}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones B2 First",
+      "title_en": "Key word transformations",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra en azul SIN cambiarla y escribe entre 2 y 5 palabras.",
+      "en": "Complete the second sentence so that it means the same as the first. Use the word given. Write 2-5 words.",
+      "items": [
+        {"q": "Could you take care of my cat while I'm away?<br>Could you _____ while I'm away?", "hint": "<b>AFTER</b>", "a": "look after my cat"},
+        {
+          "q": "They have postponed the meeting until Monday.<br>They have _____ until Monday.",
+          "hint": "<b>PUT</b>",
+          "a": "put off the meeting / put the meeting off"
+        },
+        {"q": "We have no more coffee.<br>We have _____ coffee.", "hint": "<b>RUN</b>", "a": "run out of"},
+        {"q": "I really want to see you next week.<br>I'm _____ you next week.", "hint": "<b>FORWARD</b>", "a": "looking forward to seeing"},
+        {"q": "She stopped smoking two years ago.<br>She _____ two years ago.", "hint": "<b>GAVE</b>", "a": "gave up smoking"},
+        {"q": "I have a good relationship with my colleagues.<br>I _____ my colleagues.", "hint": "<b>GET</b>", "a": "get on (well) with"},
+        {
+          "q": "He refused the invitation to the wedding.<br>He _____ to the wedding.",
+          "hint": "<b>TURNED</b>",
+          "a": "turned down the invitation / turned the invitation down"
+        },
+        {"q": "I can't tolerate his rude comments any more.<br>I can't _____ his rude comments any more.", "hint": "<b>PUT</b>", "a": "put up with"}
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce usando un phrasal verb. ¡Ojo con la posición del pronombre!",
+      "en": "Translate using a phrasal verb.",
+      "items": [
+        {"q": "Apaga la luz, por favor.", "a": ["Turn off the light, please.", "Turn the light off, please."]},
+        {"q": "¿Me recoges a las ocho?", "a": ["Can you pick me up at eight?", "Could you pick me up at eight?"]},
+        {"q": "Se nos ha acabado el pan.", "a": "We've run out of bread."},
+        {"q": "Tengo muchas ganas de ver a mis primos.", "a": "I'm really looking forward to seeing my cousins."},
+        {"q": "No aguanto este calor.", "a": ["I can't put up with this heat.", "I can't stand this heat."]},
+        {"q": "Me llevo muy bien con mi hermano.", "a": "I get on really well with my brother."},
+        {"q": "Han aplazado el concierto.", "a": ["They've put off the concert.", "They've put the concert off.", "The concert has been put off."]},
+        {"q": "¿Puedes cuidar a mi perro el fin de semana?", "a": "Can you look after my dog at the weekend?"}
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T o F y contesta. ¡Busca los phrasal verbs!",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "A Monday to forget",
+      "text": [
+        "Last Monday was a disaster. I woke up late because my alarm didn't go off, so I got up, put on the first clothes I could find and rushed out. On the way to work, my car broke down, so I had to call a taxi.",
+        "When I finally turned up at the office, my boss told me that the meeting with our new clients had been put off until Friday. 'Great,' I thought, 'I could have stayed in bed!' Then I found out that someone had used the last of the coffee. We had run out of milk too.",
+        "In the afternoon things got better. I ran into an old friend from university in the lift. She works in the same building! We're going to meet up next week, and I'm really looking forward to it."
+      ],
+      "items": [
+        {"q": "The writer woke up early on Monday.", "tf": true, "a": false, "why": "The alarm didn't go off, so the writer woke up late."},
+        {"q": "The writer's car stopped working.", "tf": true, "a": true},
+        {"q": "The meeting was cancelled completely.", "tf": true, "a": false, "why": "It was put off until Friday."},
+        {"q": "Find a phrasal verb in paragraph 1 that means 'ring' (an alarm).", "a": "go off"},
+        {"q": "Find a phrasal verb in paragraph 2 that means 'arrived'.", "a": "turned up"},
+        {"q": "What did the writer find out at the office?", "a": "That someone had used the last of the coffee (and there was no milk)."},
+        {"q": "Who did the writer run into in the lift?", "a": "An old friend from university."},
+        {"q": "Rewrite with a pronoun: 'I'm looking forward to the meeting with my friend.'", "a": "I'm looking forward to it."}
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre tu vida usando phrasal verbs del tema.",
+      "en": "Write about your life using phrasal verbs.",
+      "items": [
+        {
+          "q": "Tu rutina de la mañana con 3 phrasal verbs (<b>wake up, get up, put on…</b>).",
+          "lines": 2,
+          "a": "Ej.: I wake up at 7, but I don't get up until 7.15. I put on my uniform and set off at 8."
+        },
+        {
+          "q": "Una relación: <b>get on with / fall out / make up</b>.",
+          "lines": 1,
+          "a": "Ej.: I get on well with my sister, but we fell out last summer. We made up after a week."
+        },
+        {
+          "q": "Algo que tienes ganas de hacer (<b>look forward to + -ing</b>).",
+          "lines": 1,
+          "a": "Ej.: I'm really looking forward to visiting you in Dublin!"
+        },
+        {
+          "q": "Un problema y cómo lo solucionaste (<b>run out of, sort out…</b>).",
+          "lines": 1,
+          "a": "Ej.: We ran out of money on holiday, but my parents helped us sort it out."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {"es": "Sé qué es un phrasal verb: <b>verbo + partícula</b> con significado nuevo.", "en": "I know what a phrasal verb is."},
+    {"es": "Distingo los <b>sin objeto, separables, inseparables y de tres palabras</b>.", "en": "I know the four types of phrasal verbs."},
+    {"es": "Pongo el <b>pronombre en medio</b> con los separables: turn <b>it</b> off.", "en": "I put pronouns in the middle with separable verbs."},
+    {"es": "Nunca separo los inseparables: look after <b>her</b>.", "en": "I never split inseparable verbs."},
+    {"es": "Conozco <b>más de 40</b> phrasal verbs frecuentes por temas.", "en": "I know more than 40 common phrasal verbs."},
+    {"es": "Uso <b>-ing</b> después de look forward to.", "en": "I use -ing after look forward to."}
+  ]
+}

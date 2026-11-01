@@ -1,0 +1,720 @@
+{
+  "id": "B2-08",
+  "level": "B2",
+  "title": "WISH <em>e</em> IF ONLY",
+  "file_title": "Wish e if only",
+  "subtitle": "Wish and if only · deseos y lamentos",
+  "icon": "🌠",
+  "map": {
+    "center": "Usamos <b>WISH</b> e <b>IF ONLY</b> para expresar <b>deseos irreales</b>, lamentos y quejas: ¡ojalá…!",
+    "nodes": [
+      {
+        "title": "Presente",
+        "icon": "🙏",
+        "items": [
+          "wish + <b>past simple</b>",
+          "I <b>wish</b> I <b>had</b> more time. <i>(Ojalá tuviera más tiempo.)</i>",
+          "I wish I <b>could</b> drive. <i>(Ojalá supiera conducir.)</i>"
+        ]
+      },
+      {
+        "title": "Pasado",
+        "icon": "⏪",
+        "art": "😔",
+        "items": ["wish + <b>past perfect</b>", "I wish I <b>had studied</b> more. <i>(Ojalá hubiera estudiado más.)</i>", "Lamento: ya no se puede cambiar."]
+      },
+      {
+        "title": "Quejas",
+        "icon": "😤",
+        "items": [
+          "wish + otra persona + <b>would</b>",
+          "I wish you <b>would stop</b> shouting! <i>(¡A ver si dejas de gritar!)</i>",
+          "<s>I wish I would…</s> ✗"
+        ]
+      },
+      {
+        "title": "IF ONLY",
+        "icon": "❗",
+        "art": "🌠",
+        "items": ["= wish, pero <b>más intenso</b>: ¡ojalá!", "<b>If only</b> I <b>knew</b> her number!", "<b>If only</b> I <b>hadn't said</b> that!"]
+      },
+      {
+        "title": "¿Was o were?",
+        "icon": "👑",
+        "items": [
+          "I wish I <b>were</b> taller. <i>(formal, examen)</i>",
+          "I wish I <b>was</b> taller. <i>(coloquial)</i>",
+          "were vale con todas: I / he / she / it."
+        ]
+      },
+      {
+        "title": "WISH o HOPE",
+        "icon": "💡",
+        "items": ["<b>hope</b> = posible: I hope you <b>pass</b>!", "<b>wish</b> = irreal: I wish I <b>were</b> rich.", "<s>I wish you pass</s> ✗"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["I wish I have more money."],
+      "good": ["I wish I had more money."],
+      "note": "Un paso atrás: presente → <b>pasado</b>"
+    },
+    "mini": {
+      "es": "Completa con la forma correcta del verbo.",
+      "en": "Complete with the correct form of the verb.",
+      "items": [
+        {"q": "I wish I ____ (be) taller.", "a": ["were", "was"]},
+        {"q": "I wish I ____ (not eat) so much!", "a": "hadn't eaten"},
+        {"q": "I wish you ____ (stop) talking!", "a": "would stop"},
+        {"q": "If only we ____ (live) by the sea.", "a": "lived"},
+        {"q": "I wish I ____ (can) speak Chinese.", "a": "could"}
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "<b>Wish</b> e <b>if only</b> equivalen a <mark>ojalá</mark> o <i>me gustaría que…</i> cuando el deseo es <b>irreal</b>: algo que no es así ahora, algo que no pasó o algo que nos molesta. El gran truco: el verbo da <b>un paso atrás</b> en el tiempo. Igual que en español usamos el subjuntivo (<i>ojalá <u>tuviera</u>, ojalá <u>hubiera</u> tenido</i>), en inglés usamos el <b>pasado</b>.",
+      "en": "<b>Wish</b> and <b>if only</b> express <mark>unreal wishes</mark>, regrets and complaints. The verb moves <b>one step back</b> in time.",
+      "formula": ["Deseo presente: *wish* + past simple", "Lamento pasado: *wish* + past perfect", "Queja: *wish* + persona + *would* + infinitivo"]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Deseos sobre el presente",
+      "title_en": "Wishes about the present",
+      "icon": "🙏",
+      "color": "green",
+      "es": "Para algo que <b>no es verdad ahora</b> y nos gustaría que lo fuera. Usamos <b>wish + past simple</b>, aunque hablamos del <mark>presente</mark>. La realidad es siempre la contraria: <i>I wish I lived closer = I don't live closer</i>. En español: <i>ojalá</i> + imperfecto de subjuntivo (<i>ojalá viviera</i>).",
+      "en": "For something that <b>isn't true now</b>. We use <b>wish + past simple</b>, although we are talking about the <mark>present</mark>.",
+      "formula": ["sujeto + *wish* + sujeto + *past simple*"],
+      "examples": [
+        {"en": "I <b>wish</b> I <b>lived</b> closer to work.", "es": "Ojalá viviera más cerca del trabajo.", "icon": "🏢"},
+        {"en": "She <b>wishes</b> she <b>had</b> more free time.", "es": "Le gustaría tener más tiempo libre.", "icon": "⌛"},
+        {"en": "I <b>wish</b> I <b>didn't have</b> to work this weekend.", "es": "Ojalá no tuviera que trabajar este fin de semana.", "icon": "😩"}
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del paso atrás",
+      "title_en": "The step-back trick",
+      "es": "Wish siempre mira hacia atrás: el verbo retrocede un tiempo. <b>presente → pasado</b> (have → had), <b>can → could</b>, <b>pasado → past perfect</b> (went → had gone), <b>will → would</b>. Truco del español: si dices <i>ojalá + tuviera</i> → past simple; si dices <i>ojalá + hubiera tenido</i> → past perfect.",
+      "en": "Wish always moves one step back: present → past, can → could, past → past perfect, will → would."
+    },
+    {
+      "t": "rule",
+      "title": "2 · WISH + COULD",
+      "title_en": "Wish + could",
+      "icon": "💪",
+      "color": "teal",
+      "es": "Para <b>habilidades o posibilidades que no tenemos</b>: <b>wish + could</b> + infinitivo. <i>could</i> es el pasado de <i>can</i>: el mismo paso atrás de siempre. En español: <i>ojalá supiera / ojalá pudiera</i>.",
+      "en": "For abilities or possibilities we don't have: <b>wish + could</b> + infinitive.",
+      "formula": ["sujeto + *wish* + sujeto + *could* + infinitivo"],
+      "examples": [
+        {"en": "I <b>wish</b> I <b>could</b> speak Japanese.", "es": "Ojalá supiera hablar japonés.", "icon": "🗾"},
+        {
+          "en": "We <b>wish</b> we <b>could</b> come to your wedding, but we'll be abroad.",
+          "es": "Ojalá pudiéramos ir a tu boda, pero estaremos en el extranjero.",
+          "icon": "💒"
+        },
+        {"en": "He <b>wishes</b> he <b>could</b> afford a new car.", "es": "Le encantaría poder permitirse un coche nuevo.", "icon": "🚗"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · ¿WAS o WERE?",
+      "title_en": "Was or were?",
+      "icon": "👑",
+      "color": "purple",
+      "es": "Con el verbo <b>be</b>, después de wish podemos usar <b>were</b> con todas las personas (I, he, she, it). Es la forma más cuidada y la que se espera en un examen. <b>was</b> también se oye mucho en conversación informal. ¡Pero nunca <s>am / is</s>!",
+      "en": "After wish we can use <b>were</b> with all persons. <b>Was</b> is common in informal speech. Never am / is.",
+      "examples": [
+        {"en": "I <b>wish</b> I <b>were</b> on a beach right now.", "es": "Ojalá estuviera en una playa ahora mismo.", "icon": "🏖️"},
+        {"en": "She <b>wishes</b> she <b>were</b> taller.", "es": "Le gustaría ser más alta.", "icon": "📏"},
+        {"en": "I <b>wish</b> it <b>was</b> Friday! <i>(informal)</i>", "es": "¡Ojalá fuera viernes!", "icon": "🎉"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "El paso atrás",
+      "title_en": "One step back",
+      "icon": "🔙",
+      "color": "yellow",
+      "head": ["Realidad · Reality", "Deseo · Wish"],
+      "rows": [
+        ["I'm tired.", "I wish I <b>weren't</b> tired."],
+        ["I don't speak French.", "I wish I <b>spoke</b> French."],
+        ["I can't sing.", "I wish I <b>could</b> sing."],
+        ["I have to work.", "I wish I <b>didn't have</b> to work."],
+        ["I'm not going to the concert.", "I wish I <b>were going</b> to the concert."],
+        ["I spent all my money.", "I wish I <b>hadn't spent</b> all my money."],
+        ["I didn't go to the party.", "I wish I <b>had gone</b> to the party."],
+        ["He won't help me.", "I wish he <b>would</b> help me."]
+      ],
+      "note": "Afirmativa ↔ negativa: la realidad y el deseo van <b>al revés</b>.",
+      "note_en": "Positive ↔ negative: reality and wish are opposites."
+    },
+    {
+      "t": "rule",
+      "title": "4 · Lamentos sobre el pasado",
+      "title_en": "Regrets about the past",
+      "icon": "⏪",
+      "color": "blue",
+      "es": "Para <b>arrepentirnos</b> de algo que pasó (o que no pasó). Ya no se puede cambiar. Usamos <b>wish + past perfect</b> (<i>had + participio</i>). En español: <i>ojalá hubiera…</i> o <i>me arrepiento de…</i>",
+      "en": "To express <b>regret</b> about the past: <b>wish + past perfect</b> (had + past participle).",
+      "formula": ["sujeto + *wish* + sujeto + *had (not)* + participio"],
+      "examples": [
+        {"en": "I <b>wish</b> I <b>had studied</b> harder for the exam.", "es": "Ojalá hubiera estudiado más para el examen.", "icon": "📝"},
+        {"en": "She <b>wishes</b> she <b>hadn't sold</b> her old flat.", "es": "Se arrepiente de haber vendido su antiguo piso.", "icon": "🏠"},
+        {"en": "I <b>wish</b> I <b>hadn't sent</b> that message.", "es": "Ojalá no hubiera mandado ese mensaje.", "icon": "📱"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Quejas: WISH + WOULD",
+      "title_en": "Complaints: wish + would",
+      "icon": "😤",
+      "color": "red",
+      "es": "Para <b>quejarnos</b> de algo que hace otra persona (o algo externo, como el tiempo) y que <mark>queremos que cambie</mark>. Expresa enfado o impaciencia. <b>Ojo:</b> el sujeto tiene que ser <b>distinto</b>: no se dice <s>I wish I would</s>. Tampoco se usa con verbos de estado: <s>I wish you would be taller</s>.",
+      "en": "To complain about what someone else does and say we want it to change. Not with the same subject: <s>I wish I would</s>.",
+      "formula": ["sujeto + *wish* + otra persona + *would (not)* + infinitivo"],
+      "examples": [
+        {"en": "I <b>wish</b> you <b>would stop</b> interrupting me.", "es": "A ver si dejas de interrumpirme.", "icon": "✋"},
+        {
+          "en": "I <b>wish</b> my neighbours <b>wouldn't play</b> their music so loud.",
+          "es": "Ojalá mis vecinos no pusieran la música tan alta.",
+          "icon": "🔊"
+        },
+        {"en": "I <b>wish</b> it <b>would stop</b> raining!", "es": "¡A ver si deja de llover!", "icon": "🌧️"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · IF ONLY",
+      "title_en": "If only",
+      "icon": "❗",
+      "color": "orange",
+      "es": "<b>If only</b> funciona igual que wish (mismos tiempos: past simple, past perfect, would) pero es <b>más emotivo e intenso</b>: <i>¡Ojalá…! / ¡Si al menos…!</i> Suele ir al principio de la frase y con signo de exclamación.",
+      "en": "<b>If only</b> works like wish (same tenses) but it is <b>stronger and more emotional</b>.",
+      "formula": ["*If only* + sujeto + past simple / past perfect / would"],
+      "examples": [
+        {"en": "<b>If only</b> I <b>had</b> a car!", "es": "¡Si al menos tuviera coche!", "icon": "🚘"},
+        {"en": "<b>If only</b> we <b>hadn't missed</b> the flight!", "es": "¡Ojalá no hubiéramos perdido el vuelo!", "icon": "✈️"},
+        {"en": "<b>If only</b> he <b>would listen</b> to me!", "es": "¡Si al menos me escuchara!", "icon": "👂"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Todo junto",
+      "title_en": "All together",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": ["Situación · Situation", "Estructura", "Ejemplo", "Realidad · Reality", "En español"],
+      "rows": [
+        ["Deseo sobre el presente", "wish + <b>past simple</b>", "I wish I <b>had</b> a car.", "I haven't got a car.", "Ojalá tuviera coche."],
+        ["Habilidad que no tengo", "wish + <b>could</b>", "I wish I <b>could</b> swim.", "I can't swim.", "Ojalá supiera nadar."],
+        [
+          "Lamento sobre el pasado",
+          "wish + <b>past perfect</b>",
+          "I wish I <b>hadn't eaten</b> so much.",
+          "I ate too much.",
+          "Ojalá no hubiera comido tanto."
+        ],
+        [
+          "Queja / quiero un cambio",
+          "wish + persona + <b>would</b>",
+          "I wish you <b>would call</b> more.",
+          "You don't call often.",
+          "A ver si llamas más."
+        ],
+        ["Más intenso", "<b>if only</b> + (lo mismo)", "If only I <b>knew</b>!", "I don't know.", "¡Si al menos lo supiera!"]
+      ],
+      "note": "Wish siempre mira <b>un paso atrás</b>: presente → pasado · pasado → past perfect · can → could · will → would.",
+      "note_en": "Wish always moves one step back."
+    },
+    {
+      "t": "compare",
+      "title": "WISH o HOPE",
+      "title_en": "Wish or hope?",
+      "color": "blue",
+      "icon": "⚖️",
+      "es": "<b>hope</b> = deseo <b>posible, real</b> (presente o futuro normal). <b>wish</b> = deseo <b>irreal</b> (paso atrás). En español los dos pueden ser <i>ojalá</i>: pregúntate si de verdad puede pasar.",
+      "en": "<b>hope</b> = a real possibility. <b>wish</b> = something unreal.",
+      "cols": [
+        {
+          "head": "🤞 hope · posible",
+          "color": "green",
+          "items": ["I <b>hope</b> you <b>pass</b> your exam.", "I <b>hope</b> it <b>doesn't rain</b> tomorrow.", "I <b>hope</b> she <b>got</b> home safely."]
+        },
+        {
+          "head": "🌠 wish · irreal",
+          "color": "purple",
+          "items": [
+            "I <b>wish</b> I <b>had passed</b> my exam. <i>(suspendí)</i>",
+            "I <b>wish</b> it <b>wasn't</b> raining. <i>(llueve)</i>",
+            "I <b>wish</b> I <b>were</b> rich. <i>(no lo soy)</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Otros usos de WISH",
+      "title_en": "Other uses of wish",
+      "icon": "🎁",
+      "color": "pink",
+      "head": ["Estructura", "Significado", "Ejemplo"],
+      "rows": [
+        ["wish + persona + cosa", "desear algo a alguien", "We wish you a merry Christmas."],
+        ["wish to + infinitivo", "querer (muy formal)", "I wish to make a complaint."],
+        ["make a wish", "pedir un deseo", "Blow out the candles and make a wish!"],
+        ["best wishes", "saludos, un abrazo", "Best wishes, Laura"]
+      ],
+      "note": "Aquí no hay paso atrás: <i>I wish you a happy birthday</i> = Te deseo un feliz cumpleaños.",
+      "note_en": "No step back in these expressions."
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {"en": "I wish I had more followers on Instagram.", "es": "Ojalá tuviera más seguidores en Instagram.", "icon": "📸"},
+        {"en": "My dad wishes he had travelled more when he was young.", "es": "Mi padre lamenta no haber viajado más de joven.", "icon": "🌍"},
+        {"en": "I wish the buses came more often.", "es": "Ojalá los autobuses pasaran más a menudo.", "icon": "🚌"},
+        {"en": "If only I could turn back time!", "es": "¡Ojalá pudiera volver atrás en el tiempo!", "icon": "⏳"},
+        {
+          "en": "I wish you wouldn't leave your dirty socks on the floor.",
+          "es": "A ver si dejas de tirar los calcetines sucios al suelo.",
+          "icon": "🧦"
+        },
+        {"en": "We wish we hadn't booked such a cheap hotel.", "es": "Ojalá no hubiéramos reservado un hotel tan barato.", "icon": "🏨"},
+        {"en": "I wish I knew what to say to her.", "es": "Ojalá supiera qué decirle.", "icon": "💭"},
+        {
+          "en": "If only the government would do something about housing prices!",
+          "es": "¡A ver si el Gobierno hace algo con el precio de la vivienda!",
+          "icon": "🏘️"
+        },
+        {"en": "She wishes she hadn't accepted the job.", "es": "Se arrepiente de haber aceptado el trabajo.", "icon": "💼"},
+        {"en": "I wish it weren't so expensive to live in the city.", "es": "Ojalá no fuera tan caro vivir en la ciudad.", "icon": "💸"},
+        {"en": "If only I'd listened to your advice!", "es": "¡Ojalá te hubiera hecho caso!", "icon": "🙉"}
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I wish I have a bigger flat.",
+          "good": "I wish I <b>had</b> a bigger flat.",
+          "why": "Deseo sobre el presente → paso atrás: past simple.",
+          "why_en": "Present wish → past simple."
+        },
+        {
+          "bad": "I wish I didn't go to that party last night.",
+          "good": "I wish I <b>hadn't gone</b> to that party last night.",
+          "why": "Lamento sobre el pasado → past perfect.",
+          "why_en": "Past regret → past perfect."
+        },
+        {
+          "bad": "I wish I would be taller.",
+          "good": "I wish I <b>were</b> taller.",
+          "why": "wish + would no va con el mismo sujeto ni con estados.",
+          "why_en": "No would with the same subject or state verbs."
+        },
+        {
+          "bad": "I wish you pass your driving test.",
+          "good": "I <b>hope</b> you pass your driving test.",
+          "why": "Deseo posible → hope (calco de «ojalá apruebes»).",
+          "why_en": "A real possibility → hope."
+        },
+        {
+          "bad": "I wish I can play the guitar.",
+          "good": "I wish I <b>could</b> play the guitar.",
+          "why": "can da un paso atrás → could.",
+          "why_en": "can → could."
+        },
+        {
+          "bad": "If only I would know the answer!",
+          "good": "If only I <b>knew</b> the answer!",
+          "why": "if only funciona como wish: past simple.",
+          "why_en": "If only + past simple."
+        },
+        {
+          "bad": "I wish I had went to university.",
+          "good": "I wish I had <b>gone</b> to university.",
+          "why": "had + <b>participio</b> (gone), no went.",
+          "why_en": "had + past participle."
+        },
+        {
+          "bad": "I hope I were on holiday.",
+          "good": "I <b>wish</b> I were on holiday.",
+          "why": "Situación irreal → wish, no hope.",
+          "why_en": "Unreal situation → wish."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {"es": "¿Deseo <b>posible</b>? → <b>hope</b>. ¿<b>Irreal</b>? → <b>wish</b>.", "en": "Possible → hope. Unreal → wish."},
+        {"es": "¿Es sobre el <b>presente</b>? → wish + <b>past simple</b> (o could / were).", "en": "Present → wish + past simple / could / were."},
+        {"es": "¿Es sobre el <b>pasado</b>? → wish + <b>had + participio</b>.", "en": "Past → wish + had + past participle."},
+        {"es": "¿<b>Queja</b>? → wish + persona + <b>would</b>. ¿Más drama? → <b>If only…!</b>", "en": "Complaint → would. More emotion → If only."}
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Después del examen",
+      "title_en": "After the exam",
+      "lines": [
+        {"who": "Nerea", "en": "How did the B2 exam go?", "es": "¿Qué tal el examen de B2?"},
+        {"who": "Hugo", "en": "Terrible. I wish I had started studying earlier.", "es": "Fatal. Ojalá hubiera empezado a estudiar antes."},
+        {"who": "Nerea", "en": "Oh no! What went wrong?", "es": "¡Oh, no! ¿Qué salió mal?"},
+        {
+          "who": "Hugo",
+          "en": "The listening. If only I understood British accents better!",
+          "es": "El listening. ¡Si al menos entendiera mejor el acento británico!"
+        },
+        {
+          "who": "Nerea",
+          "en": "I'm sure you did better than you think. I hope you pass!",
+          "es": "Seguro que te ha ido mejor de lo que crees. ¡Ojalá apruebes!"
+        },
+        {
+          "who": "Hugo",
+          "en": "Thanks. And I wish my brother would stop asking me about it!",
+          "es": "Gracias. ¡Y a ver si mi hermano deja de preguntarme por él!"
+        },
+        {
+          "who": "Nerea",
+          "en": "Ha! Come on, let's go for a coffee. I wish I could help more.",
+          "es": "¡Ja! Venga, vamos a tomar un café. Ojalá pudiera ayudarte más."
+        },
+        {
+          "who": "Hugo",
+          "en": "Coffee helps. If only I'd known the exam was this hard!",
+          "es": "El café ayuda. ¡Ojalá hubiera sabido que el examen era tan difícil!"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct option",
+      "icon": "⭕",
+      "es": "Deseos sobre el presente: rodea la forma correcta.",
+      "en": "Wishes about the present: circle the correct form.",
+      "items": [
+        {"q": "I wish I [had|have] a car.", "a": "had"},
+        {"q": "She wishes she [can|could] sing.", "a": "could"},
+        {"q": "I wish I [were|am] on holiday.", "a": "were"},
+        {"q": "I wish I [didn't have|don't have] so much homework.", "a": "didn't have"},
+        {"q": "We wish we [lived|live] in the countryside.", "a": "lived"},
+        {"q": "He wishes he [knew|knows] the answer.", "a": "knew"},
+        {"q": "I wish it [wasn't|isn't] so cold today.", "a": "wasn't"},
+        {"q": "If only I [could|can] find my keys!", "a": "could"},
+        {"q": "My sister wishes she [was|is] older.", "a": "was"},
+        {"q": "Do you wish you [spoke|speak] more languages?", "a": "spoke"}
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿I hope o I wish?",
+      "title_en": "Hope or wish?",
+      "icon": "🗂️",
+      "es": "¿Cómo empieza cada frase: I hope… (posible) o I wish… (irreal)?",
+      "en": "Does each ending go with I hope… or I wish…?",
+      "cats": [
+        {
+          "name": "🤞 I hope…",
+          "words": [
+            "you get the job",
+            "it doesn't rain tomorrow",
+            "you have a great trip",
+            "she's feeling better",
+            "we win on Saturday",
+            "they arrived safely"
+          ]
+        },
+        {
+          "name": "🌠 I wish…",
+          "words": ["I were taller", "I had studied more", "you would stop shouting", "I could fly", "it weren't Monday", "I hadn't said that"]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Deseos sobre el presente",
+      "title_en": "Wishes about the present",
+      "icon": "🙏",
+      "es": "Completa con la forma correcta: past simple, could o were.",
+      "en": "Complete with the past simple, could or were.",
+      "items": [
+        {"q": "I wish I ____ (have) more free time.", "a": "had"},
+        {"q": "She wishes she ____ (be) a bit taller.", "a": ["were", "was"]},
+        {"q": "I wish I ____ (can) play the piano.", "a": "could"},
+        {"q": "We wish we ____ (not / live) so far from the beach.", "a": "didn't live"},
+        {"q": "He wishes he ____ (know) how to cook.", "a": "knew"},
+        {"q": "I wish my boss ____ (be) more understanding.", "a": ["were", "was"]},
+        {"q": "If only I ____ (not / have) to get up so early!", "a": "didn't have"},
+        {"q": "They wish they ____ (can) afford a bigger flat.", "a": "could"},
+        {"q": "I wish it ____ (be) the weekend.", "a": ["were", "was"]},
+        {"q": "Do you wish you ____ (work) from home?", "a": "worked"}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Lamentos sobre el pasado",
+      "title_en": "Regrets about the past",
+      "icon": "⏪",
+      "es": "Completa con el past perfect (had + participio).",
+      "en": "Complete with the past perfect.",
+      "items": [
+        {"q": "I wish I ____ (study) harder at school.", "a": "had studied"},
+        {"q": "She wishes she ____ (not / say) those things to her friend.", "a": "hadn't said"},
+        {"q": "We wish we ____ (book) the tickets earlier.", "a": "had booked"},
+        {"q": "If only I ____ (bring) my umbrella!", "a": "had brought"},
+        {"q": "He wishes he ____ (not / buy) that expensive phone.", "a": "hadn't bought"},
+        {"q": "I wish you ____ (tell) me about the problem before.", "a": "had told"},
+        {"q": "They wish they ____ (not / move) to such a noisy area.", "a": "hadn't moved"},
+        {"q": "If only we ____ (leave) home earlier! We missed the flight.", "a": "had left"},
+        {"q": "I wish I ____ (see) the concert last night.", "a": "had seen"},
+        {"q": "Do you ever wish you ____ (choose) a different career?", "a": "had chosen"}
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Realidad y deseo",
+      "title_en": "Reality and wish",
+      "icon": "🔗",
+      "es": "Une cada situación real con el deseo correspondiente.",
+      "en": "Match each situation with the wish.",
+      "pairs": [
+        ["I'm always tired.", "I wish I slept more."],
+        ["I failed my driving test.", "I wish I had practised more."],
+        ["My flatmate never cleans the kitchen.", "I wish he would clean it sometimes."],
+        ["I can't swim.", "I wish I could swim."],
+        ["I told my secret to everyone.", "I wish I hadn't told anyone."],
+        ["It's raining again.", "I wish it would stop raining."],
+        ["I don't have a car.", "I wish I had a car."],
+        ["I didn't go to the concert.", "I wish I had gone."]
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "De la realidad al deseo",
+      "title_en": "From reality to wish",
+      "icon": "📋",
+      "wide": true,
+      "es": "Escribe un deseo con I wish… Fíjate en la columna «¿Cuándo?».",
+      "en": "Write a wish with I wish… Look at the 'When?' column.",
+      "head": ["Realidad · Reality", "¿Cuándo? · When?", "Deseo · Wish"],
+      "rows": [
+        ["I don't have a dog.", "presente", "?I wish I had a dog."],
+        ["I can't dance.", "habilidad", "?I wish I could dance."],
+        ["I'm not on holiday.", "presente (be)", "?I wish I were (was) on holiday."],
+        ["I ate too much.", "pasado", "?I wish I hadn't eaten so much."],
+        ["I didn't save any money.", "pasado", "?I wish I had saved some money."],
+        ["You always interrupt me.", "queja", "?I wish you wouldn't interrupt me."],
+        ["I live in a tiny flat.", "presente", "?I wish I didn't live in a tiny flat."],
+        ["I forgot her birthday.", "pasado", "?I wish I hadn't forgotten her birthday."]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe un deseo",
+      "title_en": "Write a wish",
+      "icon": "✍️",
+      "es": "Reescribe cada situación como un deseo con I wish… (o We wish…).",
+      "en": "Rewrite each situation as a wish.",
+      "items": [
+        {"q": "I don't have enough money for the trip.", "a": "I wish I had enough money for the trip."},
+        {"q": "I can't understand this contract.", "a": "I wish I could understand this contract."},
+        {"q": "I didn't take any photos at the wedding.", "a": "I wish I had taken some photos at the wedding."},
+        {"q": "My brother keeps borrowing my clothes.", "a": "I wish my brother wouldn't borrow (would stop borrowing) my clothes."},
+        {"q": "I'm not good at maths.", "a": "I wish I were (was) good at maths."},
+        {"q": "We missed the beginning of the film.", "a": "We wish we hadn't missed the beginning of the film."},
+        {"q": "The neighbours' dog barks all night.", "a": "I wish the neighbours' dog wouldn't bark (would stop barking) all night."},
+        {"q": "I have to work on Saturday.", "a": "I wish I didn't have to work on Saturday."}
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Wish, hope o would",
+      "title_en": "Wish, hope or would",
+      "icon": "⚖️",
+      "es": "Rodea la opción correcta. ¡Hay de todo: presente, pasado, quejas y hope!",
+      "en": "Circle the correct option.",
+      "items": [
+        {"q": "I [hope|wish] you have a great time in Rome.", "a": "hope"},
+        {"q": "I [hope|wish] I could come with you.", "a": "wish"},
+        {"q": "I wish you [would stop|stopped] biting your nails! It's so annoying.", "a": "would stop"},
+        {"q": "I wish I [hadn't spent|didn't spend] so much money last weekend.", "a": "hadn't spent"},
+        {"q": "If only I [knew|would know] his address!", "a": "knew"},
+        {"q": "I wish I [would have|had] more energy.", "a": "had"},
+        {"q": "We [hope|wish] the weather is good tomorrow.", "a": "hope"},
+        {"q": "I wish it [would|will] snow at Christmas.", "a": "would"},
+        {"q": "She wishes she [had gone|went] to the party yesterday.", "a": "had gone"},
+        {"q": "I wish I [were|would be] better at public speaking.", "a": "were"}
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase.",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {"q": "wish / I / I / more / had / time", "a": "I wish I had more time."},
+        {"q": "could / wish / I / drive / I", "a": "I wish I could drive."},
+        {"q": "hadn't / she / wishes / she / that / said", "a": "She wishes she hadn't said that."},
+        {"q": "only / if / I / knew / the answer / !", "a": "If only I knew the answer!"},
+        {"q": "you / I / wish / would / stop / shouting", "a": "I wish you would stop shouting."},
+        {"q": "were / on / a beach / I / wish / I", "a": "I wish I were on a beach."},
+        {"q": "we / wish / had / earlier / left / we", "a": "We wish we had left earlier."},
+        {"q": "only / it / if / stop / would / raining / !", "a": "If only it would stop raining!"}
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {"q": "I wish I have a brother.", "a": "I wish I had a brother."},
+        {"q": "I wish I didn't eat that pizza last night.", "a": "I wish I hadn't eaten that pizza last night."},
+        {"q": "I wish I would be rich.", "a": ["I wish I were rich.", "I wish I was rich."]},
+        {"q": "I wish you have a good journey.", "a": ["I hope you have a good journey.", "I wish you a good journey."]},
+        {"q": "She wishes she can speak German.", "a": "She wishes she could speak German."},
+        {"q": "If only I would have known!", "a": "If only I had known!"},
+        {"q": "I wish he will call me.", "a": ["I wish he would call me.", "I hope he calls me."]},
+        {"q": "We wish we had went to the beach.", "a": "We wish we had gone to the beach."}
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Correcta?",
+      "title_en": "Is it correct?",
+      "icon": "✔️",
+      "es": "Marca T si la frase es correcta y F si tiene un error.",
+      "en": "Tick T if the sentence is correct, F if it is wrong.",
+      "items": [
+        {"q": "I wish I could speak Italian.", "a": true},
+        {"q": "I wish I would have a dog.", "a": false, "why": "I wish I had a dog."},
+        {"q": "I hope you feel better soon.", "a": true},
+        {"q": "She wishes she didn't go to bed so late last night.", "a": false, "why": "She wishes she hadn't gone to bed so late."},
+        {"q": "If only I were taller!", "a": true},
+        {"q": "I wish you will come to my party.", "a": false, "why": "I hope you'll come / I wish you would come."},
+        {"q": "We wish we had more time to finish the project.", "a": true},
+        {"q": "I wish I hadn't forgot my passport.", "a": false, "why": "hadn't forgotten"}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones B2 First",
+      "title_en": "Key word transformations",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra en azul SIN cambiarla y escribe entre 2 y 5 palabras.",
+      "en": "Complete the second sentence so that it means the same as the first. Use the word given. Write 2-5 words.",
+      "items": [
+        {"q": "I'm sorry I didn't call my grandmother.<br>I _____ my grandmother.", "hint": "<b>WISH</b>", "a": "wish I had called"},
+        {"q": "It's a pity I can't come to your party.<br>I wish _____ to your party.", "hint": "<b>COULD</b>", "a": "I could come"},
+        {"q": "Please stop making that noise!<br>I wish _____ making that noise.", "hint": "<b>WOULD</b>", "a": "you would stop"},
+        {"q": "I regret buying this car.<br>I wish _____ this car.", "hint": "<b>HADN'T</b>", "a": "I hadn't bought"},
+        {"q": "I'd love to be on holiday now.<br>I wish _____ on holiday now.", "hint": "<b>WERE</b>", "a": "I were"},
+        {"q": "It's a shame I don't know her phone number.<br>If _____ her phone number!", "hint": "<b>ONLY</b>", "a": "only I knew"},
+        {"q": "I'm sorry I said that to Pedro.<br>If _____ that to Pedro!", "hint": "<b>ONLY</b>", "a": "only I hadn't said"},
+        {
+          "q": "My sister never listens to my advice, and it annoys me.<br>I wish my sister _____ to my advice.",
+          "hint": "<b>WOULD</b>",
+          "a": "would listen"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿posible (hope) o irreal (wish)? ¿Presente, pasado o queja?",
+      "en": "Translate into English.",
+      "items": [
+        {"q": "Ojalá tuviera más tiempo libre.", "a": "I wish I had more free time."},
+        {"q": "Ojalá supiera tocar la guitarra.", "a": "I wish I could play the guitar."},
+        {"q": "Ojalá no hubiera dicho eso.", "a": "I wish I hadn't said that."},
+        {"q": "¡A ver si dejas de mirar el móvil!", "a": "I wish you would stop looking at your phone!"},
+        {"q": "Espero que te guste el regalo. (¡cuidado!)", "a": "I hope you like the present."},
+        {"q": "¡Si al menos hubiéramos salido antes!", "a": "If only we had left earlier!"},
+        {"q": "A ella le gustaría vivir en Londres (pero no vive allí).", "a": "She wishes she lived in London."},
+        {"q": "Ojalá estuvieras aquí.", "a": "I wish you were here."}
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee las cartas al consultorio. Marca T o F y contesta.",
+      "en": "Read the letters. Tick T or F and answer the questions.",
+      "text_title": "Ask Rosie: your problems, my advice",
+      "text": [
+        "Dear Rosie, I'm 19 and in my first year at university. I wish I had chosen a different degree. I'm studying Law because my parents wanted me to, but I've always loved design. If only I had been brave enough to tell them! — Lucía",
+        "Dear Lucía, you're not the only one! Lots of students wish they could go back and choose again. But it isn't too late. I hope you talk to your parents soon. They might understand more than you think. — Rosie",
+        "Dear Rosie, my flatmate drives me crazy. I wish he would wash his dishes, and I wish he wouldn't play video games until 3 a.m. I also wish our flat were bigger, because I have nowhere to escape! — Tom, Leeds"
+      ],
+      "items": [
+        {"q": "Lucía is studying the degree she always wanted.", "tf": true, "a": false, "why": "She wishes she had chosen design."},
+        {"q": "Lucía told her parents she wanted to study design.", "tf": true, "a": false, "why": "If only I had been brave enough to tell them!"},
+        {"q": "Rosie thinks it is too late to change.", "tf": true, "a": false, "why": "She says it isn't too late."},
+        {"q": "What does Lucía regret?", "a": "Choosing Law instead of design (and not telling her parents)."},
+        {"q": "Why does Rosie write 'I hope you talk' and not 'I wish you talked'?", "a": "Because it's a real possibility (hope = possible)."},
+        {
+          "q": "What two things does Tom want his flatmate to change?",
+          "a": "He wants him to wash his dishes and to stop playing video games until 3 a.m."
+        },
+        {"q": "Which of Tom's wishes is not a complaint about his flatmate?", "a": "I wish our flat were bigger."},
+        {"q": "What is the reality behind 'I wish our flat were bigger'?", "a": "Their flat is small (it isn't big enough)."}
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe tus propios deseos, lamentos y quejas.",
+      "en": "Write your own wishes, regrets and complaints.",
+      "items": [
+        {
+          "q": "Escribe 2 deseos sobre tu vida ahora (<b>wish + past / could</b>).",
+          "lines": 2,
+          "a": "Ej.: I wish I had a bigger room. I wish I could play the drums."
+        },
+        {"q": "Escribe algo de lo que te arrepientes (<b>wish + past perfect</b>).", "lines": 1, "a": "Ej.: I wish I hadn't sold my bike."},
+        {
+          "q": "Escribe una queja sobre alguien con quien vives (<b>wish + would</b>).",
+          "lines": 1,
+          "a": "Ej.: I wish my brother wouldn't use my headphones."
+        },
+        {"q": "Un amigo tiene un examen mañana: escríbele un mensaje con <b>hope</b>.", "lines": 1, "a": "Ej.: Good luck tomorrow! I hope you pass."}
+      ]
+    }
+  ],
+  "checklist": [
+    {"es": "Expreso deseos sobre el presente con <b>wish + past simple</b>.", "en": "I can express present wishes with wish + past simple."},
+    {"es": "Uso <b>wish + could</b> para habilidades que no tengo.", "en": "I use wish + could for abilities I don't have."},
+    {"es": "Expreso lamentos con <b>wish + past perfect</b>.", "en": "I can express regrets with wish + past perfect."},
+    {"es": "Me quejo con <b>wish + persona + would</b> (nunca <s>I wish I would</s>).", "en": "I can complain with wish + would."},
+    {"es": "Uso <b>if only</b> para deseos más intensos.", "en": "I use if only for stronger wishes."},
+    {"es": "Distingo <b>hope</b> (posible) de <b>wish</b> (irreal).", "en": "I know the difference between hope and wish."}
+  ]
+}

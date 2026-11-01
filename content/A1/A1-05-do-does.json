@@ -1,0 +1,1387 @@
+{
+  "id": "A1-05",
+  "level": "A1",
+  "title": "DO <em>y</em> DOES",
+  "file_title": "Do y does",
+  "subtitle": "Do and does · negativas y preguntas",
+  "icon": "❓",
+  "map": {
+    "center": "<b>DO</b> y <b>DOES</b> son los <b>ayudantes</b> del present simple: los usamos para <b>negar</b> y <b>preguntar</b>.",
+    "nodes": [
+      {
+        "title": "Los ayudantes",
+        "icon": "🤝",
+        "rows": [
+          [
+            "do",
+            "I, you, we, they"
+          ],
+          [
+            "does",
+            "he, she, it"
+          ]
+        ],
+        "after": "El verbo va siempre <b>sin s</b>."
+      },
+      {
+        "title": "Negativa",
+        "icon": "⛔",
+        "items": [
+          "I <b>don't</b> like fish.",
+          "She <b>doesn't</b> like fish.",
+          "don't = do not · doesn't = does not"
+        ]
+      },
+      {
+        "title": "Preguntas",
+        "icon": "❓",
+        "art": "🤔",
+        "items": [
+          "<b>Do</b> you play tennis?",
+          "<b>Does</b> he play tennis?",
+          "Do / Does + sujeto + verbo…?"
+        ]
+      },
+      {
+        "title": "Respuestas cortas",
+        "icon": "💬",
+        "items": [
+          "Yes, I <b>do</b>. / No, I <b>don't</b>.",
+          "Yes, she <b>does</b>. / No, she <b>doesn't</b>.",
+          "¡Sin repetir el verbo!"
+        ]
+      },
+      {
+        "title": "¡Solo una S!",
+        "icon": "🐍",
+        "art": "🎒",
+        "items": [
+          "She play<em>s</em>. ✓",
+          "She doe<em>s</em>n't play. ✓",
+          "Doe<em>s</em> she play? ✓"
+        ]
+      },
+      {
+        "title": "Con Wh-",
+        "icon": "🔎",
+        "items": [
+          "<b>Where do</b> you live?",
+          "<b>What does</b> Lucía like?",
+          "Wh- + do / does + sujeto + verbo?"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "She doesn't likes pizza."
+      ],
+      "good": [
+        "She doesn't like pizza."
+      ],
+      "note": "doesn't ya lleva la <b>S</b>"
+    },
+    "mini": {
+      "es": "Completa con do, does, don't o doesn't.",
+      "en": "Complete with do, does, don't or doesn't.",
+      "items": [
+        {
+          "q": "___ you like pizza?",
+          "a": "Do"
+        },
+        {
+          "q": "Mario ____ like fish.",
+          "a": "doesn't"
+        },
+        {
+          "q": "___ Lucía play tennis?",
+          "a": "Does"
+        },
+        {
+          "q": "We ____ go to school on Sundays.",
+          "a": "don't"
+        },
+        {
+          "q": "Where ___ Rocky sleep?",
+          "a": "does"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "En el present simple, para <b>negar</b> y <b>preguntar</b> necesitamos unos <mark>ayudantes</mark>: <b>do</b> y <b>does</b>. El ayudante hace el trabajo difícil (llevar la <em>-s</em> de he, she, it), así que el verbo principal descansa: va siempre <b>tal cual, sin s</b>.",
+      "en": "We need the helpers <b>do</b> / <b>does</b> for negatives and questions. The main verb stays in its base form.",
+      "formula": [
+        "I / you / we / they → *do / don't*",
+        "he / she / it → *does / doesn't*"
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Negativa",
+      "title_en": "Negative",
+      "icon": "⛔",
+      "color": "red",
+      "es": "Para negar ponemos <b>don't</b> (do not) con I, you, we, they y <b>doesn't</b> (does not) con he, she, it, <mark>delante del verbo</mark>. El verbo va <b>sin s</b>, porque la s ya está en doe<em>s</em>n't. ¡Nunca digas «I no like»!",
+      "en": "Negative: <b>don't / doesn't</b> + verb (no -s). Never 'I no like'.",
+      "formula": [
+        "I / you / we / they + *don't* + verbo",
+        "he / she / it + *doesn't* + verbo"
+      ],
+      "examples": [
+        {
+          "en": "I <b>don't like</b> broccoli.",
+          "es": "No me gusta el brócoli.",
+          "icon": "🥦"
+        },
+        {
+          "en": "We <b>don't go</b> to school on Saturdays.",
+          "es": "No vamos al cole los sábados.",
+          "icon": "🏫"
+        },
+        {
+          "en": "Lucía <b>doesn't watch</b> cartoons.",
+          "es": "Lucía no ve dibujos.",
+          "icon": "📺"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Preguntas",
+      "title_en": "Questions",
+      "icon": "❓",
+      "color": "blue",
+      "es": "Para preguntar ponemos <b>Do</b> o <b>Does</b> <mark>al principio</mark>, luego el sujeto y luego el verbo <b>sin s</b>. En español basta con la entonación («¿Juegas al tenis?»), pero en inglés ¡el ayudante es obligatorio!",
+      "en": "Questions: <b>Do / Does</b> + subject + verb (no -s)?",
+      "formula": [
+        "*Do* + I / you / we / they + verbo + …?",
+        "*Does* + he / she / it + verbo + …?"
+      ],
+      "examples": [
+        {
+          "en": "<b>Do</b> you <b>like</b> pizza?",
+          "es": "¿Te gusta la pizza?",
+          "icon": "🍕"
+        },
+        {
+          "en": "<b>Do</b> they <b>live</b> in Madrid?",
+          "es": "¿Viven en Madrid?",
+          "icon": "🏙️"
+        },
+        {
+          "en": "<b>Does</b> Leo <b>play</b> football?",
+          "es": "¿Leo juega al fútbol?",
+          "icon": "⚽"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "La mochila de DOES",
+      "title_en": "The does backpack",
+      "es": "Imagina que <b>does</b> es una mochila: ¡lleva la <em>-s</em> dentro! Cuando aparece does o doesn't, la s ya va en la mochila y el verbo va ligero, sin s. <i>She plays → She doesn't play → Does she play?</i>",
+      "en": "<b>Does</b> carries the -s, so the verb goes without -s."
+    },
+    {
+      "t": "table",
+      "title": "3 · Respuestas cortas",
+      "title_en": "Short answers",
+      "icon": "💬",
+      "color": "teal",
+      "head": [
+        "Pregunta · Question",
+        "Sí · Yes",
+        "No"
+      ],
+      "rows": [
+        [
+          "Do you like fish?",
+          "Yes, I <b>do</b>.",
+          "No, I <b>don't</b>."
+        ],
+        [
+          "Does he play tennis?",
+          "Yes, he <b>does</b>.",
+          "No, he <b>doesn't</b>."
+        ],
+        [
+          "Does she speak English?",
+          "Yes, she <b>does</b>.",
+          "No, she <b>doesn't</b>."
+        ],
+        [
+          "Does it bark?",
+          "Yes, it <b>does</b>.",
+          "No, it <b>doesn't</b>."
+        ],
+        [
+          "Do we have PE today?",
+          "Yes, we <b>do</b>.",
+          "No, we <b>don't</b>."
+        ],
+        [
+          "Do they walk to school?",
+          "Yes, they <b>do</b>.",
+          "No, they <b>don't</b>."
+        ]
+      ],
+      "note": "En la respuesta corta <b>no</b> repetimos el verbo: <s>Yes, I like.</s> → Yes, I <b>do</b>. Y contestamos con pronombre: Does <i>Lucía</i>…? → Yes, <b>she</b> does.",
+      "note_en": "Don't repeat the verb: Yes, I do. Answer with a pronoun."
+    },
+    {
+      "t": "rule",
+      "title": "4 · ¡Solo una S por frase!",
+      "title_en": "Only one -s",
+      "icon": "🐍",
+      "color": "purple",
+      "es": "La <em>-s</em> de he, she, it aparece <mark>una sola vez</mark> en la frase, y siempre en la palabra que «manda»: en la afirmativa, en el verbo (She play<em>s</em>); en la negativa y en la pregunta, en el ayudante (She doe<em>s</em>n't play · Doe<em>s</em> she play?). ¡Nunca en los dos!",
+      "en": "Only ONE -s per sentence: on the verb (affirmative) or on <b>does</b> (negative and question).",
+      "examples": [
+        {
+          "en": "She <b>doesn't like</b> milk. <i>(<s>likes</s>)</i>",
+          "es": "No le gusta la leche.",
+          "icon": "🥛"
+        },
+        {
+          "en": "<b>Does</b> he <b>watch</b> TV? <i>(<s>watches</s>)</i>",
+          "es": "¿Él ve la tele?",
+          "icon": "📺"
+        },
+        {
+          "en": "My dad <b>doesn't have</b> a car. <i>(<s>has</s>)</i>",
+          "es": "Mi padre no tiene coche.",
+          "icon": "🚗"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Preguntas con Wh-",
+      "title_en": "Wh- questions",
+      "icon": "🔎",
+      "color": "green",
+      "es": "Con las palabras de pregunta (<b>What, Where, When, What time…</b>) el orden es: <mark>Wh- + do / does + sujeto + verbo</mark>. ¡El ayudante va justo detrás de la palabra de pregunta!",
+      "en": "Wh- word + <b>do / does</b> + subject + verb?",
+      "formula": [
+        "*Where* + *do* + you + live + ?",
+        "*What time* + *does* + Lucía + get up + ?"
+      ],
+      "examples": [
+        {
+          "en": "<b>Where do</b> you live? — In Madrid.",
+          "es": "¿Dónde vives? — En Madrid.",
+          "icon": "🏠"
+        },
+        {
+          "en": "<b>What does</b> Rocky eat? — Dog food.",
+          "es": "¿Qué come Rocky? — Pienso.",
+          "icon": "🦴"
+        },
+        {
+          "en": "<b>What time do</b> you get up? — At eight.",
+          "es": "¿A qué hora te levantas? — A las ocho.",
+          "icon": "⏰"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿BE o DO?",
+      "title_en": "Be or do?",
+      "icon": "⚖️",
+      "color": "orange",
+      "es": "Con el verbo <b>to be</b> (am, is, are) <em>no</em> se usa do / does. ¡No los mezcles!",
+      "en": "Don't use do / does with <b>be</b>.",
+      "cols": [
+        {
+          "head": "😊 To be: sin do",
+          "color": "teal",
+          "items": [
+            "<b>Are</b> you happy?",
+            "She <b>isn't</b> tired.",
+            "<b>Is</b> he your friend?"
+          ]
+        },
+        {
+          "head": "🏃 Otros verbos: con do",
+          "color": "orange",
+          "items": [
+            "<b>Do</b> you like pizza?",
+            "She <b>doesn't</b> swim.",
+            "<b>Does</b> he play tennis?"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Todo junto",
+      "title_en": "All together",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Sujeto · Subject",
+        "✅ Afirmativa",
+        "⛔ Negativa",
+        "❓ Pregunta",
+        "💬 Respuesta corta"
+      ],
+      "rows": [
+        [
+          "I",
+          "I play.",
+          "I <b>don't</b> play.",
+          "<b>Do</b> I play?",
+          "Yes, I do. / No, I don't."
+        ],
+        [
+          "you",
+          "You play.",
+          "You <b>don't</b> play.",
+          "<b>Do</b> you play?",
+          "Yes, you do. / No, you don't."
+        ],
+        [
+          "he",
+          "He play<em>s</em>.",
+          "He <b>doesn't</b> play.",
+          "<b>Does</b> he play?",
+          "Yes, he does. / No, he doesn't."
+        ],
+        [
+          "she",
+          "She play<em>s</em>.",
+          "She <b>doesn't</b> play.",
+          "<b>Does</b> she play?",
+          "Yes, she does. / No, she doesn't."
+        ],
+        [
+          "it",
+          "It play<em>s</em>.",
+          "It <b>doesn't</b> play.",
+          "<b>Does</b> it play?",
+          "Yes, it does. / No, it doesn't."
+        ],
+        [
+          "we",
+          "We play.",
+          "We <b>don't</b> play.",
+          "<b>Do</b> we play?",
+          "Yes, we do. / No, we don't."
+        ],
+        [
+          "they",
+          "They play.",
+          "They <b>don't</b> play.",
+          "<b>Do</b> they play?",
+          "Yes, they do. / No, they don't."
+        ]
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Una S, tres frases",
+      "title_en": "One -s, three sentences",
+      "icon": "🐍",
+      "color": "purple",
+      "wide": true,
+      "es": "Fíjate dónde está la <em>s</em> en cada fila: ¡siempre hay una, pero solo una!",
+      "en": "Look where the -s is: there is always one, but only one.",
+      "cols": [
+        {
+          "head": "✅ Afirmativa",
+          "color": "green",
+          "items": [
+            "She play<em>s</em> tennis.",
+            "He watch<em>es</em> TV.",
+            "Lucía stud<em>ies</em> a lot.",
+            "Dad <b>has</b> lunch at two."
+          ]
+        },
+        {
+          "head": "⛔ Negativa",
+          "color": "pink",
+          "items": [
+            "She doe<em>s</em>n't play tennis.",
+            "He doe<em>s</em>n't watch TV.",
+            "Lucía doe<em>s</em>n't study a lot.",
+            "Dad doe<em>s</em>n't have lunch at two."
+          ]
+        },
+        {
+          "head": "❓ Pregunta",
+          "color": "blue",
+          "items": [
+            "Doe<em>s</em> she play tennis?",
+            "Doe<em>s</em> he watch TV?",
+            "Doe<em>s</em> Lucía study a lot?",
+            "Doe<em>s</em> Dad have lunch at two?"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "El tren de la pregunta",
+      "title_en": "Question word order",
+      "icon": "🚂",
+      "color": "blue",
+      "wide": true,
+      "head": [
+        "Palabra Wh-",
+        "do / does",
+        "Sujeto",
+        "Verbo",
+        "Resto"
+      ],
+      "rows": [
+        [
+          "—",
+          "<b>Do</b>",
+          "you",
+          "like",
+          "pizza?"
+        ],
+        [
+          "—",
+          "<b>Does</b>",
+          "Anna",
+          "speak",
+          "English?"
+        ],
+        [
+          "<b>Where</b>",
+          "<b>do</b>",
+          "you",
+          "live",
+          "?"
+        ],
+        [
+          "<b>What</b>",
+          "<b>does</b>",
+          "Lucía",
+          "eat",
+          "for breakfast?"
+        ],
+        [
+          "<b>What time</b>",
+          "<b>do</b>",
+          "they",
+          "go",
+          "to bed?"
+        ],
+        [
+          "<b>When</b>",
+          "<b>does</b>",
+          "Mario",
+          "have",
+          "English?"
+        ]
+      ],
+      "note": "Piensa en un tren: los vagones siempre van en el mismo orden: (Wh-) → do / does → sujeto → verbo → resto.",
+      "note_en": "Like a train: (Wh-) → do / does → subject → verb → the rest."
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "¿Afirmativa, negativa o pregunta? Si es afirmativa, ¡no necesitas ayudante!",
+          "en": "Affirmative? No helper needed."
+        },
+        {
+          "es": "Mira el sujeto: I, you, we, they → <b>do / don't</b> · he, she, it → <b>does / doesn't</b>.",
+          "en": "Choose do or does."
+        },
+        {
+          "es": "Negativa: sujeto + <b>don't / doesn't</b> + verbo.",
+          "en": "Negative: subject + don't / doesn't + verb."
+        },
+        {
+          "es": "Pregunta: (Wh-) + <b>Do / Does</b> + sujeto + verbo…?",
+          "en": "Question: (Wh-) + do / does + subject + verb?"
+        },
+        {
+          "es": "Revisa: ¿hay solo <b>una s</b>? Después del ayudante, el verbo va ¡siempre sin s!",
+          "en": "Check: only one -s!"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "I don't like spiders.",
+          "es": "No me gustan las arañas.",
+          "icon": "🕷️"
+        },
+        {
+          "en": "Do you have a pet? — Yes, I do. A dog!",
+          "es": "¿Tienes mascota? — Sí. ¡Un perro!",
+          "icon": "🐶"
+        },
+        {
+          "en": "My mum doesn't drink coffee.",
+          "es": "Mi madre no bebe café.",
+          "icon": "☕"
+        },
+        {
+          "en": "Does Anna speak Spanish? — Yes, she does.",
+          "es": "¿Anna habla español? — Sí.",
+          "icon": "🗣️"
+        },
+        {
+          "en": "We don't have homework on Fridays.",
+          "es": "No tenemos deberes los viernes.",
+          "icon": "🎉"
+        },
+        {
+          "en": "Where does your grandma live?",
+          "es": "¿Dónde vive tu abuela?",
+          "icon": "👵"
+        },
+        {
+          "en": "Do Leo and Tom play basketball? — No, they don't.",
+          "es": "¿Leo y Tom juegan al baloncesto? — No.",
+          "icon": "🏀"
+        },
+        {
+          "en": "Rocky doesn't like the vet!",
+          "es": "¡A Rocky no le gusta el veterinario!",
+          "icon": "🩺"
+        },
+        {
+          "en": "What time does the film start?",
+          "es": "¿A qué hora empieza la película?",
+          "icon": "🎬"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "nono",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I no like fish.",
+          "good": "I <b>don't</b> like fish.",
+          "why": "Negamos con don't / doesn't, nunca con «no».",
+          "why_en": "Use don't, not no."
+        },
+        {
+          "bad": "She don't play tennis.",
+          "good": "She <b>doesn't</b> play tennis.",
+          "why": "he / she / it → doesn't.",
+          "why_en": "he / she / it → doesn't."
+        },
+        {
+          "bad": "He doesn't likes pizza.",
+          "good": "He doesn't <b>like</b> pizza.",
+          "why": "doesn't ya lleva la s.",
+          "why_en": "doesn't already has the -s."
+        },
+        {
+          "bad": "Does she plays the piano?",
+          "good": "Does she <b>play</b> the piano?",
+          "why": "does ya lleva la s.",
+          "why_en": "does already has the -s."
+        },
+        {
+          "bad": "You like cartoons?",
+          "good": "<b>Do you</b> like cartoons?",
+          "why": "Las preguntas necesitan do / does.",
+          "why_en": "Questions need do / does."
+        },
+        {
+          "bad": "Where you live?",
+          "good": "Where <b>do</b> you live?",
+          "why": "Wh- + do / does + sujeto + verbo.",
+          "why_en": "Wh- + do / does + subject + verb."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el recreo",
+      "title_en": "At break time",
+      "lines": [
+        {
+          "who": "Mario",
+          "en": "Do you like football, Tom?",
+          "es": "¿Te gusta el fútbol, Tom?"
+        },
+        {
+          "who": "Tom",
+          "en": "Yes, I do! I play every Saturday.",
+          "es": "¡Sí! Juego todos los sábados."
+        },
+        {
+          "who": "Mario",
+          "en": "Does your sister play too?",
+          "es": "¿Tu hermana también juega?"
+        },
+        {
+          "who": "Tom",
+          "en": "No, she doesn't. She swims. Do you have a pet?",
+          "es": "No. Ella nada. ¿Tienes mascota?"
+        },
+        {
+          "who": "Mario",
+          "en": "Yes, I do. Rocky! He doesn't swim, but he runs a lot.",
+          "es": "Sí. ¡Rocky! No nada, pero corre mucho."
+        },
+        {
+          "who": "Tom",
+          "en": "What does he eat?",
+          "es": "¿Qué come?"
+        },
+        {
+          "who": "Mario",
+          "en": "Everything! He loves my socks!",
+          "es": "¡De todo! ¡Le encantan mis calcetines!"
+        },
+        {
+          "who": "Tom",
+          "en": "Ha, ha! My cat doesn't eat socks!",
+          "es": "¡Ja, ja! ¡Mi gato no come calcetines!"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct word",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta. Mira primero el sujeto.",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "[Do|Does] you like ice cream?",
+          "a": "Do"
+        },
+        {
+          "q": "[Do|Does] Lucía play the piano?",
+          "a": "Does"
+        },
+        {
+          "q": "We [don't|doesn't] have English today.",
+          "a": "don't"
+        },
+        {
+          "q": "Rocky [don't|doesn't] like cats.",
+          "a": "doesn't"
+        },
+        {
+          "q": "[Do|Does] your friends live near you?",
+          "a": "Do"
+        },
+        {
+          "q": "She doesn't [watch|watches] TV.",
+          "a": "watch"
+        },
+        {
+          "q": "Does he [play|plays] football?",
+          "a": "play"
+        },
+        {
+          "q": "I [don't|doesn't] eat meat.",
+          "a": "don't"
+        },
+        {
+          "q": "Where [do|does] Anna live?",
+          "a": "does"
+        },
+        {
+          "q": "What [do|does] you want?",
+          "a": "do"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Do o does?",
+      "title_en": "Do or does?",
+      "icon": "🗂️",
+      "es": "Escribe cada sujeto en su caja: ¿va con do / don't o con does / doesn't?",
+      "en": "Sort the subjects.",
+      "cats": [
+        {
+          "name": "do / don't",
+          "words": [
+            "I",
+            "you",
+            "we",
+            "they",
+            "my parents",
+            "Leo and Tom",
+            "the dogs"
+          ]
+        },
+        {
+          "name": "does / doesn't",
+          "words": [
+            "he",
+            "she",
+            "it",
+            "Mario",
+            "my mum",
+            "the cat",
+            "Lucía"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Bien o mal?",
+      "title_en": "Right or wrong?",
+      "icon": "✅",
+      "es": "¿La frase está bien (T) o mal (F)? Si está mal, piensa por qué.",
+      "en": "Is the sentence right (T) or wrong (F)?",
+      "items": [
+        {
+          "q": "She doesn't play tennis.",
+          "a": true
+        },
+        {
+          "q": "Does he likes pizza?",
+          "a": false,
+          "why": "Does he <b>like</b> pizza?"
+        },
+        {
+          "q": "We don't go to school on Sundays.",
+          "a": true
+        },
+        {
+          "q": "My dad don't drink coffee.",
+          "a": false,
+          "why": "My dad <b>doesn't</b> drink coffee."
+        },
+        {
+          "q": "Do they live in Madrid?",
+          "a": true
+        },
+        {
+          "q": "Where does Leo live?",
+          "a": true
+        },
+        {
+          "q": "I no like fish.",
+          "a": false,
+          "why": "I <b>don't</b> like fish."
+        },
+        {
+          "q": "Do you are hungry?",
+          "a": false,
+          "why": "<b>Are</b> you hungry?"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "don't o doesn't",
+      "title_en": "don't or doesn't",
+      "icon": "⛔",
+      "es": "Completa con don't o doesn't. Antes, subraya el sujeto.",
+      "en": "Complete with don't or doesn't.",
+      "bank": [
+        "don't",
+        "doesn't"
+      ],
+      "items": [
+        {
+          "q": "I ____ like spiders.",
+          "a": "don't"
+        },
+        {
+          "q": "My dad ____ drink milk.",
+          "a": "doesn't"
+        },
+        {
+          "q": "They ____ live in London.",
+          "a": "don't"
+        },
+        {
+          "q": "Tom ____ speak Spanish.",
+          "a": "doesn't"
+        },
+        {
+          "q": "We ____ go to school on Sundays.",
+          "a": "don't"
+        },
+        {
+          "q": "The cat ____ like water.",
+          "a": "doesn't"
+        },
+        {
+          "q": "You ____ have a brother.",
+          "a": "don't"
+        },
+        {
+          "q": "Lucía ____ get up early on Saturdays.",
+          "a": "doesn't"
+        },
+        {
+          "q": "My friends ____ play tennis.",
+          "a": "don't"
+        },
+        {
+          "q": "It ____ rain a lot here.",
+          "a": "doesn't"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Respuestas cortas",
+      "title_en": "Short answers",
+      "icon": "💬",
+      "es": "Completa la respuesta corta con do, does, don't o doesn't.",
+      "en": "Complete the short answer.",
+      "items": [
+        {
+          "q": "Does she play tennis? — Yes, she ____.",
+          "a": "does"
+        },
+        {
+          "q": "Do you like fish? — No, I ____.",
+          "a": "don't"
+        },
+        {
+          "q": "Does Tom have a dog? — No, he ____.",
+          "a": "doesn't"
+        },
+        {
+          "q": "Do they live here? — Yes, they ___.",
+          "a": "do"
+        },
+        {
+          "q": "Does your teacher speak Spanish? — Yes, she ____.",
+          "a": "does"
+        },
+        {
+          "q": "Do you and your friends play football? — No, we ____.",
+          "a": "don't"
+        },
+        {
+          "q": "Does Rocky like the park? — Yes, he ____.",
+          "a": "does"
+        },
+        {
+          "q": "Do I need a pencil? — Yes, you ___.",
+          "a": "do"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une pregunta y respuesta",
+      "title_en": "Match questions and answers",
+      "icon": "🔗",
+      "es": "Une cada pregunta con su respuesta.",
+      "en": "Match each question with its answer.",
+      "pairs": [
+        [
+          "Do you like chocolate?",
+          "Yes, I do. I love it!"
+        ],
+        [
+          "Does Lucía play the guitar?",
+          "No, she doesn't. She plays the piano."
+        ],
+        [
+          "Where do you live?",
+          "In Madrid."
+        ],
+        [
+          "What does Rocky eat?",
+          "Dog food and my socks!"
+        ],
+        [
+          "What time do you get up?",
+          "At half past seven."
+        ],
+        [
+          "Do your grandparents live in Sevilla?",
+          "Yes, they do."
+        ],
+        [
+          "When does Leo play football?",
+          "On Saturdays."
+        ],
+        [
+          "Does it snow in summer?",
+          "No, it doesn't!"
+        ]
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa las casillas vacías. ¡Ojo con la -s!",
+      "en": "Fill in the empty boxes.",
+      "head": [
+        "✅ Afirmativa",
+        "⛔ Negativa",
+        "❓ Pregunta"
+      ],
+      "rows": [
+        [
+          "You like pizza.",
+          "?You don't like pizza.",
+          "?Do you like pizza?"
+        ],
+        [
+          "She plays tennis.",
+          "?She doesn't play tennis.",
+          "?Does she play tennis?"
+        ],
+        [
+          "?We walk to school.",
+          "We don't walk to school.",
+          "?Do we walk to school?"
+        ],
+        [
+          "?Rocky eats fish.",
+          "?Rocky doesn't eat fish.",
+          "Does Rocky eat fish?"
+        ],
+        [
+          "?They watch TV.",
+          "They don't watch TV.",
+          "?Do they watch TV?"
+        ],
+        [
+          "?Leo studies a lot.",
+          "?Leo doesn't study a lot.",
+          "Does Leo study a lot?"
+        ]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pasa a negativa",
+      "title_en": "Make it negative",
+      "icon": "⛔",
+      "es": "Escribe la frase en negativa con don't o doesn't. Pregúntate: ¿el verbo lleva s? (No debería.)",
+      "en": "Write the sentence in the negative.",
+      "items": [
+        {
+          "q": "She likes milk.",
+          "a": "She doesn't like milk."
+        },
+        {
+          "q": "They play football.",
+          "a": "They don't play football."
+        },
+        {
+          "q": "He watches TV.",
+          "a": "He doesn't watch TV."
+        },
+        {
+          "q": "I go to school by bus.",
+          "a": "I don't go to school by bus."
+        },
+        {
+          "q": "My dog eats fish.",
+          "a": "My dog doesn't eat fish."
+        },
+        {
+          "q": "We study on Sundays.",
+          "a": "We don't study on Sundays."
+        },
+        {
+          "q": "Lucía has lunch at home.",
+          "a": "Lucía doesn't have lunch at home."
+        },
+        {
+          "q": "Tom flies his kite.",
+          "a": "Tom doesn't fly his kite."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pregunta y responde",
+      "title_en": "Ask and answer",
+      "icon": "❓",
+      "es": "Escribe la pregunta con Do o Does y la respuesta corta. Fíjate en la pista (YES / NO).",
+      "en": "Write the question and the short answer.",
+      "labels": [
+        "❓",
+        "💬"
+      ],
+      "items": [
+        {
+          "q": "you / like pizza (YES)",
+          "a": [
+            "Do you like pizza?",
+            "Yes, I do."
+          ]
+        },
+        {
+          "q": "he / play tennis (NO)",
+          "a": [
+            "Does he play tennis?",
+            "No, he doesn't."
+          ]
+        },
+        {
+          "q": "she / watch TV (YES)",
+          "a": [
+            "Does she watch TV?",
+            "Yes, she does."
+          ]
+        },
+        {
+          "q": "they / live in Madrid (NO)",
+          "a": [
+            "Do they live in Madrid?",
+            "No, they don't."
+          ]
+        },
+        {
+          "q": "your mum / work in a shop (YES)",
+          "a": [
+            "Does your mum work in a shop?",
+            "Yes, she does."
+          ]
+        },
+        {
+          "q": "Leo and Tom / have a dog (NO)",
+          "a": [
+            "Do Leo and Tom have a dog?",
+            "No, they don't."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Preguntas con Wh-",
+      "title_en": "Wh- questions",
+      "icon": "🔎",
+      "es": "Completa la pregunta con do o does.",
+      "en": "Complete the question with do or does.",
+      "bank": [
+        "do",
+        "does"
+      ],
+      "items": [
+        {
+          "q": "Where ___ you live?",
+          "a": "do"
+        },
+        {
+          "q": "What ____ Lucía eat for breakfast?",
+          "a": "does"
+        },
+        {
+          "q": "What time ____ your dad get up?",
+          "a": "does"
+        },
+        {
+          "q": "When ___ we have PE?",
+          "a": "do"
+        },
+        {
+          "q": "What ___ they like?",
+          "a": "do"
+        },
+        {
+          "q": "Where ____ Rocky sleep?",
+          "a": "does"
+        },
+        {
+          "q": "What ____ your mum do?",
+          "a": "does"
+        },
+        {
+          "q": "How ___ you go to school?",
+          "a": "do"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {
+          "q": "you / do / pizza / like / ?",
+          "a": "Do you like pizza?"
+        },
+        {
+          "q": "doesn't / Lucía / milk / drink",
+          "a": "Lucía doesn't drink milk."
+        },
+        {
+          "q": "does / where / live / Anna / ?",
+          "a": "Where does Anna live?"
+        },
+        {
+          "q": "don't / we / on Sundays / school / go to",
+          "a": "We don't go to school on Sundays."
+        },
+        {
+          "q": "Rocky / does / cats / like / ?",
+          "a": "Does Rocky like cats?"
+        },
+        {
+          "q": "what time / get up / you / do / ?",
+          "a": "What time do you get up?"
+        },
+        {
+          "q": "doesn't / my dad / coffee / like",
+          "a": "My dad doesn't like coffee."
+        },
+        {
+          "q": "do / what / for breakfast / eat / they / ?",
+          "a": "What do they eat for breakfast?"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien y subraya lo que has corregido.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "He don't like fish.",
+          "a": "He doesn't like fish."
+        },
+        {
+          "q": "Does she plays tennis?",
+          "a": "Does she play tennis?"
+        },
+        {
+          "q": "They doesn't go to school.",
+          "a": "They don't go to school."
+        },
+        {
+          "q": "She doesn't likes milk.",
+          "a": "She doesn't like milk."
+        },
+        {
+          "q": "Do he have a bike?",
+          "a": "Does he have a bike?"
+        },
+        {
+          "q": "I no eat meat.",
+          "a": "I don't eat meat."
+        },
+        {
+          "q": "Where you live?",
+          "a": "Where do you live?"
+        },
+        {
+          "q": "Do you are tired?",
+          "a": "Are you tired?"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿necesito ayudante? ¿do o does? ¿el verbo sin s?",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "No me gusta el brócoli.",
+          "a": "I don't like broccoli."
+        },
+        {
+          "q": "¿Juegas al fútbol?",
+          "a": "Do you play football?"
+        },
+        {
+          "q": "Mi hermana no ve la tele.",
+          "a": "My sister doesn't watch TV."
+        },
+        {
+          "q": "¿Tu padre trabaja en un hospital?",
+          "a": "Does your dad work in a hospital?"
+        },
+        {
+          "q": "¿Dónde vive Leo?",
+          "a": "Where does Leo live?"
+        },
+        {
+          "q": "Hoy no tenemos deberes.",
+          "a": "We don't have (any) homework today."
+        },
+        {
+          "q": "¿A qué hora te levantas?",
+          "a": "What time do you get up?"
+        },
+        {
+          "q": "Rocky no come verdura.",
+          "a": "Rocky doesn't eat vegetables."
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de verbos",
+      "title_en": "Verb search",
+      "icon": "🔎",
+      "es": "Busca los 10 verbos. Después escribe una pregunta con Do y otra con Does usando dos de ellos.",
+      "en": "Find the 10 verbs. Then write a question with Do and one with Does.",
+      "words": [
+        "like",
+        "play",
+        "watch",
+        "live",
+        "speak",
+        "drink",
+        "swim",
+        "read",
+        "eat",
+        "sleep"
+      ],
+      "clues": [
+        "like · gustar",
+        "play · jugar",
+        "watch · ver",
+        "live · vivir",
+        "speak · hablar",
+        "drink · beber",
+        "swim · nadar",
+        "read · leer",
+        "eat · comer",
+        "sleep · dormir"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee la entrevista. Marca T (true) o F (false) y contesta con respuestas cortas o frases.",
+      "en": "Read the interview. Tick T or F and answer the questions.",
+      "text_title": "Meet Anna!",
+      "text": [
+        "<b>Mario:</b> Where do you live, Anna? <b>Anna:</b> I live in Madrid now, but I'm from London.",
+        "<b>Mario:</b> Do you speak Spanish? <b>Anna:</b> Yes, I do, but not very well! My mum speaks Spanish, but my dad doesn't. He speaks English and French.",
+        "<b>Mario:</b> What do you do after school? <b>Anna:</b> I play football on Mondays and Wednesdays. I don't play on Fridays: I go to my grandma's house.",
+        "<b>Mario:</b> Does your brother play football too? <b>Anna:</b> No, he doesn't. Sam doesn't like sport. He reads comics!"
+      ],
+      "items": [
+        {
+          "q": "Anna lives in London.",
+          "tf": true,
+          "a": false,
+          "why": "She lives in Madrid. She's from London."
+        },
+        {
+          "q": "Anna's dad speaks French.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Anna plays football on Fridays.",
+          "tf": true,
+          "a": false,
+          "why": "She plays on Mondays and Wednesdays."
+        },
+        {
+          "q": "Does Anna speak Spanish?",
+          "a": "Yes, she does."
+        },
+        {
+          "q": "Does Anna's dad speak Spanish?",
+          "a": "No, he doesn't."
+        },
+        {
+          "q": "Does Sam like sport?",
+          "a": "No, he doesn't. He reads comics."
+        },
+        {
+          "q": "Where does Anna go on Fridays?",
+          "a": "She goes to her grandma's house."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre ti y tu familia. Usa don't, doesn't, Do…? y Does…?",
+      "en": "Write about you and your family.",
+      "items": [
+        {
+          "q": "Escribe 2 cosas que <b>no</b> haces: I don't…",
+          "lines": 2,
+          "a": "Ej.: I don't like spiders. I don't drink coffee."
+        },
+        {
+          "q": "Escribe 2 cosas que alguien de tu familia <b>no</b> hace: He / She doesn't…",
+          "lines": 2,
+          "a": "Ej.: My sister doesn't play football. She doesn't eat fish."
+        },
+        {
+          "q": "Escribe 3 preguntas para un amigo: Do you…? Where do you…?",
+          "lines": 2,
+          "a": "Ej.: Do you have a pet? Where do you live? What time do you get up?"
+        },
+        {
+          "q": "Contesta: Do you like broccoli? Does your best friend play football?",
+          "lines": 1,
+          "a": "Ej.: No, I don't. Yes, he does."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé que <b>do</b> y <b>does</b> son los ayudantes para negar y preguntar.",
+      "en": "I know do and does are helpers."
+    },
+    {
+      "es": "Niego con <b>don't / doesn't</b> + verbo (¡nunca «no»!).",
+      "en": "I can make negatives with don't / doesn't."
+    },
+    {
+      "es": "Pregunto con <b>Do / Does</b> + sujeto + verbo.",
+      "en": "I can ask questions with do / does."
+    },
+    {
+      "es": "Contesto con respuestas cortas: Yes, I do. / No, she doesn't.",
+      "en": "I can give short answers."
+    },
+    {
+      "es": "Pongo <b>una sola s</b> por frase: doesn't like, Does he play?",
+      "en": "I use only one -s per sentence."
+    },
+    {
+      "es": "Hago preguntas con Wh-: <b>Where do</b> you live?",
+      "en": "I can ask Wh- questions with do / does."
+    },
+    {
+      "es": "No uso do con to be: <b>Are</b> you happy?",
+      "en": "I don't use do with be."
+    }
+  ]
+}

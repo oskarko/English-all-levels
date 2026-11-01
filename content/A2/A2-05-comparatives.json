@@ -1,0 +1,1487 @@
+{
+  "id": "A2-05",
+  "level": "A2",
+  "title": "COMPARATIVOS",
+  "file_title": "Comparativos",
+  "subtitle": "Comparatives · comparar dos cosas",
+  "icon": "⚖️",
+  "map": {
+    "center": "Para <b>comparar dos cosas</b> usamos el comparativo + <b>than</b>: <mark>Rocky is bigger than my cat.</mark>",
+    "nodes": [
+      {
+        "title": "Adjetivos cortos",
+        "icon": "📏",
+        "items": [
+          "1 sílaba → + <em>-er</em>",
+          "tall → tall<em>er</em> · fast → fast<em>er</em>",
+          "nice → nice<em>r</em> (acaba en -e: solo -r)"
+        ]
+      },
+      {
+        "title": "Ortografía",
+        "icon": "✏️",
+        "art": "🐘",
+        "items": [
+          "big → bi<em>gg</em>er · hot → ho<em>tt</em>er",
+          "-y → <em>-ier</em>: funny → funn<em>ier</em>",
+          "happy → happ<em>ier</em> · easy → eas<em>ier</em>"
+        ]
+      },
+      {
+        "title": "Adjetivos largos",
+        "icon": "📚",
+        "items": [
+          "2 sílabas o más → <b>more</b> + adjetivo",
+          "<b>more</b> expensive · <b>more</b> beautiful",
+          "¡Nunca los dos!: <s>more bigger</s>"
+        ]
+      },
+      {
+        "title": "Irregulares",
+        "icon": "⭐",
+        "rows": [
+          [
+            "good",
+            "→ <b>better</b> (mejor)"
+          ],
+          [
+            "bad",
+            "→ <b>worse</b> (peor)"
+          ],
+          [
+            "far",
+            "→ <b>further</b> (más lejos)"
+          ]
+        ],
+        "after": "¡Apréndelos de memoria!"
+      },
+      {
+        "title": "THAN = que",
+        "icon": "🔗",
+        "items": [
+          "Comparativo + <b>than</b> + lo otro",
+          "Leo is taller <b>than</b> Tom.",
+          "«que» = <b>than</b>, ¡nunca <s>that</s>!"
+        ]
+      },
+      {
+        "title": "AS … AS",
+        "icon": "🤝",
+        "art": "👭",
+        "items": [
+          "<b>as</b> + adjetivo + <b>as</b> = tan … como",
+          "Sara is <b>as tall as</b> Anna.",
+          "<b>not as</b> fast <b>as</b> = no tan rápido como"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "Rocky is more big than Max."
+      ],
+      "good": [
+        "Rocky is bigger than Max."
+      ],
+      "note": "corto → <b>-er</b>, ¡sin more!"
+    },
+    "mini": {
+      "es": "Escribe el comparativo.",
+      "en": "Write the comparative.",
+      "items": [
+        {
+          "q": "A car is ___ than a bike.",
+          "a": "faster",
+          "hint": "fast"
+        },
+        {
+          "q": "My bag is ___ than yours.",
+          "a": "heavier",
+          "hint": "heavy"
+        },
+        {
+          "q": "An elephant is ___ than a dog.",
+          "a": "bigger",
+          "hint": "big"
+        },
+        {
+          "q": "Maths is _____ than art.",
+          "a": "more difficult",
+          "hint": "difficult"
+        },
+        {
+          "q": "Your drawing is ___ than mine!",
+          "a": "better",
+          "hint": "good"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Los <b>comparativos</b> sirven para <mark>comparar dos cosas, personas o animales</mark>. En español decimos <i>más alto que</i>. En inglés, los adjetivos <b>cortos</b> añaden <em>-er</em> (tall<em>er</em>) y los <b>largos</b> usan <b>more</b> (more expensive). Y el «que» siempre es <b>than</b>.",
+      "en": "Comparatives compare two things. Short adjectives add <em>-er</em>, long ones use <b>more</b>. «Que» = <b>than</b>.",
+      "formula": [
+        "A + is + *taller* + than + B",
+        "A + is + *more expensive* + than + B"
+      ],
+      "wide": true
+    },
+    {
+      "t": "table",
+      "title": "De un vistazo: ¿cómo se forma?",
+      "title_en": "At a glance: how do I make it?",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Tipo de adjetivo",
+        "Regla",
+        "Ejemplos",
+        "Frase"
+      ],
+      "rows": [
+        [
+          "1 sílaba",
+          "+ <b>er</b>",
+          "tall → taller · small → smaller · old → older · fast → faster",
+          "Tom is <b>older</b> than Anna."
+        ],
+        [
+          "acaba en -e",
+          "+ <b>r</b>",
+          "nice → nicer · large → larger · safe → safer",
+          "This park is <b>nicer</b>."
+        ],
+        [
+          "consonante + vocal + consonante",
+          "doble + <b>er</b>",
+          "big → bigger · hot → hotter · thin → thinner · sad → sadder",
+          "My dog is <b>bigger</b>."
+        ],
+        [
+          "acaba en consonante + y",
+          "y → <b>ier</b>",
+          "happy → happier · funny → funnier · easy → easier · heavy → heavier",
+          "Art is <b>easier</b>."
+        ],
+        [
+          "2 sílabas o más",
+          "<b>more</b> + adjetivo",
+          "more expensive · more beautiful · more difficult · more famous",
+          "Gold is <b>more expensive</b>."
+        ],
+        [
+          "irregulares",
+          "¡de memoria!",
+          "good → better · bad → worse · far → further",
+          "Pizza is <b>better</b>!"
+        ]
+      ],
+      "note": "Ojo: la <b>w</b> no se dobla: new → newer, slow → slower.",
+      "note_en": "Don't double w: new → newer."
+    },
+    {
+      "t": "rule",
+      "title": "1 · Adjetivos cortos: + er",
+      "title_en": "Short adjectives: + er",
+      "icon": "📏",
+      "color": "green",
+      "es": "Si el adjetivo es <b>corto</b> (una sílaba), le añadimos <b>-er</b>: tall → tall<em>er</em>, small → small<em>er</em>, fast → fast<em>er</em>. Si ya acaba en <b>-e</b>, solo añadimos <b>-r</b>: nice → nice<em>r</em>, safe → safe<em>r</em>.",
+      "en": "One-syllable adjectives add <b>-er</b> (tall → taller). Ending in -e? Just add <b>-r</b> (nice → nicer).",
+      "formula": [
+        "tall + *er*",
+        "nice + *r*"
+      ],
+      "examples": [
+        {
+          "en": "Lucía is <b>taller</b> than me.",
+          "es": "Lucía es más alta que yo.",
+          "icon": "👧"
+        },
+        {
+          "en": "A cheetah is <b>faster</b> than a horse.",
+          "es": "Un guepardo es más rápido que un caballo.",
+          "icon": "🐆"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Doble consonante",
+      "title_en": "Double the consonant",
+      "icon": "✌️",
+      "color": "orange",
+      "es": "Si el adjetivo corto acaba en <b>consonante + vocal + consonante</b>, doblamos la última letra: b-i-<b>g</b> → bi<em>gg</em>er, h-o-<b>t</b> → ho<em>tt</em>er, th-i-<b>n</b> → thi<em>nn</em>er. ¡Como en stop → stopped! Pero la <b>w</b> no se dobla: new → newer, slow → slower.",
+      "en": "Consonant + vowel + consonant → double the last letter: big → bigger. Never double w: new → newer.",
+      "formula": [
+        "big + *g* + er"
+      ],
+      "examples": [
+        {
+          "en": "An elephant is <b>bigger</b> than a hippo.",
+          "es": "Un elefante es más grande que un hipopótamo.",
+          "icon": "🐘"
+        },
+        {
+          "en": "July is <b>hotter</b> than March.",
+          "es": "Julio es más caluroso que marzo.",
+          "icon": "☀️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Acaban en -y → -ier",
+      "title_en": "Ending in -y → -ier",
+      "icon": "🔄",
+      "color": "purple",
+      "es": "Si el adjetivo acaba en <b>consonante + y</b> (aunque tenga dos sílabas), cambiamos la y por <b>i</b> y añadimos <b>-er</b>: happy → happ<em>ier</em>, funny → funn<em>ier</em>, easy → eas<em>ier</em>. ¡Estos <b>no</b> usan more!",
+      "en": "Adjectives ending in consonant + y → <b>-ier</b>: funny → funnier. No more!",
+      "formula": [
+        "happy → happ + *ier*"
+      ],
+      "examples": [
+        {
+          "en": "This joke is <b>funnier</b> than yours!",
+          "es": "¡Este chiste es más gracioso que el tuyo!",
+          "icon": "😂"
+        },
+        {
+          "en": "English is <b>easier</b> than maths for me.",
+          "es": "Para mí el inglés es más fácil que las mates.",
+          "icon": "📘"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Adjetivos largos: more",
+      "title_en": "Long adjectives: more",
+      "icon": "📚",
+      "color": "blue",
+      "es": "Si el adjetivo es <b>largo</b> (dos sílabas o más, y no acaba en -y), ponemos <b>more</b> delante y el adjetivo <b>no cambia</b>: expensive → <b>more</b> expensive, beautiful → <b>more</b> beautiful, interesting → <b>more</b> interesting. ¡Nunca uses more y -er a la vez!",
+      "en": "Long adjectives: <b>more</b> + adjective. Never more + -er.",
+      "formula": [
+        "*more* + expensive / beautiful / dangerous + than"
+      ],
+      "examples": [
+        {
+          "en": "A plane is <b>more expensive</b> than a car.",
+          "es": "Un avión es más caro que un coche.",
+          "icon": "✈️"
+        },
+        {
+          "en": "This book is <b>more interesting</b> than the film.",
+          "es": "Este libro es más interesante que la peli.",
+          "icon": "📖"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Los irregulares",
+      "title_en": "Irregular comparatives",
+      "icon": "⭐",
+      "color": "yellow",
+      "es": "Tres adjetivos son rebeldes y cambian por completo: <b>good → better</b> (mejor), <b>bad → worse</b> (peor) y <b>far → further</b> (más lejos). ¡Nunca digas <s>gooder</s>, <s>more good</s> ni <s>badder</s>!",
+      "en": "good → <b>better</b>, bad → <b>worse</b>, far → <b>further</b>.",
+      "examples": [
+        {
+          "en": "Your drawing is <b>better</b> than mine.",
+          "es": "Tu dibujo es mejor que el mío.",
+          "icon": "🎨"
+        },
+        {
+          "en": "The weather today is <b>worse</b> than yesterday.",
+          "es": "Hoy hace peor tiempo que ayer.",
+          "icon": "🌧️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · THAN = que",
+      "title_en": "than",
+      "icon": "🔗",
+      "color": "teal",
+      "es": "Para decir <b>con qué</b> comparamos usamos <b>than</b> (que). ¡Cuidado con la trampa del español!: el «que» de una comparación <b>nunca</b> es <s>that</s> ni <s>what</s>. Después de than podemos poner un nombre o un pronombre: <b>than me</b>, <b>than him</b>, <b>than us</b>.",
+      "en": "Use <b>than</b> after the comparative, not <s>that</s>. After than: me, him, her, us, them.",
+      "formula": [
+        "*comparativo* + than + me / Tom / my cat"
+      ],
+      "examples": [
+        {
+          "en": "Sara is faster <b>than</b> me.",
+          "es": "Sara es más rápida que yo.",
+          "icon": "🏃"
+        },
+        {
+          "en": "My grandparents are older <b>than</b> my parents.",
+          "es": "Mis abuelos son mayores que mis padres.",
+          "icon": "👴"
+        },
+        {
+          "en": "Cats are quieter <b>than</b> dogs.",
+          "es": "Los gatos son más silenciosos que los perros.",
+          "icon": "🐈"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "7 · AS … AS: tan … como",
+      "title_en": "as … as",
+      "icon": "🤝",
+      "color": "pink",
+      "es": "Si dos cosas son <b>iguales</b>, usamos <b>as + adjetivo + as</b> (tan… como). ¡Aquí el adjetivo <b>no cambia</b>: nada de -er ni more! Si <b>no</b> son iguales, decimos <b>not as … as</b> (no tan… como).",
+      "en": "<b>as + adjective + as</b> = the same. <b>not as … as</b> = less. The adjective doesn't change.",
+      "formula": [
+        "*as* + tall + *as*",
+        "*not as* + fast + *as*"
+      ],
+      "examples": [
+        {
+          "en": "Anna is <b>as tall as</b> Sara.",
+          "es": "Anna es tan alta como Sara.",
+          "icon": "👭"
+        },
+        {
+          "en": "My bike <b>isn't as fast as</b> yours.",
+          "es": "Mi bici no es tan rápida como la tuya.",
+          "icon": "🚲"
+        },
+        {
+          "en": "Lucía is <b>as funny as</b> Dad.",
+          "es": "Lucía es tan graciosa como papá.",
+          "icon": "🤪"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "Dos formas de decir lo mismo",
+      "title_en": "Two ways to say the same",
+      "icon": "🔁",
+      "color": "green",
+      "es": "<b>not as … as</b> es lo contrario de un comparativo: si Tom es más alto que Leo, entonces Leo <b>no es tan alto como</b> Tom.",
+      "en": "Tom is taller than Leo = Leo isn't as tall as Tom.",
+      "cols": [
+        {
+          "head": "➕ Comparativo",
+          "color": "green",
+          "items": [
+            "Tom is <b>taller than</b> Leo.",
+            "A car is <b>faster than</b> a bike.",
+            "Gold is <b>more expensive than</b> silver."
+          ]
+        },
+        {
+          "head": "➖ not as … as",
+          "color": "orange",
+          "items": [
+            "Leo <b>isn't as tall as</b> Tom.",
+            "A bike <b>isn't as fast as</b> a car.",
+            "Silver <b>isn't as expensive as</b> gold."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "vocab",
+      "title": "Adjetivos para comparar",
+      "title_en": "Adjectives to compare",
+      "icon": "🧩",
+      "color": "teal",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "tall → taller",
+          "es": "alto",
+          "icon": "🦒"
+        },
+        {
+          "en": "short → shorter",
+          "es": "bajo, corto",
+          "icon": "🐁"
+        },
+        {
+          "en": "big → bigger",
+          "es": "grande",
+          "icon": "🐘"
+        },
+        {
+          "en": "small → smaller",
+          "es": "pequeño",
+          "icon": "🐜"
+        },
+        {
+          "en": "fast → faster",
+          "es": "rápido",
+          "icon": "🚀"
+        },
+        {
+          "en": "slow → slower",
+          "es": "lento",
+          "icon": "🐢"
+        },
+        {
+          "en": "old → older",
+          "es": "viejo, mayor",
+          "icon": "👴"
+        },
+        {
+          "en": "young → younger",
+          "es": "joven",
+          "icon": "👶"
+        },
+        {
+          "en": "hot → hotter",
+          "es": "caliente, caluroso",
+          "icon": "🔥"
+        },
+        {
+          "en": "cold → colder",
+          "es": "frío",
+          "icon": "❄️"
+        },
+        {
+          "en": "heavy → heavier",
+          "es": "pesado",
+          "icon": "🏋️"
+        },
+        {
+          "en": "funny → funnier",
+          "es": "gracioso",
+          "icon": "🤡"
+        },
+        {
+          "en": "easy → easier",
+          "es": "fácil",
+          "icon": "✅"
+        },
+        {
+          "en": "difficult → more difficult",
+          "es": "difícil",
+          "icon": "🧩"
+        },
+        {
+          "en": "expensive → more expensive",
+          "es": "caro",
+          "icon": "💎"
+        },
+        {
+          "en": "dangerous → more dangerous",
+          "es": "peligroso",
+          "icon": "🦈"
+        },
+        {
+          "en": "beautiful → more beautiful",
+          "es": "precioso",
+          "icon": "🌸"
+        },
+        {
+          "en": "good → better",
+          "es": "bueno → mejor",
+          "icon": "👍"
+        },
+        {
+          "en": "bad → worse",
+          "es": "malo → peor",
+          "icon": "👎"
+        },
+        {
+          "en": "far → further",
+          "es": "lejos → más lejos",
+          "icon": "🗺️"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "This T-shirt is <b>nicer</b> than that one.",
+          "es": "Esta camiseta es más bonita que esa.",
+          "icon": "👕"
+        },
+        {
+          "en": "This book is <b>thinner</b> than that one.",
+          "es": "Este libro es más fino que ese.",
+          "icon": "📕"
+        },
+        {
+          "en": "My schoolbag is <b>heavier</b> than Lucía's.",
+          "es": "Mi mochila pesa más que la de Lucía.",
+          "icon": "🎒"
+        },
+        {
+          "en": "Sharks are <b>more dangerous</b> than dolphins.",
+          "es": "Los tiburones son más peligrosos que los delfines.",
+          "icon": "🦈"
+        },
+        {
+          "en": "Leo's house is <b>further</b> from school than mine.",
+          "es": "La casa de Leo está más lejos del cole que la mía.",
+          "icon": "🏠"
+        },
+        {
+          "en": "Rocky is <b>bigger</b> than Leo's dog.",
+          "es": "Rocky es más grande que el perro de Leo.",
+          "icon": "🐕"
+        },
+        {
+          "en": "Lucía is three years <b>older</b> than me.",
+          "es": "Lucía es tres años mayor que yo.",
+          "icon": "👧"
+        },
+        {
+          "en": "Football is <b>more exciting</b> than tennis.",
+          "es": "El fútbol es más emocionante que el tenis.",
+          "icon": "⚽"
+        },
+        {
+          "en": "Winter is <b>colder</b> than autumn.",
+          "es": "El invierno es más frío que el otoño.",
+          "icon": "❄️"
+        },
+        {
+          "en": "My new trainers are <b>more comfortable</b>.",
+          "es": "Mis zapatillas nuevas son más cómodas.",
+          "icon": "👟"
+        },
+        {
+          "en": "This homework is <b>easier</b> than yesterday's.",
+          "es": "Estos deberes son más fáciles que los de ayer.",
+          "icon": "📝"
+        },
+        {
+          "en": "Your joke was <b>funnier</b> than mine.",
+          "es": "Tu chiste fue más gracioso que el mío.",
+          "icon": "😂"
+        },
+        {
+          "en": "A whale is <b>heavier</b> than a car.",
+          "es": "Una ballena pesa más que un coche.",
+          "icon": "🐋"
+        },
+        {
+          "en": "Is Madrid <b>bigger</b> than Barcelona?",
+          "es": "¿Madrid es más grande que Barcelona?",
+          "icon": "🏙️"
+        },
+        {
+          "en": "My cold is <b>worse</b> today.",
+          "es": "Hoy estoy peor del resfriado.",
+          "icon": "🤧"
+        },
+        {
+          "en": "Tom isn't <b>as fast as</b> Anna.",
+          "es": "Tom no es tan rápido como Anna.",
+          "icon": "🏃"
+        },
+        {
+          "en": "This cake is <b>as good as</b> Grandma's!",
+          "es": "¡Esta tarta está tan buena como la de la abuela!",
+          "icon": "🍰"
+        },
+        {
+          "en": "The sea is <b>warmer</b> in August.",
+          "es": "El mar está más caliente en agosto.",
+          "icon": "🌊"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "trampas",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "Rocky is more big than Max.",
+          "good": "Rocky is <b>bigger</b> than Max.",
+          "why": "Corto → -er, sin more.",
+          "why_en": "Short → -er, no more."
+        },
+        {
+          "bad": "Leo is taller that Tom.",
+          "good": "Leo is taller <b>than</b> Tom.",
+          "why": "«que» = than, no that.",
+          "why_en": "Use than, not that."
+        },
+        {
+          "bad": "Pizza is more better than soup.",
+          "good": "Pizza is <b>better</b> than soup.",
+          "why": "better ya es comparativo.",
+          "why_en": "better is already a comparative."
+        },
+        {
+          "bad": "My dog is biger than yours.",
+          "good": "My dog is <b>bigger</b> than yours.",
+          "why": "big: doble g.",
+          "why_en": "Double the g."
+        },
+        {
+          "bad": "This film is funnyer.",
+          "good": "This film is <b>funnier</b>.",
+          "why": "-y → -ier.",
+          "why_en": "-y → -ier."
+        },
+        {
+          "bad": "Maths is difficulter than art.",
+          "good": "Maths is <b>more difficult</b> than art.",
+          "why": "Largo → more.",
+          "why_en": "Long → more."
+        },
+        {
+          "bad": "My cold is badder today.",
+          "good": "My cold is <b>worse</b> today.",
+          "why": "bad → worse.",
+          "why_en": "bad → worse."
+        },
+        {
+          "bad": "Anna is as tall than Sara.",
+          "good": "Anna is as tall <b>as</b> Sara.",
+          "why": "as … as, nunca as … than.",
+          "why_en": "as … as, not as … than."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo comparo?",
+      "title_en": "How do I compare?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Elige el <b>adjetivo</b>: tall, expensive, good…",
+          "en": "Choose the adjective."
+        },
+        {
+          "es": "¿Es irregular (good, bad, far)? → <b>better, worse, further</b>.",
+          "en": "Irregular? → better, worse, further."
+        },
+        {
+          "es": "¿Es corto (1 sílaba)? → <b>-er</b> (ojo con la -e y la doble consonante).",
+          "en": "Short → -er."
+        },
+        {
+          "es": "¿Acaba en consonante + y? → <b>-ier</b>.",
+          "en": "Consonant + y → -ier."
+        },
+        {
+          "es": "¿Es largo? → <b>more</b> + adjetivo.",
+          "en": "Long → more + adjective."
+        },
+        {
+          "es": "Añade <b>than</b> + lo que comparas. ¿Son iguales? → <b>as … as</b>.",
+          "en": "Add than. The same? → as … as."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "¿Qué mascota es mejor?",
+      "title_en": "Which pet is better?",
+      "lines": [
+        {
+          "who": "Leo",
+          "en": "Dogs are better than cats!",
+          "es": "¡Los perros son mejores que los gatos!"
+        },
+        {
+          "who": "Anna",
+          "en": "No way! Cats are cleaner and quieter than dogs.",
+          "es": "¡Ni hablar! Los gatos son más limpios y más silenciosos que los perros."
+        },
+        {
+          "who": "Mario",
+          "en": "But dogs are friendlier! Rocky always plays with me.",
+          "es": "¡Pero los perros son más cariñosos! Rocky siempre juega conmigo."
+        },
+        {
+          "who": "Anna",
+          "en": "Cats are more independent. And they're smaller!",
+          "es": "Los gatos son más independientes. ¡Y más pequeños!"
+        },
+        {
+          "who": "Leo",
+          "en": "My dog is bigger than your cat, but he isn't as clever as her.",
+          "es": "Mi perro es más grande que tu gata, pero no es tan listo como ella."
+        },
+        {
+          "who": "Anna",
+          "en": "Ha, ha! You see? Cats are better!",
+          "es": "¡Ja, ja! ¿Lo ves? ¡Los gatos son mejores!"
+        },
+        {
+          "who": "Mario",
+          "en": "OK, OK… Pets are better than video games. That's for sure!",
+          "es": "Vale, vale… Las mascotas son mejores que los videojuegos. ¡Eso seguro!"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco de las palmadas",
+      "title_en": "Clap trick",
+      "es": "Da palmadas al decir el adjetivo: <b>tall</b> (1 palmada) → tall<b>er</b>. <b>ex-pen-sive</b> (3 palmadas) → <b>more</b> expensive. Si acaba en <b>-y</b> (fun-ny, ea-sy), aunque tenga 2 palmadas → <b>-ier</b>.",
+      "en": "Clap the syllables: 1 clap → -er; 2+ claps → more; ending in -y → -ier."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify",
+      "title": "¿-er, -ier, more o irregular?",
+      "title_en": "Sort the adjectives",
+      "icon": "🗂️",
+      "es": "Escribe cada adjetivo en su caja según cómo forma el comparativo.",
+      "en": "Write each adjective in the right box.",
+      "cats": [
+        {
+          "name": "+ er / r",
+          "words": [
+            "tall",
+            "small",
+            "old",
+            "big",
+            "nice"
+          ]
+        },
+        {
+          "name": "y → ier",
+          "words": [
+            "happy",
+            "funny",
+            "easy",
+            "heavy",
+            "dirty"
+          ]
+        },
+        {
+          "name": "more",
+          "words": [
+            "expensive",
+            "beautiful",
+            "difficult",
+            "dangerous",
+            "interesting"
+          ]
+        },
+        {
+          "name": "irregular",
+          "words": [
+            "good",
+            "bad",
+            "far"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct word",
+      "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "A mouse is [smaller|more small] than a cat.",
+          "a": "smaller"
+        },
+        {
+          "q": "Leo is taller [that|than] Tom.",
+          "a": "than"
+        },
+        {
+          "q": "This film is [more interesting|interestinger] than the book.",
+          "a": "more interesting"
+        },
+        {
+          "q": "Your pizza is [better|gooder] than mine.",
+          "a": "better"
+        },
+        {
+          "q": "July is [hoter|hotter] than May.",
+          "a": "hotter"
+        },
+        {
+          "q": "My room is [tidier|tidyer] than Lucía's.",
+          "a": "tidier"
+        },
+        {
+          "q": "The test was [worse|badder] than last week's.",
+          "a": "worse"
+        },
+        {
+          "q": "Anna is as tall [as|than] Sara.",
+          "a": "as"
+        },
+        {
+          "q": "Rocky is [bigger|more bigger] than Max.",
+          "a": "bigger"
+        },
+        {
+          "q": "My house is [further|farer] from school.",
+          "a": "further"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Escribe el comparativo de cada adjetivo.",
+      "en": "Write the comparative of each adjective.",
+      "head": [
+        "Adjetivo · Adjective",
+        "Comparativo · Comparative",
+        "Español"
+      ],
+      "rows": [
+        [
+          "tall",
+          "?taller",
+          "más alto"
+        ],
+        [
+          "young",
+          "?younger",
+          "más joven"
+        ],
+        [
+          "nice",
+          "?nicer",
+          "más bonito, más simpático"
+        ],
+        [
+          "big",
+          "?bigger",
+          "más grande"
+        ],
+        [
+          "sad",
+          "?sadder",
+          "más triste"
+        ],
+        [
+          "happy",
+          "?happier",
+          "más feliz"
+        ],
+        [
+          "dirty",
+          "?dirtier",
+          "más sucio"
+        ],
+        [
+          "beautiful",
+          "?more beautiful",
+          "más bonito, más guapo"
+        ],
+        [
+          "famous",
+          "?more famous",
+          "más famoso"
+        ],
+        [
+          "good",
+          "?better",
+          "mejor"
+        ],
+        [
+          "bad",
+          "?worse",
+          "peor"
+        ],
+        [
+          "far",
+          "?further",
+          "más lejos"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe el comparativo",
+      "title_en": "Write the comparative",
+      "icon": "✏️",
+      "es": "Escribe el comparativo del adjetivo entre paréntesis.",
+      "en": "Write the comparative of the adjective in brackets.",
+      "items": [
+        {
+          "q": "A giraffe is ___ than a horse.",
+          "a": "taller",
+          "hint": "tall"
+        },
+        {
+          "q": "My sister is ___ than me.",
+          "a": "older",
+          "hint": "old"
+        },
+        {
+          "q": "This box is ___ than that one.",
+          "a": "heavier",
+          "hint": "heavy"
+        },
+        {
+          "q": "The sun is ___ than the moon.",
+          "a": "hotter",
+          "hint": "hot"
+        },
+        {
+          "q": "A plane ticket is _____ than a bus ticket.",
+          "a": "more expensive",
+          "hint": "expensive"
+        },
+        {
+          "q": "Your answer is ___ than mine.",
+          "a": "better",
+          "hint": "good"
+        },
+        {
+          "q": "My cold is ___ today than yesterday.",
+          "a": "worse",
+          "hint": "bad"
+        },
+        {
+          "q": "London is ___ from Madrid than Paris.",
+          "a": "further",
+          "hint": "far"
+        },
+        {
+          "q": "This exercise is ___ than the first one.",
+          "a": "easier",
+          "hint": "easy"
+        },
+        {
+          "q": "My new school is _____ than my old school.",
+          "a": "more modern",
+          "hint": "modern"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "than o as",
+      "title_en": "than or as",
+      "icon": "🔗",
+      "es": "Completa con than o as.",
+      "en": "Complete with than or as.",
+      "bank": [
+        "than",
+        "as"
+      ],
+      "items": [
+        {
+          "q": "Leo is taller ___ Sara.",
+          "a": "than"
+        },
+        {
+          "q": "My bike is as fast ___ yours.",
+          "a": "as"
+        },
+        {
+          "q": "Cats are smaller ___ dogs.",
+          "a": "than"
+        },
+        {
+          "q": "The film wasn't as good ___ the book.",
+          "a": "as"
+        },
+        {
+          "q": "Lucía is ___ tall as Mum.",
+          "a": "as"
+        },
+        {
+          "q": "This test is easier ___ the last one.",
+          "a": "than"
+        },
+        {
+          "q": "Rocky isn't as old ___ my cat.",
+          "a": "as"
+        },
+        {
+          "q": "Apples are cheaper ___ cherries.",
+          "a": "than"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une las dos mitades",
+      "title_en": "Match the two halves",
+      "icon": "🔗",
+      "es": "Une el principio de cada frase con su final. ¡Que tenga sentido!",
+      "en": "Match the beginnings and the endings.",
+      "pairs": [
+        [
+          "A cheetah is faster",
+          "than a tortoise."
+        ],
+        [
+          "My grandad is older",
+          "than my dad."
+        ],
+        [
+          "A diamond is more expensive",
+          "than a pencil."
+        ],
+        [
+          "Ice is colder",
+          "than hot chocolate."
+        ],
+        [
+          "An elephant is heavier",
+          "than a cat."
+        ],
+        [
+          "Lucía is as tall",
+          "as Mum. They're both 1.60 m."
+        ],
+        [
+          "A bike isn't as fast",
+          "as a train."
+        ]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Compara",
+      "title_en": "Compare",
+      "icon": "⚖️",
+      "es": "Escribe una frase comparando las dos cosas. Usa el adjetivo entre paréntesis.",
+      "en": "Write a sentence comparing the two things.",
+      "items": [
+        {
+          "q": "a car / a bike (fast)",
+          "a": "A car is faster than a bike."
+        },
+        {
+          "q": "Leo (1.40 m) / Tom (1.35 m) (tall)",
+          "a": "Leo is taller than Tom."
+        },
+        {
+          "q": "a lion / a cat (dangerous)",
+          "a": "A lion is more dangerous than a cat."
+        },
+        {
+          "q": "a whale / a dolphin (big)",
+          "a": "A whale is bigger than a dolphin."
+        },
+        {
+          "q": "Sara's mark (9) / Anna's mark (7) (good)",
+          "a": "Sara's mark is better than Anna's."
+        },
+        {
+          "q": "Australia / Portugal (far from Spain)",
+          "a": "Australia is further from Spain than Portugal."
+        },
+        {
+          "q": "summer / winter (hot)",
+          "a": "Summer is hotter than winter."
+        },
+        {
+          "q": "a mouse / a rabbit (small)",
+          "a": "A mouse is smaller than a rabbit."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Dilo con not as … as",
+      "title_en": "Say it with not as … as",
+      "icon": "🔁",
+      "es": "Escribe la frase de otra manera con not as … as. ¡Cambia el orden de las dos cosas!",
+      "en": "Rewrite the sentence with not as … as.",
+      "items": [
+        {
+          "q": "Tom is taller than Leo.",
+          "a": "Leo isn't as tall as Tom."
+        },
+        {
+          "q": "A car is faster than a bike.",
+          "a": "A bike isn't as fast as a car."
+        },
+        {
+          "q": "My sister is older than me.",
+          "a": "I'm not as old as my sister."
+        },
+        {
+          "q": "Gold is more expensive than silver.",
+          "a": "Silver isn't as expensive as gold."
+        },
+        {
+          "q": "Lucía's room is tidier than mine.",
+          "a": "My room isn't as tidy as Lucía's."
+        },
+        {
+          "q": "Summer is hotter than spring.",
+          "a": "Spring isn't as hot as summer."
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Que tenga sentido!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {
+          "q": "than / is / bigger / an elephant / a mouse",
+          "a": "An elephant is bigger than a mouse."
+        },
+        {
+          "q": "faster / a plane / is / a train / than",
+          "a": "A plane is faster than a train."
+        },
+        {
+          "q": "more / is / expensive / than / a car / a bike",
+          "a": "A car is more expensive than a bike."
+        },
+        {
+          "q": "isn't / as / a bike / fast / as / a car",
+          "a": "A bike isn't as fast as a car."
+        },
+        {
+          "q": "better / is / than / my drawing / yours / ?",
+          "a": "Is my drawing better than yours?"
+        },
+        {
+          "q": "funnier / this / than / joke / is / that one",
+          "a": "This joke is funnier than that one."
+        },
+        {
+          "q": "Lucía / older / is / three years / than / me",
+          "a": "Lucía is three years older than me."
+        },
+        {
+          "q": "hotter / in / is / it / August / than / in / May",
+          "a": "It is hotter in August than in May."
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "My dog is more big than your dog.",
+          "a": "My dog is bigger than your dog."
+        },
+        {
+          "q": "Sara is taller that Anna.",
+          "a": "Sara is taller than Anna."
+        },
+        {
+          "q": "This book is more better.",
+          "a": "This book is better."
+        },
+        {
+          "q": "July is hoter than June.",
+          "a": "July is hotter than June."
+        },
+        {
+          "q": "My brother is happyer now.",
+          "a": "My brother is happier now."
+        },
+        {
+          "q": "Science is interestinger than history.",
+          "a": "Science is more interesting than history."
+        },
+        {
+          "q": "My cold is badder today.",
+          "a": "My cold is worse today."
+        },
+        {
+          "q": "Leo is as fast than Tom.",
+          "a": "Leo is as fast as Tom."
+        },
+        {
+          "q": "Your house is more far from school than mine.",
+          "a": "Your house is further from school than mine."
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "⚖️",
+      "es": "¿Es verdadero (T) o falso (F)? Si es falso, piensa cuál es la forma correcta.",
+      "en": "True or false?",
+      "items": [
+        {
+          "q": "big → biger",
+          "a": false,
+          "why": "Doble g: bigger."
+        },
+        {
+          "q": "good → better",
+          "a": true
+        },
+        {
+          "q": "expensive → expensiver",
+          "a": false,
+          "why": "Largo → more expensive."
+        },
+        {
+          "q": "easy → easier",
+          "a": true
+        },
+        {
+          "q": "«más alto que» = taller than",
+          "a": true
+        },
+        {
+          "q": "«tan rápido como» = as fast than",
+          "a": false,
+          "why": "as fast as."
+        },
+        {
+          "q": "bad → worse",
+          "a": true
+        },
+        {
+          "q": "nice → nicer",
+          "a": true
+        },
+        {
+          "q": "beautiful → beautifuller",
+          "a": false,
+          "why": "more beautiful."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿adjetivo corto, largo o irregular? ¿than o as?",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Mi hermana es más alta que yo.",
+          "a": "My sister is taller than me."
+        },
+        {
+          "q": "Un coche es más rápido que una bici.",
+          "a": "A car is faster than a bike."
+        },
+        {
+          "q": "Este libro es más interesante.",
+          "a": "This book is more interesting."
+        },
+        {
+          "q": "Tu dibujo es mejor que el mío.",
+          "a": "Your drawing is better than mine."
+        },
+        {
+          "q": "Hoy hace más frío que ayer.",
+          "a": "It's colder today than yesterday."
+        },
+        {
+          "q": "Rocky es más grande que mi gato.",
+          "a": "Rocky is bigger than my cat."
+        },
+        {
+          "q": "El examen fue más fácil que el de mates.",
+          "a": "The test was easier than the maths test."
+        },
+        {
+          "q": "Leo no es tan rápido como Sara.",
+          "a": "Leo isn't as fast as Sara."
+        },
+        {
+          "q": "Anna es tan graciosa como su padre.",
+          "a": "Anna is as funny as her dad."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "Rocky and Max",
+      "text": [
+        "Mario has got a dog, Rocky. Leo has got a dog too. His name is Max. Rocky is four years old and Max is six, so Max is older than Rocky. But Rocky is bigger and heavier than Max: he weighs 20 kilos and Max weighs 12!",
+        "Max is faster than Rocky, and he's smarter too: he can open doors! Rocky isn't as fast as Max, but he's funnier: he loves chasing his tail. Both dogs are very friendly. Rocky is as friendly as Max. Which dog is better? Mario and Leo can't agree!"
+      ],
+      "items": [
+        {
+          "q": "Rocky is older than Max.",
+          "tf": true,
+          "a": false,
+          "why": "Max is older (he's six)."
+        },
+        {
+          "q": "Rocky is heavier than Max.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Max is faster than Rocky.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Rocky is as fast as Max.",
+          "tf": true,
+          "a": false,
+          "why": "Rocky isn't as fast as Max."
+        },
+        {
+          "q": "Which dog is bigger?",
+          "a": "Rocky is bigger (than Max)."
+        },
+        {
+          "q": "Which dog is funnier? Why?",
+          "a": "Rocky, because he loves chasing his tail."
+        },
+        {
+          "q": "Is Max as friendly as Rocky?",
+          "a": "Yes, he is."
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea el comparativo",
+      "title_en": "Spell the comparative",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe el comparativo en las cajas.",
+      "en": "Unscramble the letters and write the comparative.",
+      "items": [
+        {
+          "q": "🐘 big →",
+          "a": "bigger"
+        },
+        {
+          "q": "😂 funny →",
+          "a": "funnier"
+        },
+        {
+          "q": "🔥 hot →",
+          "a": "hotter"
+        },
+        {
+          "q": "👍 good →",
+          "a": "better"
+        },
+        {
+          "q": "👎 bad →",
+          "a": "worse"
+        },
+        {
+          "q": "😀 happy →",
+          "a": "happier"
+        },
+        {
+          "q": "🐢 slow →",
+          "a": "slower"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca el comparativo de estos adjetivos y la palabra «que».",
+      "en": "Find the comparatives and the word for «que».",
+      "words": [
+        "taller",
+        "bigger",
+        "better",
+        "worse",
+        "funnier",
+        "hotter",
+        "easier",
+        "than"
+      ],
+      "clues": [
+        "tall → ?",
+        "big → ?",
+        "good → ?",
+        "bad → ?",
+        "funny → ?",
+        "hot → ?",
+        "easy → ?",
+        "«que» → ?"
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe tus propias comparaciones.",
+      "en": "Write your own comparisons.",
+      "items": [
+        {
+          "q": "Compárate con alguien de tu familia: <b>I'm taller / older / younger than…</b>",
+          "lines": 2,
+          "a": "Ej.: I'm younger than Lucía, but I'm taller than my cousin."
+        },
+        {
+          "q": "Compara dos animales: <b>A … is …er / more … than a …</b>",
+          "lines": 2,
+          "a": "Ej.: A tiger is more dangerous than a cat. A cat is smaller than a tiger."
+        },
+        {
+          "q": "Compara dos asignaturas o deportes con <b>better / worse</b>.",
+          "lines": 1,
+          "a": "Ej.: For me, football is better than tennis."
+        },
+        {
+          "q": "Escribe una frase con <b>as … as</b> y otra con <b>not as … as</b>.",
+          "lines": 2,
+          "a": "Ej.: I'm as tall as Leo. My bike isn't as fast as Tom's."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé comparar dos cosas con <b>-er + than</b>: taller than.",
+      "en": "I can compare with -er + than."
+    },
+    {
+      "es": "Escribo bien bigger, hotter, nicer y funnier.",
+      "en": "I can spell bigger, hotter, nicer and funnier."
+    },
+    {
+      "es": "Uso <b>more</b> con los adjetivos largos: more expensive.",
+      "en": "I use more with long adjectives."
+    },
+    {
+      "es": "Me sé los irregulares: <b>better, worse, further</b>.",
+      "en": "I know better, worse and further."
+    },
+    {
+      "es": "Digo <b>than</b> (no that) para el «que» de comparar.",
+      "en": "I say than, not that."
+    },
+    {
+      "es": "Uso <b>as … as</b> y <b>not as … as</b>.",
+      "en": "I can use as … as and not as … as."
+    }
+  ]
+}

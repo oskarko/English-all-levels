@@ -1,0 +1,468 @@
+{
+  "id": "A2-10",
+  "level": "A2",
+  "title": "SIMPLE <em>vs</em> CONTINUOUS",
+  "file_title": "Simple vs continuous",
+  "subtitle": "Present simple and present continuous · siempre o ahora",
+  "icon": "🔄",
+  "map": {
+    "center": "<b>Present simple</b> = lo que haces <b>siempre</b> o normalmente. <b>Present continuous</b> = lo que pasa <b>ahora</b>.",
+    "nodes": [
+      {
+        "title": "Present simple", "icon": "🔁",
+        "items": ["Rutinas, gustos y verdades", "I <b>play</b> football on Mondays.", "She <b>plays</b> the piano. <i>(¡-s con he / she / it!)</i>"]
+      },
+      {
+        "title": "Present continuous", "icon": "▶️", "art": "⚽",
+        "items": ["Lo que pasa <b>ahora mismo</b>", "I<b>'m playing</b> football now.", "She<b>'s playing</b> the piano."]
+      },
+      {
+        "title": "Palabras del simple", "icon": "📅",
+        "chips": ["always", "usually", "often", "sometimes", "never", "every day", "on Mondays"]
+      },
+      {
+        "title": "Palabras del continuous", "icon": "⏳",
+        "chips": ["now", "right now", "at the moment", "today", "Look!", "Listen!"]
+      },
+      {
+        "title": "Verbos de estado", "icon": "🧠", "art": "💭",
+        "chips": ["like", "love", "hate", "want", "know", "need", "understand"],
+        "after": "¡Sin -ing! I <b>want</b> it. <s>I'm wanting</s>"
+      },
+      {
+        "title": "Negativas y preguntas", "icon": "❓",
+        "rows": [["simple", "don't / doesn't · Do…? Does…?"], ["continuous", "am not / isn't / aren't · Am…? Is…? Are…?"]]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["Look! Rocky runs in the garden."],
+      "good": ["Look! Rocky is running in the garden."],
+      "note": "Look! / now → <b>am / is / are + -ing</b>"
+    },
+    "mini": {
+      "es": "¿Simple o continuous? Escribe el verbo.",
+      "en": "Simple or continuous? Write the verb.",
+      "items": [
+        { "q": "I ____ tennis every Friday.", "a": "play", "hint": "play" },
+        { "q": "Look! Lucía ____.", "a": "is dancing", "hint": "dance" },
+        { "q": "Rocky ____ bones.", "a": "loves", "hint": "love" },
+        { "q": "Shh! The baby ____.", "a": "is sleeping", "hint": "sleep" },
+        { "q": "We ____ a film right now.", "a": "are watching", "hint": "watch" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "En inglés hay <b>dos presentes</b>. El <b>present simple</b> (I play) cuenta lo que haces <mark>siempre, normalmente o a menudo</mark>: rutinas, gustos y cosas que son verdad. El <b>present continuous</b> (I'm playing) cuenta lo que está pasando <mark>ahora mismo</mark>. En español a veces usamos el mismo tiempo para los dos («¿Qué haces?»), ¡pero en inglés hay que elegir!",
+      "en": "<b>Present simple</b> (I play) = habits, likes and facts. <b>Present continuous</b> (I'm playing) = things happening now.",
+      "formula": ["*Simple* + I play · she plays", "*Continuous* + I'm playing · she's playing"]
+    },
+    {
+      "t": "rule", "title": "1 · Present simple: siempre y normalmente", "title_en": "Present simple: habits", "icon": "🔁", "color": "green",
+      "es": "Usamos el <b>present simple</b> para las <b>rutinas</b> (lo que haces cada día), los <b>gustos</b> y las cosas que <b>siempre son verdad</b>. Recuerda: con <b>he, she, it</b> el verbo lleva <em>-s</em>. Para negar y preguntar usamos <b>don't / doesn't</b> y <b>Do / Does</b>.",
+      "en": "Use the <b>present simple</b> for routines, likes and facts. Add <em>-s</em> with he / she / it.",
+      "formula": ["I / you / we / they + *play*", "he / she / it + *plays*"],
+      "examples": [
+        { "en": "I <b>get up</b> at half past seven every day.", "es": "Me levanto a las siete y media todos los días.", "icon": "⏰" },
+        { "en": "Lucía <b>plays</b> tennis on Saturdays.", "es": "Lucía juega al tenis los sábados.", "icon": "🎾" },
+        { "en": "Cats <b>don't like</b> water.", "es": "A los gatos no les gusta el agua.", "icon": "🐈" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · Present continuous: ahora mismo", "title_en": "Present continuous: now", "icon": "▶️", "color": "blue",
+      "es": "Usamos el <b>present continuous</b> para lo que está pasando <b>ahora mismo</b>, mientras hablamos, y para cosas <b>temporales</b> (solo hoy, solo esta semana). Se forma con <b>am / is / are</b> + verbo con <em>-ing</em>. Es como un vídeo en directo 🎥.",
+      "en": "Use the <b>present continuous</b> for things happening now or just for a short time: <b>am / is / are + -ing</b>.",
+      "formula": ["I + *am* + playing", "he / she / it + *is* + playing", "you / we / they + *are* + playing"],
+      "examples": [
+        { "en": "Shh! The baby <b>is sleeping</b>.", "es": "¡Chis! La bebé está durmiendo.", "icon": "👶" },
+        { "en": "Mario <b>is doing</b> his homework now.", "es": "Mario está haciendo los deberes ahora.", "icon": "📒" },
+        { "en": "Look! Leo <b>is climbing</b> a tree!", "es": "¡Mira! ¡Leo está trepando a un árbol!", "icon": "🌳" }
+      ]
+    },
+    {
+      "t": "table", "title": "3 · Cara a cara", "title_en": "Face to face", "icon": "⚖️", "color": "purple",
+      "head": ["🔁 Present simple", "▶️ Present continuous"],
+      "rows": [
+        ["I <b>play</b> football every day.", "I<b>'m playing</b> football now."],
+        ["She <b>reads</b> comics at night.", "She<b>'s reading</b> a comic at the moment."],
+        ["He <b>doesn't watch</b> TV in the morning.", "He <b>isn't watching</b> TV now."],
+        ["<b>Do</b> you <b>walk</b> Rocky every day?", "<b>Are</b> you <b>walking</b> Rocky now?"],
+        ["Yes, I <b>do</b>. / No, I <b>don't</b>.", "Yes, I <b>am</b>. / No, I<b>'m not</b>."]
+      ],
+      "note": "Truco: el <b>simple</b> es como un <b>álbum de fotos</b> de tu vida (lo de siempre). El <b>continuous</b> es un <b>vídeo en directo</b> (lo de ahora).",
+      "note_en": "Simple = photo album (always). Continuous = live video (now)."
+    },
+    {
+      "t": "table", "title": "4 · Palabras clave", "title_en": "Key words", "icon": "🔑", "color": "teal",
+      "head": ["🔁 Present simple", "▶️ Present continuous"],
+      "rows": [
+        ["always", "now"],
+        ["usually", "right now"],
+        ["often", "at the moment"],
+        ["sometimes", "today"],
+        ["never", "this week"],
+        ["every day / every week", "Look! 👀"],
+        ["on Mondays", "Listen! 👂"],
+        ["once a week", "Be quiet! / Shh! 🤫"]
+      ],
+      "note": "Las palabras clave son pistas: si ves <b>every</b>, <b>always</b> o <b>never</b> → simple. Si ves <b>now</b>, <b>Look!</b> o <b>Listen!</b> → continuous.",
+      "note_en": "every, always, never → simple. now, Look!, Listen! → continuous."
+    },
+    {
+      "t": "compare", "title": "¿Para siempre o solo estos días?", "title_en": "Permanent or temporary?", "icon": "🏡", "color": "green",
+      "es": "El <b>simple</b> también sirve para cosas <b>permanentes</b> (que duran mucho tiempo). El <b>continuous</b>, para cosas <b>temporales</b>: solo hoy, solo esta semana.",
+      "en": "Simple → permanent. Continuous → temporary (today, this week).",
+      "cols": [
+        { "head": "🏠 Permanente · simple", "color": "green", "items": ["I <b>live</b> in Madrid.", "My dad <b>works</b> in a hospital.", "Lucía <b>goes</b> to school by bus."] },
+        { "head": "⏳ Temporal · continuous", "color": "orange", "items": ["I<b>'m staying</b> at Grandma's this week.", "Dad <b>is working</b> at home today.", "This week Lucía <b>is going</b> by bike."] }
+      ]
+    },
+    {
+      "t": "rule", "title": "5 · ¿Qué haces? ¡Cuidado!", "title_en": "What do you do? or What are you doing?", "icon": "🤔", "color": "orange",
+      "es": "En español «¿Qué haces?» sirve para todo, pero en inglés no. <b>What are you doing?</b> = ¿Qué estás haciendo <u>ahora</u>? <b>What do you do on Saturdays?</b> = ¿Qué haces <u>normalmente</u> los sábados? Y <b>What does your dad do?</b> = ¿En qué trabaja tu padre?",
+      "en": "<b>What are you doing?</b> = now. <b>What do you do (on Saturdays)?</b> = usually. <b>What does she do?</b> = her job.",
+      "examples": [
+        { "en": "What <b>are</b> you <b>doing</b>? — I'm drawing a dragon.", "es": "¿Qué estás haciendo? — Estoy dibujando un dragón.", "icon": "🐉" },
+        { "en": "What <b>do</b> you <b>do</b> on Sundays? — I visit my grandma.", "es": "¿Qué haces los domingos? — Visito a mi abuela.", "icon": "👵" },
+        { "en": "What <b>does</b> your mum <b>do</b>? — She's a nurse.", "es": "¿En qué trabaja tu madre? — Es enfermera.", "icon": "🏥" }
+      ]
+    },
+    {
+      "t": "rule", "title": "6 · Verbos de estado: ¡sin -ing!", "title_en": "State verbs", "icon": "🧠", "color": "pink",
+      "es": "Algunos verbos no son acciones, sino <b>estados</b>: lo que sientes, piensas o quieres (<i>like, love, hate, want, need, know, understand, remember</i>). Estos verbos <mark>no suelen ir en -ing</mark>, aunque hablemos de ahora: <i>I <b>want</b> an ice cream now</i>, no <s>I'm wanting</s>. ¡No se pueden «ver» en un vídeo!",
+      "en": "State verbs (like, love, want, know, need…) are not actions. We don't usually use them with -ing, even for now.",
+      "formula": ["*like / love / want / know* + (sin -ing)"],
+      "examples": [
+        { "en": "I <b>like</b> this song!", "es": "¡Me gusta esta canción!", "icon": "🎵" },
+        { "en": "<b>Do</b> you <b>know</b> the answer?", "es": "¿Sabes la respuesta?", "icon": "💡" },
+        { "en": "Leo <b>wants</b> a new bike for his birthday.", "es": "Leo quiere una bici nueva por su cumple.", "icon": "🚲" },
+        { "en": "I <b>don't understand</b> this exercise.", "es": "No entiendo este ejercicio.", "icon": "🤯" }
+      ]
+    },
+    {
+      "t": "table", "title": "Todo junto", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["Tiempo · Tense", "✅ Afirmativa", "⛔ Negativa", "❓ Pregunta", "💬 Respuesta corta"],
+      "rows": [
+        ["🔁 Simple · I / you / we / they", "I <b>play</b>.", "I <b>don't play</b>.", "<b>Do</b> you <b>play</b>?", "Yes, I do. / No, I don't."],
+        ["🔁 Simple · he / she / it", "She <b>plays</b>.", "She <b>doesn't play</b>.", "<b>Does</b> she <b>play</b>?", "Yes, she does. / No, she doesn't."],
+        ["▶️ Continuous · I", "I<b>'m playing</b>.", "I<b>'m not playing</b>.", "<b>Am</b> I <b>playing</b>?", "Yes, you are. / No, you aren't."],
+        ["▶️ Continuous · he / she / it", "He<b>'s playing</b>.", "He <b>isn't playing</b>.", "<b>Is</b> he <b>playing</b>?", "Yes, he is. / No, he isn't."],
+        ["▶️ Continuous · you / we / they", "They<b>'re playing</b>.", "They <b>aren't playing</b>.", "<b>Are</b> they <b>playing</b>?", "Yes, they are. / No, they aren't."]
+      ]
+    },
+    {
+      "t": "vocab", "title": "Verbos de estado", "title_en": "State verbs", "icon": "💭", "color": "pink", "wide": true, "cols": 4,
+      "items": [
+        { "en": "like", "es": "gustar", "icon": "👍" },
+        { "en": "love", "es": "encantar, querer", "icon": "❤️" },
+        { "en": "hate", "es": "odiar", "icon": "😖" },
+        { "en": "prefer", "es": "preferir", "icon": "⚖️" },
+        { "en": "want", "es": "querer", "icon": "🙋" },
+        { "en": "need", "es": "necesitar", "icon": "🆘" },
+        { "en": "know", "es": "saber, conocer", "icon": "🧠" },
+        { "en": "understand", "es": "entender", "icon": "💡" },
+        { "en": "remember", "es": "recordar", "icon": "📝" },
+        { "en": "believe", "es": "creer", "icon": "🙏" },
+        { "en": "mean", "es": "significar", "icon": "📖" },
+        { "en": "hear", "es": "oír", "icon": "👂" }
+      ]
+    },
+    {
+      "t": "examples", "title": "¿Siempre o ahora?", "title_en": "Always or now?",
+      "items": [
+        { "en": "Dad <b>cooks</b> on Sundays. Today he<b>'s cooking</b> paella!", "es": "Papá cocina los domingos. ¡Hoy está cocinando paella!", "icon": "🥘" },
+        { "en": "I usually <b>walk</b> to school, but today I<b>'m going</b> by bike.", "es": "Normalmente voy andando al cole, pero hoy voy en bici.", "icon": "🚲" },
+        { "en": "Look! It<b>'s snowing</b>!", "es": "¡Mira! ¡Está nevando!", "icon": "❄️" },
+        { "en": "It <b>snows</b> a lot in the mountains in winter.", "es": "En invierno nieva mucho en la montaña.", "icon": "🏔️" },
+        { "en": "Anna <b>is wearing</b> a red dress today.", "es": "Hoy Anna lleva un vestido rojo.", "icon": "👗" },
+        { "en": "Anna usually <b>wears</b> jeans.", "es": "Anna suele llevar vaqueros.", "icon": "👖" },
+        { "en": "Listen! Lucía <b>is singing</b> in the shower.", "es": "¡Escucha! Lucía está cantando en la ducha.", "icon": "🚿" },
+        { "en": "Rocky <b>loves</b> his ball.", "es": "Rocky adora su pelota.", "icon": "🎾" },
+        { "en": "What <b>are</b> you <b>reading</b>? — A comic about dinosaurs.", "es": "¿Qué estás leyendo? — Un cómic de dinosaurios.", "icon": "🦖" },
+        { "en": "We <b>don't have</b> lessons on Saturdays.", "es": "Los sábados no tenemos clase.", "icon": "🎉" },
+        { "en": "Tom <b>isn't playing</b> now. He's tired.", "es": "Tom no está jugando ahora. Está cansado.", "icon": "😴" },
+        { "en": "<b>Does</b> your brother <b>play</b> the guitar? — Yes, he does.", "es": "¿Tu hermano toca la guitarra? — Sí.", "icon": "🎸" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "trampas", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "Look! Rocky runs in the garden.", "good": "Look! Rocky <b>is running</b> in the garden.", "why": "Look! → está pasando ahora → continuous.", "why_en": "Look! → now → continuous." },
+        { "bad": "I am playing football every Saturday.", "good": "I <b>play</b> football every Saturday.", "why": "every Saturday = rutina → simple.", "why_en": "Routine → simple." },
+        { "bad": "I'm liking this game.", "good": "I <b>like</b> this game.", "why": "like es un verbo de estado: sin -ing.", "why_en": "State verb → no -ing." },
+        { "bad": "She is play the piano now.", "good": "She is <b>playing</b> the piano now.", "why": "am / is / are + verbo con -ing.", "why_en": "be + -ing." },
+        { "bad": "He play tennis on Mondays.", "good": "He <b>plays</b> tennis on Mondays.", "why": "he / she / it → -s en el simple.", "why_en": "he → plays." },
+        { "bad": "What do you do now? <small>(= ¿qué estás haciendo?)</small>", "good": "What <b>are you doing</b> now?", "why": "«¿Qué haces?» ahora mismo → continuous.", "why_en": "Now → What are you doing?" },
+        { "bad": "Do you watching TV?", "good": "<b>Are</b> you watching TV?", "why": "Con -ing la pregunta va con am / is / are, no con do.", "why_en": "-ing questions use be, not do." },
+        { "bad": "I'm knowing the answer.", "good": "I <b>know</b> the answer.", "why": "know es de estado: sin -ing.", "why_en": "State verb → no -ing." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Simple o continuous?", "title_en": "Simple or continuous?", "color": "orange",
+      "items": [
+        { "es": "Busca las <b>pistas</b>: always, every, usually… → simple. now, Look!, at the moment… → continuous.", "en": "Look for the key words." },
+        { "es": "¿Es una rutina, un gusto o algo que siempre es verdad? → <b>present simple</b>.", "en": "Routine, like or fact → present simple." },
+        { "es": "¿Está pasando ahora o solo estos días? → <b>present continuous</b>.", "en": "Now or temporary → present continuous." },
+        { "es": "¿Es un verbo de estado (like, want, know…)? → <b>simple</b>, ¡aunque sea ahora!", "en": "State verb → simple, even for now." },
+        { "es": "Simple: -s con he / she / it, don't / doesn't, Do / Does. Continuous: am / is / are + -ing.", "en": "Check the form." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "Una llamada de la abuela", "title_en": "A phone call from Grandma",
+      "lines": [
+        { "who": "Grandma", "en": "Hello, Mario! What are you doing?", "es": "¡Hola, Mario! ¿Qué estás haciendo?" },
+        { "who": "Mario", "en": "Hi, Grandma! I'm watching cartoons with Lucía.", "es": "¡Hola, abuela! Estoy viendo dibujos con Lucía." },
+        { "who": "Grandma", "en": "Cartoons? Don't you play football on Saturday mornings?", "es": "¿Dibujos? ¿No juegas al fútbol los sábados por la mañana?" },
+        { "who": "Mario", "en": "Yes, I usually play football, but it's raining today.", "es": "Sí, normalmente juego al fútbol, pero hoy está lloviendo." },
+        { "who": "Grandma", "en": "Oh, I see. And what is Rocky doing?", "es": "Ah, ya veo. ¿Y qué está haciendo Rocky?" },
+        { "who": "Mario", "en": "He's sleeping on the sofa. He always sleeps when it rains!", "es": "Está durmiendo en el sofá. ¡Siempre duerme cuando llueve!" },
+        { "who": "Grandma", "en": "Ha ha! I love that dog!", "es": "¡Ja, ja! ¡Me encanta ese perro!" }
+      ]
+    },
+    {
+      "t": "examples", "title": "En el parque: describe el dibujo", "title_en": "At the park: describe the picture", "icon": "🌳", "color": "green",
+      "items": [
+        { "en": "It's Sunday and the sun <b>is shining</b>.", "es": "Es domingo y brilla el sol.", "icon": "☀️" },
+        { "en": "Some children <b>are playing</b> football.", "es": "Unos niños están jugando al fútbol.", "icon": "⚽" },
+        { "en": "A man <b>is reading</b> a newspaper on a bench.", "es": "Un hombre está leyendo el periódico en un banco.", "icon": "📰" },
+        { "en": "Two girls <b>are eating</b> ice creams.", "es": "Dos niñas están comiendo helados.", "icon": "🍦" },
+        { "en": "Rocky <b>is chasing</b> a pigeon!", "es": "¡Rocky está persiguiendo una paloma!", "icon": "🕊️" },
+        { "en": "Mario and Leo <b>come</b> to this park every Sunday.", "es": "Mario y Leo vienen a este parque todos los domingos.", "icon": "🛝" },
+        { "en": "They always <b>bring</b> their bikes.", "es": "Siempre traen las bicis.", "icon": "🚲" },
+        { "en": "Lucía <b>is sitting</b> under a tree. She <b>loves</b> this park!", "es": "Lucía está sentada bajo un árbol. ¡Le encanta este parque!", "icon": "🌲" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Álbum o vídeo en directo", "title_en": "Photo album or live video",
+      "es": "Imagina dos cámaras 📸. El <b>present simple</b> es tu <b>álbum de fotos</b>: muestra cómo es tu vida siempre (<i>I play football on Saturdays</i>). El <b>present continuous</b> es un <b>vídeo en directo</b> 🔴: muestra lo que pasa en este momento (<i>I'm playing football now!</i>). Y los verbos de estado (like, want, know) no salen en los vídeos: ¡siempre en simple!",
+      "en": "Present simple = photo album (always). Present continuous = live video (now). State verbs stay in the simple."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify", "title": "¿Simple o continuous?", "title_en": "Sort the key words", "icon": "🗂️",
+      "es": "Escribe cada palabra clave en su caja.",
+      "en": "Write each key word in the right box.",
+      "cats": [
+        { "name": "🔁 Present simple", "words": ["always", "every day", "usually", "never", "on Mondays", "sometimes"] },
+        { "name": "▶️ Present continuous", "words": ["now", "right now", "at the moment", "Look!", "Listen!", "Be quiet!"] }
+      ]
+    },
+    {
+      "t": "choose", "title": "Rodea la correcta", "title_en": "Circle the correct option", "icon": "⭕",
+      "es": "Rodea la opción correcta. Busca primero la pista.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "I [play|am playing] tennis every Friday.", "a": "play" },
+        { "q": "Look! Rocky [swims|is swimming] in the lake!", "a": "is swimming" },
+        { "q": "My mum [works|is working] in a hospital.", "a": "works" },
+        { "q": "Shh! Lucía [studies|is studying].", "a": "is studying" },
+        { "q": "We [don't go|aren't going] to school on Sundays.", "a": "don't go" },
+        { "q": "I [want|am wanting] an ice cream.", "a": "want" },
+        { "q": "Listen! The birds [sing|are singing].", "a": "are singing" },
+        { "q": "[Do|Are] you like pizza?", "a": "Do" },
+        { "q": "[Does|Is] Tom watching TV now?", "a": "Is" },
+        { "q": "Sara usually [wears|is wearing] glasses.", "a": "wears" }
+      ]
+    },
+    {
+      "t": "match", "title": "Pregunta y respuesta", "title_en": "Match questions and answers", "icon": "🔗",
+      "es": "Une cada pregunta con su respuesta. ¡Ojo: what do you do ≠ what are you doing!",
+      "en": "Match each question with its answer.",
+      "pairs": [
+        ["What are you doing?", "I'm reading a comic."],
+        ["What do you do on Sundays?", "I visit my grandparents."],
+        ["Does Rocky like cats?", "No, he doesn't!"],
+        ["Is it raining?", "Yes, it is. Take an umbrella!"],
+        ["Do you play the piano?", "Yes, I do. I have lessons on Tuesdays."],
+        ["What is Lucía doing?", "She's making a cake."],
+        ["What does your mum do?", "She's a nurse."]
+      ]
+    },
+    {
+      "t": "fill", "title": "¿Simple o continuous?", "title_en": "Simple or continuous?", "icon": "🔄",
+      "es": "Escribe el verbo entre paréntesis en present simple o present continuous. Busca la pista.",
+      "en": "Write the verb in the present simple or present continuous.",
+      "items": [
+        { "q": "Leo ________ football every Saturday.", "a": "plays", "hint": "play" },
+        { "q": "Look! Leo ________ a goal!", "a": "is scoring", "hint": "score" },
+        { "q": "I ________ my teeth every night.", "a": "brush", "hint": "brush" },
+        { "q": "Be quiet! I ________ a film.", "a": "am watching", "hint": "watch" },
+        { "q": "My grandparents ________ in a village.", "a": "live", "hint": "live" },
+        { "q": "It ________ now. Take your umbrella!", "a": "is raining", "hint": "rain" },
+        { "q": "Lucía never ________ coffee.", "a": "drinks", "hint": "drink" },
+        { "q": "We ________ lunch at the moment.", "a": "are having", "hint": "have" },
+        { "q": "Water ________ at 100 degrees.", "a": "boils", "hint": "boil" },
+        { "q": "Listen! Somebody ________ at the door.", "a": "is knocking", "hint": "knock" }
+      ]
+    },
+    {
+      "t": "fill", "title": "¿Verbo de estado o acción?", "title_en": "State verb or action?", "icon": "🧠",
+      "es": "Escribe el verbo en la forma correcta. Recuerda: los verbos de estado van en simple, ¡aunque sea ahora!",
+      "en": "Write the verb in the correct form.",
+      "items": [
+        { "q": "I ________ chocolate ice cream.", "a": "love", "hint": "love" },
+        { "q": "Shh! Tom ________ his homework.", "a": "is doing", "hint": "do" },
+        { "q": "Mario ________ the answer.", "a": "knows", "hint": "know" },
+        { "q": "My sister ________ a new phone.", "a": "wants", "hint": "want" },
+        { "q": "Look! Anna ________ on the sofa.", "a": "is sleeping", "hint": "sleep" },
+        { "q": "I ________ this word. What does it mean?", "a": "don't understand", "hint": "not / understand" },
+        { "q": "We ________ a big box for the toys.", "a": "need", "hint": "need" },
+        { "q": "Rocky ________ at the postman right now!", "a": "is barking", "hint": "bark" }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Cada día y ahora", "title_en": "Every day and now", "icon": "📋",
+      "es": "Escribe la frase con <b>every day</b> (simple) y con <b>now</b> (continuous). Mira el ejemplo.",
+      "en": "Write the sentence with every day and with now.",
+      "head": ["Sujeto / verbo", "🔁 every day", "▶️ now"],
+      "rows": [
+        ["I / read", "I read every day.", "I'm reading now."],
+        ["she / swim", "?She swims every day.", "?She's swimming now."],
+        ["they / play", "?They play every day.", "?They're playing now."],
+        ["he / study", "?He studies every day.", "?He's studying now."],
+        ["we / run", "?We run every day.", "?We're running now."],
+        ["Rocky / eat", "?Rocky eats every day.", "?Rocky is eating now."],
+        ["Lucía / write", "?Lucía writes every day.", "?Lucía is writing now."]
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Cambia la frase", "title_en": "Change the sentence", "icon": "🔁",
+      "es": "Reescribe la frase con la palabra entre paréntesis. ¿Tienes que cambiar el tiempo verbal?",
+      "en": "Rewrite the sentence with the word in brackets.",
+      "items": [
+        { "q": "I play tennis on Mondays. (now)", "a": "I'm playing tennis now." },
+        { "q": "She is reading a book now. (every night)", "a": "She reads a book every night." },
+        { "q": "We watch TV after dinner. (at the moment)", "a": "We're watching TV at the moment." },
+        { "q": "Tom is eating a sandwich. (every day)", "a": "Tom eats a sandwich every day." },
+        { "q": "My dad cooks dinner. (Look!)", "a": "Look! My dad is cooking dinner." },
+        { "q": "They are walking to school. (usually)", "a": "They usually walk to school." },
+        { "q": "It rains a lot in Galicia. (now)", "a": "It's raining in Galicia now." },
+        { "q": "Lucía is wearing a hat today. (never)", "a": "Lucía never wears a hat." }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        { "q": "playing / I'm / football / now", "a": "I'm playing football now." },
+        { "q": "always / she / her teeth / brushes", "a": "She always brushes her teeth." },
+        { "q": "you / doing / what / are / ?", "a": "What are you doing?" },
+        { "q": "do / on Sundays / do / you / what / ?", "a": "What do you do on Sundays?" },
+        { "q": "isn't / Tom / now / sleeping", "a": "Tom isn't sleeping now." },
+        { "q": "like / Rocky / doesn't / cats", "a": "Rocky doesn't like cats." },
+        { "q": "raining / is / it / ?", "a": "Is it raining?" },
+        { "q": "never / I / for school / am / late", "a": "I am never late for school." }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Está bien?", "title_en": "Right or wrong?", "icon": "✔️",
+      "es": "¿La frase está bien (T) o mal (F)? Si está mal, corrígela en tu cuaderno.",
+      "en": "Is the sentence right (T) or wrong (F)?",
+      "items": [
+        { "q": "Look! The cat is climbing the tree.", "a": true },
+        { "q": "I am liking this song.", "a": false, "why": "I like this song." },
+        { "q": "My dad works in a bank.", "a": true },
+        { "q": "She is play the guitar now.", "a": false, "why": "She is playing the guitar now." },
+        { "q": "Do you know Sara?", "a": true },
+        { "q": "We are going to school every day.", "a": false, "why": "We go to school every day." },
+        { "q": "Is Tom watching TV?", "a": true },
+        { "q": "Listen! The dog barks.", "a": false, "why": "Listen! The dog is barking." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "Listen! The baby cries.", "a": "Listen! The baby is crying." },
+        { "q": "I am visiting my grandma every Sunday.", "a": "I visit my grandma every Sunday." },
+        { "q": "She is wanting a new bike.", "a": "She wants a new bike." },
+        { "q": "What do you do now? (= ¿qué estás haciendo?)", "a": "What are you doing now?" },
+        { "q": "He is watch TV.", "a": "He is watching TV." },
+        { "q": "My sister go swimming on Fridays.", "a": "My sister goes swimming on Fridays." },
+        { "q": "Do you playing now?", "a": "Are you playing now?" },
+        { "q": "I'm not understanding.", "a": "I don't understand." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Piensa: ¿siempre o ahora? ¿verbo de estado?",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "¿Qué estás haciendo?", "a": "What are you doing?" },
+        { "q": "Juego al fútbol los sábados.", "a": "I play football on Saturdays." },
+        { "q": "¡Mira! Está nevando.", "a": "Look! It's snowing." },
+        { "q": "Mi madre trabaja en un colegio.", "a": "My mum works in a school." },
+        { "q": "Ahora estamos comiendo.", "a": "We're eating now. / We're having lunch now." },
+        { "q": "Me gusta esta canción.", "a": "I like this song." },
+        { "q": "¿Qué haces los domingos?", "a": "What do you do on Sundays?" },
+        { "q": "Lucía no está estudiando, está viendo la tele.", "a": "Lucía isn't studying, she's watching TV." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "A rainy Saturday 🌧️",
+      "text": [
+        "It's Saturday morning. Mario usually plays football on Saturdays, but today it's raining, so he is at home.",
+        "Right now, Mario is drawing a dragon in his room. His sister Lucía is reading a book on the sofa. She loves books! She reads every night before bed.",
+        "Dad is in the kitchen. He is making pancakes. He always makes pancakes on Saturdays. And Rocky? Rocky is sleeping under the table. He doesn't like rain, and he never goes out when it's raining!"
+      ],
+      "items": [
+        { "q": "Mario is playing football now.", "tf": true, "a": false, "why": "He's drawing a dragon in his room." },
+        { "q": "Lucía reads every night.", "tf": true, "a": true },
+        { "q": "Rocky likes rain.", "tf": true, "a": false, "why": "He doesn't like rain." },
+        { "q": "What does Mario usually do on Saturdays?", "a": "He plays football." },
+        { "q": "What is Lucía doing right now?", "a": "She's reading a book (on the sofa)." },
+        { "q": "What is Dad making?", "a": "He's making pancakes." },
+        { "q": "Where is Rocky sleeping?", "a": "Under the table." }
+      ]
+    },
+    {
+      "t": "spell", "title": "Deletrea la palabra clave", "title_en": "Spell the key word", "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra clave en las cajas. Después escribe S (simple) o C (continuous).",
+      "en": "Unscramble the letters and write the key word.",
+      "items": [
+        { "q": "♾️ siempre", "a": "always" },
+        { "q": "🔁 normalmente", "a": "usually" },
+        { "q": "🎲 a veces", "a": "sometimes" },
+        { "q": "🚫 nunca", "a": "never" },
+        { "q": "🔂 a menudo", "a": "often" },
+        { "q": "⏱️ momento", "a": "moment" },
+        { "q": "👂 escuchar", "a": "listen" },
+        { "q": "💡 entender", "a": "understand" }
+      ]
+    },
+    {
+      "t": "wordsearch", "title": "Sopa de verbos de estado", "title_en": "State verbs word search", "icon": "🔎",
+      "es": "Busca los 8 verbos de estado. Después escribe dos frases con ellos (¡sin -ing!).",
+      "en": "Find the 8 state verbs. Then write two sentences with them.",
+      "words": ["like", "love", "hate", "want", "need", "know", "prefer", "remember"],
+      "clues": ["like · gustar", "love · encantar", "hate · odiar", "want · querer", "need · necesitar", "know · saber", "prefer · preferir", "remember · recordar"]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe sobre tu vida (siempre) y sobre este momento (ahora).",
+      "en": "Write about your life and about this moment.",
+      "items": [
+        { "q": "Escribe 2 cosas que haces <b>todos los días</b>.", "lines": 2, "a": "Ej.: I get up at half past seven. I walk Rocky every evening." },
+        { "q": "¿Qué está pasando <b>ahora</b> en tu casa? Escribe 2 frases.", "lines": 2, "a": "Ej.: My mum is reading. My sister is listening to music." },
+        { "q": "Escribe 2 cosas que te gustan o que quieres (verbos de estado).", "lines": 2, "a": "Ej.: I love pizza. I want a new skateboard." },
+        { "q": "Escribe una pregunta con <b>What do you do…?</b> y otra con <b>What are you doing…?</b>", "lines": 2, "a": "Ej.: What do you do on Saturdays? What are you doing now?" }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Uso el <b>present simple</b> para rutinas, gustos y verdades.", "en": "I use the present simple for routines, likes and facts." },
+    { "es": "Uso el <b>present continuous</b> para lo que pasa ahora.", "en": "I use the present continuous for things happening now." },
+    { "es": "Reconozco las pistas: <b>always, every day…</b> / <b>now, Look!…</b>", "en": "I know the key words for each tense." },
+    { "es": "No pongo -ing a los verbos de estado: <b>I like</b>, <s>I'm liking</s>.", "en": "I don't use -ing with state verbs." },
+    { "es": "Distingo <b>What do you do?</b> y <b>What are you doing?</b>", "en": "I know What do you do? and What are you doing?" },
+    { "es": "Hago negativas y preguntas con los dos presentes.", "en": "I can make negatives and questions in both tenses." }
+  ]
+}

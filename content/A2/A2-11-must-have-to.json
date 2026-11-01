@@ -1,0 +1,1428 @@
+{
+  "id": "A2-11",
+  "level": "A2",
+  "title": "MUST <em>y</em> HAVE TO",
+  "file_title": "Must y have to",
+  "subtitle": "Must and have to · obligación y prohibición",
+  "icon": "🚦",
+  "map": {
+    "center": "Usamos <b>MUST</b> y <b>HAVE TO</b> para decir lo que <b>tenemos que</b> hacer: normas y obligaciones.",
+    "nodes": [
+      {
+        "title": "MUST",
+        "icon": "✅",
+        "art": "📢",
+        "items": [
+          "Obligación fuerte, normas y carteles",
+          "<b>must</b> + verbo (¡sin to!)",
+          "You <b>must</b> listen. <i>(Debes escuchar.)</i>",
+          "Nunca cambia: he <b>must</b> <s>musts</s>"
+        ]
+      },
+      {
+        "title": "HAVE TO / HAS TO",
+        "icon": "📋",
+        "items": [
+          "Obligación que viene de fuera (cole, padres)",
+          "I <b>have to</b> wear a uniform.",
+          "he / she / it → <b>has to</b>",
+          "Leo <b>has to</b> walk to school."
+        ]
+      },
+      {
+        "title": "MUSTN'T = ¡Prohibido!",
+        "icon": "🚫",
+        "items": [
+          "🔴 Luz roja: ¡no lo hagas!",
+          "You <b>mustn't</b> run in the corridor. <i>(No debes correr.)</i>",
+          "Suena /ˈmʌsnt/: la 1ª t no suena."
+        ]
+      },
+      {
+        "title": "DON'T HAVE TO",
+        "icon": "😌",
+        "art": "🏖️",
+        "items": [
+          "No hace falta: ¡tú eliges!",
+          "You <b>don't have to</b> pay. <i>(No hace falta pagar.)</i>",
+          "he / she / it → <b>doesn't have to</b>"
+        ]
+      },
+      {
+        "title": "Preguntas",
+        "icon": "❓",
+        "items": [
+          "<b>Do</b> I / you / we / they <b>have to</b>…?",
+          "<b>Does</b> he / she / it <b>have to</b>…?",
+          "Yes, I <b>do</b>. / No, she <b>doesn't</b>."
+        ]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "items": [
+          "<b>mustn't</b> ≠ <b>don't have to</b>: ¡muy distintos!",
+          "Ayer → <b>had to</b>: I had to study.",
+          "Detrás siempre el verbo base: must <b>go</b>."
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "I must to tidy my room."
+      ],
+      "good": [
+        "I must tidy my room."
+      ],
+      "note": "<b>must</b> + verbo <b>sin to</b> (y sin -s)"
+    },
+    "mini": {
+      "es": "Completa con must, mustn't o don't have to.",
+      "en": "Complete with must, mustn't or don't have to.",
+      "items": [
+        {
+          "q": "You ____ run in the corridor.",
+          "a": "mustn't"
+        },
+        {
+          "q": "It's Saturday! I ____ get up early.",
+          "a": "don't have to"
+        },
+        {
+          "q": "You ____ wear a helmet on your bike.",
+          "a": "must"
+        },
+        {
+          "q": "We ____ eat in the library.",
+          "a": "mustn't"
+        },
+        {
+          "q": "You ____ pay. The museum is free.",
+          "a": "don't have to"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "<b>Must</b> y <b>have to</b> significan <mark>tener que / deber</mark>: obligaciones y normas del cole, de casa… ¡Pero sus negativas son <b>muy diferentes</b>! <b>mustn't</b> = <em>¡prohibido!</em> y <b>don't have to</b> = <em>no hace falta</em>.",
+      "en": "<b>Must</b> and <b>have to</b> = <mark>it's necessary</mark>. But <b>mustn't</b> = not allowed and <b>don't have to</b> = not necessary.",
+      "formula": [
+        "Sujeto + *must* + verbo",
+        "Sujeto + *have to / has to* + verbo"
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · MUST",
+      "title_en": "Must: strong obligation",
+      "icon": "✅",
+      "color": "green",
+      "es": "<b>Must</b> + verbo (¡sin <em>to</em>!) es una obligación fuerte: cuando <b>yo creo</b> que algo es muy importante y en <b>normas escritas</b> (carteles). Must es perezoso: <mark>nunca cambia</mark> (sin -s, sin do / does).",
+      "en": "<b>Must</b> + verb (no <em>to</em>) = strong obligation: our own idea or written rules. It never changes.",
+      "formula": [
+        "I / you / he / she / we / they + *must* + verbo"
+      ],
+      "examples": [
+        {
+          "en": "I <b>must</b> tidy my room today.",
+          "es": "Tengo que ordenar mi cuarto hoy.",
+          "icon": "🧹"
+        },
+        {
+          "en": "You <b>must</b> wear a helmet on your bike.",
+          "es": "Debes llevar casco en la bici.",
+          "icon": "🚲"
+        },
+        {
+          "en": "Lucía <b>must</b> study for her test.",
+          "es": "Lucía tiene que estudiar para su examen.",
+          "icon": "📚"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · HAVE TO / HAS TO",
+      "title_en": "Have to: obligation from outside",
+      "icon": "📋",
+      "color": "blue",
+      "es": "<b>Have to</b> también significa <b>tener que</b>. Lo usamos sobre todo cuando la obligación <mark>viene de fuera</mark>: una norma del cole, un horario, lo que dicen papá y mamá. ¡Ojo! Have to sí cambia: con <b>he, she, it</b> se convierte en <b>has to</b>.",
+      "en": "<b>Have to</b> also means something is necessary, often because of rules or other people. With <b>he, she, it</b> we say <b>has to</b>.",
+      "formula": [
+        "I / you / we / they + *have to* + verbo",
+        "he / she / it + *has to* + verbo"
+      ],
+      "examples": [
+        {
+          "en": "I <b>have to</b> get up at seven on school days.",
+          "es": "Tengo que levantarme a las siete los días de cole.",
+          "icon": "⏰"
+        },
+        {
+          "en": "Mario <b>has to</b> walk Rocky every evening.",
+          "es": "Mario tiene que pasear a Rocky todas las tardes.",
+          "icon": "🐕"
+        },
+        {
+          "en": "We <b>have to</b> wear a uniform at school.",
+          "es": "Tenemos que llevar uniforme en el cole.",
+          "icon": "👕"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "MUST o HAVE TO",
+      "title_en": "must or have to?",
+      "icon": "⚖️",
+      "color": "purple",
+      "es": "En frases afirmativas, <b>must</b> y <b>have to</b> significan casi lo mismo y muchas veces sirven los dos. La pequeña diferencia es <b>quién pone la norma</b>: ¿lo pienso yo o viene de fuera?",
+      "en": "In positive sentences, must and have to are very similar. The small difference is who makes the rule.",
+      "cols": [
+        {
+          "head": "🗣️ Lo pienso yo · must",
+          "color": "green",
+          "items": [
+            "I <b>must</b> call Grandma. <i>(Yo creo que es importante.)</i>",
+            "I <b>must</b> practise more!",
+            "Pupils <b>must</b> be quiet. <i>(cartel)</i>"
+          ]
+        },
+        {
+          "head": "📋 Norma de fuera · have to",
+          "color": "blue",
+          "items": [
+            "I <b>have to</b> wear glasses. <i>(Lo dice el médico.)</i>",
+            "We <b>have to</b> be at school at nine.",
+            "Tom <b>has to</b> help at home."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · MUSTN'T",
+      "title_en": "Mustn't: it's not allowed",
+      "icon": "🚫",
+      "color": "red",
+      "es": "<b>Mustn't</b> (= must not) significa <mark>¡prohibido! ¡No lo hagas!</mark> Es una luz roja 🔴. Fíjate en cómo se dice: la primera <em>t</em> no suena → /ˈmʌsnt/. Tampoco aquí cambia nada con he / she / it.",
+      "en": "<b>Mustn't</b> (= must not) means it is <mark>not allowed</mark>. Don't do it! The first <em>t</em> is silent.",
+      "formula": [
+        "Sujeto + *mustn't* + verbo"
+      ],
+      "examples": [
+        {
+          "en": "You <b>mustn't</b> run in the corridor.",
+          "es": "No debes correr por el pasillo.",
+          "icon": "🏃"
+        },
+        {
+          "en": "We <b>mustn't</b> use our phones in class.",
+          "es": "No podemos usar el móvil en clase.",
+          "icon": "📵"
+        },
+        {
+          "en": "Rocky <b>mustn't</b> eat chocolate. It's bad for dogs!",
+          "es": "Rocky no debe comer chocolate. ¡Es malo para los perros!",
+          "icon": "🍫"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · DON'T HAVE TO",
+      "title_en": "Don't have to: it isn't necessary",
+      "icon": "😌",
+      "color": "teal",
+      "es": "<b>Don't have to</b> / <b>doesn't have to</b> significa <mark>no hace falta, no es obligatorio</mark>. Puedes hacerlo si quieres, pero no es necesario. Es una luz verde 🟢: ¡tú eliges! Como have to es un verbo normal, la negativa se hace con <b>don't / doesn't</b>.",
+      "en": "<b>Don't have to</b> means it is <mark>not necessary</mark>. You can do it if you want, but you don't need to. Use don't / doesn't.",
+      "formula": [
+        "I / you / we / they + *don't have to* + verbo",
+        "he / she / it + *doesn't have to* + verbo"
+      ],
+      "examples": [
+        {
+          "en": "It's Saturday! I <b>don't have to</b> get up early.",
+          "es": "¡Es sábado! No tengo que madrugar.",
+          "icon": "😴"
+        },
+        {
+          "en": "You <b>don't have to</b> pay. The museum is free.",
+          "es": "No hace falta pagar. El museo es gratis.",
+          "icon": "🏛️"
+        },
+        {
+          "en": "Lucía <b>doesn't have to</b> wear a uniform at her new school.",
+          "es": "Lucía no tiene que llevar uniforme en su cole nuevo.",
+          "icon": "👗"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "MUSTN'T o DON'T HAVE TO",
+      "title_en": "mustn't or don't have to?",
+      "icon": "⚠️",
+      "color": "orange",
+      "es": "¡Aquí está la gran trampa! En español <i>«no tienes que…»</i> puede sonar a las dos cosas, pero en inglés son <mark>muy diferentes</mark>. Pregúntate: ¿está <b>prohibido</b> o simplemente <b>no hace falta</b>?",
+      "en": "This is the big trap! <b>Mustn't</b> = it's forbidden. <b>Don't have to</b> = it isn't necessary, you choose.",
+      "cols": [
+        {
+          "head": "🔴 Prohibido · mustn't",
+          "color": "red",
+          "items": [
+            "You <b>mustn't</b> swim here. <i>(¡Peligro!)</i>",
+            "You <b>mustn't</b> touch the oven. <i>(¡Quema!)</i>",
+            "You <b>mustn't</b> shout in the library."
+          ]
+        },
+        {
+          "head": "🟢 No hace falta · don't have to",
+          "color": "green",
+          "items": [
+            "You <b>don't have to</b> swim. <i>(Si no quieres, no.)</i>",
+            "You <b>don't have to</b> help me. <i>(Puedo solo.)</i>",
+            "You <b>don't have to</b> bring food. <i>(Hay comida.)</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Preguntas",
+      "title_en": "Questions",
+      "icon": "❓",
+      "color": "purple",
+      "es": "Para preguntar si algo es obligatorio usamos <b>Do / Does</b> + sujeto + <b>have to</b> + verbo? Respondemos con <b>do / does</b>, igual que en el presente simple. <small>(Must I…? existe, pero es más formal y se usa poco.)</small>",
+      "en": "To ask about obligation: <b>Do / Does</b> + subject + <b>have to</b> + verb? Short answers: Yes, I do. / No, she doesn't.",
+      "formula": [
+        "*Do* + I / you / we / they + *have to* + verbo?",
+        "*Does* + he / she / it + *have to* + verbo?"
+      ],
+      "examples": [
+        {
+          "en": "<b>Do</b> we <b>have to</b> do this exercise? — Yes, you <b>do</b>.",
+          "es": "¿Tenemos que hacer este ejercicio? — Sí.",
+          "icon": "✏️"
+        },
+        {
+          "en": "<b>Does</b> Leo <b>have to</b> go home now? — No, he <b>doesn't</b>.",
+          "es": "¿Leo tiene que irse a casa ya? — No.",
+          "icon": "🏠"
+        },
+        {
+          "en": "<b>Do</b> you <b>have to</b> feed the cat? — Yes, I <b>do</b>.",
+          "es": "¿Tienes que dar de comer al gato? — Sí.",
+          "icon": "🐈"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Todo junto",
+      "title_en": "All together",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Sujeto · Subject",
+        "✅ must",
+        "🔴 mustn't",
+        "✅ have to",
+        "🟢 don't have to",
+        "❓ Pregunta"
+      ],
+      "rows": [
+        [
+          "I",
+          "I must go.",
+          "I mustn't go.",
+          "I have to go.",
+          "I don't have to go.",
+          "Do I have to go?"
+        ],
+        [
+          "you",
+          "You must go.",
+          "You mustn't go.",
+          "You have to go.",
+          "You don't have to go.",
+          "Do you have to go?"
+        ],
+        [
+          "he / she",
+          "He must go.",
+          "He mustn't go.",
+          "He <b>has</b> to go.",
+          "He <b>doesn't</b> have to go.",
+          "<b>Does</b> he have to go?"
+        ],
+        [
+          "we",
+          "We must go.",
+          "We mustn't go.",
+          "We have to go.",
+          "We don't have to go.",
+          "Do we have to go?"
+        ],
+        [
+          "they",
+          "They must go.",
+          "They mustn't go.",
+          "They have to go.",
+          "They don't have to go.",
+          "Do they have to go?"
+        ]
+      ],
+      "note": "<b>must</b> nunca cambia (sin -s y sin do). <b>have to</b> es un verbo normal: <b>has to</b> · <b>doesn't have to</b> · <b>Does</b>…?",
+      "note_en": "Must never changes. Have to works like a normal verb: has to, doesn't have to, Does…?"
+    },
+    {
+      "t": "table",
+      "title": "¿Cómo suena?",
+      "title_en": "How does it sound?",
+      "icon": "👂",
+      "color": "pink",
+      "head": [
+        "Palabra · Word",
+        "Suena · Sounds",
+        "Truco · Trick"
+      ],
+      "rows": [
+        [
+          "must",
+          "/mʌst/",
+          "como «mast»"
+        ],
+        [
+          "mustn't",
+          "/ˈmʌsnt/",
+          "¡la 1ª t no suena! «másnt»"
+        ],
+        [
+          "have to",
+          "/ˈhæftə/",
+          "la v suena f: «jáfta»"
+        ],
+        [
+          "has to",
+          "/ˈhæstə/",
+          "la s suena s: «jásta»"
+        ]
+      ],
+      "note": "Si dices <i>«mas-tent»</i>, ¡suena raro! Practica: <b>You mustn't</b> → «yu másnt».",
+      "note_en": "Don't pronounce the first t in mustn't."
+    },
+    {
+      "t": "vocab",
+      "title": "Normas del cole",
+      "title_en": "School rules",
+      "icon": "🏫",
+      "color": "green",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "wear a uniform",
+          "es": "llevar uniforme",
+          "icon": "👕"
+        },
+        {
+          "en": "be on time",
+          "es": "ser puntual",
+          "icon": "⏰"
+        },
+        {
+          "en": "put your hand up",
+          "es": "levantar la mano",
+          "icon": "✋"
+        },
+        {
+          "en": "listen to the teacher",
+          "es": "escuchar al profe",
+          "icon": "👂"
+        },
+        {
+          "en": "do your homework",
+          "es": "hacer los deberes",
+          "icon": "📚"
+        },
+        {
+          "en": "be quiet",
+          "es": "estar callado",
+          "icon": "🤫"
+        },
+        {
+          "en": "bring your PE kit",
+          "es": "traer la ropa de gimnasia",
+          "icon": "🎽"
+        },
+        {
+          "en": "line up",
+          "es": "ponerse en fila",
+          "icon": "🚶"
+        },
+        {
+          "en": "tidy your desk",
+          "es": "ordenar tu pupitre",
+          "icon": "🧹"
+        },
+        {
+          "en": "run in the corridor",
+          "es": "correr por el pasillo",
+          "icon": "🏃"
+        },
+        {
+          "en": "eat in class",
+          "es": "comer en clase",
+          "icon": "🍪"
+        },
+        {
+          "en": "use your phone",
+          "es": "usar el móvil",
+          "icon": "📱"
+        },
+        {
+          "en": "shout",
+          "es": "gritar",
+          "icon": "📢"
+        },
+        {
+          "en": "be late",
+          "es": "llegar tarde",
+          "icon": "🐌"
+        },
+        {
+          "en": "chew gum",
+          "es": "mascar chicle",
+          "icon": "🍬"
+        },
+        {
+          "en": "copy in a test",
+          "es": "copiar en un examen",
+          "icon": "👀"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "You <b>must</b> brush your teeth before bed.",
+          "es": "Tienes que lavarte los dientes antes de dormir.",
+          "icon": "🦷"
+        },
+        {
+          "en": "My dad <b>has to</b> work on Saturdays.",
+          "es": "Mi padre tiene que trabajar los sábados.",
+          "icon": "💼"
+        },
+        {
+          "en": "We <b>mustn't</b> feed the animals at the zoo.",
+          "es": "No debemos dar de comer a los animales del zoo.",
+          "icon": "🦒"
+        },
+        {
+          "en": "You <b>don't have to</b> finish it today. You can do it tomorrow.",
+          "es": "No hace falta que lo acabes hoy. Puedes hacerlo mañana.",
+          "icon": "📅"
+        },
+        {
+          "en": "Sara <b>has to</b> practise the piano every day.",
+          "es": "Sara tiene que practicar piano todos los días.",
+          "icon": "🎹"
+        },
+        {
+          "en": "Players <b>mustn't</b> touch the ball with their hands.",
+          "es": "Los jugadores no deben tocar el balón con las manos.",
+          "icon": "⚽"
+        },
+        {
+          "en": "<b>Does</b> Tom <b>have to</b> wear glasses? — Yes, he <b>does</b>.",
+          "es": "¿Tom tiene que llevar gafas? — Sí.",
+          "icon": "👓"
+        },
+        {
+          "en": "I <b>must</b> remember Anna's birthday!",
+          "es": "¡Tengo que acordarme del cumple de Anna!",
+          "icon": "🎂"
+        },
+        {
+          "en": "Lucía <b>doesn't have to</b> wash up today. It's my turn.",
+          "es": "Lucía no tiene que fregar hoy. Me toca a mí.",
+          "icon": "🍽️"
+        },
+        {
+          "en": "You <b>mustn't</b> open the door to strangers.",
+          "es": "No debes abrir la puerta a desconocidos.",
+          "icon": "🚪"
+        },
+        {
+          "en": "<b>Do</b> I <b>have to</b> bring my PE kit tomorrow? — No, you <b>don't</b>.",
+          "es": "¿Tengo que traer la ropa de gimnasia mañana? — No.",
+          "icon": "🎽"
+        },
+        {
+          "en": "We <b>have to</b> be quiet. The baby is sleeping.",
+          "es": "Tenemos que estar callados. El bebé está durmiendo.",
+          "icon": "👶"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "trampas",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I must to do my homework.",
+          "good": "I <b>must do</b> my homework.",
+          "why": "Después de must, verbo sin to.",
+          "why_en": "No to after must."
+        },
+        {
+          "bad": "He musts go to bed.",
+          "good": "He <b>must</b> go to bed.",
+          "why": "Must nunca lleva -s.",
+          "why_en": "Must never takes -s."
+        },
+        {
+          "bad": "She have to wear glasses.",
+          "good": "She <b>has to</b> wear glasses.",
+          "why": "he / she / it → has to.",
+          "why_en": "he / she / it → has to."
+        },
+        {
+          "bad": "He doesn't has to come.",
+          "good": "He doesn't <b>have</b> to come.",
+          "why": "Después de doesn't: have (sin s).",
+          "why_en": "After doesn't: have."
+        },
+        {
+          "bad": "Do you must wear a uniform?",
+          "good": "<b>Do</b> you <b>have to</b> wear a uniform?",
+          "why": "Must no va con do: pregunta con have to.",
+          "why_en": "No do with must."
+        },
+        {
+          "bad": "You don't have to run in the corridor! <small>(= prohibido)</small>",
+          "good": "You <b>mustn't</b> run in the corridor!",
+          "why": "Prohibido = mustn't. Don't have to = no hace falta.",
+          "why_en": "Not allowed = mustn't."
+        },
+        {
+          "bad": "I no must eat sweets.",
+          "good": "I <b>mustn't</b> eat sweets.",
+          "why": "No se niega con «no»: mustn't.",
+          "why_en": "Use mustn't, not no."
+        },
+        {
+          "bad": "Yesterday I must study.",
+          "good": "Yesterday I <b>had to</b> study.",
+          "why": "Must no tiene pasado: had to.",
+          "why_en": "Past = had to."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Qué palabra uso?",
+      "title_en": "Which one do I use?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "¿Es <b>obligatorio</b> o necesario? → <b>must</b> o <b>have to</b>.",
+          "en": "Necessary? → must or have to."
+        },
+        {
+          "es": "¿Lo piensas tú o es un cartel? → <b>must</b>. ¿Es una norma de fuera (cole, padres, horario)? → <b>have to</b>.",
+          "en": "Your idea or a sign → must. A rule from outside → have to."
+        },
+        {
+          "es": "¿Está <b>prohibido</b>? 🔴 → <b>mustn't</b>.",
+          "en": "Not allowed? → mustn't."
+        },
+        {
+          "es": "¿<b>No hace falta</b> y puedes elegir? 🟢 → <b>don't / doesn't have to</b>.",
+          "en": "Not necessary? → don't / doesn't have to."
+        },
+        {
+          "es": "Mira el sujeto: con he / she / it → <b>has to</b> / <b>doesn't have to</b>. ¡Must no cambia nunca!",
+          "en": "he / she / it → has to / doesn't have to. Must never changes."
+        },
+        {
+          "es": "Detrás va el verbo en su forma base: must <b>go</b>, has to <b>go</b>, doesn't have to <b>go</b>.",
+          "en": "Then the base verb: must go, has to go."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el campamento",
+      "title_en": "At summer camp",
+      "lines": [
+        {
+          "who": "Anna",
+          "en": "Welcome to camp, Mario! Here are the rules.",
+          "es": "¡Bienvenido al campamento, Mario! Aquí tienes las normas."
+        },
+        {
+          "who": "Mario",
+          "en": "Do we have to get up early?",
+          "es": "¿Tenemos que levantarnos temprano?"
+        },
+        {
+          "who": "Anna",
+          "en": "Yes, we do. We have to be at breakfast at eight.",
+          "es": "Sí. Tenemos que estar en el desayuno a las ocho."
+        },
+        {
+          "who": "Mario",
+          "en": "Oh no! And what about phones?",
+          "es": "¡Oh, no! ¿Y los móviles?"
+        },
+        {
+          "who": "Anna",
+          "en": "We mustn't use our phones during the day, only after dinner.",
+          "es": "No podemos usar el móvil durante el día, solo después de cenar."
+        },
+        {
+          "who": "Mario",
+          "en": "Do I have to swim in the lake? I don't like cold water!",
+          "es": "¿Tengo que nadar en el lago? ¡No me gusta el agua fría!"
+        },
+        {
+          "who": "Anna",
+          "en": "No, you don't have to. But you must wear a life jacket in the boat!",
+          "es": "No, no hace falta. ¡Pero tienes que llevar chaleco salvavidas en la barca!"
+        },
+        {
+          "who": "Mario",
+          "en": "OK. That's a good rule!",
+          "es": "Vale. ¡Esa norma está bien!"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del semáforo",
+      "title_en": "Traffic-light trick",
+      "es": "🔴 <b>mustn't</b> = luz roja: ¡STOP, prohibido! · 🟢 <b>don't have to</b> = luz verde: tú decides, no hace falta. · <b>must / have to</b> = ¡hay que hacerlo! Y recuerda: must <b>no tiene pasado</b>. Para ayer usamos <b>had to</b>: <i>Yesterday I had to study.</i>",
+      "en": "🔴 mustn't = stop, not allowed. 🟢 don't have to = you choose. Must / have to = you need to do it. Past: had to."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "Une el cartel con la norma",
+      "title_en": "Match the sign and the rule",
+      "icon": "🪧",
+      "es": "Une cada cartel con lo que significa.",
+      "en": "Match each sign with its meaning.",
+      "pairs": [
+        [
+          "🚭 NO SMOKING",
+          "You mustn't smoke here."
+        ],
+        [
+          "🤫 QUIET, PLEASE",
+          "You must be quiet."
+        ],
+        [
+          "🏊 NO DIVING",
+          "You mustn't dive into the pool."
+        ],
+        [
+          "⛑️ HELMETS ON",
+          "You must wear a helmet."
+        ],
+        [
+          "🐕 DOGS ON LEADS",
+          "Dogs must be on a lead."
+        ],
+        [
+          "📵 NO PHONES",
+          "You mustn't use your phone."
+        ],
+        [
+          "🆓 FREE ENTRY",
+          "You don't have to pay."
+        ],
+        [
+          "🍔 NO FOOD OR DRINK",
+          "You mustn't eat or drink here."
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "have to o has to",
+      "title_en": "have to or has to",
+      "icon": "📋",
+      "es": "Completa con have to o has to. Antes, subraya el sujeto.",
+      "en": "Complete with have to or has to. Underline the subject first.",
+      "bank": [
+        "have to",
+        "has to"
+      ],
+      "items": [
+        {
+          "q": "I ____ go to the dentist today.",
+          "a": "have to"
+        },
+        {
+          "q": "My mum ____ work on Saturdays.",
+          "a": "has to"
+        },
+        {
+          "q": "We ____ wear a uniform.",
+          "a": "have to"
+        },
+        {
+          "q": "Leo ____ walk to school.",
+          "a": "has to"
+        },
+        {
+          "q": "You ____ be home at eight.",
+          "a": "have to"
+        },
+        {
+          "q": "The players ____ wear shin pads.",
+          "a": "have to"
+        },
+        {
+          "q": "Lucía ____ practise the violin.",
+          "a": "has to"
+        },
+        {
+          "q": "My grandparents ____ take a bus to the city.",
+          "a": "have to"
+        },
+        {
+          "q": "Rocky ____ wear a lead in the park.",
+          "a": "has to"
+        },
+        {
+          "q": "Tom and I ____ finish our project.",
+          "a": "have to"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "must o mustn't",
+      "title_en": "must or mustn't",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta. Piensa: ¿es necesario o está prohibido?",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "You [must|mustn't] look both ways before you cross the road.",
+          "a": "must"
+        },
+        {
+          "q": "You [must|mustn't] play with matches.",
+          "a": "mustn't"
+        },
+        {
+          "q": "We [must|mustn't] be kind to our classmates.",
+          "a": "must"
+        },
+        {
+          "q": "Children [must|mustn't] swim here without an adult.",
+          "a": "mustn't"
+        },
+        {
+          "q": "You [must|mustn't] wash your hands before lunch.",
+          "a": "must"
+        },
+        {
+          "q": "Rocky [must|mustn't] sleep on the sofa. Mum says no!",
+          "a": "mustn't"
+        },
+        {
+          "q": "I [must|mustn't] forget my homework again!",
+          "a": "mustn't"
+        },
+        {
+          "q": "You [must|mustn't] wear a seat belt in the car.",
+          "a": "must"
+        },
+        {
+          "q": "We [must|mustn't] write on the desks.",
+          "a": "mustn't"
+        },
+        {
+          "q": "You [must|mustn't] listen when the teacher is talking.",
+          "a": "must"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Normas del cole",
+      "title_en": "School rules",
+      "icon": "🏫",
+      "es": "Clasifica cada norma: ¿es algo que debes hacer o algo prohibido?",
+      "en": "Sort the school rules: must or mustn't?",
+      "cats": [
+        {
+          "name": "✅ You must…",
+          "words": [
+            "be on time",
+            "put your hand up",
+            "wear your uniform",
+            "listen to the teacher",
+            "do your homework",
+            "tidy your desk"
+          ]
+        },
+        {
+          "name": "🔴 You mustn't…",
+          "words": [
+            "run in the corridor",
+            "shout in class",
+            "copy in tests",
+            "eat in class",
+            "use your phone",
+            "be rude"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea la palabra",
+      "title_en": "Spell the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en las cajas.",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        {
+          "q": "👕 uniforme",
+          "a": "uniform"
+        },
+        {
+          "q": "⛑️ casco",
+          "a": "helmet"
+        },
+        {
+          "q": "📚 deberes",
+          "a": "homework"
+        },
+        {
+          "q": "🤫 callado",
+          "a": "quiet"
+        },
+        {
+          "q": "📋 normas",
+          "a": "rules"
+        },
+        {
+          "q": "⏰ temprano",
+          "a": "early"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Prohibido o no hace falta?",
+      "title_en": "mustn't or don't have to?",
+      "icon": "🚦",
+      "es": "Rodea la opción correcta. 🔴 ¿Está prohibido? → mustn't. 🟢 ¿No hace falta? → don't / doesn't have to.",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "It's a holiday tomorrow, so I [mustn't|don't have to] go to school.",
+          "a": "don't have to"
+        },
+        {
+          "q": "You [mustn't|don't have to] touch that! It's hot!",
+          "a": "mustn't"
+        },
+        {
+          "q": "We [mustn't|don't have to] take a taxi. The station is very close.",
+          "a": "don't have to"
+        },
+        {
+          "q": "You [mustn't|don't have to] tell anyone. It's a secret!",
+          "a": "mustn't"
+        },
+        {
+          "q": "Sara [mustn't|doesn't have to] cook. Her dad is cooking tonight.",
+          "a": "doesn't have to"
+        },
+        {
+          "q": "You [mustn't|don't have to] feed the animals. They get ill.",
+          "a": "mustn't"
+        },
+        {
+          "q": "You [mustn't|don't have to] help me. I can do it.",
+          "a": "don't have to"
+        },
+        {
+          "q": "Players [mustn't|don't have to] kick other players.",
+          "a": "mustn't"
+        },
+        {
+          "q": "You [mustn't|don't have to] bring a towel. The pool has towels.",
+          "a": "don't have to"
+        },
+        {
+          "q": "You [mustn't|don't have to] cross the road when the light is red.",
+          "a": "mustn't"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pasa a negativa",
+      "title_en": "Make it negative",
+      "icon": "🟢",
+      "es": "Escribe la frase en negativa con don't have to o doesn't have to.",
+      "en": "Write the sentence with don't / doesn't have to.",
+      "items": [
+        {
+          "q": "I have to clean my room.",
+          "a": "I don't have to clean my room."
+        },
+        {
+          "q": "She has to get up early.",
+          "a": "She doesn't have to get up early."
+        },
+        {
+          "q": "We have to wear a uniform.",
+          "a": "We don't have to wear a uniform."
+        },
+        {
+          "q": "Tom has to walk the dog.",
+          "a": "Tom doesn't have to walk the dog."
+        },
+        {
+          "q": "You have to bring a pencil.",
+          "a": "You don't have to bring a pencil."
+        },
+        {
+          "q": "My dad has to work today.",
+          "a": "My dad doesn't have to work today."
+        },
+        {
+          "q": "They have to take the bus.",
+          "a": "They don't have to take the bus."
+        },
+        {
+          "q": "Anna has to study tonight.",
+          "a": "Anna doesn't have to study tonight."
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Qué significa?",
+      "title_en": "What does it mean?",
+      "icon": "🤔",
+      "es": "Lee la frase en inglés y su explicación en español. ¿Es correcta? Rodea T (true) o F (false).",
+      "en": "Is the Spanish meaning correct? Circle T or F.",
+      "items": [
+        {
+          "q": "You mustn't run here. = Está prohibido correr aquí.",
+          "a": true
+        },
+        {
+          "q": "You don't have to run. = Está prohibido correr.",
+          "a": false,
+          "why": "No hace falta correr (puedes ir andando)."
+        },
+        {
+          "q": "I have to go. = Tengo que irme.",
+          "a": true
+        },
+        {
+          "q": "She doesn't have to wear glasses. = No puede llevar gafas.",
+          "a": false,
+          "why": "No necesita llevar gafas."
+        },
+        {
+          "q": "We must be quiet. = Tenemos que estar callados.",
+          "a": true
+        },
+        {
+          "q": "He mustn't eat sugar. = No hace falta que coma azúcar.",
+          "a": false,
+          "why": "Tiene prohibido comer azúcar."
+        },
+        {
+          "q": "Do you have to tidy your room? = ¿Tienes que ordenar tu cuarto?",
+          "a": true
+        },
+        {
+          "q": "You don't have to come. = Puedes venir si quieres, pero no es obligatorio.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "🧩",
+      "wide": true,
+      "es": "Completa las casillas vacías. Usa el sujeto y el verbo de la primera columna.",
+      "en": "Fill in the empty boxes.",
+      "head": [
+        "Sujeto / verbo",
+        "✅ have to / has to",
+        "🟢 don't / doesn't have to",
+        "❓ Pregunta",
+        "🔴 mustn't"
+      ],
+      "rows": [
+        [
+          "I / go",
+          "I have to go.",
+          "?I don't have to go.",
+          "?Do I have to go?",
+          "?I mustn't go."
+        ],
+        [
+          "she / swim",
+          "?She has to swim.",
+          "She doesn't have to swim.",
+          "?Does she have to swim?",
+          "?She mustn't swim."
+        ],
+        [
+          "we / wait",
+          "?We have to wait.",
+          "?We don't have to wait.",
+          "Do we have to wait?",
+          "?We mustn't wait."
+        ],
+        [
+          "Tom / run",
+          "?Tom has to run.",
+          "?Tom doesn't have to run.",
+          "?Does Tom have to run?",
+          "Tom mustn't run."
+        ],
+        [
+          "they / stay",
+          "They have to stay.",
+          "?They don't have to stay.",
+          "?Do they have to stay?",
+          "?They mustn't stay."
+        ]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pregunta y responde",
+      "title_en": "Ask and answer",
+      "icon": "❓",
+      "es": "Escribe la pregunta con Do / Does … have to …? y la respuesta corta. Fíjate en la pista (YES / NO).",
+      "en": "Write the question and the short answer.",
+      "labels": [
+        "❓",
+        "💬"
+      ],
+      "items": [
+        {
+          "q": "you / do homework every day (YES)",
+          "a": [
+            "Do you have to do homework every day?",
+            "Yes, I do."
+          ]
+        },
+        {
+          "q": "Mario / wear a uniform (YES)",
+          "a": [
+            "Does Mario have to wear a uniform?",
+            "Yes, he does."
+          ]
+        },
+        {
+          "q": "they / bring lunch (NO)",
+          "a": [
+            "Do they have to bring lunch?",
+            "No, they don't."
+          ]
+        },
+        {
+          "q": "Lucía / tidy her room (NO)",
+          "a": [
+            "Does Lucía have to tidy her room?",
+            "No, she doesn't."
+          ]
+        },
+        {
+          "q": "your parents / work on Sundays (NO)",
+          "a": [
+            "Do your parents have to work on Sundays?",
+            "No, they don't."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "You must to be quiet.",
+          "a": "You must be quiet."
+        },
+        {
+          "q": "She have to feed the cat.",
+          "a": "She has to feed the cat."
+        },
+        {
+          "q": "He musts wear glasses.",
+          "a": "He must wear glasses."
+        },
+        {
+          "q": "Tom doesn't has to come.",
+          "a": "Tom doesn't have to come."
+        },
+        {
+          "q": "Do you must go now?",
+          "a": "Do you have to go now?"
+        },
+        {
+          "q": "We no must run here.",
+          "a": "We mustn't run here."
+        },
+        {
+          "q": "Does she has to work?",
+          "a": "Does she have to work?"
+        },
+        {
+          "q": "Yesterday I must study.",
+          "a": "Yesterday I had to study."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿obligación, prohibición o no hace falta?",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Tengo que hacer los deberes.",
+          "a": "I have to do my homework. / I must do my homework."
+        },
+        {
+          "q": "No debes tocar el horno.",
+          "a": "You mustn't touch the oven."
+        },
+        {
+          "q": "Mi hermana tiene que llevar gafas.",
+          "a": "My sister has to wear glasses."
+        },
+        {
+          "q": "No hace falta que vengas.",
+          "a": "You don't have to come."
+        },
+        {
+          "q": "¿Tenemos que llevar uniforme?",
+          "a": "Do we have to wear a uniform?"
+        },
+        {
+          "q": "Rocky no debe comer chocolate.",
+          "a": "Rocky mustn't eat chocolate."
+        },
+        {
+          "q": "Mario no tiene que madrugar el sábado.",
+          "hint": "no hace falta",
+          "a": "Mario doesn't have to get up early on Saturday."
+        },
+        {
+          "q": "¿Tu padre tiene que trabajar hoy? — No.",
+          "a": "Does your dad have to work today? — No, he doesn't."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "Rules at Mario's school",
+      "text": [
+        "Hi! I'm Mario. My school has got a lot of rules. We have to be at school at nine o'clock, and we mustn't be late. We have to wear a uniform: a blue jumper and grey trousers. But on Fridays we don't have to wear the uniform. We can wear our own clothes!",
+        "In class, we must put our hands up to speak, and we mustn't use our phones. My sister Lucía is at secondary school. She doesn't have to wear a uniform, but she has to do a lot of homework. And me? Every evening I have to walk Rocky, our dog. I don't mind. I love it!"
+      ],
+      "items": [
+        {
+          "q": "Mario has to be at school at nine o'clock.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Mario has to wear a uniform on Fridays.",
+          "tf": true,
+          "a": false,
+          "why": "On Fridays he doesn't have to wear the uniform."
+        },
+        {
+          "q": "Pupils can use their phones in class.",
+          "tf": true,
+          "a": false,
+          "why": "They mustn't use their phones."
+        },
+        {
+          "q": "Does Lucía have to wear a uniform?",
+          "a": "No, she doesn't."
+        },
+        {
+          "q": "What does Lucía have to do?",
+          "a": "She has to do a lot of homework."
+        },
+        {
+          "q": "What does Mario have to do every evening?",
+          "a": "He has to walk Rocky (the dog)."
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Mayúscula al principio y punto o interrogación al final!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {
+          "q": "must / you / a helmet / wear",
+          "a": "You must wear a helmet."
+        },
+        {
+          "q": "has / Lucía / to / study / tonight",
+          "a": "Lucía has to study tonight."
+        },
+        {
+          "q": "mustn't / we / in class / shout",
+          "a": "We mustn't shout in class."
+        },
+        {
+          "q": "have / don't / I / to / get up / early",
+          "a": "I don't have to get up early."
+        },
+        {
+          "q": "you / do / to / have / go / ?",
+          "a": "Do you have to go?"
+        },
+        {
+          "q": "doesn't / Leo / to / have / pay",
+          "a": "Leo doesn't have to pay."
+        },
+        {
+          "q": "Rocky / eat / mustn't / chocolate",
+          "a": "Rocky mustn't eat chocolate."
+        },
+        {
+          "q": "does / to / Sara / have / the piano / practise / ?",
+          "a": "Does Sara have to practise the piano?"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca las 8 palabras. Después escribe una norma con must y otra con mustn't usando dos de ellas.",
+      "en": "Find the 8 words. Then write one rule with must and one with mustn't.",
+      "words": [
+        "must",
+        "rules",
+        "uniform",
+        "helmet",
+        "quiet",
+        "late",
+        "early",
+        "homework"
+      ],
+      "clues": [
+        "must · deber",
+        "rules · normas",
+        "uniform · uniforme",
+        "helmet · casco",
+        "quiet · callado",
+        "late · tarde",
+        "early · temprano",
+        "homework · deberes"
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre las normas de tu vida. Usa must, mustn't, have to y don't have to.",
+      "en": "Write about the rules in your life.",
+      "items": [
+        {
+          "q": "Escribe 2 normas de tu casa con <b>have to</b>: At home I have to…",
+          "lines": 2,
+          "a": "Ej.: At home I have to make my bed. I have to feed the cat."
+        },
+        {
+          "q": "Escribe 2 cosas que están <b>prohibidas</b> en tu cole: We mustn't…",
+          "lines": 2,
+          "a": "Ej.: We mustn't run in the corridor. We mustn't eat in class."
+        },
+        {
+          "q": "Escribe 1 cosa que <b>no hace falta</b> que hagas el sábado: On Saturdays I don't have to…",
+          "lines": 1,
+          "a": "Ej.: On Saturdays I don't have to get up early."
+        },
+        {
+          "q": "Inventa 2 normas para un club secreto con <b>must</b> y <b>mustn't</b>.",
+          "lines": 2,
+          "a": "Ej.: Members must know the password. Members mustn't tell the secret."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé usar <b>must</b> + verbo (sin to) para obligaciones.",
+      "en": "I can use must + verb (no to)."
+    },
+    {
+      "es": "Sé usar <b>have to / has to</b>: con he / she / it es <b>has to</b>.",
+      "en": "I can use have to and has to."
+    },
+    {
+      "es": "Sé que <b>mustn't</b> significa ¡prohibido!",
+      "en": "I know mustn't means it's not allowed."
+    },
+    {
+      "es": "Sé que <b>don't have to</b> significa no hace falta.",
+      "en": "I know don't have to means it isn't necessary."
+    },
+    {
+      "es": "Sé preguntar: <b>Do</b> I <b>have to</b>…? <b>Does</b> she <b>have to</b>…?",
+      "en": "I can ask questions with have to."
+    },
+    {
+      "es": "Sé decir las <b>normas de mi cole</b> en inglés.",
+      "en": "I can say my school rules in English."
+    }
+  ]
+}

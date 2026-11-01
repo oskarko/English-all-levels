@@ -1,0 +1,490 @@
+{
+  "id": "A2-01",
+  "level": "A2",
+  "title": "WAS <em>y</em> WERE",
+  "file_title": "Was y were",
+  "subtitle": "Was and were · el pasado de to be",
+  "icon": "⏳",
+  "map": {
+    "center": "<b>WAS</b> y <b>WERE</b> son el <b>pasado de TO BE</b>: <mark>era, estaba, fui, estuve</mark>… ¡Viajamos al ayer!",
+    "nodes": [
+      {
+        "title": "¿Qué es?", "icon": "🔎",
+        "rows": [["am / is", "→ <b>was</b> (era, estaba)"], ["are", "→ <b>were</b> (eran, estaban)"]],
+        "after": "I <b>am</b> tired. → I <b>was</b> tired yesterday."
+      },
+      {
+        "title": "Afirmativa", "icon": "✅", "art": "🏖️",
+        "items": ["I / he / she / it + <b>was</b>", "you / we / they + <b>were</b>", "I <b>was</b> at home. <i>(Estaba en casa.)</i>", "They <b>were</b> happy. <i>(Estaban contentos.)</i>"]
+      },
+      {
+        "title": "Negativa", "icon": "⛔",
+        "items": ["was not = <b>wasn't</b>", "were not = <b>weren't</b>", "It <b>wasn't</b> cold. <i>(No hacía frío.)</i>", "We <b>weren't</b> late. <i>(No llegamos tarde.)</i>"]
+      },
+      {
+        "title": "Preguntas", "icon": "❓",
+        "items": ["<b>Was</b> + I / he / she / it…?", "<b>Were</b> + you / we / they…?", "<b>Were</b> you at school? — Yes, I <b>was</b>.", "<b>Was</b> it fun? — No, it <b>wasn't</b>."]
+      },
+      {
+        "title": "There was / were", "icon": "🏠",
+        "items": ["<b>There was</b> + uno <i>(había un…)</i>", "<b>There were</b> + varios <i>(había unos…)</i>", "There <b>was</b> a cat and there <b>were</b> two dogs."]
+      },
+      {
+        "title": "Nacer: be born", "icon": "🎂", "art": "👶",
+        "items": ["Nací = I <b>was born</b>", "I <b>was born</b> in 2016.", "She <b>was born</b> in Madrid.", "<b>Where were</b> you <b>born</b>?"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["We was at the park."],
+      "good": ["We were at the park."],
+      "note": "you / we / they → <b>were</b>"
+    },
+    "mini": {
+      "es": "Completa con was o were.",
+      "en": "Complete with was or were.",
+      "items": [
+        { "q": "I ___ at home yesterday.", "a": "was" },
+        { "q": "My friends ___ at the park.", "a": "were" },
+        { "q": "It ___ very cold last night.", "a": "was" },
+        { "q": "___ you at school on Monday?", "a": "Were" },
+        { "q": "There ___ two cats in the garden.", "a": "were" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "<b>Was</b> y <b>were</b> son el <mark>pasado del verbo TO BE</mark>. Si <b>am / is / are</b> significan <i>soy, estoy</i>, entonces <b>was / were</b> significan <i>era, estaba, fui, estuve</i>. Los usamos para hablar de <b>cómo eran</b> las cosas, <b>dónde estábamos</b> y <b>cómo nos sentíamos</b> en el pasado: ayer, el verano pasado, cuando éramos pequeños…",
+      "en": "<b>Was</b> and <b>were</b> are the <mark>past of the verb TO BE</mark>. We use them to say where we were, what things were like and how we felt in the past.",
+      "formula": ["I / he / she / it + *was*", "you / we / they + *were*"]
+    },
+    {
+      "t": "table", "title": "Del presente al pasado", "title_en": "From present to past", "icon": "⏪", "color": "purple",
+      "head": ["Presente · Present", "Pasado · Past", "Español"],
+      "rows": [
+        ["I am", "I <b>was</b>", "yo era / estaba"],
+        ["you are", "you <b>were</b>", "tú eras / estabas"],
+        ["he / she / it is", "he / she / it <b>was</b>", "él / ella era, estaba"],
+        ["we are", "we <b>were</b>", "éramos / estábamos"],
+        ["they are", "they <b>were</b>", "eran / estaban"]
+      ],
+      "note": "¡Buena noticia! En presente hay tres formas (am, is, are), pero en pasado solo hay <b>dos</b>: <b>was</b> y <b>were</b>.",
+      "note_en": "Good news: only two forms in the past, <b>was</b> and <b>were</b>."
+    },
+    {
+      "t": "rule", "title": "1 · Afirmativa", "title_en": "Affirmative", "icon": "✅", "color": "green",
+      "es": "Con <b>I, he, she, it</b> (y con un solo nombre: Mario, my dog, the film) usamos <b>was</b>. Con <b>you, we, they</b> (y con plurales: my friends, the dogs) usamos <b>were</b>. ¡Ojo! <b>You</b> siempre va con <b>were</b>, aunque hables con una sola persona.",
+      "en": "Use <b>was</b> with I, he, she, it. Use <b>were</b> with you, we, they. <b>You</b> always takes <b>were</b>, even for one person.",
+      "formula": ["I / he / she / it + *was* + at home", "you / we / they + *were* + at home"],
+      "examples": [
+        { "en": "I <b>was</b> at the cinema yesterday.", "es": "Ayer estuve en el cine.", "icon": "🎬" },
+        { "en": "Rocky <b>was</b> very hungry.", "es": "Rocky tenía mucha hambre.", "icon": "🐕" },
+        { "en": "We <b>were</b> in Asturias last summer.", "es": "El verano pasado estuvimos en Asturias.", "icon": "🏞️" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · Negativa", "title_en": "Negative", "icon": "⛔", "color": "red",
+      "es": "Para negar, ponemos <b>not</b> detrás de was / were: <b>was not</b> (<b>wasn't</b>) y <b>were not</b> (<b>weren't</b>). ¡Igual que con am / is / are! No usamos <em>didn't</em> ni <em>no</em>.",
+      "en": "Add <b>not</b> after was / were: <b>wasn't</b>, <b>weren't</b>. Never use <em>didn't</em> or <em>no</em>.",
+      "formula": ["I / he / she / it + *wasn't* + tired", "you / we / they + *weren't* + tired"],
+      "examples": [
+        { "en": "The film <b>wasn't</b> scary.", "es": "La peli no daba miedo.", "icon": "👻" },
+        { "en": "My friends <b>weren't</b> at the party.", "es": "Mis amigos no estaban en la fiesta.", "icon": "🎉" },
+        { "en": "It <b>wasn't</b> my fault!", "es": "¡No fue culpa mía!", "icon": "🙈" }
+      ]
+    },
+    {
+      "t": "rule", "title": "3 · Preguntas", "title_en": "Questions", "icon": "❓", "color": "blue",
+      "es": "Para preguntar, <b>was</b> o <b>were</b> <mark>saltan delante del sujeto</mark>. ¡Es el <i>Verbo Saltarín</i>! No hace falta ningún ayudante: nada de <em>did</em>.",
+      "en": "To ask a question, put <b>Was</b> / <b>Were</b> <mark>before the subject</mark>. No <em>did</em>!",
+      "formula": ["*Was* + I / he / she / it + …?", "*Were* + you / we / they + …?"],
+      "examples": [
+        { "en": "<b>Were</b> you at home last night?", "es": "¿Estabas en casa anoche?", "icon": "🏠" },
+        { "en": "<b>Was</b> the test difficult?", "es": "¿El examen fue difícil?", "icon": "📝" },
+        { "en": "<b>Were</b> Leo and Sara at the park?", "es": "¿Estaban Leo y Sara en el parque?", "icon": "🌳" }
+      ]
+    },
+    {
+      "t": "table", "title": "4 · Respuestas cortas", "title_en": "Short answers", "icon": "💬", "color": "teal",
+      "head": ["Pregunta · Question", "Sí · Yes", "No"],
+      "rows": [
+        ["Were you tired?", "Yes, I <b>was</b>.", "No, I <b>wasn't</b>."],
+        ["Was he at school?", "Yes, he <b>was</b>.", "No, he <b>wasn't</b>."],
+        ["Was it cold?", "Yes, it <b>was</b>.", "No, it <b>wasn't</b>."],
+        ["Were you and Leo late?", "Yes, we <b>were</b>.", "No, we <b>weren't</b>."],
+        ["Were they at home?", "Yes, they <b>were</b>.", "No, they <b>weren't</b>."]
+      ],
+      "note": "Ojo: Were <b>you</b>…? → Yes, <b>I was</b>. ¡Cambia el sujeto y el verbo!",
+      "note_en": "Were you…? → Yes, I was."
+    },
+    {
+      "t": "table", "title": "Todo junto", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["Sujeto · Subject", "✅ Afirmativa", "⛔ Negativa", "❓ Pregunta", "💬 Respuesta corta"],
+      "rows": [
+        ["I", "I <b>was</b> at home.", "I <b>wasn't</b> at home.", "<b>Was</b> I at home?", "Yes, I was. / No, I wasn't."],
+        ["you", "You <b>were</b> at home.", "You <b>weren't</b> at home.", "<b>Were</b> you at home?", "Yes, I was. / No, I wasn't."],
+        ["he", "He <b>was</b> at home.", "He <b>wasn't</b> at home.", "<b>Was</b> he at home?", "Yes, he was. / No, he wasn't."],
+        ["she", "She <b>was</b> at home.", "She <b>wasn't</b> at home.", "<b>Was</b> she at home?", "Yes, she was. / No, she wasn't."],
+        ["it", "It <b>was</b> sunny.", "It <b>wasn't</b> sunny.", "<b>Was</b> it sunny?", "Yes, it was. / No, it wasn't."],
+        ["we", "We <b>were</b> at home.", "We <b>weren't</b> at home.", "<b>Were</b> we at home?", "Yes, we were. / No, we weren't."],
+        ["they", "They <b>were</b> at home.", "They <b>weren't</b> at home.", "<b>Were</b> they at home?", "Yes, they were. / No, they weren't."]
+      ]
+    },
+    {
+      "t": "rule", "title": "There was / There were", "title_en": "There was / There were", "icon": "🏠", "color": "purple",
+      "es": "<b>There is / There are</b> (hay) en pasado es <b>There was / There were</b>: <mark>había, hubo</mark>. <b>There was</b> + una cosa (singular). <b>There were</b> + varias cosas (plural). En español siempre decimos «había», pero en inglés <b>mira si es uno o son varios</b>.",
+      "en": "<b>There was</b> + singular, <b>There were</b> + plural (= había / hubo).",
+      "formula": ["*There was* + a / an + singular", "*There were* + two / some / lots of + plural", "*There wasn't / There weren't* + any…"],
+      "examples": [
+        { "en": "<b>There was</b> a big cake at the party.", "es": "Había una tarta grande en la fiesta.", "icon": "🎂" },
+        { "en": "<b>There were</b> lots of people at the beach.", "es": "Había mucha gente en la playa.", "icon": "🏖️" },
+        { "en": "<b>Was there</b> a pool at the hotel? — Yes, <b>there was</b>.", "es": "¿Había piscina en el hotel? — Sí.", "icon": "🏊" }
+      ]
+    },
+    {
+      "t": "rule", "title": "Nacer: I was born", "title_en": "Be born", "icon": "👶", "color": "pink",
+      "es": "En inglés <b>nacer</b> se dice <b>be born</b>. Por eso «nací» es <b>I was born</b> (¡literalmente «fui nacido»!). Nunca digas <s>I born</s> ni <s>I am born</s>. Para el año o la ciudad usamos <b>in</b>.",
+      "en": "<b>Nacer</b> = <b>be born</b>. «Nací» = <b>I was born</b>. Never say <s>I born</s>.",
+      "formula": ["I / he / she + *was born* + in 2016 / in Madrid", "you / we / they + *were born* + in…", "*Where / When* + were you born?"],
+      "examples": [
+        { "en": "I <b>was born</b> in 2016.", "es": "Nací en 2016.", "icon": "👶" },
+        { "en": "My grandma <b>was born</b> in Sevilla.", "es": "Mi abuela nació en Sevilla.", "icon": "👵" },
+        { "en": "<b>Where were</b> you <b>born</b>? — I <b>was born</b> in Valencia.", "es": "¿Dónde naciste? — Nací en Valencia.", "icon": "🗺️" }
+      ]
+    },
+    {
+      "t": "vocab", "title": "¿Cómo estabas? ¿Cómo era?", "title_en": "How were you? What was it like?", "icon": "🎭", "color": "teal", "wide": true, "cols": 4,
+      "items": [
+        { "en": "tired", "es": "cansado", "icon": "😴" },
+        { "en": "hungry", "es": "con hambre", "icon": "🍔" },
+        { "en": "thirsty", "es": "con sed", "icon": "🥤" },
+        { "en": "scared", "es": "asustado", "icon": "😱" },
+        { "en": "bored", "es": "aburrido", "icon": "🥱" },
+        { "en": "excited", "es": "emocionado", "icon": "🤩" },
+        { "en": "happy", "es": "contento", "icon": "😀" },
+        { "en": "sad", "es": "triste", "icon": "😢" },
+        { "en": "late", "es": "tarde (llegar tarde)", "icon": "⏰" },
+        { "en": "ill", "es": "enfermo", "icon": "🤒" },
+        { "en": "cold", "es": "frío", "icon": "🥶" },
+        { "en": "hot", "es": "calor", "icon": "🥵" },
+        { "en": "sunny", "es": "soleado", "icon": "☀️" },
+        { "en": "rainy", "es": "lluvioso", "icon": "🌧️" },
+        { "en": "delicious", "es": "riquísimo", "icon": "😋" },
+        { "en": "fun", "es": "divertido", "icon": "🎈" }
+      ]
+    },
+    {
+      "t": "compare", "title": "¡Trampa! Tener, hacer… → BE", "title_en": "Spanish trap", "icon": "⚖️", "color": "orange",
+      "es": "Muchas cosas que en español van con <b>tener</b> o <b>hacer</b>, en inglés van con <b>TO BE</b>: el hambre, el frío, el miedo, la edad y el tiempo. En pasado → <b>was / were</b>.",
+      "en": "Hunger, cold, fear, age and weather use <b>be</b> in English.",
+      "cols": [
+        { "head": "🇪🇸 Español", "color": "red", "items": ["Tenía hambre.", "Tenía frío.", "Hacía calor.", "Tenía miedo.", "Tenía ocho años."] },
+        { "head": "🇬🇧 English", "color": "green", "items": ["I <b>was</b> hungry.", "I <b>was</b> cold.", "It <b>was</b> hot.", "I <b>was</b> scared.", "I <b>was</b> eight."] }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "I <b>was</b> tired after football.", "es": "Estaba cansado después del fútbol.", "icon": "⚽" },
+        { "en": "Lucía <b>was</b> eight in this photo.", "es": "Lucía tenía ocho años en esta foto.", "icon": "📷" },
+        { "en": "The pizza <b>was</b> delicious!", "es": "¡La pizza estaba riquísima!", "icon": "🍕" },
+        { "en": "Leo and Tom <b>were</b> in my team.", "es": "Leo y Tom estaban en mi equipo.", "icon": "🥅" },
+        { "en": "<b>Were</b> you scared? — No, I <b>wasn't</b>.", "es": "¿Tenías miedo? — No.", "icon": "😱" },
+        { "en": "It <b>was</b> rainy, so we <b>were</b> at home.", "es": "Llovía, así que estábamos en casa.", "icon": "🌧️" },
+        { "en": "Our teacher <b>wasn't</b> at school on Monday.", "es": "Nuestra profe no estuvo en el cole el lunes.", "icon": "🏫" },
+        { "en": "<b>There were</b> ten candles on the cake.", "es": "Había diez velas en la tarta.", "icon": "🕯️" },
+        { "en": "<b>Was</b> Rocky in the garden? — Yes, he <b>was</b>.", "es": "¿Estaba Rocky en el jardín? — Sí.", "icon": "🐕" },
+        { "en": "The cartoons <b>were</b> really funny.", "es": "Los dibujos eran muy graciosos.", "icon": "📺" },
+        { "en": "<b>Where were</b> you at five o'clock?", "es": "¿Dónde estabas a las cinco?", "icon": "🕔" },
+        { "en": "My dad <b>was born</b> in 1985.", "es": "Mi padre nació en 1985.", "icon": "👨" },
+        { "en": "<b>There wasn't</b> any milk in the fridge.", "es": "No había leche en la nevera.", "icon": "🥛" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "saltarin", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "We was at the beach.", "good": "We <b>were</b> at the beach.", "why": "we / you / they → were.", "why_en": "we / you / they → were." },
+        { "bad": "I were very tired.", "good": "I <b>was</b> very tired.", "why": "I / he / she / it → was.", "why_en": "I / he / she / it → was." },
+        { "bad": "You were at home?", "good": "<b>Were you</b> at home?", "why": "En la pregunta, were salta delante.", "why_en": "In questions, were jumps first." },
+        { "bad": "Did you were happy?", "good": "<b>Were</b> you happy?", "why": "Was / were no necesitan did.", "why_en": "Was / were never use did." },
+        { "bad": "She no was at school.", "good": "She <b>wasn't</b> at school.", "why": "Se niega con not, no con «no».", "why_en": "Use wasn't, not no." },
+        { "bad": "I born in 2016.", "good": "I <b>was born</b> in 2016.", "why": "Nacer = be born.", "why_en": "Use was born." },
+        { "bad": "There was three dogs.", "good": "There <b>were</b> three dogs.", "why": "Plural → there were.", "why_en": "Plural → there were." },
+        { "bad": "I had hungry.", "good": "I <b>was</b> hungry.", "why": "Tener hambre = be hungry.", "why_en": "Hungry goes with be." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Cómo construyo la frase?", "title_en": "How do I build it?", "color": "orange",
+      "items": [
+        { "es": "Busca el <b>sujeto</b>: ¿quién era o dónde estaba?", "en": "Find the subject." },
+        { "es": "¿Es <b>I, he, she, it</b> o una sola cosa? → <b>was</b>. ¿Es <b>you, we, they</b> o varias? → <b>were</b>.", "en": "I / he / she / it → was. You / we / they → were." },
+        { "es": "¿Negativa? Añade <b>n't</b>: wasn't / weren't.", "en": "Negative → add n't." },
+        { "es": "¿Pregunta? Pon <b>Was / Were</b> delante del sujeto. ¡Sin did!", "en": "Question → Was / Were + subject…?" },
+        { "es": "¿Quieres decir «había»? → <b>there was</b> (uno) / <b>there were</b> (varios).", "en": "«Había» → there was / there were." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "Después del finde", "title_en": "After the weekend",
+      "lines": [
+        { "who": "Sara", "en": "Hi, Mario! Where were you on Saturday?", "es": "¡Hola, Mario! ¿Dónde estuviste el sábado?" },
+        { "who": "Mario", "en": "I was at my grandma's house in the village.", "es": "Estuve en casa de mi abuela, en el pueblo." },
+        { "who": "Sara", "en": "Was it fun?", "es": "¿Fue divertido?" },
+        { "who": "Mario", "en": "Yes, it was! There were lots of animals: two horses, a cow and three cats.", "es": "¡Sí! Había muchos animales: dos caballos, una vaca y tres gatos." },
+        { "who": "Sara", "en": "Wow! Was Rocky with you?", "es": "¡Hala! ¿Estaba Rocky contigo?" },
+        { "who": "Mario", "en": "Yes, he was. But he wasn't happy with the cats!", "es": "Sí. ¡Pero no estaba contento con los gatos!" },
+        { "who": "Sara", "en": "Ha, ha! And were you tired on Sunday?", "es": "¡Ja, ja! ¿Y estabas cansado el domingo?" },
+        { "who": "Mario", "en": "Very tired! I was in bed at eight o'clock.", "es": "¡Muy cansado! A las ocho ya estaba en la cama." }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco de las parejas", "title_en": "Partner trick",
+      "es": "<b>am</b> e <b>is</b> son primos: los dos se convierten en <b>was</b>. <b>are</b> va solo y se convierte en <b>were</b> (las dos acaban en <em>-re</em>). Y <b>you</b> siempre es <b>were</b>, aunque sea una sola persona: <i>You were great, Mario!</i>",
+      "en": "am, is → <b>was</b> · are → <b>were</b> (both end in -re). <b>You</b> → always were."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify", "title": "¿Was o were?", "title_en": "Sort the subjects", "icon": "🗂️",
+      "es": "Escribe cada sujeto en su caja: ¿va con was o con were?",
+      "en": "Write each subject in the right box.",
+      "cats": [
+        { "name": "was", "words": ["I", "Mario", "The dog", "It", "She", "My mum"] },
+        { "name": "were", "words": ["You", "We", "Leo and Sara", "They", "The books", "My friends"] }
+      ]
+    },
+    {
+      "t": "choose", "title": "Rodea la correcta", "title_en": "Circle the correct word", "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta. Antes, mira el sujeto.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "I [was|were] at the park yesterday.", "a": "was" },
+        { "q": "We [was|were] in the same class.", "a": "were" },
+        { "q": "The film [was|were] very funny.", "a": "was" },
+        { "q": "You [was|were] late again!", "a": "were" },
+        { "q": "My grandparents [was|were] in Paris last week.", "a": "were" },
+        { "q": "Lucía [wasn't|weren't] hungry.", "a": "wasn't" },
+        { "q": "[Was|Were] the shops open?", "a": "Were" },
+        { "q": "[Was|Were] Tom at the party?", "a": "Was" },
+        { "q": "There [was|were] a spider in the bath!", "a": "was" },
+        { "q": "There [was|were] six eggs in the box.", "a": "were" }
+      ]
+    },
+    {
+      "t": "fill", "title": "was o were", "title_en": "was or were", "icon": "⏳",
+      "es": "Completa con was o were. Subraya primero el sujeto.",
+      "en": "Complete with was or were. Underline the subject first.",
+      "bank": ["was", "were"],
+      "items": [
+        { "q": "My bike ___ red and blue.", "a": "was" },
+        { "q": "Anna and I ___ at the cinema.", "a": "were" },
+        { "q": "It ___ sunny on Sunday.", "a": "was" },
+        { "q": "The children ___ very noisy.", "a": "were" },
+        { "q": "I ___ in bed at nine o'clock.", "a": "was" },
+        { "q": "Rocky ___ very dirty after the walk.", "a": "was" },
+        { "q": "You ___ the best player in the match!", "a": "were" },
+        { "q": "Our teachers ___ really happy with us.", "a": "were" },
+        { "q": "My mum ___ born in Bilbao.", "a": "was" },
+        { "q": "They ___ at their cousins' house.", "a": "were" }
+      ]
+    },
+    {
+      "t": "fill", "title": "There was o there were", "title_en": "There was or there were", "icon": "🏠",
+      "es": "Completa con was, were, wasn't o weren't. ¿Es una cosa o son varias?",
+      "en": "Complete with was, were, wasn't or weren't.",
+      "bank": ["was", "were", "wasn't", "weren't", "Was"],
+      "items": [
+        { "q": "There ___ a big tree in our garden.", "a": "was" },
+        { "q": "There ___ twenty children in my class.", "a": "were" },
+        { "q": "There ___ two sandwiches in my bag.", "a": "were" },
+        { "q": "There ___ a funny clown at the party.", "a": "was" },
+        { "q": "There ___ some apples on the table.", "a": "were" },
+        { "q": "There ___ lots of people at the concert.", "a": "were" },
+        { "q": "___ there a museum in the town? — Yes, there was.", "a": "Was" },
+        { "q": "There ___ any biscuits in the box.", "a": "weren't", "hint": "negativa" },
+        { "q": "There ___ a teacher in the classroom.", "a": "wasn't", "hint": "negativa" }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Pasa a negativa", "title_en": "Make it negative", "icon": "⛔",
+      "es": "Escribe la frase en negativa con wasn't o weren't.",
+      "en": "Write the sentence in the negative.",
+      "items": [
+        { "q": "I was at school.", "a": "I wasn't at school." },
+        { "q": "The museum was open.", "a": "The museum wasn't open." },
+        { "q": "We were tired.", "a": "We weren't tired." },
+        { "q": "Leo was in my team.", "a": "Leo wasn't in my team." },
+        { "q": "The cakes were delicious.", "a": "The cakes weren't delicious." },
+        { "q": "You were late.", "a": "You weren't late." },
+        { "q": "It was cold yesterday.", "a": "It wasn't cold yesterday." },
+        { "q": "There was a dog in the garden.", "a": "There wasn't a dog in the garden." }
+      ]
+    },
+    {
+      "t": "fill", "title": "Respuestas cortas", "title_en": "Short answers", "icon": "💬",
+      "es": "Completa la respuesta corta con was, wasn't, were o weren't.",
+      "en": "Complete the short answer.",
+      "items": [
+        { "q": "Were you tired? — Yes, I ___.", "a": "was" },
+        { "q": "Was Lucía at home? — No, she ___.", "a": "wasn't" },
+        { "q": "Were the boys hungry? — Yes, they ___.", "a": "were" },
+        { "q": "Was it a good film? — No, it ___.", "a": "wasn't" },
+        { "q": "Were you and Anna late? — No, we ___.", "a": "weren't" },
+        { "q": "Was your teacher angry? — Yes, she ___.", "a": "was" },
+        { "q": "Was Rocky in the garden? — Yes, he ___.", "a": "was" },
+        { "q": "Were the windows open? — No, they ___.", "a": "weren't" }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Pregunta y responde", "title_en": "Ask and answer", "icon": "❓",
+      "es": "Escribe la pregunta con Was o Were y luego la respuesta corta. Fíjate en la pista (YES / NO).",
+      "en": "Write the question and the short answer.",
+      "labels": ["❓", "💬"],
+      "items": [
+        { "q": "you / at home last night (YES)", "a": ["Were you at home last night?", "Yes, I was."] },
+        { "q": "Sara / at the party (NO)", "a": ["Was Sara at the party?", "No, she wasn't."] },
+        { "q": "the film / scary (YES)", "a": ["Was the film scary?", "Yes, it was."] },
+        { "q": "your friends / at the park (NO)", "a": ["Were your friends at the park?", "No, they weren't."] },
+        { "q": "Tom / ill on Monday (YES)", "a": ["Was Tom ill on Monday?", "Yes, he was."] },
+        { "q": "the shops / open (NO)", "a": ["Were the shops open?", "No, they weren't."] },
+        { "q": "your dad / born in Madrid (YES)", "a": ["Was your dad born in Madrid?", "Yes, he was."] }
+      ]
+    },
+    {
+      "t": "match", "title": "Une pregunta y respuesta", "title_en": "Match questions and answers", "icon": "🔗",
+      "es": "Une cada pregunta con su respuesta.",
+      "en": "Match each question with its answer.",
+      "pairs": [
+        ["Where were you yesterday?", "I was at my cousin's house."],
+        ["Was the test easy?", "No, it wasn't. It was really hard!"],
+        ["Were your friends at the beach?", "Yes, they were."],
+        ["When were you born?", "In 2016."],
+        ["Was there a pool at the hotel?", "Yes, there was. It was huge!"],
+        ["Why were you late?", "Because there was a lot of traffic."],
+        ["How was the party?", "It was great, thanks!"]
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Completa la tabla", "title_en": "Complete the table", "icon": "📋", "wide": true,
+      "es": "Completa las casillas vacías.",
+      "en": "Fill in the empty boxes.",
+      "head": ["Sujeto", "✅ Afirmativa", "⛔ Negativa", "❓ Pregunta"],
+      "rows": [
+        ["I", "I was tired.", "?I wasn't tired.", "?Was I tired?"],
+        ["she", "?She was at home.", "She wasn't at home.", "?Was she at home?"],
+        ["we", "?We were late.", "?We weren't late.", "Were we late?"],
+        ["the dog", "The dog was hungry.", "?The dog wasn't hungry.", "?Was the dog hungry?"],
+        ["they", "?They were happy.", "They weren't happy.", "?Were they happy?"],
+        ["there (a cat)", "There was a cat.", "?There wasn't a cat.", "?Was there a cat?"]
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        { "q": "was / I / at / home / yesterday", "a": "I was at home yesterday." },
+        { "q": "were / you / where / ? / last night", "a": "Where were you last night?" },
+        { "q": "wasn't / the / cold / water", "a": "The water wasn't cold." },
+        { "q": "they / born / were / in / Italy", "a": "They were born in Italy." },
+        { "q": "a / there / was / big / dog / in / the park", "a": "There was a big dog in the park." },
+        { "q": "Sara / was / tired / ? / very", "a": "Was Sara very tired?" },
+        { "q": "weren't / my / at / friends / school", "a": "My friends weren't at school." },
+        { "q": "were / there / chairs / ten / ? / in the room", "a": "Were there ten chairs in the room?" }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "My friends was at the park.", "a": "My friends were at the park." },
+        { "q": "I were very happy.", "a": "I was very happy." },
+        { "q": "Did you were at school?", "a": "Were you at school?" },
+        { "q": "She no was hungry.", "a": "She wasn't hungry." },
+        { "q": "You was in my class last year.", "a": "You were in my class last year." },
+        { "q": "There was five cats.", "a": "There were five cats." },
+        { "q": "I born in Madrid.", "a": "I was born in Madrid." },
+        { "q": "Was they at home?", "a": "Were they at home?" },
+        { "q": "Were you tired? — Yes, I were.", "a": "Were you tired? — Yes, I was." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Piensa: ¿quién es el sujeto? ¿was o were? ¿«había» o «tener»?",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Ayer estaba cansado.", "a": "I was tired yesterday." },
+        { "q": "Mis amigos estaban en el parque.", "a": "My friends were in / at the park." },
+        { "q": "¿Dónde estabas?", "a": "Where were you?" },
+        { "q": "No hacía frío.", "a": "It wasn't cold." },
+        { "q": "Había un gato en mi cama.", "a": "There was a cat on my bed." },
+        { "q": "Había muchos niños en la fiesta.", "a": "There were lots of children at the party." },
+        { "q": "Nací en 2016.", "a": "I was born in 2016." },
+        { "q": "¿Tenías hambre? — Sí.", "a": "Were you hungry? — Yes, I was." },
+        { "q": "La peli no fue aburrida.", "a": "The film wasn't boring." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "A day at the zoo",
+      "text": [
+        "Last Saturday, Mario and his family were at the zoo. It was a sunny day, but it wasn't very hot. Lucía was very excited because there were two baby lions!",
+        "The lions were asleep, so Mario was a bit sad. But the monkeys were really funny. There was a big gorilla too. He was very quiet. At one o'clock they were very hungry. There was a nice café next to the penguins, and the pizzas there were delicious!",
+        "Rocky wasn't at the zoo, because dogs aren't allowed. He was at Grandma's house."
+      ],
+      "items": [
+        { "q": "It was a rainy day.", "tf": true, "a": false, "why": "It was a sunny day." },
+        { "q": "Lucía was very excited.", "tf": true, "a": true },
+        { "q": "The lions were very funny.", "tf": true, "a": false, "why": "The lions were asleep. The monkeys were funny." },
+        { "q": "Was the gorilla noisy?", "a": "No, he wasn't. He was very quiet." },
+        { "q": "Where was the café?", "a": "It was next to the penguins." },
+        { "q": "Where was Rocky?", "a": "He was at Grandma's house." },
+        { "q": "Why was Mario a bit sad?", "a": "Because the lions were asleep." }
+      ]
+    },
+    {
+      "t": "spell", "title": "Deletrea la palabra", "title_en": "Spell the word", "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en las cajas. Después di una frase: I was…",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        { "q": "😴 cansado", "a": "tired" },
+        { "q": "🍔 con hambre", "a": "hungry" },
+        { "q": "😱 asustado", "a": "scared" },
+        { "q": "🥱 aburrido", "a": "bored" },
+        { "q": "🤒 enfermo", "a": "ill" },
+        { "q": "☀️ soleado", "a": "sunny" },
+        { "q": "🎂 cumpleaños", "a": "birthday" }
+      ]
+    },
+    {
+      "t": "wordsearch", "title": "Sopa de letras", "title_en": "Word search", "icon": "🔎",
+      "es": "Busca las 8 palabras. Después escribe dos frases: una con was y otra con were.",
+      "en": "Find the 8 words. Then write one sentence with was and one with were.",
+      "words": ["was", "were", "born", "there", "tired", "hungry", "bored", "late"],
+      "clues": ["was · era / estaba", "were · eran / estaban", "born · nacido", "there · there was = había", "tired · cansado", "hungry · con hambre", "bored · aburrido", "late · tarde"]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe frases sobre ti. Usa was, were, wasn't, weren't, there was y there were.",
+      "en": "Write about you.",
+      "items": [
+        { "q": "¿Dónde estabas ayer a las cinco? <b>I was…</b>", "lines": 1, "a": "Ej.: I was at the park with my friends." },
+        { "q": "¿Cómo era tu clase del año pasado? <b>There was… / There were…</b>", "lines": 2, "a": "Ej.: There were twenty-two children. There was a big map on the wall." },
+        { "q": "¿Cuándo y dónde naciste? <b>I was born…</b>", "lines": 1, "a": "Ej.: I was born in 2016, in Madrid." },
+        { "q": "Escribe 2 preguntas para un amigo sobre su fin de semana: <b>Were you…? Was it…?</b>", "lines": 2, "a": "Ej.: Were you at the beach? Was it fun?" }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé que <b>was / were</b> son el pasado de am / is / are.", "en": "I know was / were are the past of be." },
+    { "es": "Uso <b>was</b> con I, he, she, it y <b>were</b> con you, we, they.", "en": "I use was and were correctly." },
+    { "es": "Hago negativas con <b>wasn't / weren't</b> (sin «no» ni did).", "en": "I can make negatives with wasn't / weren't." },
+    { "es": "Hago preguntas poniendo <b>Was / Were</b> delante: Were you…?", "en": "I can ask questions with Was / Were." },
+    { "es": "Contesto con respuestas cortas: Yes, I was. / No, they weren't.", "en": "I can give short answers." },
+    { "es": "Sé decir «había»: <b>there was</b> (uno) / <b>there were</b> (varios).", "en": "I can use there was / there were." },
+    { "es": "Digo cuándo y dónde nací: <b>I was born</b> in…", "en": "I can say when and where I was born." }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "id": "C2-03",
+  "level": "C2",
+  "title": "MATIZAR <em>y</em> ENFATIZAR",
+  "file_title": "Matizar y enfatizar",
+  "subtitle": "Hedging and emphasis · suavizar y reforzar",
+  "icon": "🎚️",
+  "map": {
+    "center": "<b>Matizar</b> (hedging) <em>baja el volumen</em> de una afirmación; <b>enfatizar</b> lo <em>sube</em>. Clave del inglés culto.",
+    "nodes": [
+      {
+        "title": "¿Para qué matizar?", "icon": "🛡️",
+        "rows": [["hedging", "= matizar, suavizar"], ["emphasis", "= reforzar, subrayar"]],
+        "items": ["Ajustar la afirmación a la <b>evidencia</b>", "Prudencia académica y cortesía"]
+      },
+      {
+        "title": "Verbos y modales", "icon": "🔧", "art": "🔬",
+        "items": ["<b>seem / appear / tend</b> + to + inf.", "It <b>would appear</b> that…", "<b>may / might / could (well)</b>", "<b>is likely / unlikely to</b> + inf."]
+      },
+      {
+        "title": "Adverbios y cifras", "icon": "📏",
+        "items": ["<b>arguably</b> · <b>presumably</b> · <b>apparently</b>", "<b>to some extent</b> · <b>on the whole</b>", "<b>approximately</b> · <b>roughly</b> · <b>some</b> 40%", "Distancia: is <b>thought to</b> · <b>allegedly</b>"]
+      },
+      {
+        "title": "Énfasis gramatical", "icon": "📢", "art": "📣",
+        "items": ["I <b>did</b> warn you! <i>(¡Sí que te avisé!)</i>", "<b>the very</b> idea · the CEO <b>herself</b>", "no doubt <b>whatsoever</b> · not <b>at all</b>", "<b>Whatever</b> do you mean?"]
+      },
+      {
+        "title": "Intensificadores", "icon": "🔥",
+        "items": ["<b>by far</b> the best · <b>far</b> better", "<b>highly</b> likely · <b>deeply</b> moved", "<b>utterly</b> wrong · <b>bitterly</b> cold", "<b>absolutely</b> + extremo: perfect, unique"]
+      },
+      {
+        "title": "Consejo rápido", "icon": "💡",
+        "items": ["Un hedge por idea: no los acumules.", "<s>very unique</s> → <b>truly</b> unique", "Académico: <b>highly</b>; oral: <b>really, so</b>"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["It is supposed that prices will rise."],
+      "good": ["Prices <b>are expected to</b> rise."],
+      "note": "«Se supone que» → sujeto + <b>is expected / supposed to</b>"
+    },
+    "mini": {
+      "es": "Completa con una palabra.",
+      "en": "Complete with one word.",
+      "items": [
+        { "q": "The data ___ to suggest a link.", "a": ["appear", "seem"] },
+        { "q": "I ___ lock the door, I promise!", "a": "did" },
+        { "q": "This is by ___ the best option.", "a": "far" },
+        { "q": "There is no proof ___.", "a": "whatsoever" },
+        { "q": "It's highly ___ to rain later.", "a": "likely" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "En el inglés culto, la <b>fuerza</b> de una afirmación se regula con precisión. <b>Matizar</b> (<i>hedging</i>) consiste en <mark>rebajar la rotundidad</mark> de lo que decimos —por prudencia científica, por cortesía o para protegernos de la crítica—: <b>it would appear that…</b>, <b>arguably</b>, <b>to some extent</b>. <b>Enfatizar</b> es lo contrario: <mark>reforzar</mark> una idea con recursos gramaticales y léxicos: <b>I <em>did</em> warn you</b>, <b>by far</b>, <b>the very</b>, <b>whatsoever</b>, <b>utterly</b>. Un hablante C2 maneja ambos como un control de volumen: ni todo es seguro ni todo es dudoso.",
+      "en": "Hedging <mark>tones down</mark> a claim (caution, politeness, academic precision); emphasis <mark>turns it up</mark>. A proficient writer controls both like a volume knob.",
+      "formula": ["Afirmación + *hedge* → más cauta", "Afirmación + *intensificador* → más rotunda"]
+    },
+    {
+      "t": "tip", "title": "Antes de empezar: el registro", "title_en": "First of all: register", "icon": "🎩",
+      "es": "<b>Académico y formal:</b> <i>it would appear, arguably, is thought to, highly, deeply, by far, whatsoever</i>. <b>Oral e informal:</b> <i>really, so, totally, kind of, sort of, I guess, loads better</i>. No mezcles: <s>The results are totally awesome</s> no cabe en un ensayo. Para el énfasis por estructura (<i>Never have I…</i>, <i>What matters is…</i>) repasa C1-01 (inversión) y C1-02 (cleft sentences).",
+      "en": "Academic: it would appear, arguably, highly, by far. Informal: really, so, totally, kind of. Keep them apart."
+    },
+    {
+      "t": "rule", "title": "1 · Verbos que matizan", "title_en": "Hedging verbs", "icon": "🔧", "color": "blue",
+      "es": "<b>seem</b>, <b>appear</b> y <b>tend</b> presentan la información como <i>impresión</i> o <i>tendencia</i>, no como un hecho probado. Con <b>would</b> la cautela aumenta: <b>it would seem / it would appear that…</b> es típico de artículos académicos e informes oficiales. Para referirnos al pasado usamos el infinitivo perfecto: <b>appears to <em>have</em> + participio</b>. También son verbos de cautela <b>suggest</b>, <b>indicate</b> y <b>point to</b>: los datos <i>apuntan a</i>, no <i>demuestran</i>.",
+      "en": "<b>seem / appear / tend to</b> present information as impression or tendency. <b>Would</b> adds extra caution. For the past: <b>appear to have + past participle</b>.",
+      "formula": ["Sujeto + *seems / appears / tends* + to + infinitivo", "It + *would seem / would appear* + that + oración", "Sujeto + *appears to have* + participio"],
+      "examples": [
+        { "en": "The treatment <b>appears to</b> reduce symptoms in most patients.", "es": "El tratamiento parece reducir los síntomas en la mayoría de los pacientes.", "icon": "💊" },
+        { "en": "<b>It would seem that</b> the original manuscript has been lost.", "es": "Todo parece indicar que el manuscrito original se ha perdido.", "icon": "📜" },
+        { "en": "Investors <b>tend to</b> overreact to bad news.", "es": "Los inversores tienden a reaccionar en exceso ante las malas noticias.", "icon": "📉" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · Modales y probabilidad", "title_en": "Modals and likelihood", "icon": "🎲", "color": "purple",
+      "es": "<b>may</b>, <b>might</b> y <b>could</b> rebajan la certeza; <b>may well / could well</b> equivalen a «es muy posible que». Para hablar de probabilidad con elegancia usamos <b>be likely / unlikely to</b> + infinitivo (¡nunca <s>is probable to</s>!) o <b>there is a strong possibility that…</b>. <b>Should</b> expresa lo que es razonable esperar: <i>The results <b>should</b> be available by May.</i>",
+      "en": "<b>may / might / could</b> lower certainty; <b>may well</b> = it is quite possible. Use <b>be likely to</b>, never <s>be probable to</s>. <b>Should</b> = what we reasonably expect.",
+      "formula": ["Sujeto + *may / might / could (well)* + infinitivo", "Sujeto + *is (highly) likely / unlikely to* + infinitivo", "It is + *likely / probable* + that + oración"],
+      "examples": [
+        { "en": "The strike <b>may well</b> spread to other sectors.", "es": "Es muy posible que la huelga se extienda a otros sectores.", "icon": "✊" },
+        { "en": "Interest rates <b>are unlikely to</b> fall before the summer.", "es": "Es poco probable que los tipos de interés bajen antes del verano.", "icon": "🏦" },
+        { "en": "These findings <b>could</b> have important implications for policy.", "es": "Estos hallazgos podrían tener implicaciones importantes para las políticas públicas.", "icon": "📊" }
+      ]
+    },
+    {
+      "t": "rule", "title": "3 · Distanciarse de la fuente", "title_en": "Distancing", "icon": "🗞️", "color": "teal",
+      "es": "Cuando no queremos responsabilizarnos de una afirmación, la atribuimos a otros con la <b>pasiva impersonal</b> (vista en B2), que aquí funciona como recurso de cautela: <b>is thought / believed / said / reported / alleged to</b>. Es la marca del periodismo prudente. Con adverbios: <b>reportedly</b>, <b>allegedly</b>, <b>apparently</b>, <b>according to…</b>. <i>Allegedly</i> (presuntamente) es imprescindible en noticias judiciales: informa sin acusar.",
+      "en": "Attribute a claim to others to keep your distance: <b>is thought / said / reported / alleged to</b>, <b>reportedly</b>, <b>allegedly</b>.",
+      "formula": ["Sujeto + *is thought / said / alleged* + to + infinitivo", "Sujeto + *is believed to have* + participio", "*It is widely held / assumed* + that…"],
+      "examples": [
+        { "en": "The fire <b>is thought to have started</b> in the kitchen.", "es": "Se cree que el incendio empezó en la cocina.", "icon": "🔥" },
+        { "en": "The senator <b>allegedly</b> accepted bribes from a construction firm.", "es": "El senador presuntamente aceptó sobornos de una constructora.", "icon": "💼" },
+        { "en": "<b>It is widely held that</b> the reform came too late.", "es": "Existe la opinión generalizada de que la reforma llegó demasiado tarde.", "icon": "🏛️" }
+      ]
+    },
+    {
+      "t": "table", "title": "La escala de certeza", "title_en": "The certainty scale", "icon": "🌡️", "color": "green", "wide": true,
+      "head": ["Grado · Degree", "Verbos y modales", "Adverbios y adjetivos", "Expresiones", "Ejemplo · Example"],
+      "rows": [
+        ["✅ Certeza (100%)", "will, must", "certainly, undoubtedly, clearly", "it is certain / clear that", "Prices <b>will undoubtedly</b> rise."],
+        ["🟢 Muy probable (90%)", "will almost certainly", "almost certainly, in all likelihood", "is highly likely to", "He <b>is highly likely to</b> win."],
+        ["🟡 Probable (70%)", "should, tend to", "probably, presumably", "is likely to · there is a good chance", "It <b>should</b> be ready by May."],
+        ["🟠 Posible (50%)", "may, might, could (well)", "possibly, perhaps, conceivably", "it is possible that", "The talks <b>may well</b> fail."],
+        ["🔴 Poco probable (20%)", "probably won't, may not", "probably not, doubtful", "is unlikely to · it is doubtful whether", "She <b>is unlikely to</b> resign."],
+        ["⛔ Casi imposible (≈0%)", "can't, couldn't possibly", "inconceivable", "is highly unlikely to", "That <b>can't</b> be true."]
+      ],
+      "note": "Elige el grado que permiten tus datos. Pero <b>no acumules</b> hedges: <s>It might possibly perhaps be the case…</s> suena evasivo. Uno o dos por afirmación es suficiente.",
+      "note_en": "Choose the degree your evidence allows, but don't stack hedges: one or two per claim is enough."
+    },
+    {
+      "t": "rule", "title": "4 · Adverbios y aproximadores", "title_en": "Hedging adverbs and approximators", "icon": "📏", "color": "orange",
+      "es": "<b>arguably</b> = «podría decirse que» (defendible, pero no indiscutible); <b>presumably</b> = «es de suponer que» (deducción lógica); <b>apparently / seemingly</b> = «al parecer, aparentemente»; <b>conceivably</b> = «cabe la posibilidad». Para limitar el alcance: <b>to some / a certain extent</b>, <b>in part</b>, <b>on the whole</b>, <b>broadly speaking</b>, <b>in most cases</b>. Con cifras, los <b>aproximadores</b>: <b>approximately</b>, <b>roughly</b>, <b>some</b> + número, <b>in the region of</b>, <b>upwards of</b>.",
+      "en": "<b>arguably, presumably, apparently</b> soften claims; <b>to some extent, on the whole</b> limit their scope; <b>approximately, roughly, some</b> soften figures.",
+      "examples": [
+        { "en": "This is <b>arguably</b> the finest film of the decade.", "es": "Podría decirse que es la mejor película de la década.", "icon": "🎬" },
+        { "en": "<b>To some extent</b>, the crisis was self-inflicted.", "es": "Hasta cierto punto, la crisis fue autoinfligida.", "icon": "🌀" },
+        { "en": "The project will cost <b>in the region of</b> £40 million.", "es": "El proyecto costará alrededor de 40 millones de libras.", "icon": "💷" }
+      ]
+    },
+    {
+      "t": "rule", "title": "5 · DO / DID enfático", "title_en": "Emphatic do", "icon": "📢", "color": "pink",
+      "es": "En una oración afirmativa, añadir <b>do / does / did</b> (acentuado al hablar) delante del infinitivo <mark>refuerza la verdad</mark> de lo dicho. Sirve para <b>contradecir</b> (<i>I <b>did</b> lock the door!</i>), <b>insistir</b> o <b>conceder</b> (<i>He <b>does</b> have a point.</i>) y, en imperativos, para una invitación cálida y algo formal (<i><b>Do</b> sit down.</i>). Equivale a «sí que…», «de verdad», «claro que». El verbo va siempre en <b>infinitivo sin to</b>: <s>I did told you</s>.",
+      "en": "<b>do / does / did + bare infinitive</b> (stressed) adds emphasis: contradicting, insisting, conceding, or warm imperatives (<i>Do come in</i>).",
+      "formula": ["Sujeto + *do / does / did* + infinitivo sin to", "*Do* + imperativo (invitación enfática)"],
+      "examples": [
+        { "en": "I <b>did</b> send the report — check your spam folder.", "es": "Sí que mandé el informe: mira en la carpeta de spam.", "icon": "📧" },
+        { "en": "The theory <b>does</b> have its limitations, admittedly.", "es": "Hay que reconocer que la teoría sí tiene sus limitaciones.", "icon": "🧪" },
+        { "en": "<b>Do</b> help yourself to coffee.", "es": "Sírvase café, por favor, con toda confianza.", "icon": "☕" }
+      ]
+    },
+    {
+      "t": "rule", "title": "6 · The very, -self, whatsoever, -ever", "title_en": "Emphatic words", "icon": "🎯", "color": "purple",
+      "es": "<b>the very + sustantivo</b> = «justo, mismísimo, mero»: <i>the very thought</i> (la mera idea), <i>at that very moment</i> (en ese preciso instante). El <b>reflexivo enfático</b> subraya la identidad: <i>the CEO herself</i> = la propia directora. En negativas, «en absoluto»: <b>no + sustantivo + whatsoever</b> (siempre <em>detrás</em>), <b>not… at all</b>, <b>not in the least</b>. En preguntas de sorpresa: <b>Whatever / However…?</b>, <b>Why ever…?</b> = «¿pero qué / cómo…?».",
+      "en": "<b>the very</b> + noun = exact / mere; emphatic <b>-self</b>; <b>no … whatsoever</b>, <b>not … at all</b>; surprise: <b>Whatever…? Why ever…?</b>",
+      "formula": ["*the very* + sustantivo", "no + sustantivo + *whatsoever*", "*Whatever / However / Why ever* + aux. + sujeto…?"],
+      "examples": [
+        { "en": "<b>The very</b> idea of moving abroad terrified her.", "es": "La mera idea de mudarse al extranjero la aterraba.", "icon": "😨" },
+        { "en": "The company has shown <b>no</b> interest <b>whatsoever</b> in our proposal.", "es": "La empresa no ha mostrado interés alguno por nuestra propuesta.", "icon": "🙅" },
+        { "en": "The Prime Minister <b>herself</b> opened the debate.", "es": "La propia primera ministra abrió el debate.", "icon": "🎤" },
+        { "en": "<b>Whatever</b> made you say that?", "es": "¿Pero qué te llevó a decir eso?", "icon": "🤨" }
+      ]
+    },
+    {
+      "t": "compare", "title": "VERY o ABSOLUTELY", "title_en": "Gradable vs non-gradable", "icon": "⚖️", "color": "blue",
+      "es": "Los adjetivos <b>graduables</b> (good, cold, tired) admiten <b>very / extremely / incredibly</b>. Los <b>extremos o absolutos</b> (perfect, freezing, unique, exhausted) ya expresan el máximo: solo admiten <b>absolutely / utterly / totally / completely</b>. <b>Really</b> vale para ambos. <b>Quite</b> cambia de significado: <i>quite good</i> = bastante bueno; <i>quite extraordinary</i> = absolutamente extraordinario.",
+      "en": "Gradable adjectives take <b>very / extremely</b>; extreme or absolute ones take <b>absolutely / utterly / totally</b>. <b>Quite</b> = fairly (gradable) or completely (absolute).",
+      "cols": [
+        { "head": "📈 Graduables", "color": "green", "items": ["<b>very / extremely</b> good", "<b>incredibly</b> cold", "<b>highly</b> unusual", "<s>absolutely big</s>"] },
+        { "head": "🔝 Extremos", "color": "orange", "items": ["<b>absolutely</b> perfect", "<b>utterly</b> exhausted", "<b>truly</b> unique", "<s>very unique</s>"] },
+        { "head": "⚠️ quite / really", "color": "purple", "items": ["<b>quite</b> good = bastante", "<b>quite</b> impossible = del todo", "<b>really</b> good · <b>really</b> perfect", "<b>quite</b> right = toda la razón"] }
+      ]
+    },
+    {
+      "t": "table", "title": "Intensificadores y sus collocations", "title_en": "Intensifiers and collocations", "icon": "🔥", "color": "orange", "wide": true,
+      "head": ["Intensificador", "Se combina con", "Ejemplo · Example", "Español"],
+      "rows": [
+        ["<b>utterly</b>", "ridiculous, wrong, exhausted, devastated", "an <b>utterly</b> ridiculous claim", "una afirmación totalmente ridícula"],
+        ["<b>highly</b>", "likely, unlikely, recommended, qualified, controversial", "a <b>highly</b> controversial ruling", "una sentencia muy polémica"],
+        ["<b>deeply</b>", "concerned, moved, rooted, divided, regret", "a <b>deeply</b> divided society", "una sociedad profundamente dividida"],
+        ["<b>bitterly</b>", "disappointed, cold, opposed, resent", "<b>bitterly</b> disappointed fans", "aficionados amargamente decepcionados"],
+        ["<b>fully</b>", "aware, booked, understand, appreciate", "I am <b>fully</b> aware of the risks.", "soy plenamente consciente"],
+        ["<b>strongly</b>", "recommend, advise, oppose, believe", "We <b>strongly</b> advise booking early.", "aconsejamos encarecidamente"],
+        ["<b>painfully</b>", "slow, shy, aware, obvious", "progress was <b>painfully</b> slow", "el avance fue desesperadamente lento"],
+        ["<b>vitally</b>", "important", "It is <b>vitally</b> important to act now.", "es de vital importancia"],
+        ["<b>greatly</b>", "appreciate, improve, exaggerate", "Your help is <b>greatly</b> appreciated.", "se agradece enormemente"],
+        ["<b>by far / easily</b>", "+ superlativo", "<b>by far</b> the best option", "con diferencia, la mejor opción"],
+        ["<b>far / much</b>", "+ comparativo", "<b>far</b> more expensive", "mucho más caro"],
+        ["<b>ever</b>", "superlativo + ever", "the best novel <b>ever</b> written", "la mejor novela jamás escrita"],
+        ["<b>such / so</b>", "such (a) + sustantivo · so + adjetivo", "<b>such</b> a mess · <b>so</b> dull", "tal desastre · tan aburrido"],
+        ["<b>utter / sheer</b>", "+ sustantivo: nonsense, chaos, luck", "<b>sheer</b> luck · <b>utter</b> chaos", "pura suerte · caos absoluto"]
+      ],
+      "note": "Son <b>collocations</b> fijas: <s>highly moved</s>, <s>deeply recommended</s> o <s>bitterly aware</s> suenan extraños a un nativo. <b>By far</b> va delante del superlativo; delante de un comparativo, <b>far / much</b>: <s>by far better</s> → <b>far better</b>.",
+      "note_en": "These are fixed collocations. <b>By far</b> + superlative; <b>far / much</b> + comparative."
+    },
+    {
+      "t": "compare", "title": "Rotundo o académico", "title_en": "Blunt vs academic", "icon": "🎓", "color": "teal", "wide": true,
+      "es": "El inglés académico y el periodismo de calidad prefieren afirmaciones <b>calibradas</b>: no dicen menos, dicen <mark>exactamente lo que los datos permiten</mark>. Compara cada afirmación rotunda con su versión matizada.",
+      "en": "Academic and quality journalistic English calibrate every claim to the evidence.",
+      "cols": [
+        { "head": "🗣️ Rotundo · blunt", "color": "red", "items": ["Social media <b>makes</b> teenagers depressed.", "This policy <b>failed</b>.", "<b>Everybody knows</b> diets don't work.", "Half the students failed.", "The author is <b>wrong</b>."] },
+        { "head": "🎓 Matizado · hedged", "color": "green", "items": ["Heavy social media use <b>may contribute to</b> depression among teenagers.", "<b>It would appear that</b> the policy <b>has not achieved</b> its aims.", "<b>There is growing evidence that</b> most diets <b>tend to</b> fail in the long term.", "<b>Approximately</b> half the students failed.", "The author's argument is, <b>arguably</b>, flawed <b>in several respects</b>."] }
+      ]
+    },
+    {
+      "t": "note", "title": "Texto modelo: un abstract", "title_en": "Model text", "icon": "📄", "color": "blue",
+      "es": "Fíjate en cómo este resumen de un artículo científico combina <b>cautela</b> (en azul) con <em>énfasis</em> (en rojo) allí donde la evidencia es sólida. <i>«Este estudio examina… Los resultados parecen indicar que hablar dos idiomas desde la infancia puede, hasta cierto punto, retrasar el deterioro cognitivo. El efecto fue, con diferencia, más acusado entre… Aunque la muestra es relativamente pequeña, los datos sí respaldan…»</i>",
+      "en": "This study examines the relationship between early bilingualism and cognitive ageing. The results <b>would appear to suggest</b> that speaking two languages from childhood <b>may</b>, <b>to some extent</b>, delay the onset of age-related decline. The effect was <em>by far</em> the most pronounced among participants who used both languages daily. Although the sample is <b>relatively</b> small and the findings <b>should</b> be interpreted with caution, the data <em>do</em> support the view that bilingualism is <em>highly</em> unlikely to be cognitively neutral."
+    },
+    {
+      "t": "steps", "title": "¿Cómo calibro una afirmación?", "title_en": "How do I calibrate a claim?", "color": "orange",
+      "items": [
+        { "es": "¿Qué <b>demuestran</b> de verdad tus datos: certeza, tendencia o posibilidad?", "en": "What does the evidence really show?" },
+        { "es": "Elige <b>un</b> recurso del grado justo: <b>tends to</b>, <b>is likely to</b>, <b>may</b>…", "en": "Pick one device of the right degree." },
+        { "es": "¿No es tu afirmación? <b>Distánciate</b>: <i>is thought to, reportedly</i>.", "en": "Not your claim? Keep your distance." },
+        { "es": "Limita el alcance: <b>to some extent</b>, <b>in most cases</b>.", "en": "Limit the scope." },
+        { "es": "Si la evidencia es sólida, <b>enfatiza</b>: <i>by far, the data <b>do</b> show</i>.", "en": "Strong evidence? Emphasise." },
+        { "es": "Relee: ¿<b>más de dos hedges</b> por frase? Elimina los sobrantes.", "en": "More than two hedges? Cut." }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "Sales <b>appear to have peaked</b> in the third quarter.", "es": "Las ventas parecen haber tocado techo en el tercer trimestre.", "icon": "📈" },
+        { "en": "The virus <b>is believed to have originated</b> in bats.", "es": "Se cree que el virus se originó en murciélagos.", "icon": "🦇" },
+        { "en": "<b>Presumably</b>, the committee will publish its report before the election.", "es": "Es de suponer que la comisión publicará su informe antes de las elecciones.", "icon": "🗳️" },
+        { "en": "Some readers <b>may</b> find the ending <b>somewhat</b> abrupt.", "es": "Puede que a algunos lectores el final les resulte algo abrupto.", "icon": "📖" },
+        { "en": "The figures are, <b>broadly speaking</b>, in line with expectations.", "es": "Las cifras están, a grandes rasgos, en línea con lo previsto.", "icon": "🧮" },
+        { "en": "It was <b>by far</b> the most difficult decision of my career.", "es": "Fue, con diferencia, la decisión más difícil de mi carrera.", "icon": "🧭" },
+        { "en": "The new engine is <b>far</b> more efficient than its predecessor.", "es": "El nuevo motor es mucho más eficiente que su predecesor.", "icon": "⚙️" },
+        { "en": "I <b>do</b> wish you had told me earlier.", "es": "Ojalá me lo hubieras dicho antes, de verdad.", "icon": "😩" },
+        { "en": "She was <b>utterly</b> devastated by the news.", "es": "La noticia la dejó completamente destrozada.", "icon": "💔" },
+        { "en": "That was <b>the very last</b> thing we expected.", "es": "Era lo último que nos esperábamos.", "icon": "😲" },
+        { "en": "<b>However</b> did you manage to get tickets?", "es": "¿Pero cómo has conseguido entradas?", "icon": "🎟️" },
+        { "en": "The decision was <b>deeply</b> unpopular, and <b>rightly so</b>.", "es": "La decisión fue profundamente impopular, y con razón.", "icon": "😠" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "error", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "This method is very unique.", "good": "This method is <b>unique</b>. / <b>truly</b> unique.", "why": "<i>Unique</i> es absoluto: sin <i>very</i>.", "why_en": "Non-gradable." },
+        { "bad": "It is supposed that the economy will grow.", "good": "The economy <b>is expected to</b> grow.", "why": "Calco de «se supone que».", "why_en": "Subject + be expected to." },
+        { "bad": "Inflation is probable to rise.", "good": "Inflation <b>is likely to</b> rise.", "why": "<i>Probable</i> no admite <i>to</i> + infinitivo.", "why_en": "Use likely to." },
+        { "bad": "I am totally agree with you.", "good": "I <b>totally agree</b> with you.", "why": "<i>Agree</i> es verbo: sin <i>am</i>.", "why_en": "No be." },
+        { "bad": "She was very furious.", "good": "She was <b>absolutely</b> furious.", "why": "Adjetivo extremo → <i>absolutely</i>.", "why_en": "Extreme adjective." },
+        { "bad": "The results are too much important.", "good": "The results are <b>extremely</b> important.", "why": "<i>Too</i> = demasiado; nunca <i>too much</i> + adj.", "why_en": "Not too much." },
+        { "bad": "In a certain way, the data could perhaps suggest it.", "good": "<b>To some extent</b>, the data <b>suggest</b> this.", "why": "Calco y exceso de hedges: suena evasivo.", "why_en": "Over-hedging." },
+        { "bad": "I did told you the truth!", "good": "I <b>did tell</b> you the truth!", "why": "Tras <i>did</i> enfático, infinitivo.", "why_en": "Bare infinitive." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify", "title": "¿Matiza o enfatiza?", "title_en": "Hedge or emphasis?", "icon": "🗂️",
+      "es": "Clasifica cada expresión: ¿rebaja la fuerza de una afirmación (hedging) o la refuerza (emphasis)?",
+      "en": "Sort the expressions: do they soften or strengthen a claim?",
+      "cats": [
+        { "name": "🔽 Hedging", "words": ["arguably", "it would appear", "to some extent", "tends to", "presumably", "may well", "approximately", "is thought to"] },
+        { "name": "🔼 Emphasis", "words": ["by far", "whatsoever", "the very", "utterly", "I did warn you", "herself", "not in the least", "easily the best"] }
+      ]
+    },
+    {
+      "t": "choose", "title": "Rodea la correcta", "title_en": "Circle the correct option", "icon": "⭕",
+      "es": "Rodea la opción correcta. Piensa en la collocation y en el registro.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "This is [by far|very far] the most thorough study to date.", "a": "by far" },
+        { "q": "There is no evidence [whatsoever|in the least] to support the claim.", "a": "whatsoever" },
+        { "q": "It was [very|absolutely] freezing outside.", "a": "absolutely" },
+        { "q": "She was [deeply|highly] moved by his speech.", "a": "deeply" },
+        { "q": "The proposal is [highly|deeply] unlikely to succeed.", "a": "highly" },
+        { "q": "Inflation is [likely|probable] to rise further next year.", "a": "likely" },
+        { "q": "The minister is [said|told] to be considering resignation.", "a": "said" },
+        { "q": "I [do|am] appreciate everything you have done.", "a": "do" },
+        { "q": "The [very|much] thought of it makes me shudder.", "a": "very" },
+        { "q": "Prices have risen by [roughly|rough] 12% this year.", "a": "roughly" },
+        { "q": "He [did|was] say he would be late — you just weren't listening.", "a": "did" },
+        { "q": "The two approaches are [entirely|bitterly] different.", "a": "entirely" }
+      ]
+    },
+    {
+      "t": "match", "title": "Une con su equivalente", "title_en": "Match with the Spanish equivalent", "icon": "🔗",
+      "es": "Une cada hedge con su equivalente en español.",
+      "en": "Match each hedge with its Spanish equivalent.",
+      "pairs": [
+        ["it would appear that", "todo parece indicar que"],
+        ["arguably", "podría decirse que"],
+        ["presumably", "es de suponer que"],
+        ["to some extent", "hasta cierto punto"],
+        ["tends to", "suele"],
+        ["may well", "es muy posible que"],
+        ["allegedly", "presuntamente"],
+        ["in the region of", "alrededor de (cifras)"]
+      ]
+    },
+    {
+      "t": "match", "title": "Collocations de intensidad", "title_en": "Intensifier collocations", "icon": "🧲",
+      "es": "Une cada intensificador con la palabra con la que forma una collocation natural.",
+      "en": "Match each intensifier with its natural collocate.",
+      "pairs": [
+        ["utterly", "ridiculous"],
+        ["bitterly", "cold"],
+        ["deeply", "rooted"],
+        ["highly", "recommended"],
+        ["painfully", "shy"],
+        ["fully", "booked"],
+        ["wide", "awake"],
+        ["fast", "asleep"]
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Verdadero o falso?", "title_en": "True or false?", "icon": "🤔",
+      "es": "¿Es verdadera o falsa cada afirmación sobre el uso? Si es falsa, corrígela.",
+      "en": "Are these statements about usage true or false?",
+      "items": [
+        { "q": "<i>Very unique</i> is acceptable in formal writing.", "a": false, "why": "Unique is non-gradable: <b>truly unique</b> or just <b>unique</b>." },
+        { "q": "Emphatic <i>do / does / did</i> is followed by the bare infinitive.", "a": true },
+        { "q": "<i>By far</i> is typically placed before a superlative: <i>by far the best</i>.", "a": true },
+        { "q": "<i>Whatsoever</i> is normally used in affirmative sentences.", "a": false, "why": "It follows <b>no / any / nothing</b> in negative contexts." },
+        { "q": "<i>Presumably</i> expresses absolute certainty.", "a": false, "why": "It expresses a logical assumption: «es de suponer»." },
+        { "q": "<i>Arguably</i> means that a claim is probably false.", "a": false, "why": "It means the claim can reasonably be defended." },
+        { "q": "Stacking several hedges in one sentence can make a writer sound evasive.", "a": true },
+        { "q": "<i>Highly</i> collocates naturally with <i>likely</i>, <i>recommended</i> and <i>qualified</i>.", "a": true },
+        { "q": "<i>Quite impossible</i> means «bastante imposible».", "a": false, "why": "With absolute adjectives, quite = completely: «del todo imposible»." },
+        { "q": "<i>The very</i> + noun means «muy» + noun.", "a": false, "why": "It means «justo, mismísimo, mero»: <i>the very moment</i>." },
+        { "q": "<i>Is probable to</i> + infinitive is incorrect.", "a": true, "why": "Use <b>is likely to</b> or <b>it is probable that</b>." }
+      ]
+    },
+    {
+      "t": "fill", "title": "Completa con el hedge", "title_en": "Complete with a hedge", "icon": "🧩",
+      "es": "Completa con una palabra del recuadro. Usa cada una una vez. Fíjate en las pistas del contexto.",
+      "en": "Complete with a word from the box. Use each word once.",
+      "bank": ["appear", "tend", "likely", "seemingly", "arguably", "extent", "presumably", "suggest", "may", "thought"],
+      "items": [
+        { "q": "As a rule, older patients ___ to respond less well to this treatment.", "a": "tend" },
+        { "q": "At first sight, the two phenomena ___ to be closely related.", "a": "appear" },
+        { "q": "The new regulations are highly ___ to come into force next spring.", "a": "likely" },
+        { "q": "After months of ___ endless negotiations, a deal was finally reached.", "a": "seemingly" },
+        { "q": "This is, ___, the most influential novel of the decade.", "a": "arguably" },
+        { "q": "To some ___, the crisis was self-inflicted.", "a": "extent" },
+        { "q": "As he is a lawyer, he was, ___, aware of the legal risks.", "a": "presumably" },
+        { "q": "The data ___ that the policy has had only a modest impact.", "a": "suggest" },
+        { "q": "The results ___ well have been distorted by the small sample.", "a": "may" },
+        { "q": "The suspect is widely ___ to have fled the country.", "a": "thought" }
+      ]
+    },
+    {
+      "t": "fill", "title": "Sube el volumen", "title_en": "Turn up the volume", "icon": "🔊",
+      "es": "Completa con una palabra o expresión enfática del recuadro. Usa cada una una vez.",
+      "en": "Complete with an emphatic word from the box. Use each one once.",
+      "bank": ["by far", "whatsoever", "very", "did", "does", "herself", "at all", "ever", "such", "so"],
+      "items": [
+        { "q": "I ___ lock the door — someone must have forced it.", "a": "did" },
+        { "q": "There is no evidence ___ to support the allegations.", "a": "whatsoever" },
+        { "q": "She is ____ the most gifted pianist of her generation.", "a": "by far" },
+        { "q": "At that ___ moment, the lights went out.", "a": "very" },
+        { "q": "Ms Ortega ___ signed the letter, not her secretary.", "a": "herself" },
+        { "q": "Why ___ did you agree to that plan?", "a": "ever" },
+        { "q": "It was ___ a glorious afternoon that we ate outside.", "a": "such" },
+        { "q": "I disagree with him, but he ___ have a point.", "a": "does" },
+        { "q": "I wasn't ____ surprised by the verdict.", "a": "at all" },
+        { "q": "The lecture was ___ dull that half the audience left.", "a": "so" }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Familias de palabras", "title_en": "Word families", "icon": "🌳", "wide": true,
+      "es": "Completa la tabla con la forma que falta. Si no existe, la casilla lleva un guion (—).",
+      "en": "Complete the table with the missing forms.",
+      "head": ["Verbo · Verb", "Adjetivo · Adjective", "Adverbio · Adverb", "Sustantivo · Noun"],
+      "rows": [
+        ["appear", "?apparent", "?apparently", "appearance"],
+        ["seem", "?seeming", "seemingly", "—"],
+        ["argue", "?arguable", "?arguably", "?argument"],
+        ["presume", "presumable", "?presumably", "?presumption"],
+        ["—", "?probable", "probably", "?probability"],
+        ["—", "likely", "(most) likely", "?likelihood"],
+        ["—", "?possible", "?possibly", "possibility"],
+        ["tend", "—", "—", "?tendency"],
+        ["allege", "?alleged", "?allegedly", "allegation"]
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y analiza", "title_en": "Read and analyse", "icon": "📰", "wide": true,
+      "es": "Lee el artículo. Marca T (true) o F (false) y contesta las preguntas sobre los recursos de matiz y énfasis.",
+      "en": "Read the article. Tick T or F and answer the questions.",
+      "text_title": "Does remote work really make us more productive?",
+      "text": [
+        "Few workplace changes have been as rapid, or as hotly debated, as the shift to remote working. Early studies appeared to show that employees working from home were, on the whole, more productive than their office-based colleagues. More recent research, however, would seem to paint a rather more complicated picture.",
+        "According to a large survey published last year, productivity tends to rise for routine, individual tasks but may well fall when work depends on close collaboration. Managers, for their part, are thought to underestimate the output of staff they cannot see. The survey is by far the most comprehensive to date, yet its authors themselves concede that their conclusions are, to some extent, provisional.",
+        "What the data do show, quite unambiguously, is that employees value flexibility above almost everything else. Arguably, the very notion of a fixed nine-to-five day has been called into question. Whether companies will embrace this is, presumably, a matter of trust rather than technology. There is no evidence whatsoever that forcing staff back to the office five days a week improves results — although, as one economist drily put it, ‘absence of evidence is not evidence of absence’."
+      ],
+      "items": [
+        { "q": "Early studies suggested that home workers were generally more productive.", "tf": true, "a": true },
+        { "q": "The survey found that productivity rises for highly collaborative work.", "tf": true, "a": false, "why": "It tends to rise for routine, individual tasks and may well fall for collaborative work." },
+        { "q": "The authors present their conclusions as final.", "tf": true, "a": false, "why": "They concede their conclusions are, to some extent, provisional." },
+        { "q": "There is clear evidence that full-time office attendance improves results.", "tf": true, "a": false, "why": "There is no evidence whatsoever that it does." },
+        { "q": "Find three hedging expressions in paragraph 1.", "a": "appeared to show · on the whole · would seem to · rather" },
+        { "q": "Which phrase in paragraph 2 reports a belief without the writer endorsing it?", "a": "are thought to (underestimate)" },
+        { "q": "Find four devices of emphasis in the text.", "a": "by far · themselves · do show · quite unambiguously · the very notion · whatsoever" },
+        { "q": "Why does the writer use <i>presumably</i> in paragraph 3?", "a": "To present a logical inference, not a proven fact." },
+        { "q": "What does the economist's remark add to the final claim?", "a": "A further hedge: the lack of evidence does not prove that office attendance never improves results." }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las fichas para formar frases matizadas o enfáticas.",
+      "en": "Put the tiles in order to make hedged or emphatic sentences.",
+      "items": [
+        { "q": "would / it / that / appear / the sample / was / incomplete", "a": "It would appear that the sample was incomplete." },
+        { "q": "by far / this / the most / is / ambitious / project / to date", "a": "This is by far the most ambitious project to date." },
+        { "q": "warn / I / you / did / about / the risks", "a": "I did warn you about the risks." },
+        { "q": "whatsoever / no / there / doubt / is / about his guilt", "a": "There is no doubt whatsoever about his guilt." },
+        { "q": "thought / the president / is / to have / the capital / left", "a": "The president is thought to have left the capital." },
+        { "q": "tend / younger voters / less loyal / be / to / to a single party", "a": "Younger voters tend to be less loyal to a single party." },
+        { "q": "very / the / of it / idea / absurd / is", "a": "The very idea of it is absurd." },
+        { "q": "do / mean / whatever / by that / you / ?", "a": "Whatever do you mean by that?" },
+        { "q": "herself / the minister / that / admitted / were wrong / the figures", "a": "The minister herself admitted that the figures were wrong." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error de matiz, de énfasis o de collocation. Escríbela correctamente.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "This solution is very unique.", "a": ["This solution is unique.", "This solution is truly unique."] },
+        { "q": "It is supposed that the economy will grow next year.", "a": ["The economy is expected to grow next year.", "The economy is supposed to grow next year."] },
+        { "q": "Inflation is probable to fall in the coming months.", "a": ["Inflation is likely to fall in the coming months.", "It is probable that inflation will fall in the coming months."] },
+        { "q": "I did told you the truth!", "a": "I did tell you the truth!" },
+        { "q": "She was very furious about the decision.", "a": ["She was absolutely furious about the decision.", "She was furious about the decision."] },
+        { "q": "He showed whatsoever no remorse.", "a": "He showed no remorse whatsoever." },
+        { "q": "I am totally agree with your analysis.", "a": "I totally agree with your analysis." },
+        { "q": "The results are too much important to ignore.", "a": ["The results are far too important to ignore.", "The results are too important to ignore."] },
+        { "q": "Her latest novel is by far better than her first.", "a": ["Her latest novel is far better than her first.", "Her latest novel is much better than her first."] },
+        { "q": "The candidate is high qualified for the post.", "a": "The candidate is highly qualified for the post." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Quita los hedges sobrantes", "title_en": "Cut the over-hedging", "icon": "✂️",
+      "es": "Estas frases están sobre-matizadas y suenan evasivas. Reescríbelas con UN solo recurso de cautela (o dos, como máximo).",
+      "en": "These sentences are over-hedged. Rewrite them with one hedge (two at most).",
+      "items": [
+        { "q": "It might possibly perhaps be the case that prices could rise.", "a": "Prices <b>may well</b> rise. / Prices <b>are likely to</b> rise." },
+        { "q": "In a certain way, the data seem to more or less indicate a trend.", "a": "The data <b>appear to</b> indicate a trend. / The data <b>suggest</b> a trend." },
+        { "q": "It would seem that it is perhaps possible that the drug may help.", "a": "The drug <b>may</b> help. / <b>It would appear that</b> the drug can help." },
+        { "q": "Arguably, it could be suggested that the novel is possibly his best.", "a": "The novel is <b>arguably</b> his best." },
+        { "q": "There may perhaps be a possibility that the talks might fail.", "a": "The talks <b>may well</b> fail. / <b>There is a possibility that</b> the talks will fail." },
+        { "q": "It is thought by some that the painting may perhaps have been stolen.", "a": "The painting <b>is thought to have been</b> stolen." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "De rotundo a académico", "title_en": "From blunt to academic", "icon": "🎓",
+      "es": "Reescribe cada afirmación rotunda en un registro académico y prudente. Usa los recursos indicados entre paréntesis.",
+      "en": "Rewrite each blunt claim in a cautious academic style, using the devices given.",
+      "items": [
+        { "q": "Social media makes teenagers depressed.", "hint": "may · contribute to", "a": "Social media use <b>may contribute to</b> depression among teenagers." },
+        { "q": "This policy has failed.", "hint": "it would appear", "a": "<b>It would appear that</b> this policy has failed." },
+        { "q": "Everyone knows that the climate is changing.", "hint": "widely accepted", "a": "<b>It is widely accepted that</b> the climate is changing." },
+        { "q": "Rich people live longer.", "hint": "tend to", "a": "Wealthier people <b>tend to</b> live longer. / Rich people <b>tend to</b> live longer." },
+        { "q": "The government lied about the figures.", "hint": "appear · to have", "a": "The government <b>appears to have</b> misrepresented the figures. / The government <b>appears to have</b> lied about the figures." },
+        { "q": "Unemployment will rise next year.", "hint": "likely", "a": "Unemployment <b>is likely to</b> rise next year. / <b>It is likely that</b> unemployment will rise next year." },
+        { "q": "Half of the participants dropped out.", "hint": "approximately", "a": "<b>Approximately</b> half of the participants dropped out." },
+        { "q": "The author's argument is wrong.", "hint": "arguably · flawed", "a": "The author's argument is <b>arguably flawed</b>." },
+        { "q": "The minister knew about the deal.", "hint": "alleged · to have", "a": "The minister <b>is alleged to have known</b> about the deal." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce usando un recurso de matiz o de énfasis. ¡Nada de calcos!",
+      "en": "Translate using a hedging or emphatic device. No calques!",
+      "items": [
+        { "q": "Al parecer, el acusado ya había salido del país.", "a": ["The defendant appears to have already left the country.", "Apparently, the defendant had already left the country."] },
+        { "q": "Es, podría decirse, la mejor película del año.", "a": "It is arguably the best film of the year." },
+        { "q": "Los jóvenes suelen votar menos que sus mayores.", "a": "Young people tend to vote less than their elders." },
+        { "q": "Es muy posible que la reunión se aplace.", "a": ["The meeting may well be postponed.", "The meeting could well be postponed."] },
+        { "q": "Se cree que el cuadro fue pintado en Sevilla.", "a": ["The painting is believed to have been painted in Seville.", "The picture is thought to have been painted in Seville."] },
+        { "q": "Es, con diferencia, el mejor restaurante de la ciudad.", "a": ["It is by far the best restaurant in the city.", "It is by far the best restaurant in town."] },
+        { "q": "¡Sí que te avisé!", "a": "I did warn you!" },
+        { "q": "No tengo intención alguna de dimitir.", "a": ["I have no intention whatsoever of resigning.", "I have no intention of resigning at all."] },
+        { "q": "Eres justo la persona que estaba buscando.", "a": "You are the very person I was looking for." },
+        { "q": "La propia ministra reconoció el error.", "a": ["The minister herself acknowledged the mistake.", "The minister herself admitted the mistake."] },
+        { "q": "Hasta cierto punto, la crisis era previsible.", "a": ["To some extent, the crisis was foreseeable.", "To a certain extent, the crisis was predictable."] },
+        { "q": "Estaba profundamente preocupada por las consecuencias.", "a": "She was deeply concerned about the consequences." }
+      ]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe frases propias. Cuida el registro: académico, periodístico o formal.",
+      "en": "Write your own sentences. Mind the register.",
+      "items": [
+        { "q": "Matiza esta afirmación con al menos <b>dos</b> hedges: <i>Video games cause violence.</i>", "lines": 2, "a": "Ej.: There would appear to be some evidence that violent video games may, in certain cases, contribute to aggressive behaviour." },
+        { "q": "Contradice con <b>do / did enfático</b>: <i>You never listen to me.</i>", "lines": 1, "a": "Ej.: I do listen to you — I just don't always agree with you." },
+        { "q": "Escribe sobre tu ciudad con <b>by far</b> + superlativo y un adjetivo extremo con <b>absolutely</b>.", "lines": 2, "a": "Ej.: Granada is by far the most beautiful city I know; the Alhambra at sunset is absolutely breathtaking." },
+        { "q": "Escribe la primera frase de un informe con <b>It would appear that</b> y <b>to some extent</b>.", "lines": 2, "a": "Ej.: It would appear that, to some extent, the new timetable has improved punctuality." },
+        { "q": "Escribe una frase de queja formal con <b>deeply</b> y <b>whatsoever</b>.", "lines": 2, "a": "Ej.: I am deeply disappointed that I have received no explanation whatsoever for the delay." },
+        { "q": "Redacta una noticia breve (2 frases) con <b>allegedly</b> y <b>is thought to</b>.", "lines": 2, "a": "Ej.: The businessman allegedly transferred €2 million to an offshore account. He is thought to have left the country last week." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Transformaciones (Cambridge C2)", "title_en": "Key word transformations", "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave (entre paréntesis) sin cambiarla y entre 3 y 8 palabras.",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word unchanged and 3–8 words.",
+      "items": [
+        { "q": "People believe that the painting was stolen in 1911.<br>→ The painting ________ in 1911.", "hint": "BELIEVED", "a": "The painting <b>is believed to have been stolen</b> in 1911." },
+        { "q": "It seems that the company has underestimated the risks.<br>→ The company ________ the risks.", "hint": "APPEARS", "a": "The company <b>appears to have underestimated</b> the risks." },
+        { "q": "No other restaurant in town is anywhere near as good as this one.<br>→ This is ________ restaurant in town.", "hint": "FAR", "a": "This is <b>by far the best</b> restaurant in town. / This is <b>far and away the best</b> restaurant in town." },
+        { "q": "He showed absolutely no remorse.<br>→ He showed ________.", "hint": "WHATSOEVER", "a": "He showed <b>no remorse whatsoever</b>." },
+        { "q": "You're right that I promised to call you, but I forgot.<br>→ I ________ you, but I forgot.", "hint": "DID", "a": "I <b>did promise to call</b> you, but I forgot." },
+        { "q": "It is highly probable that the talks will collapse within days.<br>→ The talks ________ within days.", "hint": "LIKELY", "a": "The talks <b>are highly likely to collapse</b> within days. / The talks <b>are very likely to collapse</b> within days." },
+        { "q": "Just thinking about the exam made me nervous.<br>→ The ________ the exam made me nervous.", "hint": "VERY", "a": "The <b>very thought of</b> the exam made me nervous." },
+        { "q": "Apparently, the minister knew nothing about the deal.<br>→ The minister ________ nothing about the deal.", "hint": "SEEMS", "a": "The minister <b>seems to have known</b> nothing about the deal." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé matizar con <b>seem, appear, tend to</b> y <b>it would appear that</b>.", "en": "I can hedge with seem, appear, tend to and it would appear that." },
+    { "es": "Gradúo la certeza con <b>may well, is likely to, presumably, arguably</b>.", "en": "I can grade certainty with may well, is likely to, presumably, arguably." },
+    { "es": "Me distancio de una fuente con <b>is thought to, allegedly, reportedly</b>.", "en": "I can distance myself from a source." },
+    { "es": "Uso el <b>do / did enfático</b>, <b>the very</b>, el <b>-self</b> enfático y <b>whatsoever</b>.", "en": "I use emphatic do, the very, emphatic -self and whatsoever." },
+    { "es": "Combino intensificadores con naturalidad: <b>highly likely, deeply moved, by far the best</b>.", "en": "I use natural intensifier collocations." },
+    { "es": "Nunca escribo <s>very unique</s>, <s>is probable to</s> ni <s>It is supposed that</s>.", "en": "I never write very unique, is probable to or It is supposed that." },
+    { "es": "Ajusto el registro: no sobre-matizo ni uso <i>so / really / totally</i> en textos académicos.", "en": "I adjust the register: no over-hedging, no informal intensifiers in academic texts." }
+  ]
+}

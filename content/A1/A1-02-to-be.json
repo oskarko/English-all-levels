@@ -1,0 +1,1440 @@
+{
+  "id": "A1-02",
+  "level": "A1",
+  "title": "EL VERBO TO BE",
+  "file_title": "El verbo to be",
+  "subtitle": "Am, is, are · ser y estar",
+  "icon": "😊",
+  "map": {
+    "center": "<b>TO BE</b> significa <b>ser</b> o <b>estar</b>. Tiene tres formas: <b>am</b>, <b>is</b> y <b>are</b>.",
+    "nodes": [
+      {
+        "title": "Am, is, are",
+        "icon": "🔎",
+        "rows": [
+          [
+            "I",
+            "→ am"
+          ],
+          [
+            "he / she / it",
+            "→ is"
+          ],
+          [
+            "you / we / they",
+            "→ are"
+          ]
+        ],
+        "after": "To be = <b>ser</b> o <b>estar</b>."
+      },
+      {
+        "title": "Afirmativa",
+        "icon": "✅",
+        "art": "😊",
+        "items": [
+          "I <b>am</b> Mario. → I<b>'m</b>",
+          "She <b>is</b> nine. → She<b>'s</b>",
+          "We <b>are</b> friends. → We<b>'re</b>"
+        ]
+      },
+      {
+        "title": "Negativa",
+        "icon": "⛔",
+        "items": [
+          "Pon <b>not</b> detrás: I'm <b>not</b> sad.",
+          "isn't = is not · aren't = are not",
+          "¡Nunca <s>She no is</s>!"
+        ]
+      },
+      {
+        "title": "Preguntas",
+        "icon": "❓",
+        "art": "🦘",
+        "items": [
+          "¡El verbo <b>salta</b> delante!",
+          "You are happy. → <b>Are</b> you happy?",
+          "<b>Is</b> Rocky hungry?"
+        ]
+      },
+      {
+        "title": "Respuestas cortas",
+        "icon": "💬",
+        "items": [
+          "Yes, I <b>am</b>. / No, I<b>'m not</b>.",
+          "Yes, he <b>is</b>. / No, he <b>isn't</b>.",
+          "Yes, they <b>are</b>. / No, they <b>aren't</b>."
+        ]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "items": [
+          "Edad con be: I<b>'m</b> eight.",
+          "Tengo hambre = I<b>'m</b> hungry.",
+          "Siempre sujeto: <b>It</b>'s cold."
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "I have eight years."
+      ],
+      "good": [
+        "I am eight."
+      ],
+      "note": "La edad va con <b>TO BE</b>"
+    },
+    "mini": {
+      "es": "Completa con am, is o are.",
+      "en": "Complete with am, is or are.",
+      "items": [
+        {
+          "q": "I ___ eight years old.",
+          "a": "am"
+        },
+        {
+          "q": "Rocky ___ a happy dog.",
+          "a": "is"
+        },
+        {
+          "q": "Leo and Sara ___ my friends.",
+          "a": "are"
+        },
+        {
+          "q": "___ you hungry?",
+          "a": "Are"
+        },
+        {
+          "q": "It ___ cold today.",
+          "a": "is"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "<b>To be</b> es el verbo más importante del inglés. Significa <mark>ser</mark> y también <mark>estar</mark>: ¡en inglés son el mismo verbo! Lo usamos para decir quiénes somos, cómo somos, cómo estamos, dónde estamos y cuántos años tenemos. En presente tiene solo <b>tres formas</b>: <b>am</b>, <b>is</b> y <b>are</b>.",
+      "en": "<b>To be</b> means <mark>ser</mark> and <mark>estar</mark>. In the present it has three forms: <b>am</b>, <b>is</b> and <b>are</b>.",
+      "formula": [
+        "Sujeto + *am / is / are* + …"
+      ],
+      "wide": true
+    },
+    {
+      "t": "table",
+      "title": "Los pronombres y su verbo",
+      "title_en": "Subject pronouns",
+      "icon": "👥",
+      "color": "purple",
+      "head": [
+        "Inglés",
+        "Español",
+        "To be",
+        "Forma corta"
+      ],
+      "rows": [
+        [
+          "<b>I</b>",
+          "yo",
+          "am",
+          "I<b>'m</b>"
+        ],
+        [
+          "<b>you</b>",
+          "tú / vosotros",
+          "are",
+          "you<b>'re</b>"
+        ],
+        [
+          "<b>he</b>",
+          "él",
+          "is",
+          "he<b>'s</b>"
+        ],
+        [
+          "<b>she</b>",
+          "ella",
+          "is",
+          "she<b>'s</b>"
+        ],
+        [
+          "<b>it</b>",
+          "(animal o cosa)",
+          "is",
+          "it<b>'s</b>"
+        ],
+        [
+          "<b>we</b>",
+          "nosotros/as",
+          "are",
+          "we<b>'re</b>"
+        ],
+        [
+          "<b>they</b>",
+          "ellos/as",
+          "are",
+          "they<b>'re</b>"
+        ]
+      ],
+      "note": "<b>I</b> siempre en mayúscula. <b>You</b> = tú y vosotros. <b>It</b> = una cosa o un animal. El apóstrofo (<b>'</b>) ocupa el sitio de la letra que se va: I <u>a</u>m → I'm.",
+      "note_en": "<b>I</b> is always a capital letter. <b>You</b> is singular and plural. <b>It</b> is for things and animals."
+    },
+    {
+      "t": "rule",
+      "title": "1 · Afirmativa",
+      "title_en": "Affirmative",
+      "icon": "✅",
+      "color": "green",
+      "es": "Con <b>I</b> usamos <b>am</b>. Con <b>he, she, it</b> (una persona, un animal o una cosa) usamos <b>is</b>. Con <b>you, we, they</b> usamos <b>are</b>. Al hablar casi siempre lo acortamos: <b>I'm</b>, <b>she's</b>, <b>we're</b>.",
+      "en": "I → <b>am</b>. He, she, it → <b>is</b>. You, we, they → <b>are</b>. We often use short forms: I'm, she's, we're.",
+      "formula": [
+        "I + *am*",
+        "he / she / it + *is*",
+        "you / we / they + *are*"
+      ],
+      "examples": [
+        {
+          "en": "I <b>am</b> Mario. I<b>'m</b> eight.",
+          "es": "Soy Mario. Tengo ocho años.",
+          "icon": "🙋"
+        },
+        {
+          "en": "My sister <b>is</b> tall.",
+          "es": "Mi hermana es alta.",
+          "icon": "👧"
+        },
+        {
+          "en": "We <b>are</b> in the park.",
+          "es": "Estamos en el parque.",
+          "icon": "🌳"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Negativa",
+      "title_en": "Negative",
+      "icon": "⛔",
+      "color": "red",
+      "es": "Para negar, ponemos <b>not</b> <mark>detrás del verbo</mark>: am not, is not, are not. Las formas cortas son <b>I'm not</b>, <b>isn't</b> y <b>aren't</b>. ¡Cuidado con el No-No! En inglés <em>no</em> se niega con «no» delante del verbo, y con to be <em>nunca</em> usamos don't ni doesn't.",
+      "en": "To make it negative, put <b>not</b> after the verb: I'm not, isn't, aren't. Don't use <em>no</em> or <em>don't</em>.",
+      "formula": [
+        "Sujeto + *am / is / are* + *not* + …"
+      ],
+      "examples": [
+        {
+          "en": "I<b>'m not</b> tired.",
+          "es": "No estoy cansado.",
+          "icon": "💪"
+        },
+        {
+          "en": "Rocky <b>isn't</b> hungry.",
+          "es": "Rocky no tiene hambre.",
+          "icon": "🐶"
+        },
+        {
+          "en": "They <b>aren't</b> at school.",
+          "es": "No están en el cole.",
+          "icon": "🏫"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿Ser o estar? ¡Da igual!",
+      "title_en": "Ser or estar? It's the same!",
+      "icon": "⚖️",
+      "color": "blue",
+      "es": "En español tenemos dos verbos, <b>ser</b> y <b>estar</b>. En inglés solo hay uno: <b>be</b>. ¡Más fácil!",
+      "en": "Spanish has two verbs, ser and estar. English has only one: <b>be</b>.",
+      "cols": [
+        {
+          "head": "🧍 Ser",
+          "color": "green",
+          "items": [
+            "I<b>'m</b> Mario. <i>(Soy)</i>",
+            "She<b>'s</b> tall. <i>(Es)</i>",
+            "It<b>'s</b> a dog. <i>(Es)</i>"
+          ]
+        },
+        {
+          "head": "📍 Estar",
+          "color": "orange",
+          "items": [
+            "I<b>'m</b> happy. <i>(Estoy)</i>",
+            "We<b>'re</b> at school. <i>(Estamos)</i>",
+            "Rocky <b>is</b> in the garden. <i>(Está)</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Preguntas",
+      "title_en": "Questions",
+      "icon": "❓",
+      "color": "blue",
+      "es": "Para preguntar, el verbo <b>salta delante</b> del sujeto: <i>You are happy.</i> → <b>Are</b> you happy? Es el truco del <b>Verbo Saltarín</b>. ¡No basta con poner los signos de interrogación! Y con to be <em>nunca</em> usamos do ni does.",
+      "en": "To ask a question, the verb jumps <mark>before the subject</mark>: Are you happy? No do / does.",
+      "formula": [
+        "*Am / Is / Are* + sujeto + …?"
+      ],
+      "examples": [
+        {
+          "en": "<b>Are</b> you hungry?",
+          "es": "¿Tienes hambre?",
+          "icon": "🍕"
+        },
+        {
+          "en": "<b>Is</b> Lucía at home?",
+          "es": "¿Está Lucía en casa?",
+          "icon": "🏠"
+        },
+        {
+          "en": "<b>Is</b> it your pencil?",
+          "es": "¿Es tu lápiz?",
+          "icon": "✏️"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "4 · Respuestas cortas",
+      "title_en": "Short answers",
+      "icon": "💬",
+      "color": "teal",
+      "head": [
+        "Pregunta · Question",
+        "Sí · Yes",
+        "No"
+      ],
+      "rows": [
+        [
+          "Are you happy?",
+          "Yes, I <b>am</b>.",
+          "No, I<b>'m not</b>."
+        ],
+        [
+          "Is he tall?",
+          "Yes, he <b>is</b>.",
+          "No, he <b>isn't</b>."
+        ],
+        [
+          "Is it a cat?",
+          "Yes, it <b>is</b>.",
+          "No, it <b>isn't</b>."
+        ],
+        [
+          "Are we late?",
+          "Yes, we <b>are</b>.",
+          "No, we <b>aren't</b>."
+        ],
+        [
+          "Are they friends?",
+          "Yes, they <b>are</b>.",
+          "No, they <b>aren't</b>."
+        ]
+      ],
+      "note": "En el <b>Yes</b> no se acorta: <s>Yes, I'm.</s> → Yes, I <b>am</b>.",
+      "note_en": "No short forms in Yes answers."
+    },
+    {
+      "t": "table",
+      "title": "Todo junto",
+      "title_en": "All together",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Sujeto · Subject",
+        "✅ Afirmativa",
+        "⛔ Negativa",
+        "❓ Pregunta",
+        "💬 Respuesta corta"
+      ],
+      "rows": [
+        [
+          "I",
+          "I<b>'m</b> happy.",
+          "I<b>'m not</b> happy.",
+          "<b>Am</b> I happy?",
+          "Yes, I am. / No, I'm not."
+        ],
+        [
+          "you",
+          "You<b>'re</b> happy.",
+          "You <b>aren't</b> happy.",
+          "<b>Are</b> you happy?",
+          "Yes, you are. / No, you aren't."
+        ],
+        [
+          "he",
+          "He<b>'s</b> happy.",
+          "He <b>isn't</b> happy.",
+          "<b>Is</b> he happy?",
+          "Yes, he is. / No, he isn't."
+        ],
+        [
+          "she",
+          "She<b>'s</b> happy.",
+          "She <b>isn't</b> happy.",
+          "<b>Is</b> she happy?",
+          "Yes, she is. / No, she isn't."
+        ],
+        [
+          "it",
+          "It<b>'s</b> big.",
+          "It <b>isn't</b> big.",
+          "<b>Is</b> it big?",
+          "Yes, it is. / No, it isn't."
+        ],
+        [
+          "we",
+          "We<b>'re</b> happy.",
+          "We <b>aren't</b> happy.",
+          "<b>Are</b> we happy?",
+          "Yes, we are. / No, we aren't."
+        ],
+        [
+          "they",
+          "They<b>'re</b> happy.",
+          "They <b>aren't</b> happy.",
+          "<b>Are</b> they happy?",
+          "Yes, they are. / No, they aren't."
+        ]
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · La edad y «tener» con BE",
+      "title_en": "Age and feelings with be",
+      "icon": "🎂",
+      "color": "pink",
+      "es": "En español decimos <b>tengo</b> 8 años, <b>tengo</b> hambre, <b>tengo</b> frío. En inglés, ¡todo eso va con <mark>TO BE</mark>! <i>I'm eight. I'm hungry. I'm cold.</i> Para preguntar la edad: <b>How old are you?</b> — I'm eight (years old).",
+      "en": "Age, hunger, thirst, cold and heat go with <b>be</b>: I'm eight. I'm hungry. How old are you?",
+      "formula": [
+        "*How old are you?* + I'm eight (years old)."
+      ],
+      "examples": [
+        {
+          "en": "How old are you? — I<b>'m</b> eight.",
+          "es": "¿Cuántos años tienes? — Tengo ocho.",
+          "icon": "🎂"
+        },
+        {
+          "en": "Lucía <b>is</b> twelve years old.",
+          "es": "Lucía tiene doce años.",
+          "icon": "👧"
+        },
+        {
+          "en": "I<b>'m</b> hungry and thirsty!",
+          "es": "¡Tengo hambre y sed!",
+          "icon": "🍔"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · ¡Siempre con sujeto!",
+      "title_en": "Always use a subject",
+      "icon": "👤",
+      "color": "purple",
+      "es": "En español podemos quitar el sujeto: «Es alto», «Hace frío», «Es lunes». En inglés <mark>siempre hay sujeto</mark>. Si no hay persona, usamos <b>it</b>: para el tiempo, la hora, los días y las cosas. <s>Is tall.</s> → <b>He</b> is tall. <s>Is cold.</s> → <b>It</b>'s cold.",
+      "en": "English sentences always need a subject. Use <b>it</b> for the weather, the time, days and things.",
+      "examples": [
+        {
+          "en": "<b>He</b>'s tall.",
+          "es": "Es alto.",
+          "icon": "🧍"
+        },
+        {
+          "en": "<b>It</b>'s cold today.",
+          "es": "Hoy hace frío.",
+          "icon": "❄️"
+        },
+        {
+          "en": "<b>It</b>'s Monday.",
+          "es": "Es lunes.",
+          "icon": "📅"
+        }
+      ]
+    },
+    {
+      "t": "vocab",
+      "title": "¿Ser, estar o tener? ¡En inglés, BE!",
+      "title_en": "Words we use with be",
+      "icon": "🎭",
+      "color": "pink",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "be hungry",
+          "es": "tener hambre",
+          "icon": "🍔"
+        },
+        {
+          "en": "be thirsty",
+          "es": "tener sed",
+          "icon": "🥤"
+        },
+        {
+          "en": "be cold",
+          "es": "tener frío",
+          "icon": "🥶"
+        },
+        {
+          "en": "be hot",
+          "es": "tener calor",
+          "icon": "🥵"
+        },
+        {
+          "en": "be scared",
+          "es": "tener miedo",
+          "icon": "😱"
+        },
+        {
+          "en": "be tired",
+          "es": "estar cansado",
+          "icon": "😴"
+        },
+        {
+          "en": "be happy",
+          "es": "estar contento",
+          "icon": "😄"
+        },
+        {
+          "en": "be sad",
+          "es": "estar triste",
+          "icon": "😢"
+        },
+        {
+          "en": "be angry",
+          "es": "estar enfadado",
+          "icon": "😠"
+        },
+        {
+          "en": "be ill",
+          "es": "estar enfermo",
+          "icon": "🤒"
+        },
+        {
+          "en": "be bored",
+          "es": "estar aburrido",
+          "icon": "🥱"
+        },
+        {
+          "en": "be late",
+          "es": "llegar tarde",
+          "icon": "⏰"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco: am, is, are",
+      "title_en": "Am, is, are trick",
+      "es": "Recítalo como una canción: <b>I am, you are, he is, she is, it is, we are, they are</b>. <b>Am</b> es solo para <b>I</b>. <b>Uno solo</b> (he, she, it, Mario, my dog) → <b>is</b>. <b>Varios</b>, o <b>you</b> → <b>are</b>.",
+      "en": "Am is only for I. One → is. More than one, or you → are."
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Busca el <b>sujeto</b>. ¿No hay? ¡Ponlo! (He, She, <b>It</b>…)",
+          "en": "Find the subject. No subject? Add one!"
+        },
+        {
+          "es": "Elige el verbo: I → <b>am</b> · he / she / it → <b>is</b> · you / we / they → <b>are</b>.",
+          "en": "Choose am, is or are."
+        },
+        {
+          "es": "¿Negativa? Añade <b>not</b> detrás: I'm not, isn't, aren't.",
+          "en": "Negative? Add not after the verb."
+        },
+        {
+          "es": "¿Pregunta? El verbo <b>salta delante</b>: Is she…? Are you…?",
+          "en": "Question? The verb jumps to the front."
+        },
+        {
+          "es": "¿Edad, hambre, sed, frío? ¡También con <b>be</b>, nunca con have!",
+          "en": "Age, hungry, thirsty, cold → be, not have."
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "Hi! I'm Anna. I'm from London.",
+          "es": "¡Hola! Soy Anna. Soy de Londres.",
+          "icon": "👋"
+        },
+        {
+          "en": "My mum is a teacher.",
+          "es": "Mi madre es profesora.",
+          "icon": "👩‍🏫"
+        },
+        {
+          "en": "Leo and Tom are in the playground.",
+          "es": "Leo y Tom están en el patio.",
+          "icon": "⚽"
+        },
+        {
+          "en": "Rocky isn't in the garden. He's on the sofa.",
+          "es": "Rocky no está en el jardín. Está en el sofá.",
+          "icon": "🛋️"
+        },
+        {
+          "en": "Are you ready? — Yes, I am!",
+          "es": "¿Estás listo? — ¡Sí!",
+          "icon": "🏁"
+        },
+        {
+          "en": "Is your teacher nice? — Yes, she is.",
+          "es": "¿Tu profe es simpática? — Sí.",
+          "icon": "😊"
+        },
+        {
+          "en": "I'm not scared of the dark.",
+          "es": "No tengo miedo a la oscuridad.",
+          "icon": "🌙"
+        },
+        {
+          "en": "We're late for school!",
+          "es": "¡Llegamos tarde al cole!",
+          "icon": "⏰"
+        },
+        {
+          "en": "Are they brothers? — No, they aren't. They're friends.",
+          "es": "¿Son hermanos? — No. Son amigos.",
+          "icon": "👦"
+        },
+        {
+          "en": "How old is Lucía? — She's twelve.",
+          "es": "¿Cuántos años tiene Lucía? — Tiene doce.",
+          "icon": "🎂"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "trampas",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I have eight years.",
+          "good": "I <b>am</b> eight.",
+          "why": "La edad va con to be, no con have.",
+          "why_en": "Age goes with be."
+        },
+        {
+          "bad": "I have hungry.",
+          "good": "I <b>am</b> hungry.",
+          "why": "Tener hambre, sed, frío… = be hungry, thirsty, cold.",
+          "why_en": "Hungry, thirsty, cold go with be."
+        },
+        {
+          "bad": "Is tall.",
+          "good": "<b>He</b> is tall.",
+          "why": "En inglés siempre hay sujeto.",
+          "why_en": "Always use a subject."
+        },
+        {
+          "bad": "Is cold today.",
+          "good": "<b>It</b>'s cold today.",
+          "why": "Para el tiempo usamos it.",
+          "why_en": "Use it for the weather."
+        },
+        {
+          "bad": "She no is at home.",
+          "good": "She <b>isn't</b> at home.",
+          "why": "Negamos con not, detrás del verbo.",
+          "why_en": "Use not after the verb."
+        },
+        {
+          "bad": "You are happy?",
+          "good": "<b>Are you</b> happy?",
+          "why": "En la pregunta, el verbo salta delante.",
+          "why_en": "The verb goes first in questions."
+        },
+        {
+          "bad": "Do you are ready?",
+          "good": "<b>Are</b> you ready?",
+          "why": "To be no usa do ni does.",
+          "why_en": "Be doesn't use do / does."
+        },
+        {
+          "bad": "Yes, I'm.",
+          "good": "Yes, I <b>am</b>.",
+          "why": "En el Yes corto no se acorta.",
+          "why_en": "No short form in Yes answers."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "El primer día de cole",
+      "title_en": "The first day at school",
+      "lines": [
+        {
+          "who": "Anna",
+          "en": "Hi! I'm Anna. I'm new.",
+          "es": "¡Hola! Soy Anna. Soy nueva."
+        },
+        {
+          "who": "Mario",
+          "en": "Hi, Anna! I'm Mario. Are you from Spain?",
+          "es": "¡Hola! Soy Mario. ¿Eres de España?"
+        },
+        {
+          "who": "Anna",
+          "en": "No, I'm not. I'm from London.",
+          "es": "No. Soy de Londres."
+        },
+        {
+          "who": "Mario",
+          "en": "Cool! How old are you?",
+          "es": "¡Qué guay! ¿Cuántos años tienes?"
+        },
+        {
+          "who": "Anna",
+          "en": "I'm eight. Is that your dog?",
+          "es": "Tengo ocho. ¿Es tu perro?"
+        },
+        {
+          "who": "Mario",
+          "en": "Yes, it is. He's Rocky!",
+          "es": "Sí. ¡Es Rocky!"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "Une pregunta y respuesta",
+      "title_en": "Match questions and answers",
+      "icon": "🔗",
+      "es": "Une cada pregunta con su respuesta.",
+      "en": "Match each question with its answer.",
+      "pairs": [
+        [
+          "Are you hungry?",
+          "Yes, I am. I want a sandwich!"
+        ],
+        [
+          "Is Rocky in the garden?",
+          "No, he isn't. He's on the sofa."
+        ],
+        [
+          "How old are you?",
+          "I'm eight."
+        ],
+        [
+          "Are Leo and Sara your friends?",
+          "Yes, they are."
+        ],
+        [
+          "Is it cold today?",
+          "No, it isn't. It's sunny."
+        ],
+        [
+          "Where are you from?",
+          "I'm from Spain."
+        ],
+        [
+          "Is your mum a teacher?",
+          "Yes, she is."
+        ],
+        [
+          "Are you tired?",
+          "No, I'm not. I'm OK!"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "am, is o are",
+      "title_en": "am, is or are",
+      "icon": "😊",
+      "es": "Subraya el sujeto y completa con am, is o are.",
+      "en": "Underline the subject and complete with am, is or are.",
+      "bank": [
+        "am",
+        "is",
+        "are"
+      ],
+      "items": [
+        {
+          "q": "I ___ eight years old.",
+          "a": "am"
+        },
+        {
+          "q": "My mum ___ a doctor.",
+          "a": "is"
+        },
+        {
+          "q": "We ___ in the classroom.",
+          "a": "are"
+        },
+        {
+          "q": "Rocky ___ in the garden.",
+          "a": "is"
+        },
+        {
+          "q": "You ___ my best friend.",
+          "a": "are"
+        },
+        {
+          "q": "Leo and Sara ___ at the park.",
+          "a": "are"
+        },
+        {
+          "q": "It ___ a big school.",
+          "a": "is"
+        },
+        {
+          "q": "Lucía ___ twelve.",
+          "a": "is"
+        },
+        {
+          "q": "My grandparents ___ from Sevilla.",
+          "a": "are"
+        },
+        {
+          "q": "The cats ___ hungry.",
+          "a": "are"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Ser, estar o tener?",
+      "title_en": "Ser, estar or tener?",
+      "icon": "🗂️",
+      "es": "En inglés todas van con BE, pero ¿cómo se dicen en español? Escribe cada frase en su caja.",
+      "en": "All these sentences use be. Sort them by the Spanish verb.",
+      "cats": [
+        {
+          "name": "ser",
+          "words": [
+            "I'm tall.",
+            "She's a teacher.",
+            "We're from Spain.",
+            "He's my friend."
+          ]
+        },
+        {
+          "name": "estar",
+          "words": [
+            "I'm at school.",
+            "I'm tired.",
+            "The cat is in the garden.",
+            "She's ill."
+          ]
+        },
+        {
+          "name": "tener",
+          "words": [
+            "I'm hungry.",
+            "I'm thirsty.",
+            "I'm eight.",
+            "I'm cold.",
+            "I'm scared."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct word",
+      "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "I [am|is|are] Mario.",
+          "a": "am"
+        },
+        {
+          "q": "She [am|is|are] my sister.",
+          "a": "is"
+        },
+        {
+          "q": "They [am|is|are] my friends.",
+          "a": "are"
+        },
+        {
+          "q": "[Am|Is|Are] you hungry?",
+          "a": "Are"
+        },
+        {
+          "q": "Rocky [isn't|aren't] a cat.",
+          "a": "isn't"
+        },
+        {
+          "q": "We [isn't|aren't] at home.",
+          "a": "aren't"
+        },
+        {
+          "q": "[Is|It's] cold today.",
+          "a": "It's"
+        },
+        {
+          "q": "[Is|Are] Leo and Tom brothers?",
+          "a": "Are"
+        },
+        {
+          "q": "I [have|am] nine years old.",
+          "a": "am"
+        },
+        {
+          "q": "We [have|are] thirsty.",
+          "a": "are"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Bien o mal?",
+      "title_en": "Right or wrong?",
+      "icon": "✅",
+      "es": "¿La frase está bien (T) o mal (F)? Si está mal, piensa por qué.",
+      "en": "Is the sentence right (T) or wrong (F)?",
+      "items": [
+        {
+          "q": "I am eight years old.",
+          "a": true
+        },
+        {
+          "q": "She are my sister.",
+          "a": false,
+          "why": "She <b>is</b> my sister."
+        },
+        {
+          "q": "Is cold today.",
+          "a": false,
+          "why": "<b>It's</b> cold today."
+        },
+        {
+          "q": "They aren't at school.",
+          "a": true
+        },
+        {
+          "q": "Are you tired?",
+          "a": true
+        },
+        {
+          "q": "He no is happy.",
+          "a": false,
+          "why": "He <b>isn't</b> happy."
+        },
+        {
+          "q": "I have hungry.",
+          "a": false,
+          "why": "I <b>am</b> hungry."
+        },
+        {
+          "q": "Yes, she is.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Formas cortas",
+      "title_en": "Short forms",
+      "icon": "📋",
+      "es": "Escribe la forma corta y la negativa corta.",
+      "en": "Write the short form and the short negative.",
+      "head": [
+        "Forma larga",
+        "Forma corta",
+        "Negativa"
+      ],
+      "rows": [
+        [
+          "I am",
+          "?I'm",
+          "?I'm not"
+        ],
+        [
+          "you are",
+          "?you're",
+          "?you aren't"
+        ],
+        [
+          "he is",
+          "?he's",
+          "?he isn't"
+        ],
+        [
+          "she is",
+          "?she's",
+          "?she isn't"
+        ],
+        [
+          "it is",
+          "?it's",
+          "?it isn't"
+        ],
+        [
+          "we are",
+          "?we're",
+          "?we aren't"
+        ],
+        [
+          "they are",
+          "?they're",
+          "?they aren't"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Respuestas cortas",
+      "title_en": "Short answers",
+      "icon": "💬",
+      "es": "Completa la respuesta corta. Recuerda: en el Yes, ¡sin forma corta!",
+      "en": "Complete the short answer.",
+      "items": [
+        {
+          "q": "Are you hungry? — Yes, I ___.",
+          "a": "am"
+        },
+        {
+          "q": "Is Rocky in the garden? — No, he ____.",
+          "a": "isn't"
+        },
+        {
+          "q": "Are they your friends? — Yes, they ___.",
+          "a": "are"
+        },
+        {
+          "q": "Is it cold today? — No, it ____.",
+          "a": "isn't"
+        },
+        {
+          "q": "Is Lucía twelve? — Yes, she ___.",
+          "a": "is"
+        },
+        {
+          "q": "Are you tired? — No, ____.",
+          "a": "I'm not"
+        },
+        {
+          "q": "Is your dad a teacher? — Yes, he ___.",
+          "a": "is"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Negativa y pregunta",
+      "title_en": "Negative and question",
+      "icon": "⛔",
+      "es": "Escribe cada frase en negativa (not) y en pregunta (el verbo salta delante). Recuerda: con to be NO se usa do/does.",
+      "en": "Write each sentence in the negative and as a question.",
+      "labels": [
+        "⛔",
+        "❓"
+      ],
+      "items": [
+        {
+          "q": "He is hungry.",
+          "a": [
+            "He isn't hungry.",
+            "Is he hungry?"
+          ]
+        },
+        {
+          "q": "They are at home.",
+          "a": [
+            "They aren't at home.",
+            "Are they at home?"
+          ]
+        },
+        {
+          "q": "You are tired.",
+          "a": [
+            "You aren't tired.",
+            "Are you tired?"
+          ]
+        },
+        {
+          "q": "It is a cat.",
+          "a": [
+            "It isn't a cat.",
+            "Is it a cat?"
+          ]
+        },
+        {
+          "q": "Lucía is at school.",
+          "a": [
+            "Lucía isn't at school.",
+            "Is Lucía at school?"
+          ]
+        },
+        {
+          "q": "We are late.",
+          "a": [
+            "We aren't late.",
+            "Are we late?"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {
+          "q": "am / I / years / eight / old",
+          "a": "I am eight years old."
+        },
+        {
+          "q": "you / are / hungry / ?",
+          "a": "Are you hungry?"
+        },
+        {
+          "q": "isn't / Rocky / the garden / in",
+          "a": "Rocky isn't in the garden."
+        },
+        {
+          "q": "not / I'm / tired",
+          "a": "I'm not tired."
+        },
+        {
+          "q": "they / at school / are / ?",
+          "a": "Are they at school?"
+        },
+        {
+          "q": "cold / it's / today",
+          "a": "It's cold today."
+        },
+        {
+          "q": "we / friends / best / are",
+          "a": "We are best friends."
+        },
+        {
+          "q": "is / your / how / brother / old / ?",
+          "a": "How old is your brother?"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "I have nine years.",
+          "a": "I am nine (years old)."
+        },
+        {
+          "q": "She are my teacher.",
+          "a": "She is my teacher."
+        },
+        {
+          "q": "Is very big.",
+          "a": "It is very big. / It's very big."
+        },
+        {
+          "q": "We no are at home.",
+          "a": "We aren't at home."
+        },
+        {
+          "q": "You are ready?",
+          "a": "Are you ready?"
+        },
+        {
+          "q": "Do you are tired?",
+          "a": "Are you tired?"
+        },
+        {
+          "q": "They is my cousins.",
+          "a": "They are my cousins."
+        },
+        {
+          "q": "Yes, he's.",
+          "a": "Yes, he is."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿cuál es el sujeto? ¿am, is o are? ¡Cuidado con «tener»!",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Tengo ocho años.",
+          "a": "I'm eight (years old)."
+        },
+        {
+          "q": "Tengo hambre.",
+          "a": "I'm hungry."
+        },
+        {
+          "q": "Hace frío.",
+          "a": "It's cold."
+        },
+        {
+          "q": "Mi hermana no está en casa.",
+          "a": "My sister isn't at home."
+        },
+        {
+          "q": "¿Estás cansado?",
+          "a": "Are you tired?"
+        },
+        {
+          "q": "Somos amigos.",
+          "a": "We're friends."
+        },
+        {
+          "q": "¿Cuántos años tienes?",
+          "a": "How old are you?"
+        },
+        {
+          "q": "Rocky es muy simpático.",
+          "a": "Rocky is very friendly. / Rocky is very nice."
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Cambia por un pronombre",
+      "title_en": "Use a pronoun",
+      "icon": "👥",
+      "es": "Escribe el pronombre que sustituye a las palabras subrayadas: I, he, she, it, we o they.",
+      "en": "Write the pronoun: I, he, she, it, we or they.",
+      "bank": [
+        "he",
+        "she",
+        "it",
+        "we",
+        "they"
+      ],
+      "items": [
+        {
+          "q": "<u>Lucía</u> is twelve. → ___ is twelve.",
+          "a": "She"
+        },
+        {
+          "q": "<u>My dad</u> is tall. → ___ is tall.",
+          "a": "He"
+        },
+        {
+          "q": "<u>The book</u> is new. → ___ is new.",
+          "a": "It"
+        },
+        {
+          "q": "<u>Leo and Tom</u> are at school. → ___ are at school.",
+          "a": "They"
+        },
+        {
+          "q": "<u>Anna and I</u> are friends. → ___ are friends.",
+          "a": "We"
+        },
+        {
+          "q": "<u>The cat</u> is black. → ___ is black.",
+          "a": "It"
+        },
+        {
+          "q": "<u>My mum</u> is a doctor. → ___ is a doctor.",
+          "a": "She"
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea la palabra",
+      "title_en": "Spell the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en las cajas.",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        {
+          "q": "🍔 (tener) hambre",
+          "a": "hungry"
+        },
+        {
+          "q": "🥤 (tener) sed",
+          "a": "thirsty"
+        },
+        {
+          "q": "😴 cansado",
+          "a": "tired"
+        },
+        {
+          "q": "😄 contento",
+          "a": "happy"
+        },
+        {
+          "q": "😠 enfadado",
+          "a": "angry"
+        },
+        {
+          "q": "😱 asustado",
+          "a": "scared"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca las 10 palabras. Después escribe 2 frases sobre ti: I'm… / I'm not…",
+      "en": "Find the 10 words. Then write two sentences about you.",
+      "words": [
+        "hungry",
+        "thirsty",
+        "tired",
+        "happy",
+        "sad",
+        "angry",
+        "scared",
+        "cold",
+        "hot",
+        "bored"
+      ],
+      "clues": [
+        "hungry · con hambre",
+        "thirsty · con sed",
+        "tired · cansado",
+        "happy · contento",
+        "sad · triste",
+        "angry · enfadado",
+        "scared · asustado",
+        "cold · con frío",
+        "hot · con calor",
+        "bored · aburrido"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "My new friend",
+      "text": [
+        "Hi! I'm Mario and I'm eight. This is my new friend, Anna. She's eight too. She isn't from Spain. She's from London, in England.",
+        "Anna is very tall and her hair is red. She's funny and she's very good at football! Her brother, Tom, is ten. He isn't in our class.",
+        "Today we're at the park with Rocky, my dog. It's hot and we're thirsty. Rocky is thirsty too!"
+      ],
+      "items": [
+        {
+          "q": "Anna is from Spain.",
+          "tf": true,
+          "a": false,
+          "why": "She's from London, in England."
+        },
+        {
+          "q": "Anna is eight.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Tom is in Mario's class.",
+          "tf": true,
+          "a": false,
+          "why": "He isn't in their class."
+        },
+        {
+          "q": "How old is Tom?",
+          "a": "He's ten."
+        },
+        {
+          "q": "Where are Mario and Anna today?",
+          "a": "They're at the park."
+        },
+        {
+          "q": "Is it cold today?",
+          "a": "No, it isn't. It's hot."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe frases sobre ti y tu familia. Usa am, is, are, isn't y aren't.",
+      "en": "Write about you and your family.",
+      "items": [
+        {
+          "q": "Preséntate: tu nombre, tu edad y de dónde eres.",
+          "lines": 2,
+          "a": "Ej.: I'm Mario. I'm eight. I'm from Spain."
+        },
+        {
+          "q": "Describe a alguien de tu familia con <b>he</b> o <b>she</b>.",
+          "lines": 2,
+          "a": "Ej.: My sister is Lucía. She's twelve. She's tall."
+        },
+        {
+          "q": "Escribe 2 cosas que <b>no</b> eres o <b>no</b> estás ahora.",
+          "lines": 2,
+          "a": "Ej.: I'm not tired. I'm not at school."
+        },
+        {
+          "q": "Escribe 2 preguntas para un amigo: Are you…?",
+          "lines": 2,
+          "a": "Ej.: Are you hungry? Are you happy?"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé usar <b>am</b>, <b>is</b> y <b>are</b> con cada pronombre.",
+      "en": "I can use am, is and are."
+    },
+    {
+      "es": "Uso las formas cortas: <b>I'm</b>, <b>she's</b>, <b>we're</b>…",
+      "en": "I can use short forms."
+    },
+    {
+      "es": "Niego con <b>not</b>: isn't, aren't, I'm not (¡nunca «no»!).",
+      "en": "I can make negatives with not."
+    },
+    {
+      "es": "Pregunto con el verbo delante: <b>Are you…? Is she…?</b>",
+      "en": "I can ask questions with be."
+    },
+    {
+      "es": "Contesto con respuestas cortas: Yes, I am. / No, she isn't.",
+      "en": "I can give short answers."
+    },
+    {
+      "es": "Digo mi edad y cómo me siento con <b>be</b>: I'm eight. I'm hungry.",
+      "en": "I say my age and feelings with be."
+    },
+    {
+      "es": "Nunca olvido el sujeto: <b>It</b>'s cold. <b>He</b>'s tall.",
+      "en": "I always use a subject."
+    }
+  ]
+}

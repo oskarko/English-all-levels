@@ -1,0 +1,485 @@
+{
+  "id": "A2-09",
+  "level": "A2",
+  "title": "EL FUTURO CON <em>GOING TO</em>",
+  "file_title": "Going to",
+  "subtitle": "Be going to · planes y predicciones",
+  "icon": "🔮",
+  "map": {
+    "center": "Usamos <b>BE GOING TO</b> + verbo para hablar de <b>planes</b> ya decididos y de cosas que <b>vemos</b> que van a pasar.",
+    "nodes": [
+      {
+        "title": "Planes", "icon": "📝",
+        "items": ["Cosas que ya has <b>decidido</b> hacer:", "I'm <b>going to</b> visit my grandma. <i>(Voy a visitar…)</i>", "We're <b>going to</b> play football."]
+      },
+      {
+        "title": "Predicciones", "icon": "👀", "art": "🌧️",
+        "items": ["Lo <b>ves</b> venir (hay pistas):", "Look at those clouds! It's <b>going to</b> rain.", "Watch out! You're <b>going to</b> fall!"]
+      },
+      {
+        "title": "Afirmativa", "icon": "✅",
+        "rows": [["I", "<b>am</b> going to + verbo"], ["he / she / it", "<b>is</b> going to + verbo"], ["you / we / they", "<b>are</b> going to + verbo"]]
+      },
+      {
+        "title": "Negativa", "icon": "⛔",
+        "items": ["I'm <b>not</b> going to cry.", "She <b>isn't</b> going to come.", "They <b>aren't</b> going to win."]
+      },
+      {
+        "title": "Preguntas", "icon": "❓", "art": "🤔",
+        "items": ["<b>Are</b> you going to play? — Yes, I am.", "<b>Is</b> Leo going to come? — No, he isn't.", "What <b>are</b> you going to do?"]
+      },
+      {
+        "title": "Palabras clave", "icon": "⏰",
+        "chips": ["tomorrow", "tonight", "next week", "next summer", "this weekend", "soon"],
+        "after": "Tras <b>going to</b>: verbo sin -s ni -ing."
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["I going to play football."],
+      "good": ["I'm going to play football."],
+      "note": "¡No olvides <b>am / is / are</b>!"
+    },
+    "mini": {
+      "es": "Completa con going to (am / is / are).",
+      "en": "Complete with am / is / are going to.",
+      "items": [
+        { "q": "I ____ visit my grandma.", "a": "am going to" },
+        { "q": "Look at the sky! It ____ rain.", "a": "is going to" },
+        { "q": "We ____ play tennis tomorrow.", "a": "are going to" },
+        { "q": "Lucía ____ make a cake.", "a": "is going to" },
+        { "q": "___ you going to watch the match?", "a": "Are" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "<b>Be going to</b> es como decir <mark>«voy a…»</mark> en español: <i>Voy a jugar</i> = <b>I'm going to play</b>. Lo usamos para dos cosas: <b>planes</b> que ya hemos decidido (mañana voy a ver a mi abuela) y <b>predicciones</b> cuando vemos pistas de que algo va a pasar (¡mira esas nubes, va a llover!). Se forma con el verbo <b>to be</b> + <b>going to</b> + un verbo en <b>infinitivo</b>.",
+      "en": "<b>Be going to</b> = «voy a…». We use it for <b>plans</b> and for <b>predictions</b> when we can see something is going to happen.",
+      "formula": ["Sujeto + *am / is / are* + *going to* + verbo"]
+    },
+    {
+      "t": "rule", "title": "1 · Planes e intenciones", "title_en": "Plans and intentions", "icon": "📝", "color": "green",
+      "es": "Cuando ya has <b>decidido</b> hacer algo (antes de hablar), usa <b>going to</b>. Muchas veces va con una palabra de futuro: <i>tomorrow, next week, this weekend</i>.",
+      "en": "Use <b>going to</b> for things you have already decided to do.",
+      "formula": ["I + *'m going to* + visit my grandma"],
+      "examples": [
+        { "en": "I'm <b>going to</b> visit my grandma tomorrow.", "es": "Mañana voy a visitar a mi abuela.", "icon": "👵" },
+        { "en": "We're <b>going to</b> play football after school.", "es": "Vamos a jugar al fútbol después del cole.", "icon": "⚽" },
+        { "en": "Lucía is <b>going to</b> learn to swim this summer.", "es": "Lucía va a aprender a nadar este verano.", "icon": "🏊" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · Predicciones con pistas", "title_en": "Predictions with evidence", "icon": "👀", "color": "blue",
+      "es": "También usamos <b>going to</b> cuando <mark>vemos pistas</mark> de que algo va a pasar muy pronto. Es como ser un detective 🕵️: miras, ves una prueba y dices lo que va a pasar.",
+      "en": "We also use <b>going to</b> when we can see that something is going to happen.",
+      "formula": ["pista 👀 + it's + *going to* + rain"],
+      "examples": [
+        { "en": "Look at those black clouds! It's <b>going to</b> rain.", "es": "¡Mira esas nubes negras! Va a llover.", "icon": "🌧️" },
+        { "en": "Watch out! You're <b>going to</b> fall!", "es": "¡Cuidado! ¡Te vas a caer!", "icon": "🛹" },
+        { "en": "Leo is running very fast. He's <b>going to</b> win!", "es": "Leo corre muy rápido. ¡Va a ganar!", "icon": "🏃" }
+      ]
+    },
+    {
+      "t": "table", "title": "3 · Afirmativa", "title_en": "Affirmative", "icon": "✅", "color": "purple",
+      "head": ["Forma larga · Long", "Forma corta · Short"],
+      "rows": [
+        ["I am going to", "I<b>'m</b> going to"],
+        ["you are going to", "you<b>'re</b> going to"],
+        ["he is going to", "he<b>'s</b> going to"],
+        ["she is going to", "she<b>'s</b> going to"],
+        ["it is going to", "it<b>'s</b> going to"],
+        ["we are going to", "we<b>'re</b> going to"],
+        ["they are going to", "they<b>'re</b> going to"]
+      ],
+      "note": "Después de <b>going to</b> el verbo va en <b>infinitivo</b>: sin -s, sin -ing, sin -ed. <i>She's going to <u>play</u></i> (no <s>plays</s>, no <s>playing</s>). <small>En canciones oirás <i>gonna</i> = going to, ¡pero no lo escribas en el cole!</small>",
+      "note_en": "After <b>going to</b>, use the base verb: no -s, no -ing."
+    },
+    {
+      "t": "rule", "title": "4 · Negativa", "title_en": "Negative", "icon": "⛔", "color": "red",
+      "es": "Para la negativa ponemos <b>not</b> después de am / is / are: <b>I'm not</b>, <b>isn't</b>, <b>aren't</b> + going to + verbo. ¡No uses <em>don't</em> ni <em>no</em>!",
+      "en": "Put <b>not</b> after am / is / are: <b>I'm not / isn't / aren't going to</b>.",
+      "formula": ["I + *'m not* + going to + verbo", "he / she / it + *isn't* + going to + verbo", "you / we / they + *aren't* + going to + verbo"],
+      "examples": [
+        { "en": "I'm <b>not going to</b> eat broccoli!", "es": "¡No voy a comer brócoli!", "icon": "🥦" },
+        { "en": "Tom <b>isn't going to</b> come to the party.", "es": "Tom no va a venir a la fiesta.", "icon": "🎉" },
+        { "en": "We <b>aren't going to</b> watch TV tonight.", "es": "Esta noche no vamos a ver la tele.", "icon": "📺" }
+      ]
+    },
+    {
+      "t": "rule", "title": "5 · Preguntas", "title_en": "Questions", "icon": "❓", "color": "orange",
+      "es": "Para preguntar, el verbo <b>to be</b> salta delante del sujeto (¡como el Verbo Saltarín!): <b>Are you going to…?</b> <b>Is she going to…?</b> Con <b>What, Where, When, Who</b>, esa palabra va la primera.",
+      "en": "Questions: <b>Am / Is / Are</b> + subject + going to + verb? With Wh- words: <b>What are you going to do?</b>",
+      "formula": ["*Am / Is / Are* + sujeto + going to + verbo?", "*What / Where / When* + are + you + going to + verbo?"],
+      "examples": [
+        { "en": "<b>Are</b> you going to play tennis tomorrow?", "es": "¿Vas a jugar al tenis mañana?", "icon": "🎾" },
+        { "en": "<b>Is</b> it going to snow?", "es": "¿Va a nevar?", "icon": "❄️" },
+        { "en": "<b>What are</b> you going to do this weekend?", "es": "¿Qué vas a hacer este fin de semana?", "icon": "🗓️" },
+        { "en": "<b>Where are</b> they going to go on holiday?", "es": "¿Adónde van a ir de vacaciones?", "icon": "✈️" }
+      ]
+    },
+    {
+      "t": "table", "title": "6 · Respuestas cortas", "title_en": "Short answers", "icon": "💬", "color": "teal",
+      "head": ["Pregunta · Question", "Sí · Yes", "No"],
+      "rows": [
+        ["Am I going to win?", "Yes, you <b>are</b>.", "No, you <b>aren't</b>."],
+        ["Are you going to come?", "Yes, I <b>am</b>.", "No, I<b>'m not</b>."],
+        ["Is he going to play?", "Yes, he <b>is</b>.", "No, he <b>isn't</b>."],
+        ["Is she going to sing?", "Yes, she <b>is</b>.", "No, she <b>isn't</b>."],
+        ["Is it going to rain?", "Yes, it <b>is</b>.", "No, it <b>isn't</b>."],
+        ["Are we going to swim?", "Yes, we <b>are</b>.", "No, we <b>aren't</b>."],
+        ["Are they going to help?", "Yes, they <b>are</b>.", "No, they <b>aren't</b>."]
+      ],
+      "note": "En la respuesta corta <b>no</b> repetimos going to: <s>Yes, I am going to.</s> → Yes, I am. Y nunca contraemos el sí: <s>Yes, I'm.</s>",
+      "note_en": "Short answers: no going to, and no short form in yes answers."
+    },
+    {
+      "t": "compare", "title": "¿Plan o predicción?", "title_en": "Plan or prediction?", "icon": "⚖️", "color": "green",
+      "es": "Las dos usan <b>going to</b>. La diferencia: un <b>plan</b> depende de ti (ya lo has decidido). Una <b>predicción</b> depende de lo que <b>ves</b> (hay pistas).",
+      "en": "Plan = you have decided it. Prediction = you can see the evidence.",
+      "cols": [
+        { "head": "📝 Plan (lo he decidido)", "color": "green", "items": ["I'm going to learn the guitar.", "We're going to visit London in July.", "Mum is going to buy a new car."] },
+        { "head": "👀 Predicción (lo veo venir)", "color": "orange", "items": ["The sky is black. It's going to rain.", "That glass is at the edge. It's going to fall!", "Rocky is looking at the cat. He's going to chase it!"] }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Cómo construyo la frase?", "title_en": "How do I build it?", "color": "orange",
+      "items": [
+        { "es": "Busca el <b>sujeto</b>: ¿quién va a hacer algo?", "en": "Find the subject." },
+        { "es": "Elige el verbo to be: I → <b>am</b> · he / she / it → <b>is</b> · you / we / they → <b>are</b>.", "en": "Choose am / is / are." },
+        { "es": "Añade <b>going to</b> + el verbo en <b>infinitivo</b> (sin -s ni -ing).", "en": "Add going to + base verb." },
+        { "es": "¿Negativa? → <b>not</b> después de am / is / are. ¿Pregunta? → <b>Am / Is / Are</b> delante del sujeto.", "en": "Negative: not. Question: Am / Is / Are first." },
+        { "es": "Si quieres, termina con una palabra de futuro: tomorrow, next week, tonight…", "en": "Add a time word: tomorrow, next week…" }
+      ]
+    },
+    {
+      "t": "table", "title": "Todo junto", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["Sujeto · Subject", "✅ Afirmativa", "⛔ Negativa", "❓ Pregunta", "💬 Respuesta corta"],
+      "rows": [
+        ["I", "I<b>'m</b> going to play.", "I<b>'m not</b> going to play.", "<b>Am</b> I going to play?", "Yes, I am. / No, I'm not."],
+        ["you", "You<b>'re</b> going to play.", "You <b>aren't</b> going to play.", "<b>Are</b> you going to play?", "Yes, you are. / No, you aren't."],
+        ["he", "He<b>'s</b> going to play.", "He <b>isn't</b> going to play.", "<b>Is</b> he going to play?", "Yes, he is. / No, he isn't."],
+        ["she", "She<b>'s</b> going to play.", "She <b>isn't</b> going to play.", "<b>Is</b> she going to play?", "Yes, she is. / No, she isn't."],
+        ["it", "It<b>'s</b> going to rain.", "It <b>isn't</b> going to rain.", "<b>Is</b> it going to rain?", "Yes, it is. / No, it isn't."],
+        ["we", "We<b>'re</b> going to play.", "We <b>aren't</b> going to play.", "<b>Are</b> we going to play?", "Yes, we are. / No, we aren't."],
+        ["they", "They<b>'re</b> going to play.", "They <b>aren't</b> going to play.", "<b>Are</b> they going to play?", "Yes, they are. / No, they aren't."]
+      ]
+    },
+    {
+      "t": "vocab", "title": "Palabras de futuro", "title_en": "Future time words", "icon": "🚀", "color": "pink", "wide": true, "cols": 4,
+      "items": [
+        { "en": "tomorrow", "es": "mañana", "icon": "📅" },
+        { "en": "tomorrow morning", "es": "mañana por la mañana", "icon": "🌅" },
+        { "en": "tonight", "es": "esta noche", "icon": "🌙" },
+        { "en": "this afternoon", "es": "esta tarde", "icon": "🕒" },
+        { "en": "this weekend", "es": "este fin de semana", "icon": "🎉" },
+        { "en": "next week", "es": "la semana que viene", "icon": "➡️" },
+        { "en": "next month", "es": "el mes que viene", "icon": "🗓️" },
+        { "en": "next year", "es": "el año que viene", "icon": "🎆" },
+        { "en": "next summer", "es": "el verano que viene", "icon": "☀️" },
+        { "en": "on Saturday", "es": "el sábado", "icon": "⚽" },
+        { "en": "soon", "es": "pronto", "icon": "⏳" },
+        { "en": "the day after tomorrow", "es": "pasado mañana", "icon": "📆" }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "I'm <b>going to</b> be a vet when I grow up.", "es": "De mayor voy a ser veterinario.", "icon": "🐾" },
+        { "en": "Dad is <b>going to</b> make pizza tonight.", "es": "Papá va a hacer pizza esta noche.", "icon": "🍕" },
+        { "en": "Look at Rocky! He's <b>going to</b> jump in the pool!", "es": "¡Mira a Rocky! ¡Va a saltar a la piscina!", "icon": "🐕" },
+        { "en": "We're <b>going to</b> travel to Italy next summer.", "es": "El verano que viene vamos a viajar a Italia.", "icon": "✈️" },
+        { "en": "I'm <b>not going to</b> forget my homework again!", "es": "¡No voy a olvidar los deberes otra vez!", "icon": "📒" },
+        { "en": "Are you <b>going to</b> come to my party? — Yes, I am!", "es": "¿Vas a venir a mi fiesta? — ¡Sí!", "icon": "🎈" },
+        { "en": "Sara is <b>going to</b> buy a new bike.", "es": "Sara va a comprarse una bici nueva.", "icon": "🚲" },
+        { "en": "The baby is tired. She's <b>going to</b> sleep.", "es": "La bebé está cansada. Se va a dormir.", "icon": "👶" },
+        { "en": "What are you <b>going to</b> wear for Carnival?", "es": "¿Qué te vas a poner para Carnaval?", "icon": "🎭" },
+        { "en": "It's ten to nine. We're <b>going to</b> be late!", "es": "Son las nueve menos diez. ¡Vamos a llegar tarde!", "icon": "⏰" },
+        { "en": "Leo and Tom <b>aren't going to</b> play today.", "es": "Leo y Tom no van a jugar hoy.", "icon": "🙅" },
+        { "en": "Is it <b>going to</b> be sunny tomorrow?", "es": "¿Va a hacer sol mañana?", "icon": "☀️" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "saltarin", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "I going to play football.", "good": "I<b>'m</b> going to play football.", "why": "¡Falta el verbo to be! I am / I'm.", "why_en": "Don't forget am / is / are." },
+        { "bad": "She are going to dance.", "good": "She <b>is</b> going to dance.", "why": "he / she / it → is.", "why_en": "she → is." },
+        { "bad": "I'm going to playing tennis.", "good": "I'm going to <b>play</b> tennis.", "why": "Después de going to → verbo sin -ing.", "why_en": "going to + base verb." },
+        { "bad": "He's going to plays.", "good": "He's going to <b>play</b>.", "why": "Después de to, el verbo no lleva -s.", "why_en": "No -s after to." },
+        { "bad": "You are going to come?", "good": "<b>Are you</b> going to come?", "why": "En preguntas, are salta delante (¡Verbo Saltarín!).", "why_en": "Questions: Are you…?" },
+        { "bad": "I no going to eat it.", "good": "I<b>'m not</b> going to eat it.", "why": "La negativa va con not, no con «no».", "why_en": "Use not." },
+        { "bad": "What you are going to do?", "good": "What <b>are you</b> going to do?", "why": "Wh- + are + sujeto.", "why_en": "Wh- + are + subject." },
+        { "bad": "Yes, I'm.", "good": "Yes, I <b>am</b>.", "why": "En la respuesta corta afirmativa no hay contracción.", "why_en": "No short form in yes answers." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "Planes para el finde", "title_en": "Weekend plans",
+      "lines": [
+        { "who": "Leo", "en": "What are you going to do this weekend, Mario?", "es": "¿Qué vas a hacer este fin de semana, Mario?" },
+        { "who": "Mario", "en": "I'm going to visit my grandparents on Saturday.", "es": "El sábado voy a visitar a mis abuelos." },
+        { "who": "Leo", "en": "Are you going to stay there on Sunday too?", "es": "¿Te vas a quedar allí el domingo también?" },
+        { "who": "Mario", "en": "No, I'm not. On Sunday I'm going to play in a football match.", "es": "No. El domingo voy a jugar un partido de fútbol." },
+        { "who": "Leo", "en": "Cool! I'm going to watch it with my dad.", "es": "¡Guay! Voy a verlo con mi padre." },
+        { "who": "Mario", "en": "Great! We're going to win!", "es": "¡Genial! ¡Vamos a ganar!" },
+        { "who": "Leo", "en": "Hmm… look at those clouds. I think it's going to rain!", "es": "Mmm… mira esas nubes. ¡Creo que va a llover!" },
+        { "who": "Mario", "en": "Oh no! We're going to get very wet!", "es": "¡Oh, no! ¡Nos vamos a mojar muchísimo!" }
+      ]
+    },
+    {
+      "t": "examples", "title": "Detective de predicciones", "title_en": "Prediction detective", "icon": "🕵️", "color": "blue",
+      "items": [
+        { "en": "Lucía is yawning. She's <b>going to</b> fall asleep.", "es": "Lucía está bostezando. Se va a quedar dormida.", "icon": "🥱" },
+        { "en": "Tom is in front of the goal. He's <b>going to</b> score!", "es": "Tom está delante de la portería. ¡Va a marcar!", "icon": "⚽" },
+        { "en": "My ice cream is melting. It's <b>going to</b> fall!", "es": "Mi helado se está derritiendo. ¡Se va a caer!", "icon": "🍦" },
+        { "en": "Rocky is waiting at the door. Dad is <b>going to</b> arrive.", "es": "Rocky espera en la puerta. Papá va a llegar.", "icon": "🚪" },
+        { "en": "It's 35 degrees. It's <b>going to</b> be a very hot day.", "es": "Hace 35 grados. Va a ser un día de mucho calor.", "icon": "🌡️" },
+        { "en": "The tablet battery is at 1%. It's <b>going to</b> turn off!", "es": "La batería de la tableta está al 1 %. ¡Se va a apagar!", "icon": "🔋" },
+        { "en": "Mario has got his football boots. He's <b>going to</b> play.", "es": "Mario tiene sus botas de fútbol. Va a jugar.", "icon": "👟" },
+        { "en": "The baby is very hungry. He's <b>going to</b> cry!", "es": "El bebé tiene mucha hambre. ¡Va a llorar!", "icon": "👶" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco: «voy a…» = going to", "title_en": "Trick",
+      "es": "Si en español dices <b>«voy a…», «vas a…», «va a…»</b>, en inglés casi siempre es <b>going to</b>: <i>Voy a comer → I'm going to eat. ¿Vas a venir? → Are you going to come?</i> Y recuerda la fórmula mágica: <b>am / is / are</b> + going to + verbo <b>limpio</b> (sin -s, sin -ing). 🧼",
+      "en": "«voy a…» → I'm going to… Remember: am / is / are + going to + clean verb."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose", "title": "am, is o are", "title_en": "am, is or are", "icon": "⭕",
+      "es": "Rodea la forma correcta del verbo to be. Antes, subraya el sujeto.",
+      "en": "Circle the correct form of be.",
+      "items": [
+        { "q": "I [am|is|are] going to read a book.", "a": "am" },
+        { "q": "My mum [am|is|are] going to cook paella.", "a": "is" },
+        { "q": "We [am|is|are] going to play in the park.", "a": "are" },
+        { "q": "It [is|are] going to snow.", "a": "is" },
+        { "q": "Leo and Tom [is|are] going to watch a film.", "a": "are" },
+        { "q": "You [is|are] going to love this game!", "a": "are" },
+        { "q": "Rocky [is|are] going to eat my sandwich!", "a": "is" },
+        { "q": "[Is|Are] you going to come?", "a": "Are" },
+        { "q": "She [isn't|aren't] going to sing.", "a": "isn't" },
+        { "q": "They [isn't|aren't] going to win.", "a": "aren't" }
+      ]
+    },
+    {
+      "t": "classify", "title": "¿Plan o predicción?", "title_en": "Plan or prediction?", "icon": "🗂️",
+      "es": "Escribe cada frase en su caja: ¿es un plan (lo he decidido) o una predicción (lo veo venir)?",
+      "en": "Is it a plan or a prediction? Write each sentence in the right box.",
+      "cats": [
+        { "name": "📝 Plan", "words": ["I'm going to learn French.", "We're going to visit Rome.", "I'm going to tidy my room.", "Dad is going to paint the kitchen.", "We're going to have a party."] },
+        { "name": "👀 Predicción", "words": ["Look! It's going to rain.", "Careful! You're going to fall!", "Oh no! The glass is going to break!", "Look at Leo! He's going to score!", "The baby is going to cry."] }
+      ]
+    },
+    {
+      "t": "match", "title": "¿Qué va a pasar?", "title_en": "What's going to happen?", "icon": "🔗",
+      "es": "Mira la pista y une cada frase con su predicción.",
+      "en": "Match each situation with the prediction.",
+      "pairs": [
+        ["The sky is very dark.", "It's going to rain."],
+        ["Tom is running to the ball.", "He's going to score a goal!"],
+        ["Lucía has got flour, eggs and sugar.", "She's going to make a cake."],
+        ["Rocky is looking at the cat.", "He's going to chase it!"],
+        ["The glass is at the edge of the table.", "It's going to fall."],
+        ["Mario has got his swimsuit and a towel.", "He's going to swim."],
+        ["Mum is holding the camera.", "She's going to take a photo."]
+      ]
+    },
+    {
+      "t": "fill", "title": "going to + verbo", "title_en": "going to + verb", "icon": "✅",
+      "es": "Completa con am / is / are going to y el verbo entre paréntesis.",
+      "en": "Complete with am / is / are going to and the verb in brackets.",
+      "items": [
+        { "q": "I ________ my bike tomorrow.", "a": "am going to ride", "hint": "ride" },
+        { "q": "We ________ a film tonight.", "a": "are going to watch", "hint": "watch" },
+        { "q": "Lucía ________ the piano at the concert.", "a": "is going to play", "hint": "play" },
+        { "q": "My grandparents ________ us next week.", "a": "are going to visit", "hint": "visit" },
+        { "q": "Look at the clouds! It ________.", "a": "is going to rain", "hint": "rain" },
+        { "q": "Tom ________ a new video game.", "a": "is going to buy", "hint": "buy" },
+        { "q": "You ________ this book. It's great!", "a": "are going to love", "hint": "love" },
+        { "q": "I ________ my homework after dinner.", "a": "am going to do", "hint": "do" },
+        { "q": "Oh no! The cat ________ the fish!", "a": "is going to eat", "hint": "eat" },
+        { "q": "We ________ to the beach on Saturday.", "a": "are going to go", "hint": "go" }
+      ]
+    },
+    {
+      "t": "fill", "title": "Negativas", "title_en": "Negatives", "icon": "⛔",
+      "es": "Completa en negativa con 'm not / isn't / aren't going to + verbo.",
+      "en": "Complete with the negative form of going to.",
+      "items": [
+        { "q": "I ________ broccoli!", "a": "am not going to eat", "hint": "not / eat" },
+        { "q": "Sara ________ to the party.", "a": "isn't going to come", "hint": "not / come" },
+        { "q": "We ________ TV tonight.", "a": "aren't going to watch", "hint": "not / watch" },
+        { "q": "It ________ today.", "a": "isn't going to rain", "hint": "not / rain" },
+        { "q": "My parents ________ a new car.", "a": "aren't going to buy", "hint": "not / buy" },
+        { "q": "Rocky ________ a bath! He hates water.", "a": "isn't going to have", "hint": "not / have" },
+        { "q": "I ________ late again.", "a": "am not going to be", "hint": "not / be" },
+        { "q": "Leo and Anna ________ football this weekend.", "a": "aren't going to play", "hint": "not / play" }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Completa la tabla", "title_en": "Complete the table", "icon": "📋", "wide": true,
+      "es": "Completa las casillas vacías.",
+      "en": "Fill in the empty boxes.",
+      "head": ["Sujeto", "✅ Afirmativa", "⛔ Negativa", "❓ Pregunta"],
+      "rows": [
+        ["I", "I'm going to swim.", "?I'm not going to swim.", "?Am I going to swim?"],
+        ["she", "?She's going to swim.", "She isn't going to swim.", "?Is she going to swim?"],
+        ["we", "?We're going to swim.", "?We aren't going to swim.", "Are we going to swim?"],
+        ["it", "It's going to rain.", "?It isn't going to rain.", "?Is it going to rain?"],
+        ["they", "?They're going to win.", "They aren't going to win.", "?Are they going to win?"]
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Pregunta y responde", "title_en": "Ask and answer", "icon": "❓",
+      "es": "Escribe la pregunta con going to y luego la respuesta corta. Fíjate en la pista (YES / NO).",
+      "en": "Write the question and the short answer.",
+      "labels": ["❓", "💬"],
+      "items": [
+        { "q": "you / play football tomorrow (YES)", "a": ["Are you going to play football tomorrow?", "Yes, I am."] },
+        { "q": "Lucía / make a cake (NO)", "a": ["Is Lucía going to make a cake?", "No, she isn't."] },
+        { "q": "they / visit London (YES)", "a": ["Are they going to visit London?", "Yes, they are."] },
+        { "q": "it / rain today (NO)", "a": ["Is it going to rain today?", "No, it isn't."] },
+        { "q": "your dad / cook tonight (YES)", "a": ["Is your dad going to cook tonight?", "Yes, he is."] },
+        { "q": "we / have a test (NO)", "a": ["Are we going to have a test?", "No, we aren't."] }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        { "q": "going / I'm / to / visit / my grandma", "a": "I'm going to visit my grandma." },
+        { "q": "is / to / it / going / rain", "a": "It is going to rain." },
+        { "q": "are / you / what / going / do / to / ?", "a": "What are you going to do?" },
+        { "q": "not / I'm / to / going / cry", "a": "I'm not going to cry." },
+        { "q": "where / they / going / are / to / go / ?", "a": "Where are they going to go?" },
+        { "q": "going / is / Leo / to / win / the race", "a": "Leo is going to win the race." },
+        { "q": "are / when / going / you / to / come / ?", "a": "When are you going to come?" },
+        { "q": "isn't / she / going / to / sing / tonight", "a": "She isn't going to sing tonight." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Preguntas con Wh-", "title_en": "Wh- questions", "icon": "💭",
+      "es": "Escribe la pregunta con going to. Recuerda: Wh- + am / is / are + sujeto + going to + verbo?",
+      "en": "Write the question with going to.",
+      "items": [
+        { "q": "What / you / do / tomorrow", "a": "What are you going to do tomorrow?" },
+        { "q": "Where / Lucía / go / on holiday", "a": "Where is Lucía going to go on holiday?" },
+        { "q": "When / your cousins / come", "a": "When are your cousins going to come?" },
+        { "q": "Who / you / invite / to your party", "a": "Who are you going to invite to your party?" },
+        { "q": "What / Rocky / eat", "a": "What is Rocky going to eat?" },
+        { "q": "How / we / get / to the beach", "a": "How are we going to get to the beach?" },
+        { "q": "What time / the film / start", "a": "What time is the film going to start?" },
+        { "q": "What / your mum / cook / tonight", "a": "What is your mum going to cook tonight?" }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Está bien?", "title_en": "Right or wrong?", "icon": "✔️",
+      "es": "¿La frase está bien (T) o mal (F)? Si está mal, corrígela en tu cuaderno.",
+      "en": "Is the sentence right (T) or wrong (F)?",
+      "items": [
+        { "q": "We're going to play basketball.", "a": true },
+        { "q": "She going to sing.", "a": false, "why": "She's going to sing." },
+        { "q": "Are they going to come?", "a": true },
+        { "q": "I'm going to swimming.", "a": false, "why": "I'm going to swim." },
+        { "q": "It's going to snow tomorrow.", "a": true },
+        { "q": "He isn't going to come.", "a": true },
+        { "q": "Is you going to help me?", "a": false, "why": "Are you going to help me?" },
+        { "q": "Are you going to come? — Yes, I'm.", "a": false, "why": "Yes, I am." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "I going to visit Rome.", "a": "I'm going to visit Rome." },
+        { "q": "He are going to play tennis.", "a": "He is going to play tennis." },
+        { "q": "We're going to watching a film.", "a": "We're going to watch a film." },
+        { "q": "She's going to buys a dress.", "a": "She's going to buy a dress." },
+        { "q": "You are going to come to the party?", "a": "Are you going to come to the party?" },
+        { "q": "I no going to eat fish.", "a": "I'm not going to eat fish." },
+        { "q": "What you are going to do?", "a": "What are you going to do?" },
+        { "q": "Look at the clouds! Is going to rain.", "a": "Look at the clouds! It is going to rain." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Recuerda: «voy a…» = I'm going to…",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Voy a jugar al fútbol mañana.", "a": "I'm going to play football tomorrow." },
+        { "q": "¡Mira! Va a llover.", "a": "Look! It's going to rain." },
+        { "q": "Mi hermana va a hacer una tarta.", "a": "My sister is going to make a cake." },
+        { "q": "No vamos a ver la tele.", "a": "We aren't going to watch TV." },
+        { "q": "¿Vas a venir a mi fiesta?", "a": "Are you going to come to my party?" },
+        { "q": "¿Qué vas a hacer este fin de semana?", "a": "What are you going to do this weekend?" },
+        { "q": "Leo no va a ganar.", "a": "Leo isn't going to win." },
+        { "q": "¡Cuidado! ¡Te vas a caer!", "a": "Watch out! You're going to fall!" }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "Mario's summer plans ☀️",
+      "text": [
+        "Hi! I'm Mario. The school year is nearly over, and I've got big plans for the summer! In July, my family and I are going to go to Asturias. We're going to stay in a small house near the beach.",
+        "My sister Lucía is going to take surfing lessons. I'm not going to surf, because I'm a bit scared! I'm going to swim and play football on the beach with my cousins.",
+        "In August, my friend Leo is going to come to our house. We're going to ride our bikes and build a treehouse in the garden. Rocky isn't going to help… he's going to sleep under the tree!"
+      ],
+      "items": [
+        { "q": "Mario's family is going to go to Asturias in July.", "tf": true, "a": true },
+        { "q": "Mario is going to take surfing lessons.", "tf": true, "a": false, "why": "Lucía is going to take surfing lessons." },
+        { "q": "Leo is going to come in August.", "tf": true, "a": true },
+        { "q": "Where are they going to stay?", "a": "In a small house near the beach." },
+        { "q": "Why isn't Mario going to surf?", "a": "Because he's a bit scared." },
+        { "q": "What are Mario and Leo going to build?", "a": "A treehouse (in the garden)." },
+        { "q": "What is Rocky going to do?", "a": "He's going to sleep under the tree." }
+      ]
+    },
+    {
+      "t": "spell", "title": "Deletrea la palabra", "title_en": "Spell the word", "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en las cajas. ¡Ojo con las letras dobles!",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        { "q": "📅 mañana", "a": "tomorrow" },
+        { "q": "🌙 esta noche", "a": "tonight" },
+        { "q": "🎉 fin de semana", "a": "weekend" },
+        { "q": "🏖️ vacaciones", "a": "holiday" },
+        { "q": "⏳ pronto", "a": "soon" },
+        { "q": "🧳 viajar", "a": "travel" },
+        { "q": "👵 visitar", "a": "visit" },
+        { "q": "➡️ próximo", "a": "next" }
+      ]
+    },
+    {
+      "t": "wordsearch", "title": "Sopa de letras", "title_en": "Word search", "icon": "🔎",
+      "es": "Busca las 8 palabras. Después escribe un plan para mañana con going to.",
+      "en": "Find the 8 words. Then write a plan for tomorrow with going to.",
+      "words": ["tomorrow", "tonight", "weekend", "next", "soon", "plan", "rain", "visit"],
+      "clues": ["tomorrow · mañana", "tonight · esta noche", "weekend · fin de semana", "next · próximo", "soon · pronto", "plan · plan", "rain · llover", "visit · visitar"]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe sobre tus planes y haz predicciones con going to.",
+      "en": "Write about your plans and make predictions.",
+      "items": [
+        { "q": "Escribe 2 <b>planes</b> para este fin de semana.", "lines": 2, "a": "Ej.: I'm going to play football on Saturday. I'm going to visit my cousins on Sunday." },
+        { "q": "Escribe 1 cosa que <b>no</b> vas a hacer.", "lines": 1, "a": "Ej.: I'm not going to watch TV." },
+        { "q": "Mira por la ventana: ¿qué tiempo va a hacer? Haz una <b>predicción</b>.", "lines": 2, "a": "Ej.: It's very cloudy. It's going to rain." },
+        { "q": "Escribe 2 preguntas para un amigo sobre sus vacaciones.", "lines": 2, "a": "Ej.: Where are you going to go? What are you going to do?" }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé formar <b>am / is / are going to</b> + verbo.", "en": "I can make am / is / are going to + verb." },
+    { "es": "Hablo de mis <b>planes</b> con going to.", "en": "I can talk about my plans." },
+    { "es": "Hago <b>predicciones</b> cuando veo pistas: It's going to rain!", "en": "I can make predictions with evidence." },
+    { "es": "Sé hacer negativas con <b>not</b>: I'm not going to…", "en": "I can make negatives with not." },
+    { "es": "Sé preguntar: <b>Are you going to…?</b> <b>What are you going to…?</b>", "en": "I can ask questions with going to." },
+    { "es": "Después de going to pongo el verbo <b>limpio</b>: sin -s ni -ing.", "en": "After going to I use the base verb." }
+  ]
+}

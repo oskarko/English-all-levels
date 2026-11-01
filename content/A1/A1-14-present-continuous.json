@@ -1,0 +1,596 @@
+{
+  "id": "A1-14",
+  "level": "A1",
+  "title": "PRESENT CONTINUOUS",
+  "file_title": "Present continuous",
+  "subtitle": "Present continuous · lo que pasa ahora",
+  "icon": "🎬",
+  "map": {
+    "center": "Usamos el <b>present continuous</b> para lo que está pasando <b>ahora mismo</b>: I'm <b>playing</b>!",
+    "nodes": [
+      {
+        "title": "¿Cómo se forma?",
+        "icon": "🧩",
+        "items": ["<b>am / is / are</b> + verbo<em>-ing</em>","I'm <b>reading</b>. <i>(Estoy leyendo.)</i>","Rocky <b>is sleeping</b>. <i>(Está durmiendo.)</i>"]
+      },
+      {
+        "title": "Ortografía -ing",
+        "icon": "✏️",
+        "rows": [["play","→ play<em>ing</em>"],["make","→ mak<em>ing</em> (adiós e)"],["swim","→ swim<em>ming</em> (doble)"],["lie","→ l<em>ying</em> (ie → y)"]]
+      },
+      {"title":"Negativa","icon":"⛔","items":["I'm <b>not</b> sleeping.","She <b>isn't</b> playing.","They <b>aren't</b> watching TV."]},
+      {
+        "title": "Preguntas",
+        "icon": "❓",
+        "art": "👀",
+        "items": ["<b>Are</b> you listening? — Yes, I <b>am</b>.","<b>Is</b> he running? — No, he <b>isn't</b>.","What <b>are</b> you doing?"]
+      },
+      {"title":"Palabras clave","icon":"⏰","chips":["now","right now","at the moment","Look!","Listen!"],"after":"Look! Leo <b>is jumping</b>!"},
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "art": "🎨",
+        "items": ["¡Dos piezas! <b>am/is/are</b> + <b>-ing</b>","Contracciones: I'm, he's, we're","Sirve para describir dibujos."]
+      }
+    ],
+    "error": {"title":"Error común","bad":["She playing football."],"good":["She is playing football."],"note":"Siempre <b>am / is / are</b> + -ing"},
+    "mini": {
+      "es": "Completa con am / is / are + verbo -ing.",
+      "en": "Complete with am / is / are + verb-ing.",
+      "items": [
+        {"q":"I ____ (read) a comic.","a":"am reading"},
+        {"q":"Lucía ____ (swim) now.","a":"is swimming"},
+        {"q":"We ____ (make) a cake.","a":"are making"},
+        {"q":"The dogs ____ (run).","a":"are running"},
+        {"q":"___ you listening?","a":"Are"}
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "El <b>present continuous</b> sirve para decir lo que está pasando <mark>ahora mismo</mark>, en este momento. Es como el español «<b>estoy</b> comiendo» o «<b>está</b> lloviendo». Se forma con <b>am / is / are</b> (el verbo to be) + el verbo con <em>-ing</em>, que es como nuestro <i>-ando, -iendo</i>.",
+      "en": "We use the present continuous for things happening <mark>now</mark>: am / is / are + verb<em>-ing</em>.",
+      "formula": ["Sujeto + *am / is / are* + *verbo-ing*"]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Afirmativa",
+      "title_en": "Affirmative",
+      "icon": "✅",
+      "color": "green",
+      "es": "Necesitas <b>dos piezas</b>: <b>am / is / are</b> (estar) + el verbo con <em>-ing</em>. Con I → <b>am</b>; con he, she, it → <b>is</b>; con you, we, they → <b>are</b>. ¡Si falta una pieza, la frase se rompe!",
+      "en": "You need <b>two pieces</b>: am / is / are + verb-ing.",
+      "formula": ["I + *am* + playing","he / she / it + *is* + playing","you / we / they + *are* + playing"],
+      "examples": [
+        {"en":"I <b>am reading</b> a comic.","es":"Estoy leyendo un cómic.","icon":"📖"},
+        {"en":"Lucía <b>is singing</b>.","es":"Lucía está cantando.","icon":"🎤"},
+        {"en":"We <b>are playing</b> football.","es":"Estamos jugando al fútbol.","icon":"⚽"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Las contracciones",
+      "title_en": "Short forms",
+      "icon": "✂️",
+      "color": "purple",
+      "head": ["Forma larga · Long","Forma corta · Short","Ejemplo · Example"],
+      "rows": [
+        ["I am","I<b>'m</b>","I'm eating."],
+        ["you are","you<b>'re</b>","You're laughing."],
+        ["he is","he<b>'s</b>","He's running."],
+        ["she is","she<b>'s</b>","She's singing."],
+        ["it is","it<b>'s</b>","It's raining."],
+        ["we are","we<b>'re</b>","We're dancing."],
+        ["they are","they<b>'re</b>","They're swimming."]
+      ],
+      "note": "Al hablar casi siempre usamos la forma corta: <b>I'm playing</b>, <b>she's reading</b>.",
+      "note_en": "We usually use short forms when we speak."
+    },
+    {
+      "t": "rule",
+      "title": "2 · ¿Cómo escribo el -ing?",
+      "title_en": "Spelling -ing",
+      "icon": "✏️",
+      "color": "orange",
+      "es": "Casi siempre añadimos <b>-ing</b> sin más: play → playing. Pero hay tres trucos: si acaba en <b>-e</b>, la e se va (make → mak<em>ing</em>); si es corto y acaba en vocal + consonante, <b>doblamos</b> la última letra (swim → swim<em>ming</em>); y si acaba en <b>-ie</b>, cambia a <b>y</b> (lie → l<em>ying</em>).",
+      "en": "Usually just add -ing. Final -e → drop it (making). Short vowel + consonant → double it (swimming). -ie → y (lying).",
+      "examples": [
+        {"en":"Rocky <b>is running</b> in the park.","es":"Rocky está corriendo en el parque.","icon":"🐕"},
+        {"en":"Mum <b>is making</b> pancakes.","es":"Mamá está haciendo tortitas.","icon":"🥞"},
+        {"en":"The children <b>are swimming</b>.","es":"Los niños están nadando.","icon":"🏊"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Reglas del -ing",
+      "title_en": "-ing spelling rules",
+      "icon": "📝",
+      "color": "orange",
+      "head": ["Si el verbo…","Qué hago","Ejemplos"],
+      "rows": [
+        ["casi todos","+ <b>-ing</b>","play → playing<br>read → reading"],
+        ["acaba en <b>-e</b>","quito la e + -ing","make → mak<em>ing</em><br>ride → rid<em>ing</em>"],
+        ["es corto: vocal + consonante","doblo la consonante","swim → swim<em>ming</em><br>run → run<em>ning</em>"],
+        ["acaba en <b>-ie</b>","ie → <b>y</b> + -ing","lie → l<em>ying</em><br>tie → t<em>ying</em>"],
+        ["acaba en <b>-y</b>","¡la y se queda!","fly → fly<em>ing</em><br>cry → cry<em>ing</em>"],
+        ["acaba en <b>-ee</b>","¡las dos e se quedan!","see → see<em>ing</em>"]
+      ],
+      "note": "Truco del doble: si escribiéramos <s>swiming</s>, se leería «swaiming». ¡La doble m protege el sonido corto de la i! Ojo: <b>write → writing</b>, con una sola t.",
+      "note_en": "Double the consonant to keep the vowel short: swimming, running, sitting."
+    },
+    {
+      "t": "rule",
+      "title": "3 · Negativa",
+      "title_en": "Negative",
+      "icon": "⛔",
+      "color": "red",
+      "es": "Ponemos <b>not</b> después de am / is / are: <b>I'm not</b>, <b>isn't</b>, <b>aren't</b>. ¡Nada de <em>no</em> ni <em>don't</em>! El verbo sigue con su <em>-ing</em>.",
+      "en": "Put <b>not</b> after am / is / are: I'm not, isn't, aren't. Never <em>no</em> or <em>don't</em>.",
+      "formula": ["I + *'m not* + playing","he / she / it + *isn't* + playing","you / we / they + *aren't* + playing"],
+      "examples": [
+        {"en":"I'm <b>not</b> sleeping, Mum!","es":"¡No estoy durmiendo, mamá!","icon":"😴"},
+        {"en":"Leo <b>isn't</b> doing his homework.","es":"Leo no está haciendo los deberes.","icon":"📝"},
+        {"en":"We <b>aren't</b> watching TV.","es":"No estamos viendo la tele.","icon":"📺"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Preguntas",
+      "title_en": "Questions",
+      "icon": "❓",
+      "color": "blue",
+      "es": "Para preguntar, <b>am / is / are</b> <mark>salta delante del sujeto</mark> (¡como el Verbo Saltarín!). Si quieres saber más, pon delante una palabra como <b>What</b> o <b>Where</b>.",
+      "en": "To ask, put <b>am / is / are</b> <mark>before the subject</mark>.",
+      "formula": ["*Am / Is / Are* + sujeto + verbo-ing + …?","What + *are* + you + doing?"],
+      "examples": [
+        {"en":"<b>Are</b> you listening?","es":"¿Estás escuchando?","icon":"👂"},
+        {"en":"<b>Is</b> Rocky eating?","es":"¿Rocky está comiendo?","icon":"🦴"},
+        {"en":"What <b>are</b> you doing?","es":"¿Qué estás haciendo?","icon":"🤔"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "5 · Respuestas cortas",
+      "title_en": "Short answers",
+      "icon": "💬",
+      "color": "teal",
+      "head": ["Pregunta · Question","Sí · Yes","No"],
+      "rows": [
+        ["Are you playing?","Yes, I <b>am</b>.","No, I<b>'m not</b>."],
+        ["Is he reading?","Yes, he <b>is</b>.","No, he <b>isn't</b>."],
+        ["Is she sleeping?","Yes, she <b>is</b>.","No, she <b>isn't</b>."],
+        ["Is it raining?","Yes, it <b>is</b>.","No, it <b>isn't</b>."],
+        ["Are they running?","Yes, they <b>are</b>.","No, they <b>aren't</b>."]
+      ],
+      "note": "En la respuesta corta <b>no</b> va el -ing. Y al final de la frase no se contrae: <s>Yes, I'm.</s> → Yes, I <b>am</b>.",
+      "note_en": "Short answers have no -ing. Never <s>Yes, I'm.</s>"
+    },
+    {
+      "t": "rule",
+      "title": "6 · Palabras clave",
+      "title_en": "Key words",
+      "icon": "⏰",
+      "color": "pink",
+      "es": "Estas palabras avisan de que algo pasa <b>ahora</b>: <b>now</b> (ahora), <b>right now</b> (ahora mismo), <b>at the moment</b> (en este momento) y órdenes como <b>Look!</b> (¡Mira!), <b>Listen!</b> (¡Escucha!) o <b>Be quiet!</b> (¡Silencio!).",
+      "en": "Key words: now, right now, at the moment, Look!, Listen!, Be quiet!",
+      "examples": [
+        {"en":"<b>Look!</b> Tom is climbing the tree!","es":"¡Mira! ¡Tom está trepando al árbol!","icon":"👀"},
+        {"en":"<b>Listen!</b> The baby is crying.","es":"¡Escucha! El bebé está llorando.","icon":"👶"},
+        {"en":"Lucía is studying <b>at the moment</b>.","es":"Lucía está estudiando en este momento.","icon":"📚"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Todo junto",
+      "title_en": "All together",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": ["Sujeto · Subject","✅ Afirmativa","⛔ Negativa","❓ Pregunta","💬 Respuesta corta"],
+      "rows": [
+        ["I","I'm playing.","I'm not playing.","<b>Am</b> I playing?","Yes, I am. / No, I'm not."],
+        ["you","You're playing.","You aren't playing.","<b>Are</b> you playing?","Yes, you are. / No, you aren't."],
+        ["he","He's playing.","He isn't playing.","<b>Is</b> he playing?","Yes, he is. / No, he isn't."],
+        ["she","She's playing.","She isn't playing.","<b>Is</b> she playing?","Yes, she is. / No, she isn't."],
+        ["it","It's raining.","It isn't raining.","<b>Is</b> it raining?","Yes, it is. / No, it isn't."],
+        ["we","We're playing.","We aren't playing.","<b>Are</b> we playing?","Yes, we are. / No, we aren't."],
+        ["they","They're playing.","They aren't playing.","<b>Are</b> they playing?","Yes, they are. / No, they aren't."]
+      ],
+      "note": "En todas las columnas manda <b>am / is / are</b>. El verbo con <em>-ing</em> no cambia nunca.",
+      "note_en": "am / is / are do the work. The -ing verb never changes."
+    },
+    {
+      "t": "vocab",
+      "title": "¿Qué están haciendo?",
+      "title_en": "What are they doing?",
+      "icon": "🎬",
+      "color": "pink",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {"en":"running","es":"corriendo","icon":"🏃"},
+        {"en":"swimming","es":"nadando","icon":"🏊"},
+        {"en":"dancing","es":"bailando","icon":"💃"},
+        {"en":"singing","es":"cantando","icon":"🎤"},
+        {"en":"eating","es":"comiendo","icon":"🍝"},
+        {"en":"drinking","es":"bebiendo","icon":"🥤"},
+        {"en":"sleeping","es":"durmiendo","icon":"😴"},
+        {"en":"reading","es":"leyendo","icon":"📖"},
+        {"en":"writing","es":"escribiendo","icon":"✍️"},
+        {"en":"drawing","es":"dibujando","icon":"🎨"},
+        {"en":"cooking","es":"cocinando","icon":"🍳"},
+        {"en":"crying","es":"llorando","icon":"😢"},
+        {"en":"laughing","es":"riéndose","icon":"😂"},
+        {"en":"riding a bike","es":"montando en bici","icon":"🚴"},
+        {"en":"watching TV","es":"viendo la tele","icon":"📺"},
+        {"en":"flying a kite","es":"volando una cometa","icon":"🪁"}
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {"en":"Mum <b>is cooking</b> pasta.","es":"Mamá está cocinando pasta.","icon":"🍝"},
+        {"en":"<b>It's raining</b>. Take your umbrella!","es":"Está lloviendo. ¡Coge el paraguas!","icon":"☔"},
+        {"en":"Lucía <b>is talking</b> on the phone.","es":"Lucía está hablando por teléfono.","icon":"📱"},
+        {"en":"Rocky <b>is sleeping</b> on my bed.","es":"Rocky está durmiendo en mi cama.","icon":"🐶"},
+        {"en":"We<b>'re wearing</b> our school uniform today.","es":"Hoy llevamos puesto el uniforme del cole.","icon":"👕"},
+        {"en":"What are you doing? — I<b>'m drawing</b> a dinosaur.","es":"¿Qué haces? — Estoy dibujando un dinosaurio.","icon":"🦕"},
+        {"en":"The birds <b>are singing</b> in the tree.","es":"Los pájaros están cantando en el árbol.","icon":"🐦"},
+        {"en":"Dad <b>isn't working</b> today.","es":"Papá no está trabajando hoy.","icon":"💼"},
+        {"en":"<b>Are</b> Leo and Tom <b>playing</b> tennis? — No, they <b>aren't</b>.","es":"¿Leo y Tom están jugando al tenis? — No.","icon":"🎾"},
+        {"en":"Shh! The baby <b>is sleeping</b>.","es":"¡Chis! El bebé está durmiendo.","icon":"🤫"},
+        {"en":"I<b>'m sitting</b> next to Sara.","es":"Estoy sentado al lado de Sara.","icon":"🪑"}
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "ae",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {"bad":"She playing football.","good":"She <b>is</b> playing football.","why":"¡Falta is! Siempre am / is / are.","why_en":"Don't forget am / is / are."},
+        {"bad":"I am play the guitar.","good":"I am play<b>ing</b> the guitar.","why":"¡Falta el -ing!","why_en":"Don't forget -ing."},
+        {"bad":"He is swiming.","good":"He is swim<b>m</b>ing.","why":"swim: doble m.","why_en":"Double the m."},
+        {"bad":"We are makeing a cake.","good":"We are mak<b>ing</b> a cake.","why":"Adiós a la e: making.","why_en":"Drop the e."},
+        {"bad":"They are writting.","good":"They are wri<b>t</b>ing.","why":"write → writing, una sola t.","why_en":"Only one t in writing."},
+        {"bad":"You are listening?","good":"<b>Are you</b> listening?","why":"En la pregunta, are salta delante.","why_en":"In questions, are goes first."},
+        {"bad":"Rocky no is eating.","good":"Rocky <b>isn't</b> eating.","why":"Negativa con not: isn't.","why_en":"Use isn't, not no."},
+        {"bad":"Are you sleeping? — Yes, I'm.","good":"Yes, I <b>am</b>.","why":"Al final no se contrae.","why_en":"No short form at the end."}
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En el examen (Movers)",
+      "title_en": "In the speaking test",
+      "lines": [
+        {"who":"Examiner","en":"Look at the picture. What is the girl doing?","es":"Mira el dibujo. ¿Qué está haciendo la niña?"},
+        {"who":"Mario","en":"She's flying a kite.","es":"Está volando una cometa."},
+        {"who":"Examiner","en":"Good. And the two boys?","es":"Bien. ¿Y los dos niños?"},
+        {"who":"Mario","en":"They're playing football in the park.","es":"Están jugando al fútbol en el parque."},
+        {"who":"Examiner","en":"Is the dog sleeping?","es":"¿El perro está durmiendo?"},
+        {"who":"Mario","en":"No, it isn't. It's running after the ball!","es":"No. ¡Está corriendo detrás de la pelota!"},
+        {"who":"Examiner","en":"What's the man doing?","es":"¿Qué está haciendo el hombre?"},
+        {"who":"Mario","en":"He's reading a newspaper under a tree.","es":"Está leyendo un periódico debajo de un árbol."}
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {"es":"Busca el <b>sujeto</b>: ¿quién lo está haciendo?","en":"Find the subject: who is doing it?"},
+        {"es":"Elige <b>am</b> (I), <b>is</b> (he, she, it) o <b>are</b> (you, we, they).","en":"Choose am, is or are."},
+        {"es":"Añade el verbo + <em>-ing</em>. Mira la ortografía: ¿quito la e? ¿doblo la letra?","en":"Add verb + -ing. Check the spelling."},
+        {"es":"¿Negativa? → I'm not / isn't / aren't + -ing.","en":"Negative → I'm not / isn't / aren't + -ing."},
+        {"es":"¿Pregunta? → <b>Am / Is / Are</b> + sujeto + -ing…?","en":"Question → Am / Is / Are + subject + -ing…?"}
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del tren",
+      "title_en": "The train trick",
+      "es": "El present continuous es un tren 🚂 con <b>dos vagones</b>: <b>am / is / are</b> + <b>verbo-ing</b>. Si falta un vagón, ¡el tren no anda! <s>I playing</s> ✗ · <s>I am play</s> ✗ · <b>I am playing</b> ✓",
+      "en": "The present continuous is a train with two carriages: am / is / are + verb-ing."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "Une inglés y español",
+      "title_en": "Match English and Spanish",
+      "icon": "🔗",
+      "es": "Une cada palabra con su traducción.",
+      "en": "Match each word with its translation.",
+      "pairs": [
+        ["running","corriendo"],
+        ["swimming","nadando"],
+        ["eating","comiendo"],
+        ["sleeping","durmiendo"],
+        ["writing","escribiendo"],
+        ["laughing","riéndose"],
+        ["crying","llorando"],
+        ["dancing","bailando"]
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct option",
+      "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        {"q":"I [am|is|are] reading.","a":"am"},
+        {"q":"Lucía [am|is|are] singing.","a":"is"},
+        {"q":"We [is|are] playing football.","a":"are"},
+        {"q":"The dog [is|are] sleeping.","a":"is"},
+        {"q":"She is [swimming|swiming].","a":"swimming"},
+        {"q":"They are [makeing|making] a cake.","a":"making"},
+        {"q":"[Is|Are] you listening?","a":"Are"},
+        {"q":"He [isn't|aren't] watching TV.","a":"isn't"},
+        {"q":"Look! Tom [is climbing|climbing] the tree!","a":"is climbing"},
+        {"q":"Are they running? — Yes, they [are|do].","a":"are"}
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Cómo se escribe el -ing?",
+      "title_en": "Sort the verbs",
+      "icon": "🗂️",
+      "es": "¿Qué regla sigue cada verbo al añadir -ing? Escríbelo en su caja.",
+      "en": "Which -ing rule does each verb follow?",
+      "cats": [
+        {"name":"➕ + -ing","words":["play","read","eat","sleep"]},
+        {"name":"✂️ adiós e","words":["make","ride","dance","write"]},
+        {"name":"✌️ doble letra","words":["swim","run","sit","get"]}
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Bien escrito?",
+      "title_en": "Is the spelling right?",
+      "icon": "✔️",
+      "es": "¿Está bien escrito el -ing? Marca T (true, bien) o F (false, mal).",
+      "en": "Is the -ing spelling right? True or false?",
+      "items": [
+        {"q":"make → makeing","a":false,"why":"making (adiós e)"},
+        {"q":"run → running","a":true},
+        {"q":"sit → siting","a":false,"why":"sitting (doble t)"},
+        {"q":"lie → lying","a":true},
+        {"q":"study → studing","a":false,"why":"studying (la y se queda)"},
+        {"q":"dance → dancing","a":true},
+        {"q":"write → writting","a":false,"why":"writing (una sola t)"},
+        {"q":"play → playing","a":true}
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "La fábrica del -ing",
+      "title_en": "The -ing factory",
+      "icon": "🏭",
+      "es": "Escribe el verbo con -ing y qué has hecho: + -ing, adiós e, doble o ie → y.",
+      "en": "Write the -ing form and the rule.",
+      "head": ["Verbo","-ing","¿Qué hago?"],
+      "rows": [
+        ["play","?playing","?+ -ing"],
+        ["make","?making","?adiós e"],
+        ["swim","?swimming","?doble (m)"],
+        ["read","?reading","?+ -ing"],
+        ["run","?running","?doble (n)"],
+        ["lie","?lying","?ie → y"],
+        ["write","?writing","?adiós e"],
+        ["sit","?sitting","?doble (t)"],
+        ["dance","?dancing","?adiós e"],
+        ["cry","?crying","?+ -ing (la y se queda)"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Completa con el verbo",
+      "title_en": "Complete with the verb",
+      "icon": "✍️",
+      "es": "Escribe am / is / are + el verbo entre paréntesis con -ing.",
+      "en": "Write am / is / are + the verb in brackets with -ing.",
+      "items": [
+        {"q":"Mum ____ (cook) dinner.","a":"is cooking"},
+        {"q":"I ____ (do) my homework.","a":"am doing"},
+        {"q":"The children ____ (play) in the garden.","a":"are playing"},
+        {"q":"Rocky ____ (sleep) under the table.","a":"is sleeping"},
+        {"q":"We ____ (watch) a film.","a":"are watching"},
+        {"q":"Lucía ____ (write) an email.","a":"is writing"},
+        {"q":"Look! The cat ____ (run) after a bird.","a":"is running"},
+        {"q":"You ____ (sit) on my pencil!","a":"are sitting"},
+        {"q":"It ____ (rain) again!","a":"is raining"}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pasa a negativa",
+      "title_en": "Make it negative",
+      "icon": "⛔",
+      "es": "Escribe la frase en negativa con I'm not, isn't o aren't.",
+      "en": "Write the sentence in the negative.",
+      "items": [
+        {"q":"I'm watching TV.","a":"I'm not watching TV."},
+        {"q":"She's eating an apple.","a":"She isn't eating an apple."},
+        {"q":"We're playing tennis.","a":"We aren't playing tennis."},
+        {"q":"Rocky is sleeping.","a":"Rocky isn't sleeping."},
+        {"q":"They're doing their homework.","a":"They aren't doing their homework."},
+        {"q":"It's snowing.","a":"It isn't snowing."},
+        {"q":"You're listening.","a":"You aren't listening."},
+        {"q":"Mario is riding his bike.","a":"Mario isn't riding his bike."}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Respuestas cortas",
+      "title_en": "Short answers",
+      "icon": "💬",
+      "es": "Completa la respuesta corta. Recuerda: ¡sin -ing!",
+      "en": "Complete the short answer. No -ing!",
+      "items": [
+        {"q":"Are you reading? — Yes, I ____.","a":"am"},
+        {"q":"Is Lucía sleeping? — No, she ____.","a":"isn't"},
+        {"q":"Are they playing? — Yes, they ____.","a":"are"},
+        {"q":"Is it raining? — No, it ____.","a":"isn't"},
+        {"q":"Is Dad cooking? — Yes, he ____.","a":"is"},
+        {"q":"Are you crying? — No, I'm ____.","a":"not"},
+        {"q":"Are Leo and Sara dancing? — No, they ____.","a":"aren't"},
+        {"q":"Is Rocky eating? — Yes, he ____.","a":"is"}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pregunta y responde",
+      "title_en": "Ask and answer",
+      "icon": "❓",
+      "es": "Escribe la pregunta y la respuesta corta. Fíjate en la pista (YES / NO).",
+      "en": "Write the question and the short answer.",
+      "labels": ["❓","💬"],
+      "items": [
+        {"q":"you / read (YES)","a":["Are you reading?","Yes, I am."]},
+        {"q":"Lucía / sing (NO)","a":["Is Lucía singing?","No, she isn't."]},
+        {"q":"Dad / work (NO)","a":["Is Dad working?","No, he isn't."]},
+        {"q":"it / rain (YES)","a":["Is it raining?","Yes, it is."]},
+        {"q":"Tom and Anna / dance (NO)","a":["Are Tom and Anna dancing?","No, they aren't."]}
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {"q":"am / I / reading / a comic","a":"I am reading a comic."},
+        {"q":"is / Rocky / sleeping","a":"Rocky is sleeping."},
+        {"q":"you / are / listening / ?","a":"Are you listening?"},
+        {"q":"aren't / we / TV / watching","a":"We aren't watching TV."},
+        {"q":"is / what / doing / Lucía / ?","a":"What is Lucía doing?"},
+        {"q":"it / raining / is / ?","a":"Is it raining?"},
+        {"q":"Lucía / in the sea / is / swimming","a":"Lucía is swimming in the sea."},
+        {"q":"isn't / Dad / the car / washing","a":"Dad isn't washing the car."}
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {"q":"She playing football.","a":"She is playing football."},
+        {"q":"I am play the guitar.","a":"I am playing the guitar."},
+        {"q":"They is running.","a":"They are running."},
+        {"q":"He is swiming.","a":"He is swimming."},
+        {"q":"We are writting a story.","a":"We are writing a story."},
+        {"q":"You are listening?","a":"Are you listening?"},
+        {"q":"Rocky no is eating.","a":"Rocky isn't eating."},
+        {"q":"Is she sleep?","a":"Is she sleeping?"}
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Recuerda las dos piezas: am / is / are + -ing.",
+      "en": "Translate into English.",
+      "items": [
+        {"q":"Estoy leyendo un libro.","a":"I'm reading a book."},
+        {"q":"Rocky está durmiendo.","a":"Rocky is sleeping."},
+        {"q":"Está lloviendo.","a":"It's raining."},
+        {"q":"No estamos viendo la tele.","a":"We aren't watching TV."},
+        {"q":"¿Estás escuchando?","a":"Are you listening?"},
+        {"q":"¿Qué estás haciendo?","a":"What are you doing?"},
+        {"q":"Leo está nadando en la piscina.","a":"Leo is swimming in the pool."},
+        {"q":"¡Mira! Lucía está bailando.","a":"Look! Lucía is dancing."}
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "A busy Saturday",
+      "text": [
+        "It's Saturday morning and everybody in my house is busy. I'm in the living room and I'm writing this story. Mum is in the kitchen. She's making pancakes. Mmm! Dad isn't cooking. He's washing the car in the garden.",
+        "My sister Lucía is in her room. She's listening to music and she's dancing. And Rocky? He isn't sleeping today. He's running after a ball in the garden. Oh no! Now he's jumping on Dad's clean car!"
+      ],
+      "items": [
+        {"q":"Mum is washing the car.","tf":true,"a":false,"why":"She's making pancakes."},
+        {"q":"Lucía is dancing.","tf":true,"a":true},
+        {"q":"Rocky is sleeping.","tf":true,"a":false,"why":"He's running after a ball."},
+        {"q":"Where is Dad?","a":"He's in the garden."},
+        {"q":"What is Mario doing?","a":"He's writing a story."},
+        {"q":"What is Lucía listening to?","a":"She's listening to music."},
+        {"q":"What is Rocky doing now?","a":"He's jumping on Dad's car."}
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea la palabra",
+      "title_en": "Spell the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra con -ing. (¡Ojo con las letras dobles!)",
+      "en": "Unscramble the letters and write the -ing word.",
+      "items": [
+        {"q":"🏊 nadando","a":"swimming"},
+        {"q":"🏃 corriendo","a":"running"},
+        {"q":"💃 bailando","a":"dancing"},
+        {"q":"✍️ escribiendo","a":"writing"},
+        {"q":"😴 durmiendo","a":"sleeping"},
+        {"q":"🪑 sentado","a":"sitting"}
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca las 8 palabras con -ing. Después escribe dos frases sobre lo que hace tu familia ahora.",
+      "en": "Find the 8 -ing words. Then write two sentences about your family now.",
+      "words": ["dancing","reading","cooking","sleeping","flying","eating","singing","jumping"],
+      "clues": [
+        "dancing · bailando",
+        "reading · leyendo",
+        "cooking · cocinando",
+        "sleeping · durmiendo",
+        "flying · volando",
+        "eating · comiendo",
+        "singing · cantando",
+        "jumping · saltando"
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Mira a tu alrededor y escribe qué está pasando ahora.",
+      "en": "Look around you and write what is happening now.",
+      "items": [
+        {"q":"¿Qué estás haciendo <b>ahora mismo</b>? I'm…","lines":1,"a":"Ej.: I'm doing my English homework."},
+        {"q":"¿Qué están haciendo 2 personas de tu casa? He's… / She's…","lines":2,"a":"Ej.: Mum is reading a book. Lucía is watching TV."},
+        {"q":"Escribe 2 cosas que <b>no</b> estás haciendo: I'm not…","lines":2,"a":"Ej.: I'm not sleeping. I'm not playing football."},
+        {"q":"Imagina un dibujo del parque y descríbelo: A boy is… Two girls are…","lines":2,"a":"Ej.: A boy is riding a bike. Two girls are playing with a ball."}
+      ]
+    }
+  ],
+  "checklist": [
+    {"es":"Sé formar el present continuous: <b>am / is / are + -ing</b>.","en":"I can make the present continuous."},
+    {"es":"Sé escribir bien el -ing: mak<b>ing</b>, swim<b>ming</b>, l<b>ying</b>.","en":"I can spell -ing forms."},
+    {"es":"Sé hacer negativas: I'm not, isn't, aren't.","en":"I can make negatives."},
+    {"es":"Sé preguntar <b>Are you…?</b> y contestar Yes, I am. / No, I'm not.","en":"I can ask and answer questions."},
+    {"es":"Uso <b>now, at the moment, Look!</b> y <b>Listen!</b>","en":"I can use now, at the moment, Look! and Listen!"},
+    {"es":"Sé describir un dibujo: She's flying a kite.","en":"I can describe a picture."}
+  ]
+}

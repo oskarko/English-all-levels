@@ -1,0 +1,824 @@
+{
+  "id": "B2-10",
+  "level": "B2",
+  "title": "CONECTORES",
+  "file_title": "Conectores",
+  "subtitle": "Linkers · although, despite, however…",
+  "icon": "🔗",
+  "map": {
+    "center": "Los <b>CONECTORES</b> unen ideas: <b>contraste</b>, <b>resultado</b> y <b>finalidad</b>. ¡Fíjate en lo que va detrás!",
+    "nodes": [
+      {
+        "title": "Aunque: + frase",
+        "icon": "📝",
+        "items": [
+          "<b>although / though / even though</b> + sujeto + verbo",
+          "<b>Although</b> it was late, we stayed. <i>(Aunque era tarde…)</i>",
+          "even though = más enfático"
+        ]
+      },
+      {
+        "title": "A pesar de",
+        "icon": "📦",
+        "art": "☔",
+        "items": ["<b>despite / in spite of</b> + nombre o -ing", "<b>Despite</b> the rain… · <b>In spite of</b> being tired…", "<s>despite of</s> ✗"]
+      },
+      {
+        "title": "Sin embargo",
+        "icon": "↩️",
+        "items": ["<b>However,</b> empieza una frase nueva.", "It's cheap. <b>However,</b> it's ugly.", "Punto (o ;) antes y coma después."]
+      },
+      {
+        "title": "Mientras que",
+        "icon": "⚖️",
+        "items": ["<b>whereas / while</b>: comparan dos cosas opuestas.", "I love tea, <b>whereas</b> Ana prefers coffee."]
+      },
+      {"title": "Resultado", "icon": "➡️", "items": ["<b>therefore</b> = por lo tanto (formal)", "He was ill. <b>Therefore,</b> he stayed at home."]},
+      {
+        "title": "Finalidad: para",
+        "icon": "🎯",
+        "art": "🏹",
+        "items": ["<b>(in order) to / so as to</b> + infinitivo", "<b>so that</b> + sujeto + can / could", "<s>for to</s> ✗"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["Despite it was raining, we went out."],
+      "good": ["Although it was raining, we went out."],
+      "note": "despite + <b>nombre / -ing</b> · although + <b>frase</b>"
+    },
+    "mini": {
+      "es": "Completa con although, despite, however, whereas o so that.",
+      "en": "Complete with although, despite, however, whereas or so that.",
+      "items": [
+        {"q": "___ it was cold, we swam.", "a": "Although"},
+        {"q": "___ the traffic, we arrived on time.", "a": "Despite"},
+        {"q": "It's cheap. ___, it isn't very good.", "a": "However"},
+        {"q": "I like cats, ___ Ana prefers dogs.", "a": "whereas"},
+        {"q": "Speak up ___ everyone can hear you.", "a": "so that"}
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Los <b>conectores</b> (<i>linkers</i>) unen ideas y dicen <b>qué relación</b> hay entre ellas: <b>contraste</b> (<i>aunque, a pesar de, sin embargo</i>), <b>comparación</b> (<i>mientras que</i>), <b>resultado</b> (<i>por lo tanto</i>) y <b>finalidad</b> (<i>para, para que</i>). La clave en inglés es <mark>lo que va detrás</mark>: una frase completa, un nombre, un -ing o un infinitivo. Usarlos bien sube la nota de <i>Organisation</i> en el Writing del B2 First.",
+      "en": "<b>Linkers</b> connect ideas and show the relationship between them: contrast, comparison, result and purpose. The key is <mark>what comes after them</mark>.",
+      "formula": ["*although* + sujeto + verbo", "*despite* + nombre / -ing", "*However,* + nueva oración", "*in order to* + infinitivo"]
+    },
+    {
+      "t": "rule",
+      "title": "1 · ALTHOUGH, THOUGH, EVEN THOUGH",
+      "title_en": "Although, though, even though",
+      "icon": "📝",
+      "color": "green",
+      "es": "Significan <i>aunque</i>. Detrás va una <b>frase completa</b> (sujeto + verbo). Pueden ir al principio (con coma entre las dos partes) o en medio. <b>even though</b> es más enfático (<i>aun cuando</i>); <b>though</b> es más informal y también puede ir al <b>final</b> = <i>eso sí, de todas formas</i>. ¡No añadas <em>but</em> en la otra parte!",
+      "en": "They mean <i>aunque</i> and are followed by a <b>clause</b> (subject + verb). Even though is more emphatic; though can also go at the end. Don't add <em>but</em>.",
+      "formula": ["*Although* + sujeto + verbo*,* + frase principal", "frase principal + *even though* + sujeto + verbo"],
+      "examples": [
+        {"en": "<b>Although</b> it was raining, we went for a walk.", "es": "Aunque llovía, salimos a dar un paseo.", "icon": "🌧️"},
+        {"en": "She went to work <b>even though</b> she had a temperature.", "es": "Fue a trabajar aunque tenía fiebre.", "icon": "🤒"},
+        {
+          "en": "The food was great. The service was slow, <b>though</b>.",
+          "es": "La comida estaba buenísima. Eso sí, el servicio era lento.",
+          "icon": "🍝"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco: ¿frase o nombre?",
+      "title_en": "Clause or noun?",
+      "es": "Antes de elegir, mira lo que viene <b>detrás</b>. ¿Hay <b>sujeto + verbo</b> (<i>it was raining</i>)? → <b>although / even though</b>. ¿Hay un <b>nombre</b> o <b>-ing</b> (<i>the rain, being tired</i>)? → <b>despite / in spite of</b>. En español: <i>aunque</i> + verbo conjugado = although; <i>a pesar de</i> + nombre / infinitivo = despite. Y <i>para</i> + infinitivo = <b>to</b>; <i>para que</i> + subjuntivo = <b>so that</b>.",
+      "en": "Subject + verb → although. Noun / -ing → despite. Para = to; para que = so that."
+    },
+    {
+      "t": "rule",
+      "title": "2 · DESPITE, IN SPITE OF",
+      "title_en": "Despite, in spite of",
+      "icon": "📦",
+      "color": "blue",
+      "es": "Significan <i>a pesar de</i>. Detrás va un <b>nombre</b>, un <b>pronombre</b> o un verbo en <b>-ing</b>, nunca sujeto + verbo. Para meter una frase completa usa <b>despite the fact that</b> (= <i>a pesar de que</i>). ¡Ojo! <em>despite</em> no lleva <em>of</em>; <em>in spite</em> sí: <s>despite of</s>.",
+      "en": "They mean <i>a pesar de</i> and are followed by a <b>noun</b> or <b>-ing</b>. With a clause, use <b>despite the fact that</b>. Never <s>despite of</s>.",
+      "formula": ["*Despite / In spite of* + nombre / -ing", "*Despite the fact that* + sujeto + verbo"],
+      "examples": [
+        {"en": "<b>Despite</b> the traffic, we arrived on time.", "es": "A pesar del tráfico, llegamos a tiempo.", "icon": "🚗"},
+        {"en": "<b>In spite of</b> being tired, he finished the report.", "es": "A pesar de estar cansado, terminó el informe.", "icon": "📄"},
+        {
+          "en": "<b>Despite the fact that</b> she's only 22, she runs her own company.",
+          "es": "A pesar de que solo tiene 22 años, dirige su propia empresa.",
+          "icon": "👩‍💼"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿ALTHOUGH o DESPITE?",
+      "title_en": "Although or despite?",
+      "color": "purple",
+      "icon": "⚖️",
+      "es": "Significan casi lo mismo, pero detrás llevan cosas distintas. Mira lo que viene después: ¿hay <b>sujeto + verbo</b>? → although. ¿Hay un <b>nombre</b> o <b>-ing</b>? → despite.",
+      "en": "Subject + verb → although. Noun or -ing → despite.",
+      "cols": [
+        {
+          "head": "📝 although + FRASE",
+          "color": "green",
+          "items": ["Although <b>it rained</b>, …", "Although <b>he was tired</b>, …", "Although <b>she's rich</b>, …"]
+        },
+        {
+          "head": "📦 despite + NOMBRE / -ING",
+          "color": "orange",
+          "items": ["Despite <b>the rain</b>, …", "Despite <b>being tired</b>, …", "Despite <b>her money</b>, …"]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · HOWEVER, NEVERTHELESS",
+      "title_en": "However, nevertheless",
+      "icon": "↩️",
+      "color": "orange",
+      "es": "<b>However</b> = <i>sin embargo</i>. Une dos <b>oraciones separadas</b>: va al principio de la segunda, después de un <b>punto</b> (o punto y coma) y seguido de <b>coma</b>. ¡No puede unir dos frases solo con una coma, como <i>but</i>! <b>Nevertheless</b> es igual pero más formal. También puede ir en medio, entre comas: <i>The plan, however, failed.</i>",
+      "en": "<b>However</b> links two separate sentences: full stop (or semicolon) + However + comma. Nevertheless is more formal.",
+      "formula": ["Frase 1*.* *However,* frase 2.", "Frase 1*;* *however,* frase 2."],
+      "examples": [
+        {"en": "The flat is small. <b>However</b>, it's very central.", "es": "El piso es pequeño. Sin embargo, está muy céntrico.", "icon": "🏢"},
+        {
+          "en": "We tried to book a table; <b>however</b>, the restaurant was full.",
+          "es": "Intentamos reservar mesa; sin embargo, el restaurante estaba lleno.",
+          "icon": "🍽️"
+        },
+        {
+          "en": "The results were good. <b>Nevertheless</b>, there is still work to do.",
+          "es": "Los resultados fueron buenos. No obstante, aún queda trabajo por hacer.",
+          "icon": "📊"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · WHEREAS, WHILE",
+      "title_en": "Whereas, while",
+      "icon": "⚖️",
+      "color": "teal",
+      "es": "Sirven para <b>comparar dos cosas opuestas</b>: <i>mientras que</i>. Detrás va una frase completa. Suelen ir en medio (con coma delante) o al principio. <b>while</b> es más frecuente al hablar; <b>whereas</b> suena más formal. Ojo: <b>while</b> también significa <i>mientras</i> (tiempo): <i>I read while I wait.</i>",
+      "en": "They compare two opposite facts (<i>mientras que</i>). While is more common in speech; whereas is more formal.",
+      "formula": ["frase 1*,* *whereas / while* + frase 2"],
+      "examples": [
+        {
+          "en": "I'm an early bird, <b>whereas</b> my partner hates mornings.",
+          "es": "Yo soy madrugador, mientras que mi pareja odia las mañanas.",
+          "icon": "🌅"
+        },
+        {
+          "en": "<b>While</b> some people love social media, others find it stressful.",
+          "es": "Mientras que a algunos les encantan las redes sociales, a otros les estresan.",
+          "icon": "📱"
+        },
+        {
+          "en": "In Spain we have lunch at two, <b>whereas</b> in the UK people eat at around one.",
+          "es": "En España comemos a las dos, mientras que en el Reino Unido se come sobre la una.",
+          "icon": "🥪"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · THEREFORE: resultado",
+      "title_en": "Therefore: result",
+      "icon": "➡️",
+      "color": "pink",
+      "es": "<b>Therefore</b> = <i>por lo tanto, por consiguiente</i>. Introduce un <b>resultado</b> o una <b>conclusión</b>. Es más formal que <i>so</i>: ideal para redacciones e informes. Va al principio de la segunda oración (tras punto o punto y coma, con coma) o antes del verbo principal: <i>It is therefore important to…</i>",
+      "en": "<b>Therefore</b> introduces a result or conclusion. It is more formal than <i>so</i>.",
+      "formula": ["Frase 1*.* *Therefore,* frase 2.", "sujeto + *is therefore* + …"],
+      "examples": [
+        {
+          "en": "The train was cancelled. <b>Therefore</b>, we had to take a taxi.",
+          "es": "Cancelaron el tren. Por lo tanto, tuvimos que coger un taxi.",
+          "icon": "🚆"
+        },
+        {
+          "en": "Prices have risen; <b>therefore</b>, many families are spending less.",
+          "es": "Los precios han subido; por lo tanto, muchas familias gastan menos.",
+          "icon": "📈"
+        },
+        {"en": "It is <b>therefore</b> essential to book in advance.", "es": "Por lo tanto, es imprescindible reservar con antelación.", "icon": "📅"}
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Qué conector uso?",
+      "title_en": "Which linker do I use?",
+      "color": "orange",
+      "items": [
+        {"es": "¿Qué relación hay? <b>Contraste</b>, <b>comparación</b>, <b>resultado</b> o <b>finalidad</b>.", "en": "What's the relationship?"},
+        {
+          "es": "Contraste: ¿detrás hay sujeto + verbo? → <b>although</b>. ¿Nombre o -ing? → <b>despite</b>.",
+          "en": "Clause → although. Noun / -ing → despite."
+        },
+        {
+          "es": "¿Empiezas una oración nueva? → <b>However,</b> / <b>Therefore,</b> (punto antes, coma después).",
+          "en": "New sentence → However, / Therefore,"
+        },
+        {
+          "es": "Finalidad: mismo sujeto → <b>(in order) to</b> + infinitivo. Otro sujeto → <b>so that</b> + can / could.",
+          "en": "Same subject → to. Different subject → so that."
+        },
+        {"es": "Revisa la <b>puntuación</b> y el <b>registro</b> (formal en redacciones).", "en": "Check punctuation and register."}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · Finalidad: IN ORDER TO, SO THAT",
+      "title_en": "Purpose: in order to, so that",
+      "icon": "🎯",
+      "color": "purple",
+      "es": "Para decir <b>para qué</b> hacemos algo: <b>to / in order to / so as to</b> + <b>infinitivo</b> (<i>para</i> + infinitivo). Negativa: <b>in order not to / so as not to</b>. Si hay <b>otro sujeto</b> o un modal: <b>so that</b> + sujeto + <b>can / could / will / would</b> (<i>para que</i> + subjuntivo). ¡Nunca <s>for to</s> ni <s>for + infinitivo</s>!",
+      "en": "Purpose: <b>(in order) to / so as to</b> + infinitive. With another subject or a modal: <b>so that</b> + subject + can / could / will / would. Never <s>for to</s>.",
+      "formula": ["*(in order) to / so as to* + infinitivo", "*so that* + sujeto + can / could / will / would"],
+      "examples": [
+        {"en": "I'm saving money <b>in order to</b> buy a car.", "es": "Estoy ahorrando para comprarme un coche.", "icon": "💰"},
+        {"en": "We left early <b>so as not to</b> miss the train.", "es": "Salimos pronto para no perder el tren.", "icon": "🚉"},
+        {
+          "en": "I'll send you the address <b>so that</b> you can find the place.",
+          "es": "Te mando la dirección para que encuentres el sitio.",
+          "icon": "📍"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "Although I'd studied a lot, I found the exam really hard.",
+          "es": "Aunque había estudiado mucho, el examen me pareció dificilísimo.",
+          "icon": "📝"
+        },
+        {
+          "en": "Despite the bad reviews, the film was a huge success.",
+          "es": "A pesar de las malas críticas, la película fue un exitazo.",
+          "icon": "🎬"
+        },
+        {
+          "en": "The job is well paid. However, the hours are very long.",
+          "es": "El trabajo está bien pagado. Sin embargo, el horario es larguísimo.",
+          "icon": "💼"
+        },
+        {
+          "en": "My brother loves football, whereas I can't stand it.",
+          "es": "A mi hermano le encanta el fútbol, mientras que yo no lo soporto.",
+          "icon": "⚽"
+        },
+        {
+          "en": "The company lost money last year; therefore, it had to cut jobs.",
+          "es": "La empresa perdió dinero el año pasado; por lo tanto, tuvo que recortar plantilla.",
+          "icon": "📉"
+        },
+        {"en": "I set two alarms so that I wouldn't oversleep.", "es": "Puse dos alarmas para no quedarme dormido.", "icon": "⏰"},
+        {"en": "In spite of having a cold, she ran the marathon.", "es": "A pesar de estar resfriada, corrió el maratón.", "icon": "🏃‍♀️"},
+        {"en": "We took the motorway in order to save time.", "es": "Cogimos la autopista para ahorrar tiempo.", "icon": "🛣️"},
+        {
+          "en": "Even though he's lived in London for ten years, he still hates the weather.",
+          "es": "Aunque lleva diez años viviendo en Londres, sigue odiando el clima.",
+          "icon": "🌦️"
+        },
+        {
+          "en": "While cities offer more jobs, villages offer a calmer lifestyle.",
+          "es": "Mientras que las ciudades ofrecen más trabajo, los pueblos ofrecen una vida más tranquila.",
+          "icon": "🏘️"
+        },
+        {"en": "I turned my phone off so as not to be disturbed.", "es": "Apagué el móvil para que no me molestaran.", "icon": "📵"},
+        {"en": "Nice hotel. A bit noisy, though.", "es": "Buen hotel. Eso sí, algo ruidoso.", "icon": "🏨"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Todo junto",
+      "title_en": "All together",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": ["Conector", "Función", "Detrás va…", "Posición y puntuación", "Ejemplo"],
+      "rows": [
+        [
+          "<b>although / though / even though</b>",
+          "contraste · aunque",
+          "sujeto + verbo",
+          "al principio (con coma) o en medio",
+          "Although it was late, we stayed."
+        ],
+        [
+          "<b>despite / in spite of</b>",
+          "contraste · a pesar de",
+          "nombre / -ing / the fact that",
+          "al principio (con coma) o en medio",
+          "Despite the rain, we went out."
+        ],
+        [
+          "<b>however / nevertheless</b>",
+          "contraste · sin embargo",
+          "oración completa",
+          "«. However,» o «; however,»",
+          "It's cheap. However, it's ugly."
+        ],
+        [
+          "<b>whereas / while</b>",
+          "comparación · mientras que",
+          "sujeto + verbo",
+          "en medio (con coma) o al principio",
+          "I like rock, whereas Ana likes jazz."
+        ],
+        [
+          "<b>therefore</b>",
+          "resultado · por lo tanto",
+          "oración completa",
+          "«. Therefore,» o antes del verbo",
+          "He was ill. Therefore, he stayed in."
+        ],
+        ["<b>in order to / so as to</b>", "finalidad · para", "infinitivo", "en medio (sin coma)", "I came in order to help."],
+        ["<b>so that</b>", "finalidad · para que", "sujeto + can / could / will / would", "en medio (sin coma)", "Speak up so that we can hear you."]
+      ],
+      "note": "However, Therefore y Nevertheless al principio de oración llevan <b>coma detrás</b>.",
+      "note_en": "However, Therefore and Nevertheless at the start of a sentence are followed by a comma."
+    },
+    {
+      "t": "table",
+      "title": "Del español al inglés",
+      "title_en": "From Spanish to English",
+      "icon": "🔁",
+      "color": "teal",
+      "head": ["Español", "English", "¡Ojo!"],
+      "rows": [
+        ["aunque + verbo", "although / even though", "+ sujeto + verbo"],
+        ["a pesar de + nombre / infinitivo", "despite / in spite of", "+ nombre / -ing"],
+        ["a pesar de que", "despite the fact that", "+ sujeto + verbo"],
+        ["sin embargo / no obstante", "however / nevertheless", ". However,"],
+        ["mientras que", "whereas / while", "contraste"],
+        ["por lo tanto", "therefore", "formal (= so)"],
+        ["para + infinitivo", "to / in order to", "<s>for to</s> ✗"],
+        ["para que + subjuntivo", "so that + can / could", "otro sujeto"]
+      ],
+      "note": "Registro: en emails y al hablar → <i>but, so, to, though</i>. En redacciones e informes → <b>however, therefore, in order to, whereas, although</b>.",
+      "note_en": "Informal: but, so, to. Formal writing: however, therefore, in order to, whereas."
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "Despite it was raining, we played.",
+          "good": "<b>Although</b> it was raining, we played. / Despite <b>the rain</b>, we played.",
+          "why": "despite + nombre / -ing; con sujeto + verbo → although.",
+          "why_en": "Despite + noun / -ing; clause → although."
+        },
+        {
+          "bad": "Despite of the price, I bought it.",
+          "good": "<b>Despite</b> the price, I bought it.",
+          "why": "despite nunca lleva of (in spite of sí).",
+          "why_en": "No of after despite."
+        },
+        {
+          "bad": "Although I was tired, but I went out.",
+          "good": "Although I was tired, I went out.",
+          "why": "Con although no se añade but: una sola conjunción.",
+          "why_en": "Don't use although and but together."
+        },
+        {
+          "bad": "The hotel was cheap, however it was dirty.",
+          "good": "The hotel was cheap<b>. However,</b> it was dirty.",
+          "why": "however no une frases con coma: punto (o ;) + However,",
+          "why_en": "Full stop / semicolon before however."
+        },
+        {
+          "bad": "I'm learning English for get a better job.",
+          "good": "I'm learning English <b>to get</b> a better job.",
+          "why": "«para + infinitivo» = to / in order to, nunca for.",
+          "why_en": "Purpose: to + infinitive, not for."
+        },
+        {
+          "bad": "I left early for not to miss the bus.",
+          "good": "I left early <b>so as not to</b> miss the bus.",
+          "why": "Finalidad negativa: so as not to / in order not to.",
+          "why_en": "Negative purpose: so as not to."
+        },
+        {
+          "bad": "Even I was ill, I went to work.",
+          "good": "<b>Even though</b> I was ill, I went to work.",
+          "why": "even solo = incluso; «aunque» = even though.",
+          "why_en": "Even alone ≠ even though."
+        },
+        {
+          "bad": "In spite of be tired, he won.",
+          "good": "In spite of <b>being</b> tired, he won.",
+          "why": "Tras despite / in spite of → verbo en -ing.",
+          "why_en": "Despite / in spite of + -ing."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Buscando piso",
+      "title_en": "Flat hunting",
+      "lines": [
+        {"who": "Clara", "en": "So, what did you think of the flat in Malasaña?", "es": "Bueno, ¿qué te pareció el piso de Malasaña?"},
+        {
+          "who": "Rob",
+          "en": "I liked it. Although it's quite small, it's really bright.",
+          "es": "Me gustó. Aunque es bastante pequeño, tiene muchísima luz."
+        },
+        {
+          "who": "Clara",
+          "en": "True. However, the rent is a bit high for us.",
+          "es": "Es verdad. Sin embargo, el alquiler es algo alto para nosotros."
+        },
+        {
+          "who": "Rob",
+          "en": "The other one is cheaper, whereas this one is much more central.",
+          "es": "El otro es más barato, mientras que este es mucho más céntrico."
+        },
+        {
+          "who": "Clara",
+          "en": "Despite the price, I think it's worth it. We'd save on transport.",
+          "es": "A pesar del precio, creo que merece la pena. Ahorraríamos en transporte."
+        },
+        {
+          "who": "Rob",
+          "en": "Good point. Let's call the agent today so that nobody else gets it first.",
+          "es": "Buena idea. Llamemos hoy a la agencia para que no nos lo quite nadie."
+        },
+        {
+          "who": "Clara",
+          "en": "OK. I'll ask for a discount in order to keep the rent under 1,000 euros.",
+          "es": "Vale. Pediré un descuento para mantener el alquiler por debajo de 1.000 euros."
+        },
+        {
+          "who": "Rob",
+          "en": "Perfect. We're signing for two years, though, so let's read the contract carefully.",
+          "es": "Perfecto. Eso sí, firmamos por dos años, así que leamos bien el contrato."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "¿Qué significa?",
+      "title_en": "Match the meaning",
+      "icon": "🔗",
+      "es": "Une cada conector con su significado.",
+      "en": "Match each linker with its meaning.",
+      "pairs": [
+        ["although", "aunque (+ sujeto + verbo)"],
+        ["despite", "a pesar de (+ nombre / -ing)"],
+        ["however", "sin embargo"],
+        ["whereas", "mientras que (contraste)"],
+        ["therefore", "por lo tanto"],
+        ["in order to", "para (+ infinitivo)"],
+        ["so that", "para que (+ sujeto + verbo)"],
+        ["even though", "aun cuando (más enfático)"]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Qué va detrás?",
+      "title_en": "What comes after?",
+      "icon": "🗂️",
+      "es": "Clasifica cada conector según lo que va detrás.",
+      "en": "Sort the linkers by what comes after them.",
+      "cats": [
+        {"name": "📝 + sujeto + verbo", "words": ["although", "even though", "though", "whereas", "while", "so that"]},
+        {"name": "📦 + nombre / -ing", "words": ["despite", "in spite of"]},
+        {"name": "🎯 + infinitivo", "words": ["in order to", "so as to"]},
+        {"name": "↩️ inicio de oración + coma", "words": ["However", "Therefore", "Nevertheless"]}
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Although o despite?",
+      "title_en": "Although or despite?",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta. Mira lo que va detrás: ¿frase o nombre / -ing?",
+      "en": "Circle the correct option.",
+      "items": [
+        {"q": "[Although|Despite] it was late, we kept talking.", "a": "Although"},
+        {"q": "[Although|Despite] the noise, I managed to sleep.", "a": "Despite"},
+        {"q": "She got the job [although|in spite of] her lack of experience.", "a": "in spite of"},
+        {"q": "[Even though|Despite] he's rich, he lives in a tiny flat.", "a": "Even though"},
+        {"q": "[Although|Despite] feeling ill, she went to the meeting.", "a": "Despite"},
+        {"q": "We enjoyed the trip [although|despite] the weather was awful.", "a": "although"},
+        {"q": "[In spite|Despite] of the cold, they swam in the sea.", "a": "In spite"},
+        {"q": "[Though|Despite] the fact that it was expensive, we bought it.", "a": "Despite"},
+        {"q": "He failed [even though|despite] studying every day.", "a": "despite"},
+        {"q": "It was a great holiday. A bit short, [though|despite].", "a": "though"}
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Elige el conector",
+      "title_en": "Choose the linker",
+      "icon": "🧭",
+      "es": "Rodea el conector correcto. Piensa en la relación: ¿contraste, comparación, resultado o finalidad?",
+      "en": "Circle the correct linker.",
+      "items": [
+        {"q": "The flat is lovely. [However|Therefore], it's too expensive for us.", "a": "However"},
+        {"q": "I missed the bus. [Therefore|However], I was late for work.", "a": "Therefore"},
+        {"q": "I'm a night owl, [whereas|so that] my sister gets up at six.", "a": "whereas"},
+        {"q": "Write it down [so that|in order to] you don't forget.", "a": "so that"},
+        {"q": "She moved to Berlin [in order to|so that] learn German.", "a": "in order to"},
+        {"q": "We whispered [so as not to|so that not] wake the baby.", "a": "so as not to"},
+        {"q": "[While|Therefore] some people love cities, others prefer the countryside.", "a": "While"},
+        {"q": "The roads were icy; [therefore|whereas], the school was closed.", "a": "therefore"},
+        {"q": "He's very talented. [Nevertheless|Whereas], he needs to work harder.", "a": "Nevertheless"},
+        {"q": "I gave her my number [so that|in order to] she could call me.", "a": "so that"}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Completa con el banco",
+      "title_en": "Complete with the word bank",
+      "icon": "✏️",
+      "es": "Completa con un conector del banco. A veces hay dos opciones posibles.",
+      "en": "Complete with a linker from the bank.",
+      "bank": ["although", "despite", "however", "whereas", "therefore", "in order to", "so that", "even though", "in spite of", "while"],
+      "items": [
+        {"q": "____ it was very cold, we went to the beach.", "a": ["Although", "Even though"]},
+        {"q": "____ the rain, the concert went ahead.", "a": ["Despite", "In spite of"]},
+        {"q": "The hotel was beautiful. ____, the food was terrible.", "a": "However"},
+        {"q": "Lucas is very shy, ____ his twin brother is really outgoing.", "a": ["whereas", "while"]},
+        {"q": "She studied medicine ____ help people.", "a": "in order to"},
+        {"q": "Turn the music down ____ the neighbours don't complain.", "a": "so that"},
+        {"q": "The company made huge losses. ____, the CEO resigned.", "a": "Therefore"},
+        {"q": "He kept running ____ his injury.", "a": ["despite", "in spite of"]},
+        {"q": "I still feel tired ____ I slept for ten hours.", "a": ["even though", "although"]},
+        {"q": "____ some students prefer online classes, others need face-to-face teaching.", "a": ["While", "Whereas"]}
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "De although a despite",
+      "title_en": "From although to despite",
+      "icon": "📋",
+      "wide": true,
+      "es": "Reescribe cada inicio con despite + nombre y con despite + -ing. Usa los nombres del banco.",
+      "en": "Rewrite each beginning with despite + noun and despite + -ing.",
+      "bank": ["illness", "wealth", "tiredness", "defeat", "late arrival", "experience"],
+      "head": ["although + frase", "despite + nombre", "despite + -ing"],
+      "rows": [
+        ["Although she was ill,", "?Despite her illness,", "?Despite being ill,"],
+        ["Although he is very rich,", "?Despite his wealth,", "?Despite being very rich,"],
+        ["Although I was tired,", "?Despite my tiredness,", "?Despite being tired,"],
+        ["Although they lost the match,", "?Despite their defeat,", "?Despite losing the match,"],
+        ["Although we arrived late,", "?Despite our late arrival,", "?Despite arriving late,"],
+        ["Although she has a lot of experience,", "?Despite her experience,", "?Despite having a lot of experience,"]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "¿Para o para que?",
+      "title_en": "Purpose",
+      "icon": "🎯",
+      "es": "Completa con to, in order (not) to, so as (not) to o so that.",
+      "en": "Complete with to, in order (not) to, so as (not) to or so that.",
+      "items": [
+        {"q": "I went to the shop ____ buy some bread.", "a": ["to", "in order to", "so as to"]},
+        {"q": "I'll leave the key under the mat ____ you can get in.", "a": "so that"},
+        {"q": "We left early ____ miss the beginning of the film.", "a": ["so as not to", "in order not to"]},
+        {"q": "She speaks slowly ____ everyone can understand her.", "a": "so that"},
+        {"q": "He's saving money ____ travel round Asia next year.", "a": ["to", "in order to", "so as to"]},
+        {"q": "Put your coat on ____ you don't catch a cold.", "a": "so that"},
+        {"q": "I set an alarm ____ forget my appointment.", "a": ["so as not to", "in order not to"]},
+        {"q": "They moved to the coast ____ their children could grow up near the sea.", "a": "so that"}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Une las frases",
+      "title_en": "Join the sentences",
+      "icon": "🔄",
+      "es": "Une las dos frases con el conector en azul. Cuida la puntuación.",
+      "en": "Join the two sentences with the linker given.",
+      "items": [
+        {
+          "q": "It was raining. We went for a walk.",
+          "hint": "<b>although</b>",
+          "a": "Although it was raining, we went for a walk. / We went for a walk although it was raining."
+        },
+        {
+          "q": "The film had bad reviews. It was a big success.",
+          "hint": "<b>despite</b>",
+          "a": "Despite the bad reviews, the film was a big success."
+        },
+        {"q": "The flat is small. It's very bright.", "hint": "<b>however</b>", "a": "The flat is small. However, it's very bright."},
+        {"q": "My dad loves jazz. My mum prefers pop.", "hint": "<b>whereas</b>", "a": "My dad loves jazz, whereas my mum prefers pop."},
+        {"q": "She was exhausted. She finished the race.", "hint": "<b>in spite of</b>", "a": "In spite of being exhausted, she finished the race."},
+        {
+          "q": "He went to London. He wanted to improve his English.",
+          "hint": "<b>in order to</b>",
+          "a": "He went to London in order to improve his English."
+        },
+        {"q": "I'll call you. You won't worry.", "hint": "<b>so that</b>", "a": "I'll call you so that you won't (don't) worry."},
+        {
+          "q": "Sales fell by 20%. The shop closed.",
+          "hint": "<b>therefore</b>",
+          "a": "Sales fell by 20%. Therefore, the shop closed. / Sales fell by 20%; therefore, the shop closed."
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. Añade las comas que hagan falta. (La mayúscula indica el principio.)",
+      "en": "Put the words in order. Add commas where needed.",
+      "items": [
+        {"q": "it / was / late / Although / we / stayed", "a": "Although it was late, we stayed."},
+        {"q": "the / Despite / we / rain / went out", "a": "Despite the rain, we went out."},
+        {"q": "It's / cheap / However / it's / ugly", "a": "It's cheap. However, it's ugly."},
+        {"q": "She / slowly / spoke / so that / could / we / understand", "a": "She spoke slowly so that we could understand."},
+        {"q": "He / to / in order / the gym / joined / get fit", "a": "He joined the gym in order to get fit."},
+        {"q": "being / In spite of / tired / she / the race / won", "a": "In spite of being tired, she won the race."},
+        {"q": "late / The / was / train / therefore / we / the meeting / missed", "a": "The train was late; therefore, we missed the meeting."},
+        {"q": "Most / love / summer / of my friends / whereas / winter / I / prefer", "a": "Most of my friends love summer, whereas I prefer winter."}
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Bien escrito?",
+      "title_en": "Correct or not?",
+      "icon": "✔️",
+      "es": "Marca T si la frase es correcta y F si tiene un error.",
+      "en": "Tick T if the sentence is correct and F if it is wrong.",
+      "items": [
+        {"q": "Despite the rain, we had a great time.", "a": true},
+        {"q": "Although it was expensive, but we bought it.", "a": false, "why": "Although it was expensive, we bought it."},
+        {"q": "It was late. However, nobody wanted to leave.", "a": true},
+        {"q": "Despite of the traffic, we arrived early.", "a": false, "why": "Despite the traffic / In spite of the traffic"},
+        {"q": "I'm studying hard in order to pass the exam.", "a": true},
+        {"q": "She moved to London for to find a job.", "a": false, "why": "to find / in order to find"},
+        {"q": "I love the beach, whereas my husband prefers the mountains.", "a": true},
+        {"q": "In spite of she was tired, she went out.", "a": false, "why": "In spite of being tired / Although she was tired"}
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {"q": "Despite she felt ill, she went to work.", "a": ["Although she felt ill, she went to work.", "Despite feeling ill, she went to work."]},
+        {"q": "In spite the noise, I fell asleep.", "a": "In spite of the noise, I fell asleep."},
+        {"q": "Even though it was sunny, but it was cold.", "a": "Even though it was sunny, it was cold."},
+        {"q": "The course was hard, however I passed.", "a": ["The course was hard. However, I passed.", "The course was hard; however, I passed."]},
+        {"q": "I'm going to the bank for take out some money.", "a": "I'm going to the bank to (in order to) take out some money."},
+        {"q": "Speak louder so that everyone hear you.", "a": "Speak louder so that everyone can hear you."},
+        {"q": "He took a taxi in order to not be late.", "a": ["He took a taxi in order not to be late.", "He took a taxi so as not to be late."]},
+        {"q": "Even I studied a lot, I failed.", "a": "Even though I studied a lot, I failed."}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones B2 First",
+      "title_en": "Key word transformations",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra en azul SIN cambiarla y escribe entre 2 y 5 palabras.",
+      "en": "Complete the second sentence so that it means the same as the first. Use the word given. Write 2-5 words.",
+      "items": [
+        {"q": "Although it was raining, we played tennis.<br>We played tennis _____ rain.", "hint": "<b>DESPITE</b>", "a": "despite the"},
+        {
+          "q": "Despite feeling tired, she went to the party.<br>She went to the party _____ tired.",
+          "hint": "<b>ALTHOUGH</b>",
+          "a": "although she felt / although she was"
+        },
+        {
+          "q": "He has no qualifications, but he got the job.<br>He got the job in _____ qualifications.",
+          "hint": "<b>SPITE</b>",
+          "a": "spite of having no"
+        },
+        {
+          "q": "We left early because we didn't want to miss the train.<br>We left early so _____ the train.",
+          "hint": "<b>AS</b>",
+          "a": "as not to miss"
+        },
+        {
+          "q": "I'll write it down because I don't want to forget it.<br>I'll write it down _____ forget it.",
+          "hint": "<b>THAT</b>",
+          "a": "so that I don't / so that I won't"
+        },
+        {
+          "q": "Despite the fact that it was expensive, the course was worth it.<br>_____ expensive, the course was worth it.",
+          "hint": "<b>THOUGH</b>",
+          "a": "Even though it was / Though it was"
+        },
+        {
+          "q": "The hotel was very comfortable, but it was too far from the centre.<br>The hotel was very comfortable. _____ too far from the centre.",
+          "hint": "<b>HOWEVER</b>",
+          "a": "However, it was"
+        },
+        {
+          "q": "She loves spicy food, but her husband hates it.<br>She loves spicy food, _____ hates it.",
+          "hint": "<b>WHEREAS</b>",
+          "a": "whereas her husband"
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee la redacción. Marca T o F y contesta. ¡Fíjate en los conectores!",
+      "en": "Read the essay. Tick T or F and answer the questions.",
+      "text_title": "Is working from home here to stay?",
+      "text": [
+        "Since the pandemic, millions of people have started working from home. Although many workers love the freedom it gives them, others feel lonely and isolated. So, is it really a good idea?",
+        "On the one hand, remote workers save time and money because they don't have to commute. My cousin Marta, for example, works from home in order to spend more time with her children. Despite having a smaller salary than before, she says she is much happier.",
+        "On the other hand, working from home is not for everyone. In an office, young employees learn by watching experienced colleagues, whereas at home they have nobody to ask. In my view, a mix of office and home working is the best option. Therefore, I believe companies should let their employees choose."
+      ],
+      "items": [
+        {"q": "All workers enjoy working from home.", "tf": true, "a": false, "why": "Although many love it, others feel lonely and isolated."},
+        {"q": "Marta earns more money now than before.", "tf": true, "a": false, "why": "Despite having a smaller salary than before…"},
+        {"q": "The writer thinks a mix of office and home working is best.", "tf": true, "a": true},
+        {"q": "Why does Marta work from home?", "a": "In order to spend more time with her children."},
+        {"q": "What problem do young employees have at home?", "a": "They have nobody to ask (they can't learn by watching experienced colleagues)."},
+        {"q": "Find a linker that introduces a purpose.", "a": "in order to"},
+        {"q": "Find a linker that compares two opposite situations.", "a": "whereas"},
+        {
+          "q": "Rewrite with although: 'Despite having a smaller salary, she is much happier.'",
+          "a": "Although she has a smaller salary, she is much happier."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿qué va detrás del conector?",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Aunque estaba cansado, salí con mis amigos.",
+          "a": ["Although I was tired, I went out with my friends.", "Even though I was tired, I went out with my friends."]
+        },
+        {"q": "A pesar del frío, fuimos a la playa.", "a": ["Despite the cold, we went to the beach.", "In spite of the cold, we went to the beach."]},
+        {"q": "El hotel era caro. Sin embargo, merecía la pena.", "a": "The hotel was expensive. However, it was worth it."},
+        {
+          "q": "Yo prefiero el té, mientras que mi hermana prefiere el café.",
+          "a": ["I prefer tea, whereas my sister prefers coffee.", "I prefer tea, while my sister prefers coffee."]
+        },
+        {"q": "Estoy estudiando para aprobar el examen de B2.", "a": "I'm studying (in order) to pass the B2 exam."},
+        {"q": "Te lo explico otra vez para que lo entiendas.", "a": "I'll explain it again so that you (can) understand it."},
+        {"q": "A pesar de estar enferma, fue a trabajar.", "a": ["Despite being ill, she went to work.", "In spite of being ill, she went to work."]},
+        {"q": "Llovió mucho; por lo tanto, se canceló el partido.", "a": "It rained a lot; therefore, the match was cancelled."}
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe tus propias frases con conectores.",
+      "en": "Write your own sentences with linkers.",
+      "items": [
+        {
+          "q": "Vivir en una gran ciudad: una ventaja y una desventaja con <b>although</b> o <b>however</b>.",
+          "lines": 2,
+          "a": "Ej.: Although big cities are noisy, there are lots of things to do. Rent is expensive. However, public transport is excellent."
+        },
+        {
+          "q": "Compárate con alguien de tu familia usando <b>whereas</b> o <b>while</b>.",
+          "lines": 1,
+          "a": "Ej.: I'm very sporty, whereas my brother prefers video games."
+        },
+        {
+          "q": "Explica para qué estudias inglés con <b>in order to</b> o <b>so that</b>.",
+          "lines": 1,
+          "a": "Ej.: I'm studying English in order to work abroad, and so that I can talk to people when I travel."
+        },
+        {
+          "q": "Escribe una frase con <b>despite + -ing</b> sobre algo difícil que conseguiste.",
+          "lines": 1,
+          "a": "Ej.: Despite being nervous, I gave a great presentation."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {"es": "Uso <b>although / even though</b> + sujeto + verbo.", "en": "I use although / even though + clause."},
+    {"es": "Uso <b>despite / in spite of</b> + nombre o -ing (¡nunca <s>despite of</s>!).", "en": "I use despite / in spite of + noun or -ing."},
+    {"es": "Escribo <b>However,</b> y <b>Therefore,</b> con la puntuación correcta.", "en": "I punctuate however and therefore correctly."},
+    {"es": "Comparo dos cosas opuestas con <b>whereas / while</b>.", "en": "I compare opposites with whereas / while."},
+    {
+      "es": "Expreso finalidad con <b>in order to / so as to</b> y <b>so that</b> (nunca <s>for to</s>).",
+      "en": "I express purpose with in order to and so that."
+    },
+    {"es": "Uso conectores formales en mis redacciones del B2 First.", "en": "I use formal linkers in my B2 First essays."}
+  ]
+}

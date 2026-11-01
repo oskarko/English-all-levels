@@ -1,0 +1,1416 @@
+{
+  "id": "A2-13",
+  "level": "A2",
+  "title": "ME, HIM… <em>y</em> MINE",
+  "file_title": "Me, him y mine",
+  "subtitle": "Object and possessive pronouns · pronombres",
+  "icon": "🎁",
+  "map": {
+    "center": "<b>Me, him, us…</b> reciben la acción. <b>Mine, yours…</b> dicen de quién es algo sin repetir el nombre.",
+    "nodes": [
+      {
+        "title": "Objeto: ME, HIM…",
+        "icon": "🎯",
+        "items": [
+          "I → <b>me</b> · you → <b>you</b> · he → <b>him</b>",
+          "she → <b>her</b> · it → <b>it</b> · we → <b>us</b>",
+          "they → <b>them</b>",
+          "Reciben la acción: Help <b>me</b>!"
+        ]
+      },
+      {
+        "title": "¿Dónde van?",
+        "icon": "📍",
+        "art": "❤️",
+        "items": [
+          "Detrás del verbo: I love <b>you</b>. <i>(Te quiero.)</i>",
+          "Detrás de with, for, to…: with <b>me</b>",
+          "<s>I it like.</s> → I like <b>it</b>."
+        ]
+      },
+      {
+        "title": "Posesivos: MINE…",
+        "icon": "🎁",
+        "items": [
+          "my → <b>mine</b> · your → <b>yours</b>",
+          "his → <b>his</b> · her → <b>hers</b>",
+          "our → <b>ours</b> · their → <b>theirs</b>",
+          "Van solos, ¡sin nombre detrás!"
+        ]
+      },
+      {
+        "title": "¿MY o MINE?",
+        "icon": "⚖️",
+        "items": [
+          "<b>my</b> + nombre: It's <b>my</b> bike.",
+          "<b>mine</b> solo: The bike is <b>mine</b>.",
+          "<s>It's mine bike.</s> · <s>the mine</s>"
+        ]
+      },
+      {
+        "title": "WHOSE…?",
+        "icon": "❓",
+        "art": "🎒",
+        "items": [
+          "<b>Whose</b> is this? <i>(¿De quién es?)</i>",
+          "It's <b>mine</b>. / It's <b>Lucía's</b>.",
+          "<b>Whose</b> bag is it? — It's <b>his</b>."
+        ]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "items": [
+          "¡Sin apóstrofo! yours, hers <s>your's</s>",
+          "suyo = <b>his</b> (él) · <b>hers</b> (ella) · <b>theirs</b> (ellos)",
+          "Me gusta → I like <b>it</b>. ¡No olvides it!"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "This is the mine."
+      ],
+      "good": [
+        "This is mine."
+      ],
+      "note": "el mío / la mía = <b>mine</b> (¡sin the!)"
+    },
+    "mini": {
+      "es": "Completa con me, him, them, mine o hers.",
+      "en": "Complete with me, him, them, mine or hers.",
+      "items": [
+        {
+          "q": "Mum, can you help ____?",
+          "a": "me"
+        },
+        {
+          "q": "This ball is Leo's. Give it to ____.",
+          "a": "him"
+        },
+        {
+          "q": "That bag is Sara's. It's ____.",
+          "a": "hers"
+        },
+        {
+          "q": "This bike is my bike. It's ____.",
+          "a": "mine"
+        },
+        {
+          "q": "I love my cats. I play with ____.",
+          "a": "them"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "wide": true,
+      "es": "En una frase hay quien <b>hace</b> la acción (el sujeto: <b>I, he, she…</b>) y quien la <b>recibe</b> (el objeto: <b>me, him, her…</b>). Y cuando queremos decir <mark>de quién es</mark> algo sin repetir el nombre, usamos <b>mine, yours, his…</b> (el mío, el tuyo, el suyo…).",
+      "en": "Subject pronouns do the action; object pronouns receive it. Possessive pronouns (mine, yours…) tell us who something belongs to.",
+      "formula": [
+        "Rocky loves + *me*",
+        "It's + *mine*"
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Todos los pronombres",
+      "title_en": "All the pronouns",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Sujeto · Subject",
+        "Objeto · Object",
+        "Adjetivo posesivo",
+        "Pronombre posesivo",
+        "En español"
+      ],
+      "rows": [
+        [
+          "I",
+          "<b>me</b>",
+          "my",
+          "<b>mine</b>",
+          "yo · me · mi · el mío"
+        ],
+        [
+          "you",
+          "<b>you</b>",
+          "your",
+          "<b>yours</b>",
+          "tú · te · tu · el tuyo"
+        ],
+        [
+          "he",
+          "<b>him</b>",
+          "his",
+          "<b>his</b>",
+          "él · lo / le · su · el suyo (de él)"
+        ],
+        [
+          "she",
+          "<b>her</b>",
+          "her",
+          "<b>hers</b>",
+          "ella · la / le · su · el suyo (de ella)"
+        ],
+        [
+          "it",
+          "<b>it</b>",
+          "its",
+          "—",
+          "(cosa, animal) · lo / la · su"
+        ],
+        [
+          "we",
+          "<b>us</b>",
+          "our",
+          "<b>ours</b>",
+          "nosotros · nos · nuestro · el nuestro"
+        ],
+        [
+          "you",
+          "<b>you</b>",
+          "your",
+          "<b>yours</b>",
+          "vosotros · os · vuestro · el vuestro"
+        ],
+        [
+          "they",
+          "<b>them</b>",
+          "their",
+          "<b>theirs</b>",
+          "ellos · los / les · su · el suyo (de ellos)"
+        ]
+      ],
+      "note": "Ojo: <b>you</b> vale para tú y vosotros, y es igual como sujeto y como objeto. <b>Her</b> sale dos veces: objeto (I see <b>her</b>) y posesivo (<b>her</b> bag).",
+      "note_en": "You is the same as subject and object. Her is both object and possessive adjective."
+    },
+    {
+      "t": "rule",
+      "title": "1 · Pronombres objeto",
+      "title_en": "Object pronouns",
+      "icon": "🎯",
+      "color": "green",
+      "es": "Los <b>pronombres objeto</b> reciben la acción. En español van <b>delante</b> del verbo (<i>te quiero, lo veo</i>), pero en inglés van <mark>detrás del verbo</mark>: I love <b>you</b>. I see <b>it</b>.",
+      "en": "Object pronouns receive the action. They go <mark>after the verb</mark>.",
+      "formula": [
+        "Sujeto + verbo + *objeto*",
+        "I + love + *you*"
+      ],
+      "examples": [
+        {
+          "en": "Rocky, I love <b>you</b>!",
+          "es": "¡Rocky, te quiero!",
+          "icon": "❤️"
+        },
+        {
+          "en": "Can you help <b>me</b>, please?",
+          "es": "¿Me ayudas, por favor?",
+          "icon": "🙋"
+        },
+        {
+          "en": "I like this song. Do you like <b>it</b>?",
+          "es": "Me gusta esta canción. ¿Te gusta?",
+          "icon": "🎵"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Después de preposición",
+      "title_en": "After prepositions",
+      "icon": "🔗",
+      "color": "blue",
+      "es": "Después de <b>with, for, to, at, about, from, near…</b> siempre va el pronombre <b>objeto</b>, nunca el de sujeto. En español decimos <i>conmigo, para ti</i>; en inglés: <b>with me</b>, <b>for you</b>.",
+      "en": "After prepositions (with, for, to, at…) we always use object pronouns.",
+      "formula": [
+        "preposición + *objeto*",
+        "with / for / to + *me / him / us*"
+      ],
+      "examples": [
+        {
+          "en": "Do you want to play with <b>us</b>?",
+          "es": "¿Quieres jugar con nosotros?",
+          "icon": "⚽"
+        },
+        {
+          "en": "This present is for <b>you</b>, Mum!",
+          "es": "¡Este regalo es para ti, mamá!",
+          "icon": "🎁"
+        },
+        {
+          "en": "Look at <b>them</b>! They're so funny.",
+          "es": "¡Míralos! Son muy graciosos.",
+          "icon": "🐒"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · HIM, HER, IT o THEM",
+      "title_en": "him, her, it or them?",
+      "icon": "👥",
+      "color": "purple",
+      "es": "Elige bien: <b>him</b> = un chico o un hombre, <b>her</b> = una chica o una mujer, <b>it</b> = una cosa o un animal, <b>them</b> = varios. ¡<mark>Them</mark> sirve para todo en plural: personas, cosas y animales!",
+      "en": "<b>him</b> = a boy / man, <b>her</b> = a girl / woman, <b>it</b> = a thing / animal, <b>them</b> = more than one.",
+      "examples": [
+        {
+          "en": "Where's Leo? I can't see <b>him</b>.",
+          "es": "¿Dónde está Leo? No lo veo.",
+          "icon": "👦"
+        },
+        {
+          "en": "Anna is my best friend. I call <b>her</b> every day.",
+          "es": "Anna es mi mejor amiga. La llamo todos los días.",
+          "icon": "📞"
+        },
+        {
+          "en": "I love my new trainers. I wear <b>them</b> every day.",
+          "es": "Me encantan mis zapatillas nuevas. Me las pongo todos los días.",
+          "icon": "👟"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿Sujeto u objeto?",
+      "title_en": "Subject or object?",
+      "icon": "⚖️",
+      "color": "teal",
+      "es": "Mira dónde está: ¿<b>antes</b> del verbo (hace la acción) o <b>después</b> (recibe la acción)?",
+      "en": "Before the verb = subject. After the verb = object.",
+      "cols": [
+        {
+          "head": "👉 Sujeto · hace",
+          "color": "blue",
+          "items": [
+            "<b>I</b> like Leo.",
+            "<b>He</b> likes Sara.",
+            "<b>We</b> call Grandma.",
+            "<b>They</b> help Tom."
+          ]
+        },
+        {
+          "head": "🎯 Objeto · recibe",
+          "color": "green",
+          "items": [
+            "Leo likes <b>me</b>.",
+            "Sara likes <b>him</b>.",
+            "Grandma calls <b>us</b>.",
+            "Tom helps <b>them</b>."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Pronombres posesivos",
+      "title_en": "Possessive pronouns",
+      "icon": "🎁",
+      "color": "pink",
+      "es": "Los <b>pronombres posesivos</b> (<b>mine, yours, his, hers, ours, theirs</b>) significan <i>el mío, el tuyo, el suyo…</i> Sirven para <mark>no repetir el nombre</mark>. Casi todos acaban en <em>-s</em> (yours, hers, ours, theirs), ¡pero <b>mine</b> es especial!",
+      "en": "Possessive pronouns (mine, yours, his, hers, ours, theirs) replace <i>my + noun</i>. We don't repeat the noun.",
+      "formula": [
+        "*my* + nombre",
+        "*mine* + sin nombre"
+      ],
+      "examples": [
+        {
+          "en": "This bike isn't <b>mine</b>. It's Leo's.",
+          "es": "Esta bici no es mía. Es de Leo.",
+          "icon": "🚲"
+        },
+        {
+          "en": "Is this pencil <b>yours</b>? — Yes, it's <b>mine</b>.",
+          "es": "¿Este lápiz es tuyo? — Sí, es mío.",
+          "icon": "✏️"
+        },
+        {
+          "en": "Our house is small, but <b>theirs</b> is huge!",
+          "es": "Nuestra casa es pequeña, ¡pero la suya es enorme!",
+          "icon": "🏠"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿MY o MINE?",
+      "title_en": "my or mine?",
+      "icon": "🔀",
+      "color": "orange",
+      "es": "<b>my, your, his, her, our, their</b> van <b>siempre con un nombre</b> detrás. <b>mine, yours, his, hers, ours, theirs</b> van <b>solos</b>: el nombre ya no está.",
+      "en": "my + noun · mine alone (no noun).",
+      "cols": [
+        {
+          "head": "📦 + nombre",
+          "color": "purple",
+          "items": [
+            "It's <b>my</b> ball.",
+            "Is it <b>your</b> bag?",
+            "That's <b>her</b> coat.",
+            "It's <b>our</b> classroom.",
+            "They're <b>their</b> dogs."
+          ]
+        },
+        {
+          "head": "🎁 solo",
+          "color": "pink",
+          "items": [
+            "It's <b>mine</b>.",
+            "Is it <b>yours</b>?",
+            "That's <b>hers</b>.",
+            "It's <b>ours</b>.",
+            "They're <b>theirs</b>."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · WHOSE…?",
+      "title_en": "Whose…?",
+      "icon": "❓",
+      "color": "blue",
+      "es": "Para preguntar <mark>de quién es</mark> algo usamos <b>Whose…?</b>: <b>Whose is this?</b> o <b>Whose + cosa + is this?</b> Respondemos con un pronombre posesivo (<b>It's mine</b>) o con <b>'s</b> (<b>It's Lucía's</b>). <small>Ojo: <b>whose</b> suena igual que <b>who's</b> (= who is).</small>",
+      "en": "Ask <b>Whose…?</b> Answer with a possessive pronoun (It's mine) or with 's (It's Lucía's).",
+      "formula": [
+        "*Whose* + is this?",
+        "*Whose* + cosa + is this?"
+      ],
+      "examples": [
+        {
+          "en": "<b>Whose</b> is this cap? — It's <b>his</b>.",
+          "es": "¿De quién es esta gorra? — Es suya (de él).",
+          "icon": "🧢"
+        },
+        {
+          "en": "<b>Whose</b> shoes are these? — They're <b>Lucía's</b>.",
+          "es": "¿De quién son estos zapatos? — Son de Lucía.",
+          "icon": "👟"
+        },
+        {
+          "en": "<b>Whose</b> dog is that? — It's <b>ours</b>!",
+          "es": "¿De quién es ese perro? — ¡Es nuestro!",
+          "icon": "🐕"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "«Suyo» en inglés",
+      "title_en": "Suyo in English",
+      "icon": "🤔",
+      "color": "purple",
+      "head": [
+        "Español",
+        "English",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "el suyo (de él)",
+          "<b>his</b>",
+          "That bike is Leo's. It's <b>his</b>."
+        ],
+        [
+          "el suyo (de ella)",
+          "<b>hers</b>",
+          "That bag is Sara's. It's <b>hers</b>."
+        ],
+        [
+          "el suyo (de ellos)",
+          "<b>theirs</b>",
+          "That car is my grandparents'. It's <b>theirs</b>."
+        ],
+        [
+          "el suyo (de usted)",
+          "<b>yours</b>",
+          "Excuse me, is this umbrella <b>yours</b>?"
+        ]
+      ],
+      "note": "En español <i>suyo</i> vale para todo. En inglés hay que pensar: ¿de <b>quién</b> es? ¿Un chico, una chica, varios?",
+      "note_en": "Think: whose is it? A boy, a girl or more people?"
+    },
+    {
+      "t": "vocab",
+      "title": "Objetos perdidos",
+      "title_en": "Lost property",
+      "icon": "📦",
+      "color": "green",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "a cap",
+          "es": "una gorra",
+          "icon": "🧢"
+        },
+        {
+          "en": "a jumper",
+          "es": "un jersey",
+          "icon": "🧶"
+        },
+        {
+          "en": "trainers",
+          "es": "zapatillas de deporte",
+          "icon": "👟"
+        },
+        {
+          "en": "a scarf",
+          "es": "una bufanda",
+          "icon": "🧣"
+        },
+        {
+          "en": "gloves",
+          "es": "guantes",
+          "icon": "🧤"
+        },
+        {
+          "en": "an umbrella",
+          "es": "un paraguas",
+          "icon": "☂️"
+        },
+        {
+          "en": "a lunch box",
+          "es": "una fiambrera",
+          "icon": "🍱"
+        },
+        {
+          "en": "a water bottle",
+          "es": "una botella de agua",
+          "icon": "🍶"
+        },
+        {
+          "en": "a pencil case",
+          "es": "un estuche",
+          "icon": "✏️"
+        },
+        {
+          "en": "a ruler",
+          "es": "una regla",
+          "icon": "📏"
+        },
+        {
+          "en": "keys",
+          "es": "llaves",
+          "icon": "🔑"
+        },
+        {
+          "en": "glasses",
+          "es": "gafas",
+          "icon": "👓"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "Mum gives <b>us</b> a hug every night.",
+          "es": "Mamá nos da un abrazo cada noche.",
+          "icon": "🤗"
+        },
+        {
+          "en": "Tom is funny. Everybody likes <b>him</b>.",
+          "es": "Tom es gracioso. Todos le quieren.",
+          "icon": "😂"
+        },
+        {
+          "en": "Where are my keys? I can't find <b>them</b>.",
+          "es": "¿Dónde están mis llaves? No las encuentro.",
+          "icon": "🔑"
+        },
+        {
+          "en": "Lucía, can you come with <b>me</b>?",
+          "es": "Lucía, ¿puedes venir conmigo?",
+          "icon": "🚶"
+        },
+        {
+          "en": "That's not your sandwich. It's <b>mine</b>!",
+          "es": "Ese no es tu bocadillo. ¡Es mío!",
+          "icon": "🥪"
+        },
+        {
+          "en": "My cat is white, but <b>hers</b> is black.",
+          "es": "Mi gato es blanco, pero el suyo (de ella) es negro.",
+          "icon": "🐈"
+        },
+        {
+          "en": "Leo and Sara have got a new puppy. I love <b>it</b>!",
+          "es": "Leo y Sara tienen un cachorro nuevo. ¡Me encanta!",
+          "icon": "🐶"
+        },
+        {
+          "en": "These books are <b>ours</b>, not <b>theirs</b>.",
+          "es": "Estos libros son nuestros, no suyos.",
+          "icon": "📚"
+        },
+        {
+          "en": "Anna is a friend of <b>mine</b>.",
+          "es": "Anna es amiga mía.",
+          "icon": "👭"
+        },
+        {
+          "en": "Is this seat free? — No, sorry, it's <b>his</b>.",
+          "es": "¿Está libre este asiento? — No, lo siento, es suyo (de él).",
+          "icon": "💺"
+        },
+        {
+          "en": "Grandma tells <b>us</b> stories at bedtime.",
+          "es": "La abuela nos cuenta cuentos antes de dormir.",
+          "icon": "📖"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "trampas",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I it like.",
+          "good": "I like <b>it</b>.",
+          "why": "El objeto va detrás del verbo.",
+          "why_en": "Object after the verb."
+        },
+        {
+          "bad": "Me like pizza.",
+          "good": "<b>I</b> like pizza.",
+          "why": "Me gusta ≠ me like: el sujeto es I.",
+          "why_en": "The subject is I."
+        },
+        {
+          "bad": "Come with I!",
+          "good": "Come with <b>me</b>!",
+          "why": "Tras preposición, objeto.",
+          "why_en": "Preposition + object."
+        },
+        {
+          "bad": "She loves he.",
+          "good": "She loves <b>him</b>.",
+          "why": "El objeto de he es him.",
+          "why_en": "Object of he = him."
+        },
+        {
+          "bad": "This is the mine.",
+          "good": "This is <b>mine</b>.",
+          "why": "Sin the: mine = el mío.",
+          "why_en": "No the before mine."
+        },
+        {
+          "bad": "It's mine bike.",
+          "good": "It's <b>my</b> bike.",
+          "why": "Con nombre detrás: my.",
+          "why_en": "my + noun."
+        },
+        {
+          "bad": "Is this your's?",
+          "good": "Is this <b>yours</b>?",
+          "why": "Los posesivos no llevan apóstrofo.",
+          "why_en": "No apostrophe."
+        },
+        {
+          "bad": "Do you like my drawing? — Yes, I like.",
+          "good": "Yes, I like <b>it</b>.",
+          "why": "¡No olvides el objeto!",
+          "why_en": "Don't forget it."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Qué pronombre uso?",
+      "title_en": "Which pronoun?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "¿La persona <b>hace</b> la acción (antes del verbo)? → sujeto: <b>I, he, she…</b>",
+          "en": "Does the action → subject."
+        },
+        {
+          "es": "¿La <b>recibe</b> (después del verbo o de with, for, to…)? → objeto: <b>me, him, her…</b>",
+          "en": "Receives the action → object."
+        },
+        {
+          "es": "¿Dices <b>de quién</b> es algo y hay un nombre detrás? → <b>my, your, his…</b> + nombre.",
+          "en": "Owner + noun → my, your…"
+        },
+        {
+          "es": "¿No hay nombre detrás? → <b>mine, yours, his, hers, ours, theirs</b>.",
+          "en": "No noun → mine, yours…"
+        },
+        {
+          "es": "Repasa: ¿he puesto apóstrofo en yours / hers? ¡Fuera apóstrofos!",
+          "en": "Check: no apostrophes."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Objetos perdidos",
+      "title_en": "Lost property",
+      "lines": [
+        {
+          "who": "Miss Brown",
+          "en": "Whose is this blue jumper?",
+          "es": "¿De quién es este jersey azul?"
+        },
+        {
+          "who": "Tom",
+          "en": "It's mine! Thank you, Miss Brown.",
+          "es": "¡Es mío! Gracias, señorita Brown."
+        },
+        {
+          "who": "Miss Brown",
+          "en": "And these trainers? Are they yours, Sara?",
+          "es": "¿Y estas zapatillas? ¿Son tuyas, Sara?"
+        },
+        {
+          "who": "Sara",
+          "en": "No, they aren't mine. I think they're Leo's.",
+          "es": "No, no son mías. Creo que son de Leo."
+        },
+        {
+          "who": "Leo",
+          "en": "Yes, they're mine! I need them for PE.",
+          "es": "¡Sí, son mías! Las necesito para gimnasia."
+        },
+        {
+          "who": "Miss Brown",
+          "en": "Here you are. And whose is this lunch box?",
+          "es": "Aquí tienes. ¿Y de quién es esta fiambrera?"
+        },
+        {
+          "who": "Mario",
+          "en": "It's my sister's. I can give it to her.",
+          "es": "Es de mi hermana. Se la puedo dar yo."
+        },
+        {
+          "who": "Miss Brown",
+          "en": "Thank you, Mario. Please give it to her at break.",
+          "es": "Gracias, Mario. Dásela en el recreo, por favor."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco de MINE",
+      "title_en": "The mine trick",
+      "es": "Los posesivos que van solos acaban casi todos en <b>-s</b>: your<em>s</em>, her<em>s</em>, our<em>s</em>, their<em>s</em> (y <b>his</b> ya la tiene). ¡Pero nunca llevan apóstrofo! El único raro es <b>mine</b>: piensa en «¡Es <b>MÍO</b>!» → «It's <b>MINE</b>!» (mío y mine casi suenan igual).",
+      "en": "Possessive pronouns end in -s (yours, hers, ours, theirs) with no apostrophe. Mine is the special one."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify",
+      "title": "Clasifica los pronombres",
+      "title_en": "Sort the pronouns",
+      "icon": "🗂️",
+      "es": "Escribe cada pronombre en su caja: ¿sujeto, objeto o posesivo?",
+      "en": "Sort the pronouns: subject, object or possessive?",
+      "cats": [
+        {
+          "name": "👉 Sujeto (I…)",
+          "words": [
+            "I",
+            "he",
+            "she",
+            "we",
+            "they"
+          ]
+        },
+        {
+          "name": "🎯 Objeto (me…)",
+          "words": [
+            "me",
+            "him",
+            "us",
+            "them"
+          ]
+        },
+        {
+          "name": "🎁 Posesivo (mine…)",
+          "words": [
+            "mine",
+            "yours",
+            "hers",
+            "ours",
+            "theirs"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "¿De quién es la pelota?",
+      "title_en": "Whose ball is it?",
+      "icon": "⚽",
+      "es": "Une cada frase con su pronombre posesivo.",
+      "en": "Match each sentence with the possessive pronoun.",
+      "pairs": [
+        [
+          "This ball is Leo's.",
+          "It's his."
+        ],
+        [
+          "This ball is Sara's.",
+          "It's hers."
+        ],
+        [
+          "This ball is my ball.",
+          "It's mine."
+        ],
+        [
+          "Is this ball your ball?",
+          "Is it yours?"
+        ],
+        [
+          "This ball is Tom and Anna's.",
+          "It's theirs."
+        ]
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "🧩",
+      "es": "Completa las casillas vacías.",
+      "en": "Fill in the empty boxes.",
+      "head": [
+        "Sujeto",
+        "Objeto",
+        "Adj. posesivo",
+        "Pron. posesivo"
+      ],
+      "rows": [
+        [
+          "I",
+          "me",
+          "?my",
+          "?mine"
+        ],
+        [
+          "you",
+          "?you",
+          "your",
+          "?yours"
+        ],
+        [
+          "he",
+          "?him",
+          "?his",
+          "his"
+        ],
+        [
+          "she",
+          "?her",
+          "her",
+          "?hers"
+        ],
+        [
+          "we",
+          "?us",
+          "?our",
+          "?ours"
+        ],
+        [
+          "they",
+          "?them",
+          "their",
+          "?theirs"
+        ]
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Sujeto u objeto",
+      "title_en": "Subject or object?",
+      "icon": "⭕",
+      "es": "Rodea la palabra correcta. Mira si va antes o después del verbo.",
+      "en": "Circle the correct word.",
+      "items": [
+        {
+          "q": "Rocky is my dog. I love [he|him].",
+          "a": "him"
+        },
+        {
+          "q": "Where's Lucía? I can't see [she|her].",
+          "a": "her"
+        },
+        {
+          "q": "Can you help [I|me], please?",
+          "a": "me"
+        },
+        {
+          "q": "These are my new trainers. Do you like [it|them]?",
+          "a": "them"
+        },
+        {
+          "q": "[We|Us] play football every Saturday.",
+          "a": "We"
+        },
+        {
+          "q": "Come to the park with [we|us]!",
+          "a": "us"
+        },
+        {
+          "q": "I've got a new game. Do you want to play [it|them]?",
+          "a": "it"
+        },
+        {
+          "q": "Leo and Tom are my friends. I sit with [they|them].",
+          "a": "them"
+        },
+        {
+          "q": "[She|Her] is my teacher.",
+          "a": "She"
+        },
+        {
+          "q": "This letter is for [you|your].",
+          "a": "you"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe el pronombre objeto",
+      "title_en": "Write the object pronoun",
+      "icon": "🎯",
+      "es": "Completa con el pronombre objeto de la palabra entre paréntesis.",
+      "en": "Complete with the object pronoun.",
+      "items": [
+        {
+          "q": "Sara is nice. I like ____.",
+          "a": "her",
+          "hint": "she"
+        },
+        {
+          "q": "Dad is in the kitchen. Go and help ____.",
+          "a": "him",
+          "hint": "he"
+        },
+        {
+          "q": "We're lost! Can you help ____?",
+          "a": "us",
+          "hint": "we"
+        },
+        {
+          "q": "I love this song. I listen to ____ every day.",
+          "a": "it",
+          "hint": "it"
+        },
+        {
+          "q": "Your shoes are dirty. Clean ____, please.",
+          "a": "them",
+          "hint": "they"
+        },
+        {
+          "q": "Mum, look at ____! I can swim!",
+          "a": "me",
+          "hint": "I"
+        },
+        {
+          "q": "Leo, this present is for ____.",
+          "a": "you",
+          "hint": "you"
+        },
+        {
+          "q": "My grandparents live far away. I call ____ on Sundays.",
+          "a": "them",
+          "hint": "they"
+        },
+        {
+          "q": "Where is my bike? I can't find ____.",
+          "a": "it",
+          "hint": "it"
+        },
+        {
+          "q": "Anna and I are going to the cinema. Come with ____!",
+          "a": "us",
+          "hint": "we"
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿MY o MINE?",
+      "title_en": "my or mine?",
+      "icon": "🔀",
+      "es": "Rodea la palabra correcta. ¿Hay un nombre detrás? → my, your… ¿No hay nombre? → mine, yours…",
+      "en": "Circle the correct word.",
+      "items": [
+        {
+          "q": "This is [my|mine] pencil case.",
+          "a": "my"
+        },
+        {
+          "q": "This pencil case is [my|mine].",
+          "a": "mine"
+        },
+        {
+          "q": "Is this [your|yours] coat?",
+          "a": "your"
+        },
+        {
+          "q": "Is this coat [your|yours]?",
+          "a": "yours"
+        },
+        {
+          "q": "That isn't Sara's bag. [Her|Hers] is red.",
+          "a": "Hers"
+        },
+        {
+          "q": "We love [our|ours] new house.",
+          "a": "our"
+        },
+        {
+          "q": "Their car is blue and [our|ours] is green.",
+          "a": "ours"
+        },
+        {
+          "q": "Leo can't find [his|hers] book.",
+          "a": "his"
+        },
+        {
+          "q": "These sweets aren't ours. They're [their|theirs].",
+          "a": "theirs"
+        },
+        {
+          "q": "Anna is a friend of [my|mine].",
+          "a": "mine"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe el posesivo",
+      "title_en": "Write the possessive pronoun",
+      "icon": "🎁",
+      "es": "Completa con mine, yours, his, hers, ours o theirs.",
+      "en": "Complete with a possessive pronoun.",
+      "bank": [
+        "mine",
+        "yours",
+        "his",
+        "hers",
+        "ours",
+        "theirs"
+      ],
+      "items": [
+        {
+          "q": "This is my bike. It's ____.",
+          "a": "mine"
+        },
+        {
+          "q": "That's Leo's cap. It's ____.",
+          "a": "his"
+        },
+        {
+          "q": "These are Sara's crayons. They're ____.",
+          "a": "hers"
+        },
+        {
+          "q": "This is our classroom. It's ____.",
+          "a": "ours"
+        },
+        {
+          "q": "Is this your rubber? Is it ____?",
+          "a": "yours"
+        },
+        {
+          "q": "That's Tom and Anna's tent. It's ____.",
+          "a": "theirs"
+        },
+        {
+          "q": "Lucía, are these glasses ____?",
+          "a": "yours"
+        },
+        {
+          "q": "The red car is my parents'. It's ____.",
+          "a": "theirs"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Cambia por un pronombre",
+      "title_en": "Use an object pronoun",
+      "icon": "🔄",
+      "es": "Cambia las palabras subrayadas (las del final) por un pronombre objeto: him, her, it, us o them.",
+      "en": "Replace the words at the end with an object pronoun.",
+      "items": [
+        {
+          "q": "I like <u>Leo</u>.",
+          "a": "I like him."
+        },
+        {
+          "q": "Mario calls <u>Lucía</u>.",
+          "a": "Mario calls her."
+        },
+        {
+          "q": "We help <u>Mum and Dad</u>.",
+          "a": "We help them."
+        },
+        {
+          "q": "Sara loves <u>the cake</u>.",
+          "a": "Sara loves it."
+        },
+        {
+          "q": "Tom plays with <u>Anna and me</u>.",
+          "a": "Tom plays with us."
+        },
+        {
+          "q": "Rocky sits next to <u>Grandpa</u>.",
+          "a": "Rocky sits next to him."
+        },
+        {
+          "q": "The teacher talks to <u>the children</u>.",
+          "a": "The teacher talks to them."
+        },
+        {
+          "q": "Lucía eats <u>the apples</u>.",
+          "a": "Lucía eats them."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Di de quién es",
+      "title_en": "Use a possessive pronoun",
+      "icon": "🏷️",
+      "es": "Escribe la frase otra vez con un pronombre posesivo. Ej.: This is my pencil. → This pencil is mine.",
+      "en": "Rewrite with a possessive pronoun.",
+      "items": [
+        {
+          "q": "This is my pencil.",
+          "a": "This pencil is mine."
+        },
+        {
+          "q": "That is your ball.",
+          "a": "That ball is yours."
+        },
+        {
+          "q": "These are her shoes.",
+          "a": "These shoes are hers."
+        },
+        {
+          "q": "This is his phone.",
+          "a": "This phone is his."
+        },
+        {
+          "q": "That is our tent.",
+          "a": "That tent is ours."
+        },
+        {
+          "q": "Those are their bikes.",
+          "a": "Those bikes are theirs."
+        },
+        {
+          "q": "This is Mario's dog.",
+          "a": "This dog is his."
+        },
+        {
+          "q": "These are Sara's books.",
+          "a": "These books are hers."
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Mayúscula al principio y punto o interrogación al final!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {
+          "q": "me / help / can / you / ?",
+          "a": "Can you help me?"
+        },
+        {
+          "q": "is / mine / this / pen",
+          "a": "This pen is mine."
+        },
+        {
+          "q": "every day / them / I / call",
+          "a": "I call them every day."
+        },
+        {
+          "q": "bag / whose / this / is / ?",
+          "a": "Whose bag is this?"
+        },
+        {
+          "q": "with / us / play / come / and",
+          "a": "Come and play with us."
+        },
+        {
+          "q": "isn't / that / hers / umbrella",
+          "a": "That umbrella isn't hers."
+        },
+        {
+          "q": "a / of / mine / friend / is / Anna",
+          "a": "Anna is a friend of mine."
+        },
+        {
+          "q": "for / this / is / him / present",
+          "a": "This present is for him."
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "I it love.",
+          "a": "I love it."
+        },
+        {
+          "q": "Can you come with I?",
+          "a": "Can you come with me?"
+        },
+        {
+          "q": "Sara likes he.",
+          "a": "Sara likes him."
+        },
+        {
+          "q": "This book is the mine.",
+          "a": "This book is mine."
+        },
+        {
+          "q": "Is this yours bag?",
+          "a": "Is this your bag?"
+        },
+        {
+          "q": "That pen is her's.",
+          "a": "That pen is hers."
+        },
+        {
+          "q": "Them are my friends.",
+          "a": "They are my friends."
+        },
+        {
+          "q": "Whose is this cap? — It's of Lucía.",
+          "a": "Whose is this cap? — It's Lucía's."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿sujeto, objeto o posesivo? ¿Dónde va el pronombre?",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "¡Ayúdame, por favor!",
+          "a": "Help me, please!"
+        },
+        {
+          "q": "Te quiero, mamá.",
+          "a": "I love you, Mum."
+        },
+        {
+          "q": "¿Quieres venir con nosotros?",
+          "a": "Do you want to come with us?"
+        },
+        {
+          "q": "Este bolígrafo es mío.",
+          "a": "This pen is mine."
+        },
+        {
+          "q": "¿De quién es esta gorra? — Es suya (de él).",
+          "a": "Whose is this cap? — It's his."
+        },
+        {
+          "q": "Mi perro es grande, pero el suyo (de ella) es pequeño.",
+          "a": "My dog is big, but hers is small."
+        },
+        {
+          "q": "¿Te gusta mi dibujo? — Sí, me gusta.",
+          "hint": "¡no olvides it!",
+          "a": "Do you like my drawing? — Yes, I like it. (o: Yes, I do.)"
+        },
+        {
+          "q": "Estas zapatillas no son nuestras. Son suyas (de ellos).",
+          "a": "These trainers aren't ours. They're theirs."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "The lost property box",
+      "text": [
+        "Every Friday, Miss Brown opens the lost property box. Today there are lots of things in it! First, she takes out a red cap. \"Whose is this cap?\" she asks. \"It's mine!\" says Tom. Miss Brown gives it to him.",
+        "Then she takes out some pink gloves. \"Are they yours, Anna?\" \"No, they aren't mine. I think they're Sara's.\" Sara looks at them. \"Yes, they're mine. Thank you!\" At the bottom of the box there's a green football. \"It's ours!\" shout Leo and Mario. Miss Brown smiles and gives it to them."
+      ],
+      "items": [
+        {
+          "q": "The red cap is Tom's.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "The pink gloves are Anna's.",
+          "tf": true,
+          "a": false,
+          "why": "They're Sara's. They're hers."
+        },
+        {
+          "q": "The football is Leo and Mario's.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "When does Miss Brown open the box?",
+          "a": "Every Friday."
+        },
+        {
+          "q": "Who does Miss Brown give the cap to?",
+          "a": "She gives it to Tom (to him)."
+        },
+        {
+          "q": "Whose are the pink gloves?",
+          "a": "They're Sara's. / They're hers."
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea la palabra",
+      "title_en": "Spell the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe el pronombre en las cajas.",
+      "en": "Unscramble the letters and write the pronoun.",
+      "items": [
+        {
+          "q": "❓ ¿de quién?",
+          "a": "whose"
+        },
+        {
+          "q": "🙋 el mío / la mía",
+          "a": "mine"
+        },
+        {
+          "q": "👧 el suyo (de ella)",
+          "a": "hers"
+        },
+        {
+          "q": "🏠 el nuestro",
+          "a": "ours"
+        },
+        {
+          "q": "👫 el suyo (de ellos)",
+          "a": "theirs"
+        },
+        {
+          "q": "👦 a él / le (objeto)",
+          "a": "him"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca las 8 palabras. Después escribe una frase con Whose…? y contéstala con un posesivo.",
+      "en": "Find the 8 words. Then write a Whose…? question and answer it.",
+      "words": [
+        "mine",
+        "yours",
+        "hers",
+        "ours",
+        "theirs",
+        "him",
+        "them",
+        "whose"
+      ],
+      "clues": [
+        "mine · mío",
+        "yours · tuyo",
+        "hers · suyo (de ella)",
+        "ours · nuestro",
+        "theirs · suyo (de ellos)",
+        "him · a él",
+        "them · a ellos",
+        "whose · ¿de quién?"
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre ti, tus amigos y tus cosas. Usa pronombres objeto y posesivos.",
+      "en": "Write about you, your friends and your things.",
+      "items": [
+        {
+          "q": "Escribe 2 cosas que son <b>tuyas</b>: The … is mine.",
+          "lines": 2,
+          "a": "Ej.: The blue bike is mine. The guitar is mine."
+        },
+        {
+          "q": "Escribe 2 frases sobre un amigo o amiga con <b>him</b> o <b>her</b>.",
+          "lines": 2,
+          "a": "Ej.: Sara is my best friend. I play with her every day."
+        },
+        {
+          "q": "Pregunta de quién es algo y responde: Whose…? — It's…",
+          "lines": 1,
+          "a": "Ej.: Whose is this ruler? — It's Tom's. It's his."
+        },
+        {
+          "q": "Escribe una frase con <b>ours</b> y otra con <b>theirs</b>.",
+          "lines": 2,
+          "a": "Ej.: This tent is ours. That tent is theirs."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé los pronombres objeto: <b>me, you, him, her, it, us, them</b>.",
+      "en": "I know the object pronouns."
+    },
+    {
+      "es": "Los pongo <b>detrás</b> del verbo: I love <b>you</b>.",
+      "en": "I put them after the verb."
+    },
+    {
+      "es": "Después de with, for, to… uso el objeto: with <b>me</b>.",
+      "en": "I use object pronouns after prepositions."
+    },
+    {
+      "es": "Sé los posesivos: <b>mine, yours, his, hers, ours, theirs</b>.",
+      "en": "I know the possessive pronouns."
+    },
+    {
+      "es": "Sé la diferencia: <b>my</b> bike / it's <b>mine</b>.",
+      "en": "I know the difference between my and mine."
+    },
+    {
+      "es": "Sé preguntar y responder: <b>Whose</b> is this? — It's <b>mine</b>.",
+      "en": "I can ask and answer Whose…?"
+    }
+  ]
+}

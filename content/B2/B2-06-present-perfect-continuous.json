@@ -1,0 +1,774 @@
+{
+  "id": "B2-06",
+  "level": "B2",
+  "title": "PRESENT PERFECT CONTINUOUS",
+  "file_title": "Present perfect continuous",
+  "subtitle": "Present perfect continuous · llevo + tiempo + -ando",
+  "icon": "⏳",
+  "map": {
+    "center": "Usamos <b>HAVE BEEN + -ING</b> para acciones que <b>empezaron en el pasado</b> y <b>siguen</b> o acaban de parar.",
+    "nodes": [
+      {
+        "title": "Forma",
+        "icon": "🧱",
+        "rows": [["I / you / we / they", "have been + -ing"], ["he / she / it", "has been + -ing"]],
+        "after": "Contracciones: I<b>'ve</b> been · she<b>'s</b> been. ¡<em>Been</em> no cambia nunca!"
+      },
+      {
+        "title": "Uso 1: duración",
+        "icon": "⏱️",
+        "art": "⌛",
+        "items": [
+          "Empezó en el pasado y <b>sigue ahora</b>.",
+          "I<b>'ve been waiting</b> for an hour. <i>(Llevo una hora esperando.)</i>",
+          "<b>How long</b> have you been living here?"
+        ]
+      },
+      {
+        "title": "Uso 2: resultado visible",
+        "icon": "👀",
+        "art": "💦",
+        "items": [
+          "Acaba de parar y <b>se nota</b> ahora.",
+          "You're wet! — I<b>'ve been running</b>. <i>(He estado corriendo.)</i>",
+          "Últimamente: I've been feeling tired <b>lately</b>."
+        ]
+      },
+      {
+        "title": "Negativa y pregunta",
+        "icon": "❓",
+        "items": ["She <b>hasn't been</b> sleeping well.", "<b>Have</b> you <b>been</b> crying?", "Yes, I <b>have</b>. / No, I <b>haven't</b>."]
+      },
+      {
+        "title": "¿Simple o continuo?",
+        "icon": "⚖️",
+        "items": ["Continuo → <b>actividad</b>, cuánto tiempo: I've been reading all day.", "Simple → <b>resultado</b>, cuántos: I've read three books."]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "items": ["«Llevo + tiempo + -ando» = <b>have been + -ing</b>", "Verbos de estado (know, like, want) → simple: I've <b>known</b> her for years."]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["I am waiting here for an hour."],
+      "good": ["I've been waiting here for an hour."],
+      "note": "«Llevo una hora…» → <b>have been</b> + -ing"
+    },
+    "mini": {
+      "es": "Completa con el present perfect continuous.",
+      "en": "Complete with the present perfect continuous.",
+      "items": [
+        {"q": "I ____ (wait) for ages!", "a": "have been waiting"},
+        {"q": "She ____ (study) all day.", "a": "has been studying"},
+        {"q": "How long have you ____ (live) here?", "a": "been living"},
+        {"q": "It ____ (rain) since Monday.", "a": "has been raining"},
+        {"q": "We ____ (not sleep) well lately.", "a": "haven't been sleeping"}
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "El <b>present perfect continuous</b> (<i>have / has been + -ing</i>) une el <b>pasado</b> con el <b>presente</b>. Lo usamos para una actividad que <mark>empezó en el pasado y sigue ahora</mark>, o que acaba de terminar y cuyos efectos todavía se notan. En español solemos decirlo con <b>«llevar + tiempo + gerundio»</b> o con el presente: <i>Llevo dos horas estudiando · Estudio inglés desde 2020</i>. ¡En inglés el presente no vale aquí!",
+      "en": "The <b>present perfect continuous</b> connects the past and the present. We use it for an activity that <mark>started in the past and is still going on</mark>, or that has just stopped and we can still see the results.",
+      "formula": ["Sujeto + *have / has* + *been* + verbo-*ing*"]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del «LLEVAR»",
+      "title_en": "The «llevar» trick",
+      "es": "Si en español dirías <b>«llevo / llevas / lleva + tiempo + -ando / -iendo»</b>, en inglés casi siempre es <b>have / has been + -ing</b>: <i>Llevo un año ahorrando → I've been saving for a year.</i> Si preguntas <i>«¿Cuánto tiempo llevas…?»</i> → <b>How long have you been…?</b> Pero si la frase cuenta cosas (tres libros, cinco emails) → vuelve al <b>simple</b>.",
+      "en": "If in Spanish you'd say «llevo + time + -ando», use <b>have been + -ing</b>. If you count things, use the simple."
+    },
+    {
+      "t": "rule",
+      "title": "1 · Afirmativa",
+      "title_en": "Affirmative",
+      "icon": "✅",
+      "color": "green",
+      "es": "Con <b>I, you, we, they</b> → <b>have been</b>; con <b>he, she, it</b> → <b>has been</b>. <em>Been</em> no cambia nunca y el verbo principal siempre lleva <em>-ing</em>. Al hablar casi siempre contraemos: <b>I've been</b>, <b>she's been</b>, <b>they've been</b>.",
+      "en": "I / you / we / they → <b>have been</b>; he / she / it → <b>has been</b>. <em>Been</em> never changes and the main verb always takes <em>-ing</em>. In speech we use short forms.",
+      "formula": ["I / you / we / they + *have been* + working", "he / she / it + *has been* + working"],
+      "examples": [
+        {"en": "I<b>'ve been working</b> on this project since January.", "es": "Llevo trabajando en este proyecto desde enero.", "icon": "💼"},
+        {"en": "She<b>'s been learning</b> Korean for six months.", "es": "Lleva seis meses aprendiendo coreano.", "icon": "📚"},
+        {"en": "We<b>'ve been saving</b> money for a trip to Japan.", "es": "Hemos estado ahorrando para un viaje a Japón.", "icon": "💰"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Negativa",
+      "title_en": "Negative",
+      "icon": "⛔",
+      "color": "red",
+      "es": "<b>not</b> va detrás de have / has: <b>haven't / hasn't been</b> + -ing. ¡Nunca <em>don't</em> ni <em>no</em>! Muy útil con <b>lately / recently</b> (últimamente).",
+      "en": "Put <b>not</b> after have / has. Never use <em>don't</em> or <em>no</em>.",
+      "formula": ["I / you / we / they + *haven't been* + sleeping", "he / she / it + *hasn't been* + sleeping"],
+      "examples": [
+        {"en": "I <b>haven't been sleeping</b> well lately.", "es": "Últimamente no estoy durmiendo bien.", "icon": "😴"},
+        {"en": "He <b>hasn't been feeling</b> well since Friday.", "es": "No se encuentra bien desde el viernes.", "icon": "🤒"},
+        {"en": "They <b>haven't been answering</b> their phones all morning.", "es": "Llevan toda la mañana sin coger el teléfono.", "icon": "📵"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Preguntas y respuestas cortas",
+      "title_en": "Questions and short answers",
+      "icon": "❓",
+      "color": "blue",
+      "es": "<b>Have / Has</b> va <mark>delante del sujeto</mark>. Pregunta estrella: <b>How long have you been + -ing…?</b> = <i>¿Cuánto tiempo llevas…?</i> Respuesta corta: <b>Yes, I have. / No, she hasn't.</b> (sin been).",
+      "en": "<b>Have / Has</b> goes before the subject. Key question: <b>How long have you been + -ing…?</b>",
+      "formula": ["*Have / Has* + sujeto + *been* + -ing …?", "*How long* have you *been* + -ing …?"],
+      "examples": [
+        {"en": "<b>How long have</b> you <b>been waiting</b>?", "es": "¿Cuánto tiempo llevas esperando?", "icon": "⏰"},
+        {"en": "<b>Has</b> it <b>been raining</b>? The streets are wet.", "es": "¿Ha estado lloviendo? Las calles están mojadas.", "icon": "🌧️"},
+        {
+          "en": "<b>Have</b> you <b>been crying</b>? — No, I've been cutting onions!",
+          "es": "¿Has estado llorando? — ¡No, he estado cortando cebolla!",
+          "icon": "🧅"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Uso 1: duración (¿cuánto tiempo?)",
+      "title_en": "Use 1: duration",
+      "icon": "⏱️",
+      "color": "teal",
+      "es": "Para una actividad que <mark>empezó en el pasado y todavía continúa</mark>. Destacamos <b>cuánto tiempo</b> lleva: <b>for</b> + periodo (<i>for two hours</i>), <b>since</b> + punto de inicio (<i>since 9 o'clock</i>), <b>all day / all morning</b>. En español: <i>llevo… -ando</i>, <i>hace… que</i> o presente + <i>desde hace</i>.",
+      "en": "For an activity that started in the past and is still going on. We focus on <b>how long</b>: for + period, since + starting point, all day.",
+      "examples": [
+        {"en": "It<b>'s been raining</b> since this morning.", "es": "Está lloviendo desde esta mañana.", "icon": "☔"},
+        {"en": "I<b>'ve been looking</b> for a new flat for three months.", "es": "Hace tres meses que busco piso.", "icon": "🏠"},
+        {"en": "They<b>'ve been talking</b> on the phone all evening.", "es": "Llevan toda la tarde hablando por teléfono.", "icon": "📞"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Uso 2: resultado visible",
+      "title_en": "Use 2: visible results",
+      "icon": "👀",
+      "color": "purple",
+      "es": "Para una actividad que <mark>acaba de terminar</mark> (o se ha interrumpido) y cuyos <b>efectos se ven ahora</b>: estás cansado, sucio, mojado, rojo… No importa si la acción está completa: importa la <b>actividad</b> que explica la situación presente.",
+      "en": "For an activity that has just stopped and whose <b>results we can see now</b>. The activity explains the present situation.",
+      "examples": [
+        {"en": "I'm exhausted. I<b>'ve been running</b>.", "es": "Estoy agotado. He estado corriendo.", "icon": "🏃"},
+        {
+          "en": "Your hands are filthy. What <b>have</b> you <b>been doing</b>?",
+          "es": "Tienes las manos sucísimas. ¿Qué has estado haciendo?",
+          "icon": "🧼"
+        },
+        {"en": "Sorry I'm late. <b>Have</b> you <b>been waiting</b> long?", "es": "Perdona el retraso. ¿Llevas mucho rato esperando?", "icon": "⏳"}
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¿Simple o continuo?",
+      "title_en": "Simple or continuous?",
+      "color": "blue",
+      "icon": "⚖️",
+      "es": "Los dos conectan pasado y presente, pero miran cosas distintas. El <b>simple</b> mira el <b>resultado</b>: qué y <b>cuánto</b> has hecho (how many / how much). El <b>continuo</b> mira la <b>actividad</b> y su <b>duración</b>: <b>cuánto tiempo</b> llevas (how long).",
+      "en": "The simple focuses on the <b>result</b> (what, how many). The continuous focuses on the <b>activity</b> and its duration (how long).",
+      "cols": [
+        {
+          "head": "✅ Simple · resultado / cuántos",
+          "color": "green",
+          "items": [
+            "I've <b>read</b> 50 pages. <i>(cantidad)</i>",
+            "She's <b>painted</b> the room. <i>(terminado)</i>",
+            "How <b>many</b> emails have you <b>sent</b>?",
+            "I've <b>known</b> Ana for years. <i>(estado)</i>"
+          ]
+        },
+        {
+          "head": "⏳ Continuo · actividad / cuánto tiempo",
+          "color": "orange",
+          "items": [
+            "I've <b>been reading</b> for two hours.",
+            "She's <b>been painting</b>: look at her hands!",
+            "How <b>long</b> have you <b>been writing</b> emails?",
+            "<s>I've been knowing Ana</s> ✗"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "¿La acción <b>empezó en el pasado</b> y sigue (o acaba de parar y se nota)? → present perfect.",
+          "en": "Started in the past and still going on (or just stopped)? → present perfect."
+        },
+        {
+          "es": "¿Te importa la <b>actividad / duración</b> (how long)? → continuo. ¿El <b>resultado / cantidad</b> (how many)? → simple.",
+          "en": "Activity / how long → continuous. Result / how many → simple."
+        },
+        {"es": "¿Es un <b>verbo de estado</b> (know, like, want, own…)? → siempre simple.", "en": "State verb? → always simple."},
+        {"es": "Sujeto + <b>have / has</b> (he, she, it → has) + <b>been</b> + verbo-<b>ing</b>.", "en": "Subject + have / has + been + -ing."},
+        {
+          "es": "Añade el tiempo: <b>for</b> + periodo · <b>since</b> + inicio · <b>all day</b> · <b>lately</b>.",
+          "en": "Add the time: for, since, all day, lately."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Reencuentro en la estación",
+      "title_en": "Meeting again at the station",
+      "lines": [
+        {
+          "who": "Laura",
+          "en": "Dani! I haven't seen you for ages! What have you been doing?",
+          "es": "¡Dani! ¡Cuánto tiempo sin verte! ¿Qué has estado haciendo?"
+        },
+        {
+          "who": "Dani",
+          "en": "I've been working in Dublin. I moved there two years ago.",
+          "es": "He estado trabajando en Dublín. Me mudé allí hace dos años."
+        },
+        {"who": "Laura", "en": "Wow! How long have you been back in Spain?", "es": "¡Hala! ¿Cuánto tiempo llevas de vuelta en España?"},
+        {"who": "Dani", "en": "Just a week. I've been staying with my parents.", "es": "Solo una semana. Me estoy quedando en casa de mis padres."},
+        {"who": "Laura", "en": "You look a bit tired. Have you been sleeping OK?", "es": "Pareces un poco cansado. ¿Estás durmiendo bien?"},
+        {
+          "who": "Dani",
+          "en": "Not really. I've been looking for a flat all week, and I've seen ten already!",
+          "es": "No mucho. Llevo toda la semana buscando piso, ¡y ya he visto diez!"
+        },
+        {"who": "Laura", "en": "Ten! Have you found anything nice?", "es": "¡Diez! ¿Has encontrado algo bonito?"},
+        {"who": "Dani", "en": "Not yet, but I've been checking the websites every day.", "es": "Todavía no, pero miro las webs todos los días."}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Todo junto",
+      "title_en": "All together",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": ["Sujeto · Subject", "✅ Afirmativa", "⛔ Negativa", "❓ Pregunta", "💬 Respuesta corta"],
+      "rows": [
+        ["I", "I've been working.", "I haven't been working.", "Have I been working?", "Yes, I have. / No, I haven't."],
+        ["you", "You've been working.", "You haven't been working.", "Have you been working?", "Yes, you have. / No, you haven't."],
+        [
+          "he / she / it",
+          "She<b>'s</b> been working.",
+          "She <b>hasn't</b> been working.",
+          "<b>Has</b> she been working?",
+          "Yes, she <b>has</b>. / No, she <b>hasn't</b>."
+        ],
+        ["we", "We've been working.", "We haven't been working.", "Have we been working?", "Yes, we have. / No, we haven't."],
+        ["they", "They've been working.", "They haven't been working.", "Have they been working?", "Yes, they have. / No, they haven't."]
+      ],
+      "note": "Ojo: <b>'s</b> puede ser <i>is</i> o <i>has</i>. En <b>She's been working</b> es <u>has</u>, porque detrás viene <b>been</b>.",
+      "note_en": "<b>'s</b> can mean <i>is</i> or <i>has</i>. Before <b>been</b> it always means <i>has</i>."
+    },
+    {
+      "t": "table",
+      "title": "Palabras clave",
+      "title_en": "Time expressions",
+      "icon": "🔑",
+      "color": "yellow",
+      "wide": true,
+      "head": ["Expresión · Expression", "Significado", "Ejemplo · Example", "Traducción"],
+      "rows": [
+        ["<b>for</b> + periodo", "durante / desde hace", "I've been waiting <b>for</b> 20 minutes.", "Llevo 20 minutos esperando."],
+        ["<b>since</b> + punto de inicio", "desde", "She's been working <b>since</b> 8 a.m.", "Trabaja desde las 8."],
+        ["<b>How long…?</b>", "¿Cuánto tiempo…?", "<b>How long</b> have you been living here?", "¿Cuánto tiempo llevas viviendo aquí?"],
+        ["<b>all day / all morning</b>", "todo el día / toda la mañana", "It's been snowing <b>all day</b>.", "Lleva todo el día nevando."],
+        ["<b>lately / recently</b>", "últimamente", "I've been feeling stressed <b>lately</b>.", "Últimamente estoy estresado."],
+        [
+          "<b>this week / this month</b>",
+          "esta semana / este mes",
+          "We've been working from home <b>this week</b>.",
+          "Esta semana estamos teletrabajando."
+        ]
+      ],
+      "note": "<b>for</b> = un periodo (for two years) · <b>since</b> = el momento en que empezó (since 2024). <s>since two years</s> ✗",
+      "note_en": "<b>for</b> + a period · <b>since</b> + the moment it started."
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "I've been studying for my B2 exam every evening this month.",
+          "es": "Este mes he estado estudiando para el B2 todas las tardes.",
+          "icon": "📝"
+        },
+        {"en": "The company has been losing money since the pandemic.", "es": "La empresa lleva perdiendo dinero desde la pandemia.", "icon": "📉"},
+        {"en": "We've been travelling around Portugal for two weeks.", "es": "Llevamos dos semanas viajando por Portugal.", "icon": "🚐"},
+        {"en": "My phone has been acting strangely lately.", "es": "Últimamente mi móvil hace cosas raras.", "icon": "📱"},
+        {"en": "Prices have been rising all year.", "es": "Los precios llevan todo el año subiendo.", "icon": "📈"},
+        {"en": "How long have you been going out with Marta?", "es": "¿Cuánto tiempo llevas saliendo con Marta?", "icon": "💑"},
+        {"en": "I've been trying to call you all afternoon!", "es": "¡Llevo toda la tarde intentando llamarte!", "icon": "☎️"},
+        {
+          "en": "She looks tired because she's been working night shifts.",
+          "es": "Parece cansada porque ha estado haciendo turnos de noche.",
+          "icon": "🌙"
+        },
+        {"en": "Scientists have been studying this virus for years.", "es": "Los científicos llevan años estudiando este virus.", "icon": "🔬"},
+        {"en": "Have you been using my laptop? The battery's dead.", "es": "¿Has estado usando mi portátil? No le queda batería.", "icon": "💻"},
+        {
+          "en": "The printer hasn't been working properly since the update.",
+          "es": "La impresora no funciona bien desde la actualización.",
+          "icon": "🖨️"
+        },
+        {
+          "en": "We've been waiting for the bus for 40 minutes. Typical!",
+          "es": "Llevamos 40 minutos esperando el autobús. ¡Lo de siempre!",
+          "icon": "🚌"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "I am studying English since 2020.",
+          "good": "I <b>have been studying</b> English since 2020.",
+          "why": "Con since / for y una acción que sigue, no se usa el presente (calco de «estudio desde…»).",
+          "why_en": "Use the present perfect (continuous) with since / for, not the present."
+        },
+        {
+          "bad": "I'm waiting here for an hour.",
+          "good": "I<b>'ve been waiting</b> here for an hour.",
+          "why": "«Llevo una hora esperando» = have been + -ing.",
+          "why_en": "«Llevo… -ando» = have been + -ing."
+        },
+        {
+          "bad": "I've been knowing him for years.",
+          "good": "I've <b>known</b> him for years.",
+          "why": "Know es un verbo de estado: no admite -ing.",
+          "why_en": "Know is a state verb: no -ing."
+        },
+        {
+          "bad": "She's been writing five emails today.",
+          "good": "She's <b>written</b> five emails today.",
+          "why": "Si cuentas cuántos (cantidad) → present perfect simple.",
+          "why_en": "Quantity (how many) → present perfect simple."
+        },
+        {
+          "bad": "How long are you living in London?",
+          "good": "How long <b>have you been living</b> in London?",
+          "why": "«¿Cuánto llevas…?» → How long + present perfect, no presente.",
+          "why_en": "How long…? → present perfect, not present."
+        },
+        {
+          "bad": "We've been waiting since two hours.",
+          "good": "We've been waiting <b>for</b> two hours.",
+          "why": "for + periodo (two hours); since + momento (2 o'clock).",
+          "why_en": "for + period; since + point in time."
+        },
+        {
+          "bad": "He has been work all morning.",
+          "good": "He has been <b>working</b> all morning.",
+          "why": "Después de been, el verbo va siempre en -ing.",
+          "why_en": "After been, use -ing."
+        },
+        {
+          "bad": "They have being travelling.",
+          "good": "They have <b>been</b> travelling.",
+          "why": "have + <b>been</b> (participio), nunca <i>being</i>.",
+          "why_en": "have + been, not being."
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Simple vs continuo: guía rápida",
+      "title_en": "Simple vs continuous: quick guide",
+      "icon": "🧭",
+      "color": "pink",
+      "wide": true,
+      "head": ["Fíjate en… · Look at", "Present perfect simple", "Present perfect continuous"],
+      "rows": [
+        [
+          "¿Qué importa?",
+          "El <b>resultado</b>: I've fixed the bike. <i>(ya funciona)</i>",
+          "La <b>actividad</b>: I've been fixing the bike. <i>(tengo las manos negras)</i>"
+        ],
+        ["¿Cantidad o duración?", "<b>How many / how much</b>: I've drunk three coffees.", "<b>How long</b>: I've been drinking coffee all morning."],
+        ["¿Está terminado?", "Sí, completo: I've written the report.", "No necesariamente: I've been writing the report."],
+        ["¿Permanente o temporal?", "Permanente: He's lived in Madrid all his life.", "Temporal: He's been living with friends since May."],
+        ["Verbos de estado", "know, like, believe, own… → I've <b>known</b> her for years.", "<s>I've been knowing her</s> ✗"],
+        ["live / work / study + for / since", "I've lived here for ten years. ✓", "I've been living here for ten years. ✓ <i>(¡las dos valen!)</i>"]
+      ],
+      "note": "Con <b>live, work, study, teach</b> + for / since las dos formas suelen ser correctas; el continuo suena más «en curso» o temporal.",
+      "note_en": "With live, work, study, teach + for / since both forms are usually fine."
+    },
+    {
+      "t": "vocab",
+      "title": "Verbos de estado: ¡sin -ing!",
+      "title_en": "State verbs: no -ing",
+      "icon": "🚫",
+      "color": "red",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {"en": "know", "es": "saber, conocer", "icon": "🧠"},
+        {"en": "like", "es": "gustar", "icon": "👍"},
+        {"en": "love", "es": "encantar, querer", "icon": "❤️"},
+        {"en": "hate", "es": "odiar", "icon": "😠"},
+        {"en": "want", "es": "querer", "icon": "🙏"},
+        {"en": "need", "es": "necesitar", "icon": "🆘"},
+        {"en": "believe", "es": "creer", "icon": "🤔"},
+        {"en": "understand", "es": "entender", "icon": "💡"},
+        {"en": "own", "es": "poseer, ser dueño", "icon": "🔑"},
+        {"en": "belong", "es": "pertenecer", "icon": "🏷️"},
+        {"en": "seem", "es": "parecer", "icon": "🎭"},
+        {"en": "mean", "es": "significar", "icon": "📖"}
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Rodea la forma correcta",
+      "title_en": "Circle the correct form",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta. Fíjate en el sujeto y en la forma del verbo.",
+      "en": "Circle the correct option.",
+      "items": [
+        {"q": "She [have|has] been working all day.", "a": "has"},
+        {"q": "I've been [wait|waiting] for you for ages.", "a": "waiting"},
+        {"q": "They have [been|being] living here since May.", "a": "been"},
+        {"q": "[Have|Has] you been crying?", "a": "Have"},
+        {"q": "It [hasn't|haven't] been raining much this month.", "a": "hasn't"},
+        {"q": "We've been [study|studying] since nine o'clock.", "a": "studying"},
+        {"q": "How long [has|have] your brother been working there?", "a": "has"},
+        {"q": "My parents [have been|has been] travelling a lot recently.", "a": "have been"},
+        {"q": "Have you been running? — Yes, I [have|have been].", "a": "have"},
+        {"q": "The kids [have been playing|are playing] video games for three hours.", "a": "have been playing"}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "have / has been + -ing",
+      "title_en": "have / has been + -ing",
+      "icon": "✏️",
+      "es": "Completa con el present perfect continuous del verbo entre paréntesis.",
+      "en": "Complete with the present perfect continuous of the verb in brackets.",
+      "items": [
+        {"q": "I ____ (try) to call you all morning!", "a": "have been trying"},
+        {"q": "She ____ (work) at the hospital since 2021.", "a": "has been working"},
+        {"q": "We ____ (wait) for the train for half an hour.", "a": "have been waiting"},
+        {"q": "It ____ (snow) all night.", "a": "has been snowing"},
+        {"q": "You ____ (not listen) to me!", "a": "haven't been listening"},
+        {"q": "My neighbours ____ (make) noise since midnight.", "a": "have been making"},
+        {"q": "___ you ____ (exercise) lately?", "a": "Have … been exercising"},
+        {"q": "He ____ (not feel) well recently.", "a": "hasn't been feeling"},
+        {"q": "How long ___ Marta ____ (learn) the guitar?", "a": "has … been learning"},
+        {"q": "They ____ (plan) this trip for months.", "a": "have been planning"}
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Admite -ing?",
+      "title_en": "Can it take -ing?",
+      "icon": "🗂️",
+      "es": "Clasifica los verbos: ¿son verbos de estado (solo simple) o de acción (admiten have been + -ing)?",
+      "en": "Sort the verbs: state verbs (simple only) or action verbs (continuous OK).",
+      "cats": [
+        {"name": "🚫 Estado: NO -ing", "words": ["know", "believe", "own", "belong", "understand", "want", "seem"]},
+        {"name": "✅ Acción: SÍ -ing", "words": ["work", "travel", "wait", "run", "study", "rain", "cry"]}
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Resultado y causa",
+      "title_en": "Match the result and the cause",
+      "icon": "🔗",
+      "es": "Une cada situación con la actividad que la explica.",
+      "en": "Match each situation with the activity that explains it.",
+      "pairs": [
+        ["Your eyes are red.", "I've been chopping onions."],
+        ["The grass is wet.", "It's been raining."],
+        ["Why are you out of breath?", "I've been running for the bus."],
+        ["Your hands are covered in paint.", "I've been decorating the bedroom."],
+        ["Marco looks really tired.", "He's been working night shifts."],
+        ["Your English is much better!", "I've been taking online classes."],
+        ["The phone bill is huge.", "The kids have been calling their friends in Australia."],
+        ["You smell of smoke!", "We've been sitting round a campfire."]
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "wide": true,
+      "es": "Completa las casillas vacías con la forma correcta.",
+      "en": "Fill in the empty boxes.",
+      "head": ["Sujeto / verbo", "✅ Afirmativa", "⛔ Negativa", "❓ Pregunta"],
+      "rows": [
+        ["I / work", "I've been working.", "?I haven't been working.", "?Have I been working?"],
+        ["she / study", "?She's been studying.", "She hasn't been studying.", "?Has she been studying?"],
+        ["we / wait", "?We've been waiting.", "?We haven't been waiting.", "Have we been waiting?"],
+        ["it / rain", "?It's been raining.", "It hasn't been raining.", "?Has it been raining?"],
+        ["they / travel", "They've been travelling.", "?They haven't been travelling.", "?Have they been travelling?"]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Negativa y pregunta",
+      "title_en": "Negative and question",
+      "icon": "🔄",
+      "es": "Escribe cada frase en negativa (➖) y en pregunta (❓).",
+      "en": "Write each sentence in the negative and as a question.",
+      "labels": ["➖", "❓"],
+      "items": [
+        {"q": "She has been sleeping well.", "a": ["She hasn't been sleeping well.", "Has she been sleeping well?"]},
+        {"q": "They have been arguing again.", "a": ["They haven't been arguing again.", "Have they been arguing again?"]},
+        {"q": "You've been working too hard.", "a": ["You haven't been working too hard.", "Have you been working too hard?"]},
+        {"q": "It has been raining all week.", "a": ["It hasn't been raining all week.", "Has it been raining all week?"]},
+        {"q": "Your brother has been using my car.", "a": ["Your brother hasn't been using my car.", "Has your brother been using my car?"]},
+        {"q": "We've been going to the gym.", "a": ["We haven't been going to the gym.", "Have we been going to the gym?"]}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "¿Cuánto tiempo llevas…?",
+      "title_en": "How long…?",
+      "icon": "⏱️",
+      "es": "Escribe la pregunta con How long… y responde con for o since según la pista.",
+      "en": "Write the question with How long… and answer with for or since.",
+      "labels": ["❓", "💬"],
+      "items": [
+        {"q": "Lucas is learning Japanese. (two years)", "a": ["How long has Lucas been learning Japanese?", "For two years."]},
+        {"q": "They are waiting for the doctor. (9 o'clock)", "a": ["How long have they been waiting for the doctor?", "Since nine o'clock."]},
+        {"q": "It is snowing. (Sunday)", "a": ["How long has it been snowing?", "Since Sunday."]},
+        {"q": "You are driving. (five hours)", "a": ["How long have you been driving?", "For five hours."]},
+        {"q": "Elena is working at the bank. (last summer)", "a": ["How long has Elena been working at the bank?", "Since last summer."]},
+        {"q": "The kids are playing outside. (an hour)", "a": ["How long have the kids been playing outside?", "For an hour."]}
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "¿Simple o continuo?",
+      "title_en": "Simple or continuous?",
+      "icon": "⚖️",
+      "es": "Rodea la forma correcta. Pregúntate: ¿resultado / cantidad (simple) o actividad / duración (continuo)?",
+      "en": "Circle the correct form: result / quantity or activity / duration?",
+      "items": [
+        {"q": "I've [read|been reading] three chapters this morning.", "a": "read"},
+        {"q": "I've [read|been reading] all morning. My eyes hurt.", "a": "been reading"},
+        {"q": "She's [known|been knowing] Pablo since primary school.", "a": "known"},
+        {"q": "How many cups of coffee have you [drunk|been drinking] today?", "a": "drunk"},
+        {"q": "Look at the mess! The dog has [dug|been digging] in the garden.", "a": "been digging"},
+        {"q": "We've [painted|been painting] the living room. Do you like it?", "a": "painted"},
+        {"q": "Sorry about the smell. I've [cooked|been cooking] fish.", "a": "been cooking"},
+        {"q": "He's [lost|been losing] his keys again. Can you help him look?", "a": "lost"},
+        {"q": "This flat has [belonged|been belonging] to my family since 1970.", "a": "belonged"},
+        {"q": "You're soaking! Have you [walked|been walking] in the rain?", "a": "been walking"}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Simple o continuo",
+      "title_en": "Simple or continuous",
+      "icon": "🧠",
+      "es": "Completa con el present perfect simple o continuous del verbo entre paréntesis.",
+      "en": "Complete with the present perfect simple or continuous.",
+      "items": [
+        {"q": "I ____ (write) four emails since lunch.", "a": "have written"},
+        {"q": "I ____ (write) emails since lunch and I'm bored.", "a": "have been writing"},
+        {"q": "She ____ (have) her car for ten years.", "a": "has had"},
+        {"q": "They ____ (argue) all evening. I can't stand it!", "a": "have been arguing"},
+        {"q": "Oh no! Someone ____ (eat) all the biscuits!", "a": "has eaten"},
+        {"q": "You're red! ___ you ____ (sunbathe)?", "a": "Have … been sunbathing"},
+        {"q": "We ____ (visit) six countries on this trip so far.", "a": "have visited"},
+        {"q": "How long ___ you ____ (know) your best friend?", "a": "have … known"},
+        {"q": "The baby ____ (cry) for an hour. Is she OK?", "a": "has been crying"},
+        {"q": "I ____ (not finish) the report yet, but I ____ (work) on it all day.", "a": "haven't finished … have been working"}
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase.",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {"q": "been / I've / waiting / for / hours", "a": "I've been waiting for hours."},
+        {"q": "has / she / been / working / here / since / May", "a": "She has been working here since May."},
+        {"q": "you / have / been / crying / ?", "a": "Have you been crying?"},
+        {"q": "long / how / you / have / been / learning / English / ?", "a": "How long have you been learning English?"},
+        {"q": "hasn't / it / raining / been / lately", "a": "It hasn't been raining lately."},
+        {"q": "been / we / have / saving / for / a new car", "a": "We have been saving for a new car."},
+        {"q": "my / sleeping / haven't / parents / well / been", "a": "My parents haven't been sleeping well."},
+        {"q": "what / you / been / have / doing / all day / ?", "a": "What have you been doing all day?"}
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Correcta o incorrecta?",
+      "title_en": "Right or wrong?",
+      "icon": "✔️",
+      "es": "Marca T si la frase es correcta y F si tiene un error.",
+      "en": "Tick T if the sentence is correct and F if it is wrong.",
+      "items": [
+        {"q": "I've been living here since five years.", "a": false, "why": "for five years"},
+        {"q": "She's been crying. Her eyes are red.", "a": true},
+        {"q": "How long have you been knowing Marc?", "a": false, "why": "How long have you known Marc?"},
+        {"q": "We've been travelling around Peru for a month.", "a": true},
+        {"q": "I've been drinking four coffees today.", "a": false, "why": "cantidad → I've drunk four coffees today."},
+        {"q": "It hasn't been raining much lately.", "a": true},
+        {"q": "He has been working here since 2020.", "a": true},
+        {"q": "They are working here since last year.", "a": false, "why": "They have been working here since last year."}
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {"q": "I am living in Valencia since 2022.", "a": ["I have been living in Valencia since 2022.", "I have lived in Valencia since 2022."]},
+        {"q": "She's been knowing Tom for ages.", "a": "She's known Tom for ages."},
+        {"q": "How long are you waiting?", "a": "How long have you been waiting?"},
+        {"q": "We've been waiting since forty minutes.", "a": "We've been waiting for forty minutes."},
+        {"q": "He has been play tennis all afternoon.", "a": "He has been playing tennis all afternoon."},
+        {"q": "I've been reading five books this summer.", "a": "I've read five books this summer."},
+        {"q": "Has you been working out?", "a": "Have you been working out?"},
+        {"q": "They have being arguing all night.", "a": "They have been arguing all night."}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones B2 First",
+      "title_en": "Key word transformations",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra entre paréntesis SIN cambiarla y escribe entre 2 y 5 palabras.",
+      "en": "Complete the second sentence so that it means the same as the first. Use the word given. Write 2-5 words.",
+      "items": [
+        {"q": "I started learning Italian three years ago.<br>I _____ Italian for three years.", "hint": "<b>BEEN</b>", "a": "have been learning"},
+        {
+          "q": "It started raining at six o'clock and it's still raining.<br>It _____ six o'clock.",
+          "hint": "<b>SINCE</b>",
+          "a": "has been raining since"
+        },
+        {"q": "When did you start working here?<br>_____ working here?", "hint": "<b>LONG</b>", "a": "How long have you been"},
+        {
+          "q": "Paula is out of breath. She's just finished a run.<br>Paula is out of breath because she _____.",
+          "hint": "<b>BEEN</b>",
+          "a": "has been running"
+        },
+        {"q": "We moved to this flat in 2019.<br>We _____ this flat since 2019.", "hint": "<b>LIVING</b>", "a": "have been living in"},
+        {"q": "My sleep has been terrible for weeks.<br>I _____ well for weeks.", "hint": "<b>SLEEPING</b>", "a": "haven't been sleeping"},
+        {
+          "q": "The last time I went to the gym was in March.<br>I _____ to the gym since March.",
+          "hint": "<b>BEEN</b>",
+          "a": "haven't been / haven't been going"
+        },
+        {
+          "q": "Tom started waiting for the bus forty minutes ago.<br>Tom _____ the bus for forty minutes.",
+          "hint": "<b>WAITING</b>",
+          "a": "has been waiting for"
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el blog de Carmen. Marca T o F y contesta.",
+      "en": "Read Carmen's blog. Tick T or F and answer the questions.",
+      "text_title": "Carmen's blog: a new life in Edinburgh",
+      "text": [
+        "Hi everyone! It's been a while since my last post. I moved to Edinburgh last spring, so I've been living here for about eight months now. I've been working as a nurse at a big hospital since September. I love it, but I've been doing a lot of night shifts lately!",
+        "My English has improved a lot. I've been taking classes twice a week, and I've already passed two mock exams for my B2 First. The only problem is the weather: it's been raining non-stop for three days! I've bought two umbrellas this week and I've lost both of them.",
+        "My flatmate, Fiona, has been teaching me some Scottish words. She's from Glasgow and we've known each other since my first week here. My parents are coming to visit next month, and I've been planning their trip for weeks."
+      ],
+      "items": [
+        {"q": "Carmen has been living in Edinburgh for more than a year.", "tf": true, "a": false, "why": "About eight months."},
+        {"q": "She has been doing night shifts recently.", "tf": true, "a": true},
+        {"q": "It has been raining for a week.", "tf": true, "a": false, "why": "For three days."},
+        {"q": "How long has Carmen been working at the hospital?", "a": "Since September."},
+        {"q": "How many umbrellas has she bought this week?", "a": "Two (and she's lost both of them)."},
+        {"q": "What has Fiona been doing?", "a": "She's been teaching Carmen some Scottish words."},
+        {"q": "Why does Carmen write 'we've known' and not 'we've been knowing'?", "a": "Because know is a state verb (no -ing)."},
+        {
+          "q": "Copy a sentence with the present perfect simple and a quantity.",
+          "a": ["I've bought two umbrellas this week.", "I've already passed two mock exams."]
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿actividad que sigue (continuo) o resultado / estado (simple)?",
+      "en": "Translate into English.",
+      "items": [
+        {"q": "Llevo dos horas esperándote.", "a": "I've been waiting for you for two hours."},
+        {
+          "q": "¿Cuánto tiempo llevas estudiando inglés?",
+          "a": ["How long have you been studying English?", "How long have you been learning English?"]
+        },
+        {"q": "Está lloviendo desde el lunes.", "a": "It's been raining since Monday."},
+        {"q": "Últimamente no estoy durmiendo bien.", "a": "I haven't been sleeping well lately."},
+        {"q": "Conozco a Ana desde hace diez años.", "a": "I've known Ana for ten years."},
+        {"q": "¿Has estado llorando? Tienes los ojos rojos.", "a": "Have you been crying? Your eyes are red."},
+        {
+          "q": "Mi hermana trabaja en Londres desde 2023.",
+          "a": ["My sister has been working in London since 2023.", "My sister has worked in London since 2023."]
+        },
+        {
+          "q": "Llevamos todo el mes buscando piso y no hemos encontrado nada.",
+          "a": "We've been looking for a flat all month and we haven't found anything."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre tu vida con have / has been + -ing.",
+      "en": "Write about your life.",
+      "items": [
+        {"q": "Escribe algo que <b>llevas tiempo haciendo</b> (for / since).", "lines": 1, "a": "Ej.: I've been learning English since I was six."},
+        {
+          "q": "Explica por qué estás cansado/a hoy (<b>resultado visible</b>).",
+          "lines": 1,
+          "a": "Ej.: I'm tired because I've been studying all night."
+        },
+        {"q": "Escribe una pregunta con <b>How long…?</b> para un compañero.", "lines": 1, "a": "Ej.: How long have you been playing the guitar?"},
+        {
+          "q": "Una afición: una frase con el <b>continuo</b> y otra con el <b>simple</b>.",
+          "lines": 1,
+          "a": "Ej.: I've been running for two years. I've run three half marathons."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {"es": "Formo el present perfect continuous: <b>have / has been + -ing</b>.", "en": "I can form the present perfect continuous."},
+    {
+      "es": "Lo uso para acciones que <b>empezaron en el pasado y siguen</b> (for, since, all day).",
+      "en": "I use it for actions that started in the past and continue."
+    },
+    {"es": "Explico <b>resultados visibles</b>: You're wet — I've been running.", "en": "I can explain visible results."},
+    {"es": "Pregunto con <b>How long have you been…?</b>", "en": "I can ask How long have you been…?"},
+    {
+      "es": "Distingo <b>simple</b> (resultado, cuántos) y <b>continuo</b> (actividad, cuánto tiempo).",
+      "en": "I know when to use the simple and the continuous."
+    },
+    {"es": "No uso -ing con <b>verbos de estado</b>: I've known her for years.", "en": "I don't use -ing with state verbs."},
+    {"es": "Nunca digo <s>I am living here since 2020</s>.", "en": "I never use the present with since / for."}
+  ]
+}

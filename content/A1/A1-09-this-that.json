@@ -1,0 +1,462 @@
+{
+  "id": "A1-09",
+  "level": "A1",
+  "title": "THIS, THAT, THESE, THOSE",
+  "file_title": "This, that, these, those",
+  "subtitle": "Demonstratives · este, ese, estos, esos",
+  "icon": "👉",
+  "map": {
+    "center": "Para <b>señalar</b> cosas: <b>cerca</b> → this / these; <b>lejos</b> → that / those. ¿<b>Una</b> cosa o <b>muchas</b>?",
+    "nodes": [
+      {
+        "title": "THIS · cerca, uno", "icon": "👇", "art": "✏️",
+        "items": ["<b>this</b> = este, esta, esto", "<b>This is</b> my pencil.", "this book · this girl"]
+      },
+      {
+        "title": "THAT · lejos, uno", "icon": "👉", "art": "🏠",
+        "items": ["<b>that</b> = ese, esa, eso, aquel…", "<b>That is</b> (That's) my house.", "that dog · that star"]
+      },
+      {
+        "title": "THESE · cerca, muchos", "icon": "🧸",
+        "items": ["<b>these</b> = estos, estas", "<b>These are</b> my toys.", "these + plural: these book<em>s</em>"]
+      },
+      {
+        "title": "THOSE · lejos, muchos", "icon": "⭐",
+        "items": ["<b>those</b> = esos, esas, aquellos…", "<b>Those are</b> my friends.", "those + plural: those bird<em>s</em>"]
+      },
+      {
+        "title": "Preguntas", "icon": "❓",
+        "items": ["<b>Is this</b> your bag? — Yes, <b>it</b> is.", "<b>Are those</b> your shoes? — No, <b>they</b> aren't.", "What's this? — <b>It's</b> a kite."]
+      },
+      {
+        "title": "Consejo rápido", "icon": "💡",
+        "items": ["4 letras (this, that) = <b>1</b> cosa", "5 letras (these, those) = <b>muchas</b>", "Which one? — <b>This one</b>! <i>(¡Este!)</i>"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["This are my books."],
+      "good": ["These are my books."],
+      "note": "muchas cosas → <b>these</b> + are"
+    },
+    "mini": {
+      "es": "Completa: 👇 = cerca, 👉 = lejos.",
+      "en": "Complete: 👇 = near, 👉 = far.",
+      "items": [
+        { "q": "👇 ___ is my pen.", "a": "This" },
+        { "q": "👉 ___ is my house.", "a": "That" },
+        { "q": "👇 ___ are my toys.", "a": "These" },
+        { "q": "👉 ___ are my friends.", "a": "Those" },
+        { "q": "___ this your bag? — Yes, it is.", "a": "Is" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Los <b>demostrativos</b> sirven para <mark>señalar</mark> cosas: <i>este, ese, estos, esos</i>. En inglés solo hay cuatro, y para elegir el correcto hay que pensar dos cosas: ¿está <b>cerca o lejos</b>? ¿Es <b>una</b> cosa o son <b>muchas</b>?",
+      "en": "Demonstratives point at things. Ask two questions: is it <b>near or far</b>? Is it <b>one</b> thing or <b>many</b>?",
+      "formula": ["*this / these* + cerca 👇", "*that / those* + lejos 👉"]
+    },
+    {
+      "t": "table", "title": "1 · El cuadro mágico", "title_en": "The magic square", "icon": "🔲", "color": "purple",
+      "head": ["", "Uno · One", "Muchos · Many"],
+      "rows": [
+        ["👇 <b>Cerca</b> · Near (aquí)", "<b>this</b><br><i>este, esta, esto</i>", "<b>these</b><br><i>estos, estas</i>"],
+        ["👉 <b>Lejos</b> · Far (allí)", "<b>that</b><br><i>ese, esa, eso, aquel, aquella</i>", "<b>those</b><br><i>esos, esas, aquellos, aquellas</i>"]
+      ],
+      "note": "En español tenemos tres distancias (este, ese, aquel), pero en inglés solo hay dos: <b>cerca</b> (this) y <b>no cerca</b> (that). Así que <i>ese</i> y <i>aquel</i> son los dos <b>that</b>.",
+      "note_en": "Spanish has three distances; English has only two: near (this) and not near (that)."
+    },
+    {
+      "t": "rule", "title": "2 · THIS: cerca, uno", "title_en": "this: near, one", "icon": "👇", "color": "green",
+      "es": "Usamos <b>this</b> para <b>una</b> cosa que está <mark>cerca</mark> (aquí, la puedo tocar). Con el verbo to be decimos <b>This is…</b> También sirve para <b>presentar</b> a alguien: <i>This is my friend Leo.</i>",
+      "en": "Use <b>this</b> for <b>one</b> thing <mark>near</mark> you. We also use it to introduce people.",
+      "formula": ["*This is* + my pencil", "*this* + book / girl / dog"],
+      "examples": [
+        { "en": "<b>This is</b> my new pencil case.", "es": "Este es mi estuche nuevo.", "icon": "✏️" },
+        { "en": "<b>This</b> cake is delicious!", "es": "¡Este pastel está buenísimo!", "icon": "🍰" },
+        { "en": "Mum, <b>this is</b> my friend Leo.", "es": "Mamá, este es mi amigo Leo.", "icon": "👦" }
+      ]
+    },
+    {
+      "t": "rule", "title": "3 · THAT: lejos, uno", "title_en": "that: far, one", "icon": "👉", "color": "blue",
+      "es": "Usamos <b>that</b> para <b>una</b> cosa que está <mark>lejos</mark> (allí, no la puedo tocar). Con to be decimos <b>That is…</b> o, en corto, <b>That's…</b>",
+      "en": "Use <b>that</b> for <b>one</b> thing <mark>far</mark> from you. That is = That's.",
+      "formula": ["*That is* (That's) + my house", "*that* + star / bird / plane"],
+      "examples": [
+        { "en": "<b>That's</b> my school.", "es": "Ese es mi cole.", "icon": "🏫" },
+        { "en": "Look at <b>that</b> plane!", "es": "¡Mira ese avión!", "icon": "✈️" },
+        { "en": "<b>That</b> boy is my cousin.", "es": "Ese niño es mi primo.", "icon": "🧒" }
+      ]
+    },
+    {
+      "t": "rule", "title": "4 · THESE: cerca, muchos", "title_en": "these: near, many", "icon": "🧸", "color": "pink",
+      "es": "<b>these</b> es el plural de this: <b>muchas</b> cosas <mark>cerca</mark>. Va con <b>are</b> y con el nombre en <b>plural</b>: <i>These are my toys.</i> Ojo al pronunciar: <b>this</b> /ðɪs/ es corto; <b>these</b> /ðiːz/ es largo y acaba en «z».",
+      "en": "<b>these</b> = many things <mark>near</mark> you. Use <b>are</b> and a plural noun.",
+      "formula": ["*These are* + my toys", "*these* + books / sweets"],
+      "examples": [
+        { "en": "<b>These are</b> my toys.", "es": "Estos son mis juguetes.", "icon": "🧸" },
+        { "en": "<b>These</b> sweets are for you.", "es": "Estos caramelos son para ti.", "icon": "🍬" },
+        { "en": "I love <b>these</b> trainers!", "es": "¡Me encantan estas zapatillas!", "icon": "👟" }
+      ]
+    },
+    {
+      "t": "rule", "title": "5 · THOSE: lejos, muchos", "title_en": "those: far, many", "icon": "⭐", "color": "orange",
+      "es": "<b>those</b> es el plural de that: <b>muchas</b> cosas <mark>lejos</mark>. También va con <b>are</b> y con el nombre en <b>plural</b>: <i>Those are my friends.</i>",
+      "en": "<b>those</b> = many things <mark>far</mark> from you. Use <b>are</b> and a plural noun.",
+      "formula": ["*Those are* + my friends", "*those* + birds / stars"],
+      "examples": [
+        { "en": "<b>Those are</b> my friends over there.", "es": "Aquellos son mis amigos.", "icon": "👫" },
+        { "en": "Look at <b>those</b> stars!", "es": "¡Mira esas estrellas!", "icon": "⭐" },
+        { "en": "<b>Those</b> cows are black and white.", "es": "Esas vacas son blancas y negras.", "icon": "🐄" }
+      ]
+    },
+    {
+      "t": "table", "title": "6 · Preguntas y respuestas", "title_en": "Questions and answers", "icon": "❓", "color": "teal",
+      "head": ["Pregunta · Question", "✅ Sí · Yes", "⛔ No"],
+      "rows": [
+        ["<b>Is this</b> your bag?", "Yes, <b>it</b> is.", "No, <b>it</b> isn't."],
+        ["<b>Is that</b> your dog?", "Yes, <b>it</b> is.", "No, <b>it</b> isn't."],
+        ["<b>Are these</b> your books?", "Yes, <b>they</b> are.", "No, <b>they</b> aren't."],
+        ["<b>Are those</b> your shoes?", "Yes, <b>they</b> are.", "No, <b>they</b> aren't."]
+      ],
+      "note": "Para preguntar, <b>is / are</b> salta delante. Y en la respuesta <b>no</b> repetimos this / that: usamos <b>it</b> (una cosa) o <b>they</b> (muchas). <s>Yes, this is.</s> → Yes, it is.",
+      "note_en": "In short answers use <b>it</b> or <b>they</b>, not this / that."
+    },
+    {
+      "t": "rule", "title": "7 · What's this? What are these?", "title_en": "Asking what something is", "icon": "🔍", "color": "purple",
+      "es": "Para preguntar <b>qué es</b> algo: <b>What's this?</b> / <b>What's that?</b> → respondemos <b>It's</b> a… Para varias cosas: <b>What are these?</b> / <b>What are those?</b> → respondemos <b>They're</b>…",
+      "en": "One thing: What's this / that? → It's a… Many things: What are these / those? → They're…",
+      "formula": ["*What is* + this / that + ?", "*What are* + these / those + ?"],
+      "examples": [
+        { "en": "What's this? — <b>It's</b> a kite.", "es": "¿Qué es esto? — Es una cometa.", "icon": "🪁" },
+        { "en": "What are those? — <b>They're</b> butterflies.", "es": "¿Qué son esos? — Son mariposas.", "icon": "🦋" },
+        { "en": "What's that? — <b>It's</b> a hedgehog!", "es": "¿Qué es eso? — ¡Es un erizo!", "icon": "🦔" }
+      ]
+    },
+    {
+      "t": "rule", "title": "8 · THIS ONE, THAT ONE", "title_en": "this one, that one", "icon": "☝️", "color": "yellow",
+      "es": "Si ya sabemos de qué cosa hablamos, no hace falta repetirla: decimos <b>this one</b> (este) o <b>that one</b> (ese). ¡Es superútil en las tiendas y para elegir! <i>Which one do you want? — That one, please!</i>",
+      "en": "Don't repeat the noun: say <b>this one</b> or <b>that one</b>. Great for choosing things.",
+      "examples": [
+        { "en": "Which ice cream do you want? — <b>This one</b>!", "es": "¿Qué helado quieres? — ¡Este!", "icon": "🍦" },
+        { "en": "I don't like this T-shirt. I like <b>that one</b>.", "es": "No me gusta esta camiseta. Me gusta esa.", "icon": "👕" },
+        { "en": "Which bike do you want? — <b>The red one</b>.", "es": "¿Qué bici quieres? — La roja.", "icon": "🚲" }
+      ]
+    },
+    {
+      "t": "table", "title": "Todo junto", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["", "✅ Afirmativa", "❓ Pregunta", "💬 Respuesta corta", "🇪🇸 Español"],
+      "rows": [
+        ["<b>this</b> 👇 (1)", "This is my bag.", "Is this your bag?", "Yes, it is. / No, it isn't.", "Esta es mi mochila."],
+        ["<b>that</b> 👉 (1)", "That's my bag.", "Is that your bag?", "Yes, it is. / No, it isn't.", "Esa es mi mochila."],
+        ["<b>these</b> 👇 (+1)", "These are my bags.", "Are these your bags?", "Yes, they are. / No, they aren't.", "Estas son mis mochilas."],
+        ["<b>those</b> 👉 (+1)", "Those are my bags.", "Are those your bags?", "Yes, they are. / No, they aren't.", "Esas son mis mochilas."]
+      ]
+    },
+    {
+      "t": "compare", "title": "Van a juego", "title_en": "They match", "icon": "🧦", "color": "green",
+      "es": "El demostrativo y el nombre van <b>a juego</b>, como los calcetines: si uno es singular, el otro también; si uno es plural, el otro también. ¡Ojo con los plurales irregulares!",
+      "en": "The demonstrative and the noun must match: singular + singular, plural + plural.",
+      "cols": [
+        { "head": "1️⃣ this / that + singular", "color": "green", "items": ["this book", "that child", "this mouse", "that box"] },
+        { "head": "🔢 these / those + plural", "color": "blue", "items": ["these books", "those children", "these mice", "those boxes"] }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "<b>This</b> is my sister, Lucía.", "es": "Esta es mi hermana, Lucía.", "icon": "👧" },
+        { "en": "Is <b>that</b> your dog? — Yes, it is. It's Rocky!", "es": "¿Ese es tu perro? — Sí. ¡Es Rocky!", "icon": "🐕" },
+        { "en": "<b>These</b> shoes are too small.", "es": "Estos zapatos son demasiado pequeños.", "icon": "👞" },
+        { "en": "Look at <b>those</b> big clouds!", "es": "¡Mira esas nubes tan grandes!", "icon": "☁️" },
+        { "en": "<b>This</b> is my favourite cartoon.", "es": "Esta es mi serie de dibujos favorita.", "icon": "📺" },
+        { "en": "Are <b>these</b> your crayons? — No, they aren't.", "es": "¿Estas son tus ceras? — No.", "icon": "🖍️" },
+        { "en": "<b>That</b> house is very old.", "es": "Esa casa es muy vieja.", "icon": "🏚️" },
+        { "en": "What are <b>those</b>? — They're ducks.", "es": "¿Qué son esos? — Son patos.", "icon": "🦆" },
+        { "en": "Hello, <b>this</b> is Mario. Can I speak to Leo?", "es": "Hola, soy Mario. ¿Puedo hablar con Leo?", "icon": "📞" },
+        { "en": "I want <b>that one</b>, please.", "es": "Quiero ese, por favor.", "icon": "🍭" },
+        { "en": "<b>These</b> are my grandparents.", "es": "Estos son mis abuelos.", "icon": "👴" },
+        { "en": "Who's <b>that</b> girl? — She's Anna.", "es": "¿Quién es esa niña? — Es Anna.", "icon": "👩" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "serpiente", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "This are my books.", "good": "<b>These</b> are my books.", "why": "Muchas cosas → these.", "why_en": "Many things → these." },
+        { "bad": "These is my pencil.", "good": "<b>This</b> is my pencil.", "why": "Una cosa → this.", "why_en": "One thing → this." },
+        { "bad": "I like this shoes.", "good": "I like <b>these</b> shoes.", "why": "shoes es plural → these.", "why_en": "Plural noun → these." },
+        { "bad": "Those dog is big.", "good": "<b>That</b> dog is big.", "why": "Un perro → that.", "why_en": "One dog → that." },
+        { "bad": "Is this your bag? — Yes, this is.", "good": "Yes, <b>it</b> is.", "why": "En la respuesta: it / they.", "why_en": "Short answers: it / they." },
+        { "bad": "This is your bag?", "good": "<b>Is this</b> your bag?", "why": "Pregunta: is va delante.", "why_en": "Questions: is comes first." },
+        { "bad": "What is these?", "good": "What <b>are</b> these?", "why": "these / those → are.", "why_en": "these / those → are." },
+        { "bad": "Are those your trainer?", "good": "Are those your <b>trainers</b>?", "why": "those + nombre en plural.", "why_en": "those + plural noun." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Cuál elijo?", "title_en": "Which one do I choose?", "color": "orange",
+      "items": [
+        { "es": "¿<b>Cerca</b>? → this / these. ¿<b>Lejos</b>? → that / those.", "en": "Near → this / these. Far → that / those." },
+        { "es": "¿Es <b>una</b> cosa? → this / that. ¿Son <b>muchas</b>? → these / those.", "en": "One → this / that. Many → these / those." },
+        { "es": "Con to be: this / that + <b>is</b>; these / those + <b>are</b>.", "en": "this / that + is; these / those + are." },
+        { "es": "¿Pregunta? → <b>Is</b> this / that…? <b>Are</b> these / those…?", "en": "Question → Is this…? Are these…?" },
+        { "es": "Responde con <b>it</b> (una) o <b>they</b> (muchas): Yes, it is.", "en": "Answer with it or they." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "En la tienda de juguetes", "title_en": "At the toy shop",
+      "lines": [
+        { "who": "Mario", "en": "Look, Mum! What's that?", "es": "¡Mira, mamá! ¿Qué es eso?" },
+        { "who": "Mum", "en": "It's a kite. And those are robots.", "es": "Es una cometa. Y esos son robots." },
+        { "who": "Shopkeeper", "en": "Yes, and these robots are new!", "es": "Sí, ¡y estos robots son nuevos!" },
+        { "who": "Lucía", "en": "I like this teddy bear. It's so soft!", "es": "Me gusta este osito. ¡Es muy suave!" },
+        { "who": "Mum", "en": "Which robot do you want, Mario?", "es": "¿Qué robot quieres, Mario?" },
+        { "who": "Mario", "en": "That one, the blue one! Please!", "es": "¡Ese, el azul! ¡Por favor!" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco de las letras", "title_en": "The letter trick",
+      "es": "Cuenta las letras: <b>this</b> y <b>that</b> tienen <b>4</b> letras → <b>1</b> cosa. <b>these</b> y <b>those</b> tienen <b>5</b> letras → <b>muchas</b> cosas. ¡Más letras, más cosas! Y para la distancia: <b>this / these</b> → aquí 👇; <b>that / those</b> → allí 👉.",
+      "en": "4 letters (this, that) = one thing. 5 letters (these, those) = many things."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify", "title": "¿Uno o muchos?", "title_en": "One or many?", "icon": "🗂️",
+      "es": "Escribe cada palabra en su caja: ¿va con this / that o con these / those?",
+      "en": "Write each word in the right box.",
+      "cats": [
+        { "name": "this / that +", "words": ["pencil", "apple", "child", "box", "toy", "mouse"] },
+        { "name": "these / those +", "words": ["pencils", "apples", "children", "boxes", "toys", "mice"] }
+      ]
+    },
+    {
+      "t": "choose", "title": "Rodea la correcta", "title_en": "Circle the correct word", "icon": "⭕",
+      "es": "Rodea la opción correcta. 👇 = cerca · 👉 = lejos.",
+      "en": "Circle the correct option. 👇 = near · 👉 = far.",
+      "items": [
+        { "q": "👇 [This|These] is my bike.", "a": "This" },
+        { "q": "👉 [That|Those] are my friends.", "a": "Those" },
+        { "q": "👇 [This|These] books are new.", "a": "These" },
+        { "q": "👉 Look at [that|those] bird!", "a": "that" },
+        { "q": "👇 [This|These] is my sister.", "a": "This" },
+        { "q": "👉 [That|Those] shoes are dirty.", "a": "Those" },
+        { "q": "👇 I love [this|these] sweets!", "a": "these" },
+        { "q": "👉 Is [that|those] your house?", "a": "that" },
+        { "q": "👇 [Is|Are] these your pens?", "a": "Are" },
+        { "q": "👉 What [is|are] those?", "a": "are" }
+      ]
+    },
+    {
+      "t": "match", "title": "Une pregunta y respuesta", "title_en": "Match questions and answers", "icon": "🔗",
+      "es": "Une cada pregunta con su respuesta.",
+      "en": "Match each question with its answer.",
+      "pairs": [
+        ["Is this your pencil?", "Yes, it is. Thanks!"],
+        ["Are those your shoes?", "No, they aren't. My shoes are black."],
+        ["What's that?", "It's a hedgehog."],
+        ["What are these?", "They're strawberries."],
+        ["Is that Leo?", "No, it isn't. It's Tom."],
+        ["Which one do you want?", "That one, please."]
+      ]
+    },
+    {
+      "t": "spell", "title": "Deletrea la palabra", "title_en": "Spell the word", "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en las cajas.",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        { "q": "🪁 cometa", "a": "kite" },
+        { "q": "🦆 pato", "a": "duck" },
+        { "q": "⭐ estrella", "a": "star" },
+        { "q": "🐐 cabra", "a": "goat" },
+        { "q": "👟 zapatillas", "a": "trainers" },
+        { "q": "🖍️ ceras", "a": "crayons" },
+        { "q": "🦋 mariposa", "a": "butterfly" },
+        { "q": "🧸 osito de peluche", "a": "teddy bear" }
+      ]
+    },
+    {
+      "t": "fill", "title": "this, that, these o those", "title_en": "this, that, these or those", "icon": "👉",
+      "es": "Completa. Mira la pista: 👇 = cerca · 👉 = lejos. ¿Es una cosa o son muchas?",
+      "en": "Complete. 👇 = near · 👉 = far.",
+      "bank": ["this", "that", "these", "those"],
+      "items": [
+        { "q": "👇 ___ is my new bag.", "a": "This" },
+        { "q": "👉 ___ are my grandparents.", "a": "Those" },
+        { "q": "👇 ___ apples are green.", "a": "These" },
+        { "q": "👉 ___ girl is my cousin.", "a": "That" },
+        { "q": "👇 Mum, ___ is my friend Anna.", "a": "this" },
+        { "q": "👉 Look at ___ birds in the sky!", "a": "those" },
+        { "q": "👇 I don't like ___ trousers.", "a": "these" },
+        { "q": "👉 ___'s my school.", "a": "That" },
+        { "q": "👇 Are ___ your crayons?", "a": "these" },
+        { "q": "👉 Is ___ your dog?", "a": "that" }
+      ]
+    },
+    {
+      "t": "fill", "title": "¿Is o are?", "title_en": "is or are?", "icon": "⚖️",
+      "es": "Completa con is o are. Recuerda: this / that + is; these / those + are.",
+      "en": "Complete with is or are.",
+      "bank": ["is", "are"],
+      "items": [
+        { "q": "This ___ my teacher.", "a": "is" },
+        { "q": "These ___ my books.", "a": "are" },
+        { "q": "That ___ a big tree.", "a": "is" },
+        { "q": "Those ___ my friends.", "a": "are" },
+        { "q": "___ this your coat?", "a": "Is" },
+        { "q": "___ those your sisters?", "a": "Are" },
+        { "q": "What ___ these?", "a": "are" },
+        { "q": "That dog ___ very funny.", "a": "is" }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Verdadero o falso?", "title_en": "True or false?", "icon": "✔️",
+      "es": "Lee cada frase. Marca T (verdadero) o F (falso).",
+      "en": "Read each sentence. Tick T or F.",
+      "items": [
+        { "q": "<b>this</b> is for one thing near me.", "a": true },
+        { "q": "<b>those</b> is for one thing far away.", "a": false, "why": "those = many things far away" },
+        { "q": "We say <b>These are my toys.</b>", "a": true },
+        { "q": "We say <b>This are my toys.</b>", "a": false, "why": "These are my toys." },
+        { "q": "<b>that</b> and <b>those</b> are for things far away.", "a": true },
+        { "q": "The answer to <b>Is this your bag?</b> is <b>Yes, this is.</b>", "a": false, "why": "Yes, it is." },
+        { "q": "We say <b>What are those?</b>", "a": true },
+        { "q": "We say <b>these book</b>.", "a": false, "why": "this book / these books" }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Completa la tabla", "title_en": "Complete the table", "icon": "📋", "wide": true,
+      "es": "Escribe la frase en las cuatro formas. ¡Cambia también is / are y el plural!",
+      "en": "Write the sentence in all four forms.",
+      "head": ["👇 Cerca · uno", "👇 Cerca · muchos", "👉 Lejos · uno", "👉 Lejos · muchos"],
+      "rows": [
+        ["This is my cat.", "?These are my cats.", "?That is my cat.", "?Those are my cats."],
+        ["?This is a star.", "These are stars.", "?That is a star.", "?Those are stars."],
+        ["?This book is new.", "?These books are new.", "That book is new.", "?Those books are new."],
+        ["?This child is happy.", "?These children are happy.", "?That child is happy.", "Those children are happy."]
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Pasa a plural", "title_en": "Make it plural", "icon": "🔢",
+      "es": "Escribe la frase en plural: this → these, that → those, is → are… ¡y el nombre en plural!",
+      "en": "Write the sentence in the plural.",
+      "items": [
+        { "q": "This is my pen.", "a": "These are my pens." },
+        { "q": "That is a horse.", "a": "Those are horses." },
+        { "q": "This book is red.", "a": "These books are red." },
+        { "q": "That boy is my friend.", "a": "Those boys are my friends." },
+        { "q": "Is this your toy?", "a": "Are these your toys?" },
+        { "q": "That's a big box.", "a": "Those are big boxes." },
+        { "q": "This mouse is small.", "a": "These mice are small." },
+        { "q": "Is that your shoe?", "a": "Are those your shoes?" }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Pregunta y responde", "title_en": "Ask and answer", "icon": "❓",
+      "es": "Escribe la pregunta y la respuesta corta. Fíjate en la pista (YES / NO). ¡Responde con it o they!",
+      "en": "Write the question and the short answer.",
+      "labels": ["❓", "💬"],
+      "items": [
+        { "q": "this / your pen (YES)", "a": ["Is this your pen?", "Yes, it is."] },
+        { "q": "those / your friends (NO)", "a": ["Are those your friends?", "No, they aren't."] },
+        { "q": "that / your house (YES)", "a": ["Is that your house?", "Yes, it is."] },
+        { "q": "these / your sweets (YES)", "a": ["Are these your sweets?", "Yes, they are."] },
+        { "q": "that / your bike (NO)", "a": ["Is that your bike?", "No, it isn't."] },
+        { "q": "these / your trainers (NO)", "a": ["Are these your trainers?", "No, they aren't."] }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        { "q": "is / this / my / bike", "a": "This is my bike." },
+        { "q": "are / those / friends / my", "a": "Those are my friends." },
+        { "q": "your / is / that / dog / ?", "a": "Is that your dog?" },
+        { "q": "these / are / what / ?", "a": "What are these?" },
+        { "q": "books / these / new / are", "a": "These books are new." },
+        { "q": "one / that / please", "a": "That one, please." },
+        { "q": "your / are / those / shoes / ?", "a": "Are those your shoes?" },
+        { "q": "is / Lucía / this / sister / my", "a": "This is my sister, Lucía." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "This are my pencils.", "a": "These are my pencils." },
+        { "q": "These is my bag.", "a": "This is my bag." },
+        { "q": "I like those shoe.", "a": "I like those shoes." },
+        { "q": "That cars are fast.", "a": "Those cars are fast." },
+        { "q": "This is your coat?", "a": "Is this your coat?" },
+        { "q": "What is those?", "a": "What are those?" },
+        { "q": "Is that your cat? — Yes, that is.", "a": "Is that your cat? — Yes, it is." },
+        { "q": "Are these your books? — No, these aren't.", "a": "Are these your books? — No, they aren't." },
+        { "q": "Look at this birds!", "a": "Look at these birds!" }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Piensa: ¿cerca o lejos? ¿una o muchas?",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Este es mi perro.", "a": "This is my dog." },
+        { "q": "Esas son mis amigas.", "a": "Those are my friends." },
+        { "q": "¿Es esa tu casa?", "a": "Is that your house?" },
+        { "q": "Estos caramelos son para ti.", "a": "These sweets are for you." },
+        { "q": "¿Qué es esto? — Es una cometa.", "a": "What's this? — It's a kite." },
+        { "q": "Mira aquellos pájaros.", "a": "Look at those birds." },
+        { "q": "Me gusta esta camiseta.", "a": "I like this T-shirt." },
+        { "q": "¿Son estos tus zapatos?", "a": "Are these your shoes?" },
+        { "q": "Quiero ese, por favor.", "a": "I want that one, please." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto y subraya this, that, these y those. Después marca T o F y contesta las preguntas.",
+      "en": "Read the text and underline this, that, these and those. Then tick T or F and answer the questions.",
+      "text_title": "Mario's holiday photos",
+      "text": [
+        "Mario has got some photos from his summer holidays. He shows them to his friend Leo.",
+        "\"This is my grandparents' house in the village. And these are their goats. That's the river behind the house. It's very cold!\"",
+        "\"Who are those boys?\" asks Leo. \"Those are my cousins, Pablo and Dani. And this is Rocky. He's very wet!\"",
+        "\"What's that in the sky?\" \"It's a kite. It's Lucía's kite.\" \"These photos are great!\" says Leo."
+      ],
+      "items": [
+        { "q": "Mario's grandparents have got goats.", "tf": true, "a": true },
+        { "q": "The river is very hot.", "tf": true, "a": false, "why": "It's very cold." },
+        { "q": "Pablo and Dani are Mario's cousins.", "tf": true, "a": true },
+        { "q": "Who is very wet in the photo?", "a": "Rocky is very wet." },
+        { "q": "What's in the sky?", "a": "It's a kite. It's Lucía's kite." }
+      ]
+    },
+    {
+      "t": "wordsearch", "title": "Sopa de letras", "title_en": "Word search", "icon": "🔎",
+      "es": "Busca las 10 palabras. Después escribe una frase con this y otra con those.",
+      "en": "Find the 10 words. Then write a sentence with this and one with those.",
+      "words": ["this", "that", "these", "those", "here", "there", "near", "far", "which", "one"],
+      "clues": ["this · este", "that · ese", "these · estos", "those · esos", "here · aquí", "there · allí", "near · cerca", "far · lejos", "which · cuál", "one · uno"]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Mira a tu alrededor y escribe. Usa this, that, these y those.",
+      "en": "Look around you and write.",
+      "items": [
+        { "q": "Señala 2 cosas cerca de ti: This is… / These are…", "lines": 2, "a": "Ej.: This is my pencil case. These are my crayons." },
+        { "q": "Mira por la ventana: That is… / Those are…", "lines": 2, "a": "Ej.: That is a big tree. Those are cars." },
+        { "q": "Escribe una pregunta con Is this…? o Are those…? y su respuesta corta.", "lines": 2, "a": "Ej.: Are those your trainers? — Yes, they are." },
+        { "q": "En una tienda: ¿qué quieres? Usa this one / that one.", "lines": 1, "a": "Ej.: I want that one, please." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Uso <b>this</b> y <b>these</b> para cosas <b>cerca</b>.", "en": "I use this and these for things near me." },
+    { "es": "Uso <b>that</b> y <b>those</b> para cosas <b>lejos</b>.", "en": "I use that and those for things far away." },
+    { "es": "Pongo <b>is</b> con this / that y <b>are</b> con these / those.", "en": "this / that + is; these / those + are." },
+    { "es": "Hago preguntas: <b>Is this…? Are those…?</b>", "en": "I can ask Is this…? Are those…?" },
+    { "es": "Respondo con <b>it</b> o <b>they</b>: Yes, it is.", "en": "I answer with it or they." },
+    { "es": "Sé decir <b>this one</b> y <b>that one</b>.", "en": "I can say this one and that one." }
+  ]
+}

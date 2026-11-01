@@ -1,0 +1,807 @@
+{
+  "id": "C1-06",
+  "level": "C1",
+  "title": "MODALES EN PASADO",
+  "file_title": "Modales en pasado",
+  "subtitle": "Past modals · crítica, arrepentimiento y especulación",
+  "icon": "🕰️",
+  "map": {
+    "center": "<b>Modal + have + participio</b> mira al pasado para <b>criticar</b>, <b>lamentar</b> o <b>especular</b> sobre lo que pasó… o no pasó.",
+    "nodes": [
+      {
+        "title": "Crítica y arrepentimiento",
+        "icon": "😬",
+        "color": "green",
+        "items": [
+          "<b>should / ought to have</b> + participio = debería haber…",
+          "You <b>should have told</b> me. <i>(No lo hiciste.)</i>",
+          "I <b>shouldn't have shouted</b>. <i>(Lo hice.)</i>"
+        ]
+      },
+      {
+        "title": "¿Hacía falta?",
+        "icon": "🎒",
+        "color": "blue",
+        "rows": [["needn't have done", "= lo hice, pero no hacía falta"], ["didn't need to do", "= no hacía falta (no lo hice)"]],
+        "after": "I <b>needn't have cooked</b>: they'd eaten."
+      },
+      {
+        "title": "Posibilidad perdida",
+        "icon": "🚪",
+        "color": "purple",
+        "art": "🏆",
+        "items": [
+          "<b>could have</b> + participio = podría haber…, pero no",
+          "We <b>could have won</b>. <i>(Pudimos ganar.)</i>",
+          "Reproche: You <b>could have called</b>!"
+        ]
+      },
+      {
+        "title": "Especulación",
+        "icon": "🔍",
+        "color": "orange",
+        "items": ["<b>might / may / could have</b> = quizá…, puede que…", "She <b>may have missed</b> the train.", "Queja: You <b>might have</b> warned me!"]
+      },
+      {
+        "title": "Would have",
+        "icon": "💭",
+        "color": "pink",
+        "art": "🤝",
+        "items": ["Lo que habría pasado (condición implícita)", "I <b>would have helped</b>, but nobody asked.", "Deseo frustrado: I'd <b>have liked</b> to go."]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "color": "yellow",
+        "items": [
+          "Siempre <b>have</b>: nunca <s>should of</s> ni <s>should had</s>",
+          "Continua: should have <b>been</b> + -ing",
+          "Pasiva: should have <b>been</b> + participio"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["You must have told me! <i>(= deberías)</i>"],
+      "good": ["You should have told me!"],
+      "note": "crítica → <b>should have</b> · <b>must have</b> = seguro que"
+    },
+    "mini": {
+      "es": "Completa con un modal en pasado.",
+      "en": "Complete with a past modal.",
+      "items": [
+        {"q": "You ____ (tell) me! I'd have helped.", "a": "should have told"},
+        {"q": "I ____ (buy) milk: we had plenty.", "a": "needn't have bought"},
+        {"q": "We ____ (win), but we didn't.", "a": "could have won"},
+        {"q": "She ____ (miss) the bus. I'm not sure.", "a": ["might have missed", "may have missed", "could have missed"]},
+        {"q": "I ____ (like) to come, but I was ill.", "a": "would have liked"}
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Los modales en pasado se forman siempre igual: <b>modal + have + participio</b>. Sirven para <mark>mirar atrás y opinar</mark> sobre lo ocurrido: <b>criticar</b> o <b>lamentar</b> (<i>should have</i>), señalar que algo <b>no hacía falta</b> (<i>needn't have</i>), hablar de <b>oportunidades perdidas</b> (<i>could have</i>), <b>especular</b> (<i>might / may have</i>) o imaginar lo que <b>habría pasado</b> (<i>would have</i>). Casi todos se refieren a algo que, en realidad, <b>no ocurrió</b>. Es una estructura clave en C1, tanto en conversación (reproches, disculpas) como en textos formales (informes, análisis de errores).",
+      "en": "Past modals always follow the pattern modal + have + past participle. We use them to look back and comment: criticism, regret, unnecessary actions, missed opportunities, speculation and hypothetical results.",
+      "formula": ["Modal + *have* + participio", "should / ought to / needn't / could / might / may / would + *have done*"]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Should have / ought to have",
+      "title_en": "Criticism and regret",
+      "icon": "😬",
+      "color": "green",
+      "es": "<b>should have + participio</b> (<i>debería haber…</i>) indica que algo era lo correcto pero <mark>no se hizo</mark>: sirve para <b>criticar</b> a otros o <b>lamentarnos</b>. En negativa, <b>shouldn't have</b> indica que algo <b>se hizo y estuvo mal</b>. <b>ought to have</b> significa lo mismo, con un matiz algo más formal o moral; su negativa, <b>oughtn't to have</b>, es poco frecuente. La expresión <b>I should have known</b> equivale a <i>tendría que habérmelo imaginado</i>.",
+      "en": "should have + participle: the right thing didn't happen (criticism or regret). shouldn't have: it happened and it was a mistake. ought to have is similar, slightly more formal.",
+      "formula": ["Sujeto + *should have* + participio", "Sujeto + *shouldn't have* + participio", "Sujeto + *ought to have* + participio"],
+      "examples": [
+        {
+          "en": "You <b>should have told</b> me you were coming — I'd have made dinner.",
+          "es": "Deberías haberme dicho que venías: habría hecho la cena.",
+          "icon": "🍝"
+        },
+        {
+          "en": "I <b>shouldn't have sent</b> that email in the heat of the moment.",
+          "es": "No debería haber enviado ese correo en caliente.",
+          "icon": "📧"
+        },
+        {
+          "en": "The government <b>ought to have consulted</b> the unions before the reform.",
+          "es": "El Gobierno debería haber consultado a los sindicatos antes de la reforma.",
+          "icon": "🏛️"
+        },
+        {"en": "I <b>should have known</b> he wouldn't turn up.", "es": "Tendría que habérmelo imaginado: no iba a aparecer.", "icon": "🙄"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Needn't have / didn't need to",
+      "title_en": "Unnecessary actions",
+      "icon": "🎒",
+      "color": "blue",
+      "es": "Esta es la gran sutileza del tema. <b>needn't have + participio</b> = <mark>lo hice, pero no hacía falta</mark> (esfuerzo inútil). <b>didn't need to + infinitivo</b> = no era necesario; normalmente significa que <b>no lo hice</b>, aunque el contexto puede indicar lo contrario (<i>I didn't need to wait, but I did</i>). <b>didn't have to</b> funciona igual que <i>didn't need to</i>. <b>needn't have</b> es más británico y algo más formal.",
+      "en": "needn't have done: it was done, but it was unnecessary. didn't need to do: it wasn't necessary (and usually wasn't done).",
+      "formula": ["*needn't have* + participio → lo hice (innecesario)", "*didn't need to* + infinitivo → no hacía falta"],
+      "examples": [
+        {"en": "You <b>needn't have brought</b> a present — but thank you!", "es": "No tenías que haber traído nada… ¡pero gracias!", "icon": "🎁"},
+        {
+          "en": "I <b>needn't have revised</b> so much: the exam was a piece of cake.",
+          "es": "No hacía falta que estudiara tanto: el examen estaba chupado.",
+          "icon": "📚"
+        },
+        {
+          "en": "We <b>didn't need to</b> book a table, so we just turned up.",
+          "es": "No hacía falta reservar mesa, así que nos presentamos sin más.",
+          "icon": "🍽️"
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "NEEDN'T HAVE o DIDN'T NEED TO",
+      "title_en": "needn't have vs didn't need to",
+      "icon": "⚖️",
+      "color": "blue",
+      "es": "Pregúntate: <b>¿se hizo la acción?</b> Si se hizo y fue inútil → <b>needn't have</b>. Si no se hizo porque no hacía falta → <b>didn't need to</b>.",
+      "en": "Ask yourself: was the action actually done?",
+      "cols": [
+        {
+          "head": "✅ Lo hice (en vano)",
+          "color": "orange",
+          "items": [
+            "I <b>needn't have taken</b> a taxi: the hotel was round the corner.",
+            "<i>Cogí un taxi, pero no hacía falta.</i>",
+            "She <b>needn't have worried</b>. <i>(Se preocupó en vano.)</i>"
+          ]
+        },
+        {
+          "head": "🚫 No lo hice",
+          "color": "green",
+          "items": [
+            "I <b>didn't need to</b> take a taxi: Ana gave me a lift.",
+            "<i>No cogí taxi: no hacía falta.</i>",
+            "We <b>didn't have to</b> queue. <i>(No hicimos cola.)</i>"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Could have",
+      "title_en": "Unrealised possibility",
+      "icon": "🚪",
+      "color": "purple",
+      "es": "<b>could have + participio</b> (<i>podría haber…, pude haber…</i>) habla de algo que <mark>era posible pero no ocurrió</mark>: oportunidades perdidas, peligros evitados o capacidades no aprovechadas. Con tono de queja es un <b>reproche</b>: <i>You could have warned me!</i> (<i>¡podrías haberme avisado!</i>). <b>couldn't have + comparativo</b> es enfático: <i>I couldn't have been happier</i> (<i>no podría haber estado más feliz</i>). Y <b>couldn't have</b> también expresa que algo era <b>imposible</b>: <i>I couldn't have done it without you.</i>",
+      "en": "could have + participle: possible, but it didn't happen; with a complaining tone it is a reproach. couldn't have + comparative is emphatic; couldn't have can also mean 'impossible'.",
+      "formula": ["Sujeto + *could have* + participio", "Sujeto + *couldn't have* + participio / comparativo"],
+      "examples": [
+        {"en": "That was reckless — you <b>could have been killed</b>!", "es": "Eso fue una imprudencia: ¡te podrías haber matado!", "icon": "⚠️"},
+        {
+          "en": "She <b>could have studied</b> medicine, but she chose fine art.",
+          "es": "Podría haber estudiado Medicina, pero eligió Bellas Artes.",
+          "icon": "🎨"
+        },
+        {"en": "You <b>could have let</b> me know you'd be late!", "es": "¡Podrías haberme avisado de que llegarías tarde!", "icon": "⏰"},
+        {"en": "The launch <b>couldn't have gone</b> better.", "es": "El lanzamiento no podría haber salido mejor.", "icon": "🚀"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Might / may / could have",
+      "title_en": "Speculating about the past",
+      "icon": "🔍",
+      "color": "orange",
+      "es": "Para <b>especular</b> sobre el pasado (<i>quizá…, puede que…</i>) usamos <b>might have, may have</b> o <b>could have</b> + participio. <b>may have</b> suena algo más formal. En negativa hay diferencia: <b>might not / may not have</b> = <i>puede que no</i>, pero <b>couldn't have</b> = <i>es imposible que</i>. Además, <b>might have</b> (no <i>may</i>) sirve para un <mark>reproche irritado</mark>: <i>You might have told me!</i> <small>(Las deducciones seguras con <b>must have / can't have</b> se trabajan en B2.)</small>",
+      "en": "might / may / could have: speculation about the past. might not have = perhaps not; couldn't have = impossible. might have can also express irritation.",
+      "formula": ["Sujeto + *might / may / could have* + participio", "Sujeto + *might not / may not have* + participio"],
+      "examples": [
+        {
+          "en": "He <b>might have missed</b> the train — that would explain why he isn't here.",
+          "es": "Puede que haya perdido el tren: eso explicaría por qué no está aquí.",
+          "icon": "🚆"
+        },
+        {"en": "The files <b>may have been deleted</b> by mistake.", "es": "Puede que los archivos se borraran por error.", "icon": "🗂️"},
+        {"en": "She <b>might not have received</b> the invitation.", "es": "Puede que no recibiera la invitación.", "icon": "✉️"},
+        {
+          "en": "You <b>might have warned</b> me the boss was in a foul mood!",
+          "es": "¡Ya podrías haberme avisado de que el jefe estaba de un humor de perros!",
+          "icon": "😠"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Would have",
+      "title_en": "What would have happened",
+      "icon": "💭",
+      "color": "pink",
+      "es": "<b>would have + participio</b> (<i>habría…</i>) describe lo que <mark>habría pasado o habríamos hecho</mark> en otras circunstancias. Muchas veces la condición está <b>implícita</b> (<i>but…, otherwise, in your position</i>), sin <i>if</i>. Con verbos de deseo expresa un deseo frustrado: <b>I would have liked to</b> + infinitivo (<i>me habría gustado</i>). <b>wouldn't have</b> + participio expresa rechazo: <i>I wouldn't have missed it for the world.</i> <small>(El third conditional completo se estudia en B2.)</small>",
+      "en": "would have + participle: what would have happened in different circumstances, often with an implicit condition. I would have liked to… expresses an unfulfilled wish.",
+      "formula": ["Sujeto + *would have* + participio (+ but / otherwise…)", "*I would have liked* + to + infinitivo"],
+      "examples": [
+        {"en": "I <b>would have helped</b> you, but you didn't ask.", "es": "Te habría ayudado, pero no me lo pediste.", "icon": "🤝"},
+        {"en": "In your position, I <b>wouldn't have accepted</b> the offer.", "es": "En tu lugar, yo no habría aceptado la oferta.", "icon": "💼"},
+        {
+          "en": "I<b>'d have liked</b> to stay longer, but I had a flight to catch.",
+          "es": "Me habría gustado quedarme más, pero tenía que coger un vuelo.",
+          "icon": "✈️"
+        },
+        {
+          "en": "Luckily the alarm went off; otherwise we <b>would have lost</b> everything.",
+          "es": "Por suerte saltó la alarma; si no, lo habríamos perdido todo.",
+          "icon": "🚨"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Qué modal en pasado uso?",
+      "title_en": "Which past modal?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "¿Algo <b>era lo correcto</b> y no se hizo (o se hizo mal)? → <b>should(n't) / ought to have</b>.",
+          "en": "The right thing didn't happen → should / ought to have."
+        },
+        {
+          "es": "¿Algo <b>innecesario</b>? Si se hizo → <b>needn't have</b> + participio. Si no se hizo → <b>didn't need to</b> + infinitivo.",
+          "en": "Unnecessary: done → needn't have; not done → didn't need to."
+        },
+        {"es": "¿Una <b>oportunidad o un peligro</b> que no se materializó? → <b>could have</b>.", "en": "Missed chance or danger → could have."},
+        {"es": "¿No sabes lo que pasó y <b>especulas</b>? → <b>might / may / could have</b>.", "en": "Speculation → might / may / could have."},
+        {"es": "¿Qué <b>habría pasado</b> en otras circunstancias? → <b>would have</b>.", "en": "Hypothetical result → would have."},
+        {
+          "es": "Construye: modal + <b>have</b> + participio (o <b>have been</b> + -ing / <b>have been</b> + participio).",
+          "en": "Build: modal + have + participle (or have been + -ing / participle)."
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Resumen: ¿qué modal uso?",
+      "title_en": "Summary: which modal?",
+      "icon": "🧭",
+      "color": "orange",
+      "wide": true,
+      "head": ["Modal + have + participio", "Significado", "Función", "¿Ocurrió?", "Ejemplo"],
+      "rows": [
+        ["should have / ought to have", "debería haber", "crítica, arrepentimiento", "❌ no", "You <b>should have asked</b>."],
+        ["shouldn't have", "no debería haber", "crítica, arrepentimiento", "✅ sí", "I <b>shouldn't have laughed</b>."],
+        ["needn't have", "no hacía falta (y lo hice)", "esfuerzo inútil", "✅ sí", "You <b>needn't have waited</b>."],
+        ["didn't need to + infinitivo", "no hacía falta", "ausencia de necesidad", "❌ normalmente no", "I <b>didn't need to</b> wait."],
+        ["could have", "podría haber", "posibilidad perdida, reproche", "❌ no", "We <b>could have won</b>."],
+        ["might / may have", "puede que / quizá", "especulación", "❓ no se sabe", "She <b>may have left</b>."],
+        ["might have (tono de queja)", "ya podrías haber", "reproche", "❌ no", "You <b>might have called</b>!"],
+        ["would have", "habría", "resultado hipotético", "❌ no", "I <b>would have come</b>."]
+      ],
+      "note": "Clave: casi todos los modales en pasado hablan de lo que <b>NO ocurrió</b>. Excepciones: <b>shouldn't have</b> y <b>needn't have</b> (sí ocurrió) y la especulación (no lo sabemos).",
+      "note_en": "Most past modals refer to things that did NOT happen — except shouldn't have and needn't have (it did happen) and speculation (we don't know)."
+    },
+    {
+      "t": "compare",
+      "title": "COULD HAVE o WAS ABLE TO",
+      "title_en": "could have vs was able to",
+      "icon": "🏔️",
+      "color": "purple",
+      "es": "En afirmativa, <b>could have done</b> = podía, pero <b>no lo hice</b>. Para decir que <b>sí lo conseguí</b> en una ocasión concreta, usamos <b>was able to / managed to</b> (no <i>could</i>).",
+      "en": "could have done = possible, but not done. was able to / managed to = actually done on a specific occasion.",
+      "cols": [
+        {
+          "head": "🚪 could have · no lo hice",
+          "color": "purple",
+          "items": ["We <b>could have reached</b> the summit, but the weather turned.", "<i>Podríamos haber hecho cumbre, pero cambió el tiempo.</i>"]
+        },
+        {
+          "head": "🏔️ was able to · lo logré",
+          "color": "green",
+          "items": ["We <b>were able to</b> reach the summit before the storm.", "<i>Conseguimos hacer cumbre antes de la tormenta.</i>"]
+        }
+      ],
+      "wide": true
+    },
+    {
+      "t": "table",
+      "title": "Formas: simple, continua y pasiva",
+      "title_en": "Simple, continuous and passive",
+      "icon": "🔧",
+      "color": "teal",
+      "wide": true,
+      "head": ["Forma", "Estructura", "Ejemplo", "Traducción"],
+      "rows": [
+        ["Simple", "modal + have + participio", "You should have <b>listened</b>.", "Deberías haber escuchado."],
+        ["Continua", "modal + have been + -ing", "You should have <b>been listening</b>.", "Deberías haber estado escuchando."],
+        ["Pasiva", "modal + have been + participio", "It should have <b>been checked</b>.", "Debería haberse revisado."],
+        ["Negativa", "modal + not + have + participio", "You <b>shouldn't have</b> said that.", "No deberías haber dicho eso."],
+        ["Pregunta", "modal + sujeto + have + participio?", "<b>Should</b> I <b>have</b> called?", "¿Debería haber llamado?"],
+        ["Contracción oral", "should've, could've, would've", "I <b>should've</b> known.", "Tendría que habérmelo imaginado."]
+      ],
+      "note": "Ojo: <b>should've</b> suena /ˈʃʊdəv/ y por eso hasta muchos nativos escriben <s>should of</s>. ¡Es un error! Siempre <b>have</b>.",
+      "note_en": "should've sounds like 'should of' — but it is always have."
+    },
+    {
+      "t": "vocab",
+      "title": "Frases hechas muy británicas",
+      "title_en": "Useful set phrases",
+      "icon": "💬",
+      "color": "pink",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {"en": "You shouldn't have!", "es": "¡No tenías por qué! (al recibir un regalo)", "icon": "🎁"},
+        {"en": "I should have known.", "es": "Tendría que habérmelo imaginado.", "icon": "🙄"},
+        {"en": "It could have been worse.", "es": "Podría haber sido peor.", "icon": "😌"},
+        {"en": "I could have kicked myself.", "es": "Me habría dado de bofetadas.", "icon": "🤦"},
+        {"en": "You needn't have bothered.", "es": "No hacía falta que te molestaras.", "icon": "🙏"},
+        {"en": "You might have said!", "es": "¡Ya podías haberlo dicho!", "icon": "😤"},
+        {"en": "I wouldn't have missed it for the world.", "es": "No me lo habría perdido por nada del mundo.", "icon": "🌍"},
+        {"en": "Who would have thought it?", "es": "¿Quién lo habría dicho?", "icon": "🤯"}
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos en contexto",
+      "title_en": "More examples in context",
+      "items": [
+        {"en": "The project <b>should have been completed</b> by March.", "es": "El proyecto debería haberse terminado para marzo.", "icon": "🏗️"},
+        {
+          "en": "You <b>shouldn't have been texting</b> while driving.",
+          "es": "No deberías haber estado escribiendo mensajes mientras conducías.",
+          "icon": "🚗"
+        },
+        {
+          "en": "We <b>needn't have hurried</b>; the meeting started late.",
+          "es": "No hacía falta que nos diéramos prisa: la reunión empezó tarde.",
+          "icon": "🏃"
+        },
+        {"en": "Luckily, I <b>didn't need to</b> show my passport.", "es": "Por suerte, no tuve que enseñar el pasaporte.", "icon": "🛂"},
+        {"en": "The accident <b>could have been avoided</b>.", "es": "El accidente se podría haber evitado.", "icon": "🚧"},
+        {"en": "They <b>may have misunderstood</b> the instructions.", "es": "Puede que hayan entendido mal las instrucciones.", "icon": "📋"},
+        {"en": "I <b>would have called</b>, but my battery was dead.", "es": "Te habría llamado, pero me quedé sin batería.", "icon": "🔋"},
+        {"en": "She <b>ought to have declared</b> the conflict of interest.", "es": "Debería haber declarado el conflicto de intereses.", "icon": "⚖️"},
+        {"en": "He <b>might have been</b> joking — it was hard to tell.", "es": "Puede que estuviera de broma; era difícil saberlo.", "icon": "😏"},
+        {"en": "<b>Should</b> I <b>have mentioned</b> the deadline earlier?", "es": "¿Debería haber mencionado antes la fecha límite?", "icon": "📅"},
+        {
+          "en": "With more funding, the study <b>could have reached</b> different conclusions.",
+          "es": "Con más financiación, el estudio podría haber llegado a otras conclusiones.",
+          "icon": "🔬"
+        },
+        {"en": "Nobody <b>would have guessed</b> she was nervous.", "es": "Nadie habría adivinado que estaba nerviosa.", "icon": "😶"}
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "You must have told me! <small>(= deberías)</small>",
+          "good": "You <b>should have</b> told me!",
+          "why": "Crítica = should have. Must have = deducción (seguro que).",
+          "why_en": "Criticism → should have, not must have."
+        },
+        {
+          "bad": "You should told me.",
+          "good": "You should <b>have told</b> me.",
+          "why": "Modal + have + participio: ¡no te comas el have!",
+          "why_en": "Don't drop have."
+        },
+        {
+          "bad": "You should had told me.",
+          "good": "You should <b>have</b> told me.",
+          "why": "Tras un modal va have (infinitivo), nunca had.",
+          "why_en": "After a modal: have, never had."
+        },
+        {
+          "bad": "I should of called.",
+          "good": "I should <b>have</b> called.",
+          "why": "Should've suena «should of», pero se escribe have.",
+          "why_en": "It sounds like 'of', but it's have."
+        },
+        {
+          "bad": "I didn't need to buy bread, so I wasted my money.",
+          "good": "I <b>needn't have bought</b> bread, so I wasted my money.",
+          "why": "Lo compraste y fue inútil → needn't have.",
+          "why_en": "Done but unnecessary → needn't have."
+        },
+        {
+          "bad": "We could reach the summit after nine hours.",
+          "good": "We <b>were able to</b> reach the summit after nine hours.",
+          "why": "Logro concreto en el pasado → was able to / managed to.",
+          "why_en": "Specific achievement → was able to."
+        },
+        {
+          "bad": "He mightn't have stolen it: he was abroad. <small>(= imposible)</small>",
+          "good": "He <b>couldn't have</b> stolen it: he was abroad.",
+          "why": "Imposible → couldn't have. Might not = quizá no.",
+          "why_en": "Impossible → couldn't have."
+        },
+        {
+          "bad": "You ought have asked first.",
+          "good": "You ought <b>to</b> have asked first.",
+          "why": "Ought siempre lleva to.",
+          "why_en": "ought always takes to."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Tras una reunión desastrosa",
+      "title_en": "After a disastrous meeting",
+      "lines": [
+        {"who": "Clara", "en": "Well, that could have gone better.", "es": "Bueno, eso podría haber salido mejor."},
+        {
+          "who": "Jake",
+          "en": "I know. I should have checked the figures beforehand. The client spotted the error straight away.",
+          "es": "Lo sé. Debería haber comprobado las cifras antes. El cliente vio el error enseguida."
+        },
+        {
+          "who": "Clara",
+          "en": "You might have told me you hadn't had time — I'd have done it myself.",
+          "es": "Ya podrías haberme dicho que no habías tenido tiempo: lo habría hecho yo."
+        },
+        {
+          "who": "Jake",
+          "en": "You're right. And I needn't have printed forty copies of the report; they only wanted the summary.",
+          "es": "Tienes razón. Y no hacía falta que imprimiera cuarenta copias del informe: solo querían el resumen."
+        },
+        {
+          "who": "Clara",
+          "en": "Never mind. At least we didn't need to present the budget today.",
+          "es": "No pasa nada. Al menos hoy no hacía falta presentar el presupuesto."
+        },
+        {"who": "Jake", "en": "Do you think they may have lost interest?", "es": "¿Crees que puede que hayan perdido el interés?"},
+        {
+          "who": "Clara",
+          "en": "They might have, but they asked for a follow-up call, so I doubt it.",
+          "es": "Puede ser, pero pidieron una llamada de seguimiento, así que lo dudo."
+        },
+        {"who": "Jake", "en": "Then it could have been worse. Lesson learnt!", "es": "Entonces podría haber sido peor. ¡Lección aprendida!"}
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del «deber»",
+      "title_en": "The 'deber' trick",
+      "es": "Cuidado con el calco: <b>deberías haber</b> (consejo tardío, crítica) → <b>should have</b>. <b>Debe de haber / seguro que</b> (deducción) → <b>must have</b>. Si en español dices <b>«podrías haber…»</b> con tono de queja → <b>could have</b> o <b>might have</b>. Y en el habla rápida oirás <i>should've, could've, would've</i> /ˈʃʊdəv, ˈkʊdəv, ˈwʊdəv/: ¡pero se escriben con <b>have</b>!",
+      "en": "deberías haber → should have; debe de haber → must have; podrías haber (complaint) → could / might have."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Elige el modal",
+      "title_en": "Choose the modal",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta. Piensa: ¿pasó o no pasó?",
+      "en": "Circle the correct option. Did it happen or not?",
+      "items": [
+        {"q": "I'm exhausted. I [shouldn't have|couldn't have] stayed up so late.", "a": "shouldn't have"},
+        {"q": "You [needn't have|didn't need to] bought so much food — only four people came.", "a": "needn't have"},
+        {"q": "The tickets were free, so we [needn't have|didn't need to] pay.", "a": "didn't need to"},
+        {"q": "That was dangerous! You [could have|should have] fallen!", "a": "could have"},
+        {"q": "I don't know why she's late. She [might have|should have] got stuck in traffic.", "a": "might have"},
+        {"q": "I [would have|should have] lent you the money, but you never asked.", "a": "would have"},
+        {"q": "He [couldn't have|might not have] written the report: he was on holiday all month.", "a": "couldn't have"},
+        {"q": "You [ought|ought to] have consulted a lawyer.", "a": "ought to"},
+        {"q": "The match [couldn't have|wouldn't have] been more exciting.", "a": "couldn't have"},
+        {"q": "Despite the snow, we [could|were able to] reach the village.", "a": "were able to"}
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Situación y comentario",
+      "title_en": "Match the situation and the comment",
+      "icon": "🔗",
+      "es": "Une cada situación con el comentario más adecuado.",
+      "en": "Match each situation with the best comment.",
+      "pairs": [
+        ["I failed the driving test again.", "You should have had more lessons."],
+        ["I took an umbrella, but it didn't rain.", "You needn't have taken it."],
+        ["Tom isn't answering his phone.", "He might have switched it off."],
+        ["I skidded on the ice and nearly crashed.", "You could have been killed!"],
+        ["Why didn't you come to Ana's party?", "I'd have come, but nobody invited me."],
+        ["EU citizens didn't need a visa.", "So we didn't need to apply for one."],
+        ["I told my boss exactly what I thought of him.", "You ought to have kept quiet."],
+        ["I brought you some flowers.", "Oh, you shouldn't have!"]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Qué expresa?",
+      "title_en": "What does it express?",
+      "icon": "🗂️",
+      "es": "Clasifica cada frase: ¿crítica/reproche, especulación o (falta de) necesidad? ¡Cuidado con las trampas!",
+      "en": "Sort the sentences: criticism, speculation or (lack of) necessity.",
+      "cats": [
+        {
+          "name": "Crítica / reproche",
+          "words": ["You should have asked.", "I shouldn't have shouted.", "They ought to have apologised.", "You might have phoned!"]
+        },
+        {
+          "name": "Especulación",
+          "words": ["She may have forgotten.", "It might have been Ana.", "They could have left already.", "He may not have heard."]
+        },
+        {"name": "Necesidad", "words": ["You needn't have come.", "We didn't need to queue.", "I needn't have worried.", "She didn't have to pay."]}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Modal + have + participio",
+      "title_en": "Complete with the past modal",
+      "icon": "✏️",
+      "es": "Completa con el modal y el verbo entre paréntesis. Atención: algunas frases piden forma continua o pasiva.",
+      "en": "Complete with the modal and the verb. Some need a continuous or passive form.",
+      "items": [
+        {"q": "You look exhausted. You ____ (should / go) to bed earlier.", "a": "should have gone"},
+        {"q": "We ____ (needn't / book): the restaurant was half empty.", "a": "needn't have booked"},
+        {"q": "That was reckless! You ____ (could / break) your neck.", "a": "could have broken"},
+        {"q": "I can't find my keys. I ____ (might / leave) them at the office.", "a": "might have left"},
+        {"q": "I ____ (would / phone) you, but I didn't have your number.", "a": "would have phoned"},
+        {"q": "The minister ____ (ought to / resign) months ago.", "a": "ought to have resigned"},
+        {"q": "She ____ (shouldn't / sign) the contract without reading it.", "a": "shouldn't have signed"},
+        {"q": "The report ____ (should / send) yesterday, but it's still on my desk. <small>(pasiva)</small>", "a": "should have been sent"},
+        {"q": "You ____ (shouldn't / text) while you were driving. <small>(continua)</small>", "a": "shouldn't have been texting"},
+        {"q": "The fire ____ (may / start) by a faulty cable. <small>(pasiva)</small>", "a": "may have been started"}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "¿Needn't have o didn't need to?",
+      "title_en": "needn't have or didn't need to?",
+      "icon": "🎒",
+      "es": "Completa con needn't have + participio (lo hice, en vano) o didn't need to + infinitivo (no lo hice).",
+      "en": "Complete with needn't have + participle or didn't need to + infinitive.",
+      "items": [
+        {"q": "I ____ (cook) so much pasta: half of it was left over.", "a": "needn't have cooked"},
+        {"q": "The train was delayed, so we ____ (rush); we had a coffee instead.", "a": "didn't need to rush"},
+        {"q": "We took sandwiches, but there was a buffet. We ____ (bring) them.", "a": "needn't have brought"},
+        {"q": "Dan already had a ticket, so he ____ (queue) and walked straight in.", "a": "didn't need to queue"},
+        {"q": "You ____ (wake) me up — my alarm was set for seven anyway.", "a": "needn't have woken"},
+        {"q": "It was a casual event, so I ____ (wear) a suit, and I went in jeans.", "a": "didn't need to wear"},
+        {"q": "She ____ (worry) about the interview: they offered her the job on the spot.", "a": "needn't have worried"},
+        {"q": "The software updated automatically, so I ____ (do) anything.", "a": "didn't need to do"}
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "wide": true,
+      "es": "Escribe la forma simple, continua y pasiva de cada modal en pasado.",
+      "en": "Write the simple, continuous and passive forms.",
+      "head": ["Modal + verbo", "Simple", "Continua", "Pasiva"],
+      "rows": [
+        ["should + check", "should have checked", "?should have been checking", "?should have been checked"],
+        ["might + follow", "?might have followed", "might have been following", "?might have been followed"],
+        ["could + record", "?could have recorded", "?could have been recording", "could have been recorded"],
+        ["would + watch", "would have watched", "?would have been watching", "?would have been watched"],
+        ["may + monitor", "?may have monitored", "may have been monitoring", "?may have been monitored"],
+        ["ought to + test", "?ought to have tested", "?ought to have been testing", "ought to have been tested"]
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las fichas y escribe la frase completa.",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {"q": "have / you / told / should / me", "a": "You should have told me."},
+        {"q": "needn't / brought / you / have / anything", "a": "You needn't have brought anything."},
+        {"q": "might / the / have / missed / train / she", "a": "She might have missed the train."},
+        {"q": "been / could / the / avoided / accident / have", "a": "The accident could have been avoided."},
+        {"q": "should / have / I / earlier / called / ?", "a": "Should I have called earlier?"},
+        {"q": "have / to / ought / they / apologised", "a": "They ought to have apologised."},
+        {"q": "liked / have / would / I / to / come", "a": "I would have liked to come."},
+        {"q": "been / shouldn't / you / have / texting / while driving", "a": "You shouldn't have been texting while driving."}
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Pasó o no pasó?",
+      "title_en": "Did it happen?",
+      "icon": "🤔",
+      "es": "Lee la frase y decide si la afirmación es verdadera (T) o falsa (F).",
+      "en": "Read the sentence and decide if the statement is true or false.",
+      "items": [
+        {"q": "“I needn't have bought a ticket.” → I bought a ticket.", "a": true, "why": "Needn't have = lo hice, pero no hacía falta."},
+        {"q": "“I didn't need to buy a ticket.” → I definitely bought a ticket.", "a": false, "why": "Normalmente significa que no lo compró."},
+        {"q": "“You should have phoned.” → You phoned.", "a": false, "why": "Should have = no lo hiciste."},
+        {"q": "“She shouldn't have resigned.” → She resigned.", "a": true, "why": "Shouldn't have = lo hizo y fue un error."},
+        {"q": "“They could have won.” → They won.", "a": false, "why": "Could have = posible, pero no ocurrió."},
+        {"q": "“He may have left.” → The speaker knows he has left.", "a": false, "why": "Es una especulación."},
+        {"q": "“I'd have liked to see the exhibition.” → I saw the exhibition.", "a": false, "why": "Deseo frustrado: no la vi."},
+        {"q": "“The launch couldn't have gone better.” → The launch went extremely well.", "a": true, "why": "Couldn't have + comparativo = enfático."}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Reacciona con un modal",
+      "title_en": "React with a past modal",
+      "icon": "💬",
+      "es": "Escribe una frase con el modal entre paréntesis que comente la situación.",
+      "en": "Write a sentence with the modal in brackets.",
+      "items": [
+        {"q": "Tom didn't wear a helmet and hurt his head. <b>(should)</b>", "a": "He should have worn a helmet."},
+        {"q": "I took a jumper, but it was boiling. <b>(needn't)</b>", "a": "I needn't have taken a jumper."},
+        {"q": "You didn't tell me about the party. I'm annoyed! <b>(might)</b>", "a": "You might have told me about the party!"},
+        {"q": "Maybe Sara forgot about the meeting. <b>(may)</b>", "a": "Sara may have forgotten about the meeting."},
+        {"q": "It was possible for them to win, but they lost. <b>(could)</b>", "a": "They could have won."},
+        {"q": "It was wrong of me to lie to her. <b>(shouldn't)</b>", "a": "I shouldn't have lied to her."},
+        {"q": "I wanted to help, but I was abroad. <b>(would)</b>", "a": "I would have helped, but I was abroad."},
+        {"q": "It wasn't necessary for us to take a taxi, so we walked. <b>(didn't need)</b>", "a": "We didn't need to take a taxi, so we walked."}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones clave",
+      "title_en": "Key word transformations (C1 Advanced)",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave sin cambiarla y entre 3 y 6 palabras.",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word and 3-6 words.",
+      "items": [
+        {"q": "It was a mistake to sell the house.<br>We ______ the house.", "hint": "<b>SHOULD</b>", "a": "shouldn't have sold / should not have sold"},
+        {
+          "q": "It wasn't necessary for you to bring wine, but thanks!<br>You ______ wine, but thanks!",
+          "hint": "<b>NEED</b>",
+          "a": "needn't have brought / need not have brought"
+        },
+        {
+          "q": "Perhaps Laura didn't get my message.<br>Laura ______ my message.",
+          "hint": "<b>MIGHT</b>",
+          "a": "might not have got / might not have received"
+        },
+        {"q": "Why didn't you tell me you were in town?<br>You ______ you were in town!", "hint": "<b>COULD</b>", "a": "could have told me"},
+        {
+          "q": "It's a pity I didn't see the eclipse.<br>I ______ the eclipse.",
+          "hint": "<b>LIKED</b>",
+          "a": "would have liked to see / would have liked to have seen"
+        },
+        {"q": "Helping her was the right thing to do, but I didn't.<br>I ______ her.", "hint": "<b>OUGHT</b>", "a": "ought to have helped"},
+        {
+          "q": "Luckily nobody was hurt, but it was a real possibility.<br>Somebody ______ hurt.",
+          "hint": "<b>BEEN</b>",
+          "a": "could have been / might have been"
+        },
+        {"q": "It's possible that the documents were stolen.<br>The documents ______ stolen.", "hint": "<b>MAY</b>", "a": "may have been"},
+        {
+          "q": "It's impossible that it was Pedro: he was in Lima.<br>It ______ Pedro: he was in Lima.",
+          "hint": "<b>COULDN'T</b>",
+          "a": "couldn't have been"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela correctamente.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {"q": "You must have told me earlier! I'd have helped.", "a": "You should have told me earlier! I'd have helped."},
+        {"q": "She should has called the police.", "a": "She should have called the police."},
+        {"q": "I needn't to have worried.", "a": "I needn't have worried."},
+        {"q": "We could have went by train.", "a": "We could have gone by train."},
+        {"q": "They ought have known better.", "a": "They ought to have known better."},
+        {"q": "The meeting should have be cancelled.", "a": "The meeting should have been cancelled."},
+        {"q": "I would have like to meet her.", "a": "I would have liked to meet her."},
+        {
+          "q": "Luckily, we could catch the last bus.",
+          "a": ["Luckily, we were able to catch the last bus.", "Luckily, we managed to catch the last bus."]
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el artículo de opinión. Marca T (verdadero) o F (falso) y contesta las preguntas.",
+      "en": "Read the opinion column. Tick T or F and answer the questions.",
+      "text_title": "Opinion: a disaster that should never have happened",
+      "text": [
+        "Last November's floods in the valley were not simply bad luck. Engineers had been warning the council for years that the river defences were inadequate, and the authorities ought to have acted on those warnings long before the storm arrived.",
+        "The council insists it could not have foreseen such extreme rainfall. That may be true, but a basic maintenance programme would have reduced the damage considerably. Several residents told this newspaper that the drains had not been cleared for months; some of the flooding might have been avoided altogether.",
+        "To its credit, the council did evacuate the care home in time — although, as it turned out, the residents needn't have been moved: the water never reached the building. Meanwhile, many families in the lower streets didn't need to be told to leave: they had seen the water rising and had already gone. What the council should have done is listen. Next time, it might not be so lucky."
+      ],
+      "items": [
+        {"q": "The council had been warned about the river defences.", "tf": true, "a": true},
+        {"q": "The writer believes the floods were just bad luck.", "tf": true, "a": false, "why": "“The floods were not simply bad luck.”"},
+        {
+          "q": "According to the writer, what ought the authorities to have done?",
+          "a": "They ought to have acted on the engineers' warnings before the storm arrived."
+        },
+        {"q": "What would have reduced the damage considerably?", "a": "A basic maintenance programme."},
+        {
+          "q": "The care home residents were moved unnecessarily.",
+          "tf": true,
+          "a": true,
+          "why": "They needn't have been moved: the water never reached the building."
+        },
+        {
+          "q": "Why didn't the families in the lower streets need to be told to leave?",
+          "a": "Because they had seen the water rising and had already gone."
+        },
+        {"q": "Find a sentence that speculates about the past.", "a": "“Some of the flooding might have been avoided altogether.”"},
+        {"q": "What does the writer think the council should have done?", "a": "It should have listened (to the warnings)."}
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿crítica, necesidad, posibilidad perdida, especulación o resultado hipotético?",
+      "en": "Translate into English.",
+      "items": [
+        {"q": "Deberías habérmelo dicho antes.", "a": ["You should have told me before.", "You should have told me earlier."]},
+        {"q": "No hacía falta que trajeras nada, pero gracias.", "a": "You needn't have brought anything, but thank you."},
+        {"q": "Puede que hayan perdido el vuelo.", "a": ["They may have missed the flight.", "They might have missed the flight."]},
+        {"q": "¡Podrías haberme avisado!", "a": ["You could have warned me!", "You might have warned me!"]},
+        {"q": "No debería haber dicho eso en la reunión.", "a": "I shouldn't have said that in the meeting."},
+        {"q": "Me habría gustado conocer a tus padres.", "a": "I would have liked to meet your parents."},
+        {"q": "El accidente se podría haber evitado.", "a": "The accident could have been avoided."},
+        {
+          "q": "No tuvimos que esperar: la consulta estaba vacía.",
+          "a": ["We didn't need to wait: the surgery was empty.", "We didn't have to wait: the surgery was empty."]
+        },
+        {
+          "q": "El Gobierno debería haber actuado antes.",
+          "a": ["The government should have acted earlier.", "The government ought to have acted sooner."]
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre tu experiencia con modales en pasado.",
+      "en": "Write about your own experience using past modals.",
+      "items": [
+        {
+          "q": "Escribe dos cosas de las que te <b>arrepientes</b>. (should have / shouldn't have)",
+          "lines": 2,
+          "a": "Ej.: I should have studied abroad when I had the chance. I shouldn't have sold my old guitar."
+        },
+        {
+          "q": "Cuenta algo que hiciste y que <b>no hacía falta</b>. (needn't have)",
+          "lines": 2,
+          "a": "Ej.: I needn't have printed my boarding pass: the airline accepted the one on my phone."
+        },
+        {
+          "q": "Un amigo no se presentó a una cena. <b>Especula</b> con tres explicaciones. (might / may / could have)",
+          "lines": 3,
+          "a": "Ej.: He might have got lost. He may have forgotten. His train could have been cancelled."
+        },
+        {
+          "q": "Escribe un <b>reproche</b> educado a un compañero que no te avisó de un cambio. (could have / might have)",
+          "lines": 2,
+          "a": "Ej.: You could have let me know the meeting had been moved — I'd have prepared the slides."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {"es": "Critico y lamento con <b>should have / ought to have</b>.", "en": "I can criticise and express regret with should have / ought to have."},
+    {
+      "es": "Distingo <b>needn't have done</b> (lo hice) de <b>didn't need to do</b> (no lo hice).",
+      "en": "I can distinguish needn't have done and didn't need to do."
+    },
+    {"es": "Uso <b>could have</b> para oportunidades perdidas y reproches.", "en": "I can use could have for missed chances and reproaches."},
+    {
+      "es": "Especulo con <b>might / may / could have</b> y sé que <b>couldn't have</b> = imposible.",
+      "en": "I can speculate with might / may / could have."
+    },
+    {"es": "Expreso lo que habría pasado con <b>would have</b> y <b>I'd have liked to</b>.", "en": "I can say what would have happened."},
+    {"es": "Manejo la forma continua y la pasiva: should have <b>been</b> + -ing / participio.", "en": "I can use continuous and passive past modals."},
+    {
+      "es": "Nunca escribo <s>should of</s>, <s>should had</s> ni <s>must have</s> para criticar.",
+      "en": "I never write should of, should had or must have for criticism."
+    }
+  ]
+}

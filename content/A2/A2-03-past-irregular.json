@@ -1,0 +1,1759 @@
+{
+  "id": "A2-03",
+  "level": "A2",
+  "title": "VERBOS IRREGULARES",
+  "file_title": "Verbos irregulares",
+  "subtitle": "Irregular verbs · el pasado sin -ed",
+  "icon": "⚡",
+  "map": {
+    "center": "Los verbos irregulares <b>no llevan -ed</b>: tienen su propio pasado. <mark>Apréndelos por familias</mark>: go → <b>went</b>.",
+    "nodes": [
+      {
+        "title": "¿Qué son?",
+        "icon": "🔎",
+        "items": [
+          "Pasado <b>sin -ed</b>: go → <b>went</b>",
+          "¡Son los verbos más usados!",
+          "Igual para todos: I / she / they <b>went</b>"
+        ]
+      },
+      {
+        "title": "No cambian",
+        "icon": "🔁",
+        "art": "✂️",
+        "rows": [
+          [
+            "cut",
+            "→ cut"
+          ],
+          [
+            "put",
+            "→ put"
+          ],
+          [
+            "hit",
+            "→ hit"
+          ],
+          [
+            "read",
+            "→ read <i>(suena «red»)</i>"
+          ]
+        ]
+      },
+      {
+        "title": "-OUGHT / -AUGHT",
+        "icon": "🎵",
+        "items": [
+          "buy → <b>bought</b> · bring → <b>brought</b>",
+          "think → <b>thought</b>",
+          "catch → <b>caught</b> · teach → <b>taught</b>"
+        ]
+      },
+      {
+        "title": "Cambian a A / a O",
+        "icon": "🔤",
+        "items": [
+          "drink → dr<em>a</em>nk · swim → sw<em>a</em>m",
+          "sing → s<em>a</em>ng · run → r<em>a</em>n",
+          "write → wr<em>o</em>te · speak → sp<em>o</em>ke"
+        ]
+      },
+      {
+        "title": "-EW, -T y -D",
+        "icon": "🧩",
+        "items": [
+          "fly → fl<em>ew</em> · know → kn<em>ew</em>",
+          "sleep → slep<em>t</em> · lose → los<em>t</em>",
+          "make → ma<em>d</em>e · say → sai<em>d</em>"
+        ]
+      },
+      {
+        "title": "Los rebeldes",
+        "icon": "😈",
+        "art": "🦄",
+        "rows": [
+          [
+            "go",
+            "→ <b>went</b>"
+          ],
+          [
+            "see",
+            "→ <b>saw</b>"
+          ],
+          [
+            "eat",
+            "→ <b>ate</b>"
+          ],
+          [
+            "do",
+            "→ <b>did</b>"
+          ],
+          [
+            "take",
+            "→ <b>took</b>"
+          ]
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "Yesterday I goed to the park."
+      ],
+      "good": [
+        "Yesterday I went to the park."
+      ],
+      "note": "go → <b>went</b>, ¡nunca «goed»!"
+    },
+    "mini": {
+      "es": "Escribe el verbo en pasado.",
+      "en": "Write the verb in the past.",
+      "items": [
+        {
+          "q": "I ___ a big ice cream.",
+          "a": "ate",
+          "hint": "eat"
+        },
+        {
+          "q": "We ___ to the beach.",
+          "a": "went",
+          "hint": "go"
+        },
+        {
+          "q": "Lucía ___ a song.",
+          "a": "sang",
+          "hint": "sing"
+        },
+        {
+          "q": "Tom ___ a new bike.",
+          "a": "bought",
+          "hint": "buy"
+        },
+        {
+          "q": "I ___ a horse at the farm.",
+          "a": "rode",
+          "hint": "ride"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Muchos verbos muy usados <mark>no siguen la regla de -ed</mark>: son los <b>verbos irregulares</b>. Cada uno tiene su propia forma de pasado y hay que aprenderla: go → <b>went</b>, eat → <b>ate</b>, see → <b>saw</b>. Pero muchos se parecen entre sí: si los aprendes <b>por familias</b>, ¡es mucho más fácil! En esta ficha trabajamos solo la <b>afirmativa</b>.",
+      "en": "Irregular verbs don't take <em>-ed</em>. Each one has its own past form. Learn them in families — it's much easier!",
+      "formula": [
+        "Sujeto + *pasado irregular* + resto",
+        "I / she / they + *went* + to the beach"
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Regulares e irregulares",
+      "title_en": "Regular and irregular",
+      "icon": "⚖️",
+      "color": "green",
+      "es": "Los <b>regulares</b> añaden -ed (play → play<em>ed</em>). Los <b>irregulares</b> cambian a su manera (go → <b>went</b>): ¡hay que aprenderlos! Igual que los regulares, el pasado irregular es <mark>el mismo para todas las personas</mark>: I went, she went, they went.",
+      "en": "Regular verbs add -ed; irregular verbs change. The past form is the same for every person: I went, she went, they went.",
+      "examples": [
+        {
+          "en": "I <b>played</b> football and we <b>won</b>!",
+          "es": "Jugué al fútbol y ¡ganamos!",
+          "icon": "🏆"
+        },
+        {
+          "en": "Lucía <b>cooked</b> pasta and I <b>made</b> a salad.",
+          "es": "Lucía cocinó pasta y yo hice una ensalada.",
+          "icon": "🥗"
+        },
+        {
+          "en": "I <b>went</b> to bed early. My sister <b>went</b> to bed late.",
+          "es": "Yo me fui a la cama pronto. Mi hermana se fue tarde.",
+          "icon": "🛏️"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Familia 1 · ¡No cambian!",
+      "title_en": "No change",
+      "icon": "🔁",
+      "color": "blue",
+      "head": [
+        "Verbo · Verb",
+        "Pasado · Past",
+        "Español"
+      ],
+      "rows": [
+        [
+          "cut",
+          "<b>cut</b>",
+          "cortar"
+        ],
+        [
+          "put",
+          "<b>put</b>",
+          "poner"
+        ],
+        [
+          "hit",
+          "<b>hit</b>",
+          "golpear, dar"
+        ],
+        [
+          "hurt",
+          "<b>hurt</b>",
+          "hacer(se) daño"
+        ],
+        [
+          "read",
+          "<b>read</b>",
+          "leer"
+        ]
+      ],
+      "note": "<b>read</b> se escribe igual, pero en pasado suena «red» (como <i>red</i>, rojo).",
+      "note_en": "read (past) sounds like <i>red</i>."
+    },
+    {
+      "t": "table",
+      "title": "Familia 2 · -OUGHT y -AUGHT",
+      "title_en": "-ought / -aught",
+      "icon": "🎵",
+      "color": "purple",
+      "head": [
+        "Verbo · Verb",
+        "Pasado · Past",
+        "Español"
+      ],
+      "rows": [
+        [
+          "buy",
+          "b<b>ought</b>",
+          "comprar"
+        ],
+        [
+          "bring",
+          "br<b>ought</b>",
+          "traer"
+        ],
+        [
+          "think",
+          "th<b>ought</b>",
+          "pensar, creer"
+        ],
+        [
+          "catch",
+          "c<b>aught</b>",
+          "coger, atrapar"
+        ],
+        [
+          "teach",
+          "t<b>aught</b>",
+          "enseñar"
+        ]
+      ],
+      "note": "Riman («ot»). Con <b>a</b> en el verbo (c<b>a</b>tch, te<b>a</b>ch) → <b>-aught</b>; sin a → <b>-ought</b>.",
+      "note_en": "A in the verb → -aught; no a → -ought."
+    },
+    {
+      "t": "table",
+      "title": "Familia 3 · La vocal cambia a A",
+      "title_en": "vowel → a",
+      "icon": "🍎",
+      "color": "orange",
+      "head": [
+        "Verbo · Verb",
+        "Pasado · Past",
+        "Español"
+      ],
+      "rows": [
+        [
+          "begin",
+          "beg<b>a</b>n",
+          "empezar"
+        ],
+        [
+          "drink",
+          "dr<b>a</b>nk",
+          "beber"
+        ],
+        [
+          "swim",
+          "sw<b>a</b>m",
+          "nadar"
+        ],
+        [
+          "sing",
+          "s<b>a</b>ng",
+          "cantar"
+        ],
+        [
+          "sit",
+          "s<b>a</b>t",
+          "sentarse"
+        ],
+        [
+          "give",
+          "g<b>a</b>ve",
+          "dar, regalar"
+        ],
+        [
+          "run",
+          "r<b>a</b>n",
+          "correr"
+        ],
+        [
+          "come",
+          "c<b>a</b>me",
+          "venir"
+        ]
+      ],
+      "note": "La vocal se convierte en <b>a</b>: sw<b>i</b>m → sw<b>a</b>m, r<b>u</b>n → r<b>a</b>n."
+    },
+    {
+      "t": "table",
+      "title": "Familia 4 · Terminan en -EW",
+      "title_en": "-ew",
+      "icon": "🐦",
+      "color": "teal",
+      "head": [
+        "Verbo · Verb",
+        "Pasado · Past",
+        "Español"
+      ],
+      "rows": [
+        [
+          "fly",
+          "fl<b>ew</b>",
+          "volar"
+        ],
+        [
+          "know",
+          "kn<b>ew</b>",
+          "saber, conocer"
+        ],
+        [
+          "grow",
+          "gr<b>ew</b>",
+          "crecer"
+        ],
+        [
+          "throw",
+          "thr<b>ew</b>",
+          "lanzar, tirar"
+        ],
+        [
+          "draw",
+          "dr<b>ew</b>",
+          "dibujar"
+        ]
+      ],
+      "note": "Suenan «u»: flew = «flu». En <b>knew</b> la k es muda: «niu».",
+      "note_en": "The k in knew is silent."
+    },
+    {
+      "t": "table",
+      "title": "Familia 5 · La vocal cambia a O",
+      "title_en": "vowel → o",
+      "icon": "⭕",
+      "color": "pink",
+      "head": [
+        "Verbo · Verb",
+        "Pasado · Past",
+        "Español"
+      ],
+      "rows": [
+        [
+          "write",
+          "wr<b>o</b>te",
+          "escribir"
+        ],
+        [
+          "ride",
+          "r<b>o</b>de",
+          "montar (en bici, a caballo)"
+        ],
+        [
+          "speak",
+          "sp<b>o</b>ke",
+          "hablar"
+        ],
+        [
+          "break",
+          "br<b>o</b>ke",
+          "romper"
+        ],
+        [
+          "wake up",
+          "w<b>o</b>ke up",
+          "despertarse"
+        ],
+        [
+          "get",
+          "g<b>o</b>t",
+          "conseguir, recibir"
+        ],
+        [
+          "forget",
+          "forg<b>o</b>t",
+          "olvidar"
+        ],
+        [
+          "win",
+          "w<b>o</b>n",
+          "ganar"
+        ]
+      ],
+      "note": "La vocal cambia a <b>o</b>: wr<b>i</b>te → wr<b>o</b>te, g<b>e</b>t → g<b>o</b>t, w<b>i</b>n → w<b>o</b>n (suena «uan»)."
+    },
+    {
+      "t": "table",
+      "title": "Familia 6 · Terminan en -T",
+      "title_en": "-t",
+      "icon": "🎯",
+      "color": "green",
+      "head": [
+        "Verbo · Verb",
+        "Pasado · Past",
+        "Español"
+      ],
+      "rows": [
+        [
+          "sleep",
+          "slep<b>t</b>",
+          "dormir"
+        ],
+        [
+          "feel",
+          "fel<b>t</b>",
+          "sentir(se)"
+        ],
+        [
+          "leave",
+          "lef<b>t</b>",
+          "irse, salir, dejar"
+        ],
+        [
+          "lose",
+          "los<b>t</b>",
+          "perder"
+        ],
+        [
+          "meet",
+          "me<b>t</b>",
+          "conocer, quedar con"
+        ],
+        [
+          "send",
+          "sen<b>t</b>",
+          "enviar"
+        ]
+      ],
+      "note": "La vocal se acorta: sl<b>ee</b>p → sl<b>e</b>pt, m<b>ee</b>t → m<b>e</b>t."
+    },
+    {
+      "t": "table",
+      "title": "Familia 7 · Terminan en -D",
+      "title_en": "-d",
+      "icon": "🥁",
+      "color": "blue",
+      "head": [
+        "Verbo · Verb",
+        "Pasado · Past",
+        "Español"
+      ],
+      "rows": [
+        [
+          "have",
+          "ha<b>d</b>",
+          "tener, tomar"
+        ],
+        [
+          "make",
+          "ma<b>d</b>e",
+          "hacer, fabricar"
+        ],
+        [
+          "say",
+          "sai<b>d</b>",
+          "decir"
+        ],
+        [
+          "hear",
+          "hear<b>d</b>",
+          "oír"
+        ],
+        [
+          "tell",
+          "tol<b>d</b>",
+          "contar, decir"
+        ],
+        [
+          "find",
+          "foun<b>d</b>",
+          "encontrar"
+        ],
+        [
+          "stand",
+          "stoo<b>d</b>",
+          "estar de pie"
+        ]
+      ],
+      "note": "<b>said</b> suena «sed» y <b>heard</b> suena «jerd»."
+    },
+    {
+      "t": "table",
+      "title": "Familia 8 · Los rebeldes",
+      "title_en": "The rebels",
+      "icon": "😈",
+      "color": "red",
+      "head": [
+        "Verbo · Verb",
+        "Pasado · Past",
+        "Español"
+      ],
+      "rows": [
+        [
+          "be",
+          "<b>was / were</b>",
+          "ser, estar"
+        ],
+        [
+          "go",
+          "<b>went</b>",
+          "ir"
+        ],
+        [
+          "do",
+          "<b>did</b>",
+          "hacer"
+        ],
+        [
+          "see",
+          "<b>saw</b>",
+          "ver"
+        ],
+        [
+          "eat",
+          "<b>ate</b>",
+          "comer"
+        ],
+        [
+          "take",
+          "<b>took</b>",
+          "coger, llevar"
+        ]
+      ],
+      "note": "¡No se parecen a nada! Apréndelos de memoria: son los más usados de todos.",
+      "note_en": "Learn them by heart!"
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {
+          "en": "We <b>went</b> to a theme park last summer.",
+          "es": "El verano pasado fuimos a un parque de atracciones.",
+          "icon": "🎢"
+        },
+        {
+          "en": "I <b>saw</b> a shark at the aquarium.",
+          "es": "Vi un tiburón en el acuario.",
+          "icon": "🦈"
+        },
+        {
+          "en": "Rocky <b>ate</b> my sandwich!",
+          "es": "¡Rocky se comió mi bocadillo!",
+          "icon": "🥪"
+        },
+        {
+          "en": "Mum <b>made</b> pancakes for breakfast.",
+          "es": "Mamá hizo tortitas para desayunar.",
+          "icon": "🥞"
+        },
+        {
+          "en": "Lucía <b>wrote</b> a story about a dragon.",
+          "es": "Lucía escribió un cuento sobre un dragón.",
+          "icon": "🐉"
+        },
+        {
+          "en": "Leo <b>broke</b> his arm playing football.",
+          "es": "Leo se rompió el brazo jugando al fútbol.",
+          "icon": "🩹"
+        },
+        {
+          "en": "I <b>slept</b> at my cousin's house.",
+          "es": "Dormí en casa de mi primo.",
+          "icon": "🛏️"
+        },
+        {
+          "en": "Our team <b>won</b> the match!",
+          "es": "¡Nuestro equipo ganó el partido!",
+          "icon": "🏆"
+        },
+        {
+          "en": "Sara <b>found</b> a coin in the park.",
+          "es": "Sara encontró una moneda en el parque.",
+          "icon": "💰"
+        },
+        {
+          "en": "Tom <b>lost</b> his key.",
+          "es": "Tom perdió su llave.",
+          "icon": "🔑"
+        },
+        {
+          "en": "A bird <b>flew</b> into the classroom.",
+          "es": "Un pájaro entró volando en la clase.",
+          "icon": "🐦"
+        },
+        {
+          "en": "Dad <b>bought</b> a new tent for the holidays.",
+          "es": "Papá compró una tienda de campaña nueva para las vacaciones.",
+          "icon": "⛺"
+        },
+        {
+          "en": "I <b>felt</b> a bit nervous before the test.",
+          "es": "Me sentí un poco nervioso antes del examen.",
+          "icon": "😬"
+        },
+        {
+          "en": "Anna <b>told</b> us a funny joke.",
+          "es": "Anna nos contó un chiste gracioso.",
+          "icon": "😂"
+        },
+        {
+          "en": "We <b>swam</b> in the river.",
+          "es": "Nadamos en el río.",
+          "icon": "🏊"
+        },
+        {
+          "en": "I <b>woke up</b> at seven o'clock.",
+          "es": "Me desperté a las siete.",
+          "icon": "⏰"
+        },
+        {
+          "en": "Grandpa <b>taught</b> me to play chess.",
+          "es": "El abuelo me enseñó a jugar al ajedrez.",
+          "icon": "♟️"
+        },
+        {
+          "en": "Tom <b>read</b> three comics yesterday.",
+          "es": "Ayer Tom leyó tres cómics.",
+          "icon": "📚"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "trampas",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "Yesterday I goed to school.",
+          "good": "Yesterday I <b>went</b> to school.",
+          "why": "go es irregular: went.",
+          "why_en": "go → went."
+        },
+        {
+          "bad": "I buyed a comic.",
+          "good": "I <b>bought</b> a comic.",
+          "why": "buy → bought (familia -ought).",
+          "why_en": "buy → bought."
+        },
+        {
+          "bad": "She eated all the cake.",
+          "good": "She <b>ate</b> all the cake.",
+          "why": "eat → ate.",
+          "why_en": "eat → ate."
+        },
+        {
+          "bad": "He wented home.",
+          "good": "He <b>went</b> home.",
+          "why": "went ya es pasado: ¡no le añadas -ed!",
+          "why_en": "went is already past."
+        },
+        {
+          "bad": "Last summer I swim in the sea.",
+          "good": "Last summer I <b>swam</b> in the sea.",
+          "why": "¡Es pasado! swim → swam.",
+          "why_en": "Past → swam."
+        },
+        {
+          "bad": "Grandpa teached me chess.",
+          "good": "Grandpa <b>taught</b> me chess.",
+          "why": "teach → taught (familia -aught).",
+          "why_en": "teach → taught."
+        },
+        {
+          "bad": "I did a photo of Rocky.",
+          "good": "I <b>took</b> a photo of Rocky.",
+          "why": "«Hacer una foto» = take a photo.",
+          "why_en": "We take photos."
+        },
+        {
+          "bad": "I made my homework.",
+          "good": "I <b>did</b> my homework.",
+          "why": "«Hacer los deberes» = do homework.",
+          "why_en": "We do homework."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo pongo el verbo en pasado?",
+      "title_en": "How do I put the verb in the past?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Busca el <b>verbo</b> de la frase.",
+          "en": "Find the verb."
+        },
+        {
+          "es": "¿Es irregular? Míralo en tu lista o piensa en su <b>familia</b>.",
+          "en": "Is it irregular? Check the list or its family."
+        },
+        {
+          "es": "Irregular → usa su forma especial (go → <b>went</b>). Regular → añade <b>-ed</b>.",
+          "en": "Irregular → special form. Regular → -ed."
+        },
+        {
+          "es": "No le añadas nada al irregular: <s>wented</s>, <s>wents</s>.",
+          "en": "Don't add -ed or -s to an irregular past."
+        },
+        {
+          "es": "Lee la frase en voz alta: <i>Yesterday I went…</i> ¿Suena bien?",
+          "en": "Read it aloud."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "¿Qué tal las vacaciones?",
+      "title_en": "How were your holidays?",
+      "lines": [
+        {
+          "who": "Anna",
+          "en": "Hi, Mario! How were your holidays?",
+          "es": "¡Hola, Mario! ¿Qué tal tus vacaciones?"
+        },
+        {
+          "who": "Mario",
+          "en": "Great! We went to the mountains. We slept in a tent!",
+          "es": "¡Genial! Fuimos a la montaña. ¡Dormimos en una tienda de campaña!"
+        },
+        {
+          "who": "Anna",
+          "en": "Wow! I went to the beach with my cousins. I swam every day.",
+          "es": "¡Hala! Yo fui a la playa con mis primos. Nadé todos los días."
+        },
+        {
+          "who": "Mario",
+          "en": "Cool! I saw a big eagle and Lucía took lots of photos.",
+          "es": "¡Qué guay! Yo vi un águila enorme y Lucía hizo muchas fotos."
+        },
+        {
+          "who": "Anna",
+          "en": "I found a starfish on the sand!",
+          "es": "¡Yo encontré una estrella de mar en la arena!"
+        },
+        {
+          "who": "Mario",
+          "en": "Lucky you! Oh, and one night Rocky ate our sausages!",
+          "es": "¡Qué suerte! Ah, y una noche Rocky se comió nuestras salchichas."
+        },
+        {
+          "who": "Anna",
+          "en": "Ha, ha! Naughty Rocky!",
+          "es": "¡Ja, ja! ¡Qué malo, Rocky!"
+        },
+        {
+          "who": "Mario",
+          "en": "Dad wasn't happy. He bought more the next day.",
+          "es": "Papá no estaba contento. Compró más al día siguiente."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco de la canción",
+      "title_en": "Song trick",
+      "es": "Di los verbos en voz alta, en parejas, como si fuera una canción: «<b>go-went, see-saw, eat-ate</b>». Aprende <b>una familia cada día</b> y haz tarjetas: el verbo por un lado y el pasado por el otro. ¡En dos semanas te sabes los 50!",
+      "en": "Say them in pairs like a song: go-went, see-saw. One family a day, with flashcards!"
+    },
+    {
+      "t": "table",
+      "title": "Los 50 verbos de la A a la Z",
+      "title_en": "The 50 verbs from A to Z",
+      "icon": "📚",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Verbo",
+        "Pasado",
+        "Español",
+        "Verbo",
+        "Pasado",
+        "Español",
+        "Verbo",
+        "Pasado",
+        "Español"
+      ],
+      "rows": [
+        [
+          "be",
+          "<b>was / were</b>",
+          "ser, estar",
+          "give",
+          "<b>gave</b>",
+          "dar",
+          "see",
+          "<b>saw</b>",
+          "ver"
+        ],
+        [
+          "begin",
+          "<b>began</b>",
+          "empezar",
+          "go",
+          "<b>went</b>",
+          "ir",
+          "send",
+          "<b>sent</b>",
+          "enviar"
+        ],
+        [
+          "break",
+          "<b>broke</b>",
+          "romper",
+          "grow",
+          "<b>grew</b>",
+          "crecer",
+          "sing",
+          "<b>sang</b>",
+          "cantar"
+        ],
+        [
+          "bring",
+          "<b>brought</b>",
+          "traer",
+          "have",
+          "<b>had</b>",
+          "tener, tomar",
+          "sit",
+          "<b>sat</b>",
+          "sentarse"
+        ],
+        [
+          "buy",
+          "<b>bought</b>",
+          "comprar",
+          "hear",
+          "<b>heard</b>",
+          "oír",
+          "sleep",
+          "<b>slept</b>",
+          "dormir"
+        ],
+        [
+          "catch",
+          "<b>caught</b>",
+          "coger, atrapar",
+          "hit",
+          "<b>hit</b>",
+          "golpear",
+          "speak",
+          "<b>spoke</b>",
+          "hablar"
+        ],
+        [
+          "come",
+          "<b>came</b>",
+          "venir",
+          "hurt",
+          "<b>hurt</b>",
+          "hacer(se) daño",
+          "stand",
+          "<b>stood</b>",
+          "estar de pie"
+        ],
+        [
+          "cut",
+          "<b>cut</b>",
+          "cortar",
+          "know",
+          "<b>knew</b>",
+          "saber, conocer",
+          "swim",
+          "<b>swam</b>",
+          "nadar"
+        ],
+        [
+          "do",
+          "<b>did</b>",
+          "hacer",
+          "leave",
+          "<b>left</b>",
+          "irse, dejar",
+          "take",
+          "<b>took</b>",
+          "coger, llevar"
+        ],
+        [
+          "draw",
+          "<b>drew</b>",
+          "dibujar",
+          "lose",
+          "<b>lost</b>",
+          "perder",
+          "teach",
+          "<b>taught</b>",
+          "enseñar"
+        ],
+        [
+          "drink",
+          "<b>drank</b>",
+          "beber",
+          "make",
+          "<b>made</b>",
+          "hacer",
+          "tell",
+          "<b>told</b>",
+          "contar, decir"
+        ],
+        [
+          "eat",
+          "<b>ate</b>",
+          "comer",
+          "meet",
+          "<b>met</b>",
+          "conocer, quedar",
+          "think",
+          "<b>thought</b>",
+          "pensar"
+        ],
+        [
+          "feel",
+          "<b>felt</b>",
+          "sentir(se)",
+          "put",
+          "<b>put</b>",
+          "poner",
+          "throw",
+          "<b>threw</b>",
+          "lanzar, tirar"
+        ],
+        [
+          "find",
+          "<b>found</b>",
+          "encontrar",
+          "read",
+          "<b>read</b>",
+          "leer",
+          "wake up",
+          "<b>woke up</b>",
+          "despertarse"
+        ],
+        [
+          "fly",
+          "<b>flew</b>",
+          "volar",
+          "ride",
+          "<b>rode</b>",
+          "montar",
+          "win",
+          "<b>won</b>",
+          "ganar"
+        ],
+        [
+          "forget",
+          "<b>forgot</b>",
+          "olvidar",
+          "run",
+          "<b>ran</b>",
+          "correr",
+          "write",
+          "<b>wrote</b>",
+          "escribir"
+        ],
+        [
+          "get",
+          "<b>got</b>",
+          "conseguir, recibir",
+          "say",
+          "<b>said</b>",
+          "decir",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "note": "Tapa la columna del pasado con un papel y ponte a prueba: ¿cuántos te sabes?",
+      "note_en": "Cover the past column and test yourself!"
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "Une verbo y pasado",
+      "title_en": "Match the verb and the past",
+      "icon": "🔗",
+      "es": "Une cada verbo con su pasado.",
+      "en": "Match each verb with its past form.",
+      "pairs": [
+        [
+          "go",
+          "went"
+        ],
+        [
+          "see",
+          "saw"
+        ],
+        [
+          "eat",
+          "ate"
+        ],
+        [
+          "buy",
+          "bought"
+        ],
+        [
+          "write",
+          "wrote"
+        ],
+        [
+          "fly",
+          "flew"
+        ],
+        [
+          "sleep",
+          "slept"
+        ],
+        [
+          "take",
+          "took"
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Regular o irregular?",
+      "title_en": "Regular or irregular?",
+      "icon": "🗂️",
+      "es": "Escribe cada verbo en su caja. ¿Su pasado lleva -ed o es irregular?",
+      "en": "Write each verb in the right box.",
+      "cats": [
+        {
+          "name": "regular (-ed)",
+          "words": [
+            "play",
+            "walk",
+            "watch",
+            "jump",
+            "study",
+            "dance",
+            "help"
+          ]
+        },
+        {
+          "name": "irregular",
+          "words": [
+            "go",
+            "eat",
+            "see",
+            "swim",
+            "buy",
+            "write",
+            "make"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿De qué familia es?",
+      "title_en": "Which family?",
+      "icon": "🏷️",
+      "es": "Escribe cada verbo en la caja de su familia. Piensa primero en su pasado.",
+      "en": "Write each verb in its family box.",
+      "cats": [
+        {
+          "name": "-ought / -aught",
+          "words": [
+            "bring",
+            "think",
+            "catch",
+            "teach"
+          ]
+        },
+        {
+          "name": "-ew",
+          "words": [
+            "know",
+            "grow",
+            "throw",
+            "draw"
+          ]
+        },
+        {
+          "name": "cambia a A",
+          "words": [
+            "drink",
+            "sing",
+            "sit",
+            "run"
+          ]
+        },
+        {
+          "name": "no cambia",
+          "words": [
+            "cut",
+            "put",
+            "hit",
+            "hurt"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea el pasado correcto",
+      "title_en": "Circle the correct past form",
+      "icon": "⭕",
+      "es": "Rodea con un círculo la forma correcta.",
+      "en": "Circle the correct form.",
+      "items": [
+        {
+          "q": "I [goed|went] to the park.",
+          "a": "went"
+        },
+        {
+          "q": "We [saw|seed] a rainbow.",
+          "a": "saw"
+        },
+        {
+          "q": "Rocky [eated|ate] my shoe!",
+          "a": "ate"
+        },
+        {
+          "q": "Sara [bought|buyed] a new pencil case.",
+          "a": "bought"
+        },
+        {
+          "q": "Tom [catched|caught] the ball.",
+          "a": "caught"
+        },
+        {
+          "q": "The plane [flew|flied] over our house.",
+          "a": "flew"
+        },
+        {
+          "q": "Lucía [writed|wrote] a poem.",
+          "a": "wrote"
+        },
+        {
+          "q": "My dad [maked|made] pizza.",
+          "a": "made"
+        },
+        {
+          "q": "I [thinked|thought] it was a ghost!",
+          "a": "thought"
+        },
+        {
+          "q": "We [swam|swimmed] in the lake.",
+          "a": "swam"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Completa la tabla",
+      "title_en": "Complete the table",
+      "icon": "📋",
+      "es": "Completa las casillas vacías: verbo, pasado o significado.",
+      "en": "Fill in the empty boxes.",
+      "head": [
+        "Verbo · Verb",
+        "Pasado · Past",
+        "Español"
+      ],
+      "rows": [
+        [
+          "go",
+          "?went",
+          "ir"
+        ],
+        [
+          "?take",
+          "took",
+          "coger, llevar"
+        ],
+        [
+          "give",
+          "?gave",
+          "?dar"
+        ],
+        [
+          "?drink",
+          "drank",
+          "beber"
+        ],
+        [
+          "sleep",
+          "?slept",
+          "dormir"
+        ],
+        [
+          "?know",
+          "knew",
+          "saber, conocer"
+        ],
+        [
+          "tell",
+          "?told",
+          "?contar, decir"
+        ],
+        [
+          "?come",
+          "came",
+          "venir"
+        ],
+        [
+          "find",
+          "?found",
+          "encontrar"
+        ],
+        [
+          "?break",
+          "broke",
+          "romper"
+        ],
+        [
+          "win",
+          "?won",
+          "?ganar"
+        ],
+        [
+          "?hear",
+          "heard",
+          "oír"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe el pasado",
+      "title_en": "Write the past",
+      "icon": "✏️",
+      "es": "Escribe el verbo entre paréntesis en pasado. ¡Todos son irregulares!",
+      "en": "Write the verb in brackets in the past. They are all irregular!",
+      "items": [
+        {
+          "q": "We ___ a sandcastle on the beach.",
+          "a": "made",
+          "hint": "make"
+        },
+        {
+          "q": "I ___ my friend Leo at the park.",
+          "a": "met",
+          "hint": "meet"
+        },
+        {
+          "q": "Mum ___ me a new book.",
+          "a": "gave",
+          "hint": "give"
+        },
+        {
+          "q": "Rocky ___ under my bed.",
+          "a": "slept",
+          "hint": "sleep"
+        },
+        {
+          "q": "Lucía ___ a picture of a horse.",
+          "a": "drew",
+          "hint": "draw"
+        },
+        {
+          "q": "The film ___ at seven o'clock.",
+          "a": "began",
+          "hint": "begin"
+        },
+        {
+          "q": "I ___ a strange noise in the night.",
+          "a": "heard",
+          "hint": "hear"
+        },
+        {
+          "q": "Tom ___ his football boots at home.",
+          "a": "left",
+          "hint": "leave"
+        },
+        {
+          "q": "My plant ___ ten centimetres.",
+          "a": "grew",
+          "hint": "grow"
+        },
+        {
+          "q": "We ___ hello to the new teacher.",
+          "a": "said",
+          "hint": "say"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "¿Regular o irregular? ¡Cuidado!",
+      "title_en": "Regular or irregular? Careful!",
+      "icon": "⚠️",
+      "es": "Escribe el pasado. Unos son regulares (-ed) y otros irregulares.",
+      "en": "Write the past. Some are regular, some are irregular.",
+      "items": [
+        {
+          "q": "I ___ my bike to school.",
+          "a": "rode",
+          "hint": "ride"
+        },
+        {
+          "q": "We ___ football after lunch.",
+          "a": "played",
+          "hint": "play"
+        },
+        {
+          "q": "Anna ___ a glass of milk.",
+          "a": "drank",
+          "hint": "drink"
+        },
+        {
+          "q": "The baby ___ all night.",
+          "a": "cried",
+          "hint": "cry"
+        },
+        {
+          "q": "Dad ___ the car.",
+          "a": "washed",
+          "hint": "wash"
+        },
+        {
+          "q": "I ___ my homework before dinner.",
+          "a": "did",
+          "hint": "do"
+        },
+        {
+          "q": "The bus ___ at my house.",
+          "a": "stopped",
+          "hint": "stop"
+        },
+        {
+          "q": "Leo ___ the ball very hard.",
+          "a": "kicked",
+          "hint": "kick"
+        },
+        {
+          "q": "Sara ___ the race.",
+          "a": "won",
+          "hint": "win"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase.",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {
+          "q": "went / we / to / the cinema / yesterday",
+          "a": "We went to the cinema yesterday."
+        },
+        {
+          "q": "a / saw / I / big / spider",
+          "a": "I saw a big spider."
+        },
+        {
+          "q": "ate / Rocky / my / sandwich",
+          "a": "Rocky ate my sandwich."
+        },
+        {
+          "q": "bought / Mum / new / shoes / me",
+          "a": "Mum bought me new shoes."
+        },
+        {
+          "q": "the / won / match / our team",
+          "a": "Our team won the match."
+        },
+        {
+          "q": "a / wrote / Lucía / long / letter",
+          "a": "Lucía wrote a long letter."
+        },
+        {
+          "q": "at / up / seven / I / woke",
+          "a": "I woke up at seven."
+        },
+        {
+          "q": "a / joke / told / us / Tom / funny",
+          "a": "Tom told us a funny joke."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pasa al pasado",
+      "title_en": "Change to the past",
+      "icon": "⏪",
+      "es": "Escribe la frase en pasado y añade la expresión de tiempo al final.",
+      "en": "Write the sentence in the past. Add the time words at the end.",
+      "items": [
+        {
+          "q": "I go to school by bus. (yesterday)",
+          "a": "I went to school by bus yesterday."
+        },
+        {
+          "q": "She eats an apple. (this morning)",
+          "a": "She ate an apple this morning."
+        },
+        {
+          "q": "We see our grandparents. (last Sunday)",
+          "a": "We saw our grandparents last Sunday."
+        },
+        {
+          "q": "Tom has a party. (last Saturday)",
+          "a": "Tom had a party last Saturday."
+        },
+        {
+          "q": "My dad takes the train. (last week)",
+          "a": "My dad took the train last week."
+        },
+        {
+          "q": "I read a comic. (last night)",
+          "a": "I read a comic last night."
+        },
+        {
+          "q": "Lucía sings in the choir. (yesterday)",
+          "a": "Lucía sang in the choir yesterday."
+        },
+        {
+          "q": "Rocky runs in the garden. (an hour ago)",
+          "a": "Rocky ran in the garden an hour ago."
+        },
+        {
+          "q": "They come to my house. (two days ago)",
+          "a": "They came to my house two days ago."
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "Yesterday I goed to the zoo.",
+          "a": "Yesterday I went to the zoo."
+        },
+        {
+          "q": "She buyed a pencil.",
+          "a": "She bought a pencil."
+        },
+        {
+          "q": "We eated pizza.",
+          "a": "We ate pizza."
+        },
+        {
+          "q": "He wented to bed early.",
+          "a": "He went to bed early."
+        },
+        {
+          "q": "Last week Tom break the window.",
+          "a": "Last week Tom broke the window."
+        },
+        {
+          "q": "I teached Rocky a trick.",
+          "a": "I taught Rocky a trick."
+        },
+        {
+          "q": "Anna drinked all the milk.",
+          "a": "Anna drank all the milk."
+        },
+        {
+          "q": "I did a photo of the sea.",
+          "a": "I took a photo of the sea."
+        },
+        {
+          "q": "We maked a snowman.",
+          "a": "We made a snowman."
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "⚖️",
+      "es": "¿Es verdadero (T) o falso (F)? Si es falso, piensa cuál es la forma correcta.",
+      "en": "True or false?",
+      "items": [
+        {
+          "q": "The past of <i>buy</i> is <i>bought</i>.",
+          "a": true
+        },
+        {
+          "q": "The past of <i>think</i> is <i>thinked</i>.",
+          "a": false,
+          "why": "think → thought."
+        },
+        {
+          "q": "<i>cut</i>, <i>put</i> and <i>hit</i> don't change in the past.",
+          "a": true
+        },
+        {
+          "q": "The past of <i>fly</i> is <i>flied</i>.",
+          "a": false,
+          "why": "fly → flew."
+        },
+        {
+          "q": "<i>read</i> in the past sounds like «red».",
+          "a": true
+        },
+        {
+          "q": "We say «she wents».",
+          "a": false,
+          "why": "Same form for everyone: she went."
+        },
+        {
+          "q": "The past of <i>sit</i> is <i>sat</i>.",
+          "a": true
+        },
+        {
+          "q": "The past of <i>catch</i> is <i>catched</i>.",
+          "a": false,
+          "why": "catch → caught."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. ¡Todos los verbos son irregulares! (Y cuidado con «hacer»…)",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Ayer fui al parque.",
+          "a": "I went to the park yesterday."
+        },
+        {
+          "q": "Mi hermana comió pasta.",
+          "a": "My sister ate pasta."
+        },
+        {
+          "q": "Vimos un delfín.",
+          "a": "We saw a dolphin."
+        },
+        {
+          "q": "Leo ganó la carrera.",
+          "a": "Leo won the race."
+        },
+        {
+          "q": "Mamá compró pan.",
+          "a": "Mum bought (some) bread."
+        },
+        {
+          "q": "Rocky durmió en el sofá.",
+          "a": "Rocky slept on the sofa."
+        },
+        {
+          "q": "Escribí una carta a mi abuela.",
+          "a": "I wrote a letter to my grandma."
+        },
+        {
+          "q": "Hice los deberes.",
+          "a": "I did my homework."
+        },
+        {
+          "q": "Hicimos una foto.",
+          "a": "We took a photo."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "A school trip",
+      "text": [
+        "Last Friday, Mario's class went on a school trip to a farm. They left school at nine o'clock and they took a big yellow bus. Mario sat next to Leo.",
+        "At the farm, the farmer showed them the animals. They saw cows, pigs and a very old horse. Sara gave carrots to the horse and it ate them all! Then the children made bread and they drank fresh milk. Tom found a little egg in the grass.",
+        "At four o'clock they came back to school. Mario was very tired, but he told his mum: «It was the best day ever!»"
+      ],
+      "items": [
+        {
+          "q": "The class went to a zoo.",
+          "tf": true,
+          "a": false,
+          "why": "They went to a farm."
+        },
+        {
+          "q": "They took a bus.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "Mario sat next to Tom.",
+          "tf": true,
+          "a": false,
+          "why": "He sat next to Leo."
+        },
+        {
+          "q": "Who gave carrots to the horse?",
+          "a": "Sara (gave carrots to the horse)."
+        },
+        {
+          "q": "Tom found something in the grass. What was it?",
+          "a": "It was a little egg."
+        },
+        {
+          "q": "Find the past of these verbs in the text: <i>leave, see, drink, find</i>.",
+          "a": "left, saw, drank, found"
+        },
+        {
+          "q": "Was Mario happy with the trip?",
+          "a": "Yes, he was. It was the best day ever!"
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea el pasado",
+      "title_en": "Spell the past form",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe el pasado del verbo en las cajas.",
+      "en": "Unscramble the letters and write the past form.",
+      "items": [
+        {
+          "q": "🛒 buy →",
+          "a": "bought"
+        },
+        {
+          "q": "🧠 think →",
+          "a": "thought"
+        },
+        {
+          "q": "🎨 draw →",
+          "a": "drew"
+        },
+        {
+          "q": "🏊 swim →",
+          "a": "swam"
+        },
+        {
+          "q": "😴 sleep →",
+          "a": "slept"
+        },
+        {
+          "q": "🗣️ speak →",
+          "a": "spoke"
+        },
+        {
+          "q": "🏆 win →",
+          "a": "won"
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca el pasado de estos 9 verbos irregulares.",
+      "en": "Find the past form of these 9 irregular verbs.",
+      "words": [
+        "went",
+        "saw",
+        "ate",
+        "bought",
+        "flew",
+        "wrote",
+        "slept",
+        "made",
+        "took"
+      ],
+      "clues": [
+        "go → ?",
+        "see → ?",
+        "eat → ?",
+        "buy → ?",
+        "fly → ?",
+        "write → ?",
+        "sleep → ?",
+        "make → ?",
+        "take → ?"
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe frases sobre ti con verbos irregulares en pasado.",
+      "en": "Write about you with irregular past verbs.",
+      "items": [
+        {
+          "q": "Escribe 3 cosas que hiciste el verano pasado: <b>Last summer I went…</b>",
+          "lines": 2,
+          "a": "Ej.: Last summer I went to the beach. I swam in the sea and I ate lots of ice cream."
+        },
+        {
+          "q": "¿Qué desayunaste hoy? <b>This morning I ate / drank…</b>",
+          "lines": 1,
+          "a": "Ej.: This morning I ate toast and I drank orange juice."
+        },
+        {
+          "q": "Escribe sobre un regalo: <b>My … gave me… / I bought…</b>",
+          "lines": 1,
+          "a": "Ej.: My grandma gave me a book for my birthday."
+        },
+        {
+          "q": "Inventa un mini cuento con 4 verbos irregulares (went, saw, found, ran…).",
+          "lines": 3,
+          "a": "Ej.: One day I went to the forest. I saw a little fox. It found my sandwich and ran away!"
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé que los verbos irregulares <b>no llevan -ed</b>.",
+      "en": "I know irregular verbs don't take -ed."
+    },
+    {
+      "es": "Me sé las familias: -ought, -ew, cambio a A / O, -t, -d…",
+      "en": "I know the verb families."
+    },
+    {
+      "es": "Sé que cut, put, hit, hurt y read <b>no cambian</b>.",
+      "en": "I know cut, put, hit, hurt and read don't change."
+    },
+    {
+      "es": "Me sé los rebeldes: go → <b>went</b>, see → <b>saw</b>, eat → <b>ate</b>…",
+      "en": "I know the rebels: went, saw, ate…"
+    },
+    {
+      "es": "Nunca escribo <s>goed</s>, <s>buyed</s> ni <s>wented</s>.",
+      "en": "I never write goed, buyed or wented."
+    },
+    {
+      "es": "Digo <b>took</b> a photo y <b>did</b> my homework.",
+      "en": "I say took a photo and did my homework."
+    }
+  ]
+}

@@ -1,0 +1,1510 @@
+{
+  "id": "C1-01",
+  "level": "C1",
+  "title": "INVERSIÓN AVANZADA",
+  "file_title": "Inversión avanzada",
+  "subtitle": "Advanced inversion · énfasis y registro formal",
+  "icon": "🔄",
+  "map": {
+    "center": "Ponemos una <b>expresión negativa o restrictiva</b> al principio e <b>invertimos</b>: <b>auxiliar + sujeto</b>. Suena formal y enfático.",
+    "nodes": [
+      {
+        "title": "¿Qué es?",
+        "icon": "🔎",
+        "items": [
+          "Expresión negativa al inicio → <b>aux + sujeto</b>",
+          "Never <b>have I</b> seen… <i>(Nunca he visto…)</i>",
+          "Sin auxiliar → <b>do / does / did</b> + infinitivo"
+        ]
+      },
+      {
+        "title": "Adverbios negativos",
+        "icon": "🚫",
+        "art": "🎩",
+        "items": [
+          "<b>Never / Rarely / Seldom</b> + aux + sujeto",
+          "<b>Hardly</b> had I… <b>when</b>…",
+          "<b>No sooner</b> had I… <b>than</b>…",
+          "<b>Little did</b> they know…"
+        ]
+      },
+      {
+        "title": "Not only… y Only…",
+        "icon": "➕",
+        "items": [
+          "Not only <b>did she</b> win, but she also…",
+          "Only then <b>did we</b> realise…",
+          "Only when it ended <b>did I</b> understand."
+        ]
+      },
+      {
+        "title": "Condicionales formales",
+        "icon": "📜",
+        "rows": [
+          [
+            "Had I known",
+            "= If I had known"
+          ],
+          [
+            "Were I you",
+            "= If I were you"
+          ],
+          [
+            "Should you need",
+            "= If you need"
+          ]
+        ],
+        "after": "Negativa: <b>Had I not</b>… <s>Hadn't I</s>"
+      },
+      {
+        "title": "Cuándo usarla",
+        "icon": "🎤",
+        "art": "📰",
+        "items": [
+          "Discursos, prensa, informes, essays",
+          "Narración dramática o enfática",
+          "Emails: <b>Should you</b> have any questions…"
+        ]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "items": [
+          "Ordena como una pregunta: <b>have I</b>, <b>did she</b>",
+          "Not until / Only after → inviertes <b>después</b>",
+          "<b>In no time</b> no es negativo → sin inversión"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "Never I have seen such chaos."
+      ],
+      "good": [
+        "Never have I seen such chaos."
+      ],
+      "note": "negativa delante → <b>auxiliar + sujeto</b>"
+    },
+    "mini": {
+      "es": "Completa con la inversión correcta.",
+      "en": "Complete with the correct inversion.",
+      "items": [
+        {
+          "q": "Rarely ____ late for work.",
+          "a": "is she",
+          "hint": "she / be"
+        },
+        {
+          "q": "Little ____ what was coming.",
+          "a": "did we know",
+          "hint": "we / know"
+        },
+        {
+          "q": "No sooner had I sat down ___ the phone rang.",
+          "a": "than"
+        },
+        {
+          "q": "____ you need help, call me.",
+          "a": "Should",
+          "hint": "= If"
+        },
+        {
+          "q": "____ I known, I'd have come.",
+          "a": "Had"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "La <b>inversión</b> consiste en colocar el <b>auxiliar delante del sujeto</b> —como en una pregunta— en una frase que <u>no</u> es pregunta. Ocurre cuando empezamos con una <mark>expresión negativa o restrictiva</mark> (<i>never, rarely, hardly, not only, only then, under no circumstances…</i>) y en las <b>condicionales formales sin <i>if</i></b> (<i>Had I known…</i>). El significado no cambia: cambian el <b>énfasis</b> y el <b>registro</b>, que se vuelve formal, retórico o literario.",
+      "en": "<b>Inversion</b> means putting the <b>auxiliary before the subject</b>, as in a question, in a sentence that is not a question. It follows a fronted <mark>negative or restrictive expression</mark> and appears in formal conditionals without <i>if</i>. The meaning stays the same; the effect is <b>emphasis</b> and a <b>formal</b> tone.",
+      "formula": [
+        "Expresión negativa + *auxiliar* + sujeto + verbo principal",
+        "Never + *have* + I + seen such chaos."
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Adverbios negativos",
+      "title_en": "Negative adverbials",
+      "icon": "🚫",
+      "color": "blue",
+      "es": "Con <b>never (before)</b>, <b>rarely</b>, <b>seldom</b>, <b>hardly ever</b>, <b>not once</b>, <b>at no time</b> y <b>nowhere</b> al inicio, invertimos auxiliar y sujeto. Si la frase neutra no tiene auxiliar (present o past simple), añadimos <b>do / does / did</b> y el verbo vuelve al <b>infinitivo</b>. Con el verbo <i>be</i> invertimos el propio verbo: <i>Rarely <b>is</b> he late.</i>",
+      "en": "After fronted <b>never, rarely, seldom, hardly ever, not once, at no time</b> and <b>nowhere</b>, invert auxiliary and subject. With no auxiliary, add <b>do/does/did</b> + bare infinitive.",
+      "formula": [
+        "Never / Rarely / Seldom + *have / do / did / is* + sujeto + verbo"
+      ],
+      "examples": [
+        {
+          "en": "<b>Never have I</b> witnessed such a remarkable recovery.",
+          "es": "Nunca he presenciado una recuperación tan notable.",
+          "icon": "📈"
+        },
+        {
+          "en": "<b>Rarely does</b> the board <b>approve</b> a budget without amendments.",
+          "es": "Rara vez aprueba el consejo un presupuesto sin enmiendas.",
+          "icon": "📊"
+        },
+        {
+          "en": "<b>At no time was</b> the public informed of the risks.",
+          "es": "En ningún momento se informó al público de los riesgos.",
+          "icon": "📢"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Hardly… when / No sooner… than",
+      "title_en": "One thing right after another",
+      "icon": "⏱️",
+      "color": "orange",
+      "es": "Sirven para decir que algo ocurrió <mark>justo después</mark> de otra cosa (<i>nada más…, apenas…, en cuanto…</i>). La primera acción va en <b>past perfect invertido</b> y la segunda en <b>past simple</b>. Ojo con la pareja: <b>hardly / scarcely / barely … when</b>, pero <b>no sooner … than</b>. Mezclarlas (<s>no sooner… when</s>) es un error clásico en el C1.",
+      "en": "One action immediately followed by another: inverted <b>past perfect</b> + <b>past simple</b>. <b>Hardly / Scarcely / Barely … when</b>, but <b>No sooner … than</b>.",
+      "formula": [
+        "Hardly / Scarcely / Barely + *had* + sujeto + participio + *when* + past simple",
+        "No sooner + *had* + sujeto + participio + *than* + past simple"
+      ],
+      "examples": [
+        {
+          "en": "<b>Hardly had</b> the minister begun her speech <b>when</b> protesters interrupted her.",
+          "es": "Apenas había empezado la ministra su discurso cuando unos manifestantes la interrumpieron.",
+          "icon": "🎤"
+        },
+        {
+          "en": "<b>No sooner had</b> we signed the contract <b>than</b> the supplier raised its prices.",
+          "es": "Nada más firmar el contrato, el proveedor subió los precios.",
+          "icon": "✍️"
+        },
+        {
+          "en": "<b>Scarcely had</b> the plane landed <b>when</b> the storm broke.",
+          "es": "Apenas había aterrizado el avión cuando estalló la tormenta.",
+          "icon": "✈️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Not only… but (also)",
+      "title_en": "Not only… but also",
+      "icon": "➕",
+      "color": "green",
+      "es": "Sirve para <b>sumar dos ideas</b> con énfasis (<i>no solo…, sino que además…</i>). Solo se invierte la <mark>primera parte</mark>; la segunda (<i>but … also</i>) lleva orden normal. <i>Also</i> va en su posición habitual (<i>but she <b>also</b> won…</i>). Si <b>not only</b> no está al principio de la oración, <u>no</u> hay inversión: <i>She not only won but also…</i>",
+      "en": "Invert only the first clause; the <i>but (also)</i> clause keeps normal word order. No inversion if <b>not only</b> is not at the start.",
+      "formula": [
+        "Not only + *aux* + sujeto + verbo…, + but + sujeto + *also* + verbo…"
+      ],
+      "examples": [
+        {
+          "en": "<b>Not only did</b> the company <b>miss</b> its targets, <b>but</b> it <b>also</b> lost two key clients.",
+          "es": "La empresa no solo no alcanzó sus objetivos, sino que además perdió dos clientes clave.",
+          "icon": "📉"
+        },
+        {
+          "en": "<b>Not only is</b> the proposal expensive, <b>but</b> it is <b>also</b> impractical.",
+          "es": "La propuesta no solo es cara, sino también poco práctica.",
+          "icon": "💸"
+        },
+        {
+          "en": "<b>Not only has</b> she written three novels, <b>but</b> she has <b>also</b> directed two films.",
+          "es": "No solo ha escrito tres novelas, sino que también ha dirigido dos películas.",
+          "icon": "📚"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Only… y Not until",
+      "title_en": "Only… / Not until",
+      "icon": "☝️",
+      "color": "purple",
+      "es": "Con <b>only</b> + tiempo o condición (<i>only then, only later, only after…, only when…, only if…, only by + -ing</i>) y con <b>not until</b>, la inversión va en la <mark>oración principal</mark>, nunca en la subordinada: <i>Only when the results arrived <b>did we</b> understand</i> ✓ — <s>Only when did the results arrive we understood</s>. Si <i>only</i> acompaña al sujeto (<i>Only Laura knew</i>), no hay inversión.",
+      "en": "With <b>only + time/condition</b> and <b>not until</b>, invert the <b>main clause</b>, not the subordinate one. No inversion when <i>only</i> modifies the subject.",
+      "formula": [
+        "Only when / Only after / Not until + cláusula + *aux* + sujeto + verbo",
+        "Only then / Only by + -ing + *aux* + sujeto + verbo"
+      ],
+      "examples": [
+        {
+          "en": "<b>Only when</b> the audit was completed <b>did</b> the scale of the fraud <b>become</b> clear.",
+          "es": "Solo cuando se completó la auditoría quedó clara la magnitud del fraude.",
+          "icon": "🔍"
+        },
+        {
+          "en": "<b>Not until</b> 2019 <b>did</b> the law <b>come</b> into force.",
+          "es": "La ley no entró en vigor hasta 2019.",
+          "icon": "⚖️"
+        },
+        {
+          "en": "<b>Only by</b> cutting costs <b>will we</b> survive this crisis.",
+          "es": "Solo recortando costes sobreviviremos a esta crisis.",
+          "icon": "✂️"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Expresiones negativas fijas",
+      "title_en": "Fixed negative phrases",
+      "icon": "⛔",
+      "color": "red",
+      "es": "<b>Under no circumstances</b> / <b>on no account</b> (bajo ningún concepto), <b>in no way</b> (en modo alguno), <b>little</b> (= no tenían ni idea; con <i>know, realise, suspect, imagine</i>) y <b>not a single + nombre</b>. Son típicas de normas, advertencias y relatos. Cuidado: <b>in no time</b> (en un abrir y cerrar de ojos) <u>no</u> es negativa → sin inversión.",
+      "en": "<b>Under no circumstances, on no account, in no way, little</b> and <b>not a single…</b> trigger inversion. <b>In no time</b> (= very quickly) does not.",
+      "formula": [
+        "Under no circumstances / On no account + *should / must / will* + sujeto + verbo",
+        "Little + *did* + sujeto + know / realise / suspect…"
+      ],
+      "examples": [
+        {
+          "en": "<b>Under no circumstances should</b> passwords <b>be shared</b> with third parties.",
+          "es": "Bajo ningún concepto deben compartirse las contraseñas con terceros.",
+          "icon": "🔐"
+        },
+        {
+          "en": "<b>Little did</b> they <b>know</b> that the deal would collapse within a week.",
+          "es": "Poco se imaginaban que el acuerdo se vendría abajo en una semana.",
+          "icon": "🤷"
+        },
+        {
+          "en": "<b>On no account must</b> this door <b>be left</b> unlocked.",
+          "es": "Esta puerta no debe quedarse sin cerrar con llave en ningún caso.",
+          "icon": "🚪"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · So… that / Such… that",
+      "title_en": "So / Such + inversion",
+      "icon": "💥",
+      "color": "teal",
+      "es": "Para enfatizar una <b>consecuencia</b> adelantamos <b>so + adjetivo/adverbio</b> o <b>such</b> (= tan grande, de tal calibre). Después van el verbo (<i>be</i> o auxiliar), el sujeto y <b>that</b>. Con <b>such</b>, el verbo es <i>be</i> y concuerda con el sujeto que va detrás: <i>Such <b>was</b> the demand…</i> / <i>Such <b>were</b> the delays…</i> Muy propio de prensa y literatura.",
+      "en": "Front <b>so + adjective/adverb</b> or <b>such + be</b>, then verb + subject + a <b>that</b>-clause.",
+      "formula": [
+        "So + adjetivo + *be / aux* + sujeto + that…",
+        "Such + *be* + sujeto + that…"
+      ],
+      "examples": [
+        {
+          "en": "<b>So successful was</b> the campaign <b>that</b> it was extended for a further year.",
+          "es": "La campaña tuvo tanto éxito que se prorrogó un año más.",
+          "icon": "🚀"
+        },
+        {
+          "en": "<b>Such was</b> the demand <b>that</b> tickets sold out within minutes.",
+          "es": "Era tal la demanda que las entradas se agotaron en pocos minutos.",
+          "icon": "🎟️"
+        },
+        {
+          "en": "<b>So quickly did</b> the news <b>spread that</b> the company issued a statement within the hour.",
+          "es": "La noticia se difundió tan rápido que la empresa emitió un comunicado en menos de una hora.",
+          "icon": "📰"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "7 · Condicionales invertidas",
+      "title_en": "Inverted conditionals",
+      "icon": "📜",
+      "color": "pink",
+      "es": "En registro formal podemos <b>suprimir <i>if</i></b> e invertir: <b>Had</b> (3.ª condicional), <b>Were</b> (2.ª, también <i>were to</i>) y <b>Should</b> (1.ª, = si por casualidad). La negativa <u>no</u> se contrae: <b>Had I not</b> known ✓ — <s>Hadn't I known</s>. Con <b>were</b>, siempre <i>were</i>, también con I/he/she: <s>Was I</s>. <i>Should you…</i> es la fórmula estrella de los emails formales.",
+      "en": "In formal English, drop <i>if</i> and invert <b>had, were</b> or <b>should</b>. Negatives are not contracted: <b>Had I not…</b>",
+      "formula": [
+        "*Had* + sujeto + participio…, would have + participio",
+        "*Were* + sujeto + (to + infinitivo)…, would + infinitivo",
+        "*Should* + sujeto + infinitivo…, will / imperativo"
+      ],
+      "examples": [
+        {
+          "en": "<b>Had</b> we <b>known</b> about the strike, we would have rescheduled the meeting.",
+          "es": "Si hubiéramos sabido lo de la huelga, habríamos cambiado la fecha de la reunión.",
+          "icon": "🗓️"
+        },
+        {
+          "en": "<b>Were</b> the government <b>to raise</b> taxes, consumer spending would fall.",
+          "es": "Si el Gobierno subiera los impuestos, el consumo caería.",
+          "icon": "🏛️"
+        },
+        {
+          "en": "<b>Should</b> you <b>have</b> any queries, please do not hesitate to contact me.",
+          "es": "Si tiene cualquier duda, no dude en ponerse en contacto conmigo.",
+          "icon": "📧"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Condicionales: de neutro a formal",
+      "title_en": "Conditionals: neutral → formal",
+      "icon": "📜",
+      "color": "pink",
+      "head": [
+        "Con if · Neutral",
+        "Sin if · Formal (inversión)"
+      ],
+      "rows": [
+        [
+          "If I had known…",
+          "<b>Had I</b> known…"
+        ],
+        [
+          "If I hadn't known…",
+          "<b>Had I not</b> known…"
+        ],
+        [
+          "If I were in your position…",
+          "<b>Were I</b> in your position…"
+        ],
+        [
+          "If she were to resign…",
+          "<b>Were she to</b> resign…"
+        ],
+        [
+          "If it weren't for your help…",
+          "<b>Were it not for</b> your help…"
+        ],
+        [
+          "If it hadn't been for the rain…",
+          "<b>Had it not been for</b> the rain…"
+        ],
+        [
+          "If you need anything…",
+          "<b>Should you</b> need anything…"
+        ],
+        [
+          "If you don't receive it…",
+          "<b>Should you not</b> receive it…"
+        ]
+      ],
+      "note": "Solo se pueden invertir <b>had, were</b> y <b>should</b>: nunca <s>Did I know…</s> ni <s>Would you need…</s>. El <b>not</b> va detrás del sujeto.",
+      "note_en": "Only <b>had, were</b> and <b>should</b> can replace if. <b>Not</b> goes after the subject."
+    },
+    {
+      "t": "compare",
+      "title": "Neutro frente a enfático",
+      "title_en": "Neutral vs emphatic",
+      "icon": "⚖️",
+      "color": "blue",
+      "es": "La inversión no cambia el significado, sino el <b>tono</b>: más solemne, más dramático, más formal. Úsala en un <i>essay</i>, un informe o un discurso, no para pedir un café.",
+      "en": "Inversion changes the <b>tone</b>, not the meaning: more solemn, dramatic and formal.",
+      "cols": [
+        {
+          "head": "💬 Neutro · Neutral",
+          "color": "blue",
+          "items": [
+            "I've never seen anything like it.",
+            "As soon as we arrived, it started to rain.",
+            "She didn't realise the danger.",
+            "If you need more information, call us.",
+            "We only understood it later."
+          ]
+        },
+        {
+          "head": "🎩 Formal / enfático · Emphatic",
+          "color": "purple",
+          "items": [
+            "Never <b>have I</b> seen anything like it.",
+            "No sooner <b>had we</b> arrived than it started to rain.",
+            "Little <b>did she</b> realise the danger.",
+            "<b>Should you</b> need more information, call us.",
+            "Only later <b>did we</b> understand it."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos en contexto",
+      "title_en": "More examples in context",
+      "items": [
+        {
+          "en": "<b>Seldom has</b> a single decision had such far-reaching consequences.",
+          "es": "Pocas veces una sola decisión ha tenido consecuencias de tanto alcance.",
+          "icon": "⚖️"
+        },
+        {
+          "en": "<b>Not once did</b> the chairman acknowledge the shareholders' concerns.",
+          "es": "Ni una sola vez reconoció el presidente las inquietudes de los accionistas.",
+          "icon": "🏢"
+        },
+        {
+          "en": "<b>Barely had</b> the polls closed <b>when</b> the first results were announced.",
+          "es": "Apenas habían cerrado los colegios electorales cuando se anunciaron los primeros resultados.",
+          "icon": "🗳️"
+        },
+        {
+          "en": "<b>Only if</b> all parties agree <b>will</b> the treaty be ratified.",
+          "es": "Solo si todas las partes están de acuerdo se ratificará el tratado.",
+          "icon": "🤝"
+        },
+        {
+          "en": "<b>Nowhere is</b> the housing crisis more acute than in the capital.",
+          "es": "En ningún lugar es tan grave la crisis de la vivienda como en la capital.",
+          "icon": "🏙️"
+        },
+        {
+          "en": "<b>In no way does</b> this statement reflect the views of the university.",
+          "es": "Esta declaración no refleja en modo alguno la opinión de la universidad.",
+          "icon": "🎓"
+        },
+        {
+          "en": "<b>Had it not been for</b> her intervention, the negotiations would have failed.",
+          "es": "De no haber sido por su intervención, las negociaciones habrían fracasado.",
+          "icon": "🕊️"
+        },
+        {
+          "en": "<b>Were it not for</b> tourism, the island's economy would collapse.",
+          "es": "Si no fuera por el turismo, la economía de la isla se hundiría.",
+          "icon": "🏝️"
+        },
+        {
+          "en": "<b>Such was</b> the impact of the report <b>that</b> the minister resigned.",
+          "es": "Tal fue el impacto del informe que el ministro dimitió.",
+          "icon": "📄"
+        },
+        {
+          "en": "<b>Only after</b> months of negotiation <b>was</b> an agreement reached.",
+          "es": "Solo tras meses de negociación se alcanzó un acuerdo.",
+          "icon": "📝"
+        },
+        {
+          "en": "The firm did not deny the allegations, <b>nor did it</b> offer an apology.",
+          "es": "La empresa no negó las acusaciones ni ofreció disculpas.",
+          "icon": "🙊"
+        },
+        {
+          "en": "<b>Not a single word did</b> he say during the entire meeting.",
+          "es": "No dijo ni una sola palabra en toda la reunión.",
+          "icon": "🤐"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Tabla resumen",
+      "title_en": "Summary table",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Expresión · Expression",
+        "Significado",
+        "Estructura",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "Never (before) / Rarely / Seldom",
+          "nunca / rara vez / pocas veces",
+          "+ aux + sujeto + verbo",
+          "Seldom <b>have we</b> faced such a challenge."
+        ],
+        [
+          "Hardly / Scarcely / Barely … <b>when</b>",
+          "apenas … cuando",
+          "+ had + sujeto + participio … when + pasado",
+          "Hardly <b>had she</b> left when it began to rain."
+        ],
+        [
+          "No sooner … <b>than</b>",
+          "nada más … / en cuanto …",
+          "+ had + sujeto + participio … than + pasado",
+          "No sooner <b>had he</b> sat down than the phone rang."
+        ],
+        [
+          "Not only … but (also)",
+          "no solo … sino (también)",
+          "1.ª parte invertida, 2.ª normal",
+          "Not only <b>did they</b> apologise, but they also paid."
+        ],
+        [
+          "Only then / Only later",
+          "solo entonces / solo más tarde",
+          "+ aux + sujeto + verbo",
+          "Only then <b>did I</b> realise the truth."
+        ],
+        [
+          "Only when / after / if / by…",
+          "solo cuando / después de / si / mediante",
+          "subordinada normal + <b>principal invertida</b>",
+          "Only after the vote <b>did they</b> react."
+        ],
+        [
+          "Not until",
+          "no … hasta",
+          "subordinada normal + <b>principal invertida</b>",
+          "Not until midnight <b>did the talks</b> end."
+        ],
+        [
+          "Under no circumstances / On no account",
+          "bajo ningún concepto",
+          "+ should / must / will + sujeto",
+          "On no account <b>should you</b> sign it."
+        ],
+        [
+          "At no time / In no way",
+          "en ningún momento / en modo alguno",
+          "+ aux + sujeto + verbo",
+          "At no time <b>was I</b> consulted."
+        ],
+        [
+          "Little",
+          "poco imaginaba / no tenía ni idea",
+          "+ did + sujeto + know / realise…",
+          "Little <b>did we</b> suspect anything."
+        ],
+        [
+          "Nowhere",
+          "en ningún sitio",
+          "+ aux + sujeto + verbo",
+          "Nowhere <b>is</b> this clearer than in housing."
+        ],
+        [
+          "So … that / Such … that",
+          "tan … que / tal … que",
+          "So + adj + be + sujeto / Such + be + sujeto",
+          "So severe <b>was</b> the damage that…"
+        ],
+        [
+          "Had / Were / Should (sin if)",
+          "si …",
+          "Had I known… / Were I… / Should you…",
+          "Should <b>you</b> need help, call us."
+        ]
+      ],
+      "note": "Todas estas expresiones solo provocan inversión cuando van <b>al principio</b> de la oración. En posición normal, orden normal: <i>I have <b>never</b> seen it</i> / <i>We <b>rarely</b> go out.</i>",
+      "note_en": "These expressions only trigger inversion when they come <b>first</b> in the clause."
+    },
+    {
+      "t": "errors",
+      "monster": "error",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "Never I have seen such a mess.",
+          "good": "Never <b>have I</b> seen such a mess.",
+          "why": "Negativa al inicio → auxiliar delante del sujeto.",
+          "why_en": "Negative first → auxiliary + subject."
+        },
+        {
+          "bad": "Rarely we go out on weekdays.",
+          "good": "Rarely <b>do we</b> go out on weekdays.",
+          "why": "Sin auxiliar, hay que añadir do / does / did.",
+          "why_en": "No auxiliary? Add do / does / did."
+        },
+        {
+          "bad": "Little they knew what was coming.",
+          "good": "Little <b>did they know</b> what was coming.",
+          "why": "Con did, el verbo va en infinitivo: know, no <s>knew</s>.",
+          "why_en": "did + bare infinitive."
+        },
+        {
+          "bad": "No sooner had we arrived when the alarm went off.",
+          "good": "No sooner had we arrived <b>than</b> the alarm went off.",
+          "why": "No sooner … than; hardly / scarcely … when.",
+          "why_en": "No sooner … than; hardly … when."
+        },
+        {
+          "bad": "Not only she speaks Chinese, but she also speaks Arabic.",
+          "good": "Not only <b>does she speak</b> Chinese, but she also speaks Arabic.",
+          "why": "Not only al inicio → inversión en la 1.ª parte.",
+          "why_en": "Invert the first clause."
+        },
+        {
+          "bad": "Only when did I read the report I understood it.",
+          "good": "Only when I read the report <b>did I understand</b> it.",
+          "why": "Se invierte la oración principal, no la de when.",
+          "why_en": "Invert the main clause."
+        },
+        {
+          "bad": "Hadn't I been so busy, I would have helped.",
+          "good": "<b>Had I not</b> been so busy, I would have helped.",
+          "why": "En la condicional invertida no se contrae el not.",
+          "why_en": "No contraction: Had I not…"
+        },
+        {
+          "bad": "Was I in your position, I would resign.",
+          "good": "<b>Were I</b> in your position, I would resign.",
+          "why": "Condicional invertida: siempre were, también con I.",
+          "why_en": "Always were, even with I."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo una inversión?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Escribe la frase <b>neutra</b>: <i>I had never seen such chaos.</i>",
+          "en": "Write the neutral sentence."
+        },
+        {
+          "es": "Lleva la <b>expresión negativa o restrictiva</b> al principio: <i>Never…</i>",
+          "en": "Move the negative expression to the front."
+        },
+        {
+          "es": "Busca el <b>primer auxiliar</b> (have, be, will, can, should…). Si no hay, usa <b>do / does / did</b> en el tiempo correcto y deja el verbo en infinitivo.",
+          "en": "Find the first auxiliary; if there isn't one, add do / does / did."
+        },
+        {
+          "es": "Pon el auxiliar <b>delante del sujeto</b>, como en una pregunta: <i>Never <b>had I</b> seen such chaos.</i>",
+          "en": "Put the auxiliary before the subject."
+        },
+        {
+          "es": "Con <i>only when / only after / not until</i>, invierte la <b>principal</b>; con <i>not only</i>, solo la <b>primera parte</b>.",
+          "en": "Only when / not until: invert the main clause. Not only: the first clause only."
+        },
+        {
+          "es": "Revisa el <b>registro</b>: ¿texto formal, discurso, relato? En una charla informal, mejor la versión neutra.",
+          "en": "Check the register: formal text, speech or narrative?"
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Rueda de prensa",
+      "title_en": "Press conference",
+      "lines": [
+        {
+          "who": "Journalist",
+          "en": "Did the company know about the safety problems before the launch?",
+          "es": "¿Sabía la empresa de los problemas de seguridad antes del lanzamiento?"
+        },
+        {
+          "who": "CEO",
+          "en": "Absolutely not. At no time were we informed of any defect.",
+          "es": "En absoluto. En ningún momento se nos informó de ningún defecto."
+        },
+        {
+          "who": "Journalist",
+          "en": "So when did you find out?",
+          "es": "Entonces, ¿cuándo se enteraron?"
+        },
+        {
+          "who": "CEO",
+          "en": "Only when the first complaints came in did we realise how serious it was.",
+          "es": "Solo cuando llegaron las primeras quejas nos dimos cuenta de la gravedad."
+        },
+        {
+          "who": "Journalist",
+          "en": "And what have you done since then?",
+          "es": "¿Y qué han hecho desde entonces?"
+        },
+        {
+          "who": "CEO",
+          "en": "Not only have we recalled every unit, but we have also offered full refunds.",
+          "es": "No solo hemos retirado todas las unidades, sino que también hemos ofrecido reembolsos completos."
+        },
+        {
+          "who": "Journalist",
+          "en": "Can you guarantee it won't happen again?",
+          "es": "¿Puede garantizar que no volverá a ocurrir?"
+        },
+        {
+          "who": "CEO",
+          "en": "Under no circumstances will we allow this to happen again. Should any customer have concerns, our helpline is open 24/7.",
+          "es": "Bajo ningún concepto permitiremos que vuelva a ocurrir. Si algún cliente tiene dudas, nuestra línea de atención está abierta 24 horas."
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del registro",
+      "title_en": "Register tip",
+      "es": "Piensa en la inversión como en un <b>traje de gala</b> 🎩: perfecta en un <i>essay</i>, un informe, un discurso o un email formal (<b>Should you…</b>), pero rara en una charla con amigos, donde solo sobreviven fórmulas como <i>Little did I know…</i> En el writing del C1, <b>una o dos</b> inversiones bien colocadas demuestran <i>range</i>; diez seguidas suenan artificiales.",
+      "en": "Inversion is <b>formal dress</b>: perfect for essays, reports, speeches and formal emails, odd in casual chat. In a C1 writing task, use one or two, not ten."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify",
+      "title": "¿Inversión o no?",
+      "title_en": "Inversion or not?",
+      "icon": "🗂️",
+      "es": "Imagina que cada expresión va al principio de la frase. ¿Obliga a invertir (aux + sujeto) o no? Escríbela en su caja.",
+      "en": "Imagine each expression starts the sentence. Does it trigger inversion?",
+      "cats": [
+        {
+          "name": "Inversión ✓",
+          "words": [
+            "Never before",
+            "Seldom",
+            "Only then",
+            "Not until",
+            "Little",
+            "On no account"
+          ]
+        },
+        {
+          "name": "Sin inversión ✗",
+          "words": [
+            "In no time",
+            "Only Laura",
+            "Hardly anyone",
+            "Not long ago",
+            "Sometimes",
+            "Nevertheless"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct option",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta. Fíjate en qué hay al principio de la frase.",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "Never [I have|have I] seen such a well-organised event.",
+          "a": "have I"
+        },
+        {
+          "q": "Rarely [do we receive|we receive] complaints about this product.",
+          "a": "do we receive"
+        },
+        {
+          "q": "No sooner had the meeting started [than|when] the power went off.",
+          "a": "than"
+        },
+        {
+          "q": "Hardly had I opened the file [than|when] the system crashed.",
+          "a": "when"
+        },
+        {
+          "q": "Little [did she know|she knew] that her life was about to change.",
+          "a": "did she know"
+        },
+        {
+          "q": "Only after the vote [the results were|were the results] announced.",
+          "a": "were the results"
+        },
+        {
+          "q": "Not only [the hotel was|was the hotel] overpriced, but it was also dirty.",
+          "a": "was the hotel"
+        },
+        {
+          "q": "[Had|Would] I known about the delay, I would have taken a later train.",
+          "a": "Had"
+        },
+        {
+          "q": "[Was|Were] I in your position, I would accept the offer.",
+          "a": "Were"
+        },
+        {
+          "q": "In no time [we had|had we] solved the problem.",
+          "a": "we had"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Correcta o incorrecta?",
+      "title_en": "Correct or incorrect?",
+      "icon": "⚖️",
+      "es": "Marca T si la frase es correcta y F si es incorrecta. Si es incorrecta, corrígela en tu cuaderno.",
+      "en": "Tick T if the sentence is correct and F if it is wrong.",
+      "items": [
+        {
+          "q": "Hardly anyone attended the conference.",
+          "a": true,
+          "why": "hardly anyone = casi nadie; no hay inversión."
+        },
+        {
+          "q": "Rarely the CEO gives interviews.",
+          "a": false,
+          "why": "Rarely does the CEO give interviews."
+        },
+        {
+          "q": "Only Marta knew the answer.",
+          "a": true,
+          "why": "only acompaña al sujeto: sin inversión."
+        },
+        {
+          "q": "Not until I saw the figures did I believe it.",
+          "a": true
+        },
+        {
+          "q": "No sooner had the train departed than I realised my bag was still on the platform.",
+          "a": true
+        },
+        {
+          "q": "Should you not agree with the terms, you may cancel within 14 days.",
+          "a": true,
+          "why": "negativa formal: Should you not…"
+        },
+        {
+          "q": "Under no circumstances you should touch the wires.",
+          "a": false,
+          "why": "Under no circumstances should you touch the wires."
+        },
+        {
+          "q": "Not only did she apologise, but also did she offer compensation.",
+          "a": false,
+          "why": "…but she also offered compensation."
+        },
+        {
+          "q": "Were I to win the lottery, I would travel the world.",
+          "a": true
+        },
+        {
+          "q": "Never before the city had seen such crowds.",
+          "a": false,
+          "why": "Never before had the city seen such crowds."
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une las dos mitades",
+      "title_en": "Match the halves",
+      "icon": "🔗",
+      "es": "Une el principio de cada frase con su final.",
+      "en": "Match the beginnings with the endings.",
+      "pairs": [
+        [
+          "No sooner had the CEO resigned",
+          "than the share price rose."
+        ],
+        [
+          "Hardly had we sat down to dinner",
+          "when the doorbell rang."
+        ],
+        [
+          "Not only did the report criticise the minister,",
+          "but it also called for her resignation."
+        ],
+        [
+          "Only when the auditors arrived",
+          "did the full extent of the losses emerge."
+        ],
+        [
+          "Under no circumstances",
+          "should the emergency exit be blocked."
+        ],
+        [
+          "Should you wish to cancel your subscription,",
+          "please contact customer services."
+        ],
+        [
+          "Had the warning been taken seriously,",
+          "the disaster could have been avoided."
+        ],
+        [
+          "So convincing was her argument",
+          "that the committee changed its decision."
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "La palabra que falta",
+      "title_en": "The missing word",
+      "icon": "🧩",
+      "es": "Completa cada frase con una palabra del recuadro. Usa cada palabra una vez.",
+      "en": "Complete each sentence with one word from the box.",
+      "bank": [
+        "than",
+        "when",
+        "but",
+        "did",
+        "had",
+        "should",
+        "were",
+        "not",
+        "so",
+        "such"
+      ],
+      "items": [
+        {
+          "q": "No sooner had the film started ___ the fire alarm went off.",
+          "a": "than"
+        },
+        {
+          "q": "Scarcely had they left the building ___ it collapsed.",
+          "a": "when"
+        },
+        {
+          "q": "Not only did he lie to the press, ___ he also misled Parliament.",
+          "a": "but"
+        },
+        {
+          "q": "Only later ___ we discover the truth about the merger.",
+          "a": "did"
+        },
+        {
+          "q": "___ I known you were coming, I would have prepared a room.",
+          "a": "Had"
+        },
+        {
+          "q": "___ you require any further assistance, please contact us.",
+          "a": "Should"
+        },
+        {
+          "q": "___ it not for your support, I would not be here today.",
+          "a": "Were"
+        },
+        {
+          "q": "Had the company ___ invested in training, it would have lost its best staff.",
+          "a": "not"
+        },
+        {
+          "q": "___ loud was the music that the neighbours called the police.",
+          "a": "So"
+        },
+        {
+          "q": "___ was the turnout that extra chairs had to be brought in.",
+          "a": "Such"
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Auxiliar + sujeto + verbo",
+      "title_en": "Auxiliary + subject + verb",
+      "icon": "🔧",
+      "es": "Completa con la inversión correcta usando las palabras entre paréntesis. Ojo con el tiempo verbal y con do / does / did.",
+      "en": "Complete with the correct inversion. Use the words in brackets.",
+      "items": [
+        {
+          "q": "Never before _____ so many people at a product launch.",
+          "hint": "we / see · present perfect",
+          "a": "have we seen"
+        },
+        {
+          "q": "Rarely _____ late for a meeting.",
+          "hint": "the director / be · present",
+          "a": "is the director"
+        },
+        {
+          "q": "Seldom _____ such a generous offer.",
+          "hint": "I / receive · past simple",
+          "a": "did I receive"
+        },
+        {
+          "q": "Not once _____ for help during the project.",
+          "hint": "she / ask · past simple",
+          "a": "did she ask"
+        },
+        {
+          "q": "At no time _____ that their data would be shared.",
+          "hint": "the clients / tell · passive, past",
+          "a": "were the clients told"
+        },
+        {
+          "q": "Little _____ that the email had been sent to everyone.",
+          "hint": "he / realise · past",
+          "a": "did he realise"
+        },
+        {
+          "q": "Under no circumstances _____ confidential documents home.",
+          "hint": "staff / should / take",
+          "a": "should staff take"
+        },
+        {
+          "q": "Only by working together _____ this problem.",
+          "hint": "we / solve · future",
+          "a": "will we solve"
+        },
+        {
+          "q": "Nowhere _____ a better view of the city.",
+          "hint": "you / find · can",
+          "a": ["can you find", "will you find"]
+        },
+        {
+          "q": "Not until the contract was signed _____ to celebrate.",
+          "hint": "the team / begin · past simple",
+          "a": "did the team begin"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Condicionales con y sin if",
+      "title_en": "Conditionals with and without if",
+      "icon": "📋",
+      "wide": true,
+      "es": "Completa la casilla vacía: pasa de la forma neutra (con if) a la formal (inversión) o al revés.",
+      "en": "Fill in the empty boxes: neutral (if) ↔ formal (inversion).",
+      "head": [
+        "Con if · Neutral",
+        "Sin if · Formal"
+      ],
+      "rows": [
+        [
+          "If I had known…",
+          "?Had I known…"
+        ],
+        [
+          "If she hadn't called…",
+          "?Had she not called…"
+        ],
+        [
+          "If I were in charge…",
+          "?Were I in charge…"
+        ],
+        [
+          "If they were to win the election…",
+          "?Were they to win the election…"
+        ],
+        [
+          "If it weren't for the subsidies…",
+          "?Were it not for the subsidies…"
+        ],
+        [
+          "If it hadn't been for the rain…",
+          "?Had it not been for the rain…"
+        ],
+        [
+          "If you need any help…",
+          "?Should you need any help…"
+        ],
+        [
+          "?If we had left earlier…",
+          "Had we left earlier…"
+        ],
+        [
+          "?If the client doesn't pay…",
+          "Should the client not pay…"
+        ],
+        [
+          "?If the CEO were to resign…",
+          "Were the CEO to resign…"
+        ]
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras para formar una frase con inversión. Añade mayúscula, comas y punto.",
+      "en": "Put the words in order to make a sentence with inversion.",
+      "items": [
+        {
+          "q": "had / no sooner / I / arrived / than / the phone / rang",
+          "a": "No sooner had I arrived than the phone rang."
+        },
+        {
+          "q": "have / never / such / I / seen / a / view / breathtaking",
+          "a": "Never have I seen such a breathtaking view."
+        },
+        {
+          "q": "did / little / they / that / suspect / was / lying / he",
+          "a": "Little did they suspect that he was lying."
+        },
+        {
+          "q": "should / under no circumstances / you / the door / open",
+          "a": "Under no circumstances should you open the door."
+        },
+        {
+          "q": "only then / realise / I / did / my mistake",
+          "a": "Only then did I realise my mistake."
+        },
+        {
+          "q": "had / known / we / the truth / we / would / have / acted / differently",
+          "a": "Had we known the truth, we would have acted differently."
+        },
+        {
+          "q": "is / so / the / that / cost / high / few / can / afford it",
+          "a": "So high is the cost that few can afford it."
+        },
+        {
+          "q": "not until / did / she / the email / read / she / understand / the problem",
+          "a": "Not until she read the email did she understand the problem."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Empieza por la expresión",
+      "title_en": "Start with the expression",
+      "icon": "🔄",
+      "es": "Reescribe la frase empezando por las palabras entre paréntesis. El significado no debe cambiar.",
+      "en": "Rewrite the sentence starting with the words in brackets.",
+      "items": [
+        {
+          "q": "I have never heard such a convincing argument.",
+          "hint": "Never…",
+          "a": "Never have I heard such a convincing argument."
+        },
+        {
+          "q": "We rarely see such dedication in young employees.",
+          "hint": "Rarely…",
+          "a": "Rarely do we see such dedication in young employees."
+        },
+        {
+          "q": "As soon as she sat down, the phone rang.",
+          "hint": "No sooner…",
+          "a": "No sooner had she sat down than the phone rang."
+        },
+        {
+          "q": "The meeting had only just begun when the CEO stormed out.",
+          "hint": "Hardly…",
+          "a": "Hardly had the meeting begun when the CEO stormed out."
+        },
+        {
+          "q": "He not only forgot the presentation, but he also arrived late.",
+          "hint": "Not only…",
+          "a": "Not only did he forget the presentation, but he also arrived late."
+        },
+        {
+          "q": "We didn't realise how serious the situation was until the next day.",
+          "hint": "Not until…",
+          "a": "Not until the next day did we realise how serious the situation was."
+        },
+        {
+          "q": "You must not leave your luggage unattended under any circumstances.",
+          "hint": "Under no circumstances…",
+          "a": "Under no circumstances must (should) you leave your luggage unattended."
+        },
+        {
+          "q": "She had no idea that the company was about to go bankrupt.",
+          "hint": "Little…",
+          "a": "Little did she know (realise) that the company was about to go bankrupt."
+        },
+        {
+          "q": "I only understood what she meant when I read the report again.",
+          "hint": "Only when…",
+          "a": "Only when I read the report again did I understand what she meant."
+        },
+        {
+          "q": "The storm was so violent that the flight was cancelled.",
+          "hint": "So violent…",
+          "a": "So violent was the storm that the flight was cancelled."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Condicionales sin if",
+      "title_en": "Conditionals without if",
+      "icon": "📜",
+      "es": "Reescribe la frase sin if, empezando por Had, Were o Should.",
+      "en": "Rewrite without if. Start with Had, Were or Should.",
+      "items": [
+        {
+          "q": "If you have any questions, please contact our office.",
+          "a": "Should you have any questions, please contact our office."
+        },
+        {
+          "q": "If I had known about the traffic, I would have left earlier.",
+          "a": "Had I known about the traffic, I would have left earlier."
+        },
+        {
+          "q": "If the company were to relocate, many jobs would be lost.",
+          "a": "Were the company to relocate, many jobs would be lost."
+        },
+        {
+          "q": "If it hadn't been for your advice, I would have made a terrible mistake.",
+          "a": "Had it not been for your advice, I would have made a terrible mistake."
+        },
+        {
+          "q": "If it weren't for the subsidies, the farm would close.",
+          "a": "Were it not for the subsidies, the farm would close."
+        },
+        {
+          "q": "If the parcel doesn't arrive by Friday, let us know.",
+          "a": "Should the parcel not arrive by Friday, let us know."
+        },
+        {
+          "q": "If they hadn't invested in new technology, they would have gone out of business.",
+          "a": "Had they not invested in new technology, they would have gone out of business."
+        },
+        {
+          "q": "If I were in your shoes, I would negotiate a higher salary.",
+          "a": "Were I in your shoes, I would negotiate a higher salary."
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Correct it.",
+      "items": [
+        {
+          "q": "Never I have been so humiliated in public.",
+          "a": "Never have I been so humiliated in public."
+        },
+        {
+          "q": "Seldom we eat out during the week.",
+          "a": "Seldom do we eat out during the week."
+        },
+        {
+          "q": "No sooner had he finished his speech when the audience stood up.",
+          "a": "No sooner had he finished his speech than the audience stood up."
+        },
+        {
+          "q": "Hardly had we arrived than it started to snow.",
+          "a": "Hardly had we arrived when it started to snow."
+        },
+        {
+          "q": "Little did they knew about the risks.",
+          "a": "Little did they know about the risks."
+        },
+        {
+          "q": "Only when did the manager arrive we could start.",
+          "a": "Only when the manager arrived could we start."
+        },
+        {
+          "q": "Not only she is talented, but she is also hard-working.",
+          "a": "Not only is she talented, but she is also hard-working."
+        },
+        {
+          "q": "Hadn't it been for the firefighters, the building would have burnt down.",
+          "a": "Had it not been for the firefighters, the building would have burnt down."
+        },
+        {
+          "q": "Was I the president, I would invest more in education.",
+          "a": "Were I the president, I would invest more in education."
+        },
+        {
+          "q": "In no time had we finished the whole project.",
+          "a": "In no time we had finished the whole project."
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Transformaciones C1 Advanced",
+      "title_en": "Key word transformations",
+      "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave sin cambiarla y entre 3 y 6 palabras en total. (En el solucionario aparecen las palabras que faltan.)",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word and 3-6 words.",
+      "items": [
+        {
+          "q": "As soon as the guests arrived, the lights went out. 🔑 <b>SOONER</b><br>No _____ the lights went out.",
+          "a": "sooner had the guests arrived than"
+        },
+        {
+          "q": "She didn't suspect that her colleagues were planning a surprise party. 🔑 <b>DID</b><br>Little _____ that her colleagues were planning a surprise party.",
+          "a": "did she suspect"
+        },
+        {
+          "q": "You should not reveal your PIN to anyone under any circumstances. 🔑 <b>ACCOUNT</b><br>On _____ your PIN to anyone.",
+          "a": "no account should you reveal"
+        },
+        {
+          "q": "The company didn't apologise until the scandal reached the newspapers. 🔑 <b>DID</b><br>Only when the scandal reached the newspapers _____ apologise.",
+          "a": "did the company"
+        },
+        {
+          "q": "If you require any further information, do not hesitate to contact us. 🔑 <b>SHOULD</b><br>_____ any further information, do not hesitate to contact us.",
+          "a": "Should you require"
+        },
+        {
+          "q": "I wouldn't have passed the exam without your help. 🔑 <b>NOT</b><br>Had _____ your help, I wouldn't have passed the exam.",
+          "a": "it not been for"
+        },
+        {
+          "q": "The new manager is efficient and also very popular with the staff. 🔑 <b>ONLY</b><br>Not _____, but she is also very popular with the staff.",
+          "a": "only is the new manager efficient"
+        },
+        {
+          "q": "The audience was so enthusiastic that the band played three encores. 🔑 <b>WAS</b><br>So _____ the band played three encores.",
+          "a": "enthusiastic was the audience that"
+        },
+        {
+          "q": "The minister had only just started speaking when protesters interrupted her. 🔑 <b>HAD</b><br>Hardly _____ speaking when protesters interrupted her.",
+          "a": "had the minister started"
+        },
+        {
+          "q": "We were not told about the changes at any point. 🔑 <b>TIME</b><br>At _____ about the changes.",
+          "a": "no time were we told"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce usando una inversión. Piensa: ¿qué expresión va delante? ¿qué auxiliar necesito?",
+      "en": "Translate into English using inversion.",
+      "items": [
+        {
+          "q": "Nunca había visto una cosa igual.",
+          "a": [
+            "Never had I seen anything like it.",
+            "Never had I seen such a thing."
+          ]
+        },
+        {
+          "q": "Rara vez hablamos de política en el trabajo.",
+          "a": "Rarely do we talk about politics at work."
+        },
+        {
+          "q": "Nada más llegar al aeropuerto, me di cuenta de que había olvidado el pasaporte.",
+          "hint": "No sooner",
+          "a": "No sooner had I arrived at the airport than I realised (that) I had forgotten my passport."
+        },
+        {
+          "q": "No solo perdimos el vuelo, sino que también perdimos el equipaje.",
+          "hint": "¡ojo con «perder»!",
+          "a": "Not only did we miss the flight, but we also lost our luggage."
+        },
+        {
+          "q": "Poco se imaginaban que el proyecto fracasaría.",
+          "a": "Little did they imagine (know) that the project would fail."
+        },
+        {
+          "q": "Bajo ningún concepto debe abrirse esta puerta.",
+          "a": [
+            "Under no circumstances should this door be opened.",
+            "On no account must this door be opened."
+          ]
+        },
+        {
+          "q": "Solo entonces entendí lo que había pasado.",
+          "a": "Only then did I understand what had happened."
+        },
+        {
+          "q": "Si hubiera sabido la verdad, habría dimitido.",
+          "hint": "sin if",
+          "a": "Had I known the truth, I would have resigned."
+        },
+        {
+          "q": "Si tiene alguna pregunta, no dude en ponerse en contacto con nosotros.",
+          "hint": "sin if",
+          "a": "Should you have any questions, do not hesitate to contact us."
+        },
+        {
+          "q": "La empresa no empezó a obtener beneficios hasta el año pasado.",
+          "hint": "Not until",
+          "a": "Not until last year did the company start making a profit."
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el artículo. Marca T o F y contesta las preguntas.",
+      "en": "Read the article. Tick T or F and answer the questions.",
+      "text_title": "A turnaround nobody expected",
+      "text": [
+        "Five years ago, Brightwave Energy was on the verge of collapse. Rarely had a company fallen so far so fast: its shares had lost 80% of their value, and not once in three years had it reported a profit. Little did investors suspect that the firm was about to stage one of the most remarkable recoveries in the sector's history.",
+        "No sooner had Elena Ruiz been appointed chief executive than she began to dismantle the old management structure. Not only did she sell off unprofitable divisions, but she also invested heavily in solar storage, a technology that most analysts considered too risky. \"Under no circumstances will we return to the old way of doing things,\" she told shareholders at her first annual meeting.",
+        "Only when the first contracts with European utilities were signed did the markets begin to take notice. Today, Brightwave employs over 4,000 people. Had Ruiz listened to her critics, says one board member, the company would almost certainly have disappeared. Such has been its success that rivals are now copying its strategy."
+      ],
+      "items": [
+        {
+          "q": "Before Ruiz arrived, Brightwave had been profitable for three years.",
+          "tf": true,
+          "a": false,
+          "why": "Not once in three years had it reported a profit."
+        },
+        {
+          "q": "Investors expected the company to recover.",
+          "tf": true,
+          "a": false,
+          "why": "Little did investors suspect…"
+        },
+        {
+          "q": "Ruiz started changing the management structure immediately after her appointment.",
+          "tf": true,
+          "a": true,
+          "why": "No sooner had she been appointed than…"
+        },
+        {
+          "q": "Most analysts supported her investment in solar storage.",
+          "tf": true,
+          "a": false,
+          "why": "Most analysts considered it too risky."
+        },
+        {
+          "q": "When did the markets begin to take notice?",
+          "a": "When the first contracts with European utilities were signed."
+        },
+        {
+          "q": "Rewrite with if: \"Had Ruiz listened to her critics, the company would almost certainly have disappeared.\"",
+          "a": "If Ruiz had listened to her critics, the company would almost certainly have disappeared."
+        },
+        {
+          "q": "Copy the sentence with Not only.",
+          "a": "Not only did she sell off unprofitable divisions, but she also invested heavily in solar storage."
+        },
+        {
+          "q": "Rewrite without inversion: \"Such has been its success that rivals are now copying its strategy.\"",
+          "a": "Its success has been so great that rivals are now copying its strategy."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe frases propias en registro formal. Usa una inversión distinta en cada una.",
+      "en": "Write your own formal sentences. Use a different inversion in each.",
+      "items": [
+        {
+          "q": "Termina un email formal con una condicional invertida (<b>Should you…</b>).",
+          "lines": 2,
+          "a": "Ej.: Should you require any further details, please do not hesitate to contact me."
+        },
+        {
+          "q": "Escribe la primera frase de un discurso de agradecimiento con <b>Never…</b>",
+          "lines": 2,
+          "a": "Ej.: Never have I felt so honoured to stand before such a distinguished audience."
+        },
+        {
+          "q": "Describe un error del pasado con <b>Had I…</b> o <b>Had I not…</b>",
+          "lines": 2,
+          "a": "Ej.: Had I read the contract more carefully, I would not have lost my deposit."
+        },
+        {
+          "q": "Escribe una norma de seguridad con <b>Under no circumstances</b> u <b>On no account</b>.",
+          "lines": 2,
+          "a": "Ej.: On no account should visitors enter the laboratory without safety glasses."
+        },
+        {
+          "q": "Cuenta una sorpresa con <b>Little did I know…</b> y sigue con <b>No sooner… than</b>.",
+          "lines": 3,
+          "a": "Ej.: Little did I know that my new boss was an old classmate. No sooner had I walked in than she recognised me."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Invierto <b>auxiliar + sujeto</b> tras never, rarely, seldom, little, at no time…",
+      "en": "I can invert after negative adverbials."
+    },
+    {
+      "es": "Añado <b>do / does / did</b> cuando la frase no tiene auxiliar.",
+      "en": "I add do / does / did when there is no auxiliary."
+    },
+    {
+      "es": "Distingo <b>hardly … when</b> de <b>no sooner … than</b>.",
+      "en": "I know hardly … when and no sooner … than."
+    },
+    {
+      "es": "Con <b>only when / not until</b> invierto la oración principal.",
+      "en": "With only when / not until I invert the main clause."
+    },
+    {
+      "es": "Escribo condicionales formales: <b>Had I known</b>, <b>Were I</b>, <b>Should you</b>.",
+      "en": "I can write inverted conditionals."
+    },
+    {
+      "es": "Sé que <b>in no time</b>, <b>hardly anyone</b> y <b>only + sujeto</b> no invierten.",
+      "en": "I know when there is no inversion."
+    },
+    {
+      "es": "Uso la inversión en textos formales sin abusar de ella.",
+      "en": "I use inversion in formal texts, without overdoing it."
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "id": "A2-07",
+  "level": "A2",
+  "title": "IN, ON <em>y</em> AT (TIEMPO)",
+  "file_title": "In, on y at (tiempo)",
+  "subtitle": "Prepositions of time · ¿cuándo pasa?",
+  "icon": "📅",
+  "map": {
+    "center": "Para decir <b>cuándo</b> pasa algo usamos <b>at</b> (horas), <b>on</b> (días y fechas) e <b>in</b> (periodos largos).",
+    "nodes": [
+      {
+        "title": "AT · horas y momentos", "icon": "⏰",
+        "items": ["<b>at</b> 8 o'clock · <b>at</b> half past five", "<b>at</b> night · <b>at</b> midnight · <b>at</b> lunchtime", "<b>at</b> the weekend · <b>at</b> Christmas"]
+      },
+      {
+        "title": "ON · días y fechas", "icon": "📅", "art": "🎂",
+        "items": ["<b>on</b> Monday · <b>on</b> Fridays", "<b>on</b> 5th May · <b>on</b> my birthday", "<b>on</b> Christmas Day"]
+      },
+      {
+        "title": "IN · periodos largos", "icon": "🗓️",
+        "items": ["<b>in</b> May · <b>in</b> 2015 <i>(meses y años)</i>", "<b>in</b> summer · <b>in</b> winter <i>(estaciones)</i>", "<b>in</b> the morning · <b>in</b> the afternoon"]
+      },
+      {
+        "title": "Ojo: partes del día", "icon": "🌙", "art": "🦉",
+        "items": ["<b>in</b> the morning / afternoon / evening", "pero <b>at</b> night <i>(¡la excepción!)</i>", "día + parte → <b>on</b> Monday morning"]
+      },
+      {
+        "title": "Sin preposición", "icon": "🚫",
+        "items": ["yesterday · today · tomorrow · tonight", "<b>next</b> week · <b>last</b> year · <b>this</b> morning", "<b>every</b> day · ¡nada de <s>on next Monday</s>!"]
+      },
+      {
+        "title": "Truco de la pirámide", "icon": "🔺",
+        "items": ["<b>IN</b> = lo más grande: años, meses, estaciones", "<b>ON</b> = mediano: días y fechas", "<b>AT</b> = lo más pequeño: horas"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["We have English in Monday."],
+      "good": ["We have English on Monday."],
+      "note": "días y fechas → <b>on</b>"
+    },
+    "mini": {
+      "es": "Completa con at, on o in.",
+      "en": "Complete with at, on or in.",
+      "items": [
+        { "q": "I get up ___ seven o'clock.", "a": "at" },
+        { "q": "My birthday is ___ March.", "a": "in" },
+        { "q": "We play football ___ Saturdays.", "a": "on" },
+        { "q": "Owls hunt ___ night.", "a": "at" },
+        { "q": "We go to the beach ___ summer.", "a": "in" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Para decir <b>cuándo</b> pasa algo, el inglés usa tres palabritas: <b>at</b>, <b>on</b> e <b>in</b>. En español decimos «a», «en» o «el» (<i>a las ocho, el lunes, en verano</i>), pero en inglés cada una tiene su tarea: <mark>at</mark> para horas y momentos, <mark>on</mark> para días y fechas, <mark>in</mark> para meses, años, estaciones y partes del día.",
+      "en": "To say <b>when</b>, we use <b>at</b> (times), <b>on</b> (days and dates) and <b>in</b> (months, years, seasons and parts of the day).",
+      "formula": ["*at* + hora / momento", "*on* + día / fecha", "*in* + mes / año / estación"]
+    },
+    {
+      "t": "rule", "title": "1 · AT: horas y momentos", "title_en": "AT: times", "icon": "⏰", "color": "green",
+      "es": "Usamos <b>at</b> con las <b>horas</b> (at 7 o'clock, at half past three) y con algunos <b>momentos</b>: <b>at night</b>, <b>at midnight</b>, <b>at lunchtime</b>, <b>at the weekend</b> y las fiestas: <b>at Christmas</b>, <b>at Easter</b>. Piensa en <b>at</b> como un puntito en el reloj. 🕗 <small>En inglés americano dicen <i>on the weekend</i>; en británico, <i>at the weekend</i>.</small>",
+      "en": "Use <b>at</b> with clock times and some moments: <b>at night</b>, <b>at lunchtime</b>, <b>at the weekend</b>, <b>at Christmas</b>.",
+      "formula": ["*at* + 7 o'clock / half past three", "*at* + night / lunchtime / the weekend"],
+      "examples": [
+        { "en": "I get up <b>at</b> seven o'clock.", "es": "Me levanto a las siete.", "icon": "⏰" },
+        { "en": "We have lunch <b>at</b> half past one.", "es": "Comemos a la una y media.", "icon": "🍝" },
+        { "en": "Rocky sleeps in the garden <b>at</b> night.", "es": "Rocky duerme en el jardín por la noche.", "icon": "🌙" },
+        { "en": "We visit my grandparents <b>at</b> Christmas.", "es": "Visitamos a mis abuelos en Navidad.", "icon": "🎄" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · ON: días y fechas", "title_en": "ON: days and dates", "icon": "📅", "color": "blue",
+      "es": "Usamos <b>on</b> con los <b>días de la semana</b> (on Monday, on Fridays), las <b>fechas</b> (on 5th May) y los <b>días especiales</b> (on my birthday, on Christmas Day). Si el día lleva una parte del día, también va con <b>on</b>: on Sunday morning. Piensa en <b>on</b> como una casilla del calendario. 📅 <small>Escribimos <i>on 5th May</i> y decimos «on the fifth of May».</small>",
+      "en": "Use <b>on</b> with days, dates and special days: <b>on Monday</b>, <b>on 5th May</b>, <b>on my birthday</b>.",
+      "formula": ["*on* + Monday / Fridays", "*on* + 5th May / my birthday"],
+      "examples": [
+        { "en": "We have PE <b>on</b> Tuesdays.", "es": "Tenemos Educación Física los martes.", "icon": "🤸" },
+        { "en": "My birthday is <b>on</b> 12th April.", "es": "Mi cumpleaños es el 12 de abril.", "icon": "🎂" },
+        { "en": "We don't go to school <b>on</b> Saturdays.", "es": "Los sábados no vamos al cole.", "icon": "🏠" }
+      ]
+    },
+    {
+      "t": "rule", "title": "3 · IN: meses, años, estaciones", "title_en": "IN: months, years, seasons", "icon": "🗓️", "color": "orange",
+      "es": "Usamos <b>in</b> con los periodos <b>largos</b>: <b>meses</b> (in May), <b>años</b> (in 2015), <b>estaciones</b> (in summer) y también con las <b>partes del día</b>: in the morning, in the afternoon, in the evening. Piensa en <b>in</b> como una caja grande donde caben muchos días. 📦",
+      "en": "Use <b>in</b> with longer periods: months, years, seasons and parts of the day (<b>in the morning</b>).",
+      "formula": ["*in* + May / 2015", "*in* + summer / the morning"],
+      "examples": [
+        { "en": "It snows a lot <b>in</b> winter.", "es": "Nieva mucho en invierno.", "icon": "❄️" },
+        { "en": "Lucía was born <b>in</b> 2014.", "es": "Lucía nació en 2014.", "icon": "👶" },
+        { "en": "We go to the beach <b>in</b> August.", "es": "Vamos a la playa en agosto.", "icon": "🏖️" }
+      ]
+    },
+    {
+      "t": "table", "title": "4 · Las partes del día", "title_en": "Parts of the day", "icon": "🌅", "color": "purple",
+      "head": ["Parte del día · Part of the day", "Ejemplo · Example"],
+      "rows": [
+        ["por la mañana → <b>in</b> the morning", "I go to school in the morning."],
+        ["por la tarde → <b>in</b> the afternoon", "We play in the park in the afternoon."],
+        ["al anochecer → <b>in</b> the evening", "I do my homework in the evening."],
+        ["por la noche → <b>at</b> night ⚠️", "Owls hunt at night."],
+        ["a la hora de comer → <b>at</b> lunchtime", "We eat sandwiches at lunchtime."],
+        ["a medianoche → <b>at</b> midnight", "The film ends at midnight."],
+        ["día + parte → <b>on</b> Monday morning", "We have Music on Monday morning."]
+      ],
+      "note": "¡Ojo! Para decir «por la noche» usamos <b>at night</b> (no <s>in the night</s>): es la gran excepción. Y si pones un <b>día</b> delante, gana <b>on</b>: on Friday night, on Sunday afternoon.",
+      "note_en": "<b>at night</b> is the exception. With a day before it, use <b>on</b>: on Friday night."
+    },
+    {
+      "t": "rule", "title": "5 · Sin preposición", "title_en": "No preposition", "icon": "🚫", "color": "red",
+      "es": "Con <b>yesterday, today, tomorrow, tonight</b> y con las expresiones que empiezan por <b>this, next, last</b> o <b>every</b> <mark>no ponemos preposición</mark>. En español decimos «<u>el</u> lunes que viene» o «<u>la</u> semana pasada», pero en inglés: <b>next Monday</b>, <b>last week</b>. ¡Nada de <s>on next Monday</s> ni <s>in last summer</s>!",
+      "en": "No preposition with <b>yesterday, today, tomorrow, tonight</b> or with <b>this, next, last, every</b>: <b>next week</b>, <b>last summer</b>.",
+      "formula": ["*next / last / this / every* + week / Monday / summer"],
+      "examples": [
+        { "en": "We have a Maths test <b>next</b> Friday.", "es": "Tenemos un examen de Mates el viernes que viene.", "icon": "📝" },
+        { "en": "I saw Leo at the park <b>yesterday</b>.", "es": "Ayer vi a Leo en el parque.", "icon": "🛝" },
+        { "en": "My cousins visited us <b>last</b> summer.", "es": "Mis primos nos visitaron el verano pasado.", "icon": "🏕️" },
+        { "en": "I brush my teeth <b>every</b> night.", "es": "Me lavo los dientes todas las noches.", "icon": "🪥" }
+      ]
+    },
+    {
+      "t": "compare", "title": "Navidad: ¿at u on?", "title_en": "Christmas: at or on?", "icon": "🎄", "color": "green",
+      "es": "Si hablas de <b>las fiestas</b> en general (varios días), usa <b>at</b>: <i>at Christmas, at Easter, at the weekend</i>. Si hablas de <b>un día concreto</b>, usa <b>on</b>: <i>on Christmas Day, on Easter Sunday, on Saturday</i>.",
+      "en": "The holiday period → <b>at</b>. One special day → <b>on</b>.",
+      "cols": [
+        { "head": "🎄 Las fiestas · at", "color": "green", "items": ["We go skiing <b>at</b> Christmas.", "We eat chocolate eggs <b>at</b> Easter.", "I play video games <b>at</b> the weekend."] },
+        { "head": "📅 Un día concreto · on", "color": "orange", "items": ["We open presents <b>on</b> Christmas Day.", "We have a big lunch <b>on</b> Easter Sunday.", "I play football <b>on</b> Saturday."] }
+      ]
+    },
+    {
+      "t": "table", "title": "¿Cómo pregunto?", "title_en": "Asking when", "icon": "❓", "color": "teal",
+      "head": ["Pregunta · Question", "Respuesta · Answer"],
+      "rows": [
+        ["<b>What time</b> do you get up?", "<b>At</b> seven o'clock."],
+        ["<b>When</b> is your birthday?", "<b>On</b> 3rd June. / <b>In</b> June."],
+        ["<b>When</b> do you have PE?", "<b>On</b> Tuesdays."],
+        ["<b>When</b> do you go skiing?", "<b>In</b> winter."],
+        ["<b>When</b> do you watch TV?", "<b>In</b> the evening."],
+        ["<b>When</b> did you see Leo?", "<b>Yesterday</b>. <i>(¡sin preposición!)</i>"]
+      ],
+      "note": "Con <b>What time…?</b> la respuesta casi siempre lleva <b>at</b>. Con <b>When…?</b> piensa: ¿hora, día, mes o nada?",
+      "note_en": "<b>What time…?</b> → at. <b>When…?</b> → at, on, in or nothing."
+    },
+    {
+      "t": "table", "title": "Todo junto", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["⏰ AT", "📅 ON", "🗓️ IN", "🚫 — (nada)"],
+      "rows": [
+        ["at 8 o'clock", "on Monday", "in May", "yesterday"],
+        ["at half past three", "on Fridays", "in 2026", "today · tonight"],
+        ["at night", "on 25th December", "in summer", "tomorrow"],
+        ["at midnight", "on my birthday", "in winter", "next week"],
+        ["at lunchtime", "on Christmas Day", "in the morning", "last year"],
+        ["at the weekend", "on Saturday morning", "in the afternoon", "this morning"],
+        ["at Christmas", "on Friday night", "in the evening", "every day"]
+      ]
+    },
+    {
+      "t": "vocab", "title": "Palabras del calendario", "title_en": "Calendar words", "icon": "📆", "color": "pink", "wide": true, "cols": 4,
+      "items": [
+        { "en": "<b>in</b> spring", "es": "en primavera", "icon": "🌸" },
+        { "en": "<b>in</b> summer", "es": "en verano", "icon": "☀️" },
+        { "en": "<b>in</b> autumn", "es": "en otoño", "icon": "🍂" },
+        { "en": "<b>in</b> winter", "es": "en invierno", "icon": "❄️" },
+        { "en": "<b>in</b> the morning", "es": "por la mañana", "icon": "🌅" },
+        { "en": "<b>in</b> the afternoon", "es": "por la tarde", "icon": "🌤️" },
+        { "en": "<b>in</b> the evening", "es": "al anochecer", "icon": "🌆" },
+        { "en": "<b>at</b> night", "es": "por la noche", "icon": "🌙" },
+        { "en": "<b>at</b> midnight", "es": "a medianoche", "icon": "🕛" },
+        { "en": "<b>at</b> lunchtime", "es": "a la hora de comer", "icon": "🍽️" },
+        { "en": "<b>at</b> the weekend", "es": "el fin de semana", "icon": "🎉" },
+        { "en": "<b>at</b> Christmas", "es": "en Navidad", "icon": "🎄" },
+        { "en": "<b>on</b> Monday", "es": "el lunes", "icon": "📅" },
+        { "en": "<b>on</b> my birthday", "es": "el día de mi cumple", "icon": "🎂" },
+        { "en": "<b>on</b> 1st January", "es": "el 1 de enero", "icon": "🎆" },
+        { "en": "<b>on</b> Sunday morning", "es": "el domingo por la mañana", "icon": "🥐" }
+      ]
+    },
+    {
+      "t": "examples", "title": "La semana de Mario", "title_en": "Mario's week",
+      "items": [
+        { "en": "I get up <b>at</b> half past seven.", "es": "Me levanto a las siete y media.", "icon": "⏰" },
+        { "en": "I go to school <b>in</b> the morning.", "es": "Voy al cole por la mañana.", "icon": "🏫" },
+        { "en": "We have English <b>on</b> Mondays and Thursdays.", "es": "Tenemos inglés los lunes y los jueves.", "icon": "📘" },
+        { "en": "I have football training <b>on</b> Wednesday afternoon.", "es": "Tengo entrenamiento de fútbol el miércoles por la tarde.", "icon": "⚽" },
+        { "en": "Lucía has piano lessons <b>at</b> five o'clock.", "es": "Lucía tiene clase de piano a las cinco.", "icon": "🎹" },
+        { "en": "I walk Rocky <b>in</b> the evening.", "es": "Saco a pasear a Rocky al anochecer.", "icon": "🐕" },
+        { "en": "I read comics in bed <b>at</b> night.", "es": "Leo cómics en la cama por la noche.", "icon": "📚" },
+        { "en": "We go to the cinema <b>at</b> the weekend.", "es": "Vamos al cine el fin de semana.", "icon": "🎬" },
+        { "en": "My birthday is <b>on</b> 3rd June.", "es": "Mi cumple es el 3 de junio.", "icon": "🎂" },
+        { "en": "We go camping <b>in</b> July.", "es": "Vamos de acampada en julio.", "icon": "🏕️" },
+        { "en": "The school year starts <b>in</b> September.", "es": "El curso empieza en septiembre.", "icon": "🎒" },
+        { "en": "See you <b>tomorrow</b>!", "es": "¡Hasta mañana!", "icon": "👋" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "trampas", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "We have English in Monday.", "good": "We have English <b>on</b> Monday.", "why": "Días de la semana → on.", "why_en": "Days → on." },
+        { "bad": "I get up in seven o'clock.", "good": "I get up <b>at</b> seven o'clock.", "why": "Horas → at.", "why_en": "Clock times → at." },
+        { "bad": "My birthday is in 5th May.", "good": "My birthday is <b>on</b> 5th May.", "why": "Fecha con número → on (aunque el mes solo vaya con in).", "why_en": "Dates → on." },
+        { "bad": "Owls hunt in the night.", "good": "Owls hunt <b>at</b> night.", "why": "«Por la noche» → at night.", "why_en": "at night, not in the night." },
+        { "bad": "See you on next Monday!", "good": "See you <b>next Monday</b>!", "why": "next, last, this, every → sin preposición.", "why_en": "No preposition before next." },
+        { "bad": "I play tennis in the weekend.", "good": "I play tennis <b>at</b> the weekend.", "why": "En inglés británico: at the weekend.", "why_en": "British English: at the weekend." },
+        { "bad": "We go skiing on winter.", "good": "We go skiing <b>in</b> winter.", "why": "Estaciones → in.", "why_en": "Seasons → in." },
+        { "bad": "I do my homework in Monday afternoon.", "good": "I do my homework <b>on</b> Monday afternoon.", "why": "Día + parte del día → gana on.", "why_en": "Day + part of the day → on." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Qué preposición pongo?", "title_en": "Which one do I use?", "color": "orange",
+      "items": [
+        { "es": "¿Es yesterday, today, tomorrow, tonight o empieza por <b>next, last, this, every</b>? → ¡No pongas nada!", "en": "next, last, this, every… → no preposition." },
+        { "es": "¿Es una <b>hora</b> o un momento (night, midnight, lunchtime, the weekend, Christmas)? → <b>at</b>.", "en": "A time or a moment → at." },
+        { "es": "¿Es un <b>día</b> o una <b>fecha</b> (Monday, 5th May, my birthday)? → <b>on</b>.", "en": "A day or a date → on." },
+        { "es": "¿Es un <b>mes</b>, un <b>año</b>, una <b>estación</b> o una parte del día (the morning)? → <b>in</b>.", "en": "A month, year, season or part of the day → in." },
+        { "es": "¿Hay día + parte del día (Monday morning)? → gana el día: <b>on</b>.", "en": "Day + part of the day → on." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "¿Cuándo es la fiesta?", "title_en": "When is the party?",
+      "lines": [
+        { "who": "Anna", "en": "Mario, when is your birthday?", "es": "Mario, ¿cuándo es tu cumpleaños?" },
+        { "who": "Mario", "en": "It's on 3rd June. The party is on Saturday!", "es": "Es el 3 de junio. ¡La fiesta es el sábado!" },
+        { "who": "Anna", "en": "Cool! What time is the party?", "es": "¡Genial! ¿A qué hora es la fiesta?" },
+        { "who": "Mario", "en": "At five o'clock in the afternoon.", "es": "A las cinco de la tarde." },
+        { "who": "Anna", "en": "Great! I have a swimming lesson in the morning, so it's perfect.", "es": "¡Genial! Tengo natación por la mañana, así que es perfecto." },
+        { "who": "Mario", "en": "Rocky always comes to my parties. He loves cake!", "es": "Rocky siempre viene a mis fiestas. ¡Le encanta la tarta!" },
+        { "who": "Anna", "en": "Ha ha! See you on Saturday, then!", "es": "¡Ja, ja! ¡Pues nos vemos el sábado!" }
+      ]
+    },
+    {
+      "t": "tip", "title": "La pirámide del tiempo", "title_en": "The time pyramid",
+      "es": "Imagina una pirámide 🔺. Abajo, en la base ancha, lo <b>más grande</b>: años, meses y estaciones → <b>IN</b> (como una caja enorme 📦). En medio, los días y las fechas → <b>ON</b> (como una casilla del calendario 📅). Arriba, en la punta, lo <b>más pequeño</b>: las horas → <b>AT</b> (como un puntito en el reloj ⏰).",
+      "en": "Think of a pyramid: big periods (years, months, seasons) → <b>IN</b>; days and dates → <b>ON</b>; exact times → <b>AT</b>."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify", "title": "¿AT, ON, IN o nada?", "title_en": "Sort the time words", "icon": "🗂️", "wide": true,
+      "es": "Escribe cada expresión en su caja. ¡Cuidado con las que no llevan preposición!",
+      "en": "Write each expression in the right box.",
+      "cats": [
+        { "name": "AT ⏰", "words": ["seven o'clock", "night", "the weekend", "midnight"] },
+        { "name": "ON 📅", "words": ["Monday", "my birthday", "3rd May", "Friday morning"] },
+        { "name": "IN 🗓️", "words": ["July", "winter", "2015", "the evening"] },
+        { "name": "— nada 🚫", "words": ["yesterday", "next week", "tomorrow", "last year"] }
+      ]
+    },
+    {
+      "t": "choose", "title": "Rodea la correcta", "title_en": "Circle the correct word", "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "I have breakfast [at|in] eight o'clock.", "a": "at" },
+        { "q": "We go to the beach [on|in] August.", "a": "in" },
+        { "q": "My party is [on|in] Saturday.", "a": "on" },
+        { "q": "Owls hunt [in|at] night.", "a": "at" },
+        { "q": "I was born [in|on] 2015.", "a": "in" },
+        { "q": "We have Music [on|at] Tuesday morning.", "a": "on" },
+        { "q": "It's very cold [in|on] winter.", "a": "in" },
+        { "q": "I play video games [at|in] the weekend.", "a": "at" },
+        { "q": "Lucía's birthday is [in|on] 2nd October.", "a": "on" },
+        { "q": "See you [on next Friday|next Friday]!", "a": "next Friday" }
+      ]
+    },
+    {
+      "t": "fill", "title": "at, on o in", "title_en": "at, on or in", "icon": "⏰",
+      "es": "Completa con at, on o in. Piensa en la pirámide: ¿hora, día o periodo largo?",
+      "en": "Complete with at, on or in.",
+      "bank": ["at", "on", "in"],
+      "items": [
+        { "q": "School starts ___ nine o'clock.", "a": "at" },
+        { "q": "We have Science ___ Wednesdays.", "a": "on" },
+        { "q": "Mum drinks coffee ___ the morning.", "a": "in" },
+        { "q": "I go to bed ___ half past nine.", "a": "at" },
+        { "q": "Grandad was born ___ 1955.", "a": "in" },
+        { "q": "We eat turkey ___ Christmas Day.", "a": "on" },
+        { "q": "The swallows come back ___ spring.", "a": "in" },
+        { "q": "Rocky barks ___ midnight!", "a": "at" },
+        { "q": "There's a match ___ Sunday afternoon.", "a": "on" },
+        { "q": "It's very hot in Seville ___ July.", "a": "in" }
+      ]
+    },
+    {
+      "t": "match", "title": "Pregunta y respuesta", "title_en": "Match questions and answers", "icon": "🔗",
+      "es": "Une cada pregunta con su respuesta.",
+      "en": "Match each question with its answer.",
+      "pairs": [
+        ["What time do you get up?", "At half past seven."],
+        ["When is your birthday?", "On 2nd October."],
+        ["When do you go skiing?", "In winter, when there's snow."],
+        ["When is the party?", "On Saturday. Can you come?"],
+        ["When do you do your homework?", "In the evening, after dinner."],
+        ["When do owls hunt?", "At night, when it's dark."],
+        ["When did you see Leo?", "Yesterday, at the park."]
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Traduce la expresión", "title_en": "Translate the time expression", "icon": "📋",
+      "es": "Escribe la expresión en inglés. ¡Ojo: algunas no llevan preposición!",
+      "en": "Write the expression in English.",
+      "head": ["Español", "English"],
+      "rows": [
+        ["a las ocho", "?at eight (o'clock)"],
+        ["el lunes", "?on Monday"],
+        ["en verano", "?in summer"],
+        ["por la noche", "?at night"],
+        ["por la mañana", "?in the morning"],
+        ["el sábado por la tarde", "?on Saturday afternoon"],
+        ["el fin de semana", "?at the weekend"],
+        ["la semana que viene", "?next week"],
+        ["en 2020", "?in 2020"],
+        ["ayer", "?yesterday"],
+        ["el 3 de mayo", "?on 3rd May"],
+        ["en Navidad", "?at Christmas"]
+      ]
+    },
+    {
+      "t": "fill", "title": "¿Preposición o nada?", "title_en": "Preposition or nothing?", "icon": "🚫",
+      "es": "Escribe at, on o in. Si no hace falta preposición, escribe una raya (–).",
+      "en": "Write at, on or in. If you don't need a preposition, write a dash (–).",
+      "bank": ["at", "on", "in", "–"],
+      "items": [
+        { "q": "I saw Tom at the park ___ yesterday.", "a": "–" },
+        { "q": "We go swimming ___ Fridays.", "a": "on" },
+        { "q": "See you ___ next week!", "a": "–" },
+        { "q": "I watch cartoons ___ the afternoon.", "a": "in" },
+        { "q": "I went to bed late ___ last night.", "a": "–" },
+        { "q": "My cousins visit us ___ Easter.", "a": "at" },
+        { "q": "Mum works ___ the weekend.", "a": "at" },
+        { "q": "I play the guitar ___ every day.", "a": "–" }
+      ]
+    },
+    {
+      "t": "fill", "title": "El diario de Lucía", "title_en": "Lucía's diary", "icon": "📔",
+      "es": "Lucía escribe sobre su semana. Completa con at, on, in o una raya (–) si no hace falta nada. ¡Mayúscula al principio de la frase!",
+      "en": "Complete Lucía's diary with at, on, in or –.",
+      "bank": ["at", "on", "in", "–"],
+      "items": [
+        { "q": "My school day starts ___ half past eight.", "a": "at" },
+        { "q": "___ the morning I have Maths and English.", "a": "In" },
+        { "q": "We have PE ___ Tuesdays and Fridays.", "a": "on" },
+        { "q": "___ lunchtime I eat with my friend Sara.", "a": "At" },
+        { "q": "I have piano lessons ___ Monday afternoon.", "a": "on" },
+        { "q": "I do my homework ___ the evening.", "a": "in" },
+        { "q": "I love May because my birthday is ___ 20th May.", "a": "on" },
+        { "q": "I saw a great film ___ last weekend.", "a": "–" }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Está bien?", "title_en": "Right or wrong?", "icon": "✔️",
+      "es": "¿La frase está bien (T) o mal (F)? Si está mal, corrígela en tu cuaderno.",
+      "en": "Is the sentence right (T) or wrong (F)?",
+      "items": [
+        { "q": "I have a shower in the evening.", "a": true },
+        { "q": "We go skiing on winter.", "a": false, "why": "We go skiing in winter." },
+        { "q": "My birthday is on 14th February.", "a": true },
+        { "q": "I get up at seven o'clock.", "a": true },
+        { "q": "See you on tomorrow!", "a": false, "why": "See you tomorrow!" },
+        { "q": "We have Art in Thursday.", "a": false, "why": "We have Art on Thursday." },
+        { "q": "I play football at the weekend.", "a": true },
+        { "q": "Lucía was born on 2014.", "a": false, "why": "Lucía was born in 2014." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Contesta con la pista", "title_en": "Answer with the clue", "icon": "💬",
+      "es": "Contesta con una frase completa. Usa la pista y la preposición correcta (¡o ninguna!).",
+      "en": "Answer with a full sentence. Use the clue.",
+      "items": [
+        { "q": "What time do you get up? (7:30)", "a": "I get up at half past seven." },
+        { "q": "When is your birthday? (15th March)", "a": "My birthday is on 15th March." },
+        { "q": "When do you go to the beach? (summer)", "a": "I go to the beach in summer." },
+        { "q": "When do you have English? (Mondays)", "a": "I have English on Mondays." },
+        { "q": "When do you walk Rocky? (the evening)", "a": "I walk Rocky in the evening." },
+        { "q": "When do you see your cousins? (Christmas)", "a": "I see my cousins at Christmas." },
+        { "q": "What time do you have lunch? (2:00)", "a": "I have lunch at two o'clock." },
+        { "q": "When is the Maths test? (next Friday)", "a": "The Maths test is next Friday." }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        { "q": "get up / I / at / o'clock / seven", "a": "I get up at seven o'clock." },
+        { "q": "birthday / my / on / is / 5th May", "a": "My birthday is on 5th May." },
+        { "q": "in / snows / it / winter", "a": "It snows in winter." },
+        { "q": "the / at / we / weekend / play / football", "a": "We play football at the weekend." },
+        { "q": "do / when / you / have / PE / ?", "a": "When do you have PE?" },
+        { "q": "in / my / walk / I / the evening / dog", "a": "I walk my dog in the evening." },
+        { "q": "on / Sunday / we / my grandma / visit / morning", "a": "We visit my grandma on Sunday morning." },
+        { "q": "next / a test / have / we / week", "a": "We have a test next week." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "We have English in Monday.", "a": "We have English on Monday." },
+        { "q": "The film starts in eight o'clock.", "a": "The film starts at eight o'clock." },
+        { "q": "I was born on 2016.", "a": "I was born in 2016." },
+        { "q": "I read comics in the night.", "a": "I read comics at night." },
+        { "q": "See you on next Saturday!", "a": "See you next Saturday!" },
+        { "q": "We go to the beach on summer.", "a": "We go to the beach in summer." },
+        { "q": "My birthday is in 10th July.", "a": "My birthday is on 10th July." },
+        { "q": "I have piano lessons in Tuesday afternoon.", "a": "I have piano lessons on Tuesday afternoon." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Antes de escribir, piensa: ¿hora, día, periodo largo o nada?",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Me levanto a las siete y media.", "a": "I get up at half past seven." },
+        { "q": "Mi cumpleaños es el 12 de mayo.", "a": "My birthday is on 12th May." },
+        { "q": "Hace mucho calor en verano.", "a": "It's very hot in summer." },
+        { "q": "Leo cómics por la noche.", "a": "I read comics at night." },
+        { "q": "Tenemos inglés los martes.", "a": "We have English on Tuesdays." },
+        { "q": "Vamos al cine el fin de semana.", "a": "We go to the cinema at the weekend." },
+        { "q": "Nos vemos el lunes que viene.", "a": "See you next Monday." },
+        { "q": "Mi hermana nació en 2014.", "a": "My sister was born in 2014." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "Mario's year 📅",
+      "text": [
+        "Hi! I'm Mario. My favourite season is summer. In July we go to the beach in Cádiz. We swim in the morning and we play football on the beach in the evening.",
+        "My birthday is on 3rd June. This year the party is on Saturday, at five o'clock in the afternoon. I always invite Leo, Sara and Tom.",
+        "In winter it's cold, but I love Christmas. At Christmas we visit my grandparents in León. On Christmas Day we have a big lunch, and at night we play board games. Rocky sleeps next to the fire!"
+      ],
+      "items": [
+        { "q": "Mario's favourite season is winter.", "tf": true, "a": false, "why": "His favourite season is summer." },
+        { "q": "Mario goes to the beach in July.", "tf": true, "a": true },
+        { "q": "The birthday party is on Sunday.", "tf": true, "a": false, "why": "It's on Saturday." },
+        { "q": "When is Mario's birthday?", "a": "It's on 3rd June." },
+        { "q": "What time is the party?", "a": "At five o'clock in the afternoon." },
+        { "q": "When do they play football on the beach?", "a": "In the evening." },
+        { "q": "What do they do at night on Christmas Day?", "a": "They play board games." }
+      ]
+    },
+    {
+      "t": "spell", "title": "Deletrea la palabra", "title_en": "Spell the word", "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en las cajas. Los días y los meses van con MAYÚSCULA.",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        { "q": "📅 miércoles", "a": "Wednesday" },
+        { "q": "📅 jueves", "a": "Thursday" },
+        { "q": "❄️ febrero", "a": "February" },
+        { "q": "🍂 otoño", "a": "autumn" },
+        { "q": "🕛 medianoche", "a": "midnight" },
+        { "q": "🎉 fin de semana", "a": "weekend" },
+        { "q": "🌤️ tarde", "a": "afternoon" },
+        { "q": "🎂 cumpleaños", "a": "birthday" }
+      ]
+    },
+    {
+      "t": "wordsearch", "title": "Sopa de letras", "title_en": "Word search", "icon": "🔎",
+      "es": "Busca las 8 palabras. Después escribe al lado de cada una su preposición (at, on o in).",
+      "en": "Find the 8 words. Then write the right preposition next to each one.",
+      "words": ["spring", "summer", "autumn", "winter", "morning", "night", "weekend", "midnight"],
+      "clues": ["spring · primavera", "summer · verano", "autumn · otoño", "winter · invierno", "morning · mañana", "night · noche", "weekend · fin de semana", "midnight · medianoche"]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe sobre tu semana y tu año. Usa at, on, in… ¡o nada!",
+      "en": "Write about your week and your year.",
+      "items": [
+        { "q": "¿A qué hora te levantas? ¿Y a qué hora te acuestas?", "lines": 2, "a": "Ej.: I get up at half past seven. I go to bed at nine o'clock." },
+        { "q": "¿Cuándo es tu cumpleaños? ¿Qué haces ese día?", "lines": 2, "a": "Ej.: My birthday is on 3rd June. I have a party on my birthday." },
+        { "q": "¿Qué haces los sábados por la mañana? ¿Y por la tarde?", "lines": 2, "a": "Ej.: On Saturday morning I play football. In the afternoon I go to the park." },
+        { "q": "Escribe 2 cosas que haces en verano y 1 que haces en Navidad.", "lines": 2, "a": "Ej.: In summer I swim and ride my bike. At Christmas I visit my grandparents." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Uso <b>at</b> con las horas y con night, the weekend y Christmas.", "en": "I use at with times, night, the weekend and Christmas." },
+    { "es": "Uso <b>on</b> con los días y las fechas.", "en": "I use on with days and dates." },
+    { "es": "Uso <b>in</b> con meses, años, estaciones y partes del día.", "en": "I use in with months, years, seasons and parts of the day." },
+    { "es": "Recuerdo la excepción: <b>at night</b>.", "en": "I remember: at night." },
+    { "es": "No pongo preposición con <b>next, last, this, every, yesterday, tomorrow</b>.", "en": "No preposition with next, last, this, every…" },
+    { "es": "Sé contestar a <b>What time…?</b> y a <b>When…?</b>", "en": "I can answer What time…? and When…?" }
+  ]
+}

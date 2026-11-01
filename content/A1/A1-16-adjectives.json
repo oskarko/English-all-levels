@@ -1,0 +1,541 @@
+{
+  "id": "A1-16",
+  "level": "A1",
+  "title": "LOS ADJETIVOS",
+  "file_title": "Los adjetivos",
+  "subtitle": "Adjectives · cómo son las cosas",
+  "icon": "🎨",
+  "map": {
+    "center": "Los <b>adjetivos</b> dicen <b>cómo es</b> algo: big, red, happy… ¡Van <b>delante</b> del nombre!",
+    "nodes": [
+      {"title":"¿Dónde van?","icon":"📍","items":["adjetivo + nombre","a <b>big</b> dog ✓ <s>a dog big</s>","a <b>red</b> car <i>(un coche rojo)</i>"]},
+      {"title":"¡Sin plural!","icon":"🚫","art":"🚗","items":["<b>red</b> cars ✓ <s>reds cars</s>","two <b>big</b> dogs","El adjetivo nunca lleva <em>-s</em>."]},
+      {"title":"Con to be","icon":"🙂","items":["nombre + <b>is / are</b> + adjetivo","The dog <b>is big</b>.","My friends <b>are happy</b>."]},
+      {"title":"Very y really","icon":"💪","items":["<b>very</b> big = muy grande","<b>really</b> cold = muy, muy frío","Van <b>delante</b> del adjetivo."]},
+      {"title":"Tipos","icon":"🌈","art":"🎨","rows":[["Colores","red, blue, green"],["Tamaño","big, small, long"],["Sentimientos","happy, sad, tired"]]},
+      {"title":"Contrarios","icon":"↔️","chips":["big ↔ small","hot ↔ cold","old ↔ new","fast ↔ slow","tall ↔ short"]}
+    ],
+    "error": {"title":"Error común","bad":["It's a car red."],"good":["It's a red car."],"note":"Primero el <b>adjetivo</b>, luego el nombre"},
+    "mini": {
+      "es": "Escribe el contrario.",
+      "en": "Write the opposite.",
+      "items": [
+        {"q":"The dog is big. The cat is ____.","a":"small"},
+        {"q":"My tea is hot. My milk is ____.","a":"cold"},
+        {"q":"Rocky is fast. My turtle is ____.","a":"slow"},
+        {"q":"My bike is old. Leo's bike is ____.","a":"new"},
+        {"q":"Dad is tall. Lucía is ____.","a":"short"}
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Los <b>adjetivos</b> son palabras que dicen <mark>cómo es</mark> una persona, un animal o una cosa: su <b>color</b>, su <b>tamaño</b>, cómo se siente… <i>big, red, happy, cold</i>. En inglés tienen dos superpoderes: ¡van <b>delante</b> del nombre y <b>nunca</b> cambian!",
+      "en": "<b>Adjectives</b> describe people, animals and things. They go <b>before</b> the noun and they <b>never</b> change.",
+      "formula": ["a / the + *adjetivo* + nombre","nombre + is / are + *adjetivo*"]
+    },
+    {
+      "t": "rule",
+      "title": "1 · Delante del nombre",
+      "title_en": "Before the noun",
+      "icon": "📍",
+      "color": "green",
+      "es": "En español decimos «un perro <b>grande</b>»: el adjetivo va detrás. En inglés es <mark>al revés</mark>: <b>a big dog</b>. ¡Primero <i>cómo es</i>, luego <i>qué es</i>!",
+      "en": "In English the adjective goes <mark>before</mark> the noun: a big dog.",
+      "formula": ["a + *big* + dog","a + *red* + car"],
+      "examples": [
+        {"en":"I've got a <b>black</b> cat.","es":"Tengo un gato negro.","icon":"🐈"},
+        {"en":"Lucía has got a <b>new</b> bike.","es":"Lucía tiene una bici nueva.","icon":"🚲"},
+        {"en":"It's a <b>beautiful</b> day!","es":"¡Hace un día precioso!","icon":"☀️"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · No tienen plural",
+      "title_en": "No plural",
+      "icon": "🚫",
+      "color": "red",
+      "es": "En español decimos «coches <b>rojos</b>»: el adjetivo también va en plural. En inglés el adjetivo <b>nunca</b> lleva -s: <b>red cars</b>. Tampoco cambia de chico a chica: <i>a tall boy, a tall girl</i> (alto, alta). ¡Una sola forma para todo!",
+      "en": "Adjectives never take -s, and they are the same for boys and girls.",
+      "examples": [
+        {"en":"I've got two <b>small</b> dogs.","es":"Tengo dos perros pequeños.","icon":"🐕"},
+        {"en":"My shoes are <b>blue</b>.","es":"Mis zapatos son azules.","icon":"👟"},
+        {"en":"Sara and Anna are <b>tall</b>.","es":"Sara y Anna son altas.","icon":"👭"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · Con el verbo to be",
+      "title_en": "With the verb be",
+      "icon": "🙂",
+      "color": "blue",
+      "es": "El adjetivo también puede ir <b>solo</b>, después de <b>am / is / are</b>. Así decimos cómo es o cómo está algo: <i>The soup <b>is hot</b>.</i> En inglés, <b>ser</b> y <b>estar</b> son el mismo verbo: <b>be</b>.",
+      "en": "An adjective can also go after <b>am / is / are</b>: The soup is hot.",
+      "formula": ["nombre + *is / are* + adjetivo"],
+      "examples": [
+        {"en":"The soup <b>is hot</b>.","es":"La sopa está caliente.","icon":"🍲"},
+        {"en":"I<b>'m tired</b>.","es":"Estoy cansado.","icon":"😴"},
+        {"en":"Your dog <b>is</b> very <b>funny</b>!","es":"¡Tu perro es muy gracioso!","icon":"🐶"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Very y really",
+      "title_en": "Very and really",
+      "icon": "💪",
+      "color": "orange",
+      "es": "Para decir <b>muy</b>, ponemos <b>very</b> o <b>really</b> justo <b>delante</b> del adjetivo: very big, really cold. <i>Really</i> se usa mucho al hablar y suena todavía más fuerte.",
+      "en": "To say «muy», put <b>very</b> or <b>really</b> before the adjective.",
+      "formula": ["*very / really* + adjetivo"],
+      "examples": [
+        {"en":"The giraffe is <b>very tall</b>.","es":"La jirafa es muy alta.","icon":"🦒"},
+        {"en":"This ice cream is <b>really good</b>!","es":"¡Este helado está buenísimo!","icon":"🍦"},
+        {"en":"It's a <b>very old</b> castle.","es":"Es un castillo muy antiguo.","icon":"🏰"}
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¡Trampa! Tener → BE",
+      "title_en": "Spanish tener → English be",
+      "color": "purple",
+      "icon": "⚠️",
+      "es": "En español <b>tenemos</b> hambre, sed, frío y miedo. En inglés <b>estamos</b>: usamos <b>be</b> + adjetivo. ¡Nunca <s>I have hungry</s>!",
+      "en": "Spanish says «tengo hambre». English says <b>I'm hungry</b> (be + adjective).",
+      "cols": [
+        {"head":"🇪🇸 Español: tener","color":"orange","items":["Tengo hambre.","Tengo sed.","Tengo frío / calor.","Tengo miedo."]},
+        {"head":"🇬🇧 English: be","color":"green","items":["I'm <b>hungry</b>.","I'm <b>thirsty</b>.","I'm <b>cold</b> / <b>hot</b>.","I'm <b>scared</b>."]}
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Tamaño antes que color",
+      "title_en": "Size before colour",
+      "es": "Si usas dos adjetivos, normalmente va primero el <b>tamaño</b> y después el <b>color</b>: a <b>big red</b> ball, a <b>small black</b> cat. ¡Primero «cómo de grande», luego «de qué color»!",
+      "en": "With two adjectives, size usually comes before colour: a big red ball."
+    },
+    {
+      "t": "vocab",
+      "title": "Los colores",
+      "title_en": "Colours",
+      "icon": "🌈",
+      "color": "pink",
+      "items": [
+        {"en":"red","es":"rojo","icon":"🔴"},
+        {"en":"blue","es":"azul","icon":"🔵"},
+        {"en":"green","es":"verde","icon":"🟢"},
+        {"en":"yellow","es":"amarillo","icon":"🟡"},
+        {"en":"orange","es":"naranja","icon":"🟠"},
+        {"en":"purple","es":"morado","icon":"🟣"},
+        {"en":"pink","es":"rosa","icon":"🌸"},
+        {"en":"brown","es":"marrón","icon":"🟤"},
+        {"en":"black","es":"negro","icon":"⚫"},
+        {"en":"white","es":"blanco","icon":"⚪"},
+        {"en":"grey","es":"gris","icon":"🐘"},
+        {"en":"gold","es":"dorado","icon":"🥇"}
+      ]
+    },
+    {
+      "t": "vocab",
+      "title": "¿Cómo te sientes?",
+      "title_en": "Feelings",
+      "icon": "😊",
+      "color": "yellow",
+      "items": [
+        {"en":"happy","es":"contento, feliz","icon":"😀"},
+        {"en":"sad","es":"triste","icon":"😢"},
+        {"en":"angry","es":"enfadado","icon":"😠"},
+        {"en":"tired","es":"cansado","icon":"😴"},
+        {"en":"scared","es":"asustado","icon":"😱"},
+        {"en":"hungry","es":"con hambre","icon":"😋"},
+        {"en":"thirsty","es":"con sed","icon":"🥤"},
+        {"en":"bored","es":"aburrido","icon":"🥱"},
+        {"en":"excited","es":"emocionado","icon":"🤩"},
+        {"en":"ill","es":"enfermo, malito","icon":"🤒"},
+        {"en":"hot","es":"con calor","icon":"🥵"},
+        {"en":"cold","es":"con frío","icon":"🥶"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "Los contrarios",
+      "title_en": "Opposites",
+      "icon": "↔️",
+      "color": "teal",
+      "head": ["Adjetivo","Español","Contrario · Opposite","Español"],
+      "rows": [
+        ["big","grande","small","pequeño"],
+        ["tall","alto","short","bajo"],
+        ["long","largo","short","corto"],
+        ["old","viejo, mayor","young","joven"],
+        ["old","viejo, antiguo","new","nuevo"],
+        ["hot","caliente, con calor","cold","frío, con frío"],
+        ["fast","rápido","slow","lento"],
+        ["happy","contento","sad","triste"],
+        ["good","bueno","bad","malo"],
+        ["clean","limpio","dirty","sucio"],
+        ["easy","fácil","difficult","difícil"],
+        ["full","lleno","empty","vacío"]
+      ],
+      "note": "Ojo: <b>short</b> es «bajo» (personas) y también «corto» (cosas). Y <b>old</b> es «mayor» (personas) y también «viejo, antiguo» (cosas).",
+      "note_en": "<b>short</b> = not tall / not long. <b>old</b> = not young / not new."
+    },
+    {
+      "t": "table",
+      "title": "Reglas de oro",
+      "title_en": "Golden rules",
+      "icon": "🏅",
+      "color": "orange",
+      "wide": true,
+      "head": ["Regla · Rule","✅ Así sí","❌ Así no","¿Por qué?"],
+      "rows": [
+        ["Delante del nombre","a <b>big</b> dog","<s>a dog big</s>","En inglés el adjetivo va primero."],
+        ["Sin plural","two <b>red</b> cars","<s>two reds cars</s>","El adjetivo nunca lleva -s."],
+        ["Con be","The soup <b>is</b> hot.","<s>The soup hot.</s>","¡No olvides is / are!"],
+        ["Tener → be","I'm <b>hungry</b>.","<s>I have hungry.</s>","Hambre, sed, frío, miedo → be."],
+        ["very / really delante","<b>very</b> big","<s>big very</s>","Very va antes del adjetivo."],
+        ["Tamaño antes que color","a <b>big red</b> ball","<s>a red big ball</s>","Primero tamaño, luego color."],
+        ["Sujeto obligatorio","<b>It's</b> very big.","<s>Is very big.</s>","¡Siempre con sujeto!"]
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {"en":"Rocky is a <b>small brown</b> dog.","es":"Rocky es un perro pequeño y marrón.","icon":"🐶"},
+        {"en":"I've got a <b>new red</b> bike.","es":"Tengo una bici roja nueva.","icon":"🚲"},
+        {"en":"My grandma has got <b>long white</b> hair.","es":"Mi abuela tiene el pelo largo y blanco.","icon":"👵"},
+        {"en":"The elephant is <b>very big</b> and <b>grey</b>.","es":"El elefante es muy grande y gris.","icon":"🐘"},
+        {"en":"Lucía is <b>happy</b> because it's her birthday.","es":"Lucía está contenta porque es su cumple.","icon":"🎂"},
+        {"en":"I'm <b>hungry</b>! Can I have a sandwich?","es":"¡Tengo hambre! ¿Me das un sándwich?","icon":"🥪"},
+        {"en":"The chips are <b>really good</b>!","es":"¡Las patatas fritas están buenísimas!","icon":"🍟"},
+        {"en":"Tom has got <b>blue</b> eyes and <b>short</b> hair.","es":"Tom tiene los ojos azules y el pelo corto.","icon":"👦"},
+        {"en":"It's <b>cold</b> today. Take your coat!","es":"Hoy hace frío. ¡Coge el abrigo!","icon":"🧥"},
+        {"en":"My bedroom is <b>small</b> but <b>beautiful</b>.","es":"Mi habitación es pequeña pero preciosa.","icon":"🛏️"},
+        {"en":"The film is <b>very funny</b>.","es":"La peli es muy divertida.","icon":"🎬"},
+        {"en":"Leo is <b>scared</b> of the <b>big black</b> spider.","es":"Leo tiene miedo de la araña grande y negra.","icon":"🕷️"}
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "trampas",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {"bad":"I've got a dog big.","good":"I've got a <b>big dog</b>.","why":"El adjetivo va delante.","why_en":"Adjective before the noun."},
+        {"bad":"I like reds cars.","good":"I like <b>red</b> cars.","why":"El adjetivo no lleva -s.","why_en":"No -s on adjectives."},
+        {"bad":"The cats are blacks.","good":"The cats are <b>black</b>.","why":"Tampoco con be: sin -s.","why_en":"No -s after be either."},
+        {"bad":"It's a car very fast.","good":"It's a <b>very fast car</b>.","why":"very + adjetivo + nombre.","why_en":"very + adjective + noun."},
+        {"bad":"I have hungry.","good":"I'm <b>hungry</b>.","why":"Tener hambre = be hungry.","why_en":"Use be, not have."},
+        {"bad":"She has got eyes blue.","good":"She has got <b>blue eyes</b>.","why":"Primero el color: blue eyes.","why_en":"Colour before the noun."},
+        {"bad":"Is very big.","good":"<b>It's</b> very big.","why":"¡Falta el sujeto!","why_en":"Don't forget the subject."},
+        {"bad":"a red big ball","good":"a <b>big red</b> ball","why":"Tamaño antes que color.","why_en":"Size before colour."}
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo describo algo?",
+      "title_en": "How do I describe something?",
+      "color": "orange",
+      "items": [
+        {"es":"Elige el <b>nombre</b>: dog, ball, house…","en":"Choose the noun."},
+        {"es":"Elige el <b>adjetivo</b>: ¿color? ¿tamaño? ¿cómo se siente?","en":"Choose the adjective: colour, size, feeling?"},
+        {"es":"Ponlo <b>delante</b>: a big dog. O detrás de is / are: The dog is big.","en":"Put it before the noun, or after is / are."},
+        {"es":"¿Quieres decir «muy»? Pon <b>very</b> o <b>really</b> delante del adjetivo.","en":"Add very or really before the adjective."},
+        {"es":"Repasa: ¿el adjetivo tiene -s? ¡Quítasela!","en":"Check: no -s on the adjective!"}
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "¿Cómo es tu mascota?",
+      "title_en": "What's your pet like?",
+      "lines": [
+        {"who":"Tom","en":"Have you got a pet, Mario?","es":"¿Tienes mascota, Mario?"},
+        {"who":"Mario","en":"Yes, I've got a dog. His name is Rocky.","es":"Sí, tengo un perro. Se llama Rocky."},
+        {"who":"Tom","en":"What's he like? Is he big?","es":"¿Cómo es? ¿Es grande?"},
+        {"who":"Mario","en":"No, he's small, but he's very fast!","es":"No, es pequeño, ¡pero es muy rápido!"},
+        {"who":"Tom","en":"What colour is he?","es":"¿De qué color es?"},
+        {"who":"Mario","en":"He's brown and white, and he's got long ears. He's really cute!","es":"Es marrón y blanco, y tiene las orejas largas. ¡Es monísimo!"}
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "Une los contrarios",
+      "title_en": "Match the opposites",
+      "icon": "🔗",
+      "es": "Une cada adjetivo con su contrario.",
+      "en": "Match each adjective with its opposite.",
+      "pairs": [["big","small"],["hot","cold"],["old","new"],["fast","slow"],["happy","sad"],["tall","short"],["clean","dirty"],["easy","difficult"]]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct option",
+      "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        {"q":"I've got a [big dog|dog big].","a":"big dog"},
+        {"q":"They are [happy|happys].","a":"happy"},
+        {"q":"I like [red cars|reds cars].","a":"red cars"},
+        {"q":"I'm [hungry|hunger].","a":"hungry"},
+        {"q":"It's a [very old|old very] house.","a":"very old"},
+        {"q":"Lucía has got [eyes green|green eyes].","a":"green eyes"},
+        {"q":"The soup is [hot|hots].","a":"hot"},
+        {"q":"[I'm|I have] cold.","a":"I'm"},
+        {"q":"It's a [big red|red big] ball.","a":"big red"},
+        {"q":"[It's|Is] very small.","a":"It's"}
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Color, tamaño o sentimiento",
+      "title_en": "Sort the adjectives",
+      "icon": "🗂️",
+      "es": "Escribe cada adjetivo en su caja.",
+      "en": "Write each adjective in the right box.",
+      "cats": [
+        {"name":"🌈 Colours","words":["purple","grey","pink","brown"]},
+        {"name":"📏 Size","words":["big","small","long","tall"]},
+        {"name":"😊 Feelings","words":["happy","tired","scared","angry"]}
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea el color",
+      "title_en": "Spell the colour",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe el color en las cajas.",
+      "en": "Unscramble the letters and write the colour.",
+      "items": [
+        {"q":"🟡 amarillo","a":"yellow"},
+        {"q":"🟣 morado","a":"purple"},
+        {"q":"🟤 marrón","a":"brown"},
+        {"q":"⚪ blanco","a":"white"},
+        {"q":"🐘 gris","a":"grey"},
+        {"q":"🟠 naranja","a":"orange"}
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "✔️",
+      "es": "Piensa en el mundo. ¿Es verdad (T) o es falso (F)?",
+      "en": "Think about the world. True or false?",
+      "items": [
+        {"q":"Snow is white.","a":true},
+        {"q":"Elephants are small.","a":false,"why":"They're big."},
+        {"q":"Ice cream is hot.","a":false,"why":"It's cold."},
+        {"q":"Giraffes are tall.","a":true},
+        {"q":"Tortoises are fast.","a":false,"why":"They're slow."},
+        {"q":"Lemons are yellow.","a":true},
+        {"q":"The sea is pink.","a":false,"why":"It's blue."},
+        {"q":"Babies are old.","a":false,"why":"They're young."}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe el contrario",
+      "title_en": "Write the opposite",
+      "icon": "↔️",
+      "es": "Completa con el contrario del adjetivo de la primera frase.",
+      "en": "Complete with the opposite adjective.",
+      "items": [
+        {"q":"Rocky isn't slow. He's ____.","a":"fast"},
+        {"q":"My bedroom isn't big. It's ____.","a":"small"},
+        {"q":"The water isn't hot. It's ____.","a":"cold"},
+        {"q":"My shoes aren't old. They're ____.","a":"new"},
+        {"q":"Grandad isn't young. He's ____.","a":"old"},
+        {"q":"The test isn't difficult. It's ____.","a":"easy"},
+        {"q":"My hands aren't clean. They're ____.","a":"dirty"},
+        {"q":"Lucía isn't sad today. She's ____.","a":"happy"}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "¿Cómo se sienten?",
+      "title_en": "How do they feel?",
+      "icon": "😊",
+      "es": "Completa con un adjetivo del recuadro. ¡Recuerda: tener hambre = be hungry!",
+      "en": "Complete with a word from the box.",
+      "bank": ["happy","tired","hungry","thirsty","scared","angry","cold","ill"],
+      "items": [
+        {"q":"Leo has got a new bike. He's ____.","a":"happy"},
+        {"q":"It's ten o'clock at night. I'm ____.","a":"tired"},
+        {"q":"I want a sandwich. I'm ____.","a":"hungry"},
+        {"q":"I want some water. I'm ____.","a":"thirsty"},
+        {"q":"There's a big spider! Lucía is ____.","a":"scared"},
+        {"q":"Rocky has got my sock again! Mum is ____.","a":"angry"},
+        {"q":"It's snowing and I haven't got a coat. I'm ____.","a":"cold"},
+        {"q":"I've got a temperature. I'm ____.","a":"ill"}
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡El adjetivo va delante del nombre!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {"q":"a / dog / big / I / have / got","a":"I have got a big dog."},
+        {"q":"is / the / sky / blue","a":"The sky is blue."},
+        {"q":"very / is / my / tall / brother","a":"My brother is very tall."},
+        {"q":"small / a / it's / black / cat","a":"It's a small black cat."},
+        {"q":"are / my / new / shoes","a":"My shoes are new."},
+        {"q":"hungry / I'm / very","a":"I'm very hungry."},
+        {"q":"eyes / has / green / got / Lucía","a":"Lucía has got green eyes."},
+        {"q":"really / this / is / good / pizza","a":"This pizza is really good."}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Una frase más corta",
+      "title_en": "Make one sentence",
+      "icon": "✂️",
+      "es": "Escribe la misma idea con el adjetivo delante del nombre. Ejemplo: The dog is big. → It's a big dog.",
+      "en": "Rewrite with the adjective before the noun.",
+      "items": [
+        {"q":"The car is red.","a":"It's a red car."},
+        {"q":"The house is old.","a":"It's an old house."},
+        {"q":"The film is funny.","a":"It's a funny film."},
+        {"q":"The shoes are new.","a":"They're new shoes."},
+        {"q":"The cat is black.","a":"It's a black cat."},
+        {"q":"The flowers are yellow.","a":"They're yellow flowers."},
+        {"q":"The boy is tall.","a":"He's a tall boy."},
+        {"q":"The girls are happy.","a":"They're happy girls."}
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Pasa a plural",
+      "title_en": "Make it plural",
+      "icon": "🔢",
+      "es": "Escribe en plural con el número. ¡El nombre lleva -s, pero el adjetivo no cambia!",
+      "en": "Write it in the plural. The adjective doesn't change!",
+      "head": ["Singular","Plural"],
+      "rows": [
+        ["a red car (3)","?three red cars"],
+        ["a small cat (2)","?two small cats"],
+        ["a tall boy (4)","?four tall boys"],
+        ["a new book (5)","?five new books"],
+        ["an old house (2)","?two old houses"],
+        ["a long pencil (6)","?six long pencils"],
+        ["a yellow ball (10)","?ten yellow balls"],
+        ["a happy girl (2)","?two happy girls"]
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {"q":"I've got a dog big.","a":"I've got a big dog."},
+        {"q":"I like reds cars.","a":"I like red cars."},
+        {"q":"The cats are blacks.","a":"The cats are black."},
+        {"q":"It's a car very fast.","a":"It's a very fast car."},
+        {"q":"I have hungry.","a":"I'm hungry."},
+        {"q":"She has got eyes blue.","a":"She has got blue eyes."},
+        {"q":"Is very big.","a":"It's very big."},
+        {"q":"It's a red big ball.","a":"It's a big red ball."}
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Describe los animales",
+      "title_en": "Describe the animals",
+      "icon": "🐾",
+      "es": "Escribe una frase con los dos adjetivos: primero el tamaño, luego el color.",
+      "en": "Write a sentence: size first, then colour.",
+      "items": [
+        {"q":"🐘 elephant · big · grey","a":"It's a big grey elephant."},
+        {"q":"🐭 mouse · small · white","a":"It's a small white mouse."},
+        {"q":"🦒 giraffe · tall · yellow","a":"It's a tall yellow giraffe."},
+        {"q":"🐍 snake · long · green","a":"It's a long green snake."},
+        {"q":"🐈 cat · small · black","a":"It's a small black cat."},
+        {"q":"🐻 bear · big · brown","a":"It's a big brown bear."},
+        {"q":"🐟 fish · small · orange","a":"It's a small orange fish."},
+        {"q":"🐧🐧 penguins · small · black and white","a":"They're small black and white penguins."}
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Recuerda: el adjetivo va delante y no lleva -s.",
+      "en": "Translate into English.",
+      "items": [
+        {"q":"un perro grande","a":"a big dog"},
+        {"q":"Tengo hambre.","a":"I'm hungry."},
+        {"q":"Mis zapatos son nuevos.","a":"My shoes are new."},
+        {"q":"Lucía tiene los ojos verdes.","a":"Lucía has got green eyes."},
+        {"q":"Es un coche muy rápido.","a":"It's a very fast car."},
+        {"q":"Los gatos son negros.","a":"The cats are black."},
+        {"q":"Tengo frío.","a":"I'm cold."},
+        {"q":"Rocky es pequeño, pero muy fuerte.","a":"Rocky is small, but very strong."}
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "My monster",
+      "text": [
+        "Hi! I'm Mario and this is my monster. His name is Bobo. He's very big and he's green. He's got three small eyes and a long red nose. His ears are small and pink. He's got four short legs and big yellow feet!",
+        "Bobo is very friendly. He isn't scary! He's always hungry, and his favourite food is cold pizza. When he's tired, he sleeps under my bed. My mum isn't very happy about that!"
+      ],
+      "items": [
+        {"q":"Bobo is small.","tf":true,"a":false,"why":"He's very big."},
+        {"q":"Bobo has got three eyes.","tf":true,"a":true},
+        {"q":"Bobo is scary.","tf":true,"a":false,"why":"He's friendly. He isn't scary."},
+        {"q":"What colour is Bobo?","a":"He's green."},
+        {"q":"What colour is his nose?","a":"It's red."},
+        {"q":"What's his favourite food?","a":"Cold pizza."},
+        {"q":"Where does Bobo sleep?","a":"Under Mario's bed."}
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca los 8 adjetivos. Después escribe dos frases sobre ti con dos de ellos.",
+      "en": "Find the 8 adjectives. Then write two sentences about you.",
+      "words": ["happy","angry","tired","hungry","scared","small","purple","yellow"],
+      "clues": ["happy · contento","angry · enfadado","tired · cansado","hungry · con hambre","scared · asustado","small · pequeño","purple · morado","yellow · amarillo"]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Describe con adjetivos. Usa very o really al menos una vez.",
+      "en": "Describe with adjectives. Use very or really.",
+      "items": [
+        {"q":"Describe a tu mascota o a tu animal favorito: It's… / It's got…","lines":2,"a":"Ej.: My dog is small and brown. He's got long ears."},
+        {"q":"Describe a un amigo: He's / She's… He's / She's got…","lines":2,"a":"Ej.: Leo is tall. He's got short black hair and brown eyes."},
+        {"q":"¿Cómo te sientes hoy? Usa very o really.","lines":1,"a":"Ej.: I'm really happy because it's Friday!"},
+        {"q":"Dibuja un monstruo y descríbelo.","lines":3,"a":"Ej.: My monster is very big and purple. It's got two small eyes and a long tail."}
+      ]
+    }
+  ],
+  "checklist": [
+    {"es":"Pongo el adjetivo <b>delante</b> del nombre: a big dog.","en":"I put adjectives before the noun."},
+    {"es":"Nunca pongo <b>-s</b> al adjetivo: red cars.","en":"I never add -s to adjectives."},
+    {"es":"Sé usar el adjetivo con <b>be</b>: The soup is hot.","en":"I can use adjectives after be."},
+    {"es":"Digo «tengo hambre» con <b>be</b>: I'm hungry.","en":"I say I'm hungry, not I have hungry."},
+    {"es":"Sé usar <b>very</b> y <b>really</b>.","en":"I can use very and really."},
+    {"es":"Sé los colores, los tamaños, los sentimientos y los contrarios.","en":"I know colours, sizes, feelings and opposites."}
+  ]
+}

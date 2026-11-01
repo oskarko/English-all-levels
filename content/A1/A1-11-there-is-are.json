@@ -1,0 +1,465 @@
+{
+  "id": "A1-11",
+  "level": "A1",
+  "title": "THERE IS <em>y</em> THERE ARE",
+  "file_title": "There is y there are",
+  "subtitle": "There is / there are · hay",
+  "icon": "🏡",
+  "map": {
+    "center": "Para decir <b>hay</b>: <b>There is</b> + una cosa, <b>There are</b> + muchas. ¡Nunca <s>have</s>!",
+    "nodes": [
+      {
+        "title": "Afirmativa", "icon": "✅", "art": "🐈",
+        "items": ["<b>There is</b> (There's) a cat. <i>(1)</i>", "<b>There are</b> two cats. <i>(+1)</i>", "hay = there is / there are"]
+      },
+      {
+        "title": "Negativa", "icon": "⛔",
+        "items": ["<b>There isn't</b> a park.", "<b>There aren't any</b> shops.", "¡Nunca <s>No there is</s>!"]
+      },
+      {
+        "title": "Preguntas", "icon": "❓",
+        "items": ["<b>Is there</b> a pool?", "<b>Are there any</b> sweets?", "is / are salta delante de there."]
+      },
+      {
+        "title": "Respuestas cortas", "icon": "💬",
+        "items": ["Yes, there <b>is</b>. / No, there <b>isn't</b>.", "Yes, there <b>are</b>. / No, there <b>aren't</b>.", "En el sí, sin contraer: <s>Yes, there's.</s>"]
+      },
+      {
+        "title": "SOME y ANY", "icon": "🍪", "art": "🍬",
+        "items": ["✅ There are <b>some</b> apples.", "⛔ There aren't <b>any</b> apples.", "❓ Are there <b>any</b> apples?"]
+      },
+      {
+        "title": "HOW MANY…?", "icon": "🔢",
+        "items": ["<b>How many</b> cats <b>are there</b>?", "There are three. / There's one.", "How many + plural + are there?"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["Have a dog in the park."],
+      "good": ["There is a dog in the park."],
+      "note": "hay = <b>there is / there are</b>"
+    },
+    "mini": {
+      "es": "Completa con there is / there are.",
+      "en": "Complete with there is / there are.",
+      "items": [
+        { "q": "___ a cat on the sofa.", "a": "There is" },
+        { "q": "___ two pens in my bag.", "a": "There are" },
+        { "q": "___ a park near your house?", "a": "Is there" },
+        { "q": "There ___ any sweets. ⛔", "a": "aren't" },
+        { "q": "How many boys ___?", "a": "are there" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "En español decimos <b>hay</b> para todo: <i>hay un gato, hay dos gatos</i>. En inglés hay que elegir: <b>There is</b> para <mark>una</mark> cosa y <b>There are</b> para <mark>muchas</mark>. ¡Y nunca traduzcas «hay» con <s>have</s> ni con <s>has</s>!",
+      "en": "<b>There is</b> + one thing, <b>There are</b> + many things. Never use <s>have</s> to say «hay».",
+      "formula": ["*There is* + a / an + singular", "*There are* + two / some + plural"]
+    },
+    {
+      "t": "rule", "title": "1 · Afirmativa", "title_en": "Affirmative", "icon": "✅", "color": "green",
+      "es": "<b>There is</b> va con <b>una</b> cosa (singular) y casi siempre se contrae: <b>There's</b>. <b>There are</b> va con <b>varias</b> cosas (plural): two, three, some, a lot of… <i>There are</i> no se contrae al escribir.",
+      "en": "<b>There is</b> (There's) + one thing. <b>There are</b> + two or more things.",
+      "formula": ["*There's* + a cat", "*There are* + three cats"],
+      "examples": [
+        { "en": "<b>There's</b> a cat on the sofa.", "es": "Hay un gato en el sofá.", "icon": "🐈" },
+        { "en": "<b>There are</b> three bedrooms in my house.", "es": "Hay tres dormitorios en mi casa.", "icon": "🛏️" },
+        { "en": "<b>There's</b> an apple in my bag.", "es": "Hay una manzana en mi mochila.", "icon": "🍎" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · Negativa", "title_en": "Negative", "icon": "⛔", "color": "red",
+      "es": "Ponemos <b>not</b> detrás de is / are: <b>There isn't</b> y <b>There aren't</b>. Con plural solemos añadir <b>any</b>. ¡No digas <s>No there is</s>!",
+      "en": "<b>There isn't</b> + one thing. <b>There aren't any</b> + plural.",
+      "formula": ["*There isn't* + a park", "*There aren't any* + shops"],
+      "examples": [
+        { "en": "<b>There isn't</b> a ball in the box.", "es": "No hay ninguna pelota en la caja.", "icon": "⚽" },
+        { "en": "<b>There aren't any</b> biscuits. Oh no!", "es": "No hay galletas. ¡Oh, no!", "icon": "🍪" },
+        { "en": "<b>There isn't</b> a cinema in my village.", "es": "No hay cine en mi pueblo.", "icon": "🎬" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco del dedo", "title_en": "The finger trick",
+      "es": "Cuenta con los dedos lo que hay: ¿<b>1</b> dedo? → <b>There is</b>. ¿<b>2 o más</b>? → <b>There are</b>. Y recuerda: si en español dices «hay», en inglés la frase empieza por <b>There</b>.",
+      "en": "One finger → There is. Two or more → There are. «hay» always starts with <b>There</b>."
+    },
+    {
+      "t": "rule", "title": "3 · Preguntas", "title_en": "Questions", "icon": "❓", "color": "blue",
+      "es": "Para preguntar, <b>is / are</b> salta delante de <b>there</b>, ¡como con to be!",
+      "en": "<b>is / are</b> jumps in front of <b>there</b>.",
+      "formula": ["*Is there* + a park + ?", "*Are there any* + shops + ?"],
+      "examples": [
+        { "en": "<b>Is there</b> a park near your house? — Yes, there is.", "es": "¿Hay un parque cerca de tu casa? — Sí.", "icon": "🌳" },
+        { "en": "<b>Are there any</b> sweets in the box? — No, there aren't.", "es": "¿Hay caramelos en la caja? — No.", "icon": "🍬" }
+      ]
+    },
+    {
+      "t": "table", "title": "4 · Respuestas cortas", "title_en": "Short answers", "icon": "💬", "color": "teal",
+      "head": ["Pregunta · Question", "✅ Sí · Yes", "⛔ No"],
+      "rows": [
+        ["<b>Is there</b> a park?", "Yes, there <b>is</b>.", "No, there <b>isn't</b>."],
+        ["<b>Are there any</b> shops?", "Yes, there <b>are</b>.", "No, there <b>aren't</b>."]
+      ],
+      "note": "En la respuesta corta <b>sí</b> repetimos <b>there</b>, pero el «sí» no se contrae: <s>Yes, there's.</s> → Yes, there <b>is</b>.",
+      "note_en": "Short answers keep <b>there</b>. Don't contract the yes answer: Yes, there is."
+    },
+    {
+      "t": "rule", "title": "SOME y ANY", "title_en": "some and any", "icon": "🍪", "color": "orange",
+      "es": "Con plural usamos <b>some</b> (unos, algunos) en las frases <b>afirmativas</b>, y <b>any</b> (ningún, algún) en las <b>negativas</b> y las <b>preguntas</b>. Truco: <i>some</i> = ✅; <i>any</i> = ⛔ y ❓.",
+      "en": "<b>some</b> in affirmative sentences; <b>any</b> in negatives and questions.",
+      "formula": ["There are + *some* + apples", "There aren't + *any* + apples", "Are there + *any* + apples?"],
+      "examples": [
+        { "en": "There are <b>some</b> books on the table.", "es": "Hay unos libros en la mesa.", "icon": "📚" },
+        { "en": "There aren't <b>any</b> eggs in the fridge.", "es": "No hay huevos en la nevera.", "icon": "🥚" },
+        { "en": "Are there <b>any</b> cartoons on TV?", "es": "¿Hay dibujos en la tele?", "icon": "📺" }
+      ]
+    },
+    {
+      "t": "rule", "title": "HOW MANY… ARE THERE?", "title_en": "How many… are there?", "icon": "🔢", "color": "purple",
+      "es": "Para preguntar <b>cuántos</b> hay: <b>How many</b> + nombre en <b>plural</b> + <b>are there</b>? Respondemos <i>There are three.</i> Si hay uno: <i>There's one.</i> Y si no hay ninguno: <i>There aren't any.</i>",
+      "en": "<b>How many</b> + plural noun + <b>are there</b>? → There are… / There's one. / There aren't any.",
+      "formula": ["*How many* + cats + *are there* + ?"],
+      "examples": [
+        { "en": "<b>How many</b> children <b>are there</b> in your class? — There are twenty-four.", "es": "¿Cuántos niños hay en tu clase? — Hay veinticuatro.", "icon": "🧒" },
+        { "en": "<b>How many</b> days <b>are there</b> in a week? — There are seven.", "es": "¿Cuántos días hay en una semana? — Hay siete.", "icon": "📅" },
+        { "en": "<b>How many</b> pencils <b>are there</b> in your pencil case? — There's one!", "es": "¿Cuántos lápices hay en tu estuche? — ¡Hay uno!", "icon": "✏️" }
+      ]
+    },
+    {
+      "t": "compare", "title": "¡Trampa! HAY no es HAVE", "title_en": "hay is not have", "icon": "⚠️", "color": "red",
+      "es": "Como en español «hay» viene del verbo <i>haber</i>, a veces intentamos traducirlo con <b>have</b> o <b>has</b>. ¡Error! <b>have</b> = tener. Para decir que algo <mark>existe o está</mark> en un sitio, usa siempre <b>there is / there are</b>. ¡Y no te olvides de <b>there</b>!",
+      "en": "<b>have</b> = tener. To say that something exists or is somewhere, use <b>there is / there are</b>.",
+      "cols": [
+        { "head": "⛔ Calco del español", "color": "red", "items": ["<s>Have a dog in the park.</s>", "<s>In my room has two beds.</s>", "<s>Is a cat on the sofa.</s>", "<s>There is two cats.</s>"] },
+        { "head": "✅ Inglés de verdad", "color": "green", "items": ["There's a dog in the park.", "There are two beds in my room.", "There's a cat on the sofa.", "There are two cats."] }
+      ]
+    },
+    {
+      "t": "compare", "title": "THERE IS o IT IS", "title_en": "there is or it is?", "icon": "🔦", "color": "purple",
+      "es": "<b>There is / There are</b> presentan algo <b>nuevo</b> (dicen que existe). Después, para describirlo, usamos <b>It is</b> (una cosa) o <b>They are</b> (varias): <i>There's a dog in the garden. It's black.</i>",
+      "en": "<b>There is</b> introduces something new. Then <b>it is / they are</b> describe it.",
+      "cols": [
+        { "head": "👀 There is / are · ¡existe!", "color": "blue", "items": ["There's a dog in the garden.", "There are two cakes.", "There are some flowers."] },
+        { "head": "🖍️ It is / They are · cómo es", "color": "pink", "items": ["It's black and white.", "They're chocolate cakes.", "They're red and yellow."] }
+      ]
+    },
+    {
+      "t": "vocab", "title": "¿Qué hay en mi casa?", "title_en": "What's there in my house?", "icon": "🏠", "color": "teal",
+      "items": [
+        { "en": "kitchen", "es": "cocina", "icon": "🍳" },
+        { "en": "bathroom", "es": "baño", "icon": "🛁" },
+        { "en": "bedroom", "es": "dormitorio", "icon": "🛏️" },
+        { "en": "living room", "es": "salón", "icon": "🛋️" },
+        { "en": "garden", "es": "jardín", "icon": "🌳" },
+        { "en": "window", "es": "ventana", "icon": "🪟" },
+        { "en": "door", "es": "puerta", "icon": "🚪" },
+        { "en": "stairs", "es": "escaleras", "icon": "🪜" },
+        { "en": "lamp", "es": "lámpara", "icon": "💡" },
+        { "en": "picture", "es": "cuadro", "icon": "🖼️" },
+        { "en": "chair", "es": "silla", "icon": "🪑" },
+        { "en": "clock", "es": "reloj", "icon": "🕰️" }
+      ]
+    },
+    {
+      "t": "table", "title": "Todo junto", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["", "✅ Afirmativa", "⛔ Negativa", "❓ Pregunta", "💬 Respuesta corta"],
+      "rows": [
+        ["Uno · singular", "There is (There's) a cat.", "There isn't a cat.", "Is there a cat?", "Yes, there is. / No, there isn't."],
+        ["Muchos · plural", "There are some cats.", "There aren't any cats.", "Are there any cats?", "Yes, there are. / No, there aren't."]
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "<b>There's</b> a new boy in my class. His name is Tom.", "es": "Hay un niño nuevo en mi clase. Se llama Tom.", "icon": "👦" },
+        { "en": "<b>There are</b> five apples in the bowl.", "es": "Hay cinco manzanas en el frutero.", "icon": "🍏" },
+        { "en": "<b>There aren't any</b> clouds today.", "es": "Hoy no hay nubes.", "icon": "☀️" },
+        { "en": "<b>Is there</b> a toilet here, please?", "es": "¿Hay un baño aquí, por favor?", "icon": "🚻" },
+        { "en": "<b>Are there any</b> monkeys at the zoo? — Yes, <b>there are</b>.", "es": "¿Hay monos en el zoo? — Sí.", "icon": "🐒" },
+        { "en": "<b>There's</b> a spider in the bath! Help!", "es": "¡Hay una araña en la bañera! ¡Socorro!", "icon": "🕷️" },
+        { "en": "<b>How many</b> players <b>are there</b> in a football team? — Eleven.", "es": "¿Cuántos jugadores hay en un equipo de fútbol? — Once.", "icon": "⚽" },
+        { "en": "<b>There are some</b> sweets in my pocket.", "es": "Hay unos caramelos en mi bolsillo.", "icon": "🍬" },
+        { "en": "<b>Is there</b> a cat in your house? — No, <b>there isn't</b>. But there's a dog!", "es": "¿Hay un gato en tu casa? — No. ¡Pero hay un perro!", "icon": "🐶" },
+        { "en": "<b>There are</b> two bikes in the garden: Mario's and Lucía's.", "es": "Hay dos bicis en el jardín: la de Mario y la de Lucía.", "icon": "🚲" },
+        { "en": "<b>There's</b> a big tree next to our school.", "es": "Hay un árbol grande al lado de nuestro cole.", "icon": "🌳" },
+        { "en": "<b>There aren't any</b> chairs. Let's sit on the floor!", "es": "No hay sillas. ¡Sentémonos en el suelo!", "icon": "🪑" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "trampas", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "Have a dog in the park.", "good": "<b>There is</b> a dog in the park.", "why": "hay = there is, no have.", "why_en": "hay = there is, not have." },
+        { "bad": "There is two cats.", "good": "There <b>are</b> two cats.", "why": "Plural → there are.", "why_en": "Plural → there are." },
+        { "bad": "There are a cat.", "good": "There <b>is</b> a cat.", "why": "Una cosa → there is.", "why_en": "One thing → there is." },
+        { "bad": "No there is a park.", "good": "There <b>isn't</b> a park.", "why": "Negativa: isn't, nunca «no» delante.", "why_en": "Negative: isn't." },
+        { "bad": "There is a park near here?", "good": "<b>Is there</b> a park near here?", "why": "Pregunta: is va delante.", "why_en": "Questions: is comes first." },
+        { "bad": "Yes, there's.", "good": "Yes, there <b>is</b>.", "why": "En el sí corto no se contrae.", "why_en": "No contraction in yes answers." },
+        { "bad": "There aren't some sweets.", "good": "There aren't <b>any</b> sweets.", "why": "Negativa → any.", "why_en": "Negative → any." },
+        { "bad": "How many cats there are?", "good": "How many cats <b>are there</b>?", "why": "Pregunta: are there.", "why_en": "Question order: are there." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Cómo construyo la frase?", "title_en": "How do I build it?", "color": "orange",
+      "items": [
+        { "es": "¿Quiero decir <b>hay</b>? → there is / there are (¡no have!).", "en": "«hay» → there is / there are." },
+        { "es": "¿Una cosa (a, an, one)? → <b>There is</b>. ¿Varias? → <b>There are</b>.", "en": "One → There is. Many → There are." },
+        { "es": "¿Negativa? → There <b>isn't</b>… / There <b>aren't any</b>…", "en": "Negative → isn't / aren't any." },
+        { "es": "¿Pregunta? → <b>Is there</b>…? / <b>Are there any</b>…?", "en": "Question → Is there…? Are there any…?" },
+        { "es": "¿Cuántos? → <b>How many</b> + plural + <b>are there</b>?", "en": "How many + plural + are there?" }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "La casa nueva de Sara", "title_en": "Sara's new house",
+      "lines": [
+        { "who": "Mario", "en": "Is there a garden in your new house, Sara?", "es": "¿Hay jardín en tu casa nueva, Sara?" },
+        { "who": "Sara", "en": "Yes, there is! And there's a swing.", "es": "¡Sí! Y hay un columpio." },
+        { "who": "Mario", "en": "Cool! How many bedrooms are there?", "es": "¡Qué guay! ¿Cuántos dormitorios hay?" },
+        { "who": "Sara", "en": "There are three. My bedroom is blue.", "es": "Hay tres. Mi dormitorio es azul." },
+        { "who": "Mario", "en": "Are there any children in your street?", "es": "¿Hay niños en tu calle?" },
+        { "who": "Sara", "en": "No, there aren't. But there's a big park near my house.", "es": "No. Pero hay un parque grande cerca de mi casa." },
+        { "who": "Mario", "en": "Great! Let's play football there on Saturday!", "es": "¡Genial! ¡Juguemos al fútbol allí el sábado!" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify", "title": "¿There is o there are?", "title_en": "There is or there are?", "icon": "🗂️",
+      "es": "Escribe cada grupo de palabras en su caja. ¿Es una cosa o son varias?",
+      "en": "Write each phrase in the right box.",
+      "cats": [
+        { "name": "There is…", "words": ["a cat", "an apple", "one book", "a park", "an elephant", "a big tree"] },
+        { "name": "There are…", "words": ["two cats", "some apples", "three books", "a lot of parks", "some children", "five trees"] }
+      ]
+    },
+    {
+      "t": "choose", "title": "Rodea la correcta", "title_en": "Circle the correct word", "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "There [is|are] a dog in the garden.", "a": "is" },
+        { "q": "There [is|are] three pencils on my desk.", "a": "are" },
+        { "q": "[Is|Are] there a bank near here?", "a": "Is" },
+        { "q": "[Is|Are] there any biscuits?", "a": "Are" },
+        { "q": "There [isn't|aren't] a cinema in my town.", "a": "isn't" },
+        { "q": "There [isn't|aren't] any eggs.", "a": "aren't" },
+        { "q": "There are [some|any] books on the shelf.", "a": "some" },
+        { "q": "Are there [some|any] monkeys at the zoo?", "a": "any" },
+        { "q": "How many children [is there|are there]?", "a": "are there" },
+        { "q": "Is there a pool? — Yes, [there is|there's].", "a": "there is" }
+      ]
+    },
+    {
+      "t": "match", "title": "Une pregunta y respuesta", "title_en": "Match questions and answers", "icon": "🔗",
+      "es": "Une cada pregunta con su respuesta.",
+      "en": "Match each question with its answer.",
+      "pairs": [
+        ["Is there a park near your house?", "Yes, there is. It's very big."],
+        ["Are there any sweets?", "No, there aren't. Sorry!"],
+        ["How many people are there in your family?", "There are four."],
+        ["Is there a TV in your bedroom?", "No, there isn't."],
+        ["Are there any pupils in the classroom?", "Yes, there are. Twenty-five!"],
+        ["How many days are there in a week?", "There are seven."]
+      ]
+    },
+    {
+      "t": "spell", "title": "Deletrea la casa", "title_en": "Spell the house words", "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en las cajas.",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        { "q": "🍳 cocina", "a": "kitchen" },
+        { "q": "🛁 baño", "a": "bathroom" },
+        { "q": "🛏️ dormitorio", "a": "bedroom" },
+        { "q": "🌳 jardín", "a": "garden" },
+        { "q": "🪑 silla", "a": "chair" },
+        { "q": "🚪 puerta", "a": "door" },
+        { "q": "🪟 ventana", "a": "window" },
+        { "q": "🛋️ sofá", "a": "sofa" }
+      ]
+    },
+    {
+      "t": "fill", "title": "There is o there are", "title_en": "There is or there are", "icon": "✏️",
+      "es": "Completa con There is o There are. Pregúntate: ¿una cosa o varias?",
+      "en": "Complete with There is or There are.",
+      "bank": ["There is", "There are"],
+      "items": [
+        { "q": "____ a cat under the table.", "a": "There is" },
+        { "q": "____ two bikes in the garden.", "a": "There are" },
+        { "q": "____ an orange in my bag.", "a": "There is" },
+        { "q": "____ some biscuits on the plate.", "a": "There are" },
+        { "q": "____ a lot of children in the park.", "a": "There are" },
+        { "q": "____ one bathroom in our flat.", "a": "There is" },
+        { "q": "____ three bedrooms upstairs.", "a": "There are" },
+        { "q": "____ a spider in the bath!", "a": "There is" },
+        { "q": "____ twenty-six letters in the English alphabet.", "a": "There are" },
+        { "q": "____ a big tree in front of my house.", "a": "There is" }
+      ]
+    },
+    {
+      "t": "fill", "title": "Negativas y preguntas", "title_en": "Negatives and questions", "icon": "⛔",
+      "es": "Completa con isn't, aren't, Is there o Are there.",
+      "en": "Complete with isn't, aren't, Is there or Are there.",
+      "bank": ["isn't", "aren't", "Is there", "Are there"],
+      "items": [
+        { "q": "There ___ a cinema in my village.", "a": "isn't" },
+        { "q": "There ___ any shops near my house.", "a": "aren't" },
+        { "q": "____ a toilet on this floor?", "a": "Is there" },
+        { "q": "____ any apples in the fridge?", "a": "Are there" },
+        { "q": "There ___ any clouds today.", "a": "aren't" },
+        { "q": "____ a swimming pool at your school?", "a": "Is there" },
+        { "q": "There ___ a ball in the box.", "a": "isn't" },
+        { "q": "____ any cartoons on TV now?", "a": "Are there" }
+      ]
+    },
+    {
+      "t": "fill", "title": "¿Some o any?", "title_en": "some or any?", "icon": "🍪",
+      "es": "Completa con some (✅ afirmativa) o any (⛔ negativa y ❓ pregunta).",
+      "en": "Complete with some or any.",
+      "bank": ["some", "any"],
+      "items": [
+        { "q": "There are ___ books on my desk.", "a": "some" },
+        { "q": "There aren't ___ sweets in the jar.", "a": "any" },
+        { "q": "Are there ___ cats in your street?", "a": "any" },
+        { "q": "There are ___ flowers in the garden.", "a": "some" },
+        { "q": "Are there ___ children in the park?", "a": "any" },
+        { "q": "There aren't ___ chairs in the room.", "a": "any" },
+        { "q": "There are ___ birds in the tree.", "a": "some" },
+        { "q": "Are there ___ biscuits for me?", "a": "any" }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Verdadero o falso?", "title_en": "True or false?", "icon": "✔️",
+      "es": "Lee cada frase. Marca T (verdadero) o F (falso).",
+      "en": "Read each sentence. Tick T or F.",
+      "items": [
+        { "q": "We use <b>There is</b> with one thing.", "a": true },
+        { "q": "We say <b>There is two dogs.</b>", "a": false, "why": "There are two dogs." },
+        { "q": "<i>Hay un perro</i> = <b>Have a dog</b>.", "a": false, "why": "There is a dog." },
+        { "q": "The question is <b>Is there…?</b>", "a": true },
+        { "q": "We use <b>any</b> in negative sentences and questions.", "a": true },
+        { "q": "The short answer is <b>Yes, there's.</b>", "a": false, "why": "Yes, there is." },
+        { "q": "<b>How many cats are there?</b> is correct.", "a": true },
+        { "q": "We say <b>No there is a park.</b>", "a": false, "why": "There isn't a park." }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Completa la tabla", "title_en": "Complete the table", "icon": "📋", "wide": true,
+      "es": "Completa las casillas vacías. Recuerda: some en afirmativa, any en negativa y pregunta.",
+      "en": "Fill in the empty boxes.",
+      "head": ["✅ Afirmativa", "⛔ Negativa", "❓ Pregunta"],
+      "rows": [
+        ["There is a cat.", "?There isn't a cat.", "?Is there a cat?"],
+        ["There are some dogs.", "?There aren't any dogs.", "?Are there any dogs?"],
+        ["?There is a park.", "There isn't a park.", "?Is there a park?"],
+        ["?There are some shops.", "?There aren't any shops.", "Are there any shops?"]
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Pregunta y responde", "title_en": "Ask and answer", "icon": "❓",
+      "es": "Escribe la pregunta con Is there…? o Are there any…? y la respuesta corta. Fíjate en la pista (YES / NO).",
+      "en": "Write the question and the short answer.",
+      "labels": ["❓", "💬"],
+      "items": [
+        { "q": "a park / near your house (YES)", "a": ["Is there a park near your house?", "Yes, there is."] },
+        { "q": "sweets / in the box (NO)", "a": ["Are there any sweets in the box?", "No, there aren't."] },
+        { "q": "a computer / in your classroom (YES)", "a": ["Is there a computer in your classroom?", "Yes, there is."] },
+        { "q": "shops / in your street (YES)", "a": ["Are there any shops in your street?", "Yes, there are."] },
+        { "q": "a pool / at your school (NO)", "a": ["Is there a pool at your school?", "No, there isn't."] },
+        { "q": "monkeys / at the zoo (YES)", "a": ["Are there any monkeys at the zoo?", "Yes, there are."] }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        { "q": "a / there's / cat / on the sofa", "a": "There's a cat on the sofa." },
+        { "q": "are / there / two / in the box / balls", "a": "There are two balls in the box." },
+        { "q": "there / a / is / park / ?", "a": "Is there a park?" },
+        { "q": "any / there / sweets / aren't", "a": "There aren't any sweets." },
+        { "q": "many / how / are / there / books / ?", "a": "How many books are there?" },
+        { "q": "isn't / there / a / cinema / in my town", "a": "There isn't a cinema in my town." },
+        { "q": "any / are / there / at the zoo / lions / ?", "a": "Are there any lions at the zoo?" },
+        { "q": "some / are / there / on the table / apples", "a": "There are some apples on the table." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "Have a cat on the sofa.", "a": "There is a cat on the sofa." },
+        { "q": "There is three boys in the park.", "a": "There are three boys in the park." },
+        { "q": "There are a book on my desk.", "a": "There is a book on my desk." },
+        { "q": "No there is a bank here.", "a": "There isn't a bank here." },
+        { "q": "There is a pool at your school?", "a": "Is there a pool at your school?" },
+        { "q": "Are there some biscuits?", "a": "Are there any biscuits?" },
+        { "q": "Is there a park? — Yes, there's.", "a": "Is there a park? — Yes, there is." },
+        { "q": "How many dogs there are?", "a": "How many dogs are there?" },
+        { "q": "In my room there is two windows.", "a": "In my room there are two windows." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Piensa: ¿una cosa o varias? ¿afirmativa, negativa o pregunta?",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Hay un perro en el jardín.", "a": "There's a dog in the garden." },
+        { "q": "Hay tres libros en mi mochila.", "a": "There are three books in my bag." },
+        { "q": "No hay piscina en mi cole.", "a": "There isn't a swimming pool at my school." },
+        { "q": "¿Hay un parque por aquí?", "a": "Is there a park near here?" },
+        { "q": "¿Hay plátanos? — No.", "a": "Are there any bananas? — No, there aren't." },
+        { "q": "No hay galletas.", "a": "There aren't any biscuits." },
+        { "q": "¿Cuántos niños hay en tu clase?", "a": "How many children are there in your class?" },
+        { "q": "Hay unas flores en la mesa.", "a": "There are some flowers on the table." },
+        { "q": "Hay un gato. Es negro. (¡cuidado!)", "a": "There's a cat. It's black." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto y subraya there is, there are, there isn't y there aren't. Después marca T o F y contesta las preguntas.",
+      "en": "Read the text and underline the there is / there are sentences. Then tick T or F and answer the questions.",
+      "text_title": "My school",
+      "text": [
+        "Hi, I'm Mario! My school is in Madrid. It's big and it's got a red door. There are twenty classrooms and there's a big library with a lot of books.",
+        "In my classroom there are twenty-four children and one teacher, Miss Brown. There's a whiteboard and there are some computers, but there isn't a TV.",
+        "There's a playground with a football pitch, but there isn't a swimming pool. Are there any animals at my school? Yes, there are! There are three fish in our classroom!"
+      ],
+      "items": [
+        { "q": "There are twenty classrooms in Mario's school.", "tf": true, "a": true },
+        { "q": "There's a TV in Mario's classroom.", "tf": true, "a": false, "why": "There isn't a TV." },
+        { "q": "There's a swimming pool at the school.", "tf": true, "a": false, "why": "There isn't a swimming pool." },
+        { "q": "How many children are there in Mario's class?", "a": "There are twenty-four." },
+        { "q": "Is there a library?", "a": "Yes, there is." },
+        { "q": "Are there any animals in Mario's classroom?", "a": "Yes, there are. There are three fish." }
+      ]
+    },
+    {
+      "t": "wordsearch", "title": "Sopa de letras", "title_en": "Word search", "icon": "🔎",
+      "es": "Busca las 10 palabras. Después escribe 2 frases sobre tu casa con there is y there are.",
+      "en": "Find the 10 words. Then write two sentences about your house.",
+      "words": ["kitchen", "bathroom", "bedroom", "garden", "sofa", "chair", "table", "window", "door", "lamp"],
+      "clues": ["kitchen · cocina", "bathroom · baño", "bedroom · dormitorio", "garden · jardín", "sofa · sofá", "chair · silla", "table · mesa", "window · ventana", "door · puerta", "lamp · lámpara"]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe sobre tu casa, tu cole y tu familia. Usa there is, there are, some, any y How many.",
+      "en": "Write about your house, your school and your family.",
+      "items": [
+        { "q": "Describe tu dormitorio: There's a… There are some…", "lines": 2, "a": "Ej.: There's a bed and a desk. There are some books on the shelf." },
+        { "q": "Escribe 2 cosas que NO hay en tu cole: There isn't… / There aren't any…", "lines": 2, "a": "Ej.: There isn't a swimming pool. There aren't any horses!" },
+        { "q": "Escribe 2 preguntas para un amigo sobre su casa: Is there…? Are there any…?", "lines": 2, "a": "Ej.: Is there a garden? Are there any pets?" },
+        { "q": "Pregunta y responde: How many people are there in your family?", "lines": 1, "a": "Ej.: There are four people in my family." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Digo <b>hay</b> con There is / There are (¡nunca have!).", "en": "I say «hay» with there is / there are." },
+    { "es": "Uso <b>There is</b> con una cosa y <b>There are</b> con varias.", "en": "There is + one; There are + many." },
+    { "es": "Hago negativas: <b>There isn't… / There aren't any…</b>", "en": "I can make negatives." },
+    { "es": "Pregunto <b>Is there…? Are there any…?</b> y respondo corto.", "en": "I can ask questions and give short answers." },
+    { "es": "Uso <b>some</b> en afirmativas y <b>any</b> en negativas y preguntas.", "en": "I use some and any." },
+    { "es": "Pregunto <b>How many… are there?</b>", "en": "I can ask How many… are there?" }
+  ]
+}

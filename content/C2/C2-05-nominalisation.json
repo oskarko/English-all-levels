@@ -1,0 +1,519 @@
+{
+  "id": "C2-05",
+  "level": "C2",
+  "title": "NOMINALIZACIÓN",
+  "file_title": "Nominalización y estilo académico",
+  "subtitle": "Nominalisation · estilo académico",
+  "icon": "🎓",
+  "map": {
+    "center": "Convertir <b>verbos</b> y <b>adjetivos</b> en <b>sustantivos</b> da al texto densidad, objetividad y tono académico.",
+    "nodes": [
+      {
+        "title": "¿Qué es?", "icon": "🔎", "art": "📚",
+        "rows": [["analyse", "→ analysis"], ["fail", "→ failure"], ["accurate", "→ accuracy"]],
+        "after": "Acción o cualidad → <b>sustantivo</b>: más densidad y registro formal."
+      },
+      {
+        "title": "Sufijos clave", "icon": "🧩",
+        "chips": ["-tion", "-ment", "-ance", "-ence", "-al", "-ity", "-ness", "-ure", "-sis"],
+        "after": "Sin sufijo (conversión): <b>an increase, a decline, a review</b>."
+      },
+      {
+        "title": "Oración → frase nominal", "icon": "🔁",
+        "items": ["because the economy grew → <b>owing to economic growth</b>", "they analysed the data → <b>the analysis of the data</b>", "adverbio → adjetivo: <i>grew rapidly → rapid growth</i>"]
+      },
+      {
+        "title": "Colocaciones formales", "icon": "🤝",
+        "items": ["<b>carry out</b> an investigation · <b>conduct</b> research", "<b>reach</b> a conclusion · <b>pose</b> a threat", "<b>make</b> a contribution · <b>draw</b> a distinction"]
+      },
+      {
+        "title": "Causa y efecto", "icon": "🔗",
+        "items": ["Causa: <b>owing to, due to, in view of</b>", "Efecto: <b>lead to, result in, give rise to</b>", "Rising costs <b>led to</b> the closure of the plant."]
+      },
+      {
+        "title": "Consejo de registro", "icon": "💡",
+        "items": ["Informal → verbos · académico → sustantivos.", "No abuses: evita los <b>zombie nouns</b>.", "<s>make an assessment of</s> → <b>assess</b>"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["They realised a study on poverty."],
+      "good": ["They carried out a study on poverty."],
+      "note": "realizar → <b>carry out / conduct</b> · realise = darse cuenta"
+    },
+    "mini": {
+      "es": "Escribe el sustantivo de la palabra entre paréntesis.",
+      "en": "Write the noun form of the word in brackets.",
+      "items": [
+        { "q": "The ____ of the bridge took two years.", "a": "construction", "hint": "construct" },
+        { "q": "Her ____ to the project was vital.", "a": "contribution", "hint": "contribute" },
+        { "q": "The ____ of the data took weeks.", "a": "analysis", "hint": "analyse" },
+        { "q": "Nobody doubts the ____ of the plan.", "a": "feasibility", "hint": "feasible" },
+        { "q": "We underestimated the ____ of the task.", "a": "complexity", "hint": "complex" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "La <b>nominalización</b> consiste en expresar como <mark>sustantivo</mark> lo que normalmente diríamos con un verbo o un adjetivo: <i>analyse → analysis</i>, <i>fail → failure</i>, <i>accurate → accuracy</i>. Cuando convertimos una oración entera en una <b>frase nominal</b> (<i>because prices rose → owing to the rise in prices</i>), el texto se vuelve más <b>denso</b>, más <b>impersonal</b> y más <b>abstracto</b>: es el sello del inglés académico, jurídico, científico y de la prensa de calidad. En español ocurre lo mismo (<i>«tras la aprobación de la ley»</i>), pero los sufijos, las colocaciones y las preposiciones del inglés son otros, y ahí está la dificultad.",
+      "en": "<b>Nominalisation</b> means expressing actions and qualities as <mark>nouns</mark>. Turning clauses into noun phrases makes writing denser, more impersonal and more abstract: the hallmark of academic, legal and scientific English.",
+      "formula": ["Sustantivo = verbo / adjetivo + *sufijo*", "the + *sustantivo* + of + complemento"]
+    },
+    {
+      "t": "rule", "title": "1 · De verbo a sustantivo", "title_en": "Verb → noun", "icon": "⚙️", "color": "green",
+      "es": "La mayoría de los verbos forman su sustantivo con un sufijo. Los más productivos son <b>-tion/-sion</b> (<i>reduce → reduction, decide → decision</i>), <b>-ment</b> (<i>achieve → achievement</i>), <b>-ance/-ence</b> (<i>comply → compliance, refer → reference</i>), <b>-al</b> (<i>refuse → refusal, approve → approval</i>), <b>-ure</b> (<i>fail → failure, disclose → disclosure</i>) y <b>-sis</b>, de origen griego (<i>analyse → analysis, emphasise → emphasis</i>). Ojo: el sufijo <em>no es predecible</em> y a menudo no coincide con el español; hay que aprender cada sustantivo (<i>refusal</i>, nunca <s>refusement</s>).",
+      "en": "Most verbs take a suffix: -tion/-sion, -ment, -ance/-ence, -al, -ure, -sis. The suffix is <em>not predictable</em>, so learn each noun individually.",
+      "formula": ["reduction = reduce + *-tion*", "refusal = refuse + *-al*"],
+      "examples": [
+        { "en": "The <b>reduction</b> of emissions is a global priority.", "es": "La reducción de las emisiones es una prioridad mundial.", "icon": "🌍" },
+        { "en": "Her <b>refusal</b> to comment fuelled speculation.", "es": "Su negativa a hacer declaraciones alimentó las especulaciones.", "icon": "🤐" },
+        { "en": "The <b>failure</b> of the talks surprised nobody.", "es": "El fracaso de las negociaciones no sorprendió a nadie.", "icon": "🗣️" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · De adjetivo a sustantivo", "title_en": "Adjective → noun", "icon": "📏", "color": "blue",
+      "es": "Las cualidades también se convierten en sustantivos abstractos: <b>-ity</b> (<i>complex → complexity, scarce → scarcity, feasible → feasibility</i>), <b>-ness</b> (<i>aware → awareness, effective → effectiveness</i>), <b>-ance/-ence</b> (<i>relevant → relevance, reluctant → reluctance</i>), <b>-cy</b> (<i>accurate → accuracy, efficient → efficiency</i>) y <b>-th</b>, con cambio vocálico (<i>long → length, strong → strength, wide → width, deep → depth, true → truth</i>). Al nominalizar, el <mark>adverbio que modificaba al adjetivo pasa a ser adjetivo</mark>: <i>extremely complex → <b>extreme complexity</b></i>.",
+      "en": "Qualities become abstract nouns: -ity, -ness, -ance/-ence, -cy, -th. Any adverb becomes an adjective: extremely complex → extreme complexity.",
+      "formula": ["complexity = complex + *-ity*", "*extreme* + complexity"],
+      "examples": [
+        { "en": "The <b>complexity</b> of the task was underestimated.", "es": "Se subestimó la complejidad de la tarea.", "icon": "🧩" },
+        { "en": "There is growing <b>awareness</b> of the risks.", "es": "Hay una conciencia cada vez mayor de los riesgos.", "icon": "⚠️" },
+        { "en": "The <b>length</b> of the report discouraged many readers.", "es": "La extensión del informe desanimó a muchos lectores.", "icon": "📄" }
+      ]
+    },
+    {
+      "t": "rule", "title": "3 · Conversión: misma forma, otro acento", "title_en": "Conversion (zero derivation)", "icon": "🔄", "color": "teal",
+      "es": "Muchos verbos funcionan también como sustantivo <b>sin cambiar de forma</b>: <i>increase, decrease, decline, rise, fall, change, review, demand, delay, report, release</i>. En prosa formal se combinan con un adjetivo y una <b>preposición fija</b>: <b>a sharp rise in</b>, <b>a steady decline in</b>, <b>a thorough review of</b>. En varios bisílabos cambia el <mark>acento</mark>: el verbo lo lleva en la 2.ª sílaba (<i>to inCREASE, to reCORD, to imPORT</i>) y el sustantivo en la 1.ª (<i>an INcrease, a REcord, an IMport</i>).",
+      "en": "Many verbs are also nouns with no change: increase, decline, review. Typical pattern: adjective + noun + fixed preposition (a sharp rise in). Two-syllable pairs often shift stress: to inCREASE / an INcrease.",
+      "formula": ["a + *adjective* + noun + *in / of*", "a + *sharp rise* + in + prices"],
+      "examples": [
+        { "en": "There has been a <b>sharp rise in</b> energy prices.", "es": "Ha habido una fuerte subida de los precios de la energía.", "icon": "⚡" },
+        { "en": "The board ordered a thorough <b>review of</b> safety procedures.", "es": "La junta ordenó una revisión exhaustiva de los procedimientos de seguridad.", "icon": "🔍" },
+        { "en": "The <b>decline in</b> birth rates is reshaping Europe.", "es": "El descenso de la natalidad está transformando Europa.", "icon": "👶" }
+      ]
+    },
+    {
+      "t": "rule", "title": "4 · De oración a frase nominal", "title_en": "From clause to noun phrase", "icon": "🔁", "color": "orange",
+      "es": "Este es el paso clave del estilo académico. Para condensar una oración en una frase nominal: (1) el <b>verbo</b> se convierte en sustantivo; (2) el <b>adverbio</b> pasa a adjetivo; (3) el <b>sujeto</b> pasa a genitivo (<i>the government's</i>), a frase con <b>of/by</b> o a adjetivo (<i>economic</i>); (4) el <b>objeto</b> va con <b>of</b>; (5) la <b>conjunción</b> se sustituye por una <mark>preposición</mark>: <i>because → owing to, although → despite, after → following, when → upon</i>. Resultado: una sola oración principal que contiene mucha más información.",
+      "en": "To condense a clause: verb → noun, adverb → adjective, subject → possessive / of-phrase / adjective, object → of + noun, conjunction → preposition.",
+      "formula": ["because + *the economy grew rapidly*", "owing to + *the rapid growth of the economy*", "owing to + *rapid economic growth*"],
+      "examples": [
+        { "en": "<b>Owing to rapid economic growth</b>, unemployment fell.", "es": "Debido al rápido crecimiento económico, el paro descendió.", "icon": "📈" },
+        { "en": "<b>Following the minister's resignation</b>, the party collapsed in the polls.", "es": "Tras la dimisión del ministro, el partido se hundió en las encuestas.", "icon": "📉" },
+        { "en": "<b>Despite the scarcity of evidence</b>, the theory gained acceptance.", "es": "Pese a la escasez de pruebas, la teoría fue ganando aceptación.", "icon": "🔬" }
+      ]
+    },
+    {
+      "t": "rule", "title": "5 · Verbos que encadenan sustantivos", "title_en": "Verbs that link noun phrases", "icon": "⛓️", "color": "pink",
+      "es": "Una vez nominalizadas las ideas, las unimos con verbos de <b>causa-efecto</b>. Fíjate en la <mark>dirección</mark>: CAUSA <b>leads to / results in / gives rise to / brings about / contributes to / triggers</b> EFECTO, pero EFECTO <b>results from / stems from / arises from / is attributable to</b> CAUSA. <i>Result in</i> y <i>result from</i> significan lo contrario: es un error frecuentísimo incluso en niveles altos. Con estos verbos la lógica del texto queda clarísima: <i>A → B</i> en una sola cláusula.",
+      "en": "Link nominalised ideas with cause–effect verbs. CAUSE leads to / results in / gives rise to EFFECT; EFFECT results from / stems from / arises from CAUSE.",
+      "formula": ["CAUSA + *lead to / result in / give rise to* + EFECTO", "EFECTO + *result from / stem from / arise from* + CAUSA"],
+      "examples": [
+        { "en": "The deregulation of the market <b>led to</b> a surge in speculation.", "es": "La desregulación del mercado provocó un auge de la especulación.", "icon": "💹" },
+        { "en": "The findings <b>gave rise to</b> serious concerns about safety.", "es": "Los resultados suscitaron una seria preocupación por la seguridad.", "icon": "🧪" },
+        { "en": "Most of these problems <b>stem from</b> a lack of communication.", "es": "La mayoría de estos problemas se deben a la falta de comunicación.", "icon": "💬" }
+      ]
+    },
+    {
+      "t": "table", "title": "Mapa de sufijos", "title_en": "Suffix map", "icon": "🗺️", "color": "purple", "wide": true,
+      "head": ["Sufijo · Suffix", "Base", "Sustantivo · Noun", "En contexto · In context"],
+      "rows": [
+        ["-tion / -sion", "reduce, decide, permit", "reduction, decision, permission", "a <b>reduction</b> in costs"],
+        ["-ment", "achieve, assess, require", "achievement, assessment, requirement", "an <b>assessment</b> of the risks"],
+        ["-ance / -ence", "comply, refer, emerge", "compliance, reference, emergence", "<b>compliance</b> with the law"],
+        ["-al", "refuse, approve, withdraw", "refusal, approval, withdrawal", "the <b>withdrawal</b> of troops"],
+        ["-ure", "fail, disclose, expend", "failure, disclosure, expenditure", "public <b>expenditure</b> on health"],
+        ["-sis", "analyse, emphasise, hypothesise", "analysis, emphasis, hypothesis", "the <b>emphasis</b> on exams"],
+        ["-ity / -cy", "scarce, feasible, accurate", "scarcity, feasibility, accuracy", "the <b>scarcity</b> of water"],
+        ["-ness", "aware, willing, effective", "awareness, willingness, effectiveness", "a <b>willingness</b> to negotiate"],
+        ["-th", "long, strong, grow", "length, strength, growth", "economic <b>growth</b>"],
+        ["Ø (conversión)", "increase, decline, review", "an increase, a decline, a review", "a sharp <b>decline</b> in sales"]
+      ],
+      "note": "Plurales griegos: <b>analysis → analyses</b>, <b>hypothesis → hypotheses</b>, <b>crisis → crises</b>, <b>basis → bases</b>. Y hay sustantivos irregulares que conviene memorizar: <i>deny → denial, die → death, choose → choice, prove → proof, believe → belief</i>.",
+      "note_en": "Greek plurals: analyses, hypotheses, crises, bases. Some nouns are irregular: denial, death, choice, proof, belief."
+    },
+    {
+      "t": "table", "title": "Conectores: de conjunción a preposición", "title_en": "Linkers: conjunction → preposition", "icon": "🔗", "color": "blue", "wide": true,
+      "head": ["Relación · Meaning", "Con oración (informal)", "Con sustantivo (formal)", "Ejemplo · Example"],
+      "rows": [
+        ["Causa", "because, as, since", "<b>owing to, due to, in view of, on account of</b>", "<b>In view of</b> the costs, the plan was dropped."],
+        ["Concesión", "although, even though", "<b>despite, in spite of, notwithstanding</b>", "<b>Despite</b> its flaws, the study is valuable."],
+        ["Tiempo (después)", "after, once", "<b>following, after, subsequent to</b>", "<b>Following</b> the merger, 300 jobs were cut."],
+        ["Tiempo (antes)", "before", "<b>prior to, before</b>", "<b>Prior to</b> publication, the data were checked."],
+        ["Tiempo (al…)", "when, as soon as", "<b>upon, on</b>", "<b>Upon</b> arrival, delegates must register."],
+        ["Condición", "if, unless", "<b>in the event of, in the absence of</b>", "<b>In the event of</b> fire, use the stairs."],
+        ["Finalidad", "so that, in order to", "<b>with a view to, for the purpose of</b>", "talks <b>with a view to</b> a ceasefire"],
+        ["Contraste", "whereas, while", "<b>in contrast to, as opposed to</b>", "<b>In contrast to</b> its rivals, the firm grew."]
+      ],
+      "note": "<b>Due to</b> se usa tradicionalmente tras <b>be</b> (<i>The delay was due to the strike</i>); a principio de frase el registro esmerado prefiere <b>owing to</b>. Si necesitas una oración completa tras la preposición, añade <b>the fact that</b>: <i>owing to the fact that…, despite the fact that…</i>",
+      "note_en": "Traditionally <b>due to</b> follows be; <b>owing to</b> is preferred at the start of a sentence. Need a full clause? Add <i>the fact that</i>."
+    },
+    {
+      "t": "rule", "title": "6 · La frase nominal compleja", "title_en": "Building complex noun phrases", "icon": "🏗️", "color": "purple",
+      "es": "El inglés académico acumula información <b>antes</b> del sustantivo (premodificación: <i>a <b>rapid</b> increase</i>, <i><b>government</b> policy</i>, <i><b>long-term</b> unemployment</i>) y <b>después</b> (posmodificación con <i>of, in, for…</i> o con una relativa). Dos consejos: (1) cuando el modificador es breve, prefiere el genitivo o un sustantivo en función de adjetivo a las <mark>cadenas de of</mark>: <s>the impact of the reform of the system of pensions</s> → <b>the impact of pension reform</b>; (2) no amontones más de tres sustantivos seguidos: <i>the student housing allocation policy review</i> resulta opaco.",
+      "en": "Pack information before the noun (adjectives, noun modifiers) and after it (prepositional phrases). Avoid long chains of <b>of</b> and stacks of more than three nouns.",
+      "formula": ["*rapid* + *population* + growth + *in urban areas*", "premodificador + núcleo + posmodificador"],
+      "examples": [
+        { "en": "<b>The rapid expansion of renewable energy</b> has cut emissions.", "es": "La rápida expansión de las energías renovables ha reducido las emisiones.", "icon": "🌞" },
+        { "en": "<b>Long-term unemployment</b> remains a serious problem.", "es": "El paro de larga duración sigue siendo un grave problema.", "icon": "💼" },
+        { "en": "<b>The impact of pension reform</b> on young workers is unclear.", "es": "No está claro el impacto de la reforma de las pensiones en los trabajadores jóvenes.", "icon": "🧓" }
+      ]
+    },
+    {
+      "t": "compare", "title": "Estilo verbal frente a estilo nominal", "title_en": "Verbal vs nominal style", "icon": "⚖️", "color": "orange",
+      "es": "Mismo contenido, dos registros. El estilo verbal es más directo y fácil de leer; el nominal es más compacto e impersonal, propio de informes, artículos y textos jurídicos.",
+      "en": "Same content, two registers: verbal style is direct; nominal style is compact and impersonal.",
+      "cols": [
+        { "head": "🗣️ Verbal · informal", "color": "orange", "items": [
+          "Prices went up sharply, so people bought less.",
+          "We analysed the data and found that…",
+          "Because the climate is changing, crops are failing.",
+          "If someone breaks the contract, …",
+          "People criticised how the government handled the crisis."
+        ] },
+        { "head": "🎓 Nominal · académico", "color": "blue", "items": [
+          "The sharp <b>rise in prices</b> led to a <b>fall in consumption</b>.",
+          "<b>Analysis of the data</b> revealed that…",
+          "<b>Climate change</b> is resulting in <b>crop failure</b>.",
+          "<b>In the event of a breach of contract</b>, …",
+          "<b>The government's handling of the crisis</b> was criticised."
+        ] }
+      ]
+    },
+    {
+      "t": "vocab", "title": "Colocaciones formales verbo + sustantivo", "title_en": "Formal verb + noun collocations", "icon": "🤝", "color": "green", "wide": true, "cols": 4,
+      "items": [
+        { "en": "carry out an investigation", "es": "llevar a cabo una investigación", "icon": "🕵️" },
+        { "en": "conduct research", "es": "realizar una investigación", "icon": "🔬" },
+        { "en": "reach a conclusion", "es": "llegar a una conclusión", "icon": "🏁" },
+        { "en": "make a contribution", "es": "hacer una aportación", "icon": "🎁" },
+        { "en": "pose a threat", "es": "suponer una amenaza", "icon": "⚠️" },
+        { "en": "draw a distinction", "es": "establecer una distinción", "icon": "⚖️" },
+        { "en": "give rise to concern", "es": "suscitar preocupación", "icon": "😟" },
+        { "en": "take into account", "es": "tener en cuenta", "icon": "🧮" },
+        { "en": "raise awareness", "es": "concienciar, sensibilizar", "icon": "📢" },
+        { "en": "place emphasis on", "es": "hacer hincapié en", "icon": "❗" },
+        { "en": "gain insight into", "es": "comprender a fondo", "icon": "💡" },
+        { "en": "exert pressure on", "es": "ejercer presión sobre", "icon": "🗜️" },
+        { "en": "undergo a transformation", "es": "experimentar una transformación", "icon": "🦋" },
+        { "en": "bear responsibility", "es": "asumir la responsabilidad", "icon": "🎒" },
+        { "en": "meet the requirements", "es": "cumplir los requisitos", "icon": "✅" },
+        { "en": "draw attention to", "es": "llamar la atención sobre", "icon": "👀" }
+      ]
+    },
+    {
+      "t": "compare", "title": "Un texto, dos versiones: densidad léxica", "title_en": "One text, two versions: lexical density", "icon": "📰", "color": "teal", "wide": true,
+      "es": "La <b>densidad léxica</b> es la proporción de palabras con contenido (sustantivos, verbos léxicos, adjetivos y adverbios) respecto al total. La versión académica dice lo mismo con <mark>menos palabras, menos verbos conjugados y más sustantivos</mark>: cada frase nominal «empaqueta» una oración entera.",
+      "en": "<b>Lexical density</b> = content words ÷ total words. The academic version says the same with fewer words, fewer finite verbs and more nouns.",
+      "cols": [
+        { "head": "🗣️ Versión oral · 45 palabras · 8 verbos conjugados", "color": "orange", "items": [
+          "Because the government decided to put up the tax on fuel, people started to drive less, so the companies that make cars lost a lot of money. When they realised what was happening, many of them decided that they would invest in electric cars instead."
+        ] },
+        { "head": "🎓 Versión académica · 32 palabras · 2 verbos conjugados", "color": "blue", "items": [
+          "The government's <b>decision</b> to raise fuel duty <b>led to</b> a marked <b>reduction</b> in car use and, consequently, to substantial <b>losses</b> for vehicle manufacturers. In <b>response</b>, many firms redirected <b>investment</b> towards electric vehicles."
+        ] }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "The <b>introduction</b> of tuition fees <b>resulted in</b> a decline in applications.", "es": "La introducción de las tasas universitarias provocó un descenso de las solicitudes.", "icon": "🎓" },
+        { "en": "<b>In view of</b> the <b>urgency</b> of the situation, the summit was brought forward.", "es": "Dada la urgencia de la situación, se adelantó la cumbre.", "icon": "⏰" },
+        { "en": "The committee <b>reached the conclusion</b> that the scheme was unviable.", "es": "El comité llegó a la conclusión de que el plan era inviable.", "icon": "🏁" },
+        { "en": "<b>Prior to</b> the <b>adoption</b> of the new constitution, power was highly centralised.", "es": "Antes de la aprobación de la nueva constitución, el poder estaba muy centralizado.", "icon": "📜" },
+        { "en": "There is a clear <b>correlation</b> between poverty and poor health.", "es": "Existe una clara correlación entre la pobreza y la mala salud.", "icon": "📊" },
+        { "en": "The <b>disappearance</b> of local shops <b>poses a threat</b> to community life.", "es": "La desaparición del comercio local supone una amenaza para la vida comunitaria.", "icon": "🏪" },
+        { "en": "<b>Upon completion</b> of the course, participants receive a certificate.", "es": "Al finalizar el curso, los participantes reciben un certificado.", "icon": "🏅" },
+        { "en": "The <b>scarcity</b> of affordable housing is <b>attributable to</b> decades of underinvestment.", "es": "La escasez de vivienda asequible se debe a décadas de inversión insuficiente.", "icon": "🏠" },
+        { "en": "Her <b>insistence on</b> transparency earned her the respect of her colleagues.", "es": "Su insistencia en la transparencia le valió el respeto de sus colegas.", "icon": "🤝" },
+        { "en": "<b>Failure to comply</b> with these regulations may <b>result in</b> a fine.", "es": "El incumplimiento de esta normativa puede acarrear una multa.", "icon": "💸" },
+        { "en": "The <b>proliferation</b> of fake news <b>has given rise to</b> widespread distrust of the media.", "es": "La proliferación de noticias falsas ha generado una desconfianza generalizada hacia los medios.", "icon": "📰" },
+        { "en": "<b>Acceptance</b> of the proposal is conditional on the board's <b>approval</b>.", "es": "La aceptación de la propuesta está supeditada a la aprobación de la junta.", "icon": "✍️" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "error", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "The researchers <s>realised</s> a study.", "good": "The researchers <b>carried out</b> (<b>conducted</b>) a study.", "why": "«Realizar un estudio» no es <i>realise</i> (= darse cuenta). Usa <b>carry out, conduct, undertake</b>.", "why_en": "Realise = become aware. Use carry out / conduct / undertake." },
+        { "bad": "a sharp <s>increasement</s> in costs", "good": "a sharp <b>increase</b> in costs", "why": "<s>Increasement</s> no existe: <i>increase</i> es verbo y sustantivo (conversión). Igual: <i>refusal</i>, no <s>refusement</s>.", "why_en": "Increase is both verb and noun. Likewise refusal, not refusement." },
+        { "bad": "<s>The</s> education is the key to <s>the</s> progress.", "good": "<b>Education</b> is the key to <b>progress</b>.", "why": "Los sustantivos abstractos en sentido general van <b>sin artículo</b>: society, education, technology, progress.", "why_en": "Abstract nouns used in a general sense take no article." },
+        { "bad": "the government's decision <s>of raising</s> taxes", "good": "the government's decision <b>to raise</b> taxes", "why": "El sustantivo hereda el complemento del verbo: decide <b>to</b> → decision <b>to</b>; refuse to → refusal to; fail to → failure to.", "why_en": "Nouns keep their verb's pattern: decision / refusal / failure + to-infinitive." },
+        { "bad": "<s>Owing to the economy grew</s>, unemployment fell.", "good": "<b>Owing to economic growth</b>, unemployment fell.", "why": "<i>Owing to, due to, despite, following</i> son preposiciones: van con sustantivo, no con oración (o bien con <i>the fact that</i>).", "why_en": "These are prepositions: noun phrase, not clause." },
+        { "bad": "Smoking can <s>result from</s> lung cancer.", "good": "Smoking can <b>result in</b> lung cancer.", "why": "<b>result in</b> = provocar (causa → efecto); <b>result from</b> = deberse a (efecto ← causa).", "why_en": "result in = cause; result from = be caused by." },
+        { "bad": "a sharp <s>raise</s> in prices", "good": "a sharp <b>rise</b> in prices", "why": "El sustantivo de «subida» es <i>rise</i> (de <i>rise</i>, intransitivo); <i>raise</i> es transitivo: <i>to raise prices</i>. En BrE: <i>a pay rise</i>.", "why_en": "A rise in prices; to raise prices; BrE a pay rise." },
+        { "bad": "<s>The making of a decision on the implementation of the plan was carried out by the board.</s>", "good": "The board <b>decided to implement</b> the plan.", "why": "Sobrenominalización (<i>zombie nouns</i>): si la frase nominal no aporta nada, vuelve al verbo.", "why_en": "Over-nominalisation: use the verb when nouns add nothing." }
+      ]
+    },
+    {
+      "t": "tip", "title": "Registro: ¿cuándo NO nominalizar?", "title_en": "Register: when not to nominalise",
+      "es": "La nominalización es propia de <b>artículos científicos, informes, textos jurídicos y prensa de calidad</b>. En correos, presentaciones orales o textos divulgativos, el exceso suena pomposo u opaco: la especialista en escritura académica Helen Sword llama a estos sustantivos vacíos <b>zombie nouns</b>. Regla práctica: nominaliza para <mark>empaquetar un concepto</mark> que vas a retomar (<i>this reduction…, such a decline…</i>), no para esconder quién hizo qué. Y no sustituyas un verbo claro por <i>make + sustantivo</i> sin motivo: <s>make an assessment of</s> → <b>assess</b>.",
+      "en": "Nominalise to package a concept you will build on, not to hide who did what. In emails and speech, prefer verbs and avoid 'zombie nouns'."
+    },
+    {
+      "t": "steps", "title": "¿Cómo nominalizo una frase?", "title_en": "How do I nominalise a sentence?", "color": "orange",
+      "items": [
+        { "es": "Localiza el <b>verbo</b> o el <b>adjetivo</b> que expresa la idea clave: <i>The economy <u>grew</u> rapidly because exports <u>increased</u>.</i>", "en": "Find the key verb or adjective." },
+        { "es": "Busca su <b>sustantivo</b> (sufijo o conversión) y comprueba que existe: grow → <b>growth</b>, increase → <b>increase</b>.", "en": "Find the noun form and check that it exists." },
+        { "es": "Convierte el <b>adverbio en adjetivo</b> y el sujeto/objeto en genitivo, frase con <i>of</i> o modificador: <i>rapid economic growth</i>, <i>an increase in exports</i>.", "en": "Adverb → adjective; subject/object → possessive, of-phrase or modifier." },
+        { "es": "Sustituye la <b>conjunción</b> por una preposición (<i>because → owing to</i>) o enlaza con un <b>verbo de causa-efecto</b> (<i>lead to, result in</i>).", "en": "Replace the conjunction with a preposition or a cause–effect verb." },
+        { "es": "Ensambla la frase: <b>An increase in exports led to rapid economic growth.</b>", "en": "Assemble: An increase in exports led to rapid economic growth." },
+        { "es": "Relee: ¿se entiende mejor? ¿Se ha perdido quién hizo qué? Si no ganas nada, <mark>vuelve al verbo</mark>.", "en": "Reread: is it clearer? If not, go back to the verb." }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "classify", "title": "¿Qué sufijo lleva?", "title_en": "Which suffix?", "icon": "🗂️",
+      "es": "Escribe cada palabra en la caja del sufijo que forma su sustantivo. Después, escribe el sustantivo al lado.",
+      "en": "Sort the words by the suffix their noun takes. Then write the noun next to each one.",
+      "cats": [
+        { "name": "-tion / -sion", "words": ["decide", "reduce", "explain", "compete", "permit"] },
+        { "name": "-ment", "words": ["achieve", "assess", "manage", "require", "enforce"] },
+        { "name": "-ance / -ence", "words": ["resist", "depend", "appear", "emerge", "comply"] },
+        { "name": "-ity / -ness", "words": ["scarce", "aware", "complex", "willing", "stable"] }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Familias de palabras", "title_en": "Complete the word families", "icon": "📋", "wide": true,
+      "es": "Escribe el sustantivo de cada verbo y de cada adjetivo. Cuidado con los irregulares y con los sufijos griegos.",
+      "en": "Write the noun form of each verb and adjective.",
+      "head": ["Verbo · Verb", "Sustantivo · Noun", "Adjetivo · Adjective", "Sustantivo · Noun"],
+      "rows": [
+        ["fail", "?failure", "wide", "?width"],
+        ["analyse", "?analysis", "strong", "?strength"],
+        ["propose", "?proposal", "accurate", "?accuracy"],
+        ["emphasise", "?emphasis", "relevant", "?relevance"],
+        ["disclose", "?disclosure", "reluctant", "?reluctance"],
+        ["deny", "?denial", "vague", "?vagueness"],
+        ["hypothesise", "?hypothesis", "feasible", "?feasibility"],
+        ["withdraw", "?withdrawal", "deep", "?depth"],
+        ["comply", "?compliance", "precise", "?precision"],
+        ["expand", "?expansion", "true", "?truth"]
+      ]
+    },
+    {
+      "t": "choose", "title": "Elige la forma correcta", "title_en": "Choose the correct form", "icon": "⭕",
+      "es": "Rodea la opción correcta: sustantivo bien formado, preposición adecuada o conector correcto.",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "The [analyse|analysis|analysation] of the samples took three weeks.", "a": "analysis" },
+        { "q": "There has been a sharp [increase|increasement|increasing] in rents.", "a": "increase" },
+        { "q": "The minister's [refusal|refusement|refuse] to resign angered voters.", "a": "refusal" },
+        { "q": "The [deepness|depth|deepth] of the crisis was underestimated.", "a": "depth" },
+        { "q": "The [arrive|arrival|arrivement] of the new CEO changed the company's culture.", "a": "arrival" },
+        { "q": "Last year there was a rise [in|of] unemployment.", "a": "in" },
+        { "q": "Sales rose by 5 %: there was a rise [in|of] 5 % in sales.", "a": "of" },
+        { "q": "[Despite|Although] the lack of funding, the project succeeded.", "a": "Despite" },
+        { "q": "A poor diet can [result in|result from] serious illness.", "a": "result in" },
+        { "q": "These problems [stem from|lead to] decades of neglect.", "a": "stem from" }
+      ]
+    },
+    {
+      "t": "match", "title": "De conjunción a preposición", "title_en": "Conjunction → preposition", "icon": "🔗",
+      "es": "Une cada conjunción (estilo verbal) con la preposición equivalente que se usa con sustantivos (estilo nominal).",
+      "en": "Match each conjunction with its prepositional equivalent.",
+      "pairs": [
+        ["because (+ clause)", "owing to (+ noun)"],
+        ["although", "despite"],
+        ["after", "following"],
+        ["before", "prior to"],
+        ["if", "in the event of"],
+        ["as soon as / when", "upon"],
+        ["so that / in order to", "with a view to"],
+        ["whereas", "in contrast to"]
+      ]
+    },
+    {
+      "t": "fill", "title": "Sustantivo + preposición", "title_en": "Noun + preposition", "icon": "🧷",
+      "es": "Completa con la preposición que acompaña al sustantivo.",
+      "en": "Complete with the preposition that follows the noun.",
+      "items": [
+        { "q": "There has been a steady increase ___ the number of applicants.", "a": "in" },
+        { "q": "Nobody has yet found a solution ___ the problem of congestion.", "a": "to" },
+        { "q": "The main cause ___ the accident was human error.", "a": "of" },
+        { "q": "There is a growing demand ___ affordable housing.", "a": "for" },
+        { "q": "The new law will have a significant impact ___ small businesses.", "a": ["on", "upon"] },
+        { "q": "The report offers a fascinating insight ___ the workings of government.", "a": "into" },
+        { "q": "Lack ___ sleep impairs concentration.", "a": "of" },
+        { "q": "The reason ___ the delay has not been disclosed.", "a": "for" },
+        { "q": "Universal access ___ clean water remains a distant goal.", "a": "to" },
+        { "q": "The inquiry shed new light ___ the causes of the incident.", "a": "on" },
+        { "q": "Climate change poses a serious threat ___ biodiversity.", "a": "to" },
+        { "q": "The school places great emphasis ___ critical thinking.", "a": ["on", "upon"] }
+      ]
+    },
+    {
+      "t": "fill", "title": "Colocaciones formales", "title_en": "Formal collocations", "icon": "🤝",
+      "es": "Completa con un verbo del recuadro en la forma correcta. Usa cada verbo una vez.",
+      "en": "Complete with a verb from the box in the correct form. Use each verb once.",
+      "bank": ["reach", "pose", "draw", "make", "carry out", "give", "take", "raise", "place", "undergo"],
+      "items": [
+        { "q": "After three days of deliberation, the jury finally ____ a verdict.", "a": "reached" },
+        { "q": "Rising sea levels ____ a serious threat to coastal cities.", "a": "pose" },
+        { "q": "In her essay, the author ____ a clear distinction between guilt and shame.", "a": ["draws", "makes"] },
+        { "q": "Immigrants ____ a significant contribution to the economy.", "a": "make" },
+        { "q": "The police are ____ a thorough investigation into the fire.", "a": "carrying out" },
+        { "q": "The new measures could ____ rise to further unrest.", "a": "give" },
+        { "q": "The report fails to ____ into account regional differences.", "a": "take" },
+        { "q": "The campaign aims to ____ awareness of mental health issues.", "a": "raise" },
+        { "q": "The new curriculum ____ great emphasis on critical thinking.", "a": "places" },
+        { "q": "Since 2000, the city has ____ a radical transformation.", "a": "undergone" }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Verdadero o falso?", "title_en": "True or false?", "icon": "✅",
+      "es": "Lee cada afirmación sobre la nominalización y marca T (verdadero) o F (falso).",
+      "en": "Tick T (true) or F (false).",
+      "items": [
+        { "q": "<i>The increasement of prices</i> is correct in formal English.", "a": false, "why": "The noun is <b>increase</b>: <i>the increase in prices</i>." },
+        { "q": "The plural of <i>analysis</i> is <i>analyses</i>.", "a": true },
+        { "q": "<i>Make an investigation</i> is the most natural collocation in academic English.", "a": false, "why": "Use <b>carry out / conduct</b> an investigation." },
+        { "q": "<i>Owing to</i> is followed by a noun phrase, not by a full clause.", "a": true, "why": "owing to + noun / owing to the fact that + clause." },
+        { "q": "<i>X results in Y</i> and <i>Y results from X</i> express the same relationship.", "a": true },
+        { "q": "Nominalisation always makes a text clearer.", "a": false, "why": "Overuse creates zombie nouns and hides who did what." },
+        { "q": "In <i>the rapid growth of the economy</i>, the adverb <i>rapidly</i> has become an adjective.", "a": true },
+        { "q": "The noun from <i>deny</i> is <i>denegation</i>.", "a": false, "why": "It is <b>denial</b>." },
+        { "q": "<i>Decline</i>, <i>review</i> and <i>increase</i> can be used as nouns without a suffix.", "a": true },
+        { "q": "In <i>to inCREASE</i> / <i>an INcrease</i>, the noun is stressed on the first syllable.", "a": true }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase académica", "title_en": "Build the academic sentence", "icon": "🧱",
+      "es": "Ordena los bloques para formar una frase de estilo nominal. Añade mayúscula, coma si hace falta y punto final.",
+      "en": "Put the blocks in order to make a sentence in nominal style.",
+      "items": [
+        { "q": "led to / the closure / rising costs / of the factory", "a": "Rising costs led to the closure of the factory." },
+        { "q": "owing to / the match / was postponed / heavy rain", "a": "The match was postponed owing to heavy rain." },
+        { "q": "a significant contribution / to / made / the study / the field", "a": "The study made a significant contribution to the field." },
+        { "q": "the implementation / of / was delayed / the new policy", "a": "The implementation of the new policy was delayed." },
+        { "q": "the government's / to raise taxes / decision / widespread criticism / provoked", "a": "The government's decision to raise taxes provoked widespread criticism." },
+        { "q": "gave rise to / concern / the findings / among / considerable / experts", "a": "The findings gave rise to considerable concern among experts." },
+        { "q": "despite / of / the lack / the project / funding / succeeded", "a": "Despite the lack of funding, the project succeeded." },
+        { "q": "upon / the minister / the report / of / publication / resigned", "a": "Upon publication of the report, the minister resigned." },
+        { "q": "in view of / the scheme / its limited / was abandoned / impact", "a": "In view of its limited impact, the scheme was abandoned." },
+        { "q": "stem from / these problems / a failure / communicate / to", "a": "These problems stem from a failure to communicate." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Del verbo al sustantivo", "title_en": "From verb to noun", "icon": "🔁",
+      "es": "Reescribe la frase empezando como se indica. Convierte la palabra subrayada en sustantivo.",
+      "en": "Rewrite the sentence starting as shown. Turn the underlined word into a noun.",
+      "items": [
+        { "q": "The economy <u>grew</u> rapidly in the 1990s.<br>→ The 1990s saw …", "a": "The 1990s saw rapid economic growth. <i>/</i> The 1990s saw the rapid growth of the economy." },
+        { "q": "The government <u>failed</u> to act, and the public was outraged.<br>→ The government's …", "a": "The government's failure to act caused (provoked / led to) public outrage." },
+        { "q": "The bridge was <u>closed</u>, so traffic was chaotic.<br>→ The closure …", "a": "The closure of the bridge led to (resulted in / caused) traffic chaos." },
+        { "q": "If the system <u>fails</u>, the backup generator will start.<br>→ In the event …", "a": "In the event of (a) system failure, the backup generator will start." },
+        { "q": "After the minister <u>resigned</u>, the party was in crisis.<br>→ Following …", "a": "Following the minister's resignation (the resignation of the minister), the party was in crisis." },
+        { "q": "Although the evidence is <u>weak</u>, many people believe the theory.<br>→ Despite …", "a": "Despite the weakness of the evidence, many people believe the theory." },
+        { "q": "Researchers <u>discovered</u> penicillin, and this revolutionised medicine.<br>→ The discovery …", "a": "The discovery of penicillin revolutionised medicine." },
+        { "q": "It is essential that the data are <u>accurate</u>.<br>→ The accuracy …", "a": "The accuracy of the data is essential." }
+      ]
+    },
+    {
+      "t": "error", "title": "Corrige el error", "title_en": "Correct the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error típico de hispanohablantes de nivel avanzado. Reescríbela correctamente.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "The researchers realised a study of 500 patients.", "a": ["The researchers carried out a study of 500 patients.", "The researchers conducted a study of 500 patients."] },
+        { "q": "There has been a dramatic increasement in rents.", "a": "There has been a dramatic increase in rents." },
+        { "q": "The government's decision of raising taxes was unpopular.", "a": "The government's decision to raise taxes was unpopular." },
+        { "q": "Technological advances have transformed the society.", "a": "Technological advances have transformed society." },
+        { "q": "Several analysis were carried out before the trial.", "a": "Several analyses were carried out before the trial." },
+        { "q": "Owing to the economy grew, unemployment fell.", "a": ["Owing to economic growth, unemployment fell.", "Because the economy grew, unemployment fell."] },
+        { "q": "Despite of the high cost, the project went ahead.", "a": ["Despite the high cost, the project went ahead.", "In spite of the high cost, the project went ahead."] },
+        { "q": "Last year there was a sharp rise of unemployment.", "a": "Last year there was a sharp rise in unemployment." },
+        { "q": "Smoking can result from lung cancer.", "a": "Smoking can result in lung cancer." },
+        { "q": "Her refusement to cooperate surprised everyone.", "a": "Her refusal to cooperate surprised everyone." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Informal → académico", "title_en": "Informal → academic", "icon": "🎓",
+      "es": "Reescribe en estilo académico usando nominalización y las palabras entre paréntesis. El solucionario ofrece una versión modelo; puede haber otras correctas.",
+      "en": "Rewrite in academic style, using nominalisation and the words in brackets. Model answers are given.",
+      "items": [
+        { "q": "Lots of people are worried because crime has gone up.", "hint": "concern · rise", "a": "The rise in crime has caused widespread concern. <i>/</i> There is widespread concern about the rise in crime." },
+        { "q": "We looked at the results and saw that the drug didn't work very well.", "hint": "analysis · effectiveness", "a": "Analysis of the results revealed the limited effectiveness of the drug." },
+        { "q": "Prices went up a lot, so people bought much less.", "hint": "rise · lead to", "a": "The sharp rise in prices led to a significant fall in consumption." },
+        { "q": "If we don't invest in schools, things will just get worse.", "hint": "failure · result in", "a": "Failure to invest in education will result in a further decline in standards." },
+        { "q": "The company changed the way it was organised, and the workers weren't happy about it.", "hint": "restructuring · dissatisfaction", "a": "The restructuring of the company gave rise to dissatisfaction among its workforce." },
+        { "q": "Scientists still don't agree about why bees are disappearing.", "hint": "consensus · decline", "a": "There is still no scientific consensus on the causes of the decline in bee populations." },
+        { "q": "Because the government reacted so slowly, the virus spread really fast.", "hint": "response · spread", "a": "The government's slow response led to the rapid spread of the virus." },
+        { "q": "When the results were published, everyone started arguing about them.", "hint": "publication · debate", "a": "The publication of the results gave rise to intense debate. <i>/</i> Upon publication, the results sparked intense debate." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Transformaciones con palabra clave", "title_en": "Key word transformations", "icon": "🗝️",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave sin cambiarla y entre 3 y 8 palabras (estilo Cambridge C2 Proficiency, Part 4).",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word unchanged and 3–8 words.",
+      "items": [
+        { "q": "The factory closed because demand had fallen sharply.<br>→ The closure of the factory ________ in demand.", "hint": "DUE", "a": "The closure of the factory <b>was due to a sharp fall (drop / decline)</b> in demand." },
+        { "q": "The report didn't mention the risks at all.<br>→ The report made ________ the risks.", "hint": "REFERENCE", "a": "The report made <b>no reference whatsoever (at all) to</b> the risks." },
+        { "q": "They decided to postpone the launch, which surprised everyone.<br>→ Everyone was surprised ________ the launch.", "hint": "DECISION", "a": "Everyone was surprised <b>by (at) their decision to postpone</b> the launch." },
+        { "q": "She contributed enormously to the success of the project.<br>→ She made ________ the success of the project.", "hint": "CONTRIBUTION", "a": "She made <b>an enormous contribution to</b> the success of the project." },
+        { "q": "The new law will probably affect small businesses considerably.<br>→ The new law is likely ________ small businesses.", "hint": "IMPACT", "a": "The new law is likely <b>to have a considerable impact on</b> small businesses." },
+        { "q": "Nobody has explained satisfactorily why the system failed.<br>→ No satisfactory ________ the failure of the system.", "hint": "GIVEN", "a": "No satisfactory <b>explanation has been given for</b> the failure of the system." },
+        { "q": "The minister denied all knowledge of the affair, but few people believed her.<br>→ Few people ________ all knowledge of the affair.", "hint": "DENIAL", "a": "Few people <b>believed the minister's denial of</b> all knowledge of the affair." },
+        { "q": "They investigated the accident thoroughly.<br>→ A thorough ________ the accident.", "hint": "CARRIED", "a": "A thorough <b>investigation was carried out into</b> the accident." }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce con estilo nominal. Cuidado con los calcos (<i>realizar, la sociedad, debido a…</i>).",
+      "en": "Translate into English using nominal style.",
+      "items": [
+        { "q": "La construcción del nuevo hospital se retrasó debido a la falta de financiación.", "a": "The construction of the new hospital was delayed owing to (due to) a lack of funding." },
+        { "q": "Los investigadores llevaron a cabo un análisis exhaustivo de los datos.", "a": "The researchers carried out (conducted) a thorough analysis of the data." },
+        { "q": "El aumento del desempleo ha provocado un malestar generalizado.", "a": "The rise in unemployment has caused (led to) widespread discontent." },
+        { "q": "Tras la publicación del informe, el ministro dimitió.", "a": "Following (the) publication of the report, the minister resigned." },
+        { "q": "Es preciso establecer una distinción entre ambos conceptos.", "a": "It is necessary to draw a distinction between the two concepts." },
+        { "q": "La subida de los tipos de interés dio lugar a una caída de la demanda.", "a": "The rise in interest rates led to (resulted in) a fall in demand." },
+        { "q": "Pese a la complejidad del problema, llegaron a una conclusión en pocas horas.", "a": "Despite the complexity of the problem, they reached a conclusion within a few hours." },
+        { "q": "La sociedad exige una mayor transparencia en la gestión de los fondos públicos.", "a": "Society demands greater transparency in the management of public funds." },
+        { "q": "En caso de incumplimiento del contrato, la empresa será sancionada.", "a": "In the event of a breach of contract, the company will be penalised." },
+        { "q": "Su negativa a colaborar supone una amenaza para el proyecto.", "a": "Her (His) refusal to cooperate poses a threat to the project." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖", "wide": true,
+      "es": "Lee el artículo. Marca T (verdadero) o F (falso) y contesta las preguntas.",
+      "en": "Read the article. Tick T or F and answer the questions.",
+      "text_title": "The noun habit",
+      "text": [
+        "Anyone who has read a scientific journal will have noticed a peculiar feature of academic prose: its fondness for nouns. Where a journalist might write that scientists <i>tested the vaccine and found that it worked</i>, a researcher is more likely to report <i>the evaluation of the vaccine's efficacy</i>. The linguist M.A.K. Halliday described this shift from verbs to nouns as a form of <i>grammatical metaphor</i>: processes and qualities are repackaged as things.",
+        "The advantages are considerable. Nominalisation allows writers to compress a great deal of information into a single phrase, to present an earlier argument as a given (<i>this reduction</i>, <i>such a decline</i>) and to build long chains of reasoning in which one noun phrase becomes the subject of the next sentence. It also lends prose an air of objectivity, since the people who performed the actions tend to disappear.",
+        "That disappearance, however, is precisely what worries critics. The writing scholar Helen Sword has called excessive nominalisations <i>zombie nouns</i> because they suck the life out of sentences: <i>the implementation of the reorganisation of the department</i> is far harder to process than <i>they reorganised the department</i>. Strings of abstract nouns can also conceal responsibility, as in <i>mistakes were made in the allocation of funds</i>. Good academic writers, then, nominalise selectively: when a noun phrase packages a key concept, they use it; when it merely obscures who did what, they return to a verb."
+      ],
+      "items": [
+        { "q": "According to the text, journalists use more nouns than researchers.", "tf": true, "a": false, "why": "Researchers are more likely to use nominal style." },
+        { "q": "Halliday regarded nominalisation as a type of grammatical metaphor.", "tf": true, "a": true },
+        { "q": "Nominalisation makes it easier to identify who performed an action.", "tf": true, "a": false, "why": "The people who performed the actions tend to disappear." },
+        { "q": "Helen Sword recommends avoiding nouns altogether.", "tf": true, "a": false, "why": "She criticises excessive nominalisations, not nouns in general." },
+        { "q": "Give two advantages of nominalisation mentioned in the text.", "a": "Any two: compressing information; presenting earlier arguments as given; building chains of reasoning; objectivity." },
+        { "q": "Why are excessive nominalisations called <i>zombie nouns</i>?", "a": "Because they suck the life out of sentences and make them harder to process." },
+        { "q": "Which noun phrase in paragraph 1 corresponds to <i>tested the vaccine and found that it worked</i>?", "a": "the evaluation of the vaccine's efficacy" },
+        { "q": "Rewrite <i>mistakes were made in the allocation of funds</i> with an active verb and a clear agent.", "a": "e.g. The committee allocated the funds incorrectly." },
+        { "q": "According to the last paragraph, when do good writers return to a verb?", "a": "When a noun phrase merely obscures who did what." }
+      ]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe en estilo académico. Usa nominalizaciones, colocaciones formales y verbos de causa-efecto.",
+      "en": "Write in academic style using nominalisation.",
+      "items": [
+        { "q": "Reescribe en estilo académico (máx. 35 palabras): <i>«Because lots of tourists come to the city, rents have gone up and local people can't afford to live in the centre any more.»</i>", "lines": 2, "a": "Ej.: The massive influx of tourists into the city has led to a sharp rise in rents, which has priced many local residents out of the historic centre." },
+        { "q": "Escribe dos frases sobre un problema de tu ciudad: una con <b>lead to / result in</b> y otra con <b>stem from</b>.", "lines": 2, "a": "Ej.: The lack of reliable public transport inevitably leads to heavy traffic congestion in the city centre at peak times. Much of the air pollution stems from the widespread use of private cars." },
+        { "q": "Escribe una frase con <b>owing to</b>, otra con <b>despite</b> y otra con <b>upon</b> + sustantivo.", "lines": 2, "a": "Ej.: Owing to the strike, all flights were cancelled. Despite the heavy rain, the match went ahead as planned. Upon arrival, all guests receive a welcome pack and a map of the city." },
+        { "q": "Escribe un breve <i>abstract</i> (40-60 palabras) de un estudio imaginario con al menos cinco nominalizaciones y dos colocaciones formales (<i>carry out, reach…</i>).", "lines": 4, "a": "Ej.: This study examines the impact of remote working on employee well-being. A survey was carried out among 1,200 workers. Analysis of the data revealed a significant reduction in stress but a marked increase in feelings of isolation, pointing to the need for a balanced approach to hybrid working." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Formo el sustantivo correcto de verbos y adjetivos (<b>refusal, failure, scarcity, width</b>).", "en": "I can form the correct noun from verbs and adjectives." },
+    { "es": "Transformo una oración en <b>frase nominal</b>: verbo → sustantivo, adverbio → adjetivo.", "en": "I can turn a clause into a noun phrase." },
+    { "es": "Sustituyo conjunciones por preposiciones: <b>owing to, despite, following, upon</b>.", "en": "I can replace conjunctions with prepositions." },
+    { "es": "Uso bien <b>lead to / result in / stem from</b> sin confundir la dirección causa-efecto.", "en": "I use cause–effect verbs in the right direction." },
+    { "es": "Domino colocaciones formales: <b>carry out, conduct, reach, pose, draw</b>.", "en": "I know formal collocations such as carry out an investigation." },
+    { "es": "Sé cuándo NO nominalizar y evito los <i>zombie nouns</i>.", "en": "I know when not to nominalise and avoid zombie nouns." }
+  ]
+}

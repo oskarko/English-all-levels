@@ -1,0 +1,574 @@
+{
+  "id": "A1-13",
+  "level": "A1",
+  "title": "PREPOSICIONES DE LUGAR",
+  "file_title": "Preposiciones de lugar",
+  "subtitle": "Prepositions of place · ¿dónde está?",
+  "icon": "📦",
+  "map": {
+    "center": "Las <b>preposiciones de lugar</b> dicen <b>dónde está</b> algo: in, on, under, next to, behind…",
+    "nodes": [
+      {"title":"In · on · under","icon":"📦","art":"🐱","rows":[["in","= dentro de"],["on","= encima, tocando"],["under","= debajo de"]]},
+      {"title":"Al lado y entre","icon":"👫","rows":[["next to","= al lado de"],["near","= cerca de"],["between","= entre (dos cosas)"]]},
+      {"title":"Delante y detrás","icon":"🔄","rows":[["in front of","= delante de"],["behind","= detrás de"],["opposite","= enfrente (al otro lado)"]]},
+      {
+        "title": "Arriba y abajo",
+        "icon": "↕️",
+        "art": "💡",
+        "rows": [["above","= encima, sin tocar"],["below","= debajo, más abajo"]],
+        "after": "The lamp is <b>above</b> the table."
+      },
+      {"title":"¿Dónde está?","icon":"❓","items":["<b>Where is</b> the cat? — <b>It's</b> under the bed.","<b>Where are</b> my shoes? — <b>They're</b> in the box."]},
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "items": ["Solo in front <b>of</b> lleva <em>of</em>.","next <b>to</b> <i>(nunca next of)</i>","<b>in</b> the picture <i>(en la foto)</i>"]
+      }
+    ],
+    "error": {"title":"Error común","bad":["The cat is next of the box."],"good":["The cat is next to the box."],"note":"<b>next to</b>, nunca next of"},
+    "mini": {
+      "es": "Completa con in, on, between, above o Where.",
+      "en": "Complete with in, on, between, above or Where.",
+      "items": [
+        {"q":"The fish is ___ the water.","a":"in"},
+        {"q":"The clock is ___ the wall.","a":"on"},
+        {"q":"B is ____ A and C.","a":"between"},
+        {"q":"Your nose is ____ your mouth.","a":"above"},
+        {"q":"___ is my pen? — In my bag.","a":"Where"}
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Las <b>preposiciones de lugar</b> son palabras pequeñas que dicen <mark>dónde está</mark> algo o alguien. Van <b>delante</b> del sitio: <i>in the box, on the table</i>. Casi siempre las usamos con <b>to be</b>: The cat <b>is</b> under the bed. ¡En español casi todo es «en», pero en inglés hay que mirar bien dónde está la cosa!",
+      "en": "<b>Prepositions of place</b> tell us <mark>where</mark> something is. They go before the place: <i>in the box, on the table</i>.",
+      "formula": ["Cosa + *is / are* + preposición + lugar"]
+    },
+    {
+      "t": "rule",
+      "title": "1 · In, on, under",
+      "title_en": "In, on, under",
+      "icon": "📦",
+      "color": "green",
+      "es": "<b>in</b> = dentro de (una caja, una habitación, una mochila). <b>on</b> = encima de, <mark>tocando</mark> la superficie (la mesa, la pared, el suelo). <b>under</b> = debajo de.",
+      "en": "<b>in</b> = inside. <b>on</b> = on top of, <mark>touching</mark> the surface. <b>under</b> = beneath.",
+      "examples": [
+        {"en":"The pencils are <b>in</b> the pencil case.","es":"Los lápices están en el estuche.","icon":"✏️"},
+        {"en":"My book is <b>on</b> the table.","es":"Mi libro está encima de la mesa.","icon":"📘"},
+        {"en":"Rocky is <b>under</b> the bed.","es":"Rocky está debajo de la cama.","icon":"🐕"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Next to, near, between",
+      "title_en": "Next to, near, between",
+      "icon": "👫",
+      "color": "blue",
+      "es": "<b>next to</b> = al lado de, pegado. <b>near</b> = cerca de (no muy lejos, pero no pegado). <b>between</b> = entre, en medio de <b>dos</b> cosas o personas.",
+      "en": "<b>next to</b> = beside. <b>near</b> = not far from. <b>between</b> = in the middle of two things.",
+      "examples": [
+        {"en":"Leo sits <b>next to</b> me in class.","es":"Leo se sienta a mi lado en clase.","icon":"👦"},
+        {"en":"My school is <b>near</b> my house.","es":"Mi cole está cerca de mi casa.","icon":"🏫"},
+        {"en":"Lucía is <b>between</b> Mum and Dad.","es":"Lucía está entre mamá y papá.","icon":"👪"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · In front of, behind, opposite",
+      "title_en": "In front of, behind, opposite",
+      "icon": "🔄",
+      "color": "purple",
+      "es": "<b>in front of</b> = delante de. <b>behind</b> = detrás de. <b>opposite</b> = enfrente de, <mark>al otro lado</mark> (de la calle, de la mesa), cara a cara.",
+      "en": "<b>in front of</b> = before, ahead of. <b>behind</b> = at the back of. <b>opposite</b> = facing, on the other side.",
+      "examples": [
+        {"en":"The car is <b>in front of</b> the house.","es":"El coche está delante de la casa.","icon":"🚗"},
+        {"en":"The ball is <b>behind</b> the tree.","es":"La pelota está detrás del árbol.","icon":"🌳"},
+        {"en":"The park is <b>opposite</b> the school.","es":"El parque está enfrente del cole.","icon":"🏞️"}
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · Above, below",
+      "title_en": "Above, below",
+      "icon": "↕️",
+      "color": "orange",
+      "es": "<b>above</b> = encima de, más arriba, pero <mark>sin tocar</mark>. <b>below</b> = debajo de, más abajo. Piensa en un avión y las nubes, o en un barco y los peces.",
+      "en": "<b>above</b> = higher than, <mark>not touching</mark>. <b>below</b> = lower than.",
+      "examples": [
+        {"en":"The lamp is <b>above</b> the table.","es":"La lámpara está encima de la mesa (sin tocarla).","icon":"💡"},
+        {"en":"The plane is <b>above</b> the clouds.","es":"El avión está por encima de las nubes.","icon":"✈️"},
+        {"en":"The fish are <b>below</b> the boat.","es":"Los peces están debajo del barco.","icon":"🐟"}
+      ]
+    },
+    {
+      "t": "table",
+      "title": "5 · Where is…? Where are…?",
+      "title_en": "Asking where",
+      "icon": "❓",
+      "color": "teal",
+      "head": ["Pregunta · Question","Respuesta · Answer"],
+      "rows": [
+        ["Where <b>is</b> the cat?","<b>It's</b> under the table."],
+        ["Where <b>is</b> Mario?","<b>He's</b> in the garden."],
+        ["Where <b>is</b> Lucía?","<b>She's</b> next to the door."],
+        ["Where <b>are</b> my shoes?","<b>They're</b> under the bed."],
+        ["Where <b>are</b> you?","<b>I'm</b> in my room."],
+        ["<b>Is</b> the ball in the box?","Yes, it <b>is</b>. / No, it <b>isn't</b>."]
+      ],
+      "note": "Una cosa → <b>Where is</b> (Where's)…? · Varias cosas → <b>Where are</b>…? Contesta con <b>It's / He's / She's / They're</b> + preposición.",
+      "note_en": "One thing → Where is…? Two or more → Where are…? Answer with It's / They're…"
+    },
+    {
+      "t": "compare",
+      "title": "ON o ABOVE",
+      "title_en": "on or above?",
+      "color": "blue",
+      "icon": "⚖️",
+      "es": "Las dos son «encima», pero <b>on</b> toca la cosa y <b>above</b> está más arriba <b>sin tocarla</b>.",
+      "en": "<b>on</b> touches the surface; <b>above</b> is higher and doesn't touch.",
+      "cols": [
+        {"head":"✋ on · tocando","color":"green","items":["The cup is <b>on</b> the table.","The cat is <b>on</b> the roof.","My hat is <b>on</b> my head."]},
+        {
+          "head": "☁️ above · sin tocar",
+          "color": "orange",
+          "items": ["The lamp is <b>above</b> the table.","The birds are <b>above</b> the roof.","The sun is <b>above</b> the clouds."]
+        }
+      ]
+    },
+    {
+      "t": "compare",
+      "title": "¡Trampa! IN FRONT OF u OPPOSITE",
+      "title_en": "in front of or opposite?",
+      "color": "red",
+      "icon": "⚠️",
+      "es": "«Enfrente de» parece <i>in front of</i>, ¡pero es una trampa! <b>in front of</b> = <b>delante</b> de (en tu mismo lado). <b>opposite</b> = <b>enfrente</b>, al otro lado, cara a cara (al otro lado de la calle o de la mesa).",
+      "en": "<b>in front of</b> = ahead of, on the same side. <b>opposite</b> = facing you, on the other side.",
+      "cols": [
+        {"head":"🧍 in front of · delante","color":"green","items":["Tom is <b>in front of</b> me in the queue.","The car is <b>in front of</b> the garage."]},
+        {"head":"↔️ opposite · enfrente","color":"purple","items":["The shop is <b>opposite</b> my school.","Sara sits <b>opposite</b> me at lunch."]}
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Solo una lleva OF",
+      "title_en": "Only one takes of",
+      "color": "teal",
+      "es": "En español decimos «delante <b>de</b>, detrás <b>de</b>, cerca <b>de</b>, al lado <b>de</b>». En inglés, ¡no! Solo <b>in front of</b> lleva <em>of</em>. Al lado es <b>next to</b>. Y <b>behind, near, between, opposite, under, above, below</b> van solas.",
+      "en": "Only <b>in front of</b> has <em>of</em>. <b>next to</b> has <em>to</em>. The others go alone."
+    },
+    {
+      "t": "table",
+      "title": "Todas las preposiciones",
+      "title_en": "All the prepositions",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": ["Preposición","Español","Pista · Clue","Ejemplo · Example"],
+      "rows": [
+        ["<b>in</b>","dentro de","📦 dentro de una caja o una habitación","The ball is <b>in</b> the box."],
+        ["<b>on</b>","encima de (tocando)","📚 sobre una superficie","The book is <b>on</b> the desk."],
+        ["<b>under</b>","debajo de","🛏️ justo debajo","The cat is <b>under</b> the bed."],
+        ["<b>next to</b>","al lado de","👫 pegado, al lado","Sara is <b>next to</b> Leo."],
+        ["<b>near</b>","cerca de","📍 no muy lejos","The shop is <b>near</b> my house."],
+        ["<b>between</b>","entre","🥪 en medio de dos","B is <b>between</b> A and C."],
+        ["<b>in front of</b>","delante de","🧍 delante, en tu lado","The car is <b>in front of</b> the house."],
+        ["<b>behind</b>","detrás de","🙈 detrás, escondido","The dog is <b>behind</b> the door."],
+        ["<b>opposite</b>","enfrente de","↔️ al otro lado, cara a cara","The bank is <b>opposite</b> the park."],
+        ["<b>above</b>","encima (sin tocar)","☁️ más arriba","The lamp is <b>above</b> the table."],
+        ["<b>below</b>","debajo (más abajo)","🐟 más abajo","The fish are <b>below</b> the boat."]
+      ],
+      "note": "Fíjate: de todas ellas, solo <b>in front of</b> lleva <em>of</em>. Y <b>next to</b> lleva <em>to</em>.",
+      "note_en": "Only <b>in front of</b> takes <em>of</em>. <b>next to</b> takes <em>to</em>."
+    },
+    {
+      "t": "vocab",
+      "title": "Cosas de casa y del cole",
+      "title_en": "Things at home and at school",
+      "icon": "🏠",
+      "color": "pink",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {"en":"bed","es":"cama","icon":"🛏️"},
+        {"en":"chair","es":"silla","icon":"🪑"},
+        {"en":"sofa","es":"sofá","icon":"🛋️"},
+        {"en":"table","es":"mesa","icon":"🍽️"},
+        {"en":"box","es":"caja","icon":"📦"},
+        {"en":"door","es":"puerta","icon":"🚪"},
+        {"en":"window","es":"ventana","icon":"🪟"},
+        {"en":"wall","es":"pared","icon":"🧱"},
+        {"en":"shelf","es":"estantería, balda","icon":"📚"},
+        {"en":"lamp","es":"lámpara","icon":"💡"},
+        {"en":"picture","es":"cuadro, dibujo, foto","icon":"🖼️"},
+        {"en":"schoolbag","es":"mochila","icon":"🎒"}
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más ejemplos",
+      "title_en": "More examples",
+      "items": [
+        {"en":"My schoolbag is <b>under</b> my desk.","es":"Mi mochila está debajo de mi pupitre.","icon":"🎒"},
+        {"en":"Lucía's room is <b>next to</b> my room.","es":"La habitación de Lucía está al lado de la mía.","icon":"🚪"},
+        {"en":"Where's my rubber? — It's <b>in</b> your pencil case.","es":"¿Dónde está mi goma? — Está en tu estuche.","icon":"✏️"},
+        {"en":"Tom sits <b>between</b> Sara and Anna.","es":"Tom se sienta entre Sara y Anna.","icon":"👦"},
+        {"en":"The supermarket is <b>opposite</b> the park.","es":"El súper está enfrente del parque.","icon":"🛒"},
+        {"en":"Rocky is <b>behind</b> the door.","es":"Rocky está detrás de la puerta.","icon":"🐶"},
+        {"en":"My teacher stands <b>in front of</b> the class.","es":"Mi profe se pone delante de la clase.","icon":"👩‍🏫"},
+        {"en":"The moon is <b>above</b> the trees.","es":"La luna está por encima de los árboles.","icon":"🌙"},
+        {"en":"Our flat is <b>below</b> Leo's flat.","es":"Nuestro piso está debajo del piso de Leo.","icon":"🏢"},
+        {"en":"Where are the biscuits? — They're <b>in</b> the cupboard.","es":"¿Dónde están las galletas? — Están en el armario.","icon":"🍪"},
+        {"en":"My grandparents live <b>near</b> the beach.","es":"Mis abuelos viven cerca de la playa.","icon":"🏖️"},
+        {"en":"Look at the dog <b>in</b> the picture!","es":"¡Mira el perro de la foto!","icon":"🖼️"}
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "trampas",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {"bad":"The cat is next of the box.","good":"The cat is next <b>to</b> the box.","why":"Al lado = next to.","why_en":"next to, not next of."},
+        {"bad":"The ball is behind of the tree.","good":"The ball is <b>behind</b> the tree.","why":"Behind va solo, sin of.","why_en":"No of after behind."},
+        {"bad":"My house is near of the park.","good":"My house is <b>near</b> the park.","why":"Near va solo, sin of.","why_en":"No of after near."},
+        {
+          "bad": "The shop is in front of my school. <small>(al otro lado de la calle)</small>",
+          "good": "The shop is <b>opposite</b> my school.",
+          "why": "Enfrente, al otro lado = opposite.",
+          "why_en": "Across the street = opposite."
+        },
+        {"bad":"My book is in the table.","good":"My book is <b>on</b> the table.","why":"Encima y tocando = on.","why_en":"On top, touching = on."},
+        {"bad":"Look at the boy on the picture.","good":"Look at the boy <b>in</b> the picture.","why":"En una foto o dibujo = in.","why_en":"in a picture or photo."},
+        {"bad":"Where is my shoes?","good":"Where <b>are</b> my shoes?","why":"Varias cosas → Where are.","why_en":"Plural → Where are."},
+        {"bad":"Is under the table.","good":"<b>It's</b> under the table.","why":"¡Falta el sujeto! It's…","why_en":"Don't forget the subject."}
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo digo dónde está algo?",
+      "title_en": "How do I say where it is?",
+      "color": "orange",
+      "items": [
+        {"es":"Di <b>qué</b> buscas: the cat, my shoes, Rocky…","en":"Say what it is: the cat, my shoes…"},
+        {"es":"Pon <b>is</b> (una cosa) o <b>are</b> (varias).","en":"Add is (one) or are (more than one)."},
+        {
+          "es": "Elige la <b>preposición</b>: ¿dentro (in)? ¿encima tocando (on)? ¿debajo (under)? ¿al lado (next to)?…",
+          "en": "Choose the preposition: in, on, under, next to…"
+        },
+        {"es":"Añade <b>the / my</b> + el sitio: the bed, my desk.","en":"Add the / my + the place."},
+        {"es":"Repasa: ¿he puesto <em>of</em> donde no va? Solo <b>in front of</b> lleva of.","en":"Check: only in front of takes of."}
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "¿Dónde está Rocky?",
+      "title_en": "Where's Rocky?",
+      "lines": [
+        {"who":"Mario","en":"Lucía, where's Rocky?","es":"Lucía, ¿dónde está Rocky?"},
+        {"who":"Lucía","en":"I don't know. Is he under the bed?","es":"No sé. ¿Está debajo de la cama?"},
+        {"who":"Mario","en":"No, he isn't. And he isn't behind the sofa.","es":"No. Y no está detrás del sofá."},
+        {"who":"Lucía","en":"Is he in the garden?","es":"¿Está en el jardín?"},
+        {"who":"Mario","en":"No… Wait! Where are my football boots?","es":"No… ¡Espera! ¿Dónde están mis botas de fútbol?"},
+        {"who":"Lucía","en":"They're next to the door… and Rocky is between them!","es":"Están al lado de la puerta… ¡y Rocky está entre ellas!"},
+        {"who":"Mario","en":"Rocky! My boots aren't your bed!","es":"¡Rocky! ¡Mis botas no son tu cama!"}
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco de la caja",
+      "title_en": "The box trick",
+      "es": "Coge una <b>caja</b> 📦 (o tu estuche) y una <b>goma</b>. Mueve la goma y di dónde está: <b>in</b> the box, <b>on</b> the box, <b>under</b> the box, <b>next to</b> the box, <b>behind</b> the box, <b>in front of</b> the box. ¡Con dos cajas, prueba <b>between</b>!",
+      "en": "Take a box and a rubber. Move the rubber and say where it is: in, on, under, next to, behind, in front of the box."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "match",
+      "title": "Une inglés y español",
+      "title_en": "Match English and Spanish",
+      "icon": "🔗",
+      "es": "Une cada preposición con su significado.",
+      "en": "Match each preposition with its meaning.",
+      "pairs": [
+        ["in","dentro de"],
+        ["on","encima de (tocando)"],
+        ["under","debajo de"],
+        ["next to","al lado de"],
+        ["behind","detrás de"],
+        ["in front of","delante de"],
+        ["between","entre"],
+        ["opposite","enfrente de"]
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct option",
+      "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        {"q":"The fish is [in|on] the fishbowl.","a":"in"},
+        {"q":"The picture is [on|in] the wall.","a":"on"},
+        {"q":"Your feet are [above|below] your knees.","a":"below"},
+        {"q":"The sky is [above|under] us.","a":"above"},
+        {"q":"The cat is [next|next to] the box.","a":"next to"},
+        {"q":"The ball is [behind|behind of] the tree.","a":"behind"},
+        {"q":"[Where is|Where are] my socks?","a":"Where are"},
+        {"q":"The number 5 is [between|opposite] 4 and 6.","a":"between"},
+        {"q":"Look at the girl [in|on] the picture.","a":"in"},
+        {"q":"My hat is [on|under] my head.","a":"on"}
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Where is o Where are?",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "¿Qué pregunta va con cada cosa? Escribe cada palabra en su caja.",
+      "en": "Write each word in the right box.",
+      "cats": [
+        {"name":"Where is…?","words":["the cat","Rocky","your bag","my rubber","Mum"]},
+        {"name":"Where are…?","words":["my shoes","the books","the children","Leo and Tom","the pencils"]}
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "✔️",
+      "es": "Piensa en tu cuerpo y en el mundo. ¿Es verdad (T) o es falso (F)?",
+      "en": "Think about your body and the world. True or false?",
+      "items": [
+        {"q":"Your nose is above your mouth.","a":true},
+        {"q":"Your mouth is above your nose.","a":false,"why":"It's below your nose."},
+        {"q":"The sky is above us.","a":true},
+        {"q":"Fish swim under the water.","a":true},
+        {"q":"The letter B is between A and C.","a":true},
+        {"q":"Your shoes are on your hands.","a":false,"why":"They're on your feet."},
+        {"q":"Your knees are above your feet.","a":true},
+        {"q":"The moon is under the ground.","a":false,"why":"It's in the sky."}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Completa con la preposición",
+      "title_en": "Complete with a preposition",
+      "icon": "📍",
+      "es": "Completa con la preposición. Mira la pista en español.",
+      "en": "Complete with the right preposition.",
+      "bank": ["in","on","under","next to","behind","in front of","between","opposite","above","near","below"],
+      "items": [
+        {"q":"The cat is ____ the box.","a":"in","hint":"dentro"},
+        {"q":"My book is ____ the table.","a":"on","hint":"encima, tocando"},
+        {"q":"Rocky is ____ the bed.","a":"under","hint":"debajo"},
+        {"q":"Sara is ____ Leo.","a":"next to","hint":"al lado"},
+        {"q":"The ball is ____ the tree.","a":"behind","hint":"detrás"},
+        {"q":"The car is ____ the house.","a":"in front of","hint":"delante"},
+        {"q":"Tom is ____ Anna and Sara.","a":"between","hint":"entre"},
+        {"q":"The shop is ____ the school.","a":"opposite","hint":"enfrente, al otro lado de la calle"},
+        {"q":"The lamp is ____ the table.","a":"above","hint":"encima, sin tocar"},
+        {"q":"My school is ____ my house.","a":"near","hint":"cerca"},
+        {"q":"The fish are ____ the boat.","a":"below","hint":"más abajo"}
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Pregunta y respuesta",
+      "title_en": "Question and answer",
+      "icon": "💬",
+      "es": "Completa con Where is / Where are y con It's / He's / She's / They're / I'm. (Where's también vale.)",
+      "en": "Complete with Where is / Where are and It's / He's / She's / They're / I'm.",
+      "items": [
+        {"q":"____ the cat? — ___ on the sofa.","a":"Where is · It's"},
+        {"q":"____ my shoes? — ___ under the bed.","a":"Where are · They're"},
+        {"q":"____ Lucía? — ___ in her room.","a":"Where is · She's"},
+        {"q":"____ the books? — ___ on the shelf.","a":"Where are · They're"},
+        {"q":"____ Mario? — ___ in the garden.","a":"Where is · He's"},
+        {"q":"____ my keys? — ___ next to the TV.","a":"Where are · They're"},
+        {"q":"____ you? — ___ behind the door!","a":"Where are · I'm"}
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une pregunta y respuesta",
+      "title_en": "Match questions and answers",
+      "icon": "🔗",
+      "es": "Une cada pregunta con su respuesta. Fíjate en It's, She's, He's, They're.",
+      "en": "Match each question with its answer.",
+      "pairs": [
+        ["Where's the milk?","It's in the fridge."],
+        ["Where are my socks?","They're under your bed."],
+        ["Where's Mum?","She's in the kitchen."],
+        ["Where's Rocky?","He's behind the sofa."],
+        ["Where are the children?","They're in the playground."],
+        ["Where's the moon?","It's above the trees."]
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Pregunta y responde",
+      "title_en": "Ask and answer",
+      "icon": "❓",
+      "es": "Escribe la pregunta con Is / Are y la respuesta corta. Fíjate en la pista (YES / NO).",
+      "en": "Write the question and the short answer.",
+      "labels": ["❓","💬"],
+      "items": [
+        {"q":"the ball / under the bed (YES)","a":["Is the ball under the bed?","Yes, it is."]},
+        {"q":"Rocky / in the garden (NO)","a":["Is Rocky in the garden?","No, he isn't."]},
+        {"q":"my shoes / next to the door (YES)","a":["Are my shoes next to the door?","Yes, they are."]},
+        {"q":"Mum and Dad / in the kitchen (YES)","a":["Are Mum and Dad in the kitchen?","Yes, they are."]},
+        {"q":"the bank / opposite the park (YES)","a":["Is the bank opposite the park?","Yes, it is."]},
+        {"q":"Lucía / behind the tree (NO)","a":["Is Lucía behind the tree?","No, she isn't."]},
+        {"q":"the books / on the shelf (NO)","a":["Are the books on the shelf?","No, they aren't."]}
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto o interrogación!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {"q":"is / the cat / under / the table","a":"The cat is under the table."},
+        {"q":"my / is / bag / on / chair / the","a":"My bag is on the chair."},
+        {"q":"is / where / Rocky / ?","a":"Where is Rocky?"},
+        {"q":"next to / sits / Leo / me","a":"Leo sits next to me."},
+        {"q":"are / where / my / shoes / ?","a":"Where are my shoes?"},
+        {"q":"it's / the school / opposite","a":"It's opposite the school."},
+        {"q":"between / I / am / Lucía and Mum","a":"I am between Lucía and Mum."},
+        {"q":"the lamp / above / is / the table","a":"The lamp is above the table."}
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "Contesta con la pista",
+      "title_en": "Answer with the clue",
+      "icon": "📋",
+      "wide": true,
+      "es": "Lee la pista y escribe la respuesta completa: It's / He's / She's / They're + preposición + lugar.",
+      "en": "Read the clue and write the full answer.",
+      "head": ["❓ Pregunta · Question","📍 Pista · Clue","💬 Respuesta · Answer"],
+      "rows": [
+        ["Where is the cat?","sofá · encima","?It's on the sofa."],
+        ["Where are my shoes?","cama · debajo","?They're under the bed."],
+        ["Where is Lucía?","Sara · al lado","?She's next to Sara."],
+        ["Where is the ball?","árbol · detrás","?It's behind the tree."],
+        ["Where are the books?","mochila · dentro","?They're in the schoolbag."],
+        ["Where is Mario?","Leo y Tom · entre","?He's between Leo and Tom."],
+        ["Where is the bus stop?","cole · enfrente","?It's opposite the school."],
+        ["Where is the clock?","puerta · encima, sin tocar","?It's above the door."],
+        ["Where is the car?","casa · delante","?It's in front of the house."],
+        ["Where is the park?","mi casa · cerca","?It's near my house."]
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {"q":"The cat is next of the box.","a":"The cat is next to the box."},
+        {"q":"The ball is behind of the tree.","a":"The ball is behind the tree."},
+        {"q":"My school is near of my house.","a":"My school is near my house."},
+        {"q":"The book is in the table.","a":"The book is on the table."},
+        {"q":"Look at the dog on the picture.","a":"Look at the dog in the picture."},
+        {"q":"Where is my socks?","a":"Where are my socks?"},
+        {"q":"Is under the bed.","a":"It's under the bed."},
+        {"q":"The bank is in front the park.","a":"The bank is in front of the park."}
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿dentro, encima, debajo, al lado…? ¿is o are?",
+      "en": "Translate into English.",
+      "items": [
+        {"q":"El gato está debajo de la mesa.","a":"The cat is under the table."},
+        {"q":"Mi mochila está en la silla.","a":"My schoolbag is on the chair."},
+        {"q":"¿Dónde está Rocky?","a":"Where is Rocky?"},
+        {"q":"Leo está al lado de la puerta.","a":"Leo is next to the door."},
+        {"q":"El parque está enfrente de mi casa.","a":"The park is opposite my house."},
+        {"q":"¿Dónde están mis zapatos? — Están debajo de la cama.","a":"Where are my shoes? — They're under the bed."},
+        {"q":"Lucía está entre Sara y Anna.","a":"Lucía is between Sara and Anna."},
+        {"q":"La lámpara está encima de la mesa (sin tocarla).","a":"The lamp is above the table."}
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "Mario's bedroom",
+      "text": [
+        "This is my bedroom. It's small, but I love it! My bed is next to the window. Under my bed there's a big box with my toys. My desk is opposite the bed. My computer is on the desk and my schoolbag is under the chair.",
+        "There are two shelves above my desk. My books are on the shelves. Rocky, my dog, sleeps between my bed and the door. But where is Rocky now? He's behind the curtain! Shh!"
+      ],
+      "items": [
+        {"q":"Mario's bed is next to the door.","tf":true,"a":false,"why":"It's next to the window."},
+        {"q":"The toy box is under the bed.","tf":true,"a":true},
+        {"q":"The computer is on the desk.","tf":true,"a":true},
+        {"q":"Where is Mario's schoolbag?","a":"It's under the chair."},
+        {"q":"Where are the shelves?","a":"They're above the desk."},
+        {"q":"Where does Rocky sleep?","a":"Between the bed and the door."},
+        {"q":"Where is Rocky now?","a":"He's behind the curtain."}
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea la palabra",
+      "title_en": "Spell the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en las cajas.",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        {"q":"🪑 silla","a":"chair"},
+        {"q":"🚪 puerta","a":"door"},
+        {"q":"🪟 ventana","a":"window"},
+        {"q":"🛏️ cama","a":"bed"},
+        {"q":"🖼️ cuadro","a":"picture"},
+        {"q":"🛋️ sofá","a":"sofa"}
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca las 8 palabras. Después escribe dos frases sobre tu habitación usando dos de ellas.",
+      "en": "Find the 8 words. Then write two sentences about your bedroom.",
+      "words": ["under","behind","between","opposite","above","below","near","where"],
+      "clues": ["under · debajo","behind · detrás","between · entre","opposite · enfrente","above · encima","below · debajo","near · cerca","where · dónde"]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre tu casa y tus cosas. Usa al menos cinco preposiciones distintas.",
+      "en": "Write about your home and your things.",
+      "items": [
+        {"q":"Describe tu habitación: My bed is…","lines":2,"a":"Ej.: My bed is next to the window. My lamp is on the desk."},
+        {"q":"¿Dónde están ahora tu mochila y tu estuche?","lines":2,"a":"Ej.: My schoolbag is under my desk. My pencil case is in my schoolbag."},
+        {"q":"¿Qué hay <b>enfrente</b> de tu casa o de tu cole? Usa opposite.","lines":1,"a":"Ej.: The park is opposite my school."},
+        {"q":"Esconde un juguete y escribe una pista para un amigo: It's…","lines":2,"a":"Ej.: It's behind the sofa, near the TV."}
+      ]
+    }
+  ],
+  "checklist": [
+    {"es":"Sé decir dónde está algo con <b>in, on, under</b>.","en":"I can use in, on and under."},
+    {"es":"Sé usar <b>next to, near</b> y <b>between</b>.","en":"I can use next to, near and between."},
+    {"es":"Distingo <b>in front of</b> (delante) y <b>opposite</b> (enfrente).","en":"I know the difference between in front of and opposite."},
+    {"es":"Sé usar <b>above</b> y <b>below</b>.","en":"I can use above and below."},
+    {"es":"Sé preguntar <b>Where is…? / Where are…?</b> y contestar It's… / They're…","en":"I can ask and answer with Where."},
+    {"es":"Nunca escribo <s>next of</s>, <s>behind of</s> ni <s>near of</s>.","en":"I never write next of, behind of or near of."}
+  ]
+}

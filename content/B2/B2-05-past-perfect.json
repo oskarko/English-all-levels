@@ -1,0 +1,468 @@
+{
+  "id": "B2-05",
+  "level": "B2",
+  "title": "PAST PERFECT",
+  "file_title": "Past perfect",
+  "subtitle": "Simple & continuous · el pasado del pasado",
+  "icon": "🕰️",
+  "map": {
+    "center": "El <b>PAST PERFECT</b> es el <b>«pasado del pasado»</b>: algo que ocurrió <b>antes</b> de otro momento pasado.",
+    "nodes": [
+      {
+        "title": "Simple: la forma", "icon": "✅",
+        "items": ["<b>had</b> + participio (todas las personas)", "She <b>had left</b>. <i>(Se había ido.)</i>", "<b>hadn't</b> left · <b>Had</b> she left?"]
+      },
+      {
+        "title": "Continuous", "icon": "⏳", "art": "🚌",
+        "items": ["<b>had been</b> + -ing", "I <b>had been waiting</b> for an hour.", "Duración antes de un momento pasado."]
+      },
+      {
+        "title": "¿Cuándo se usa?", "icon": "🎯",
+        "items": ["Dos acciones pasadas: la <b>más antigua</b> → past perfect.", "When I arrived, the film <b>had started</b>."]
+      },
+      {
+        "title": "Palabras clave", "icon": "🔑",
+        "chips": ["by the time", "before", "after", "when", "already", "just", "never… before"],
+        "after": "By the time we arrived, they <b>had gone</b>."
+      },
+      {
+        "title": "Simple o continuous", "icon": "⚖️",
+        "items": ["Resultado: I'd written <b>3 emails</b>.", "Duración: I was tired — I'<b>d been running</b>.", "know, like, own → solo simple"]
+      },
+      {
+        "title": "Consejo rápido", "icon": "💡", "art": "🕰️",
+        "items": ["<b>'d</b> + participio = had: she'd gone", "Si <b>before / after</b> ya ordena, vale el past simple.", "Nunca <s>had went</s> → had <b>gone</b>"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["When I arrived, the train already left."],
+      "good": ["When I arrived, the train had already left."],
+      "note": "Lo que pasó <b>antes</b> → <b>had</b> + participio"
+    },
+    "mini": {
+      "es": "Completa con el past perfect (simple o continuous).",
+      "en": "Complete with the past perfect.",
+      "items": [
+        { "q": "When we arrived, the film ___ (start).", "a": "had started" },
+        { "q": "She ___ (never / fly) before that trip.", "a": "had never flown" },
+        { "q": "I ___ (wait) for an hour when he came.", "a": "had been waiting" },
+        { "q": "By the time I got up, they ___ (go).", "a": "had gone" },
+        { "q": "___ you ever been there before?", "a": "Had" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "El <b>past perfect</b> sirve para hablar de algo que pasó <mark>antes de otro momento del pasado</mark>. Es el «pasado del pasado», como el pluscuamperfecto español (<i>había comido, había salido</i>). Es imprescindible para <b>contar historias</b>: cuando ya estamos en un momento pasado y queremos mirar <b>todavía más atrás</b>, como en un <i>flashback</i> de una película. Tiene dos formas: <b>simple</b> (<i>had done</i>) y <b>continuous</b> (<i>had been doing</i>).",
+      "en": "The past perfect describes something that happened <mark>before another past moment</mark>: the past of the past.",
+      "formula": ["Sujeto + *had* + participio", "Sujeto + *had been* + verbo-ing"]
+    },
+    {
+      "t": "rule", "title": "1 · Past perfect simple", "title_en": "Past perfect simple: affirmative", "icon": "✅", "color": "green",
+      "es": "Se forma con <b>had</b> + <b>participio</b> (la 3.ª columna de los irregulares) y es <mark>igual para todas las personas</mark>: no hay <i>has</i> ni terminaciones. En la conversación se contrae: <b>I'd, you'd, she'd, they'd</b>… En español cambia el auxiliar (<i>había, habías, habíamos</i>); en inglés, siempre <b>had</b>.",
+      "en": "<b>had + past participle</b>, the same for all persons. Short form: <b>'d</b>.",
+      "formula": ["I / you / he / she / we / they + *had* + participio"],
+      "examples": [
+        { "en": "When I got to the station, the train <b>had</b> already <b>left</b>.", "es": "Cuando llegué a la estación, el tren ya se había ido.", "icon": "🚆" },
+        { "en": "She <b>had worked</b> in Paris before she moved to Madrid.", "es": "Había trabajado en París antes de mudarse a Madrid.", "icon": "🗼" },
+        { "en": "We<b>'d</b> never <b>seen</b> such a beautiful beach until we went to Menorca.", "es": "Nunca habíamos visto una playa tan bonita hasta que fuimos a Menorca.", "icon": "🏝️" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · Negativa y preguntas", "title_en": "Negatives and questions", "icon": "❓", "color": "blue",
+      "es": "Negativa: <b>hadn't</b> (<i>had not</i>) + participio. Pregunta: <b>Had</b> + sujeto + participio…? Respuestas cortas: <b>Yes, I had. / No, I hadn't.</b> Con palabras interrogativas: <i>Where <b>had</b> you <b>put</b> it?</i> ¡Sin <i>did</i>!",
+      "en": "Negative: <b>hadn't</b> + participle. Question: <b>Had</b> + subject + participle…? No <i>did</i>.",
+      "formula": ["Sujeto + *hadn't* + participio", "*Had* + sujeto + participio…?"],
+      "examples": [
+        { "en": "I <b>hadn't finished</b> my presentation when the meeting started.", "es": "No había terminado la presentación cuando empezó la reunión.", "icon": "💻" },
+        { "en": "<b>Had</b> you ever <b>been</b> abroad before that trip? — No, I <b>hadn't</b>.", "es": "¿Habías estado alguna vez en el extranjero antes de ese viaje? — No.", "icon": "🧳" },
+        { "en": "Why <b>had</b> she <b>left</b> so early?", "es": "¿Por qué se había ido tan pronto?", "icon": "🤔" }
+      ]
+    },
+    {
+      "t": "rule", "title": "3 · Past perfect continuous", "title_en": "Past perfect continuous", "icon": "⏳", "color": "purple",
+      "es": "Se forma con <b>had been + -ing</b>. Lo usamos para una actividad que <mark>estuvo ocurriendo durante un tiempo</mark> hasta un momento del pasado (o justo antes). Responde a <b>How long…?</b> y suele ir con <b>for / since</b>. También explica <b>efectos visibles</b> en el pasado. Truco: el español <i>llevaba + tiempo + gerundio</i> = <b>had been + -ing + for</b>.",
+      "en": "<b>had been + -ing</b>: an activity in progress for some time up to a past moment, often with for / since, or explaining a visible past result.",
+      "formula": ["Sujeto + *had been* + verbo-ing"],
+      "examples": [
+        { "en": "I <b>had been waiting</b> for an hour when the bus finally arrived.", "es": "Llevaba una hora esperando cuando por fin llegó el autobús.", "icon": "🚌" },
+        { "en": "Her eyes were red because she <b>had been crying</b>.", "es": "Tenía los ojos rojos porque había estado llorando.", "icon": "😢" },
+        { "en": "They <b>had been living</b> in Bristol for ten years when they decided to move.", "es": "Llevaban diez años viviendo en Bristol cuando decidieron mudarse.", "icon": "🏡" }
+      ]
+    },
+    {
+      "t": "table", "title": "Todo junto: simple y continuous", "title_en": "All together", "icon": "🧩", "color": "orange", "wide": true,
+      "head": ["Forma · Form", "✅ Afirmativa", "⛔ Negativa", "❓ Pregunta", "💬 Respuesta corta"],
+      "rows": [
+        ["Simple (I / you…)", "I <b>had finished</b>.", "I <b>hadn't finished</b>.", "<b>Had</b> you <b>finished</b>?", "Yes, I had. / No, I hadn't."],
+        ["Simple (he / she / it)", "He <b>had gone</b>.", "He <b>hadn't gone</b>.", "<b>Had</b> he <b>gone</b>?", "Yes, he had. / No, he hadn't."],
+        ["Continuous", "We <b>had been working</b>.", "We <b>hadn't been working</b>.", "<b>Had</b> they <b>been working</b>?", "Yes, they had. / No, they hadn't."],
+        ["Wh- (simple)", "—", "—", "Where <b>had</b> you <b>put</b> it?", "—"],
+        ["Wh- (continuous)", "—", "—", "How long <b>had</b> she <b>been waiting</b>?", "—"]
+      ],
+      "note": "Ojo: <b>'d</b> puede ser <b>had</b> o <b>would</b>. Si detrás va un <b>participio</b> (<i>she'd gone</i>) o <b>been</b> (<i>she'd been working</i>) → <b>had</b>. Si va un infinitivo (<i>she'd go</i>) → <b>would</b>.",
+      "note_en": "'d + participle / been = had; 'd + infinitive = would."
+    },
+    {
+      "t": "rule", "title": "4 · Contar historias: el orden de los hechos", "title_en": "Telling stories", "icon": "📚", "color": "teal",
+      "es": "En una narración, el <b>past simple</b> cuenta la historia principal (lo que va pasando) y el <b>past perfect</b> nos hace <mark>saltar hacia atrás</mark> para explicar lo que había ocurrido antes. Una vez que el lector sabe que estamos «más atrás», podemos volver al past simple.",
+      "en": "Past simple = the main story line. Past perfect = a flashback to an earlier event.",
+      "examples": [
+        { "en": "When I opened the door, I realised someone <b>had broken</b> into the flat.", "es": "Cuando abrí la puerta, me di cuenta de que alguien había entrado a robar en el piso.", "icon": "🚪" },
+        { "en": "The party was a disaster: the DJ <b>hadn't turned up</b> and the food <b>had run out</b>.", "es": "La fiesta fue un desastre: el DJ no había aparecido y se había acabado la comida.", "icon": "🎉" },
+        { "en": "She recognised him at once. They <b>had met</b> at a conference years before.", "es": "Lo reconoció enseguida. Se habían conocido en un congreso años antes.", "icon": "🤝" }
+      ]
+    },
+    {
+      "t": "compare", "title": "¿Past simple o past perfect?", "title_en": "Past simple or past perfect?", "color": "blue", "icon": "⚖️",
+      "es": "Con <b>when</b>, el tiempo verbal <mark>cambia el significado</mark>: past simple + past simple = una cosa justo después de la otra; past perfect = una cosa <b>ya había pasado</b> antes.",
+      "en": "With when, the tense changes the meaning.",
+      "cols": [
+        { "head": "▶️ Past simple · una tras otra", "color": "green", "items": ["When I arrived, the film <b>started</b>.", "<i>Llegué y entonces empezó la peli.</i>", "When the police came, the thief <b>ran away</b>.", "<i>Llegó la policía y el ladrón huyó.</i>"] },
+        { "head": "⏮️ Past perfect · ya había pasado", "color": "purple", "items": ["When I arrived, the film <b>had started</b>.", "<i>Cuando llegué, la peli ya había empezado.</i>", "When the police came, the thief <b>had run away</b>.", "<i>Cuando llegó la policía, el ladrón ya había huido.</i>"] }
+      ]
+    },
+    {
+      "t": "table", "title": "5 · Palabras clave", "title_en": "Time expressions", "icon": "🔑", "color": "pink",
+      "head": ["Expresión", "Ejemplo · Example"],
+      "rows": [
+        ["<b>by the time</b> <i>(para cuando)</i>", "By the time we got there, the shop <b>had closed</b>."],
+        ["<b>before</b>", "I <b>had</b> never <b>flown</b> before 2020."],
+        ["<b>after</b>", "After she <b>had finished</b> her degree, she travelled."],
+        ["<b>when</b>", "When I woke up, everyone <b>had gone</b> out."],
+        ["<b>as soon as</b>", "As soon as he <b>had paid</b>, he left."],
+        ["<b>until</b>", "I didn't relax until I <b>had sent</b> the email."],
+        ["<b>already / just</b>", "The film <b>had already</b> / <b>just</b> started."],
+        ["<b>never / ever … before</b>", "I <b>had never</b> seen snow before."],
+        ["<b>for / since</b>", "She <b>had been working</b> there <b>for</b> years."]
+      ],
+      "note": "<b>By the time</b> + past simple → la otra parte casi siempre va en <b>past perfect</b>: <i>By the time I arrived, they <b>had eaten</b>.</i>",
+      "note_en": "By the time + past simple → past perfect in the main clause."
+    },
+    {
+      "t": "rule", "title": "6 · already, just, never, ever, yet", "title_en": "already, just, never, ever, yet", "icon": "⏱️", "color": "yellow",
+      "es": "Las mismas palabras que usas con el present perfect funcionan con el past perfect, pero mirando a un momento pasado. Van <mark>entre <b>had</b> y el participio</mark>: <i>had <b>already</b> left, had <b>just</b> arrived, had <b>never</b> tried</i>. <b>Ever</b> se usa en preguntas. <b>Yet</b> va al final en negativas y preguntas: <i>They hadn't arrived <b>yet</b>.</i> Y el español <i>acababa de + infinitivo</i> = <b>had just</b> + participio.",
+      "en": "already, just, never and ever go between had and the participle. yet goes at the end.",
+      "formula": ["*had* + already / just / never + *participio*"],
+      "examples": [
+        { "en": "The guests <b>had already arrived</b> when I got home.", "es": "Los invitados ya habían llegado cuando llegué a casa.", "icon": "🏠" },
+        { "en": "I<b>'d just sat</b> down when the phone rang.", "es": "Me acababa de sentar cuando sonó el teléfono.", "icon": "☎️" },
+        { "en": "<b>Had</b> you <b>ever tried</b> sushi before you went to Japan?", "es": "¿Habías probado alguna vez el sushi antes de ir a Japón?", "icon": "🍣" }
+      ]
+    },
+    {
+      "t": "compare", "title": "¿Simple o continuous?", "title_en": "Simple or continuous?", "color": "purple", "icon": "⚖️",
+      "es": "Usa el <b>simple</b> para una acción <b>terminada</b> o un <b>resultado / cantidad</b> (¿cuánto?, ¿cuántos?). Usa el <b>continuous</b> para la <b>duración</b> de una actividad (¿cuánto tiempo?) o para explicar algo que se <b>notaba</b> después. Los verbos de estado (<i>know, like, believe, own</i>) no van en continuous.",
+      "en": "Simple = finished action / how many. Continuous = duration / how long, or visible effects. State verbs → simple.",
+      "cols": [
+        { "head": "✅ Simple · resultado", "color": "green", "items": ["She <b>had written</b> three chapters.", "<i>Había escrito tres capítulos.</i>", "I <b>had known</b> him for years. <i>(estado)</i>"] },
+        { "head": "⏳ Continuous · duración", "color": "purple", "items": ["She <b>had been writing</b> all morning.", "<i>Llevaba toda la mañana escribiendo.</i>", "He was wet: he <b>had been swimming</b>."] }
+      ]
+    },
+    {
+      "t": "rule", "title": "7 · ¿Cuándo NO hace falta?", "title_en": "When you don't need it", "icon": "🙅", "color": "orange",
+      "es": "Si el orden de los hechos ya está claro con <b>before</b> o <b>after</b>, o si contamos las acciones <b>en el orden en que pasaron</b>, el past simple es suficiente. El past perfect no es «más correcto»: solo hace falta cuando hay que <mark>retroceder</mark> en el tiempo. ¡No lo uses por todo!",
+      "en": "If the order is already clear (before / after, or events told in sequence), the past simple is enough.",
+      "examples": [
+        { "en": "I <b>had</b> breakfast, <b>got</b> dressed and <b>left</b> for work.", "es": "Desayuné, me vestí y me fui a trabajar.", "icon": "🍳" },
+        { "en": "After she <b>finished</b> / <b>had finished</b> the exam, she went home.", "es": "Después de terminar el examen, se fue a casa. <i>(las dos valen)</i>", "icon": "📝" },
+        { "en": "We <b>left</b> before the concert <b>ended</b>.", "es": "Nos fuimos antes de que acabara el concierto.", "icon": "🎸" }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "By the time the firefighters arrived, the fire had spread to the roof.", "es": "Para cuando llegaron los bomberos, el fuego se había extendido al tejado.", "icon": "🚒" },
+        { "en": "I was nervous because I had never spoken in public before.", "es": "Estaba nervioso porque nunca había hablado en público.", "icon": "🎤" },
+        { "en": "She had been studying for six hours, so she took a break.", "es": "Llevaba seis horas estudiando, así que se tomó un descanso.", "icon": "📚" },
+        { "en": "When I checked my account, I saw that my salary hadn't arrived.", "es": "Cuando miré la cuenta, vi que no me había llegado el sueldo.", "icon": "🏦" },
+        { "en": "He realised he had left his passport at the hotel.", "es": "Se dio cuenta de que se había dejado el pasaporte en el hotel.", "icon": "🛂" },
+        { "en": "We had been driving for hours when we finally found a petrol station.", "es": "Llevábamos horas conduciendo cuando por fin encontramos una gasolinera.", "icon": "⛽" },
+        { "en": "Had you met Laura before the wedding?", "es": "¿Ya conocías a Laura antes de la boda?", "icon": "💒" },
+        { "en": "It was the first time I had seen the sea.", "es": "Era la primera vez que veía el mar.", "icon": "🌊" },
+        { "en": "My feet hurt because I had been walking all day.", "es": "Me dolían los pies porque había estado andando todo el día.", "icon": "🥾" },
+        { "en": "The company had lost a lot of money, so it closed two shops.", "es": "La empresa había perdido mucho dinero, así que cerró dos tiendas.", "icon": "📉" },
+        { "en": "I didn't recognise her: she had changed so much!", "es": "No la reconocí: ¡había cambiado muchísimo!", "icon": "😮" },
+        { "en": "They had just got married when they moved to Canada.", "es": "Se acababan de casar cuando se mudaron a Canadá.", "icon": "💍" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "error", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "When I arrived, the train already left.", "good": "When I arrived, the train <b>had already left</b>.", "why": "Lo que pasó antes → <b>had</b> + participio.", "why_en": "Earlier action → past perfect." },
+        { "bad": "She had went home.", "good": "She had <b>gone</b> home.", "why": "had + participio (3.ª columna), no pasado.", "why_en": "Use the past participle." },
+        { "bad": "I had been knowing him for years.", "good": "I <b>had known</b> him for years.", "why": "<b>know</b> es de estado: no va en continuous.", "why_en": "State verbs → simple." },
+        { "bad": "I was waiting for two hours when he arrived.", "good": "I <b>had been waiting</b> for two hours when he arrived.", "why": "<i>Llevaba dos horas…</i> → had been + -ing.", "why_en": "Duration up to a past moment." },
+        { "bad": "It was the first time I saw snow.", "good": "It was the first time I <b>had seen</b> snow.", "why": "<i>It was the first time</i> → past perfect (español: <i>veía</i>).", "why_en": "It was the first time + past perfect." },
+        { "bad": "By the time we arrived, they left.", "good": "By the time we arrived, they <b>had left</b>.", "why": "<b>By the time</b> + past simple → past perfect.", "why_en": "By the time → past perfect." },
+        { "bad": "Did you had eaten before the class?", "good": "<b>Had</b> you eaten before the class?", "why": "La pregunta se hace con <b>had</b>, sin <i>did</i>.", "why_en": "No did in past perfect questions." },
+        { "bad": "I had breakfast, had got dressed and had left.", "good": "I had breakfast, <b>got</b> dressed and <b>left</b>.", "why": "Acciones en orden → past simple. ¡No abuses!", "why_en": "Events in order → past simple." }
+      ]
+    },
+    {
+      "t": "steps", "title": "¿Past simple o past perfect?", "title_en": "Which tense?", "color": "orange",
+      "items": [
+        { "es": "Busca el <b>momento de referencia</b> en el pasado: <i>when I arrived, by 2010, at 9 pm…</i>", "en": "Find the past reference point." },
+        { "es": "¿Esta acción ocurrió <b>antes</b> de ese momento? → <b>past perfect</b>. ¿Al mismo tiempo o después? → past simple.", "en": "Earlier → past perfect; same time or later → past simple." },
+        { "es": "¿Importa la <b>duración</b> (how long, for, since) o se ve el efecto? → <b>had been + -ing</b>. ¿Resultado o cantidad? → <b>had + participio</b>.", "en": "Duration → continuous; result → simple." },
+        { "es": "¿El orden ya está claro (before, after, una acción tras otra)? Puedes usar el past simple.", "en": "Order already clear → past simple is fine." },
+        { "es": "Revisa: <b>had</b> para todas las personas, participio correcto (<i>gone, seen, written</i>) y adverbio entre <i>had</i> y el participio.", "en": "Check: had for all persons, participle, adverb position." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "Un día horrible", "title_en": "A terrible day",
+      "lines": [
+        { "who": "Tom", "en": "You look exhausted. What happened?", "es": "Pareces agotada. ¿Qué ha pasado?" },
+        { "who": "Nora", "en": "What a day! When I got to the airport, my flight had been cancelled.", "es": "¡Menudo día! Cuando llegué al aeropuerto, me habían cancelado el vuelo." },
+        { "who": "Tom", "en": "Oh no! Hadn't they sent you an email?", "es": "¡Oh, no! ¿No te habían mandado un email?" },
+        { "who": "Nora", "en": "They had, but I hadn't checked my inbox since the morning.", "es": "Sí, pero yo no había mirado el correo desde por la mañana." },
+        { "who": "Tom", "en": "So how long did you have to wait?", "es": "¿Y cuánto tuviste que esperar?" },
+        { "who": "Nora", "en": "I'd been waiting for four hours when they finally found me a seat on another flight.", "es": "Llevaba cuatro horas esperando cuando por fin me encontraron sitio en otro vuelo." },
+        { "who": "Tom", "en": "And by the time you landed, the meeting had finished, right?", "es": "Y para cuando aterrizaste, la reunión ya había terminado, ¿no?" },
+        { "who": "Nora", "en": "Exactly. Everyone had already gone home. I'd never felt so frustrated!", "es": "Exacto. Todos se habían ido ya a casa. ¡Nunca me había sentido tan frustrada!" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco: la línea del tiempo", "title_en": "Tip: the timeline",
+      "es": "Dibuja una línea del tiempo con dos marcas en el pasado: <b>1</b> = lo más antiguo, <b>2</b> = lo más reciente. <mark>La marca 1 lleva <b>had</b></mark>. Y recuerda los «amigos» del español: <i>había + participio</i> = <b>had + participio</b>; <i>llevaba + tiempo + gerundio</i> = <b>had been + -ing for</b>; <i>acababa de</i> = <b>had just</b>.",
+      "en": "Draw a timeline: the earlier event gets <b>had</b>."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose", "title": "Rodea la forma correcta", "title_en": "Circle the correct form", "icon": "⭕",
+      "es": "Rodea la opción correcta. Pregúntate: ¿qué pasó antes?",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "When I got home, my parents [had gone|went] to bed, so the house was quiet.", "a": "had gone" },
+        { "q": "By the time we arrived, the concert [had finished|has finished].", "a": "had finished" },
+        { "q": "I [had never seen|have never seen] snow before I moved to Canada.", "a": "had never seen" },
+        { "q": "[Had|Did] you eaten before you went to the gym?", "a": "Had" },
+        { "q": "She had [gone|went] out when I called.", "a": "gone" },
+        { "q": "I [had known|had been knowing] him for years before we became friends.", "a": "had known" },
+        { "q": "It was the first time I [had driven|drove] on the left.", "a": "had driven" },
+        { "q": "He [had just|just had] left when you phoned.", "a": "had just" },
+        { "q": "We [hadn't eaten|didn't have eaten] anything all day, so we were starving.", "a": "hadn't eaten" },
+        { "q": "How long [had you been waiting|had you waiting] when the doctor called you?", "a": "had you been waiting" }
+      ]
+    },
+    {
+      "t": "match", "title": "Une las dos mitades", "title_en": "Match the halves", "icon": "🔗",
+      "es": "Une cada principio con su final lógico.",
+      "en": "Match the beginnings and endings.",
+      "pairs": [
+        ["When I got to the party,", "most people had already left."],
+        ["She was exhausted because", "she had been working all night."],
+        ["I couldn't get into the flat because", "I had lost my keys."],
+        ["By the time the police arrived,", "the thieves had escaped."],
+        ["He failed the exam because", "he hadn't studied enough."],
+        ["It was the first time", "I had eaten octopus."],
+        ["The grass was wet because", "it had been raining."],
+        ["We had just sat down to dinner", "when the doorbell rang."]
+      ]
+    },
+    {
+      "t": "classify", "title": "¿Pasado de have o past perfect?", "title_en": "Past of have or past perfect?", "icon": "🗂️", "wide": true,
+      "es": "¿<b>had</b> es el pasado del verbo <i>have</i> (tener, tomar…) o el auxiliar del past perfect? Clasifica.",
+      "en": "Is had the past simple of have or the past perfect auxiliary?",
+      "cats": [
+        { "name": "Past simple de have", "words": ["I had a cold", "she had lunch", "we had a great time", "he had a shower", "they had two dogs", "I had to leave"] },
+        { "name": "Past perfect", "words": ["I had seen it", "she had left", "we had been waiting", "they had had lunch", "he had broken his leg", "you had forgotten"] }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Qué pasó primero?", "title_en": "What happened first?", "icon": "🧐",
+      "es": "Lee la frase. ¿La afirmación que sigue a la flecha es verdadera (T) o falsa (F)?",
+      "en": "Read the sentence. Is the statement after the arrow true or false?",
+      "items": [
+        { "q": "When Ana arrived, Tom had left. → <b>Tom left before Ana arrived.</b>", "a": true },
+        { "q": "When Ana arrived, Tom left. → <b>Tom left before Ana arrived.</b>", "a": false, "why": "Ana arrived first; then Tom left." },
+        { "q": "I had finished my homework when Dad got home. → <b>Dad got home first.</b>", "a": false, "why": "I finished my homework first." },
+        { "q": "By the time we reached the beach, the sun had set. → <b>We watched the sunset at the beach.</b>", "a": false, "why": "The sun set before we arrived." },
+        { "q": "She had been crying, so her eyes were red. → <b>The crying happened first.</b>", "a": true },
+        { "q": "The film started after we had bought the popcorn. → <b>We bought the popcorn first.</b>", "a": true },
+        { "q": "When I phoned him, he had just woken up. → <b>He woke up long before my call.</b>", "a": false, "why": "He woke up just before the call." },
+        { "q": "They had been dating for two years when they got married. → <b>They got married first.</b>", "a": false, "why": "They dated for two years before the wedding." }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Completa la tabla", "title_en": "Complete the table", "icon": "📋", "wide": true,
+      "es": "Escribe las formas que faltan.",
+      "en": "Fill in the missing forms.",
+      "head": ["Verbo", "✅ Past perfect simple", "⛔ Negativa", "⏳ Past perfect continuous"],
+      "rows": [
+        ["go (she)", "?she had gone", "?she hadn't gone", "?she had been going"],
+        ["eat (we)", "we had eaten", "?we hadn't eaten", "?we had been eating"],
+        ["write (I)", "?I had written", "I hadn't written", "?I had been writing"],
+        ["work (they)", "?they had worked", "?they hadn't worked", "they had been working"],
+        ["sleep (he)", "?he had slept", "?he hadn't slept", "?he had been sleeping"]
+      ]
+    },
+    {
+      "t": "fill", "title": "Past perfect simple", "title_en": "Past perfect simple", "icon": "✏️",
+      "es": "Completa con el past perfect simple (afirmativa, negativa o pregunta).",
+      "en": "Complete with the past perfect simple.",
+      "items": [
+        { "q": "When I got to the office, the meeting ____ (already / start).", "a": "had already started" },
+        { "q": "She was nervous because she ____ (never / fly) before.", "a": "had never flown" },
+        { "q": "We couldn't pay because we ____ (forget) our wallets.", "a": "had forgotten" },
+        { "q": "The streets were wet. It ____ (rain) during the night.", "a": ["had rained", "had been raining"] },
+        { "q": "I ____ (not / see) the film, so I didn't understand the jokes.", "a": "hadn't seen" },
+        { "q": "___ you ____ (meet) him before the party?", "a": "Had … met" },
+        { "q": "He ____ (just / leave) when I arrived.", "a": "had just left" },
+        { "q": "They ____ (not / finish) dinner when the guests arrived.", "a": "hadn't finished" },
+        { "q": "By 2010, she ____ (write) three novels.", "a": "had written" },
+        { "q": "Where ___ you ____ (put) the keys?", "a": "had … put" }
+      ]
+    },
+    {
+      "t": "fill", "title": "¿Past simple o past perfect?", "title_en": "Past simple or past perfect?", "icon": "⚖️",
+      "es": "Completa con el past simple o el past perfect. Piensa en el orden de los hechos. A veces valen los dos.",
+      "en": "Complete with the past simple or the past perfect.",
+      "items": [
+        { "q": "When we got to the cinema, the film ____ (already / start). We missed the beginning.", "a": "had already started" },
+        { "q": "When the alarm went off, everybody ____ (leave) the building quickly.", "a": "left" },
+        { "q": "I ____ (not / recognise) her at first because she had cut her hair.", "a": "didn't recognise" },
+        { "q": "She told me she ____ (lose) her phone the day before.", "a": "had lost" },
+        { "q": "After he ____ (finish) work, he went to the gym.", "a": ["finished", "had finished"] },
+        { "q": "Yesterday I ____ (get) up, ____ (have) a shower and went out.", "a": "got … had" },
+        { "q": "The match ____ (end) when we turned on the TV, so we only saw the highlights.", "a": "had ended" },
+        { "q": "When I saw Paula at the party, I ____ (give) her the present.", "a": "gave" },
+        { "q": "He ____ (never / eat) Thai food before he went to Bangkok.", "a": "had never eaten" },
+        { "q": "As soon as I ____ (send) the email, I realised I had made a mistake.", "a": ["sent", "had sent"] }
+      ]
+    },
+    {
+      "t": "fill", "title": "¿Simple o continuous?", "title_en": "Simple or continuous?", "icon": "⏳",
+      "es": "Completa con had + participio o had been + -ing.",
+      "en": "Complete with the past perfect simple or continuous.",
+      "items": [
+        { "q": "I was tired because I ____ (study) all afternoon.", "a": "had been studying" },
+        { "q": "By the end of the day, I ____ (answer) fifty emails.", "a": "had answered" },
+        { "q": "She ____ (wait) for over an hour when the train finally arrived.", "a": "had been waiting" },
+        { "q": "They ____ (know) each other since primary school.", "a": "had known" },
+        { "q": "His hands were dirty because he ____ (fix) his bike.", "a": "had been fixing" },
+        { "q": "By the time she retired, she ____ (teach) more than 3,000 students.", "a": "had taught" },
+        { "q": "We ____ (drive) for six hours, so we stopped for a rest.", "a": "had been driving" },
+        { "q": "I ____ (read) the book twice before I saw the film.", "a": "had read" }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Une las dos frases", "title_en": "Join the sentences", "icon": "🔁",
+      "es": "Une las dos frases con la palabra entre paréntesis. Usa el past perfect para lo que ocurrió primero.",
+      "en": "Join the sentences with the word in brackets.",
+      "items": [
+        { "q": "The guests left. Then we arrived. (when)", "a": "When we arrived, the guests had left." },
+        { "q": "She finished her degree. Then she found a job. (after)", "a": "After she had finished her degree, she found a job." },
+        { "q": "The shop closed. Then I got there. (by the time)", "a": "By the time I got there, the shop had closed." },
+        { "q": "I lost my glasses. I couldn't read the menu. (because)", "a": "I couldn't read the menu because I had lost my glasses." },
+        { "q": "He waited for two hours. Then she called. (when + continuous)", "a": "He had been waiting for two hours when she called." },
+        { "q": "We bought the tickets. Then the prices went up. (before)", "a": "We had bought the tickets before the prices went up." },
+        { "q": "I didn't eat all day. I was starving in the evening. (because)", "a": "I was starving in the evening because I hadn't eaten all day." },
+        { "q": "She arrived home. A minute later it started to snow. (just)", "a": "She had just arrived home when it started to snow." }
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras. Pon la coma si la frase empieza con when o by the time.",
+      "en": "Put the words in order.",
+      "items": [
+        { "q": "had / when / arrived / we / left / the / train", "a": "When we arrived, the train had left." },
+        { "q": "never / she / had / flown / before", "a": "She had never flown before." },
+        { "q": "been / I / had / for / waiting / hours", "a": "I had been waiting for hours." },
+        { "q": "you / had / finished / the report / ?", "a": "Had you finished the report?" },
+        { "q": "by / the / time / we / got / there / they / had / gone", "a": "By the time we got there, they had gone." },
+        { "q": "was / it / the / first / time / I / had / seen / snow", "a": "It was the first time I had seen snow." },
+        { "q": "just / had / she / when / left / I / called", "a": "She had just left when I called." },
+        { "q": "tired / he / was / because / had / been / he / running", "a": "He was tired because he had been running." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "When I got home, my sister already went to bed.", "a": "When I got home, my sister had already gone to bed." },
+        { "q": "I had saw the film before.", "a": "I had seen the film before." },
+        { "q": "She had been knowing him for ages.", "a": "She had known him for ages." },
+        { "q": "Did you had finished your homework?", "a": "Had you finished your homework?" },
+        { "q": "By the time the police arrived, the thief escaped.", "a": "By the time the police arrived, the thief had escaped." },
+        { "q": "It was the first time I ate sushi.", "a": "It was the first time I had eaten sushi." },
+        { "q": "We were waiting for an hour when the taxi came.", "a": "We had been waiting for an hour when the taxi came." },
+        { "q": "He hadn't never been to London before.", "a": "He had never been to London before. / He hadn't ever been to London before." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "Transformaciones con palabra clave", "title_en": "Key word transformations (B2 First)", "icon": "🔑",
+      "es": "Completa la segunda frase para que signifique lo mismo que la primera. Usa la palabra clave 🔑 sin cambiarla y escribe entre 2 y 5 palabras (incluida la palabra clave).",
+      "en": "Complete the second sentence so that it means the same as the first. Use the key word unchanged and 2–5 words.",
+      "items": [
+        { "q": "I arrived after the film started. 🔑 <b>HAD</b><br>When I arrived, the film _____.", "a": "had (already) started" },
+        { "q": "This was my first visit to Rome. 🔑 <b>BEEN</b><br>I _____ to Rome before.", "a": "had never been" },
+        { "q": "She started waiting at nine and the bus came at ten. 🔑 <b>WAITING</b><br>When the bus came, she _____ an hour.", "a": "had been waiting for" },
+        { "q": "The guests left and then we got to the party. 🔑 <b>TIME</b><br>By _____ to the party, the guests had left.", "a": "the time we got" },
+        { "q": "Tom left the office a minute before I arrived. 🔑 <b>JUST</b><br>When I arrived, Tom _____ the office.", "a": "had just left" },
+        { "q": "I didn't know about the change until Sara told me. 🔑 <b>HEARD</b><br>I _____ about the change until Sara told me.", "a": "hadn't heard / had not heard" },
+        { "q": "It was the first time she had ever driven abroad. 🔑 <b>NEVER</b><br>She _____ abroad before.", "a": "had never driven" },
+        { "q": "Emma started running at 7 and stopped at 9, so she was tired. 🔑 <b>BEEN</b><br>Emma was tired because she _____ two hours.", "a": "had been running for" }
+      ]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Recuerda: <i>había</i> → <b>had</b>; <i>llevaba… -ando</i> → <b>had been -ing</b>; <i>acababa de</i> → <b>had just</b>.",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Cuando llegué, la reunión ya había empezado.", "a": "When I arrived, the meeting had already started." },
+        { "q": "Nunca había visto una ciudad tan bonita.", "a": "I had never seen such a beautiful city (before)." },
+        { "q": "Llevábamos dos horas esperando cuando abrieron la puerta.", "a": "We had been waiting for two hours when they opened the door." },
+        { "q": "Para cuando llegó la policía, el ladrón se había escapado.", "a": "By the time the police arrived, the thief had escaped." },
+        { "q": "Me acababa de duchar cuando sonó el teléfono.", "a": "I had just had a shower when the phone rang." },
+        { "q": "Era la primera vez que montaba a caballo.", "a": "It was the first time I had ridden a horse." },
+        { "q": "¿Habías estado en Londres antes?", "a": "Had you been to London before?" },
+        { "q": "Estaba cansada porque había estado trabajando todo el día.", "a": "She was tired because she had been working all day." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee la historia. Marca T (true) o F (false) y contesta las preguntas.",
+      "en": "Read the story. Tick T or F and answer the questions.",
+      "text_title": "The worst first day ever",
+      "text": [
+        "Last September, Daniel started a new job at a bank in London. He had prepared everything the night before: he had ironed his shirt, packed his bag and set two alarms. He had never been so nervous.",
+        "But the next morning, things went wrong. There had been a power cut during the night, so his alarms hadn't gone off. When he finally woke up, it was already half past eight. By the time he reached the station, his train had left.",
+        "He arrived at the office forty minutes late. He had been running for ten minutes and his face was bright red. His new boss, Mrs Clarke, smiled and said: “Don't worry. On my first day, I got on the wrong train and ended up in Brighton!” Daniel laughed. It was the first time he had relaxed all morning."
+      ],
+      "items": [
+        { "q": "Daniel had prepared his things the night before.", "tf": true, "a": true },
+        { "q": "His alarms didn't go off because his phone was broken.", "tf": true, "a": false, "why": "There had been a power cut during the night." },
+        { "q": "He caught his usual train.", "tf": true, "a": false, "why": "By the time he reached the station, his train had left." },
+        { "q": "His boss was angry with him.", "tf": true, "a": false, "why": "She smiled and told him not to worry." },
+        { "q": "What had Daniel done the night before?", "a": "He had ironed his shirt, packed his bag and set two alarms." },
+        { "q": "Why was his face red when he arrived?", "a": "Because he had been running for ten minutes." },
+        { "q": "Find a past perfect continuous in the text.", "a": "He had been running (for ten minutes)." },
+        { "q": "What happened to Mrs Clarke on her first day?", "a": "She got on the wrong train and ended up in Brighton." }
+      ]
+    },
+    {
+      "t": "write", "title": "Ahora escribe tú", "title_en": "Your turn", "icon": "✍️",
+      "es": "Escribe sobre tus propias experiencias con el past perfect simple y continuous.",
+      "en": "Write about your own experiences.",
+      "items": [
+        { "q": "Un viaje o una experiencia: ¿qué cosas no habías hecho nunca antes? <i>I had never…</i>", "lines": 2, "a": "Ej.: Before I went to Iceland, I had never seen the Northern Lights. I had never swum in a hot spring either." },
+        { "q": "Completa: <i>By the time I got home yesterday, …</i>", "lines": 1, "a": "Ej.: By the time I got home yesterday, my flatmates had eaten all the pizza." },
+        { "q": "Un momento en que estabas cansado/a o enfadado/a: ¿qué habías estado haciendo?", "lines": 2, "a": "Ej.: I was exhausted last Friday because I had been working on a project all week." },
+        { "q": "El principio de una historia (3-4 frases) con past simple y past perfect.", "lines": 3, "a": "Ej.: When Clara opened the door, she knew something was wrong. Someone had been in the flat. The window was open and her laptop had disappeared." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Formo el <b>past perfect simple</b>: had + participio (igual para todos).", "en": "I can form the past perfect simple." },
+    { "es": "Formo el <b>past perfect continuous</b>: had been + -ing.", "en": "I can form the past perfect continuous." },
+    { "es": "Sé cuándo algo pasó <b>antes</b> de otro momento pasado.", "en": "I can show that something happened earlier in the past." },
+    { "es": "Uso <b>by the time, already, just, never… before</b>.", "en": "I can use by the time, already, just, never… before." },
+    { "es": "Distingo <b>simple</b> (resultado) y <b>continuous</b> (duración).", "en": "I can choose between simple and continuous." },
+    { "es": "No abuso del past perfect: si el orden está claro, uso el past simple.", "en": "I don't overuse the past perfect." }
+  ]
+}

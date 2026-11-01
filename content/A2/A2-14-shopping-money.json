@@ -1,0 +1,1469 @@
+{
+  "id": "A2-14",
+  "level": "A2",
+  "title": "PRECIOS <em>y</em> DINERO",
+  "file_title": "Precios y dinero",
+  "subtitle": "Shopping and money · de compras",
+  "icon": "🛍️",
+  "map": {
+    "center": "En las tiendas preguntamos <b>How much…?</b>, pedimos con <b>I'd like…</b> y decimos precios: <b>£3.50</b>.",
+    "nodes": [
+      {
+        "title": "El dinero",
+        "icon": "💷",
+        "rows": [
+          [
+            "£",
+            "pound(s) · 100 pence (p)"
+          ],
+          [
+            "€",
+            "euro(s) · 100 cents"
+          ]
+        ],
+        "after": "Símbolo <b>delante</b>: <b>£5</b>, <b>€12</b> · <s>12€</s>"
+      },
+      {
+        "title": "Decir precios",
+        "icon": "🗣️",
+        "items": [
+          "£3.50 = <b>three pounds fifty</b>",
+          "€12 = <b>twelve euros</b>",
+          "75p = <b>seventy-five p</b> (pence)",
+          "Punto, no coma: £3<b>.</b>50 <s>3,50</s>"
+        ]
+      },
+      {
+        "title": "¿Cuánto cuesta?",
+        "icon": "❓",
+        "art": "🏷️",
+        "items": [
+          "<b>How much is</b> this cap? — <b>It's</b> £8.",
+          "<b>How much are</b> these socks? — <b>They're</b> £4.",
+          "<b>How much does it cost?</b> — It <b>costs</b> €9."
+        ]
+      },
+      {
+        "title": "Pedir con educación",
+        "icon": "🙏",
+        "items": [
+          "<b>I'd like</b> a sandwich, please.",
+          "<b>Can I have</b> a juice, please?",
+          "<b>Have you got</b> it in blue?",
+          "<s>I want…</s> suena maleducado."
+        ]
+      },
+      {
+        "title": "Pagar",
+        "icon": "💳",
+        "art": "🧾",
+        "items": [
+          "<b>Can I pay by card?</b>",
+          "pay <b>by card</b> · pay <b>in cash</b>",
+          "Here's your <b>change</b>. <i>(el cambio)</i>",
+          "Here's your <b>receipt</b>. <i>(el tique)</i>"
+        ]
+      },
+      {
+        "title": "Consejo rápido",
+        "icon": "💡",
+        "items": [
+          "cheap = barato · expensive = caro",
+          "<b>money is</b>… (¡singular!)",
+          "five pound<b>s</b> · ten euro<b>s</b> (¡plural!)"
+        ]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "How much costs it?"
+      ],
+      "good": [
+        "How much is it?"
+      ],
+      "note": "o bien: How much <b>does</b> it <b>cost</b>?"
+    },
+    "mini": {
+      "es": "Completa con is, are, like, by o fifty.",
+      "en": "Complete with is, are, like, by or fifty.",
+      "items": [
+        {
+          "q": "How much ____ these trainers?",
+          "a": "are"
+        },
+        {
+          "q": "How much ____ this book?",
+          "a": "is"
+        },
+        {
+          "q": "I'd ____ an ice cream, please.",
+          "a": "like"
+        },
+        {
+          "q": "Can I pay ____ card?",
+          "a": "by"
+        },
+        {
+          "q": "£2.50 = two pounds ____",
+          "a": "fifty"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "wide": true,
+      "es": "Cuando vamos de <b>compras</b> (shopping) necesitamos tres cosas: <b>preguntar el precio</b> (<i>How much is it?</i>), <b>pedir con educación</b> (<i>I'd like…, please</i>) y <mark>entender y decir los precios</mark> (<i>£3.50 = three pounds fifty</i>). ¡Vamos de tiendas en inglés!",
+      "en": "When we go shopping we need to ask the price, ask politely and understand and say prices.",
+      "formula": [
+        "*How much* + is it?",
+        "*I'd like* + cosa + *please*"
+      ]
+    },
+    {
+      "t": "table",
+      "title": "El dinero",
+      "title_en": "Money",
+      "icon": "💷",
+      "color": "green",
+      "head": [
+        "",
+        "🇬🇧 Libra · Pound (£)",
+        "Euro (€)"
+      ],
+      "rows": [
+        [
+          "Billetes · Notes",
+          "£5, £10, £20, £50",
+          "€5, €10, €20, €50…"
+        ],
+        [
+          "Monedas · Coins",
+          "1p, 2p, 5p, 10p, 20p, 50p, £1, £2",
+          "1c, 2c, 5c, 10c, 20c, 50c, €1, €2"
+        ],
+        [
+          "Partes · Parts",
+          "100 <b>pence</b> = £1",
+          "100 <b>cents</b> = €1"
+        ],
+        [
+          "Una · One",
+          "a pound · a penny",
+          "a euro · a cent"
+        ],
+        [
+          "Varias · Many",
+          "pound<b>s</b> · pence (p)",
+          "euro<b>s</b> · cent<b>s</b>"
+        ]
+      ],
+      "note": "<b>p</b> se dice /piː/ (como la letra P): 50p = <i>fifty p</i>. Y se dice <b>a euro</b>, no <i>an euro</i>, porque euro empieza con sonido /j/, como <i>you</i>.",
+      "note_en": "p = pence (say 'pee'). We say a euro."
+    },
+    {
+      "t": "rule",
+      "title": "1 · Cómo se escriben",
+      "title_en": "Writing prices",
+      "icon": "✏️",
+      "color": "blue",
+      "es": "En inglés, el símbolo de la moneda va <mark>delante del número</mark>: <b>£5</b>, <b>€12</b>, <b>$20</b>. Para los céntimos usamos un <b>punto</b>, no una coma: <b>£3.50</b> <s>3,50 £</s>. Si es menos de una libra, ponemos <b>p</b> detrás: <b>75p</b>.",
+      "en": "The symbol goes <mark>before the number</mark> and we use a point, not a comma: £3.50, €12, 75p.",
+      "formula": [
+        "*£* + número: £3.50",
+        "*€* + número: €12"
+      ],
+      "examples": [
+        {
+          "en": "This comic is <b>£2.99</b>.",
+          "es": "Este cómic cuesta 2,99 libras.",
+          "icon": "📰"
+        },
+        {
+          "en": "The museum ticket is <b>€8</b>.",
+          "es": "La entrada del museo cuesta 8 €.",
+          "icon": "🎟️"
+        },
+        {
+          "en": "A lollipop is <b>40p</b>.",
+          "es": "Una piruleta cuesta 40 peniques.",
+          "icon": "🍭"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · Cómo se dicen",
+      "title_en": "Saying prices",
+      "icon": "🗣️",
+      "color": "purple",
+      "es": "Para <b>decir</b> un precio, primero las libras o euros y luego los peniques o céntimos, ¡sin decir el punto! <b>£3.50</b> = <i>three pounds fifty</i> (o más corto: <i>three fifty</i>). Y no olvides la <b>-s</b> del plural: <i>five pound<em>s</em></i>, <i>ten euro<em>s</em></i>.",
+      "en": "Say the pounds / euros, then the pence / cents. Don't say 'point'. Remember the plural -s.",
+      "formula": [
+        "£3.50 → three + *pounds* + fifty",
+        "€12.99 → twelve + *euros* + ninety-nine"
+      ],
+      "examples": [
+        {
+          "en": "The pizza is £7.50 — <b>seven pounds fifty</b>.",
+          "es": "La pizza cuesta 7,50 libras.",
+          "icon": "🍕"
+        },
+        {
+          "en": "The T-shirt is €15 — <b>fifteen euros</b>.",
+          "es": "La camiseta cuesta 15 €.",
+          "icon": "👕"
+        },
+        {
+          "en": "The rubber is 60p — <b>sixty p</b>.",
+          "es": "La goma cuesta 60 peniques.",
+          "icon": "✏️"
+        }
+      ]
+    },
+    {
+      "t": "tip",
+      "title": "Truco del precio",
+      "title_en": "Price trick",
+      "es": "Para decir un precio, tapa el punto con el dedo y di los dos números con la moneda en medio: <b>£4.25</b> → <i>four</i> <b>pounds</b> <i>twenty-five</i>. ¡Nunca digas <i>«point»</i> en un precio! <s>four point twenty-five</s>",
+      "en": "Number + currency + number: £4.25 → four pounds twenty-five. Never say 'point'."
+    },
+    {
+      "t": "table",
+      "title": "Así se dicen los precios",
+      "title_en": "How we say prices",
+      "icon": "🧩",
+      "color": "orange",
+      "head": [
+        "Escrito · Written",
+        "Se dice · We say",
+        "En español"
+      ],
+      "rows": [
+        [
+          "£1",
+          "one pound <i>(a pound)</i>",
+          "una libra"
+        ],
+        [
+          "£5",
+          "five pounds",
+          "cinco libras"
+        ],
+        [
+          "50p",
+          "fifty pence <i>(fifty p)</i>",
+          "50 peniques"
+        ],
+        [
+          "£2.50",
+          "two pounds fifty <i>(two fifty)</i>",
+          "2,50 libras"
+        ],
+        [
+          "£9.99",
+          "nine pounds ninety-nine <i>(nine ninety-nine)</i>",
+          "9,99 libras"
+        ],
+        [
+          "£20.75",
+          "twenty pounds seventy-five <i>(twenty seventy-five)</i>",
+          "20,75 libras"
+        ],
+        [
+          "€1",
+          "one euro <i>(a euro)</i>",
+          "un euro"
+        ],
+        [
+          "€12",
+          "twelve euros",
+          "12 €"
+        ],
+        [
+          "€3.75",
+          "three euros seventy-five <i>(three seventy-five)</i>",
+          "3,75 €"
+        ],
+        [
+          "$10",
+          "ten dollars",
+          "10 dólares"
+        ]
+      ],
+      "note": "Entre paréntesis, la forma corta. Ojo: en español escribimos <i>3,75 €</i>; en inglés <b>€3.75</b>: símbolo delante y punto en vez de coma.",
+      "note_en": "In brackets: the short way. Spanish 3,75 € · English €3.75."
+    },
+    {
+      "t": "rule",
+      "title": "3 · HOW MUCH IS / ARE…?",
+      "title_en": "Asking the price",
+      "icon": "❓",
+      "color": "green",
+      "es": "Para preguntar el precio usamos <b>How much…?</b> Si es <b>una</b> cosa → <b>How much is</b> this / that…? Si son <b>varias</b> → <b>How much are</b> these / those…? Respondemos con <b>It's…</b> o <b>They're…</b>",
+      "en": "One thing: <b>How much is</b> this? — It's… More than one: <b>How much are</b> these? — They're…",
+      "formula": [
+        "*How much is* + this / that + cosa?",
+        "*How much are* + these / those + cosas?"
+      ],
+      "examples": [
+        {
+          "en": "<b>How much is</b> this cap? — <b>It's</b> £8.",
+          "es": "¿Cuánto cuesta esta gorra? — Cuesta 8 libras.",
+          "icon": "🧢"
+        },
+        {
+          "en": "<b>How much are</b> these trainers? — <b>They're</b> £35.",
+          "es": "¿Cuánto cuestan estas zapatillas? — Cuestan 35 libras.",
+          "icon": "👟"
+        },
+        {
+          "en": "<b>How much is</b> a ticket for the zoo? — <b>It's</b> €12.",
+          "es": "¿Cuánto cuesta una entrada para el zoo? — Cuesta 12 €.",
+          "icon": "🦁"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "4 · El verbo COST",
+      "title_en": "The verb cost",
+      "icon": "💰",
+      "color": "teal",
+      "es": "También podemos usar el verbo <b>cost</b> (costar). Es un verbo normal de presente simple: <b>it costs</b> (con -s) / <b>they cost</b>. Para preguntar necesitamos <b>does / do</b>: <b>How much does it cost?</b> ¡Nunca <s>How much costs it?</s>!",
+      "en": "<b>It costs</b> / <b>they cost</b>. Questions: <b>How much does it cost?</b> / <b>How much do they cost?</b>",
+      "formula": [
+        "*How much does* + it / this + *cost?*",
+        "*How much do* + they / these + *cost?*"
+      ],
+      "examples": [
+        {
+          "en": "<b>How much does</b> this game <b>cost</b>? — It <b>costs</b> £20.",
+          "es": "¿Cuánto cuesta este juego? — Cuesta 20 libras.",
+          "icon": "🎮"
+        },
+        {
+          "en": "<b>How much do</b> the tickets <b>cost</b>? — They <b>cost</b> €6 each.",
+          "es": "¿Cuánto cuestan las entradas? — Cuestan 6 € cada una.",
+          "icon": "🎟️"
+        },
+        {
+          "en": "A bottle of water <b>costs</b> £1.",
+          "es": "Una botella de agua cuesta una libra.",
+          "icon": "💧"
+        }
+      ]
+    },
+    {
+      "t": "vocab",
+      "title": "Las tiendas",
+      "title_en": "Shops",
+      "icon": "🏪",
+      "color": "pink",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "baker's",
+          "es": "panadería",
+          "icon": "🥖"
+        },
+        {
+          "en": "bookshop",
+          "es": "librería",
+          "icon": "📚"
+        },
+        {
+          "en": "toy shop",
+          "es": "juguetería",
+          "icon": "🧸"
+        },
+        {
+          "en": "sweet shop",
+          "es": "tienda de chuches",
+          "icon": "🍬"
+        },
+        {
+          "en": "clothes shop",
+          "es": "tienda de ropa",
+          "icon": "👗"
+        },
+        {
+          "en": "shoe shop",
+          "es": "zapatería",
+          "icon": "👞"
+        },
+        {
+          "en": "chemist's",
+          "es": "farmacia",
+          "icon": "💊"
+        },
+        {
+          "en": "supermarket",
+          "es": "supermercado",
+          "icon": "🛒"
+        },
+        {
+          "en": "newsagent's",
+          "es": "quiosco, papelería",
+          "icon": "📰"
+        },
+        {
+          "en": "sports shop",
+          "es": "tienda de deportes",
+          "icon": "⚽"
+        },
+        {
+          "en": "greengrocer's",
+          "es": "frutería",
+          "icon": "🥕"
+        },
+        {
+          "en": "market",
+          "es": "mercado",
+          "icon": "🏪"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "5 · Pedir con educación",
+      "title_en": "Asking politely",
+      "icon": "🙏",
+      "color": "pink",
+      "es": "Para pedir en una tienda o cafetería, lo más educado es <b>I'd like…</b> (= I would like, <i>quería / me gustaría</i>) o <b>Can I have…?</b> (<i>¿me pone…?</i>). ¡Y siempre <b>please</b>! Decir <i>I want…</i> suena brusco, como un niño pequeño enfadado.",
+      "en": "Use <b>I'd like…</b> or <b>Can I have…?</b> and always <b>please</b>. <i>I want</i> sounds rude.",
+      "formula": [
+        "*I'd like* + a / an / some + cosa + *please*",
+        "*Can I have* + cosa + *please?*"
+      ],
+      "examples": [
+        {
+          "en": "<b>I'd like</b> a chocolate ice cream, please.",
+          "es": "Quería un helado de chocolate, por favor.",
+          "icon": "🍦"
+        },
+        {
+          "en": "<b>Can I have</b> two bananas, please?",
+          "es": "¿Me pone dos plátanos, por favor?",
+          "icon": "🍌"
+        },
+        {
+          "en": "<b>Have you got</b> this T-shirt in a smaller size?",
+          "es": "¿Tiene esta camiseta en una talla más pequeña?",
+          "icon": "👕"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "6 · Pagar",
+      "title_en": "Paying",
+      "icon": "💳",
+      "color": "blue",
+      "es": "Al pagar decimos <b>pay by card</b> (con tarjeta) o <b>pay in cash</b> (en efectivo). ¡Ojo con las preposiciones: <b>by</b> card, <b>in</b> cash! El dependiente te da <b>the change</b> (el cambio, la vuelta) y <b>the receipt</b> (el tique).",
+      "en": "We pay <b>by card</b> or <b>in cash</b>. Then we get our <b>change</b> and the <b>receipt</b>.",
+      "formula": [
+        "pay + *by card*",
+        "pay + *in cash*"
+      ],
+      "examples": [
+        {
+          "en": "Can I pay <b>by card</b>? — Yes, of course.",
+          "es": "¿Puedo pagar con tarjeta? — Sí, claro.",
+          "icon": "💳"
+        },
+        {
+          "en": "I'm paying <b>in cash</b>. Here's a £10 note.",
+          "es": "Pago en efectivo. Aquí tiene un billete de 10 libras.",
+          "icon": "💵"
+        },
+        {
+          "en": "Here's your <b>change</b>: £1.50.",
+          "es": "Aquí tiene su cambio: 1,50 libras.",
+          "icon": "🪙"
+        }
+      ]
+    },
+    {
+      "t": "vocab",
+      "title": "En la tienda",
+      "title_en": "At the shop",
+      "icon": "🛒",
+      "color": "green",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "money",
+          "es": "dinero",
+          "icon": "💷"
+        },
+        {
+          "en": "a coin",
+          "es": "una moneda",
+          "icon": "🪙"
+        },
+        {
+          "en": "a note",
+          "es": "un billete",
+          "icon": "💵"
+        },
+        {
+          "en": "a card",
+          "es": "una tarjeta",
+          "icon": "💳"
+        },
+        {
+          "en": "cash",
+          "es": "efectivo",
+          "icon": "💶"
+        },
+        {
+          "en": "change",
+          "es": "el cambio, la vuelta",
+          "icon": "💱"
+        },
+        {
+          "en": "a price",
+          "es": "un precio",
+          "icon": "🏷️"
+        },
+        {
+          "en": "a receipt",
+          "es": "un tique",
+          "icon": "🧾"
+        },
+        {
+          "en": "a queue",
+          "es": "una cola",
+          "icon": "🚶"
+        },
+        {
+          "en": "a shop assistant",
+          "es": "un dependiente",
+          "icon": "🙋"
+        },
+        {
+          "en": "a customer",
+          "es": "un cliente",
+          "icon": "🧍"
+        },
+        {
+          "en": "a purse",
+          "es": "un monedero",
+          "icon": "👛"
+        },
+        {
+          "en": "a piggy bank",
+          "es": "una hucha",
+          "icon": "🐷"
+        },
+        {
+          "en": "pocket money",
+          "es": "la paga",
+          "icon": "👖"
+        },
+        {
+          "en": "a sale",
+          "es": "rebajas",
+          "icon": "🔖"
+        },
+        {
+          "en": "a basket",
+          "es": "una cesta",
+          "icon": "🧺"
+        },
+        {
+          "en": "buy",
+          "es": "comprar",
+          "icon": "🛍️"
+        },
+        {
+          "en": "sell",
+          "es": "vender",
+          "icon": "🤝"
+        },
+        {
+          "en": "spend",
+          "es": "gastar",
+          "icon": "💸"
+        },
+        {
+          "en": "save",
+          "es": "ahorrar",
+          "icon": "💰"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Más frases útiles",
+      "title_en": "More useful phrases",
+      "items": [
+        {
+          "en": "Can I help you? — No, thanks. I'm just looking.",
+          "es": "¿Te puedo ayudar? — No, gracias. Solo estoy mirando.",
+          "icon": "👀"
+        },
+        {
+          "en": "Can I try it on?",
+          "es": "¿Me lo puedo probar?",
+          "icon": "👗"
+        },
+        {
+          "en": "Have you got these jeans in a bigger size?",
+          "es": "¿Tiene estos vaqueros en una talla más grande?",
+          "icon": "👖"
+        },
+        {
+          "en": "It's too expensive for me.",
+          "es": "Es demasiado caro para mí.",
+          "icon": "💸"
+        },
+        {
+          "en": "Wow, it's really cheap! Only £2!",
+          "es": "¡Hala, qué barato! ¡Solo 2 libras!",
+          "icon": "😮"
+        },
+        {
+          "en": "That's £6.40, please.",
+          "es": "Son 6,40 libras, por favor.",
+          "icon": "🧾"
+        },
+        {
+          "en": "Here you are.",
+          "es": "Aquí tiene.",
+          "icon": "🤲"
+        },
+        {
+          "en": "Anything else? — No, that's all, thanks.",
+          "es": "¿Algo más? — No, eso es todo, gracias.",
+          "icon": "🛒"
+        },
+        {
+          "en": "I spend my pocket money on comics.",
+          "es": "Me gasto la paga en cómics.",
+          "icon": "📚"
+        },
+        {
+          "en": "Lucía saves £2 every week in her piggy bank.",
+          "es": "Lucía ahorra 2 libras cada semana en su hucha.",
+          "icon": "🐷"
+        },
+        {
+          "en": "Excuse me, where are the toys?",
+          "es": "Perdone, ¿dónde están los juguetes?",
+          "icon": "🧸"
+        },
+        {
+          "en": "There's a sale! Everything is half price.",
+          "es": "¡Hay rebajas! Todo está a mitad de precio.",
+          "icon": "🔖"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "trampas",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "How much costs it?",
+          "good": "How much <b>is</b> it? / How much <b>does</b> it <b>cost</b>?",
+          "why": "No inviertas costs: usa is o does… cost.",
+          "why_en": "Use is or does… cost."
+        },
+        {
+          "bad": "These trainers costs £30.",
+          "good": "These trainers <b>cost</b> £30.",
+          "why": "it → costs · they → cost (sin -s).",
+          "why_en": "they → cost."
+        },
+        {
+          "bad": "How much is these shoes?",
+          "good": "How much <b>are</b> these shoes?",
+          "why": "Varias cosas → are.",
+          "why_en": "Plural → are."
+        },
+        {
+          "bad": "It's five pound.",
+          "good": "It's five pound<b>s</b>.",
+          "why": "Plural: pounds, euros.",
+          "why_en": "Plural -s."
+        },
+        {
+          "bad": "It's 12€.",
+          "good": "It's <b>€12</b>.",
+          "why": "El símbolo va delante.",
+          "why_en": "Symbol first."
+        },
+        {
+          "bad": "It's £3,50.",
+          "good": "It's £3<b>.</b>50.",
+          "why": "Punto, no coma.",
+          "why_en": "Point, not comma."
+        },
+        {
+          "bad": "I want a ice cream.",
+          "good": "<b>I'd like</b> an ice cream, please.",
+          "why": "Pide con I'd like y please.",
+          "why_en": "Ask politely."
+        },
+        {
+          "bad": "Can I pay in card?",
+          "good": "Can I pay <b>by</b> card?",
+          "why": "in cash · by card.",
+          "why_en": "in cash · by card."
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "Comprar paso a paso",
+      "title_en": "Shopping step by step",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Saluda: <b>Hello!</b> El dependiente dice: <i>Can I help you?</i>",
+          "en": "Say hello."
+        },
+        {
+          "es": "Pide lo que quieres: <b>I'd like…, please.</b> / <b>Have you got…?</b>",
+          "en": "Ask for what you want."
+        },
+        {
+          "es": "Pregunta el precio: <b>How much is it?</b> (una cosa) / <b>How much are they?</b> (varias)",
+          "en": "Ask the price."
+        },
+        {
+          "es": "Decide: <b>I'll take it.</b> (Me lo llevo.) o <b>No, thanks.</b>",
+          "en": "Decide."
+        },
+        {
+          "es": "Paga: <b>Can I pay by card?</b> o <b>in cash</b>. Coge el <b>change</b> y el <b>receipt</b>.",
+          "en": "Pay and take your change."
+        },
+        {
+          "es": "Despídete: <b>Thank you! Bye!</b>",
+          "en": "Say thank you and goodbye."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "En la tienda de deportes",
+      "title_en": "At the sports shop",
+      "lines": [
+        {
+          "who": "Assistant",
+          "en": "Hello! Can I help you?",
+          "es": "¡Hola! ¿Te puedo ayudar?"
+        },
+        {
+          "who": "Mario",
+          "en": "Yes, please. I'd like a football.",
+          "es": "Sí, por favor. Quería un balón de fútbol."
+        },
+        {
+          "who": "Assistant",
+          "en": "This one is very good. It's £12.50.",
+          "es": "Este es muy bueno. Cuesta 12,50 libras."
+        },
+        {
+          "who": "Mario",
+          "en": "Hmm, that's expensive. How much is the blue one?",
+          "es": "Mmm, es caro. ¿Cuánto cuesta el azul?"
+        },
+        {
+          "who": "Assistant",
+          "en": "It's only £7.50.",
+          "es": "Solo cuesta 7,50 libras."
+        },
+        {
+          "who": "Mario",
+          "en": "Great! I'll take it. Can I pay in cash?",
+          "es": "¡Genial! Me lo llevo. ¿Puedo pagar en efectivo?"
+        },
+        {
+          "who": "Assistant",
+          "en": "Of course. That's £7.50, please.",
+          "es": "Claro. Son 7,50 libras, por favor."
+        },
+        {
+          "who": "Mario",
+          "en": "Here's a ten-pound note.",
+          "es": "Aquí tiene un billete de diez libras."
+        },
+        {
+          "who": "Assistant",
+          "en": "Thank you. Here's your change, £2.50, and your receipt.",
+          "es": "Gracias. Aquí tienes el cambio, 2,50 libras, y el tique."
+        },
+        {
+          "who": "Mario",
+          "en": "Thanks! Bye!",
+          "es": "¡Gracias! ¡Adiós!"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "is o are · does o do",
+      "title_en": "is or are · does or do",
+      "icon": "⭕",
+      "es": "Rodea la opción correcta. ¿Una cosa o varias?",
+      "en": "Circle the correct option. One thing or more?",
+      "items": [
+        {
+          "q": "How much [is|are] this pencil case?",
+          "a": "is"
+        },
+        {
+          "q": "How much [is|are] these crayons?",
+          "a": "are"
+        },
+        {
+          "q": "How much [is|are] the bananas?",
+          "a": "are"
+        },
+        {
+          "q": "How much [is|are] a ticket?",
+          "a": "is"
+        },
+        {
+          "q": "How much [is|are] that skateboard?",
+          "a": "is"
+        },
+        {
+          "q": "How much [is|are] those sunglasses?",
+          "a": "are"
+        },
+        {
+          "q": "How much [does|do] this book cost?",
+          "a": "does"
+        },
+        {
+          "q": "How much [does|do] these socks cost?",
+          "a": "do"
+        },
+        {
+          "q": "It usually [cost|costs] £4.",
+          "a": "costs"
+        },
+        {
+          "q": "They [cost|costs] €10.",
+          "a": "cost"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une el precio",
+      "title_en": "Match the prices",
+      "icon": "🔗",
+      "es": "Une cada precio con cómo se dice.",
+      "en": "Match each price with how we say it.",
+      "pairs": [
+        [
+          "£3.50",
+          "three pounds fifty"
+        ],
+        [
+          "€12",
+          "twelve euros"
+        ],
+        [
+          "75p",
+          "seventy-five p"
+        ],
+        [
+          "£1.99",
+          "one pound ninety-nine"
+        ],
+        [
+          "€8.20",
+          "eight euros twenty"
+        ],
+        [
+          "£15",
+          "fifteen pounds"
+        ],
+        [
+          "€0.50",
+          "fifty cents"
+        ]
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea la palabra",
+      "title_en": "Spell the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en las cajas. (¡Ojo: receipt tiene una p muda!)",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        {
+          "q": "🪙 moneda",
+          "a": "coin"
+        },
+        {
+          "q": "💳 tarjeta",
+          "a": "card"
+        },
+        {
+          "q": "🧾 tique",
+          "a": "receipt"
+        },
+        {
+          "q": "🏷️ precio",
+          "a": "price"
+        },
+        {
+          "q": "💷 dinero",
+          "a": "money"
+        },
+        {
+          "q": "👍 barato",
+          "a": "cheap"
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Verdadero o falso?",
+      "title_en": "True or false?",
+      "icon": "🤔",
+      "es": "Lee y piensa. Rodea T (true) o F (false).",
+      "en": "Read and think. Circle T or F.",
+      "items": [
+        {
+          "q": "£2.50 + £2.50 = five pounds.",
+          "a": true
+        },
+        {
+          "q": "100 pence = one euro.",
+          "a": false,
+          "why": "100 pence = one pound. 100 cents = one euro."
+        },
+        {
+          "q": "€12 is \"twelve euros\".",
+          "a": true
+        },
+        {
+          "q": "£4.75 is \"four pounds seventy-five\".",
+          "a": true
+        },
+        {
+          "q": "In English we write 3,50€.",
+          "a": false,
+          "why": "We write €3.50."
+        },
+        {
+          "q": "\"Expensive\" means \"barato\".",
+          "a": false,
+          "why": "Expensive = caro. Cheap = barato."
+        },
+        {
+          "q": "A book costs £7. You pay with a £10 note. Your change is £3.",
+          "a": true
+        },
+        {
+          "q": "\"Receipt\" means \"receta\".",
+          "a": false,
+          "why": "Receipt = tique. Recipe = receta."
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "Clasifica las palabras",
+      "title_en": "Sort the words",
+      "icon": "🗂️",
+      "es": "Escribe cada palabra en su caja: ¿dinero, tienda o verbo?",
+      "en": "Sort the words: money, shops or verbs?",
+      "cats": [
+        {
+          "name": "💷 Dinero · Money",
+          "words": [
+            "coin",
+            "note",
+            "cash",
+            "card",
+            "change"
+          ]
+        },
+        {
+          "name": "🏪 Tiendas · Shops",
+          "words": [
+            "baker's",
+            "bookshop",
+            "toy shop",
+            "chemist's",
+            "supermarket"
+          ]
+        },
+        {
+          "name": "🛍️ Verbos · Verbs",
+          "words": [
+            "buy",
+            "sell",
+            "pay",
+            "spend",
+            "save"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Escribe el precio en letras",
+      "title_en": "Write the price in words",
+      "icon": "🔤",
+      "es": "Escribe cómo se dice cada precio. Recuerda: ¡sin «point» y con la -s del plural!",
+      "en": "Write the price in words.",
+      "items": [
+        {
+          "q": "£2.50 → _____",
+          "a": "two pounds fifty"
+        },
+        {
+          "q": "€6 → _____",
+          "a": "six euros"
+        },
+        {
+          "q": "30p → _____",
+          "a": "thirty p (thirty pence)"
+        },
+        {
+          "q": "£10.99 → _____",
+          "a": "ten pounds ninety-nine"
+        },
+        {
+          "q": "€14.50 → _____",
+          "a": "fourteen euros fifty"
+        },
+        {
+          "q": "£1 → _____",
+          "a": "one pound (a pound)"
+        },
+        {
+          "q": "€3.20 → _____",
+          "a": "three euros twenty"
+        },
+        {
+          "q": "£25 → _____",
+          "a": "twenty-five pounds"
+        },
+        {
+          "q": "€0.80 → _____",
+          "a": "eighty cents"
+        },
+        {
+          "q": "£7.45 → _____",
+          "a": "seven pounds forty-five"
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "¿Cuánto cuesta?",
+      "title_en": "How much is it?",
+      "icon": "🏷️",
+      "es": "Escribe la pregunta con How much is / are…? y la respuesta. Mira el ejemplo.",
+      "en": "Write the question and the answer.",
+      "head": [
+        "Cosa · precio",
+        "❓ Pregunta",
+        "💬 Respuesta"
+      ],
+      "rows": [
+        [
+          "this comic · £3",
+          "How much is this comic?",
+          "It's three pounds."
+        ],
+        [
+          "these socks · £5",
+          "?How much are these socks?",
+          "?They're five pounds."
+        ],
+        [
+          "that kite · €9.50",
+          "?How much is that kite?",
+          "?It's nine euros fifty."
+        ],
+        [
+          "those trainers · £40",
+          "?How much are those trainers?",
+          "?They're forty pounds."
+        ],
+        [
+          "this ice cream · €2.20",
+          "?How much is this ice cream?",
+          "?It's two euros twenty."
+        ],
+        [
+          "these stickers · 80p",
+          "?How much are these stickers?",
+          "?They're eighty p."
+        ]
+      ]
+    },
+    {
+      "t": "choose",
+      "title": "En la tienda",
+      "title_en": "At the shop",
+      "icon": "🛒",
+      "es": "Rodea la opción correcta.",
+      "en": "Circle the correct option.",
+      "items": [
+        {
+          "q": "Can I pay [by|with] card?",
+          "a": "by"
+        },
+        {
+          "q": "I'd like to pay [in|on] cash.",
+          "a": "in"
+        },
+        {
+          "q": "[I'd like|I like] a hot chocolate, please.",
+          "a": "I'd like"
+        },
+        {
+          "q": "Here's your [change|exchange].",
+          "a": "change"
+        },
+        {
+          "q": "The shop assistant gives me the [receipt|recipe].",
+          "a": "receipt"
+        },
+        {
+          "q": "This bike is £500! It's very [cheap|expensive].",
+          "a": "expensive"
+        },
+        {
+          "q": "Only 50p? That's really [cheap|expensive]!",
+          "a": "cheap"
+        },
+        {
+          "q": "Can I [try it on|try on it], please?",
+          "a": "try it on"
+        },
+        {
+          "q": "I [spend|save] money in my piggy bank.",
+          "a": "save"
+        },
+        {
+          "q": "Lucía [spends|saves] all her pocket money on sweets!",
+          "a": "spends"
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Escribe el precio con números",
+      "title_en": "Write the price in numbers",
+      "icon": "🔢",
+      "es": "Escribe el precio con números y símbolo, al estilo inglés: símbolo delante y punto.",
+      "en": "Write the price in numbers.",
+      "items": [
+        {
+          "q": "four pounds twenty",
+          "a": "£4.20"
+        },
+        {
+          "q": "nineteen euros",
+          "a": "€19"
+        },
+        {
+          "q": "sixty p",
+          "a": "60p"
+        },
+        {
+          "q": "eleven pounds fifty",
+          "a": "£11.50"
+        },
+        {
+          "q": "two euros ninety-nine",
+          "a": "€2.99"
+        },
+        {
+          "q": "a hundred pounds",
+          "a": "£100"
+        },
+        {
+          "q": "thirty euros forty",
+          "a": "€30.40"
+        },
+        {
+          "q": "eight pounds seventy-five",
+          "a": "£8.75"
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Mayúscula al principio y punto o interrogación al final!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {
+          "q": "much / how / this / is / T-shirt / ?",
+          "a": "How much is this T-shirt?"
+        },
+        {
+          "q": "please / like / a sandwich / I'd",
+          "a": "I'd like a sandwich, please."
+        },
+        {
+          "q": "pay / I / can / by card / ?",
+          "a": "Can I pay by card?"
+        },
+        {
+          "q": "are / these / how / much / socks / ?",
+          "a": "How much are these socks?"
+        },
+        {
+          "q": "costs / it / pounds / five",
+          "a": "It costs five pounds."
+        },
+        {
+          "q": "your / here's / change",
+          "a": "Here's your change."
+        },
+        {
+          "q": "got / you / have / this / in blue / ?",
+          "a": "Have you got this in blue?"
+        },
+        {
+          "q": "does / cost / how / the game / much / ?",
+          "a": "How much does the game cost?"
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "How much costs this ball?",
+          "a": "How much is this ball? / How much does this ball cost?"
+        },
+        {
+          "q": "How much is these sweets?",
+          "a": "How much are these sweets?"
+        },
+        {
+          "q": "These socks costs three euros.",
+          "a": "These socks cost three euros."
+        },
+        {
+          "q": "The book is ten pound.",
+          "a": "The book is ten pounds."
+        },
+        {
+          "q": "The pizza is 8€.",
+          "a": "The pizza is €8."
+        },
+        {
+          "q": "Can I pay in card?",
+          "a": "Can I pay by card?"
+        },
+        {
+          "q": "I'd likes a juice, please.",
+          "a": "I'd like a juice, please."
+        },
+        {
+          "q": "It's £4,50.",
+          "a": "It's £4.50."
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿una cosa o varias? ¿Cómo se pide con educación?",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "¿Cuánto cuesta este libro?",
+          "a": "How much is this book? / How much does this book cost?"
+        },
+        {
+          "q": "¿Cuánto cuestan estas zapatillas?",
+          "a": "How much are these trainers?"
+        },
+        {
+          "q": "Quería un zumo de naranja, por favor.",
+          "a": "I'd like an orange juice, please."
+        },
+        {
+          "q": "¿Puedo pagar con tarjeta?",
+          "a": "Can I pay by card?"
+        },
+        {
+          "q": "Cuesta tres libras cincuenta.",
+          "a": "It costs £3.50 (three pounds fifty). / It's £3.50."
+        },
+        {
+          "q": "Es muy caro.",
+          "a": "It's very expensive."
+        },
+        {
+          "q": "Aquí tiene su cambio.",
+          "a": "Here's your change."
+        },
+        {
+          "q": "¿Lo tiene en rojo?",
+          "a": "Have you got it in red?"
+        }
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "Mario's pocket money",
+      "text": [
+        "Every Saturday, Mario gets £5 pocket money from his parents. He always puts £1 in his piggy bank. Today he's at the newsagent's with his sister Lucía. \"How much is this football magazine?\" he asks. \"It's £2.50,\" says the shop assistant.",
+        "Mario also wants something sweet. \"How much are the chocolate bars?\" \"They're 50p each.\" \"I'd like one, please,\" says Mario. He buys the magazine and the chocolate bar and pays in cash with four £1 coins. The shop assistant gives him £1 change and the receipt. Lucía doesn't buy anything. She's saving her money for a new bike!"
+      ],
+      "items": [
+        {
+          "q": "Mario gets £5 every Saturday.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "The magazine costs £5.",
+          "tf": true,
+          "a": false,
+          "why": "It costs £2.50."
+        },
+        {
+          "q": "Mario pays by card.",
+          "tf": true,
+          "a": false,
+          "why": "He pays in cash."
+        },
+        {
+          "q": "How much does Mario spend?",
+          "a": "He spends £3 (three pounds)."
+        },
+        {
+          "q": "How much change does he get?",
+          "a": "He gets £1 (one pound)."
+        },
+        {
+          "q": "Why doesn't Lucía buy anything?",
+          "a": "Because she's saving her money for a new bike."
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de letras",
+      "title_en": "Word search",
+      "icon": "🔎",
+      "es": "Busca las 10 palabras. Después escribe una frase con How much…? usando dos de ellas.",
+      "en": "Find the 10 words. Then write a How much…? question.",
+      "words": [
+        "money",
+        "coin",
+        "note",
+        "cash",
+        "card",
+        "price",
+        "change",
+        "receipt",
+        "cheap",
+        "pound"
+      ],
+      "clues": [
+        "money · dinero",
+        "coin · moneda",
+        "note · billete",
+        "cash · efectivo",
+        "card · tarjeta",
+        "price · precio",
+        "change · cambio",
+        "receipt · tique",
+        "cheap · barato",
+        "pound · libra"
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "¡Vamos de compras! Escribe en inglés.",
+      "en": "Let's go shopping! Write in English.",
+      "items": [
+        {
+          "q": "Estás en una heladería. Pide un helado con <b>I'd like…</b>",
+          "lines": 1,
+          "a": "Ej.: I'd like a strawberry ice cream, please."
+        },
+        {
+          "q": "Pregunta el precio de unas zapatillas y contesta.",
+          "lines": 2,
+          "a": "Ej.: How much are these trainers? — They're £30."
+        },
+        {
+          "q": "¿En qué gastas tu paga? Escribe 2 frases con <b>spend</b> y <b>save</b>.",
+          "lines": 2,
+          "a": "Ej.: I spend my pocket money on stickers. I save £1 every week."
+        },
+        {
+          "q": "Escribe un mini diálogo en una tienda (4 líneas).",
+          "lines": 4,
+          "a": "Ej.: Can I help you? — Yes, I'd like this cap. How much is it? — It's £8. Can I pay by card? — Of course."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé preguntar precios: <b>How much is…?</b> / <b>How much are…?</b>",
+      "en": "I can ask about prices."
+    },
+    {
+      "es": "Sé decir precios: £3.50 = <b>three pounds fifty</b>.",
+      "en": "I can say prices."
+    },
+    {
+      "es": "Escribo el símbolo delante y con punto: <b>€3.50</b>.",
+      "en": "I write the symbol first and use a point."
+    },
+    {
+      "es": "Pido con educación: <b>I'd like…, please</b> / <b>Can I have…?</b>",
+      "en": "I can ask politely."
+    },
+    {
+      "es": "Sé pagar: <b>Can I pay by card?</b> / <b>in cash</b>.",
+      "en": "I can pay by card or in cash."
+    },
+    {
+      "es": "Conozco las palabras de la tienda: change, receipt, cheap, expensive…",
+      "en": "I know shopping words."
+    }
+  ]
+}

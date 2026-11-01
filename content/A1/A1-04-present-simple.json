@@ -1,0 +1,1467 @@
+{
+  "id": "A1-04",
+  "level": "A1",
+  "title": "PRESENT SIMPLE",
+  "file_title": "Present simple",
+  "subtitle": "Present simple · rutinas y la -s",
+  "icon": "⏰",
+  "map": {
+    "center": "Usamos el <b>PRESENT SIMPLE</b> para <b>rutinas</b>, <b>gustos</b> y cosas que <b>siempre son verdad</b>.",
+    "nodes": [
+      {
+        "title": "¿Cuándo se usa?",
+        "icon": "🔎",
+        "items": [
+          "Rutinas: I <b>get up</b> at 8.",
+          "Gustos: I <b>like</b> pizza.",
+          "Verdades: Birds <b>fly</b>."
+        ]
+      },
+      {
+        "title": "I, you, we, they",
+        "icon": "✅",
+        "art": "🙂",
+        "items": [
+          "El verbo va <b>tal cual</b>:",
+          "I <b>play</b> · you <b>play</b>",
+          "We <b>live</b> in Madrid.",
+          "They <b>like</b> cartoons."
+        ]
+      },
+      {
+        "title": "He, she, it + S",
+        "icon": "🐍",
+        "art": "🐶",
+        "items": [
+          "she play<em>s</em> · he eat<em>s</em>",
+          "My mum work<em>s</em> here.",
+          "Rocky run<em>s</em> fast."
+        ]
+      },
+      {
+        "title": "-es / -ies / has",
+        "icon": "✏️",
+        "rows": [
+          [
+            "-s, -sh, -ch, -x, -o",
+            "+ <em>es</em>: watch<em>es</em>, go<em>es</em>"
+          ],
+          [
+            "consonante + y",
+            "<em>ies</em>: stud<em>ies</em>"
+          ],
+          [
+            "vocal + y",
+            "+ <em>s</em>: play<em>s</em>"
+          ],
+          [
+            "have",
+            "<b>has</b> (¡irregular!)"
+          ]
+        ]
+      },
+      {
+        "title": "Cómo suena la -s",
+        "icon": "🔊",
+        "rows": [
+          [
+            "«s»",
+            "eat<em>s</em>, walk<em>s</em>"
+          ],
+          [
+            "«z»",
+            "play<em>s</em>, run<em>s</em>"
+          ],
+          [
+            "«iz»",
+            "watch<em>es</em>, wash<em>es</em>"
+          ]
+        ]
+      },
+      {
+        "title": "Palabras clave",
+        "icon": "🗓️",
+        "chips": [
+          "every day",
+          "on Mondays",
+          "in the morning",
+          "at 8 o'clock",
+          "at the weekend"
+        ],
+        "after": "Suelen ir <b>al final</b> de la frase."
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": [
+        "My dad work in a hospital."
+      ],
+      "good": [
+        "My dad works in a hospital."
+      ],
+      "note": "he / she / it → verbo + <b>s</b>"
+    },
+    "mini": {
+      "es": "Escribe el verbo en la forma correcta.",
+      "en": "Write the verb in the correct form.",
+      "items": [
+        {
+          "q": "Lucía ____ (play) tennis.",
+          "a": "plays"
+        },
+        {
+          "q": "I ____ (like) pizza.",
+          "a": "like"
+        },
+        {
+          "q": "Mario ____ (watch) cartoons.",
+          "a": "watches"
+        },
+        {
+          "q": "My mum ____ (study) English.",
+          "a": "studies"
+        },
+        {
+          "q": "Dad ____ (go) to work by bus.",
+          "a": "goes"
+        }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "El <b>present simple</b> es el presente «de siempre»: lo usamos para lo que hacemos <mark>normalmente</mark> (rutinas), lo que nos <b>gusta</b> y las cosas que <b>siempre son verdad</b>. ¡Es muy fácil! El verbo se queda igual… excepto con <b>he, she, it</b>, que llevan una <em>-s</em> al final.",
+      "en": "We use the present simple for routines, likes and facts. The verb doesn't change, except with he, she, it: add <em>-s</em>.",
+      "formula": [
+        "I / you / we / they + *verbo*",
+        "he / she / it + *verbo* + *-s*"
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "1 · ¿Cuándo lo usamos?",
+      "title_en": "When do we use it?",
+      "icon": "🔎",
+      "color": "blue",
+      "es": "Usamos el present simple para: <b>1)</b> <mark>rutinas</mark> y costumbres (lo que hacemos cada día o cada semana), <b>2)</b> <mark>gustos</mark> (like, love, hate) y <b>3)</b> <mark>verdades</mark> que no cambian.",
+      "en": "We use it for <b>routines</b>, <b>likes</b> and <b>facts</b>.",
+      "examples": [
+        {
+          "en": "I <b>get up</b> at half past seven.",
+          "es": "Me levanto a las siete y media.",
+          "icon": "⏰"
+        },
+        {
+          "en": "Lucía <b>loves</b> chocolate.",
+          "es": "A Lucía le encanta el chocolate.",
+          "icon": "🍫"
+        },
+        {
+          "en": "Cows <b>eat</b> grass.",
+          "es": "Las vacas comen hierba.",
+          "icon": "🐄"
+        },
+        {
+          "en": "We <b>have</b> English on Tuesdays.",
+          "es": "Tenemos inglés los martes.",
+          "icon": "📅"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "2 · I, you, we, they",
+      "title_en": "The verb doesn't change",
+      "icon": "✅",
+      "color": "green",
+      "es": "Con <b>I, you, we, they</b> (y con plurales: <i>my friends, the dogs</i>) el verbo va <mark>tal cual</mark>, como en el diccionario. ¡Sin cambios!",
+      "en": "With I, you, we, they the verb doesn't change.",
+      "formula": [
+        "I / you / we / they + *play*"
+      ],
+      "examples": [
+        {
+          "en": "I <b>play</b> football on Saturdays.",
+          "es": "Juego al fútbol los sábados.",
+          "icon": "⚽"
+        },
+        {
+          "en": "We <b>walk</b> to school.",
+          "es": "Vamos andando al cole.",
+          "icon": "🚶"
+        },
+        {
+          "en": "My friends <b>like</b> cartoons.",
+          "es": "A mis amigos les gustan los dibujos.",
+          "icon": "📺"
+        }
+      ]
+    },
+    {
+      "t": "rule",
+      "title": "3 · He, she, it: ¡la S!",
+      "title_en": "Add -s",
+      "icon": "🐍",
+      "color": "purple",
+      "es": "Con <b>he, she, it</b> (una sola persona, animal o cosa: <i>Mario, my mum, the cat</i>) el verbo lleva una <em>-s</em> al final. ¡Es la <b>Serpiente de la S</b>: sssss!",
+      "en": "With he, she, it add <em>-s</em> to the verb.",
+      "formula": [
+        "he / she / it + play + *-s*"
+      ],
+      "examples": [
+        {
+          "en": "Mario <b>play<em>s</em></b> football.",
+          "es": "Mario juega al fútbol.",
+          "icon": "⚽"
+        },
+        {
+          "en": "My mum <b>work<em>s</em></b> in a hospital.",
+          "es": "Mi madre trabaja en un hospital.",
+          "icon": "🏥"
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "4 · ¿-S, -ES o -IES?",
+      "title_en": "Spelling rules",
+      "icon": "✏️",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Si el verbo acaba en…",
+        "¿Qué hago?",
+        "Ejemplos"
+      ],
+      "rows": [
+        [
+          "<b>-s, -sh, -ch, -x</b> y <b>-o</b>",
+          "añado <em>-es</em>",
+          "watch → watch<em>es</em> · wash → wash<em>es</em> · fix → fix<em>es</em> · kiss → kiss<em>es</em> · go → go<em>es</em> · do → do<em>es</em>"
+        ],
+        [
+          "<b>consonante + y</b> (stud<b>y</b>)",
+          "quito la y, añado <em>-ies</em>",
+          "study → stud<em>ies</em> · fly → fl<em>ies</em> · cry → cr<em>ies</em> · carry → carr<em>ies</em>"
+        ],
+        [
+          "<b>vocal + y</b> (pl<b>ay</b>)",
+          "la y se queda: <em>-s</em>",
+          "play → play<em>s</em> · enjoy → enjoy<em>s</em> · buy → buy<em>s</em> · say → say<em>s</em>"
+        ],
+        [
+          "<b>todos los demás</b>",
+          "añado <em>-s</em>",
+          "eat → eat<em>s</em> · run → run<em>s</em> · live → live<em>s</em> · read → read<em>s</em>"
+        ],
+        [
+          "<b>have</b> (¡irregular!)",
+          "cambia a <b>has</b>",
+          "have → <b>has</b>: She <b>has</b> breakfast at eight."
+        ]
+      ],
+      "note": "Sigue los pasos <b>en orden</b>: primero mira cómo termina el verbo y después decide.",
+      "note_en": "Follow the steps in order: look at the end of the verb first."
+    },
+    {
+      "t": "table",
+      "title": "5 · ¿Cómo suena la -s?",
+      "title_en": "How do we say -s?",
+      "icon": "🔊",
+      "color": "teal",
+      "head": [
+        "Suena",
+        "Cuándo",
+        "Ejemplos"
+      ],
+      "rows": [
+        [
+          "«s» /s/",
+          "después de p, t, k, f",
+          "eat<em>s</em>, walk<em>s</em>, like<em>s</em>, help<em>s</em>"
+        ],
+        [
+          "«z» /z/",
+          "después de vocal y casi todas las demás",
+          "play<em>s</em>, run<em>s</em>, read<em>s</em>, go<em>es</em>"
+        ],
+        [
+          "«iz» /ɪz/",
+          "después de s, sh, ch, x, z: ¡una sílaba más!",
+          "watch<em>es</em>, wash<em>es</em>, kiss<em>es</em>, fix<em>es</em>"
+        ]
+      ],
+      "note": "Pon la mano en la garganta: con «z» vibra (bzzz, como una abeja); con «s», no (sss, como una serpiente). ¡Ojo! <b>does</b> se dice «das» y <b>says</b> se dice «ses».",
+      "note_en": "<b>does</b> sounds like «duz» and <b>says</b> like «sez».",
+      "wide": true
+    },
+    {
+      "t": "tip",
+      "title": "Trucos de la -es y la -y",
+      "title_en": "-es and -y tricks",
+      "es": "<b>Truco del sonido:</b> ponemos <em>-es</em> cuando necesitamos una sílaba más para poder decirlo. Intenta decir «watchs»… ¡imposible! Por eso: watch-<em>es</em>. <b>Truco de la Y:</b> mira la letra de antes de la y. Si es vocal (a, e, i, o, u), la y se queda: pl<b>a</b>y → plays. Si es consonante, la y se va: stu<b>d</b>y → studies.",
+      "en": "Add -es when you need an extra syllable. Vowel + y → -s. Consonant + y → -ies."
+    },
+    {
+      "t": "compare",
+      "title": "Sin S o con S",
+      "title_en": "No -s or -s?",
+      "icon": "⚖️",
+      "color": "blue",
+      "cols": [
+        {
+          "head": "👥 I, you, we, they",
+          "color": "green",
+          "items": [
+            "You <b>watch</b> TV.",
+            "We <b>study</b> English.",
+            "They <b>go</b> to the park.",
+            "I <b>have</b> a shower."
+          ]
+        },
+        {
+          "head": "🐍 he, she, it",
+          "color": "purple",
+          "items": [
+            "He <b>watch<em>es</em></b> TV.",
+            "Lucía <b>stud<em>ies</em></b> English.",
+            "Rocky <b>go<em>es</em></b> to the park.",
+            "Dad <b>has</b> a shower."
+          ]
+        }
+      ]
+    },
+    {
+      "t": "table",
+      "title": "6 · Palabras clave",
+      "title_en": "Time words",
+      "icon": "🗓️",
+      "color": "green",
+      "wide": true,
+      "head": [
+        "Inglés · English",
+        "Español",
+        "Ejemplo · Example"
+      ],
+      "rows": [
+        [
+          "<b>every day</b>",
+          "todos los días",
+          "I walk Rocky <b>every day</b>."
+        ],
+        [
+          "<b>every morning</b>",
+          "todas las mañanas",
+          "Mum runs <b>every morning</b>."
+        ],
+        [
+          "<b>on Mondays</b>",
+          "los lunes",
+          "We have PE <b>on Mondays</b>."
+        ],
+        [
+          "<b>at the weekend</b>",
+          "el fin de semana",
+          "Leo plays football <b>at the weekend</b>."
+        ],
+        [
+          "<b>in the morning</b>",
+          "por la mañana",
+          "I have a shower <b>in the morning</b>."
+        ],
+        [
+          "<b>in the afternoon</b>",
+          "por la tarde",
+          "Lucía studies <b>in the afternoon</b>."
+        ],
+        [
+          "<b>at night</b>",
+          "por la noche",
+          "Rocky sleeps <b>at night</b>."
+        ],
+        [
+          "<b>at nine o'clock</b>",
+          "a las nueve",
+          "School starts <b>at nine o'clock</b>."
+        ]
+      ],
+      "note": "Estas expresiones dicen <b>cuándo</b> hacemos algo y suelen ir <mark>al final de la frase</mark>.",
+      "note_en": "These words say <b>when</b>. They usually go at the end of the sentence."
+    },
+    {
+      "t": "table",
+      "title": "Todo junto",
+      "title_en": "All together",
+      "icon": "🧩",
+      "color": "orange",
+      "wide": true,
+      "head": [
+        "Sujeto · Subject",
+        "play",
+        "watch",
+        "study",
+        "go",
+        "have"
+      ],
+      "rows": [
+        [
+          "I",
+          "play",
+          "watch",
+          "study",
+          "go",
+          "have"
+        ],
+        [
+          "you",
+          "play",
+          "watch",
+          "study",
+          "go",
+          "have"
+        ],
+        [
+          "<b>he</b>",
+          "play<em>s</em>",
+          "watch<em>es</em>",
+          "stud<em>ies</em>",
+          "go<em>es</em>",
+          "<b>has</b>"
+        ],
+        [
+          "<b>she</b>",
+          "play<em>s</em>",
+          "watch<em>es</em>",
+          "stud<em>ies</em>",
+          "go<em>es</em>",
+          "<b>has</b>"
+        ],
+        [
+          "<b>it</b>",
+          "play<em>s</em>",
+          "watch<em>es</em>",
+          "stud<em>ies</em>",
+          "go<em>es</em>",
+          "<b>has</b>"
+        ],
+        [
+          "we",
+          "play",
+          "watch",
+          "study",
+          "go",
+          "have"
+        ],
+        [
+          "they",
+          "play",
+          "watch",
+          "study",
+          "go",
+          "have"
+        ]
+      ],
+      "note": "Mira la tabla: ¡solo cambian las filas de <b>he, she, it</b>!",
+      "note_en": "Only he, she and it change."
+    },
+    {
+      "t": "vocab",
+      "title": "Mi rutina diaria",
+      "title_en": "My daily routine",
+      "icon": "🕗",
+      "color": "pink",
+      "wide": true,
+      "cols": 4,
+      "items": [
+        {
+          "en": "get up · gets up",
+          "es": "levantarse",
+          "icon": "🛏️"
+        },
+        {
+          "en": "have a shower · has",
+          "es": "ducharse",
+          "icon": "🚿"
+        },
+        {
+          "en": "get dressed · gets",
+          "es": "vestirse",
+          "icon": "👕"
+        },
+        {
+          "en": "have breakfast · has",
+          "es": "desayunar",
+          "icon": "🥣"
+        },
+        {
+          "en": "brush my teeth · brushes",
+          "es": "lavarse los dientes",
+          "icon": "🪥"
+        },
+        {
+          "en": "go to school · goes",
+          "es": "ir al cole",
+          "icon": "🏫"
+        },
+        {
+          "en": "have lunch · has",
+          "es": "comer",
+          "icon": "🍝"
+        },
+        {
+          "en": "do homework · does",
+          "es": "hacer los deberes",
+          "icon": "📚"
+        },
+        {
+          "en": "play in the park · plays",
+          "es": "jugar en el parque",
+          "icon": "🌳"
+        },
+        {
+          "en": "watch TV · watches",
+          "es": "ver la tele",
+          "icon": "📺"
+        },
+        {
+          "en": "walk the dog · walks",
+          "es": "pasear al perro",
+          "icon": "🐕"
+        },
+        {
+          "en": "ride my bike · rides",
+          "es": "montar en bici",
+          "icon": "🚲"
+        },
+        {
+          "en": "tidy my room · tidies",
+          "es": "ordenar mi cuarto",
+          "icon": "🧹"
+        },
+        {
+          "en": "have dinner · has",
+          "es": "cenar",
+          "icon": "🍽️"
+        },
+        {
+          "en": "read a book · reads",
+          "es": "leer un libro",
+          "icon": "📖"
+        },
+        {
+          "en": "go to bed · goes",
+          "es": "irse a la cama",
+          "icon": "🌙"
+        }
+      ]
+    },
+    {
+      "t": "steps",
+      "title": "¿Cómo construyo la frase?",
+      "title_en": "How do I build it?",
+      "color": "orange",
+      "items": [
+        {
+          "es": "Busca el <b>sujeto</b> y cámbialo por un pronombre: <i>my mum → she</i> · <i>Leo and Tom → they</i>.",
+          "en": "Find the subject and change it for a pronoun."
+        },
+        {
+          "es": "¿Es <b>he, she, it</b> (o Mario, my mum, the cat)? → el verbo lleva <em>-s</em>. Si no → verbo tal cual.",
+          "en": "he / she / it → add -s. Others → no -s."
+        },
+        {
+          "es": "Mira cómo acaba el verbo: -s, -sh, -ch, -x, -o → <em>-es</em> · consonante + y → <em>-ies</em> · have → <b>has</b>.",
+          "en": "Check the spelling: -es, -ies, has."
+        },
+        {
+          "es": "Añade el resto: dónde y cuándo (every day, at 8 o'clock, on Mondays).",
+          "en": "Add where and when."
+        },
+        {
+          "es": "Lee la frase en voz alta: ¿suena la serpiente, sssss?",
+          "en": "Read it aloud: can you hear the -s?"
+        }
+      ]
+    },
+    {
+      "t": "examples",
+      "title": "Un día de Mario",
+      "title_en": "A day in Mario's life",
+      "items": [
+        {
+          "en": "Mario <b>gets up</b> at half past seven.",
+          "es": "Mario se levanta a las siete y media.",
+          "icon": "⏰"
+        },
+        {
+          "en": "He <b>has</b> breakfast with Lucía.",
+          "es": "Desayuna con Lucía.",
+          "icon": "🥣"
+        },
+        {
+          "en": "He <b>brushes</b> his teeth.",
+          "es": "Se lava los dientes.",
+          "icon": "🪥"
+        },
+        {
+          "en": "His mum <b>takes</b> him to school.",
+          "es": "Su madre lo lleva al cole.",
+          "icon": "🚗"
+        },
+        {
+          "en": "School <b>starts</b> at nine o'clock.",
+          "es": "El cole empieza a las nueve.",
+          "icon": "🏫"
+        },
+        {
+          "en": "Mario <b>loves</b> PE.",
+          "es": "A Mario le encanta Educación Física.",
+          "icon": "🤸"
+        },
+        {
+          "en": "He <b>has</b> lunch at school.",
+          "es": "Come en el cole.",
+          "icon": "🍝"
+        },
+        {
+          "en": "Lucía <b>studies</b> in her room.",
+          "es": "Lucía estudia en su cuarto.",
+          "icon": "📚"
+        },
+        {
+          "en": "Rocky <b>waits</b> for Mario at the door.",
+          "es": "Rocky espera a Mario en la puerta.",
+          "icon": "🐶"
+        },
+        {
+          "en": "Mario <b>does</b> his homework at six.",
+          "es": "Mario hace los deberes a las seis.",
+          "icon": "✏️"
+        },
+        {
+          "en": "Rocky <b>eats</b> his dinner at seven.",
+          "es": "Rocky cena a las siete.",
+          "icon": "🦴"
+        },
+        {
+          "en": "Dad <b>cooks</b> dinner.",
+          "es": "Papá hace la cena.",
+          "icon": "🍳"
+        },
+        {
+          "en": "Mario <b>goes</b> to bed at nine.",
+          "es": "Mario se va a la cama a las nueve.",
+          "icon": "🌙"
+        },
+        {
+          "en": "Mum <b>reads</b> him a story in bed.",
+          "es": "Mamá le lee un cuento en la cama.",
+          "icon": "📖"
+        }
+      ]
+    },
+    {
+      "t": "errors",
+      "monster": "serpiente",
+      "title": "¡Caza al monstruo!",
+      "title_en": "Hunt the monster",
+      "items": [
+        {
+          "bad": "He play football.",
+          "good": "He play<b>s</b> football.",
+          "why": "he / she / it → verbo + s.",
+          "why_en": "he / she / it → add -s."
+        },
+        {
+          "bad": "I plays the piano.",
+          "good": "I <b>play</b> the piano.",
+          "why": "Con I no hay s.",
+          "why_en": "No -s with I."
+        },
+        {
+          "bad": "My friends plays tennis.",
+          "good": "My friends <b>play</b> tennis.",
+          "why": "My friends = they → sin s.",
+          "why_en": "My friends = they → no -s."
+        },
+        {
+          "bad": "She studys a lot.",
+          "good": "She stud<b>ies</b> a lot.",
+          "why": "Consonante + y → -ies.",
+          "why_en": "Consonant + y → -ies."
+        },
+        {
+          "bad": "He watchs TV.",
+          "good": "He watch<b>es</b> TV.",
+          "why": "-ch → -es.",
+          "why_en": "-ch → -es."
+        },
+        {
+          "bad": "Rocky gos to the park.",
+          "good": "Rocky go<b>es</b> to the park.",
+          "why": "go → goes, do → does.",
+          "why_en": "go → goes."
+        },
+        {
+          "bad": "Lucía haves a shower.",
+          "good": "Lucía <b>has</b> a shower.",
+          "why": "have → has (irregular).",
+          "why_en": "have → has."
+        },
+        {
+          "bad": "She plaies the guitar.",
+          "good": "She play<b>s</b> the guitar.",
+          "why": "Vocal + y → solo -s.",
+          "why_en": "Vowel + y → -s."
+        }
+      ]
+    },
+    {
+      "t": "dialogue",
+      "title": "Nuestras rutinas",
+      "title_en": "Our routines",
+      "lines": [
+        {
+          "who": "Sara",
+          "en": "I get up at seven every day.",
+          "es": "Me levanto a las siete todos los días."
+        },
+        {
+          "who": "Mario",
+          "en": "Seven? I get up at half past seven!",
+          "es": "¿A las siete? ¡Yo me levanto a las siete y media!"
+        },
+        {
+          "who": "Sara",
+          "en": "My brother gets up at six. He swims before school.",
+          "es": "Mi hermano se levanta a las seis. Nada antes del cole."
+        },
+        {
+          "who": "Mario",
+          "en": "Wow! My sister Lucía sleeps a lot.",
+          "es": "¡Hala! Mi hermana Lucía duerme mucho."
+        },
+        {
+          "who": "Sara",
+          "en": "And Rocky?",
+          "es": "¿Y Rocky?"
+        },
+        {
+          "who": "Mario",
+          "en": "Rocky gets up with me. He loves breakfast time!",
+          "es": "Rocky se levanta conmigo. ¡Le encanta la hora del desayuno!"
+        },
+        {
+          "who": "Sara",
+          "en": "My cat sleeps all day!",
+          "es": "¡Mi gato duerme todo el día!"
+        },
+        {
+          "who": "Mario",
+          "en": "Lucky cat!",
+          "es": "¡Qué suerte tiene!"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose",
+      "title": "Rodea la correcta",
+      "title_en": "Circle the correct verb",
+      "icon": "⭕",
+      "es": "Rodea la forma correcta del verbo. Primero mira el sujeto.",
+      "en": "Circle the correct form of the verb.",
+      "items": [
+        {
+          "q": "She [play|plays] tennis.",
+          "a": "plays"
+        },
+        {
+          "q": "They [go|goes] to school by bus.",
+          "a": "go"
+        },
+        {
+          "q": "He [watch|watches] TV at night.",
+          "a": "watches"
+        },
+        {
+          "q": "My sister [study|studies] English.",
+          "a": "studies"
+        },
+        {
+          "q": "We [has|have] lunch at two.",
+          "a": "have"
+        },
+        {
+          "q": "The cat [eat|eats] fish.",
+          "a": "eats"
+        },
+        {
+          "q": "I [fly|flies] my kite in the park.",
+          "a": "fly"
+        },
+        {
+          "q": "Mario [do|does] his homework.",
+          "a": "does"
+        },
+        {
+          "q": "Leo and Tom [ride|rides] their bikes.",
+          "a": "ride"
+        },
+        {
+          "q": "Rocky [sleep|sleeps] on the sofa.",
+          "a": "sleeps"
+        }
+      ]
+    },
+    {
+      "t": "match",
+      "title": "Une la rutina",
+      "title_en": "Match the routines",
+      "icon": "🔗",
+      "es": "Une cada rutina con su significado en español.",
+      "en": "Match each routine with its Spanish meaning.",
+      "pairs": [
+        [
+          "get up",
+          "levantarse"
+        ],
+        [
+          "have breakfast",
+          "desayunar"
+        ],
+        [
+          "have a shower",
+          "ducharse"
+        ],
+        [
+          "get dressed",
+          "vestirse"
+        ],
+        [
+          "brush your teeth",
+          "lavarse los dientes"
+        ],
+        [
+          "have lunch",
+          "comer (a mediodía)"
+        ],
+        [
+          "do homework",
+          "hacer los deberes"
+        ],
+        [
+          "go to bed",
+          "irse a la cama"
+        ]
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿-S, -ES o -IES?",
+      "title_en": "-s, -es or -ies?",
+      "icon": "🗂️",
+      "es": "Escribe cada verbo en su caja según cómo forma la 3ª persona (he / she / it).",
+      "en": "Sort the verbs: -s, -es or -ies?",
+      "cats": [
+        {
+          "name": "+ s",
+          "words": [
+            "play",
+            "eat",
+            "run",
+            "buy",
+            "enjoy",
+            "read"
+          ]
+        },
+        {
+          "name": "+ es",
+          "words": [
+            "watch",
+            "go",
+            "wash",
+            "fix",
+            "kiss",
+            "do"
+          ]
+        },
+        {
+          "name": "y → ies",
+          "words": [
+            "study",
+            "fly",
+            "cry",
+            "carry",
+            "try"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "tablefill",
+      "title": "La forma con he / she / it",
+      "title_en": "The he / she / it form",
+      "icon": "📋",
+      "es": "Escribe la forma con he / she / it y qué regla usas: s, es, ies o irregular.",
+      "en": "Write the he / she / it form and the rule.",
+      "head": [
+        "Verbo",
+        "he / she / it",
+        "Regla"
+      ],
+      "rows": [
+        [
+          "play",
+          "?plays",
+          "?s"
+        ],
+        [
+          "watch",
+          "?watches",
+          "?es"
+        ],
+        [
+          "study",
+          "?studies",
+          "?ies"
+        ],
+        [
+          "wash",
+          "?washes",
+          "?es"
+        ],
+        [
+          "fly",
+          "?flies",
+          "?ies"
+        ],
+        [
+          "go",
+          "?goes",
+          "?es"
+        ],
+        [
+          "have",
+          "?has",
+          "?irregular"
+        ],
+        [
+          "enjoy",
+          "?enjoys",
+          "?s"
+        ],
+        [
+          "carry",
+          "?carries",
+          "?ies"
+        ],
+        [
+          "fix",
+          "?fixes",
+          "?es"
+        ]
+      ]
+    },
+    {
+      "t": "fill",
+      "title": "Completa con el verbo",
+      "title_en": "Complete with the verb",
+      "icon": "✏️",
+      "es": "Escribe el verbo entre paréntesis en la forma correcta.",
+      "en": "Write the verb in brackets in the correct form.",
+      "items": [
+        {
+          "q": "My mum ____ in a hospital.",
+          "hint": "work",
+          "a": "works"
+        },
+        {
+          "q": "Tom ____ cartoons on Saturdays.",
+          "hint": "watch",
+          "a": "watches"
+        },
+        {
+          "q": "The birds ____ over the lake.",
+          "hint": "fly",
+          "a": "fly"
+        },
+        {
+          "q": "Lucía ____ every afternoon.",
+          "hint": "study",
+          "a": "studies"
+        },
+        {
+          "q": "I ____ pizza.",
+          "hint": "like",
+          "a": "like"
+        },
+        {
+          "q": "Dad ____ to bed at eleven.",
+          "hint": "go",
+          "a": "goes"
+        },
+        {
+          "q": "Leo ____ the guitar.",
+          "hint": "play",
+          "a": "plays"
+        },
+        {
+          "q": "We ____ the dishes after dinner.",
+          "hint": "wash",
+          "a": "wash"
+        },
+        {
+          "q": "The baby ____ a lot.",
+          "hint": "cry",
+          "a": "cries"
+        },
+        {
+          "q": "Anna ____ a shower in the morning.",
+          "hint": "have",
+          "a": "has"
+        }
+      ]
+    },
+    {
+      "t": "classify",
+      "title": "¿Cómo suena la -s?",
+      "title_en": "How does the -s sound?",
+      "icon": "🔊",
+      "es": "Di cada verbo en voz alta y escríbelo en su caja: ¿suena «s», «z» o «iz»?",
+      "en": "Say each verb and sort it by its sound.",
+      "cats": [
+        {
+          "name": "«s»",
+          "words": [
+            "eats",
+            "walks",
+            "likes",
+            "gets",
+            "helps"
+          ]
+        },
+        {
+          "name": "«z»",
+          "words": [
+            "plays",
+            "runs",
+            "reads",
+            "goes",
+            "swims"
+          ]
+        },
+        {
+          "name": "«iz»",
+          "words": [
+            "watches",
+            "washes",
+            "brushes",
+            "kisses",
+            "fixes"
+          ]
+        }
+      ]
+    },
+    {
+      "t": "truefalse",
+      "title": "¿Está bien escrita?",
+      "title_en": "Is it right?",
+      "icon": "✅",
+      "es": "¿La frase está bien (T) o mal (F)? Si está mal, piensa cómo se escribe.",
+      "en": "Is the sentence right (T) or wrong (F)?",
+      "items": [
+        {
+          "q": "She watches TV.",
+          "a": true
+        },
+        {
+          "q": "He studys English.",
+          "a": false,
+          "why": "He stud<b>ies</b> English."
+        },
+        {
+          "q": "They plays football.",
+          "a": false,
+          "why": "They <b>play</b> football."
+        },
+        {
+          "q": "Rocky runs in the park.",
+          "a": true
+        },
+        {
+          "q": "My dad gos to work.",
+          "a": false,
+          "why": "My dad go<b>es</b> to work."
+        },
+        {
+          "q": "I like apples.",
+          "a": true
+        },
+        {
+          "q": "Lucía haves a shower.",
+          "a": false,
+          "why": "Lucía <b>has</b> a shower."
+        },
+        {
+          "q": "The bird flies.",
+          "a": true
+        },
+        {
+          "q": "We washes the car.",
+          "a": false,
+          "why": "We <b>wash</b> the car."
+        },
+        {
+          "q": "Leo plays the piano.",
+          "a": true
+        }
+      ]
+    },
+    {
+      "t": "rewrite",
+      "title": "Cambia el sujeto",
+      "title_en": "Change the subject",
+      "icon": "🔄",
+      "es": "Escribe la frase otra vez con el sujeto del paréntesis. ¡Cuidado con la -s!",
+      "en": "Write the sentence again with the new subject.",
+      "items": [
+        {
+          "q": "I play football. <b>(Leo)</b>",
+          "a": "Leo plays football."
+        },
+        {
+          "q": "We watch TV after school. <b>(Lucía)</b>",
+          "a": "Lucía watches TV after school."
+        },
+        {
+          "q": "I study English. <b>(My sister)</b>",
+          "a": "My sister studies English."
+        },
+        {
+          "q": "They go to the park. <b>(Rocky)</b>",
+          "a": "Rocky goes to the park."
+        },
+        {
+          "q": "You have lunch at two. <b>(Dad)</b>",
+          "a": "Dad has lunch at two."
+        },
+        {
+          "q": "I wash the dishes. <b>(Tom)</b>",
+          "a": "Tom washes the dishes."
+        },
+        {
+          "q": "We fly kites. <b>(Anna)</b>",
+          "a": "Anna flies kites."
+        },
+        {
+          "q": "Mum plays tennis. <b>(My parents)</b>",
+          "a": "My parents play tennis."
+        }
+      ]
+    },
+    {
+      "t": "order",
+      "title": "Ordena la frase",
+      "title_en": "Put the words in order",
+      "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Empieza con mayúscula y acaba con punto!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        {
+          "q": "gets / Mario / at seven / up",
+          "a": "Mario gets up at seven."
+        },
+        {
+          "q": "pizza / likes / Lucía",
+          "a": "Lucía likes pizza."
+        },
+        {
+          "q": "goes / to school / Anna / by bus",
+          "a": "Anna goes to school by bus."
+        },
+        {
+          "q": "watch / we / TV / at night",
+          "a": "We watch TV at night."
+        },
+        {
+          "q": "studies / my sister / every day / English",
+          "a": "My sister studies English every day."
+        },
+        {
+          "q": "fish / cats / eat",
+          "a": "Cats eat fish."
+        },
+        {
+          "q": "has / breakfast / Dad / at eight",
+          "a": "Dad has breakfast at eight."
+        },
+        {
+          "q": "the ball / Rocky / in the garden / plays / with",
+          "a": "Rocky plays with the ball in the garden."
+        }
+      ]
+    },
+    {
+      "t": "error",
+      "title": "Caza el error",
+      "title_en": "Find the mistake",
+      "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien y subraya lo que has cambiado.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        {
+          "q": "My mum watchs TV.",
+          "a": "My mum watches TV."
+        },
+        {
+          "q": "He studys a lot.",
+          "a": "He studies a lot."
+        },
+        {
+          "q": "The bird flys.",
+          "a": "The bird flies."
+        },
+        {
+          "q": "She play the piano.",
+          "a": "She plays the piano."
+        },
+        {
+          "q": "I goes to school by bike.",
+          "a": "I go to school by bike."
+        },
+        {
+          "q": "Rocky haves a big bed.",
+          "a": "Rocky has a big bed."
+        },
+        {
+          "q": "My friends likes football.",
+          "a": "My friends like football."
+        },
+        {
+          "q": "Leo kiss his grandma.",
+          "a": "Leo kisses his grandma."
+        }
+      ]
+    },
+    {
+      "t": "spell",
+      "title": "Deletrea la palabra",
+      "title_en": "Spell the word",
+      "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra de la rutina en las cajas.",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        {
+          "q": "🥣 desayuno",
+          "a": "breakfast"
+        },
+        {
+          "q": "🚿 ducha",
+          "a": "shower"
+        },
+        {
+          "q": "🦷 dientes",
+          "a": "teeth"
+        },
+        {
+          "q": "📚 deberes",
+          "a": "homework"
+        },
+        {
+          "q": "🍽️ cena",
+          "a": "dinner"
+        },
+        {
+          "q": "🏫 colegio",
+          "a": "school"
+        }
+      ]
+    },
+    {
+      "t": "translate",
+      "title": "Traduce al inglés",
+      "title_en": "Translate into English",
+      "icon": "🌍",
+      "es": "Traduce. Piensa: ¿quién es el sujeto? ¿lleva -s el verbo?",
+      "en": "Translate into English.",
+      "items": [
+        {
+          "q": "Me levanto a las siete.",
+          "a": "I get up at seven (o'clock)."
+        },
+        {
+          "q": "Mi madre trabaja en un colegio.",
+          "a": "My mum works in a school."
+        },
+        {
+          "q": "Lucía estudia inglés.",
+          "a": "Lucía studies English."
+        },
+        {
+          "q": "Rocky duerme en el sofá.",
+          "a": "Rocky sleeps on the sofa."
+        },
+        {
+          "q": "Mi padre va a trabajar en bici.",
+          "a": "My dad goes to work by bike."
+        },
+        {
+          "q": "Vemos la tele por la noche.",
+          "a": "We watch TV at night."
+        },
+        {
+          "q": "Leo tiene clase de piano los lunes.",
+          "a": "Leo has a piano lesson on Mondays."
+        },
+        {
+          "q": "A Anna le encanta el chocolate. (¡cuidado!)",
+          "a": "Anna loves chocolate."
+        }
+      ]
+    },
+    {
+      "t": "wordsearch",
+      "title": "Sopa de verbos",
+      "title_en": "Verb search",
+      "icon": "🔎",
+      "es": "Escribe la forma con he / she / it de cada verbo y búscala en la sopa.",
+      "en": "Write the he / she / it form and find it.",
+      "words": [
+        "watches",
+        "studies",
+        "goes",
+        "plays",
+        "flies",
+        "washes",
+        "has",
+        "does",
+        "cries",
+        "fixes"
+      ],
+      "clues": [
+        "watch → ______",
+        "study → ______",
+        "go → ______",
+        "play → ______",
+        "fly → ______",
+        "wash → ______",
+        "have → ______",
+        "do → ______",
+        "cry → ______",
+        "fix → ______"
+      ]
+    },
+    {
+      "t": "reading",
+      "title": "Lee y contesta",
+      "title_en": "Read and answer",
+      "icon": "📖",
+      "es": "Lee el texto. Marca T (true) o F (false) y completa las frases.",
+      "en": "Read the text. Tick T or F and complete the sentences.",
+      "text_title": "Lucía's day",
+      "text": [
+        "My sister Lucía is twelve. She gets up at seven o'clock every day. She has a shower and gets dressed. Then she has breakfast: she eats toast and drinks milk.",
+        "Lucía goes to school by bus. Her favourite subject is Science. She has lunch at school with her friends.",
+        "In the afternoon, she plays basketball on Tuesdays and Thursdays. At home, she does her homework and reads a book. Rocky sits next to her! She goes to bed at half past nine."
+      ],
+      "items": [
+        {
+          "q": "Lucía gets up at eight o'clock.",
+          "tf": true,
+          "a": false,
+          "why": "She gets up at seven o'clock."
+        },
+        {
+          "q": "She goes to school by bus.",
+          "tf": true,
+          "a": true
+        },
+        {
+          "q": "She plays basketball on Mondays.",
+          "tf": true,
+          "a": false,
+          "why": "She plays on Tuesdays and Thursdays."
+        },
+        {
+          "q": "For breakfast, Lucía eats ____ and drinks ____.",
+          "a": "toast · milk"
+        },
+        {
+          "q": "Lucía has lunch ________.",
+          "a": "at school (with her friends)"
+        },
+        {
+          "q": "Lucía goes to bed at ________.",
+          "a": "half past nine"
+        },
+        {
+          "q": "Who sits next to Lucía?",
+          "a": "Rocky (sits next to her)."
+        }
+      ]
+    },
+    {
+      "t": "write",
+      "title": "Ahora escribe tú",
+      "title_en": "Your turn",
+      "icon": "✍️",
+      "es": "Escribe sobre tu día y el de tu familia. ¡No olvides la -s con he / she / it!",
+      "en": "Write about your day and your family's day.",
+      "items": [
+        {
+          "q": "Escribe 3 cosas que haces cada día: I…",
+          "lines": 2,
+          "a": "Ej.: I get up at eight. I go to school by car. I play with Rocky."
+        },
+        {
+          "q": "Escribe la rutina de alguien de tu familia: He / She…",
+          "lines": 2,
+          "a": "Ej.: My sister gets up at seven. She has a shower. She studies a lot."
+        },
+        {
+          "q": "Escribe 2 frases sobre tu mascota o tu animal favorito.",
+          "lines": 2,
+          "a": "Ej.: Rocky sleeps on the sofa. He loves the park."
+        },
+        {
+          "q": "Escribe 2 cosas que siempre son verdad.",
+          "lines": 1,
+          "a": "Ej.: Birds fly. Cows eat grass."
+        }
+      ]
+    }
+  ],
+  "checklist": [
+    {
+      "es": "Sé cuándo se usa el present simple: <b>rutinas, gustos y verdades</b>.",
+      "en": "I know when to use the present simple."
+    },
+    {
+      "es": "Con <b>I, you, we, they</b> el verbo va tal cual.",
+      "en": "No -s with I, you, we, they."
+    },
+    {
+      "es": "Con <b>he, she, it</b> añado <em>-s</em> al verbo.",
+      "en": "I add -s with he, she, it."
+    },
+    {
+      "es": "Sé cuándo poner <b>-es</b> (watches, goes) y <b>-ies</b> (studies).",
+      "en": "I can spell -es and -ies forms."
+    },
+    {
+      "es": "Sé que <b>have</b> → <b>has</b>.",
+      "en": "I know have → has."
+    },
+    {
+      "es": "Pronuncio la -s: «s», «z» o «iz».",
+      "en": "I can say the -s ending."
+    },
+    {
+      "es": "Sé contar mi <b>rutina diaria</b> en inglés.",
+      "en": "I can talk about my daily routine."
+    }
+  ]
+}
