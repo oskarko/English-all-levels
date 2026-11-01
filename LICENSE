@@ -19,11 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----------------------------------------------------------------------------
-This MIT license covers the source code (tools/, package.json).
-The educational content (content/*.json, the PDFs in pdf/ and the docs) is
-licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
-see LICENSE-CONTENT.txt. Fonts (fonts/) are under the SIL Open Font License
-1.1 (fonts/OFL-*.txt) and emoji graphics (emoji/) are Twemoji, CC BY 4.0
-(emoji/LICENSE.md).
