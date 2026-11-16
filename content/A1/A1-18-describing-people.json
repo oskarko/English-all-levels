@@ -1,0 +1,529 @@
+{
+  "id": "A1-18",
+  "level": "A1",
+  "title": "DESCRIBIR A UNA PERSONA",
+  "file_title": "Describir a una persona",
+  "subtitle": "Describing people · cómo es una persona",
+  "icon": "🧒",
+  "map": {
+    "center": "Para describir a alguien: <b>BE</b> para cómo <b>es</b> (alto, 9 años, de España) y <b>HAVE GOT</b> para lo que <b>tiene</b> (pelo, ojos).",
+    "nodes": [
+      {
+        "title": "Nombre y edad", "icon": "🪪",
+        "rows": [["My name is…", "= me llamo"], ["His / Her name is…", "= se llama (él / ella)"], ["I am / She is nine.", "= tiene 9 años"]],
+        "after": "¡La edad va con <b>BE</b>, nunca con have!"
+      },
+      {
+        "title": "De dónde es", "icon": "🌍", "art": "🗺️",
+        "items": ["I'm <b>from</b> Spain. <i>(Soy de España.)</i>", "He's <b>from</b> England.", "She <b>lives in</b> Madrid. <i>(Vive en…)</i>"]
+      },
+      {
+        "title": "Cómo es · BE", "icon": "📏",
+        "items": ["He <b>is</b> tall / short.", "She <b>is</b> thin / slim.", "He <b>is</b> funny and kind.", "<b>is</b> = es / está"]
+      },
+      {
+        "title": "Qué tiene · HAVE GOT", "icon": "💇", "art": "👓",
+        "items": ["She <b>has got</b> long hair.", "He <b>has got</b> blue eyes.", "He <b>has got</b> glasses / a beard.", "<b>has got</b> = tiene"]
+      },
+      {
+        "title": "El pelo, en orden", "icon": "💈",
+        "items": ["largo + forma + color + <b>hair</b>", "short curly black <b>hair</b>", "<em>hair</em>: sin s y sin «the»"]
+      },
+      {
+        "title": "Receta de 10 frases", "icon": "📝",
+        "items": ["① nombre ② edad ③ de dónde ④ dónde vive", "⑤ alto/bajo ⑥ pelo ⑦ ojos ⑧ gafas, barba…", "⑨ carácter ⑩ le gusta / sabe"]
+      }
+    ],
+    "error": {
+      "title": "Error común",
+      "bad": ["She has the hair long."],
+      "good": ["She has got long hair."],
+      "note": "sin <b>the</b> · el adjetivo va <b>antes</b>"
+    },
+    "mini": {
+      "es": "Completa con is, has got, from, his o her.",
+      "en": "Complete with is, has got, from, his or her.",
+      "items": [
+        { "q": "My sister ___ twelve.", "a": "is" },
+        { "q": "She ____ long brown hair.", "a": "has got" },
+        { "q": "Leo is ____ England.", "a": "from" },
+        { "q": "This is Tom. ___ name is Tom.", "a": "His" },
+        { "q": "This is Anna. ___ name is Anna.", "a": "Her" }
+      ]
+    }
+  },
+  "explain": [
+    {
+      "t": "intro",
+      "es": "Para <mark>describir a una persona</mark> (a ti mismo o a otra persona) casi todo se dice con <b>dos verbos</b>: <b>BE</b> (ser / estar) y <b>HAVE GOT</b> (tener). Con BE decimos el <b>nombre</b>, la <b>edad</b>, de <b>dónde</b> es, si es <b>alto o bajo</b> y cómo es su <b>carácter</b>. Con HAVE GOT decimos lo que <b>tiene</b>: el <b>pelo</b>, los <b>ojos</b>, gafas, barba…",
+      "en": "To <mark>describe a person</mark> we mostly use <b>BE</b> (name, age, country, height, personality) and <b>HAVE GOT</b> (hair, eyes, glasses, beard).",
+      "formula": ["*BE* → nombre + edad + de dónde + alto / bajo + carácter", "*HAVE GOT* → pelo + ojos + gafas + barba"]
+    },
+    {
+      "t": "rule", "title": "1 · Nombre y edad", "title_en": "Name and age", "icon": "🪪", "color": "green",
+      "es": "Para decir cómo se llama alguien usamos <b>name</b> + <b>is</b>: <b>My</b> name is… (yo), <b>His</b> name is… (un chico), <b>Her</b> name is… (una chica). Para la edad usamos <b>BE</b>: en español <i>tengo 8 años</i>, pero en inglés <mark>soy 8</mark>: <b>I am eight</b>. Puedes añadir <i>years old</i> al final.",
+      "en": "Name: <b>My / His / Her name is…</b> Age always with <b>BE</b>: <b>I am eight (years old)</b>.",
+      "formula": ["*My / His / Her* + name + *is* + nombre", "Sujeto + *am / is* + número + (years old)"],
+      "examples": [
+        { "en": "<b>My name is</b> Mario. <b>I am</b> eight.", "es": "Me llamo Mario. Tengo ocho años.", "icon": "👦" },
+        { "en": "This is my friend. <b>His name is</b> Leo. <b>He is</b> nine years old.", "es": "Este es mi amigo. Se llama Leo. Tiene nueve años.", "icon": "🧒" },
+        { "en": "This is my sister. <b>Her name is</b> Lucía. <b>She is</b> twelve.", "es": "Esta es mi hermana. Se llama Lucía. Tiene doce años.", "icon": "👧" }
+      ]
+    },
+    {
+      "t": "rule", "title": "2 · De dónde es", "title_en": "Where from", "icon": "🌍", "color": "blue",
+      "es": "Para decir de dónde es alguien usamos <b>BE + from</b> + país o ciudad. ¡No digas <s>of</s>! Si quieres decir dónde vive, usa <b>live in</b> (con <em>-s</em> para he / she: <b>lives in</b>). Los países y las nacionalidades van <b>siempre con mayúscula</b>: Spain, Spanish, England, English.",
+      "en": "Use <b>be from</b> + country or city. For home, use <b>live in</b> (he / she <b>lives in</b>). Countries and nationalities start with a capital letter.",
+      "formula": ["Sujeto + *am / is* + *from* + país", "I *live in* … · He / She *lives in* …"],
+      "examples": [
+        { "en": "I <b>am from</b> Spain. I'm Spanish.", "es": "Soy de España. Soy español.", "icon": "🇪🇸" },
+        { "en": "Leo <b>is from</b> London. He's English.", "es": "Leo es de Londres. Es inglés.", "icon": "🇬🇧" },
+        { "en": "My cousin <b>lives in</b> Valencia.", "es": "Mi primo vive en Valencia.", "icon": "🏙️" }
+      ]
+    },
+    {
+      "t": "table", "title": "Las preguntas… y sus respuestas", "title_en": "Questions and answers", "icon": "🕵️", "color": "teal",
+      "head": ["Pregunta · Question", "Respuesta · Answer"],
+      "rows": [
+        ["What's <b>his</b> name?", "<b>His</b> name is Leo."],
+        ["What's <b>her</b> name?", "<b>Her</b> name is Anna."],
+        ["How old <b>is</b> he?", "He <b>is</b> nine."],
+        ["Where <b>is</b> she <b>from</b>?", "She <b>is from</b> Spain."],
+        ["<b>Is</b> he tall?", "Yes, he is. / No, he isn't."],
+        ["What colour <b>is</b> her hair?", "It's brown."],
+        ["What colour <b>are</b> his eyes?", "They're blue."]
+      ],
+      "note": "Estas preguntas son tu <b>guion</b>: si contestas todas, ¡ya tienes tu descripción!",
+      "note_en": "These questions are your plan: answer them all and your description is ready."
+    },
+    {
+      "t": "rule", "title": "3 · Cómo es · BE + adjetivo", "title_en": "What he / she is like", "icon": "📏", "color": "orange",
+      "es": "Para el <b>cuerpo</b> (alto, bajo, delgado, fuerte) y el <b>carácter</b> (divertido, amable, tímido) usamos <b>BE + adjetivo</b>. ¡Sin <em>a</em> delante! <s>He is a tall.</s> Puedes añadir <b>very</b> (muy) o <b>quite</b> (bastante). Ojo: para personas, <em>fat</em> (gordo) suena feo; es más amable decir <b>a bit big</b> (un poco grande).",
+      "en": "Body and personality: <b>BE + adjective</b>, with no <em>a</em>. Add <b>very</b> or <b>quite</b>. <em>Fat</em> sounds rude; say <b>a bit big</b>.",
+      "formula": ["Sujeto + *is* + (very / quite) + adjetivo", "He *is* tall *and* funny."],
+      "examples": [
+        { "en": "My dad <b>is very tall</b>.", "es": "Mi padre es muy alto.", "icon": "🦒" },
+        { "en": "Anna <b>is short and thin</b>.", "es": "Anna es bajita y delgada.", "icon": "👧" },
+        { "en": "My grandma <b>is quite small</b>, but she <b>is</b> very strong!", "es": "Mi abuela es bastante pequeña, ¡pero es muy fuerte!", "icon": "👵" },
+        { "en": "Tom <b>is funny and kind</b>.", "es": "Tom es divertido y amable.", "icon": "😄" }
+      ]
+    },
+    {
+      "t": "rule", "title": "4 · Qué tiene · HAVE GOT", "title_en": "What he / she has got", "icon": "💇", "color": "purple",
+      "es": "Para el <b>pelo</b>, los <b>ojos</b>, las <b>gafas</b>, la <b>barba</b> o una <b>sonrisa</b> usamos <b>have got</b> (I, you, we, they) o <b>has got</b> (he, she). En español decimos <i>tiene <u>el</u> pelo largo</i>, pero en inglés <mark>no hay the</mark> y el adjetivo va <b>antes</b>: <b>long hair</b>. Y <i>lleva gafas</i> también es <b>has got glasses</b>.",
+      "en": "Hair, eyes, glasses, beard: <b>have got / has got</b>. No <em>the</em>, and the adjective goes first: <b>long hair</b>.",
+      "formula": ["I *have got* + adjetivo + hair / eyes", "He / She *has got* + adjetivo + hair / eyes"],
+      "examples": [
+        { "en": "I <b>have got</b> brown eyes.", "es": "Tengo los ojos marrones.", "icon": "👀" },
+        { "en": "Sara <b>has got</b> long curly hair.", "es": "Sara tiene el pelo largo y rizado.", "icon": "💇" },
+        { "en": "My grandad <b>has got</b> glasses and a white beard.", "es": "Mi abuelo lleva gafas y tiene barba blanca.", "icon": "🧔" }
+      ]
+    },
+    {
+      "t": "table", "title": "5 · El pelo, en orden", "title_en": "Hair: word order", "icon": "💈", "color": "pink", "wide": true,
+      "head": ["① ¿Largo? · Length", "② ¿Forma? · Style", "③ ¿Color? · Colour", "④ Siempre · Always"],
+      "rows": [
+        ["long <i>(largo)</i>", "straight <i>(liso)</i>", "brown <i>(castaño)</i>", "<b>hair</b>"],
+        ["short <i>(corto)</i>", "curly <i>(rizado)</i>", "black <i>(negro)</i>", "<b>hair</b>"],
+        ["long", "wavy <i>(ondulado)</i>", "blond <i>(rubio)</i>", "<b>hair</b>"],
+        ["short", "—", "red <i>(pelirrojo)</i>", "<b>hair</b>"],
+        ["—", "—", "grey / white <i>(canoso / blanco)</i>", "<b>hair</b>"]
+      ],
+      "note": "Ejemplo: She has got <b>long curly black hair</b>. No hace falta usar las tres casillas: <b>short hair</b> o <b>blond hair</b> también está bien. <b>hair</b> nunca lleva <em>s</em>: <s>long hairs</s>.",
+      "note_en": "Order: length + style + colour + <b>hair</b>. You don't need all three. <b>Hair</b> never takes <em>s</em>."
+    },
+    {
+      "t": "table", "title": "Yo → él → ella", "title_en": "I → he → she", "icon": "🔄", "color": "yellow", "wide": true,
+      "head": ["🙋 Yo · I", "👦 Él · he", "👧 Ella · she"],
+      "rows": [
+        ["<b>My</b> name is Mario.", "<b>His</b> name is Leo.", "<b>Her</b> name is Anna."],
+        ["I <b>am</b> eight.", "He <b>is</b> eight.", "She <b>is</b> eight."],
+        ["I<b>'m</b> from Spain.", "He<b>'s</b> from Spain.", "She<b>'s</b> from Spain."],
+        ["I <b>live</b> in Madrid.", "He <b>lives</b> in Madrid.", "She <b>lives</b> in Madrid."],
+        ["I <b>have got</b> blue eyes.", "He <b>has got</b> blue eyes.", "She <b>has got</b> blue eyes."],
+        ["I <b>like</b> football.", "He <b>likes</b> football.", "She <b>likes</b> football."],
+        ["I <b>can</b> swim.", "He <b>can</b> swim.", "She <b>can</b> swim."]
+      ],
+      "note": "Cuando describes a <b>otra persona</b> cambian 4 cosas: my → <b>his / her</b> · am → <b>is</b> · have got → <b>has got</b> · like → <b>likes</b>. ¡<b>can</b> no cambia!",
+      "note_en": "For another person: my → his / her, am → is, have got → has got, like → likes. Can never changes."
+    },
+    {
+      "t": "vocab", "title": "El cuerpo y la cara", "title_en": "Body and face", "icon": "🧍", "color": "green", "wide": true, "cols": 4,
+      "items": [
+        { "en": "tall", "es": "alto", "icon": "🦒" },
+        { "en": "short", "es": "bajo / corto", "icon": "🐁" },
+        { "en": "thin / slim", "es": "delgado", "icon": "🥢" },
+        { "en": "strong", "es": "fuerte", "icon": "💪" },
+        { "en": "blond hair", "es": "pelo rubio", "icon": "👱" },
+        { "en": "dark hair", "es": "pelo moreno", "icon": "🧑" },
+        { "en": "red hair", "es": "pelo pelirrojo", "icon": "🦊" },
+        { "en": "grey hair", "es": "pelo canoso", "icon": "👴" },
+        { "en": "curly", "es": "rizado", "icon": "🌀" },
+        { "en": "straight", "es": "liso", "icon": "📏" },
+        { "en": "blue eyes", "es": "ojos azules", "icon": "👀" },
+        { "en": "green eyes", "es": "ojos verdes", "icon": "💚" },
+        { "en": "glasses", "es": "gafas", "icon": "👓" },
+        { "en": "a beard", "es": "barba", "icon": "🧔" },
+        { "en": "a moustache", "es": "bigote", "icon": "🥸" },
+        { "en": "a big smile", "es": "una gran sonrisa", "icon": "😁" }
+      ]
+    },
+    {
+      "t": "vocab", "title": "El carácter", "title_en": "Personality", "icon": "💖", "color": "pink",
+      "items": [
+        { "en": "funny", "es": "divertido", "icon": "😂" },
+        { "en": "kind", "es": "amable", "icon": "🤗" },
+        { "en": "friendly", "es": "simpático", "icon": "😊" },
+        { "en": "shy", "es": "tímido", "icon": "🙈" },
+        { "en": "clever", "es": "listo", "icon": "🧠" },
+        { "en": "sporty", "es": "deportista", "icon": "⚽" },
+        { "en": "chatty", "es": "hablador", "icon": "💬" },
+        { "en": "quiet", "es": "callado", "icon": "🤫" }
+      ]
+    },
+    {
+      "t": "compare", "title": "¿ES o TIENE?", "title_en": "BE or HAVE GOT?", "color": "blue", "icon": "⚖️",
+      "es": "La pregunta mágica: ¿es algo que la persona <b>es</b> (o su edad)? → <b>is</b>. ¿Es algo que <b>tiene</b> en el cuerpo o en la cara? → <b>has got</b>.",
+      "en": "Something the person <b>is</b> (or their age) → <b>is</b>. Something on their body or face → <b>has got</b>.",
+      "cols": [
+        { "head": "📏 BE · es / tiene X años", "color": "green", "items": ["He <b>is</b> tall.", "She <b>is</b> nine.", "He <b>is</b> from Spain.", "She <b>is</b> funny."] },
+        { "head": "💇 HAVE GOT · tiene", "color": "orange", "items": ["He <b>has got</b> short hair.", "She <b>has got</b> green eyes.", "He <b>has got</b> glasses.", "She <b>has got</b> a big smile."] }
+      ]
+    },
+    {
+      "t": "table", "title": "La receta de las 10 frases", "title_en": "The 10-sentence recipe", "icon": "📝", "color": "orange", "wide": true,
+      "head": ["#", "¿Qué digo? · What?", "🙋 Yo · I", "👦👧 Él / ella · He / she"],
+      "rows": [
+        ["1", "Nombre · name", "My name is…", "His / Her name is…"],
+        ["2", "Edad · age", "I am … (years old).", "He / She is … (years old)."],
+        ["3", "De dónde · from", "I am from…", "He / She is from…"],
+        ["4", "Dónde vive · home", "I live in…", "He / She lives in…"],
+        ["5", "Cuerpo · body", "I am tall / short / thin…", "He / She is tall / short…"],
+        ["6", "Pelo · hair", "I have got … hair.", "He / She has got … hair."],
+        ["7", "Ojos · eyes", "I have got … eyes.", "He / She has got … eyes."],
+        ["8", "Algo más · extra", "I have got glasses…", "He has got a beard…"],
+        ["9", "Carácter · personality", "I am funny / kind…", "He / She is funny / kind…"],
+        ["10", "Gustos y habilidades", "I like… / I can…", "He / She likes… / can…"]
+      ],
+      "note": "Sigue la receta en orden y nunca te quedarás en blanco. Frases cortas y claras: ¡una idea en cada frase!",
+      "note_en": "Follow the recipe in order. Short, clear sentences: one idea per sentence."
+    },
+    {
+      "t": "examples", "title": "Modelo 1 · Me describo", "title_en": "Model 1 · Describing myself",
+      "items": [
+        { "en": "My name is Mario.", "es": "Me llamo Mario.", "icon": "🪪" },
+        { "en": "I am eight years old.", "es": "Tengo ocho años.", "icon": "🎂" },
+        { "en": "I am from Spain.", "es": "Soy de España.", "icon": "🇪🇸" },
+        { "en": "I live in Madrid.", "es": "Vivo en Madrid.", "icon": "🏙️" },
+        { "en": "I am quite tall and thin.", "es": "Soy bastante alto y delgado.", "icon": "📏" },
+        { "en": "I have got short straight brown hair.", "es": "Tengo el pelo corto, liso y castaño.", "icon": "💇" },
+        { "en": "I have got brown eyes.", "es": "Tengo los ojos marrones.", "icon": "👀" },
+        { "en": "I am funny and friendly.", "es": "Soy divertido y simpático.", "icon": "😄" },
+        { "en": "I like football and drawing.", "es": "Me gustan el fútbol y dibujar.", "icon": "⚽" },
+        { "en": "I can ride a bike.", "es": "Sé montar en bici.", "icon": "🚲" }
+      ]
+    },
+    {
+      "t": "examples", "title": "Modelo 2 · Describo a otra persona", "title_en": "Model 2 · Describing someone else",
+      "items": [
+        { "en": "This is my sister. <b>Her</b> name is Lucía.", "es": "Esta es mi hermana. Se llama Lucía.", "icon": "👧" },
+        { "en": "She <b>is</b> twelve years old.", "es": "Tiene doce años.", "icon": "🎂" },
+        { "en": "She <b>is</b> from Spain, like me.", "es": "Es de España, como yo.", "icon": "🇪🇸" },
+        { "en": "She <b>lives</b> in Madrid with my family.", "es": "Vive en Madrid con mi familia.", "icon": "🏠" },
+        { "en": "She <b>is</b> tall and slim.", "es": "Es alta y delgada.", "icon": "📏" },
+        { "en": "She <b>has got</b> long straight brown hair.", "es": "Tiene el pelo largo, liso y castaño.", "icon": "💇" },
+        { "en": "She <b>has got</b> brown eyes.", "es": "Tiene los ojos marrones.", "icon": "👀" },
+        { "en": "She <b>has got</b> glasses.", "es": "Lleva gafas.", "icon": "👓" },
+        { "en": "She <b>is</b> clever and kind.", "es": "Es lista y amable.", "icon": "🧠" },
+        { "en": "She <b>likes</b> music and she <b>can</b> play the piano.", "es": "Le gusta la música y sabe tocar el piano.", "icon": "🎹" }
+      ]
+    },
+    {
+      "t": "examples", "title": "Más ejemplos", "title_en": "More examples",
+      "items": [
+        { "en": "My dad is very tall and he has got a beard.", "es": "Mi padre es muy alto y tiene barba.", "icon": "🧔" },
+        { "en": "My grandma is short and she has got white hair.", "es": "Mi abuela es bajita y tiene el pelo blanco.", "icon": "👵" },
+        { "en": "Tom has got short red hair and green eyes.", "es": "Tom tiene el pelo corto y pelirrojo y los ojos verdes.", "icon": "🦊" },
+        { "en": "Anna is six. She has got long blond hair.", "es": "Anna tiene seis años. Tiene el pelo largo y rubio.", "icon": "👧" },
+        { "en": "My teacher is from England. She is very kind.", "es": "Mi profe es de Inglaterra. Es muy amable.", "icon": "👩‍🏫" },
+        { "en": "Sara has got curly hair and a big smile.", "es": "Sara tiene el pelo rizado y una gran sonrisa.", "icon": "😁" },
+        { "en": "Leo isn't tall. He's short, but he's very sporty.", "es": "Leo no es alto. Es bajito, pero es muy deportista.", "icon": "⚽" },
+        { "en": "Rocky is my dog. He is big and he has got brown ears.", "es": "Rocky es mi perro. Es grande y tiene las orejas marrones.", "icon": "🐕" }
+      ]
+    },
+    {
+      "t": "errors", "monster": "trampas", "title": "¡Caza al monstruo!", "title_en": "Hunt the monster",
+      "items": [
+        { "bad": "He has 10 years.", "good": "He <b>is</b> 10.", "why": "La edad va con BE: «soy 10».", "why_en": "Age uses be." },
+        { "bad": "She has the hair long.", "good": "She has got <b>long hair</b>.", "why": "Sin the, y el adjetivo antes.", "why_en": "No the; adjective first." },
+        { "bad": "He has got eyes blue.", "good": "He has got <b>blue eyes</b>.", "why": "El color va antes de eyes.", "why_en": "Colour before the noun." },
+        { "bad": "My mum has got short hairs.", "good": "My mum has got short <b>hair</b>.", "why": "hair (el pelo de la cabeza) no lleva s.", "why_en": "Hair has no s." },
+        { "bad": "Is very funny.", "good": "<b>He</b> is very funny.", "why": "En inglés siempre hay sujeto.", "why_en": "Always use a subject." },
+        { "bad": "Leo is of England.", "good": "Leo is <b>from</b> England.", "why": "«Ser de» un sitio = be from.", "why_en": "Use be from." },
+        { "bad": "I've got a sister. His name is Lucía.", "good": "<b>Her</b> name is Lucía.", "why": "Chica → her · chico → his.", "why_en": "Girl → her, boy → his." },
+        { "bad": "He is a tall.", "good": "He is <b>tall</b>.", "why": "Con BE + adjetivo no va a.", "why_en": "No a before an adjective alone." }
+      ]
+    },
+    {
+      "t": "steps", "title": "Antes de entregar, repasa", "title_en": "Check before you finish", "color": "orange",
+      "items": [
+        { "es": "¿Cada frase tiene <b>sujeto</b> (I, he, she, my sister…)?", "en": "Has every sentence got a subject?" },
+        { "es": "Edad, de dónde, cuerpo y carácter → <b>is</b>. Pelo, ojos, gafas → <b>has got</b>.", "en": "Age, country, body, personality → is. Hair, eyes, glasses → has got." },
+        { "es": "¿Es un chico? → <b>his</b>. ¿Una chica? → <b>her</b>.", "en": "Boy → his. Girl → her." },
+        { "es": "El adjetivo va <b>antes</b>: long hair, blue eyes. Y <b>hair</b> sin s.", "en": "Adjective first. Hair without s." },
+        { "es": "He / she: <b>has</b> got, <b>likes</b>, <b>lives</b> (¡con s!).", "en": "He / she: has got, likes, lives." },
+        { "es": "<b>Mayúscula</b> al empezar y en nombres y países. <b>Punto</b> al final.", "en": "Capital letters and full stops." }
+      ]
+    },
+    {
+      "t": "dialogue", "title": "¿Quién es tu nuevo amigo?", "title_en": "Who's your new friend?",
+      "lines": [
+        { "who": "Mum", "en": "Who is your new friend, Mario?", "es": "¿Quién es tu nuevo amigo, Mario?" },
+        { "who": "Mario", "en": "His name is Leo. He's from London.", "es": "Se llama Leo. Es de Londres." },
+        { "who": "Mum", "en": "How old is he?", "es": "¿Cuántos años tiene?" },
+        { "who": "Mario", "en": "He's nine. He's tall and thin.", "es": "Tiene nueve. Es alto y delgado." },
+        { "who": "Mum", "en": "What colour is his hair?", "es": "¿De qué color tiene el pelo?" },
+        { "who": "Mario", "en": "It's red! He's got short curly hair and glasses.", "es": "¡Pelirrojo! Tiene el pelo corto y rizado, y lleva gafas." },
+        { "who": "Mum", "en": "Is he nice?", "es": "¿Es majo?" },
+        { "who": "Mario", "en": "Yes, he is. He's very funny!", "es": "Sí. ¡Es muy divertido!" }
+      ]
+    },
+    {
+      "t": "tip", "title": "Truco: SHORT tiene dos caras", "title_en": "Trick: short has two meanings",
+      "es": "<b>short</b> significa <b>bajo</b> (una persona) y <b>corto</b> (el pelo). <i>He is short</i> = es bajito. <i>He has got short hair</i> = tiene el pelo corto. ¡Mira si va con <b>is</b> o con <b>hair</b>!",
+      "en": "<b>short</b> = not tall (a person) and not long (hair). Look at the words around it."
+    }
+  ],
+  "exercises": [
+    {
+      "t": "choose", "title": "Rodea la correcta", "title_en": "Circle the correct option", "icon": "⭕",
+      "es": "Rodea con un círculo la opción correcta. Piensa: ¿es o tiene?",
+      "en": "Circle the correct option.",
+      "items": [
+        { "q": "My brother [is|has got] eleven.", "a": "is" },
+        { "q": "Anna [is|has got] blue eyes.", "a": "has got" },
+        { "q": "He [is|has got] from England.", "a": "is" },
+        { "q": "My mum [is|has got] short hair.", "a": "has got" },
+        { "q": "Leo [is|has got] tall and thin.", "a": "is" },
+        { "q": "My grandad [is|has got] a white beard.", "a": "has got" },
+        { "q": "[His|Her] name is Lucía. She's my sister.", "a": "Her" },
+        { "q": "This is Tom. [His|Her] hair is red.", "a": "His" },
+        { "q": "She has got [hair long|long hair].", "a": "long hair" },
+        { "q": "He has got short black [hair|hairs].", "a": "hair" }
+      ]
+    },
+    {
+      "t": "classify", "title": "¿Es o tiene?", "title_en": "BE or HAVE GOT?", "icon": "🗂️",
+      "es": "Escribe cada palabra en su caja: ¿va con He is… o con He has got…?",
+      "en": "Write each word in the right box.",
+      "cats": [
+        { "name": "He is…", "words": ["tall", "ten", "from Spain", "funny", "short", "Spanish"] },
+        { "name": "He has got…", "words": ["curly hair", "brown eyes", "glasses", "a beard", "a moustache", "a big smile"] }
+      ]
+    },
+    {
+      "t": "truefalse", "title": "¿Verdadero o falso?", "title_en": "True or false?", "icon": "✅",
+      "es": "Lee cada regla. Marca T (verdadero) o F (falso). Si es falsa, escribe la frase bien.",
+      "en": "Read each rule. Tick T or F.",
+      "items": [
+        { "q": "For age we use BE: <i>He is nine.</i>", "a": true },
+        { "q": "«Tiene el pelo largo» = <i>She has the hair long.</i>", "a": false, "why": "She has got long hair." },
+        { "q": "<i>Hair</i> has no s: <i>long hair</i>.", "a": true },
+        { "q": "The colour goes after: <i>hair brown</i>.", "a": false, "why": "brown hair" },
+        { "q": "For a girl: <i>her</i> name. For a boy: <i>his</i> name.", "a": true },
+        { "q": "«Es de España» = <i>He is of Spain.</i>", "a": false, "why": "He is from Spain." },
+        { "q": "Hair, eyes and glasses go with <i>have got</i>.", "a": true },
+        { "q": "We can write <i>Is tall.</i> without he or she.", "a": false, "why": "He is tall. / She is tall." }
+      ]
+    },
+    {
+      "t": "match", "title": "Une pregunta y respuesta", "title_en": "Match questions and answers", "icon": "🔗",
+      "es": "Une cada pregunta con su respuesta.",
+      "en": "Match each question with its answer.",
+      "pairs": [
+        ["What's her name?", "Her name is Anna."],
+        ["How old is he?", "He's ten."],
+        ["Where is she from?", "She's from London."],
+        ["What colour are his eyes?", "They're brown."],
+        ["What colour is her hair?", "It's blond."],
+        ["Is he tall?", "No, he isn't. He's short."]
+      ]
+    },
+    {
+      "t": "fill", "title": "Completa la descripción", "title_en": "Complete the description", "icon": "📝",
+      "es": "Completa con las palabras del banco. Puedes usarlas más de una vez.",
+      "en": "Complete with the words from the box.",
+      "bank": ["is", "has got", "from", "his", "her"],
+      "items": [
+        { "q": "This is my friend Tom. ___ name is Tom.", "a": "His" },
+        { "q": "He ___ nine years old.", "a": "is" },
+        { "q": "He is ____ England.", "a": "from" },
+        { "q": "He ____ short red hair.", "a": "has got" },
+        { "q": "He ___ tall and thin.", "a": "is" },
+        { "q": "This is my cousin Sara. ___ name is Sara.", "a": "Her" },
+        { "q": "She ____ long curly hair.", "a": "has got" },
+        { "q": "She ____ green eyes and glasses.", "a": "has got" },
+        { "q": "She is ____ Madrid.", "a": "from" },
+        { "q": "She ___ very funny and kind.", "a": "is" }
+      ]
+    },
+    {
+      "t": "tablefill", "title": "Yo → él → ella", "title_en": "I → he → she", "icon": "📋", "wide": true,
+      "es": "Completa las casillas vacías. Cambia my → his / her, am → is, have → has, like → likes.",
+      "en": "Fill in the empty boxes.",
+      "head": ["🙋 Yo · I", "👦 Él · he (Leo)", "👧 Ella · she (Anna)"],
+      "rows": [
+        ["My name is Mario.", "?His name is Leo.", "?Her name is Anna."],
+        ["I am eight.", "?He is eight.", "?She is eight."],
+        ["I'm from Spain.", "?He's from Spain.", "?She's from Spain."],
+        ["I have got brown eyes.", "?He has got brown eyes.", "?She has got brown eyes."],
+        ["I like football.", "?He likes football.", "?She likes football."],
+        ["I can swim.", "?He can swim.", "?She can swim."]
+      ]
+    },
+    {
+      "t": "order", "title": "Ordena la frase", "title_en": "Put the words in order", "icon": "🧱",
+      "es": "Ordena las palabras y escribe la frase. ¡Mayúscula al principio y punto al final!",
+      "en": "Put the words in order and write the sentence.",
+      "items": [
+        { "q": "has / she / long / got / hair", "a": "She has got long hair." },
+        { "q": "is / name / his / Leo", "a": "His name is Leo." },
+        { "q": "from / I / Spain / am", "a": "I am from Spain." },
+        { "q": "got / eyes / he / green / has", "a": "He has got green eyes." },
+        { "q": "is / sister / my / twelve / years old", "a": "My sister is twelve years old." },
+        { "q": "curly / has / Anna / got / short / hair", "a": "Anna has got short curly hair." },
+        { "q": "tall / very / my dad / is", "a": "My dad is very tall." },
+        { "q": "her / Sara / name / is / and / she / nine / is", "a": "Her name is Sara and she is nine." }
+      ]
+    },
+    {
+      "t": "rewrite", "title": "De la pista a la frase", "title_en": "From clues to sentences", "icon": "🧩",
+      "es": "Escribe una frase completa con la pista. Decide: ¿is o has got?",
+      "en": "Write a full sentence. Is or has got?",
+      "items": [
+        { "q": "Tom · 10 years old", "a": "Tom is ten (years old)." },
+        { "q": "Anna · short curly hair", "a": "Anna has got short curly hair." },
+        { "q": "my dad · tall", "a": "My dad is tall." },
+        { "q": "Leo · from England", "a": "Leo is from England." },
+        { "q": "my sister · blue eyes", "a": "My sister has got blue eyes." },
+        { "q": "my grandad · a grey beard", "a": "My grandad has got a grey beard." },
+        { "q": "Sara · funny and kind", "a": "Sara is funny and kind." },
+        { "q": "my mum · long brown hair", "a": "My mum has got long brown hair." },
+        { "q": "the baby · very small", "a": "The baby is very small." },
+        { "q": "my teacher · glasses", "a": "My teacher has got glasses." }
+      ]
+    },
+    {
+      "t": "error", "title": "Caza el error", "title_en": "Find the mistake", "icon": "🔍",
+      "es": "Cada frase tiene UN error. Escríbela bien.",
+      "en": "Each sentence has ONE mistake. Write it correctly.",
+      "items": [
+        { "q": "My dad has 40 years.", "a": "My dad is 40 (years old)." },
+        { "q": "She has the hair long.", "a": "She has got long hair." },
+        { "q": "He has got eyes green.", "a": "He has got green eyes." },
+        { "q": "My mum has got short hairs.", "a": "My mum has got short hair." },
+        { "q": "I've got a sister. His name is Lucía.", "a": "I've got a sister. Her name is Lucía." },
+        { "q": "Leo is of England.", "a": "Leo is from England." },
+        { "q": "He is tall and he have got glasses.", "a": "He is tall and he has got glasses." },
+        { "q": "My friend Sara is very funny. Is nine.", "a": "My friend Sara is very funny. She is nine." }
+      ]
+    },
+    {
+      "t": "spell", "title": "Deletrea la palabra", "title_en": "Spell the word", "icon": "🔤",
+      "es": "Ordena las letras y escribe la palabra en las cajas. (¡Ojo con el Monstruo Ae!)",
+      "en": "Unscramble the letters and write the word.",
+      "items": [
+        { "q": "🦒 alto", "a": "tall" },
+        { "q": "🌀 rizado", "a": "curly" },
+        { "q": "👓 gafas", "a": "glasses" },
+        { "q": "🧔 barba", "a": "beard" },
+        { "q": "📏 liso", "a": "straight" },
+        { "q": "👱 rubio", "a": "blond" }
+      ]
+    },
+    {
+      "t": "wordsearch", "title": "Sopa de letras", "title_en": "Word search", "icon": "🔎",
+      "es": "Busca las 8 palabras. Después escribe una frase con is y otra con has got usando dos de ellas.",
+      "en": "Find the 8 words. Then write one sentence with is and one with has got.",
+      "words": ["tall", "short", "thin", "curly", "blond", "eyes", "beard", "funny"],
+      "clues": ["tall · alto", "short · bajo / corto", "thin · delgado", "curly · rizado", "blond · rubio", "eyes · ojos", "beard · barba", "funny · divertido"]
+    },
+    {
+      "t": "translate", "title": "Traduce al inglés", "title_en": "Translate into English", "icon": "🌍",
+      "es": "Traduce. Piensa: ¿is o has got? ¿his o her? ¿dónde va el adjetivo?",
+      "en": "Translate into English.",
+      "items": [
+        { "q": "Se llama Anna y tiene diez años.", "a": "Her name is Anna and she is ten (years old)." },
+        { "q": "Mi hermano es alto y delgado.", "a": "My brother is tall and thin." },
+        { "q": "Él tiene el pelo corto y rizado.", "a": "He has got short curly hair." },
+        { "q": "Mi madre tiene los ojos verdes.", "a": "My mum has got green eyes." },
+        { "q": "Leo es de Inglaterra.", "a": "Leo is from England." },
+        { "q": "Mi abuelo lleva gafas y tiene barba.", "a": "My grandad has got glasses and a beard." },
+        { "q": "Mi amiga es muy simpática y divertida.", "a": "My friend is very friendly and funny." },
+        { "q": "Me llamo Mario, tengo ocho años y soy de España.", "a": "My name is Mario, I am eight (years old) and I am from Spain." }
+      ]
+    },
+    {
+      "t": "reading", "title": "Lee y contesta", "title_en": "Read and answer", "icon": "📖",
+      "es": "Lee el texto. Marca T (true, verdadero) o F (false, falso) y contesta las preguntas con frases completas.",
+      "en": "Read the text. Tick T or F and answer the questions.",
+      "text_title": "My best friend",
+      "text": [
+        "Hi! I'm Mario. This is my best friend. His name is Leo. He is nine years old and he is from London, in England. Now he lives in Madrid, near my house.",
+        "Leo is tall and thin. He has got short curly hair. It's red! He has got green eyes and he has got glasses. He is very funny and kind.",
+        "Leo likes football and video games. He can swim very well. His sister's name is Anna. She is six and she has got long straight blond hair."
+      ],
+      "items": [
+        { "q": "Leo is eight.", "tf": true, "a": false, "why": "He is nine." },
+        { "q": "Leo is from England.", "tf": true, "a": true },
+        { "q": "Leo has got long hair.", "tf": true, "a": false, "why": "He has got short curly hair." },
+        { "q": "What colour are Leo's eyes?", "a": "They are green. / He has got green eyes." },
+        { "q": "Is Leo short?", "a": "No, he isn't. He is tall (and thin)." },
+        { "q": "What is his sister's name? How old is she?", "a": "Her name is Anna. She is six." }
+      ]
+    },
+    {
+      "t": "write", "title": "Ahora tú: me describo", "title_en": "Your turn: describe yourself", "icon": "✍️",
+      "es": "Escribe tu descripción siguiendo la receta: una frase en cada línea. Usa la pista del principio.",
+      "en": "Describe yourself in 10 sentences, one per line.",
+      "items": [
+        { "q": "① Mi nombre: <b>My name is</b>…", "lines": 1, "a": "Ej.: My name is Mario." },
+        { "q": "② Mi edad (¡con am!): <b>I am</b>…", "lines": 1, "a": "Ej.: I am eight years old." },
+        { "q": "③ De dónde soy: <b>I am from</b>…", "lines": 1, "a": "Ej.: I am from Spain." },
+        { "q": "④ Dónde vivo: <b>I live in</b>…", "lines": 1, "a": "Ej.: I live in Madrid." },
+        { "q": "⑤ ¿Alto, bajo, delgado…?: <b>I am</b>…", "lines": 1, "a": "Ej.: I am quite tall and thin." },
+        { "q": "⑥ Mi pelo (largo + forma + color): <b>I have got</b>… hair.", "lines": 1, "a": "Ej.: I have got short straight brown hair." },
+        { "q": "⑦ Mis ojos: <b>I have got</b>… eyes.", "lines": 1, "a": "Ej.: I have got brown eyes." },
+        { "q": "⑧ ¿Gafas, una gran sonrisa…?: <b>I have got</b>… / <b>I haven't got</b>…", "lines": 1, "a": "Ej.: I haven't got glasses, but I have got a big smile." },
+        { "q": "⑨ Mi carácter: <b>I am</b>… and…", "lines": 1, "a": "Ej.: I am funny and friendly." },
+        { "q": "⑩ Lo que me gusta y sé hacer: <b>I like</b>… <b>I can</b>…", "lines": 1, "a": "Ej.: I like football. I can ride a bike." }
+      ]
+    },
+    {
+      "t": "write", "title": "Ahora describe a otra persona", "title_en": "Now describe someone else", "icon": "👨‍👩‍👧",
+      "es": "Elige a una persona (tu madre, tu padre, tu hermano, un amigo, tu profe). Escribe 10 frases. ¡Cambia I → he / she, my → his / her, am → is, have got → has got!",
+      "en": "Choose a person and write 10 sentences about him or her.",
+      "items": [
+        { "q": "① <b>His / Her name is</b>…", "lines": 1, "a": "Ej.: This is my sister. Her name is Lucía." },
+        { "q": "② <b>He / She is</b>… (years old).", "lines": 1, "a": "Ej.: She is twelve years old." },
+        { "q": "③ <b>He / She is from</b>…", "lines": 1, "a": "Ej.: She is from Spain." },
+        { "q": "④ <b>He / She lives in</b>…", "lines": 1, "a": "Ej.: She lives in Madrid." },
+        { "q": "⑤ <b>He / She is</b> tall / short / thin…", "lines": 1, "a": "Ej.: She is tall and slim." },
+        { "q": "⑥ <b>He / She has got</b>… hair.", "lines": 1, "a": "Ej.: She has got long straight brown hair." },
+        { "q": "⑦ <b>He / She has got</b>… eyes.", "lines": 1, "a": "Ej.: She has got brown eyes." },
+        { "q": "⑧ Gafas, barba, bigote…: <b>He / She has got</b>… / <b>hasn't got</b>…", "lines": 1, "a": "Ej.: She has got glasses." },
+        { "q": "⑨ <b>He / She is</b> funny / kind / shy…", "lines": 1, "a": "Ej.: She is clever and kind." },
+        { "q": "⑩ <b>He / She likes</b>… <b>He / She can</b>…", "lines": 1, "a": "Ej.: She likes music. She can play the piano." }
+      ]
+    }
+  ],
+  "checklist": [
+    { "es": "Sé decir mi nombre y el de otra persona: My / His / Her name is…", "en": "I can say my name and someone else's name." },
+    { "es": "Digo la edad con <b>BE</b>: I am eight · She is twelve.", "en": "I say age with be." },
+    { "es": "Sé decir de dónde es alguien con <b>be from</b>.", "en": "I can say where someone is from." },
+    { "es": "Sé cuándo usar <b>is</b> (cómo es) y cuándo <b>has got</b> (qué tiene).", "en": "I know when to use is and when to use has got." },
+    { "es": "Describo el pelo en orden: <b>long curly brown hair</b>, sin s.", "en": "I can describe hair in the right order." },
+    { "es": "Paso de I a he / she: my → his / her, am → is, have → has.", "en": "I can change I into he / she." },
+    { "es": "Sé escribir <b>10 frases</b> para describir a una persona.", "en": "I can write 10 sentences to describe a person." }
+  ]
+}

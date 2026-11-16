@@ -7,9 +7,9 @@
 **Gratis y de código abierto. Para imprimir, estudiar, compartir y adaptar.**
 
 ![Niveles](https://img.shields.io/badge/niveles-A1%20%E2%86%92%20C2-2d9a56)
-![Mapas](https://img.shields.io/badge/mapas-65-2a78bf)
-![Páginas](https://img.shields.io/badge/p%C3%A1ginas-1.224-e0780f)
-![Ejercicios](https://img.shields.io/badge/ejercicios-996-7653c1)
+![Mapas](https://img.shields.io/badge/mapas-66-2a78bf)
+![Páginas](https://img.shields.io/badge/p%C3%A1ginas-1.244-e0780f)
+![Ejercicios](https://img.shields.io/badge/ejercicios-1.011-7653c1)
 ![Contenido](https://img.shields.io/badge/contenido-CC%20BY%204.0-lightgrey)
 ![Código](https://img.shields.io/badge/c%C3%B3digo-MIT-lightgrey)
 
@@ -42,7 +42,7 @@
 
 ## 💡 ¿Qué es esto?
 
-**English all levels** es una colección de **65 fichas de gramática inglesa**, una por concepto ("el verbo *to be*", "*have got*", "el *present perfect*", "la inversión"…), que cubren **todo el Marco Común Europeo de Referencia, del A1 al C2**.
+**English all levels** es una colección de **66 fichas de gramática inglesa**, una por concepto ("el verbo *to be*", "*have got*", "el *present perfect*", "la inversión"…), que cubren **todo el Marco Común Europeo de Referencia, del A1 al C2**.
 
 Cada ficha es un **PDF a color en A4 apaisado** con aspecto de cuaderno de espiral, y empieza con un **mapa mental** que resume el concepto de un vistazo. Después vienen una **explicación completa en español** (con su versión en inglés), muchos **ejemplos traducidos**, entre 13 y 16 **ejercicios** de dificultad creciente y un **solucionario**.
 
@@ -62,12 +62,12 @@ Lo publicamos para que **cualquier familia, profe, academia o estudiante** pueda
 
 | | |
 |---|---|
-| 🗺️ **Mapas (conceptos)** | **65**, cada uno en su propio PDF |
+| 🗺️ **Mapas (conceptos)** | **66**, cada uno en su propio PDF |
 | 🎓 **Niveles** | **6**: A1, A2, B1, B2, C1 y C2 |
-| 📄 **Páginas** | **1.224** (de 16 a 26 por mapa) |
-| ✏️ **Ejercicios** | **996** (13-16 por mapa) |
-| ❓ **Preguntas para resolver** | **8.684**, todas con su respuesta en el solucionario |
-| 💬 **Frases de ejemplo traducidas** | **1.840** |
+| 📄 **Páginas** | **1.244** (de 16 a 26 por mapa) |
+| ✏️ **Ejercicios** | **1.011** (13-16 por mapa) |
+| ❓ **Preguntas para resolver** | **8.816**, todas con su respuesta en el solucionario |
+| 💬 **Frases de ejemplo traducidas** | **1.881** |
 | 📚 **Libros por nivel** | **6** (portada + índice + todos los mapas del nivel en un único PDF) |
 | 🌍 **Idiomas de la explicación** | 🇪🇸 español (principal) + 🇬🇧 inglés |
 
@@ -119,8 +119,8 @@ El **MCER** (*Marco Común Europeo de Referencia para las lenguas*) divide el ap
 
 La columna **"De qué trata"** es el subtítulo del mapa: en inglés y, tras el punto, una pista en español.
 
-### 🟢 Nivel A1 · Acceso · *Beginner* (17 mapas · 287 páginas)
-Para quien empieza de cero o para los más pequeños: el alfabeto, *to be*, *have got*, el presente, plurales, artículos, posesivos, *there is*, *can*, preposiciones, adjetivos, números y la hora.
+### 🟢 Nivel A1 · Acceso · *Beginner* (18 mapas · 307 páginas)
+Para quien empieza de cero o para los más pequeños: el alfabeto, *to be*, *have got*, el presente, plurales, artículos, posesivos, *there is*, *can*, preposiciones, adjetivos, números, la hora y cómo describir a una persona.
 
 | | Mapa | De qué trata | Págs. | PDF |
 |---|---|---|:-:|:-:|
@@ -141,6 +141,7 @@ Para quien empieza de cero o para los más pequeños: el alfabeto, *to be*, *hav
 | 🕵️ | **A1-15 · What, where, who** | Question words · palabras para preguntar | 16 | [📄 PDF](pdf/A1/A1-15-question-words.pdf) |
 | 🎨 | **A1-16 · Los adjetivos** | Adjectives · cómo son las cosas | 16 | [📄 PDF](pdf/A1/A1-16-adjectives.pdf) |
 | ⏰ | **A1-17 · Números y la hora** | Numbers, dates and time · números, fechas y la hora | 17 | [📄 PDF](pdf/A1/A1-17-numbers-time.pdf) |
+| 🧒 | **A1-18 · Describir a una persona** | Describing people · cómo es una persona | 20 | [📄 PDF](pdf/A1/A1-18-describing-people.pdf) |
 
 
 ### 🔵 Nivel A2 · Plataforma · *Elementary* (14 mapas · 254 páginas)
@@ -391,7 +392,7 @@ npm install
 ### Comandos
 
 ```bash
-# Generar TODO: 65 PDF en pdf/<NIVEL>/ + 6 libros por nivel en pdf/libros/
+# Generar TODO: 66 PDF en pdf/<NIVEL>/ + 6 libros por nivel en pdf/libros/
 npm run build                       # equivale a: node tools/build.mjs all --book
 
 # Un nivel completo (y su libro)

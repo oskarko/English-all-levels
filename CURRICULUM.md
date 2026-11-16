@@ -23,6 +23,7 @@ Cada línea indica el alcance para que los conceptos no se solapen.
 | A1-15 | question-words | WHAT, WHERE, WHO… | what, where, who, when, why/because, how, how old, how many, how much, which, what time; orden pregunta (Wh + aux + sujeto + verbo) |
 | A1-16 | adjectives | LOS ADJETIVOS | posición (a big dog ✓ a dog big ✗), no tienen plural (red cars), be + adjetivo, colores, tamaños, sentimientos, very/really, opuestos |
 | A1-17 | numbers-time | NÚMEROS Y LA HORA | 1-100 escritos (ortografía: forty, ninety, eighteen), ordinales 1st-31st, fechas, What time is it?, o'clock, half past, quarter past/to, días y meses con mayúscula |
+| A1-18 | describing-people | DESCRIBIR A UNA PERSONA | describirse a uno mismo o a otra persona en 8-10 frases: BE (nombre, edad, be from, alto/bajo, carácter) vs HAVE GOT (pelo, ojos, gafas, barba), orden del pelo (long curly brown hair, hair sin s), my → his/her, I → he/she (am → is, have → has, like → likes), receta de 10 frases, escritura guiada |
 
 ## A2 — Mario un poco más adelante (9-11 años). Público infantil/juvenil.
 | ID | slug | Título | Alcance |
