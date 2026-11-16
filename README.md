@@ -87,7 +87,7 @@ Todos los mapas de un nivel en un solo PDF, con **portada, índice con números 
 
 | Nivel | Libro completo | Páginas |
 |:-:|---|:-:|
-| 🟢 **A1** | [⬇️ Nivel-A1-libro-completo.pdf](https://github.com/oskarko/English-all-levels/releases/latest/download/Nivel-A1-libro-completo.pdf) | 290 |
+| 🟢 **A1** | [⬇️ Nivel-A1-libro-completo.pdf](https://github.com/oskarko/English-all-levels/releases/latest/download/Nivel-A1-libro-completo.pdf) | 310 |
 | 🔵 **A2** | [⬇️ Nivel-A2-libro-completo.pdf](https://github.com/oskarko/English-all-levels/releases/latest/download/Nivel-A2-libro-completo.pdf) | 257 |
 | 🟠 **B1** | [⬇️ Nivel-B1-libro-completo.pdf](https://github.com/oskarko/English-all-levels/releases/latest/download/Nivel-B1-libro-completo.pdf) | 224 |
 | 🟣 **B2** | [⬇️ Nivel-B2-libro-completo.pdf](https://github.com/oskarko/English-all-levels/releases/latest/download/Nivel-B2-libro-completo.pdf) | 195 |
